@@ -1,0 +1,14 @@
+[
+  {"id": "LM07_02_carved_stair_switchback_02", "verdict": "MAJOR", "defects": ["rock mass is plain default grey, no relief", "stair is a thin black slab, reads poorly from distance", "boxy stacked blocks look unfinished"], "fix": "Give the rock warm cliff colour with relief and widen/recess the stair so the switchback reads clearly.", "original": "OK"},
+  {"id": "LM29_01_ruin_tower_stump_01", "verdict": "MINOR", "defects": ["plain tan cylinder, almost featureless", "only faint banding lines, little ruin character"], "fix": "Add broken crenellations, cracks and stone block detail to read as a ruined stump.", "original": "OK"},
+  {"id": "FR02_05_forest_ruin_05", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "VC03_01_dark_fort_ruin_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "DS05_02_oasis_rock_ring_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "TW02_06_street_life_06", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "FR03_05_cave_mouth_05", "verdict": "MINOR", "defects": ["flat uniform tan colour, no rock variation", "stacked-slab shape looks blocky"], "fix": "Vary rock colour/shading and soften the slab stack so it reads as a natural cave.", "original": "OK"},
+  {"id": "HM06_03_switchback_wall_03", "verdict": "MINOR", "defects": ["plain grey slab wall, little relief", "steps barely read on front"], "fix": "Add stone texture/colour and deepen the step cuts.", "original": "OK"},
+  {"id": "FR03_06_cave_mouth_06", "verdict": "MINOR", "defects": ["flat uniform tan colour like FR03_05", "near-duplicate silhouette of sibling"], "fix": "Differentiate shape from FR03_05 and add rock colour variation.", "original": "OK"},
+  {"id": "HL04_02_ice_cave_mouth_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP14_05_skyline_tower_05", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "RD02_01_camp_set_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

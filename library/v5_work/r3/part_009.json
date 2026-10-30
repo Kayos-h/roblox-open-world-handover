@@ -1,0 +1,14 @@
+[
+  {"id": "FR03_01_cave_mouth_01", "verdict": "MINOR", "defects": ["cave opening is small and shallow, reads more as a mossy rock stack than a mouth"], "fix": "Deepen and widen the dark front opening so the cave entrance reads clearly at distance.", "original": "OK"},
+  {"id": "PL01_01_farmhouse_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "PL01_02_farmhouse_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "PL01_04_farmhouse_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "PL02_02_hay_silo_02", "verdict": "OK", "defects": ["plain single-colour yellow bales, little relief"], "fix": "", "original": "OK"},
+  {"id": "PL02_03_hay_silo_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "PL03_01_farm_cart_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "DS01_01_adobe_house_01", "verdict": "MINOR", "defects": ["stray blue slab strip on ground at front", "scattered loose bits beside base on back view"], "fix": "Remove the detached blue ground strip and tidy the loose props so nothing floats or reads as debris.", "original": "OK"},
+  {"id": "DS01_02_adobe_house_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "DS01_05_adobe_house_05", "verdict": "MINOR", "defects": ["very plain flat white slab mass, little relief or detail vs siblings"], "fix": "Break up the large flat white walls with window/door recesses and trim so it is not a plain slab.", "original": "OK"},
+  {"id": "DS02_02_desert_market_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "DS02_03_desert_market_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

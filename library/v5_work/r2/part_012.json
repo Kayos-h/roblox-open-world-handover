@@ -1,0 +1,14 @@
+[
+  {"id": "HM05_02_cliff_gallery_02", "verdict": "MINOR", "defects": ["loose white blocks scattered on deck", "near-identical to HM05_01 sibling"], "fix": "Tidy the loose blocks and vary the stone arrangement from HM05_01.", "original": "OK"},
+  {"id": "DS07_01_hoodoo_arch_01", "verdict": "MINOR", "defects": ["arch legs nearly meet but leave a thin broken gap at the top (front)", "crumbly ragged edges"], "fix": "Close or clearly bridge the top gap so the arch reads as a continuous span (natural arch, allowed).", "original": "OK"},
+  {"id": "VG06_02_marsh_hummock_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "DS01_04_adobe_house_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "SP01_01_snow_spire_cluster_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "VC04_02_skull_city_building_02", "verdict": "MINOR", "defects": ["open-top box: roof is just exposed grey beams with no cover (both views)", "plain grey default walls"], "fix": "Close the roof with planking/tiles and apply a colour; leave beams only if ruined by intent.", "original": "OK"},
+  {"id": "LM23_03_gorge_wall_03", "verdict": "MAJOR", "defects": ["bright cyan/white flat panels set in the wall read as glowing light windows (front/close-up)"], "fix": "Recolour the cyan-white inset panels to dark recesses or stone; nothing may glow.", "original": "OK"},
+  {"id": "EV03_03_elf_path_piece_03", "verdict": "MINOR", "defects": ["plain single-colour flat plank ramp with sparse posts", "little detail for an elf path"], "fix": "Add plank relief, rails or carved elf motifs so it reads richer than a bare ramp.", "original": "OK"},
+  {"id": "DS06_04_canyon_wall_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "VG04_02_tree_birch_02", "verdict": "MINOR", "defects": ["thin white trunk (birch ok) but canopy sits as a single lollipop ball", "weak root/base"], "fix": "Break the canopy into a few clumps for a fuller birch crown.", "original": "OK"},
+  {"id": "LM25_01_ruin_gate_hero", "verdict": "MINOR", "defects": ["lintel rests unevenly on mismatched pillar heights, looks about to slip", "scattered base rubble"], "fix": "Seat the lintel squarely on both pillars and weld the loose base rubble.", "original": "OK"},
+  {"id": "FR01_02_giant_tree_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

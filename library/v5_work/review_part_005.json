@@ -1,0 +1,14 @@
+[
+  {"id": "HM08_03_cairn_shrine_03", "verdict": "OK", "defects": ["red-and-gold prayer wheel under a canopy reads well"], "fix": ""},
+  {"id": "HM08_04_cairn_shrine_04", "verdict": "OK", "defects": ["bell under a timber frame reads well"], "fix": ""},
+  {"id": "HM09_01_monastery_outpost_01", "verdict": "OK", "defects": ["tiered white-and-red monastery block, good silhouette"], "fix": ""},
+  {"id": "HM09_02_monastery_outpost_02", "verdict": "OK", "defects": ["octagonal gold-roof hall, good variety from _01"], "fix": ""},
+  {"id": "HM09_03_monastery_outpost_03", "verdict": "OK", "defects": ["two-storey monastery with balcony, reads well"], "fix": ""},
+  {"id": "HM09_04_monastery_outpost_04", "verdict": "OK", "defects": ["open pavilion with bell under a pyramid roof"], "fix": ""},
+  {"id": "NE01_01_village_sign_01", "verdict": "MAJOR", "defects": ["does not read as a village sign: a grey slab with a row of pale cylinders and a small black flag", "ambiguous silhouette, looks like an organ or crate, crude versus sibling signs"], "fix": "rebuild as a clear notice board on a post with a legible board face, matching the NE01 sign set"},
+  {"id": "NE01_02_village_sign_02", "verdict": "OK", "defects": ["board on a post with leaf motif, reads as a sign"], "fix": ""},
+  {"id": "NE01_03_village_sign_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "NE01_04_village_sign_04", "verdict": "MINOR", "defects": ["board sits on a plain tapered sand-coloured plinth that reads as a blank wedge"], "fix": "slim the base to a post or add detail so the plinth does not dominate the sign"},
+  {"id": "NE01_05_village_sign_05", "verdict": "OK", "defects": ["anchor emblem board, good harbour-sign read"], "fix": ""},
+  {"id": "NE01_06_village_sign_06", "verdict": "OK", "defects": ["coloured notice board with posters, reads well"], "fix": ""}
+]

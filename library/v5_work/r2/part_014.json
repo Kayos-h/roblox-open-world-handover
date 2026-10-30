@@ -1,0 +1,14 @@
+[
+  {"id": "LM30_01_ruined_castle_hero", "verdict": "MINOR", "defects": ["entirely plain monochrome grey, no colour or surface relief", "central keep is a featureless slab", "hero piece reads flat from distance"], "fix": "Add stone colour variation and weathering/relief, especially on the central keep.", "original": "OK"},
+  {"id": "NE01_04_village_sign_04", "verdict": "MINOR", "defects": ["sign panel is blank white, reads as empty light panel"], "fix": "Give the panel a wood/parchment colour or carved text so it reads as a sign.", "original": "OK"},
+  {"id": "LM27_01_ruin_aqueduct_arch_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "DS01_03_adobe_house_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CO03_01_reef_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "BR01_01_viaduct_bridge_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "SD02_06_desert_ruin_block_06", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CO03_03_reef_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "VG01_02_tree_tall_narrow_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM05_02_fortress_cliff_tower_02", "verdict": "MINOR", "defects": ["cliff base is plain grey faceted blocks, default colour, no rock relief"], "fix": "Give the cliff base a rock colour and relief so it does not read as default grey.", "original": "OK"},
+  {"id": "CP12_01_terrace_retaining_wall_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "DS02_01_desert_market_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

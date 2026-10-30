@@ -1,0 +1,14 @@
+[
+  {"id": "TW03_04_skull_avenue_set_04", "verdict": "MINOR", "defects": ["banner cloth clips through the pole", "thin flat banner reads as paper from distance"], "fix": "Thicken the banner slab and seat it against the pole so it does not intersect.", "original": "OK"},
+  {"id": "HL01_04_ice_spire_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "FR01_04_giant_tree_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM26_02_ruin_arena_segment_02", "verdict": "MINOR", "defects": ["small detached rubble blocks float/scatter at base (front)", "back wall faces look thin"], "fix": "Weld the loose rubble to the base or remove the floating fragments.", "original": "OK"},
+  {"id": "WT13_03_plateau_terrace_set_03", "verdict": "MAJOR", "defects": ["bright flat pale ramp slab reads as a glowing light panel", "back is a plain featureless grey wedge", "no surface relief"], "fix": "Break up the ramp and back face with step/stone relief and a muted stone colour so it no longer reads as a lit panel.", "original": "OK"},
+  {"id": "HL03_02_glacier_tongue_02", "verdict": "MINOR", "defects": ["dark near-black ice blocks among the white (front)", "scattered loose chunks"], "fix": "Recolour the black facets to pale blue ice and merge stray chunks into the mass.", "original": "OK"},
+  {"id": "RD01_04_watchtower_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "RD05_05_battlefield_prop_05", "verdict": "MAJOR", "defects": ["jumbled unreadable silhouette", "plain grey default parts with red/blue patches", "reads as a crashed heap not a battlefield prop"], "fix": "Rebuild as a clear recognisable prop (shield/banner/weapon rack) with coherent shape and colour.", "original": "OK"},
+  {"id": "BR01_02_viaduct_bridge_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "VG03_01_tree_flowering_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "WT08_02_wizard_study_set_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM03_01_frost_fortress_hero", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

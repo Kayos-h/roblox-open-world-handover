@@ -1,0 +1,14 @@
+[
+  {"id": "RW01_02_rework_existing_02", "verdict": "MAJOR", "defects": ["plain grey default boxes with no colour", "loose scattered blocks read as detached rubble", "tiny sign between two crude pillars, unclear what it is"], "fix": "rebuild as a coherent coloured ruin/signpost with grounded stones and a readable silhouette.", "original": "OK"},
+  {"id": "RW01_03_rework_existing_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "RW01_04_rework_existing_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "RW02_01_rework_world_tree_roots", "verdict": "MINOR", "defects": ["reads as a flat starfish/splayed shape rather than tree roots gripping ground", "very low, no trunk or anchor point"], "fix": "raise a central stump/boss where the roots converge so it reads as a world-tree root base, not a starfish.", "original": "OK"},
+  {"id": "NE01_02_village_sign_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "NE01_03_village_sign_03", "verdict": "MINOR", "defects": ["white board/base look like plain default slabs"], "fix": "give the board and base a painted wood/stone colour to match the other signs.", "original": "OK"},
+  {"id": "NE01_05_village_sign_05", "verdict": "OK", "defects": ["anchor emblem on board (maritime, generic)"], "fix": "", "original": "OK"},
+  {"id": "NE01_06_village_sign_06", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "NE02_03_entry_rock_pair_03", "verdict": "MINOR", "defects": ["flat single-tone tan rocks, no shading relief", "some chunks sit slightly apart (front)"], "fix": "add stone colour/shade variation and merge stray chunks into the two main masses.", "original": "OK"},
+  {"id": "EV01_02_elf_house_new_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "EV01_03_elf_house_new_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "EV01_04_elf_house_new_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

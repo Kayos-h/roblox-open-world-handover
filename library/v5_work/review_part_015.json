@@ -1,0 +1,14 @@
+[
+  {"id": "VG01_01_tree_tall_narrow_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "VG01_02_tree_tall_narrow_02", "verdict": "OK", "defects": ["near-identical to tree_tall_narrow_01"], "fix": "Vary the foliage silhouette so 01 and 02 are not recolour-identical."},
+  {"id": "VG01_03_tree_tall_narrow_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "VG02_01_tree_old_oak_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "VG02_02_tree_old_oak_02", "verdict": "OK", "defects": ["very similar to old_oak_01"], "fix": ""},
+  {"id": "VG03_01_tree_flowering_01", "verdict": "MINOR", "defects": ["pink blossom and green foliage sit as separate blotchy patches rather than blended blossom", "reads as two colours slapped on"], "fix": "Intermix smaller pink blossom clumps through the green canopy so the blossom reads natural, not patchy."},
+  {"id": "VG03_02_tree_flowering_02", "verdict": "MINOR", "defects": ["same patchy pink-on-green blotching as flowering_01"], "fix": "Blend the pink blossom clusters into the canopy rather than large flat patches."},
+  {"id": "VC02_01_skull_cliff_hero_01", "verdict": "MINOR", "defects": ["white skull sits in front of a thin stacked-slab cliff; slabs read as stacked paper", "skull jaw/teeth block floats slightly below"], "fix": "Make the cliff chunky faceted dark rock rather than thin stacked plates and seat the jaw flush to the skull."},
+  {"id": "VC02_02_skull_cliff_hero_02", "verdict": "MINOR", "defects": ["horned skull version, same thin stacked-slab cliff issue", "near recolour/variant of 01"], "fix": "Differentiate from 01 and rebuild the slab cliff as solid faceted rock."},
+  {"id": "LM04_01_fortress_rampart_step_01", "verdict": "OK", "defects": ["mostly flat grey/white, little colour relief"], "fix": ""},
+  {"id": "LM04_02_fortress_rampart_step_02", "verdict": "OK", "defects": ["near-identical to rampart_step_01"], "fix": "Give the three rampart steps distinct tower/wall arrangements so they are not recolours."},
+  {"id": "LM04_03_fortress_rampart_step_03", "verdict": "OK", "defects": ["near-identical to rampart_step_01 and 02"], "fix": "See step_02: vary the three modules."}
+]

@@ -1,0 +1,14 @@
+[
+  {"id": "HM06_02_switchback_wall_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "SD02_04_desert_ruin_block_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "HM04_02_tunnel_lining_02", "verdict": "MINOR", "defects": ["glossy black flat panels on front read as light/inverted patches", "open-box feel"], "fix": "Replace the glossy black faces with matte stone colour so the tunnel lining does not read as a black light panel.", "original": "OK"},
+  {"id": "RD05_02_battlefield_prop_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "WT01_01_wizard_tower_shell", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "DS04_01_palm_01", "verdict": "MINOR", "defects": ["near-identical in shape to DS04_02 (variety only in height)"], "fix": "Vary frond spread or trunk lean so DS04_01 and DS04_02 differ in shape, not just height.", "original": "OK"},
+  {"id": "LM02_01_world_tree_falls", "verdict": "MAJOR", "defects": ["many detached/floating stone slabs and planks around the trunk (close-up)", "broken messy geometry at base", "see-through gaps"], "fix": "Reattach or remove the loose slabs/planks around the trunk so the rock tower reads as solid instead of shattered debris.", "original": "OK"},
+  {"id": "DS04_02_palm_02", "verdict": "MINOR", "defects": ["near-identical in shape to DS04_01"], "fix": "Differentiate the frond/trunk shape from DS04_01 beyond height.", "original": "OK"},
+  {"id": "HM09_03_monastery_outpost_03", "verdict": "MINOR", "defects": ["back face is a plain white slab with little relief"], "fix": "Add windows or recessing to the rear so the back is not a blank white box.", "original": "OK"},
+  {"id": "RD02_03_camp_set_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "RD05_05_battlefield_prop_05", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "HM05_01_cliff_gallery_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

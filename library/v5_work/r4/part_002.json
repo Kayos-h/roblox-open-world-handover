@@ -1,0 +1,14 @@
+[
+  {"id": "VC04_06_skull_city_building_06", "verdict": "MAJOR", "defects": ["a roof plank overhangs far past the wall and reads as a detached floating slab (back/side)", "roof not seated on the body"], "fix": "trim the overhanging roof plank and seat the roof fully on the walls", "original": "OK"},
+  {"id": "WT13_02_plateau_terrace_set_02", "verdict": "MINOR", "defects": ["dark hollow overhang/void under the back of the terrace", "thin black gap at base"], "fix": "close the underside so the terrace reads as a solid stepped mass that rests on the ground", "original": "OK"},
+  {"id": "LM05_02_fortress_cliff_tower_02", "verdict": "MINOR", "defects": ["cliff base has thin splayed flaps/spikes flaring outward (back)", "tiny stray green speck on the rock"], "fix": "tidy the cliff base into solid rock faces and remove the stray green fleck", "original": "OK"},
+  {"id": "TW02_03_street_life_03", "verdict": "MAJOR", "defects": ["just a stack of plain tan boxes with no props or detail", "does not read as street life"], "fix": "add recognisable street props (crates, barrels, stall, signage) so it reads as a street-life set, not blank boxes", "original": "OK"},
+  {"id": "LM07_01_carved_stair_switchback_01", "verdict": "REDO", "defects": ["hollow open box with black see-through interior", "stairs float in a black void", "no solid rock mass, inverted/missing faces (both views)"], "fix": "rebuild as a solid rock mass with the switchback stair carved into a filled face, no open hollow or black interior", "original": "OK"},
+  {"id": "CP19_02_grand_bridge_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "WT13_01_plateau_terrace_set_01", "verdict": "MINOR", "defects": ["open grid/lattice deck reads as a grate with holes rather than a solid terrace top"], "fix": "fill the grid top into a solid paved deck or deepen the recesses so it reads intentional", "original": "OK"},
+  {"id": "EV01_07_elf_house_new_07", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "VC04_03_skull_city_building_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "VC04_01_skull_city_building_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "WT13_06_plateau_terrace_set_06", "verdict": "MINOR", "defects": ["central lantern reads as emissive/glowing yellow in the close-up (no-glow rule)"], "fix": "darken the lantern glass to a flat warm tone with no emissive glow", "original": "OK"},
+  {"id": "EV03_03_elf_path_piece_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

@@ -1,0 +1,14 @@
+[
+  {"id": "HM05_02_cliff_gallery_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM08_01_mountain_span_bridge", "verdict": "MINOR", "defects": ["black see-through gaps between deck planks"], "fix": "Close or darken the gaps between the deck boards so the span does not read as see-through.", "original": "OK"},
+  {"id": "CP08_01_water_gate", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM22_01_colossal_fall_cliff_hero", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "TW01_01_town1_hero_statue", "verdict": "MINOR", "defects": ["figure is crude; face/robe vague from front", "white cloth/cape reads a bit loose"], "fix": "Sharpen the robe and head forms and tuck the white cape so the statue reads clearly from the front as well as the back.", "original": "OK"},
+  {"id": "NE01_01_village_sign_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "WT13_04_plateau_terrace_set_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM30_01_ruined_castle_hero", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "WT03_01_wizard_bookshelf_curved_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "NE01_04_village_sign_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM12_02_temple_stair_down_02", "verdict": "MINOR", "defects": ["back face is a plain dark slab with black stripes", "little relief on rear"], "fix": "Add some stone relief or recessing on the rear face so the back is not a flat striped slab.", "original": "OK"},
+  {"id": "NE02_02_entry_rock_pair_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

@@ -1,0 +1,54 @@
+[
+ {
+  "id": "CO02_01_sea_stack_01",
+  "category": "v5_coast"
+ },
+ {
+  "id": "CO02_02_sea_stack_02",
+  "category": "v5_coast"
+ },
+ {
+  "id": "CO02_03_sea_stack_03",
+  "category": "v5_coast"
+ },
+ {
+  "id": "LM25_01_ruin_gate_hero",
+  "category": "v5_landmarks"
+ },
+ {
+  "id": "VG02_02_tree_old_oak_02",
+  "category": "v5_forest"
+ },
+ {
+  "id": "WT03_02_wizard_bookshelf_curved_02",
+  "category": "v5_wizard"
+ },
+ {
+  "id": "WT03_03_wizard_bookshelf_curved_03",
+  "category": "v5_wizard"
+ },
+ {
+  "id": "WT04_01_wizard_bookshelf_straight_01",
+  "category": "v5_wizard"
+ },
+ {
+  "id": "WT04_02_wizard_bookshelf_straight_02",
+  "category": "v5_wizard"
+ },
+ {
+  "id": "WT13_01_plateau_terrace_set_01",
+  "category": "v5_wizard"
+ },
+ {
+  "id": "WT13_02_plateau_terrace_set_02",
+  "category": "v5_wizard"
+ },
+ {
+  "id": "WT13_03_plateau_terrace_set_03",
+  "category": "v5_wizard"
+ },
+ {
+  "id": "RW01_01_rework_existing_01",
+  "category": "v5_rework"
+ }
+]

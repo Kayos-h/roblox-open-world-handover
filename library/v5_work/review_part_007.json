@@ -1,0 +1,14 @@
+[
+  {"id": "CP04_01_tower_round_cone_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP04_02_tower_round_cone_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP04_03_tower_round_cone_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP04_04_tower_round_cone_04", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP05_01_turret_crenellated_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP05_02_turret_crenellated_02", "verdict": "MAJOR", "defects": ["thin black posts/spikes poking up through the red cone roof rim", "look detached and clip the roof"], "fix": "remove the stray dark vertical bars at the roof rim or seat them as proper finials; do not let them clip the cone"},
+  {"id": "CP06_01_gate_flank_tower_01", "verdict": "MINOR", "defects": ["red banner sits slightly off the wall face"], "fix": "snap the banner flush to the tower wall so it is not floating"},
+  {"id": "CP06_02_gate_flank_tower_02", "verdict": "MINOR", "defects": ["banner slightly detached from wall"], "fix": "attach the banner flush to the wall"},
+  {"id": "CP07_01_gatehouse_main", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP08_01_water_gate", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP09_01_keep_terrace_hero", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP10_01_keep_wing_01", "verdict": "OK", "defects": [], "fix": ""}
+]

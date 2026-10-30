@@ -1,0 +1,10 @@
+[
+  {"id": "HB01_01_harbour_wall_tower_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "HB01_02_harbour_wall_tower_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "HB01_03_harbour_wall_tower_03", "verdict": "MINOR", "defects": ["plain flat grey box, little relief", "reads slightly bland/default"], "fix": "Add stone colour/trim or corner detail so it is not a flat grey cube with two windows."},
+  {"id": "VL01_01_village_church_spire", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "RW01_01_rework_existing_01", "verdict": "MAJOR", "defects": ["crude stack of offset coloured slabs", "silhouette does not read as a clear structure", "slabs look loosely piled/unstable"], "fix": "Rebuild as a coherent tower/mesa with aligned, connected courses instead of randomly offset flat slabs."},
+  {"id": "RW01_02_rework_existing_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "RW01_03_rework_existing_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "RW01_04_rework_existing_04", "verdict": "OK", "defects": [], "fix": ""}
+]

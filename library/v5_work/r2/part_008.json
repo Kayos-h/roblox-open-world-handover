@@ -1,0 +1,14 @@
+[
+  {"id": "SD02_05_desert_ruin_block_05", "verdict": "MINOR", "defects": ["plain tan boxes on a flat base slab", "little ruin detail"], "fix": "Add broken edges, fallen blocks or carved relief so it reads as a ruin rather than stacked plain boxes.", "original": "OK"},
+  {"id": "PL06_01_rock_arch_natural_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM16_01_ring_temple_segment_01", "verdict": "MAJOR", "defects": ["huge blank flat tan slab/plinth with no relief", "columns bunched at one corner with stubby fins protruding from the underside", "does not read as a ring temple segment (same defect as sibling LM16_02)"], "fix": "Rebuild as a readable curved temple segment with evenly spaced columns and surface relief, and remove the loose fins under the base.", "original": "OK"},
+  {"id": "RD06_02_abandoned_house_02", "verdict": "MINOR", "defects": ["very dark near-black timber reads close to a default dark grey"], "fix": "Lighten/vary the timber tone so it reads as weathered wood rather than a flat dark slab.", "original": "OK"},
+  {"id": "DS07_04_hoodoo_arch_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "PL03_02_farm_cart_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "HM08_02_cairn_shrine_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM01_01_world_tree_trunk_door", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "DS03_02_caravan_wagon_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP18_02_quay_wall_02", "verdict": "MINOR", "defects": ["dark horizontal stripes between stone courses on the back face (overlapping faces)"], "fix": "Remove the overlapping-face stripes along the back courses.", "original": "OK"},
+  {"id": "CP06_01_gate_flank_tower_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP03_01_ring_wall_stair_end_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

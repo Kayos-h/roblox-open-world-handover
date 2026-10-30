@@ -1,0 +1,14 @@
+[
+  {"id": "RD01_01_watchtower_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "RD02_04_camp_set_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "RD03_01_waystation_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "RD03_02_waystation_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "RD04_01_trading_post_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "RD04_02_trading_post_02", "verdict": "MINOR", "defects": ["very similar body to RD03_02/RD04_01, varies mainly in stall colour not shape"], "fix": "Differentiate the building form or roof so it is not a near-recolour of the other waystation/trading posts.", "original": "OK"},
+  {"id": "RD06_04_abandoned_house_04", "verdict": "OK", "defects": ["collapsed roof debris at side"], "fix": "", "original": "OK"},
+  {"id": "VG01_01_tree_tall_narrow_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "VG01_03_tree_tall_narrow_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "VG02_01_tree_old_oak_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "VG02_02_tree_old_oak_02", "verdict": "MINOR", "defects": ["very similar to VG02_01, differs mostly in canopy size"], "fix": "Vary trunk/branch arrangement so the two old oaks read as distinct trees.", "original": "OK"},
+  {"id": "VG05_01_tree_cypress_swamp_01", "verdict": "MINOR", "defects": ["thin detached root/hanging strands float below canopy on back view"], "fix": "Attach or remove the floating hanging roots so nothing is detached.", "original": "OK"}
+]

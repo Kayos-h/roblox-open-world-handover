@@ -1,0 +1,14 @@
+[
+  {"id": "PL01_03_farmhouse_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "PL01_04_farmhouse_04", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "PL02_01_hay_silo_01", "verdict": "MINOR", "defects": ["reads as hay sheaves/stooks, not a silo (naming/concept mismatch)"], "fix": "Fine as a grain-sheaf prop; relabel or add a silo variant if a true silo is needed."},
+  {"id": "PL02_02_hay_silo_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "PL02_03_hay_silo_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "PL03_01_farm_cart_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "PL03_02_farm_cart_02", "verdict": "MINOR", "defects": ["near-identical to farm_cart_01 (empty vs loaded only difference)"], "fix": "Vary the cart shape or add distinct cargo so the pair isn't a recolour."},
+  {"id": "PL04_01_mill_waterwheel", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "PL05_01_ruined_watchtower_plains_01", "verdict": "MINOR", "defects": ["floating broken-top chunks above the rim"], "fix": "Attach the broken crenellation debris to the wall top."},
+  {"id": "PL05_02_ruined_watchtower_plains_02", "verdict": "MAJOR", "defects": ["plain cream rectangular box with windows, square silhouette", "crude, does not read as a round ruined watchtower"], "fix": "Rebuild as a round/battered tower with eroded broken top and surface relief instead of a flat box."},
+  {"id": "PL05_03_ruined_watchtower_plains_03", "verdict": "MINOR", "defects": ["looks intact/new with a clean red cone roof, not ruined as the id states"], "fix": "Add damage (broken roof edge, cracks, missing crenellations) to match the 'ruined' concept, or relabel as an intact watchtower."},
+  {"id": "PL06_01_rock_arch_natural_01", "verdict": "MINOR", "defects": ["flat grey rock, little colour variation"], "fix": "Add warm/earth tone variation and relief so it reads as weathered stone, not grey default."}
+]

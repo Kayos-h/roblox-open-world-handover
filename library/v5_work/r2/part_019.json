@@ -1,0 +1,8 @@
+[
+  {"id": "LM19_02_crater_rim_rock_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "DS04_03_palm_03", "verdict": "MINOR", "defects": ["very thin trunk with sparse drooping fronds reads as spindly", "faint stray geometry near the trunk base (front)"], "fix": "Thicken the trunk a little and fill out the frond crown so the palm does not read as a bare pole.", "original": "OK"},
+  {"id": "EV03_06_elf_path_piece_06", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM12_02_temple_stair_down_02", "verdict": "MINOR", "defects": ["deep recessed stair sides render very dark (self-shadow in the slot)", "layered block form is plain outside the stair"], "fix": "Lighten/open the recess a touch and add minor relief to the plain outer blocks; stair itself reads fine.", "original": "OK"},
+  {"id": "CO05_03_ruin_islet_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP05_02_turret_crenellated_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

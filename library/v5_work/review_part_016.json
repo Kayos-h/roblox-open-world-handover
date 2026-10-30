@@ -1,0 +1,14 @@
+[
+  {"id": "LM05_01_fortress_cliff_tower_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "LM05_02_fortress_cliff_tower_02", "verdict": "MINOR", "defects": ["thin stick-like flag/beam pokes out of side", "rock base reads as plain grey slab"], "fix": "Remove or thicken the stray side beam and add facet variation to the base rock."},
+  {"id": "LM06_01_fortress_tunnel_gate", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "LM07_01_carved_stair_switchback_01", "verdict": "MAJOR", "defects": ["carved stair is not readable; looks like a plain rock mound", "no visible steps or switchback"], "fix": "Cut clear stepped switchback flights into the rock face so the staircase reads from 30-60 studs."},
+  {"id": "LM07_02_carved_stair_switchback_02", "verdict": "MAJOR", "defects": ["steps barely readable, reads as a rough rock pile", "silhouette does not say stair"], "fix": "Add defined step treads and a landing so the carved switchback is legible."},
+  {"id": "LM08_01_mountain_span_bridge", "verdict": "MAJOR", "defects": ["deck is broken/gappy, pieces look detached and floating", "no continuous walkable span", "tiny scattered posts read as debris"], "fix": "Rebuild a continuous solid deck with connected rails/supports so it reads as a crossable bridge."},
+  {"id": "LM23_01_gorge_wall_01", "verdict": "OK", "defects": ["grass caps slightly float at a few spots"], "fix": ""},
+  {"id": "LM23_02_gorge_wall_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "LM23_03_gorge_wall_03", "verdict": "MAJOR", "defects": ["thin flat bright-white waterfall slab clips through the wall as a glowing vertical bar", "slab is a single flat panel with no relief"], "fix": "Replace the flat white bar with a recessed stepped water chute in muted blue, seated into the rock, no flat glowing panel."},
+  {"id": "LM24_01_fall_pool_rock_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "LM24_02_fall_pool_rock_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "LM24_03_fall_pool_rock_03", "verdict": "OK", "defects": [], "fix": ""}
+]

@@ -1,0 +1,14 @@
+[
+  {"id": "HM08_01_cairn_shrine_01", "verdict": "MINOR", "defects": ["stacked slates are plain default-grey", "flag is a flat black/blue/green panel"], "fix": "Give the stacked stones a rock colour and the flag a simpler cloth colour so it does not read as a flat screen.", "original": "OK"},
+  {"id": "HM08_03_cairn_shrine_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "HM08_04_cairn_shrine_04", "verdict": "OK", "defects": ["gold bell is bright but not glowing"], "fix": "", "original": "OK"},
+  {"id": "HM09_01_monastery_outpost_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "HM09_02_monastery_outpost_02", "verdict": "OK", "defects": ["gold roof finial renders bright; verify it is not emissive"], "fix": "", "original": "OK"},
+  {"id": "HM09_03_monastery_outpost_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "HM09_04_monastery_outpost_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "FR01_01_giant_tree_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "FR02_01_forest_ruin_01", "verdict": "MINOR", "defects": ["ruin stone is plain default-grey, no colour relief", "foliage reads fine"], "fix": "Colour the stone blocks (weathered stone) so they are not grey blockout.", "original": "OK"},
+  {"id": "FR02_02_forest_ruin_02", "verdict": "MINOR", "defects": ["plain grey stone steps/blocks", "similar to FR02 siblings"], "fix": "Add stone colour/material and vary the arrangement from the other FR02 ruins.", "original": "OK"},
+  {"id": "FR02_03_forest_ruin_03", "verdict": "MINOR", "defects": ["plain grey stone blocks, no relief"], "fix": "Colour the ruin stone so it is not default grey.", "original": "OK"},
+  {"id": "FR02_04_forest_ruin_04", "verdict": "MAJOR", "defects": ["plain grey stone", "bright gold candle/finial tip reads as a glow among the foliage"], "fix": "Colour the stone and tone down the gold tip so nothing reads as glowing.", "original": "OK"}
+]

@@ -1,0 +1,14 @@
+[
+  {"id": "RD01_01_watchtower_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "RD01_02_watchtower_02", "verdict": "MINOR", "defects": ["plain featureless box, open/hollow top", "no roof or crenellation detail"], "fix": "Cap the open top and add a simple roof or crenellation so it does not read as a bare box."},
+  {"id": "RD01_03_watchtower_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "RD01_04_watchtower_04", "verdict": "MINOR", "defects": ["plain box walls with floating broken-crenellation chunks on top"], "fix": "Anchor the broken battlement pieces to the wall top so none appear detached, and add slight wall relief."},
+  {"id": "RD02_01_camp_set_01", "verdict": "MINOR", "defects": ["identical geometry to RD02_02/03, only recolored (variety)"], "fix": "Differentiate the three tents by shape (size, awning, flap) instead of colour only."},
+  {"id": "RD02_02_camp_set_02", "verdict": "MINOR", "defects": ["recolor of RD02_01 (variety)"], "fix": "Give it distinct geometry from the other tents, not just a red skin."},
+  {"id": "RD02_03_camp_set_03", "verdict": "MINOR", "defects": ["recolor of RD02_01 (variety)"], "fix": "Give it distinct geometry from the other tents, not just a blue skin."},
+  {"id": "RD02_04_camp_set_04", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "RD02_05_camp_set_05", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "RD02_06_camp_set_06", "verdict": "MINOR", "defects": ["dark gap/hole at bottom-front of the barrel"], "fix": "Close the end cap so there is no see-through black gap at the barrel foot."},
+  {"id": "RD03_01_waystation_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "RD03_02_waystation_02", "verdict": "OK", "defects": [], "fix": ""}
+]

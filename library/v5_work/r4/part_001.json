@@ -1,0 +1,14 @@
+[
+  {"id": "HM08_03_cairn_shrine_03", "verdict": "MAJOR", "defects": ["roof sits on thin corner posts with wide open gap to the drum body", "reads as floating roof"], "fix": "close the gap between roof and drum or add walls/brackets so the roof visibly connects to the body", "original": "OK"},
+  {"id": "HB01_01_harbour_wall_tower_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "HM01_03_rope_suspension_bridge_03", "verdict": "MINOR", "defects": ["deck very thin and spindly for a 129-stud span"], "fix": "thicken the deck planks and railings so it reads solid from 30-60 studs", "original": "OK"},
+  {"id": "VC04_02_skull_city_building_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM07_02_carved_stair_switchback_02", "verdict": "REDO", "defects": ["hollow open box with black see-through interior", "stairs float inside a black void", "no solid rock mass, inverted/missing faces (both views)"], "fix": "rebuild as a solid rock mass with the switchback stair carved into a filled face, no open hollow and no black interior", "original": "OK"},
+  {"id": "HM06_03_switchback_wall_03", "verdict": "MINOR", "defects": ["reads as loose stacked blocks rather than a continuous switchback wall", "no clear path/step line"], "fix": "tie the blocks into a continuous stepped wall with a readable switchback path", "original": "OK"},
+  {"id": "SP01_04_snow_spire_cluster_04", "verdict": "MINOR", "defects": ["spire very thin and needle-like for a 168-stud height, base rocks small relative to it"], "fix": "widen the spire base and stagger the rock cluster so the tall spike reads as stable", "original": "OK"},
+  {"id": "RD06_02_abandoned_house_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM21_01_floating_rock_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "RD06_05_abandoned_house_05", "verdict": "MAJOR", "defects": ["roof tiles jumbled and some appear detached/floating above the frame (front)", "reads as a messy pile rather than a collapsed-roof ruin"], "fix": "reseat the roof planks onto the frame as a partially collapsed but connected roof, remove floating tiles", "original": "OK"},
+  {"id": "PL03_01_farm_cart_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CO03_02_reef_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

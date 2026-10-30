@@ -1,0 +1,5172 @@
+[
+ {
+  "id": "CP01_01_ring_wall_straight_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_006.json",
+  "auto_flags": [],
+  "tris": 1108,
+  "worker": "vd"
+ },
+ {
+  "id": "CP01_02_ring_wall_straight_02",
+  "verdict": "MINOR",
+  "defects": [
+   "near-identical recolour of 01/03, only arrow-slits differ"
+  ],
+  "fix": "vary string-course or merlon spacing so siblings are not clones",
+  "scores": null,
+  "part": "review_part_006.json",
+  "auto_flags": [],
+  "tris": 1204,
+  "worker": "vd"
+ },
+ {
+  "id": "CP01_03_ring_wall_straight_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_006.json",
+  "auto_flags": [],
+  "tris": 1460,
+  "worker": "vd"
+ },
+ {
+  "id": "CP02_01_ring_wall_corner_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_006.json",
+  "auto_flags": [],
+  "tris": 3376,
+  "worker": "vd"
+ },
+ {
+  "id": "CP02_02_ring_wall_corner_02",
+  "verdict": "MAJOR",
+  "defects": [
+   "detached floating black posts (window bars) hovering in empty air beside the wall",
+   "gap between tower and wall"
+  ],
+  "fix": "reattach the arrow-slit bars to the wall face and close the gap between the round tower and the straight run",
+  "scores": null,
+  "part": "review_part_006.json",
+  "auto_flags": [],
+  "tris": 3568,
+  "worker": "vd"
+ },
+ {
+  "id": "CP02_03_ring_wall_corner_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_006.json",
+  "auto_flags": [],
+  "tris": 3376,
+  "worker": "vd"
+ },
+ {
+  "id": "CP03_01_ring_wall_stair_end_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_006.json",
+  "auto_flags": [],
+  "tris": 2596,
+  "worker": "vd"
+ },
+ {
+  "id": "CP03_02_ring_wall_stair_end_02",
+  "verdict": "MINOR",
+  "defects": [
+   "small stray stick/plank poking out of right merlon"
+  ],
+  "fix": "remove the stray thin bar protruding from the top-right crenellation",
+  "scores": null,
+  "part": "review_part_006.json",
+  "auto_flags": [],
+  "tris": 2596,
+  "worker": "vd"
+ },
+ {
+  "id": "CP04_01_tower_round_cone_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_007.json",
+  "auto_flags": [],
+  "tris": 2832,
+  "worker": "vd"
+ },
+ {
+  "id": "CP04_02_tower_round_cone_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_007.json",
+  "auto_flags": [],
+  "tris": 2952,
+  "worker": "vd"
+ },
+ {
+  "id": "CP04_03_tower_round_cone_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_007.json",
+  "auto_flags": [
+   "SIZE width 31 vs 22",
+   "SIZE depth 31 vs 22"
+  ],
+  "tris": 2832,
+  "worker": "vd"
+ },
+ {
+  "id": "CP04_04_tower_round_cone_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_007.json",
+  "auto_flags": [
+   "SIZE width 37 vs 22",
+   "SIZE depth 37 vs 22",
+   "SIZE height 59.1 vs 48"
+  ],
+  "tris": 2952,
+  "worker": "vd"
+ },
+ {
+  "id": "CP05_01_turret_crenellated_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_007.json",
+  "auto_flags": [],
+  "tris": 1800,
+  "worker": "vd"
+ },
+ {
+  "id": "CP05_02_turret_crenellated_02",
+  "verdict": "MAJOR",
+  "defects": [
+   "thin black posts/spikes poking up through the red cone roof rim",
+   "look detached and clip the roof"
+  ],
+  "fix": "remove the stray dark vertical bars at the roof rim or seat them as proper finials; do not let them clip the cone",
+  "scores": null,
+  "part": "review_part_007.json",
+  "auto_flags": [],
+  "tris": 1754,
+  "worker": "vd"
+ },
+ {
+  "id": "CP06_01_gate_flank_tower_01",
+  "verdict": "MINOR",
+  "defects": [
+   "red banner sits slightly off the wall face"
+  ],
+  "fix": "snap the banner flush to the tower wall so it is not floating",
+  "scores": null,
+  "part": "review_part_007.json",
+  "auto_flags": [],
+  "tris": 3288,
+  "worker": "vd"
+ },
+ {
+  "id": "CP06_02_gate_flank_tower_02",
+  "verdict": "MINOR",
+  "defects": [
+   "banner slightly detached from wall"
+  ],
+  "fix": "attach the banner flush to the wall",
+  "scores": null,
+  "part": "review_part_007.json",
+  "auto_flags": [],
+  "tris": 3492,
+  "worker": "vd"
+ },
+ {
+  "id": "CP07_01_gatehouse_main",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_007.json",
+  "auto_flags": [],
+  "tris": 3116,
+  "worker": "vd"
+ },
+ {
+  "id": "CP08_01_water_gate",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_007.json",
+  "auto_flags": [],
+  "tris": 3764,
+  "worker": "vd"
+ },
+ {
+  "id": "CP09_01_keep_terrace_hero",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_007.json",
+  "auto_flags": [],
+  "tris": 44260,
+  "worker": "vd"
+ },
+ {
+  "id": "CP10_01_keep_wing_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_007.json",
+  "auto_flags": [],
+  "tris": 10416,
+  "worker": "vd"
+ },
+ {
+  "id": "CP10_02_keep_wing_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_008.json",
+  "auto_flags": [],
+  "tris": 9858,
+  "worker": "vd"
+ },
+ {
+  "id": "CP11_01_great_hall_chapel_01",
+  "verdict": "MAJOR",
+  "defects": [
+   "detached dark-red gable triangle floating above the roof ridge"
+  ],
+  "fix": "seat the loose red gable/dormer piece onto the roof or delete it; no floating parts",
+  "scores": null,
+  "part": "review_part_008.json",
+  "auto_flags": [],
+  "tris": 9706,
+  "worker": "vd"
+ },
+ {
+  "id": "CP11_02_great_hall_chapel_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_008.json",
+  "auto_flags": [],
+  "tris": 5942,
+  "worker": "vd"
+ },
+ {
+  "id": "CP12_01_terrace_retaining_wall_01",
+  "verdict": "MAJOR",
+  "defects": [
+   "blocky square two-tone camo colour patches across the wall face",
+   "flat bright-green cap strip looks like a grass slab, not stone coping"
+  ],
+  "fix": "replace the random square patches with a single stone colour and subtle relief; recolour the green cap to stone coping",
+  "scores": null,
+  "part": "review_part_008.json",
+  "auto_flags": [],
+  "tris": 1052,
+  "worker": "vd"
+ },
+ {
+  "id": "CP12_02_terrace_retaining_wall_02",
+  "verdict": "MINOR",
+  "defects": [
+   "flat bright-green cap strip on top",
+   "plain banded slabs with little relief"
+  ],
+  "fix": "recolour the green coping to stone; add a chamfer or course line for relief",
+  "scores": null,
+  "part": "review_part_008.json",
+  "auto_flags": [],
+  "tris": 708,
+  "worker": "vd"
+ },
+ {
+  "id": "CP13_01_grand_stair_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_008.json",
+  "auto_flags": [],
+  "tris": 5564,
+  "worker": "vd"
+ },
+ {
+  "id": "CP13_02_grand_stair_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_008.json",
+  "auto_flags": [],
+  "tris": 6220,
+  "worker": "vd"
+ },
+ {
+  "id": "CP14_01_skyline_tower_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_008.json",
+  "auto_flags": [],
+  "tris": 1402,
+  "worker": "vd"
+ },
+ {
+  "id": "CP14_02_skyline_tower_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_008.json",
+  "auto_flags": [],
+  "tris": 1776,
+  "worker": "vd"
+ },
+ {
+  "id": "CP14_03_skyline_tower_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_008.json",
+  "auto_flags": [],
+  "tris": 2760,
+  "worker": "vd"
+ },
+ {
+  "id": "CP14_04_skyline_tower_04",
+  "verdict": "MINOR",
+  "defects": [
+   "thin detached antenna/rail bits on the top deck read as stray"
+  ],
+  "fix": "attach the rooftop rail/antenna pieces to the deck so none float",
+  "scores": null,
+  "part": "review_part_008.json",
+  "auto_flags": [],
+  "tris": 898,
+  "worker": "vd"
+ },
+ {
+  "id": "CP14_05_skyline_tower_05",
+  "verdict": "MINOR",
+  "defects": [
+   "teal/green patch on the water tank vs timber/stone palette"
+  ],
+  "fix": "recolour the tank patch to match the wood/metal tank body",
+  "scores": null,
+  "part": "review_part_008.json",
+  "auto_flags": [],
+  "tris": 1394,
+  "worker": "vd"
+ },
+ {
+  "id": "CP15_01_order_hq_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_009.json",
+  "auto_flags": [],
+  "tris": 12780,
+  "worker": "vd"
+ },
+ {
+  "id": "CP15_02_order_hq_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_009.json",
+  "auto_flags": [],
+  "tris": 10578,
+  "worker": "vd"
+ },
+ {
+  "id": "CP15_03_order_hq_03",
+  "verdict": "MAJOR",
+  "defects": [
+   "crude low-detail octagonal grey block, far below sibling landmark quality",
+   "large detached brown box floating in front of it"
+  ],
+  "fix": "rebuild to match CP15_01/02 detail (proper facade, roof, trim) and remove or integrate the stray brown box",
+  "scores": null,
+  "part": "review_part_009.json",
+  "auto_flags": [],
+  "tris": 2136,
+  "worker": "vd"
+ },
+ {
+  "id": "CP16_01_townhouse_new_01",
+  "verdict": "MINOR",
+  "defects": [
+   "door canopy sits slightly off the facade"
+  ],
+  "fix": "snap the entry canopy flush to the wall",
+  "scores": null,
+  "part": "review_part_009.json",
+  "auto_flags": [],
+  "tris": 9112,
+  "worker": "vd"
+ },
+ {
+  "id": "CP16_02_townhouse_new_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_009.json",
+  "auto_flags": [],
+  "tris": 5958,
+  "worker": "vd"
+ },
+ {
+  "id": "CP16_03_townhouse_new_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_009.json",
+  "auto_flags": [],
+  "tris": 5958,
+  "worker": "vd"
+ },
+ {
+  "id": "CP16_04_townhouse_new_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_009.json",
+  "auto_flags": [
+   "TRIS 12304 > 11000"
+  ],
+  "tris": 12304,
+  "worker": "vd"
+ },
+ {
+  "id": "CP16_05_townhouse_new_05",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_009.json",
+  "auto_flags": [
+   "TRIS 12304 > 11000"
+  ],
+  "tris": 12304,
+  "worker": "vd"
+ },
+ {
+  "id": "CP16_06_townhouse_new_06",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_009.json",
+  "auto_flags": [],
+  "tris": 3980,
+  "worker": "vd"
+ },
+ {
+  "id": "CP16_07_townhouse_new_07",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_009.json",
+  "auto_flags": [],
+  "tris": 3980,
+  "worker": "vd"
+ },
+ {
+  "id": "CP16_08_townhouse_new_08",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_009.json",
+  "auto_flags": [],
+  "tris": 5584,
+  "worker": "vd"
+ },
+ {
+  "id": "CP16_09_townhouse_new_09",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_009.json",
+  "auto_flags": [],
+  "tris": 5614,
+  "worker": "vd"
+ },
+ {
+  "id": "CP16_10_townhouse_new_10",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_010.json",
+  "auto_flags": [],
+  "tris": 5452,
+  "worker": "vd"
+ },
+ {
+  "id": "CP16_11_townhouse_new_11",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_010.json",
+  "auto_flags": [],
+  "tris": 1038,
+  "worker": "vd"
+ },
+ {
+  "id": "CP16_12_townhouse_new_12",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_010.json",
+  "auto_flags": [],
+  "tris": 9112,
+  "worker": "vd"
+ },
+ {
+  "id": "CP17_01_plaza_features_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_010.json",
+  "auto_flags": [],
+  "tris": 1162,
+  "worker": "vd"
+ },
+ {
+  "id": "CP17_02_plaza_features_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_010.json",
+  "auto_flags": [],
+  "tris": 776,
+  "worker": "vd"
+ },
+ {
+  "id": "CP18_01_quay_wall_01",
+  "verdict": "MAJOR",
+  "defects": [
+   "blocky square two-tone camo colour patches (cream/lilac checker) across the wall face"
+  ],
+  "fix": "replace the random square patches with one stone colour; add bollards/course as relief instead of colour noise",
+  "scores": null,
+  "part": "review_part_010.json",
+  "auto_flags": [],
+  "tris": 556,
+  "worker": "vd"
+ },
+ {
+  "id": "CP18_02_quay_wall_02",
+  "verdict": "MINOR",
+  "defects": [
+   "plain curved slab, little relief"
+  ],
+  "fix": "add a coping course or subtle stone banding",
+  "scores": null,
+  "part": "review_part_010.json",
+  "auto_flags": [],
+  "tris": 272,
+  "worker": "vd"
+ },
+ {
+  "id": "CP18_03_quay_wall_03",
+  "verdict": "MAJOR",
+  "defects": [
+   "blocky square two-tone camo colour patches on wall",
+   "stair reads as flat recolour"
+  ],
+  "fix": "unify to one stone colour and model the steps with real risers rather than painted patches",
+  "scores": null,
+  "part": "review_part_010.json",
+  "auto_flags": [],
+  "tris": 680,
+  "worker": "vd"
+ },
+ {
+  "id": "CP18_04_quay_wall_04",
+  "verdict": "MAJOR",
+  "defects": [
+   "blocky square two-tone camo colour patches across the wall face"
+  ],
+  "fix": "unify to a single stone colour; keep the chimney/bollard detail as geometry",
+  "scores": null,
+  "part": "review_part_010.json",
+  "auto_flags": [],
+  "tris": 692,
+  "worker": "vd"
+ },
+ {
+  "id": "CP19_01_grand_bridge_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_010.json",
+  "auto_flags": [],
+  "tris": 5040,
+  "worker": "vd"
+ },
+ {
+  "id": "CP19_02_grand_bridge_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_010.json",
+  "auto_flags": [],
+  "tris": 4120,
+  "worker": "vd"
+ },
+ {
+  "id": "LM01_01_world_tree_trunk_door",
+  "verdict": "MAJOR",
+  "defects": [
+   "splayed root buttresses are thin spiky planks with large see-through gaps between them",
+   "trunk base reads hollow/holed",
+   "top is an open flat green rim (hollow trunk cap)"
+  ],
+  "fix": "thicken and merge the roots into a solid flared base with no gaps, close the trunk top, and make the door a clear recessed opening rather than a hollow",
+  "scores": null,
+  "part": "review_part_010.json",
+  "auto_flags": [],
+  "tris": 3004,
+  "worker": "ve"
+ },
+ {
+  "id": "LM02_01_world_tree_falls",
+  "verdict": "REDO",
+  "defects": [
+   "waterfalls are flat bright white+cyan vertical slabs that read as glowing light panels, not water",
+   "no-glow rule violation",
+   "body reads as a random rubble stone stack, not a tree trunk with falls",
+   "window-like openings look like lit doors"
+  ],
+  "fix": "Rebuild as a believable tree-trunk cliff; make the falls thin layered translucent/pale-blue stepped water with foam at the base and NO emissive bright panels.",
+  "scores": null,
+  "part": "review_part_011.json",
+  "auto_flags": [],
+  "tris": 5304,
+  "worker": "ve"
+ },
+ {
+  "id": "LM03_01_frost_fortress_hero",
+  "verdict": "MAJOR",
+  "defects": [
+   "mountain backdrop is a chaotic stack of thin flat slabs with floating/jutting plates and a messy broken silhouette",
+   "slabs read as stacked paper, not snow rock",
+   "castle itself is good but overwhelmed by the crude massif"
+  ],
+  "fix": "Rebuild the mountain as chunky faceted snow-rock masses instead of thin stacked slabs; keep the castle and settle slabs so none float.",
+  "scores": null,
+  "part": "review_part_013.json",
+  "auto_flags": [],
+  "tris": 48568,
+  "worker": "vf"
+ },
+ {
+  "id": "LM04_01_fortress_rampart_step_01",
+  "verdict": "OK",
+  "defects": [
+   "mostly flat grey/white, little colour relief"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_015.json",
+  "auto_flags": [],
+  "tris": 5528,
+  "worker": "vg"
+ },
+ {
+  "id": "LM04_02_fortress_rampart_step_02",
+  "verdict": "OK",
+  "defects": [
+   "near-identical to rampart_step_01"
+  ],
+  "fix": "Give the three rampart steps distinct tower/wall arrangements so they are not recolours.",
+  "scores": null,
+  "part": "review_part_015.json",
+  "auto_flags": [],
+  "tris": 5432,
+  "worker": "vg"
+ },
+ {
+  "id": "LM04_03_fortress_rampart_step_03",
+  "verdict": "OK",
+  "defects": [
+   "near-identical to rampart_step_01 and 02"
+  ],
+  "fix": "See step_02: vary the three modules.",
+  "scores": null,
+  "part": "review_part_015.json",
+  "auto_flags": [],
+  "tris": 5528,
+  "worker": "vg"
+ },
+ {
+  "id": "LM05_01_fortress_cliff_tower_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_016.json",
+  "auto_flags": [],
+  "tris": 2996,
+  "worker": "vg"
+ },
+ {
+  "id": "LM05_02_fortress_cliff_tower_02",
+  "verdict": "MINOR",
+  "defects": [
+   "thin stick-like flag/beam pokes out of side",
+   "rock base reads as plain grey slab"
+  ],
+  "fix": "Remove or thicken the stray side beam and add facet variation to the base rock.",
+  "scores": null,
+  "part": "review_part_016.json",
+  "auto_flags": [],
+  "tris": 984,
+  "worker": "vg"
+ },
+ {
+  "id": "LM06_01_fortress_tunnel_gate",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_016.json",
+  "auto_flags": [],
+  "tris": 1964,
+  "worker": "vg"
+ },
+ {
+  "id": "LM07_01_carved_stair_switchback_01",
+  "verdict": "MAJOR",
+  "defects": [
+   "carved stair is not readable; looks like a plain rock mound",
+   "no visible steps or switchback"
+  ],
+  "fix": "Cut clear stepped switchback flights into the rock face so the staircase reads from 30-60 studs.",
+  "scores": null,
+  "part": "review_part_016.json",
+  "auto_flags": [],
+  "tris": 2820,
+  "worker": "vg"
+ },
+ {
+  "id": "LM07_02_carved_stair_switchback_02",
+  "verdict": "MAJOR",
+  "defects": [
+   "steps barely readable, reads as a rough rock pile",
+   "silhouette does not say stair"
+  ],
+  "fix": "Add defined step treads and a landing so the carved switchback is legible.",
+  "scores": null,
+  "part": "review_part_016.json",
+  "auto_flags": [],
+  "tris": 2820,
+  "worker": "vg"
+ },
+ {
+  "id": "LM08_01_mountain_span_bridge",
+  "verdict": "MAJOR",
+  "defects": [
+   "deck is broken/gappy, pieces look detached and floating",
+   "no continuous walkable span",
+   "tiny scattered posts read as debris"
+  ],
+  "fix": "Rebuild a continuous solid deck with connected rails/supports so it reads as a crossable bridge.",
+  "scores": null,
+  "part": "review_part_016.json",
+  "auto_flags": [],
+  "tris": 2368,
+  "worker": "vg"
+ },
+ {
+  "id": "LM09_01_temple_buried_hero",
+  "verdict": "OK",
+  "defects": [
+   "surrounding sand rocks are plain flat facets",
+   "red doorways slightly float on the steps"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_013.json",
+  "auto_flags": [],
+  "tris": 5528,
+  "worker": "vf"
+ },
+ {
+  "id": "LM10_01_temple_colonnade_buried_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_020.json",
+  "auto_flags": [],
+  "tris": 3532,
+  "worker": "vh"
+ },
+ {
+  "id": "LM10_02_temple_colonnade_buried_02",
+  "verdict": "MINOR",
+  "defects": [
+   "black/inverted face on top of lintel"
+  ],
+  "fix": "Recalculate normals on the lintel so the top face is not black.",
+  "scores": null,
+  "part": "review_part_021.json",
+  "auto_flags": [],
+  "tris": 3936,
+  "worker": "vh"
+ },
+ {
+  "id": "LM10_03_temple_colonnade_buried_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_021.json",
+  "auto_flags": [],
+  "tris": 3664,
+  "worker": "vh"
+ },
+ {
+  "id": "LM11_01_temple_gate_buried",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_021.json",
+  "auto_flags": [],
+  "tris": 926,
+  "worker": "vh"
+ },
+ {
+  "id": "LM12_01_temple_stair_down_01",
+  "verdict": "MAJOR",
+  "defects": [
+   "reads as a jumble of flat clipping slabs",
+   "no clear descending stair silhouette",
+   "small floating boxes top-left"
+  ],
+  "fix": "Rebuild as a readable recessed stair cut into the ground with clear step treads and framing walls; remove floating fragments.",
+  "scores": null,
+  "part": "review_part_021.json",
+  "auto_flags": [],
+  "tris": 1288,
+  "worker": "vh"
+ },
+ {
+  "id": "LM12_02_temple_stair_down_02",
+  "verdict": "MAJOR",
+  "defects": [
+   "confusing overlapping slabs",
+   "stair not legible",
+   "flat single-colour mass"
+  ],
+  "fix": "Rebuild with distinct stepped treads descending into a clear pit opening instead of stacked flat planes.",
+  "scores": null,
+  "part": "review_part_021.json",
+  "auto_flags": [],
+  "tris": 1288,
+  "worker": "vh"
+ },
+ {
+  "id": "LM13_01_guardian_statue_01",
+  "verdict": "MINOR",
+  "defects": [
+   "small black/inverted face near head",
+   "very thin crude figure"
+  ],
+  "fix": "Fix the black face normal and widen the torso/head so it reads as a carved guardian figure.",
+  "scores": null,
+  "part": "review_part_021.json",
+  "auto_flags": [],
+  "tris": 428,
+  "worker": "vh"
+ },
+ {
+  "id": "LM13_02_guardian_statue_02",
+  "verdict": "MINOR",
+  "defects": [
+   "small black/inverted face near head",
+   "thin crude figure"
+  ],
+  "fix": "Fix the black face normal and bulk up the figure for a clearer statue silhouette.",
+  "scores": null,
+  "part": "review_part_021.json",
+  "auto_flags": [],
+  "tris": 404,
+  "worker": "vh"
+ },
+ {
+  "id": "LM14_01_sand_obelisk_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_021.json",
+  "auto_flags": [],
+  "tris": 592,
+  "worker": "vh"
+ },
+ {
+  "id": "LM14_02_sand_obelisk_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_021.json",
+  "auto_flags": [],
+  "tris": 592,
+  "worker": "vh"
+ },
+ {
+  "id": "LM14_03_sand_obelisk_03",
+  "verdict": "MINOR",
+  "defects": [
+   "near-identical recolour of obelisk 01/02"
+  ],
+  "fix": "Vary height, carving marks or erosion so the three obelisks are not identical.",
+  "scores": null,
+  "part": "review_part_021.json",
+  "auto_flags": [],
+  "tris": 592,
+  "worker": "vh"
+ },
+ {
+  "id": "LM15_01_ring_temple_hero",
+  "verdict": "OK",
+  "defects": [
+   "some outer ring columns uneven in height"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_013.json",
+  "auto_flags": [],
+  "tris": 10914,
+  "worker": "vf"
+ },
+ {
+  "id": "LM16_01_ring_temple_segment_01",
+  "verdict": "MINOR",
+  "defects": [
+   "plain curved slab with little relief",
+   "flat single-colour mass"
+  ],
+  "fix": "Add carved panelling, step relief or weathering to the curved wall so it is not a featureless slab.",
+  "scores": null,
+  "part": "review_part_021.json",
+  "auto_flags": [],
+  "tris": 736,
+  "worker": "vh"
+ },
+ {
+  "id": "LM16_02_ring_temple_segment_02",
+  "verdict": "MINOR",
+  "defects": [
+   "near-identical to segment 01",
+   "flat featureless curved mass"
+  ],
+  "fix": "Differentiate from segment 01 with distinct relief/damage and add surface detail.",
+  "scores": null,
+  "part": "review_part_021.json",
+  "auto_flags": [],
+  "tris": 604,
+  "worker": "vh"
+ },
+ {
+  "id": "LM17_01_ring_inner_sanctum",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_022.json",
+  "auto_flags": [],
+  "tris": 3948,
+  "worker": "vh"
+ },
+ {
+  "id": "LM18_01_crater_monolith_ring",
+  "verdict": "MINOR",
+  "defects": [
+   "dark monoliths are thin and spiky, ring reads sparse",
+   "flat green pad under it looks like a disc, not terrain"
+  ],
+  "fix": "Thicken the monoliths and break up the flat green base so the ring reads as a crater, not a disc.",
+  "scores": null,
+  "part": "review_part_013.json",
+  "auto_flags": [],
+  "tris": 2684,
+  "worker": "vf"
+ },
+ {
+  "id": "LM19_01_crater_rim_rock_01",
+  "verdict": "MINOR",
+  "defects": [
+   "flat grey, little relief",
+   "some near-black shadowed facets"
+  ],
+  "fix": "Add subtle colour variation and break up large flat faces so it reads as weathered rock, not grey default.",
+  "scores": null,
+  "part": "review_part_026.json",
+  "auto_flags": [],
+  "tris": 1080,
+  "worker": "vi"
+ },
+ {
+  "id": "LM19_02_crater_rim_rock_02",
+  "verdict": "MAJOR",
+  "defects": [
+   "large very dark/near-black facets read as holes or inverted faces",
+   "flat grey, crude"
+  ],
+  "fix": "Check face normals on the dark faces and lighten; add relief and warmer rock tone.",
+  "scores": null,
+  "part": "review_part_026.json",
+  "auto_flags": [],
+  "tris": 1080,
+  "worker": "vi"
+ },
+ {
+  "id": "LM19_03_crater_rim_rock_03",
+  "verdict": "MINOR",
+  "defects": [
+   "flat grey rock pile, dark facets",
+   "crude chunky blocks"
+  ],
+  "fix": "Add colour variation and smaller detail rocks; verify no inverted dark faces.",
+  "scores": null,
+  "part": "review_part_026.json",
+  "auto_flags": [],
+  "tris": 1080,
+  "worker": "vi"
+ },
+ {
+  "id": "LM19_04_crater_rim_rock_04",
+  "verdict": "MAJOR",
+  "defects": [
+   "large dark/near-black facets read as inverted faces or holes",
+   "flat grey, crude"
+  ],
+  "fix": "Recalculate normals on the dark faces, lighten and add warm rock tone with more relief.",
+  "scores": null,
+  "part": "review_part_027.json",
+  "auto_flags": [],
+  "tris": 1080,
+  "worker": "vi"
+ },
+ {
+  "id": "LM19_05_crater_rim_rock_05",
+  "verdict": "MAJOR",
+  "defects": [
+   "big flat near-black block face looks like an inverted normal",
+   "flat grey rock pile"
+  ],
+  "fix": "Fix the inverted/dark face, break up the large flat block and add colour variation.",
+  "scores": null,
+  "part": "review_part_027.json",
+  "auto_flags": [],
+  "tris": 1080,
+  "worker": "vi"
+ },
+ {
+  "id": "LM20_01_crater_arcane_ruin_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_027.json",
+  "auto_flags": [],
+  "tris": 380,
+  "worker": "vi"
+ },
+ {
+  "id": "LM20_02_crater_arcane_ruin_02",
+  "verdict": "MINOR",
+  "defects": [
+   "blue rune marks risk reading as emissive",
+   "a stray small green nub near base"
+  ],
+  "fix": "Keep rune trim matte (no glow); confirm no stray prop geometry is saved with the model.",
+  "scores": null,
+  "part": "review_part_027.json",
+  "auto_flags": [],
+  "tris": 408,
+  "worker": "vi"
+ },
+ {
+  "id": "LM20_03_crater_arcane_ruin_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_027.json",
+  "auto_flags": [],
+  "tris": 344,
+  "worker": "vi"
+ },
+ {
+  "id": "LM21_01_floating_rock_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_027.json",
+  "auto_flags": [],
+  "tris": 330,
+  "worker": "vi"
+ },
+ {
+  "id": "LM21_02_floating_rock_02",
+  "verdict": "MINOR",
+  "defects": [
+   "underside rock chunks look loosely jumbled/semi-detached"
+  ],
+  "fix": "Merge the underside rock mass into one tapered root so chunks don't read as floating fragments.",
+  "scores": null,
+  "part": "review_part_027.json",
+  "auto_flags": [],
+  "tris": 330,
+  "worker": "vi"
+ },
+ {
+  "id": "LM21_03_floating_rock_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_027.json",
+  "auto_flags": [],
+  "tris": 330,
+  "worker": "vi"
+ },
+ {
+  "id": "LM21_04_floating_rock_04",
+  "verdict": "MINOR",
+  "defects": [
+   "underside chunks slightly disconnected",
+   "close recolour of siblings"
+  ],
+  "fix": "Vary the island outline and tidy the underside into a cohesive tapered mass.",
+  "scores": null,
+  "part": "review_part_027.json",
+  "auto_flags": [],
+  "tris": 330,
+  "worker": "vi"
+ },
+ {
+  "id": "LM22_01_colossal_fall_cliff_hero",
+  "verdict": "REDO",
+  "defects": [
+   "waterfalls are bright white+cyan flat emissive-looking vertical slabs floating in front of the cliff",
+   "no-glow rule violation",
+   "falls float detached from the rock face",
+   "cliff is a thin stacked-slab stack like paper"
+  ],
+  "fix": "Rebuild falls as thin pale stepped water hugging the rock with foam pools, no glowing slabs; make the cliff chunky faceted rock instead of stacked thin plates.",
+  "scores": null,
+  "part": "review_part_014.json",
+  "auto_flags": [],
+  "tris": 51678,
+  "worker": "vf"
+ },
+ {
+  "id": "LM23_01_gorge_wall_01",
+  "verdict": "OK",
+  "defects": [
+   "grass caps slightly float at a few spots"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_016.json",
+  "auto_flags": [],
+  "tris": 3312,
+  "worker": "vg"
+ },
+ {
+  "id": "LM23_02_gorge_wall_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_016.json",
+  "auto_flags": [],
+  "tris": 3444,
+  "worker": "vg"
+ },
+ {
+  "id": "LM23_03_gorge_wall_03",
+  "verdict": "MAJOR",
+  "defects": [
+   "thin flat bright-white waterfall slab clips through the wall as a glowing vertical bar",
+   "slab is a single flat panel with no relief"
+  ],
+  "fix": "Replace the flat white bar with a recessed stepped water chute in muted blue, seated into the rock, no flat glowing panel.",
+  "scores": null,
+  "part": "review_part_016.json",
+  "auto_flags": [],
+  "tris": 3456,
+  "worker": "vg"
+ },
+ {
+  "id": "LM24_01_fall_pool_rock_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_016.json",
+  "auto_flags": [],
+  "tris": 468,
+  "worker": "vg"
+ },
+ {
+  "id": "LM24_02_fall_pool_rock_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_016.json",
+  "auto_flags": [],
+  "tris": 516,
+  "worker": "vg"
+ },
+ {
+  "id": "LM24_03_fall_pool_rock_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_016.json",
+  "auto_flags": [],
+  "tris": 552,
+  "worker": "vg"
+ },
+ {
+  "id": "LM25_01_ruin_gate_hero",
+  "verdict": "MINOR",
+  "defects": [
+   "the tall L-shaped overhang block reads ambiguous, almost like an unfinished arm",
+   "red inset panels look like flat stickers"
+  ],
+  "fix": "Clarify the gate lintel form and recess/relieve the red panels so they read as stone niches.",
+  "scores": null,
+  "part": "review_part_014.json",
+  "auto_flags": [],
+  "tris": 3068,
+  "worker": "vf"
+ },
+ {
+  "id": "LM26_01_ruin_arena_segment_01",
+  "verdict": "MINOR",
+  "defects": [
+   "thin white bars between columns read flat/railing-like",
+   "very similar to siblings"
+  ],
+  "fix": "Give columns more depth and vary the broken top edge between the three segments.",
+  "scores": null,
+  "part": "review_part_027.json",
+  "auto_flags": [],
+  "tris": 1040,
+  "worker": "vi"
+ },
+ {
+  "id": "LM26_02_ruin_arena_segment_02",
+  "verdict": "MINOR",
+  "defects": [
+   "near-identical to segment_01 (recolour feel)",
+   "flat white infill bars"
+  ],
+  "fix": "Differentiate the broken silhouette and thicken the column/arch geometry.",
+  "scores": null,
+  "part": "review_part_027.json",
+  "auto_flags": [],
+  "tris": 1052,
+  "worker": "vi"
+ },
+ {
+  "id": "LM26_03_ruin_arena_segment_03",
+  "verdict": "MINOR",
+  "defects": [
+   "flat infill bars",
+   "variety overlap with other arena segments"
+  ],
+  "fix": "Vary ruin damage pattern; add depth to the colonnade.",
+  "scores": null,
+  "part": "review_part_027.json",
+  "auto_flags": [],
+  "tris": 1064,
+  "worker": "vi"
+ },
+ {
+  "id": "LM27_01_ruin_aqueduct_arch_01",
+  "verdict": "MAJOR",
+  "defects": [
+   "solid black rectangular patches across the parapet read as holes/gaps",
+   "stray green nubs stuck to piers"
+  ],
+  "fix": "Fill the black gaps with proper stone blocks (or model them as real openings with back faces); remove stray green bits.",
+  "scores": null,
+  "part": "review_part_028.json",
+  "auto_flags": [],
+  "tris": 668,
+  "worker": "vi"
+ },
+ {
+  "id": "LM27_02_ruin_aqueduct_arch_02",
+  "verdict": "MAJOR",
+  "defects": [
+   "black holes along broken parapet",
+   "green nubs clinging to columns"
+  ],
+  "fix": "Close/backface the black gaps and remove floating green specks.",
+  "scores": null,
+  "part": "review_part_028.json",
+  "auto_flags": [],
+  "tris": 656,
+  "worker": "vi"
+ },
+ {
+  "id": "LM28_01_ruin_column_set_01",
+  "verdict": "MINOR",
+  "defects": [
+   "grey-white drum banding looks a bit striped",
+   "small floating debris"
+  ],
+  "fix": "Soften the stripe contrast and settle debris on the ground.",
+  "scores": null,
+  "part": "review_part_028.json",
+  "auto_flags": [],
+  "tris": 1064,
+  "worker": "vi"
+ },
+ {
+  "id": "LM28_02_ruin_column_set_02",
+  "verdict": "MINOR",
+  "defects": [
+   "striped drum look",
+   "scattered small floating chunks"
+  ],
+  "fix": "Reduce band contrast; ground the rubble.",
+  "scores": null,
+  "part": "review_part_028.json",
+  "auto_flags": [],
+  "tris": 1412,
+  "worker": "vi"
+ },
+ {
+  "id": "LM28_03_ruin_column_set_03",
+  "verdict": "MINOR",
+  "defects": [
+   "two columns read as recolour of the other sets",
+   "banding stripes"
+  ],
+  "fix": "Vary column heights/breaks and tone down stripes.",
+  "scores": null,
+  "part": "review_part_028.json",
+  "auto_flags": [],
+  "tris": 1240,
+  "worker": "vi"
+ },
+ {
+  "id": "LM29_01_ruin_tower_stump_01",
+  "verdict": "MINOR",
+  "defects": [
+   "floating broken-top chunks sit slightly above the rim"
+  ],
+  "fix": "Attach the broken crenellation chunks to the wall top.",
+  "scores": null,
+  "part": "review_part_028.json",
+  "auto_flags": [],
+  "tris": 1628,
+  "worker": "vi"
+ },
+ {
+  "id": "LM29_02_ruin_tower_stump_02",
+  "verdict": "MAJOR",
+  "defects": [
+   "reads as a plain cream box, square silhouette",
+   "almost no relief, crude for a tower stump"
+  ],
+  "fix": "Make the stump round or battered with an eroded broken top and surface relief, not a flat rectangular box.",
+  "scores": null,
+  "part": "review_part_028.json",
+  "auto_flags": [],
+  "tris": 370,
+  "worker": "vi"
+ },
+ {
+  "id": "LM30_01_ruined_castle_hero",
+  "verdict": "MINOR",
+  "defects": [
+   "almost entirely flat default grey, reads unfinished/greyed-out",
+   "window holes are flat black rectangles",
+   "rubble cubes scattered loosely"
+  ],
+  "fix": "Add weathered stone colour variation and recess the windows; tidy the rubble so cubes rest naturally.",
+  "scores": null,
+  "part": "review_part_014.json",
+  "auto_flags": [],
+  "tris": 9628,
+  "worker": "vf"
+ },
+ {
+  "id": "LM31_01_ruined_castle_module_01",
+  "verdict": "MINOR",
+  "defects": [
+   "green moss bands look like painted rings",
+   "slight sibling overlap"
+  ],
+  "fix": "Break the moss into patches rather than continuous bands.",
+  "scores": null,
+  "part": "review_part_028.json",
+  "auto_flags": [],
+  "tris": 1636,
+  "worker": "vi"
+ },
+ {
+  "id": "LM31_02_ruined_castle_module_02",
+  "verdict": "MINOR",
+  "defects": [
+   "continuous green ring bands",
+   "similar to module_01"
+  ],
+  "fix": "Vary the tower damage and scatter the moss.",
+  "scores": null,
+  "part": "review_part_028.json",
+  "auto_flags": [],
+  "tris": 2368,
+  "worker": "vi"
+ },
+ {
+  "id": "LM31_03_ruined_castle_module_03",
+  "verdict": "MAJOR",
+  "defects": [
+   "two plain flat grey slabs, minimal detail",
+   "crude, reads as blank blocks not castle ruin"
+  ],
+  "fix": "Add wall thickness, broken crenellations, window/arrow slits and surface relief so it reads as a ruined wall.",
+  "scores": null,
+  "part": "review_part_028.json",
+  "auto_flags": [],
+  "tris": 996,
+  "worker": "vi"
+ },
+ {
+  "id": "WT01_01_wizard_tower_shell",
+  "verdict": "OK",
+  "defects": [
+   "reads more as a tiered lighthouse than a classic wizard tower, but believable as an island landmark"
+  ],
+  "fix": "",
+  "scores": {
+   "exterior": 9,
+   "interior": 8,
+   "bookshelves": 8,
+   "map": 9,
+   "silhouette": 9,
+   "materials": 8
+  },
+  "part": "review_part_001.json",
+  "auto_flags": [],
+  "tris": 42636,
+  "worker": "va"
+ },
+ {
+  "id": "WT02_01_wizard_tower_interior",
+  "verdict": "MAJOR",
+  "defects": [
+   "walkable floors with spiral stairs and domed top are good",
+   "but NO bookshelves on any interior floor",
+   "NO circular relief map inside the tower"
+  ],
+  "fix": "place the WT03/WT04 bookshelves floor-to-ceiling on at least one library floor and set the WT05 round map on a floor so the interior delivers the brief's bookshelves and map categories",
+  "scores": {
+   "exterior": 8,
+   "interior": 8,
+   "bookshelves": 3,
+   "map": 3,
+   "silhouette": 8,
+   "materials": 8
+  },
+  "part": "review_part_001.json",
+  "auto_flags": [],
+  "tris": 43788,
+  "worker": "vb"
+ },
+ {
+  "id": "WT03_01_wizard_bookshelf_curved_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_001.json",
+  "auto_flags": [
+   "SIZE depth 7.14 vs 6"
+  ],
+  "tris": 4424,
+  "worker": "vb"
+ },
+ {
+  "id": "WT03_02_wizard_bookshelf_curved_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_001.json",
+  "auto_flags": [],
+  "tris": 5260,
+  "worker": "vb"
+ },
+ {
+  "id": "WT03_03_wizard_bookshelf_curved_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_002.json",
+  "auto_flags": [
+   "SIZE width 20.04 vs 24"
+  ],
+  "tris": 3740,
+  "worker": "vb"
+ },
+ {
+  "id": "WT04_01_wizard_bookshelf_straight_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_002.json",
+  "auto_flags": [],
+  "tris": 1888,
+  "worker": "vb"
+ },
+ {
+  "id": "WT04_02_wizard_bookshelf_straight_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_002.json",
+  "auto_flags": [],
+  "tris": 3392,
+  "worker": "vb"
+ },
+ {
+  "id": "WT05_01_wizard_round_map_table",
+  "verdict": "OK",
+  "defects": [
+   "reads clearly as a relief map of an island with land, water, landmark tokens and a brass rim on stone"
+  ],
+  "fix": "",
+  "scores": {
+   "exterior": 8,
+   "interior": 8,
+   "bookshelves": 8,
+   "map": 10,
+   "silhouette": 9,
+   "materials": 9
+  },
+  "part": "review_part_002.json",
+  "auto_flags": [
+   "MANY MATERIALS 17"
+  ],
+  "tris": 20314,
+  "worker": "vb"
+ },
+ {
+  "id": "WT06_01_wizard_floor_medallion",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_002.json",
+  "auto_flags": [],
+  "tris": 4844,
+  "worker": "vb"
+ },
+ {
+  "id": "WT07_01_wizard_lab_set_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_002.json",
+  "auto_flags": [],
+  "tris": 3192,
+  "worker": "vb"
+ },
+ {
+  "id": "WT07_02_wizard_lab_set_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_002.json",
+  "auto_flags": [],
+  "tris": 2620,
+  "worker": "vb"
+ },
+ {
+  "id": "WT07_03_wizard_lab_set_03",
+  "verdict": "OK",
+  "defects": [
+   "crystal ball/orb on stand reads well"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_002.json",
+  "auto_flags": [],
+  "tris": 2564,
+  "worker": "vb"
+ },
+ {
+  "id": "WT07_04_wizard_lab_set_04",
+  "verdict": "OK",
+  "defects": [
+   "orrery and star-disc read well"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_002.json",
+  "auto_flags": [],
+  "tris": 2212,
+  "worker": "vb"
+ },
+ {
+  "id": "WT08_01_wizard_study_set_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_002.json",
+  "auto_flags": [],
+  "tris": 2180,
+  "worker": "vb"
+ },
+ {
+  "id": "WT08_02_wizard_study_set_02",
+  "verdict": "MINOR",
+  "defects": [
+   "sparse: a bare blue canopy-bed/frame with little detail for the tri count, crudest of the study set"
+  ],
+  "fix": "add bedding, pillows or drapery folds so it reads as a furnished study/bed, not an empty frame",
+  "scores": null,
+  "part": "review_part_002.json",
+  "auto_flags": [],
+  "tris": 592,
+  "worker": "vb"
+ },
+ {
+  "id": "WT08_03_wizard_study_set_03",
+  "verdict": "OK",
+  "defects": [
+   "globe, desk and easel-chart read well"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_002.json",
+  "auto_flags": [],
+  "tris": 1560,
+  "worker": "vb"
+ },
+ {
+  "id": "WT09_01_wizard_chandelier_ring_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_003.json",
+  "auto_flags": [],
+  "tris": 1756,
+  "worker": "vb"
+ },
+ {
+  "id": "WT09_02_wizard_chandelier_ring_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_003.json",
+  "auto_flags": [],
+  "tris": 3176,
+  "worker": "vb"
+ },
+ {
+  "id": "WT10_01_wizard_observatory_telescope",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_003.json",
+  "auto_flags": [],
+  "tris": 996,
+  "worker": "vb"
+ },
+ {
+  "id": "WT11_01_wizard_armillary_crown",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_001.json",
+  "auto_flags": [],
+  "tris": 3188,
+  "worker": "va"
+ },
+ {
+  "id": "WT12_01_wizard_door_porch",
+  "verdict": "OK",
+  "defects": [
+   "door opening a touch narrow for a main entrance, but acceptable for a porch"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_001.json",
+  "auto_flags": [],
+  "tris": 2488,
+  "worker": "va"
+ },
+ {
+  "id": "WT13_01_plateau_terrace_set_01",
+  "verdict": "MINOR",
+  "defects": [
+   "plain flat cream slab deck with little relief"
+  ],
+  "fix": "add an edge trim or a few steps so it reads as a built terrace, not a blank box lid",
+  "scores": null,
+  "part": "review_part_001.json",
+  "auto_flags": [],
+  "tris": 2520,
+  "worker": "va"
+ },
+ {
+  "id": "WT13_02_plateau_terrace_set_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_001.json",
+  "auto_flags": [],
+  "tris": 1264,
+  "worker": "va"
+ },
+ {
+  "id": "WT13_03_plateau_terrace_set_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_001.json",
+  "auto_flags": [],
+  "tris": 1440,
+  "worker": "va"
+ },
+ {
+  "id": "WT13_04_plateau_terrace_set_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_001.json",
+  "auto_flags": [],
+  "tris": 968,
+  "worker": "va"
+ },
+ {
+  "id": "WT13_05_plateau_terrace_set_05",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_001.json",
+  "auto_flags": [],
+  "tris": 976,
+  "worker": "va"
+ },
+ {
+  "id": "WT13_06_plateau_terrace_set_06",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_001.json",
+  "auto_flags": [],
+  "tris": 858,
+  "worker": "va"
+ },
+ {
+  "id": "HL01_01_ice_spire_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_017.json",
+  "auto_flags": [],
+  "tris": 588,
+  "worker": "vg"
+ },
+ {
+  "id": "HL01_02_ice_spire_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_017.json",
+  "auto_flags": [],
+  "tris": 648,
+  "worker": "vg"
+ },
+ {
+  "id": "HL01_03_ice_spire_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_017.json",
+  "auto_flags": [],
+  "tris": 708,
+  "worker": "vg"
+ },
+ {
+  "id": "HL01_04_ice_spire_04",
+  "verdict": "MINOR",
+  "defects": [
+   "near-identical recolour of the other three spires"
+  ],
+  "fix": "Vary the taper and chunk placement so it is not a clone of HL01_01-03.",
+  "scores": null,
+  "part": "review_part_017.json",
+  "auto_flags": [],
+  "tris": 768,
+  "worker": "vg"
+ },
+ {
+  "id": "HL02_01_ice_arch_01",
+  "verdict": "OK",
+  "defects": [
+   "a few loose chunks near the base read slightly detached"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_017.json",
+  "auto_flags": [],
+  "tris": 864,
+  "worker": "vg"
+ },
+ {
+  "id": "HL02_02_ice_arch_02",
+  "verdict": "MINOR",
+  "defects": [
+   "very close duplicate of HL02_01",
+   "scattered base blocks look like floating debris"
+  ],
+  "fix": "Reshape the arch silhouette for variety and merge the loose base chunks into the mass.",
+  "scores": null,
+  "part": "review_part_017.json",
+  "auto_flags": [],
+  "tris": 864,
+  "worker": "vg"
+ },
+ {
+  "id": "HL03_01_glacier_tongue_01",
+  "verdict": "MINOR",
+  "defects": [
+   "brown/tan rock chunks mixed into ice read as dirty camouflage patches",
+   "flat scattered slabs"
+  ],
+  "fix": "Reduce the brown rock blotches and give the ice plates more consistent cool tone and relief.",
+  "scores": null,
+  "part": "review_part_017.json",
+  "auto_flags": [],
+  "tris": 948,
+  "worker": "vg"
+ },
+ {
+  "id": "HL03_02_glacier_tongue_02",
+  "verdict": "MINOR",
+  "defects": [
+   "same brown-patch issue; near-copy of 01"
+  ],
+  "fix": "Tone down brown patches and differentiate the shape from siblings.",
+  "scores": null,
+  "part": "review_part_017.json",
+  "auto_flags": [],
+  "tris": 960,
+  "worker": "vg"
+ },
+ {
+  "id": "HL03_03_glacier_tongue_03",
+  "verdict": "MINOR",
+  "defects": [
+   "recolour of 01/02 with brown debris patches"
+  ],
+  "fix": "Vary silhouette and cut the muddy brown blocks.",
+  "scores": null,
+  "part": "review_part_017.json",
+  "auto_flags": [],
+  "tris": 972,
+  "worker": "vg"
+ },
+ {
+  "id": "HL04_01_ice_cave_mouth_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_017.json",
+  "auto_flags": [],
+  "tris": 788,
+  "worker": "vg"
+ },
+ {
+  "id": "HL04_02_ice_cave_mouth_02",
+  "verdict": "MINOR",
+  "defects": [
+   "near-identical to HL04_01"
+  ],
+  "fix": "Change opening shape/overhang so it is not a clone.",
+  "scores": null,
+  "part": "review_part_017.json",
+  "auto_flags": [],
+  "tris": 788,
+  "worker": "vg"
+ },
+ {
+  "id": "HL05_01_mountain_shrine",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_017.json",
+  "auto_flags": [],
+  "tris": 816,
+  "worker": "vg"
+ },
+ {
+  "id": "HL06_01_snow_watchtower",
+  "verdict": "OK",
+  "defects": [
+   "a couple of base struts look thin"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_018.json",
+  "auto_flags": [],
+  "tris": 2654,
+  "worker": "vg"
+ },
+ {
+  "id": "HL07_01_mine_entrance_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_018.json",
+  "auto_flags": [],
+  "tris": 592,
+  "worker": "vg"
+ },
+ {
+  "id": "HL07_02_mine_entrance_02",
+  "verdict": "MINOR",
+  "defects": [
+   "very close variant of HL07_01"
+  ],
+  "fix": "Alter timber framing or rubble arrangement for variety.",
+  "scores": null,
+  "part": "review_part_018.json",
+  "auto_flags": [],
+  "tris": 732,
+  "worker": "vg"
+ },
+ {
+  "id": "HM01_01_rope_suspension_bridge_01",
+  "verdict": "OK",
+  "defects": [
+   "sagging deck with prayer-flag rails reads as a rope bridge"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_003.json",
+  "auto_flags": [
+   "SIZE width 72 vs 120"
+  ],
+  "tris": 5316,
+  "worker": "vc"
+ },
+ {
+  "id": "HM01_02_rope_suspension_bridge_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_003.json",
+  "auto_flags": [],
+  "tris": 7552,
+  "worker": "vc"
+ },
+ {
+  "id": "HM01_03_rope_suspension_bridge_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_003.json",
+  "auto_flags": [],
+  "tris": 9116,
+  "worker": "vc"
+ },
+ {
+  "id": "HM02_01_timber_cantilever_bridge_01",
+  "verdict": "OK",
+  "defects": [
+   "covered timber span on stone abutments reads well"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_003.json",
+  "auto_flags": [
+   "SIZE width 42.89 vs 36",
+   "SIZE height 14.98 vs 12"
+  ],
+  "tris": 1004,
+  "worker": "vc"
+ },
+ {
+  "id": "HM02_02_timber_cantilever_bridge_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_003.json",
+  "auto_flags": [
+   "SIZE width 54.96 vs 36",
+   "SIZE height 15.14 vs 12"
+  ],
+  "tris": 1208,
+  "worker": "vc"
+ },
+ {
+  "id": "HM03_01_tunnel_portal_01",
+  "verdict": "OK",
+  "defects": [
+   "timber-framed opening in stacked rock reads as a tunnel mouth"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_003.json",
+  "auto_flags": [],
+  "tris": 468,
+  "worker": "vc"
+ },
+ {
+  "id": "HM03_02_tunnel_portal_02",
+  "verdict": "OK",
+  "defects": [
+   "icicles and snow cap add variety"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_003.json",
+  "auto_flags": [],
+  "tris": 636,
+  "worker": "vc"
+ },
+ {
+  "id": "HM03_03_tunnel_portal_03",
+  "verdict": "OK",
+  "defects": [
+   "red gable and prayer flags give good variety"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_003.json",
+  "auto_flags": [
+   "SIZE height 28.04 vs 24"
+  ],
+  "tris": 1000,
+  "worker": "vc"
+ },
+ {
+  "id": "HM04_01_tunnel_lining_01",
+  "verdict": "MINOR",
+  "defects": [
+   "interior is a dark cavity; as a modular lining the open back is expected but the inner faces look unlit/near-black"
+  ],
+  "fix": "give the inner tunnel faces a lit stone colour so the bore does not read as a black hole from grazing angles",
+  "scores": null,
+  "part": "review_part_003.json",
+  "auto_flags": [],
+  "tris": 980,
+  "worker": "vc"
+ },
+ {
+  "id": "HM04_02_tunnel_lining_02",
+  "verdict": "MAJOR",
+  "defects": [
+   "large black inverted/inside-out faces across the top and left of the interior",
+   "reads as holes / flipped normals, not lit stone"
+  ],
+  "fix": "recalculate normals outward (or solidify the shell) and give the inner faces a stone colour so no black inverted patches remain",
+  "scores": null,
+  "part": "review_part_004.json",
+  "auto_flags": [
+   "SIZE depth 29.72 vs 24"
+  ],
+  "tris": 772,
+  "worker": "vc"
+ },
+ {
+  "id": "HM05_01_cliff_gallery_01",
+  "verdict": "MINOR",
+  "defects": [
+   "timber walkway clings to a blocky grey cliff but the rock is plain flat-grey slabs with little relief"
+  ],
+  "fix": "vary the cliff rock colours/angles so it is not one flat grey mass behind the gallery",
+  "scores": null,
+  "part": "review_part_004.json",
+  "auto_flags": [
+   "SIZE height 25.55 vs 22"
+  ],
+  "tris": 644,
+  "worker": "vc"
+ },
+ {
+  "id": "HM05_02_cliff_gallery_02",
+  "verdict": "MINOR",
+  "defects": [
+   "same flat grey cliff backing; white snow slab on top looks like a loose flat plane"
+  ],
+  "fix": "break up the grey rock and seat the snow cap so it conforms to the top rather than floating as a flat sheet",
+  "scores": null,
+  "part": "review_part_004.json",
+  "auto_flags": [
+   "SIZE height 25.88 vs 22"
+  ],
+  "tris": 820,
+  "worker": "vc"
+ },
+ {
+  "id": "HM06_01_switchback_wall_01",
+  "verdict": "MAJOR",
+  "defects": [
+   "blocky two-tone grey checkerboard camouflage patches across the wall face",
+   "stones read as a flat chequer pattern, not masonry"
+  ],
+  "fix": "replace the alternating light/dark grey checker with subtler stone tone variation and real block relief",
+  "scores": null,
+  "part": "review_part_004.json",
+  "auto_flags": [
+   "SIZE depth 5.23 vs 14"
+  ],
+  "tris": 588,
+  "worker": "vc"
+ },
+ {
+  "id": "HM06_02_switchback_wall_02",
+  "verdict": "MINOR",
+  "defects": [
+   "mostly plain flat slabs; curved retaining section is bland with little stone detail"
+  ],
+  "fix": "add coursing/relief to the wall faces so the curve reads as laid stone",
+  "scores": null,
+  "part": "review_part_004.json",
+  "auto_flags": [
+   "SIZE width 23.94 vs 30",
+   "SIZE depth 20.44 vs 14"
+  ],
+  "tris": 512,
+  "worker": "vc"
+ },
+ {
+  "id": "HM06_03_switchback_wall_03",
+  "verdict": "MAJOR",
+  "defects": [
+   "same blocky grey checkerboard camouflage patches as _01"
+  ],
+  "fix": "remove the two-tone checker; use graded stone tones with block relief",
+  "scores": null,
+  "part": "review_part_004.json",
+  "auto_flags": [
+   "SIZE depth 6.9 vs 14"
+  ],
+  "tris": 776,
+  "worker": "vc"
+ },
+ {
+  "id": "HM07_01_prayer_flag_string_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_004.json",
+  "auto_flags": [
+   "SIZE depth 2.52 vs 2"
+  ],
+  "tris": 500,
+  "worker": "vc"
+ },
+ {
+  "id": "HM07_02_prayer_flag_string_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_004.json",
+  "auto_flags": [
+   "SIZE depth 2.35 vs 2"
+  ],
+  "tris": 848,
+  "worker": "vc"
+ },
+ {
+  "id": "HM07_03_prayer_flag_string_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_004.json",
+  "auto_flags": [
+   "SIZE depth 2.49 vs 2"
+  ],
+  "tris": 596,
+  "worker": "vc"
+ },
+ {
+  "id": "HM07_04_prayer_flag_string_04",
+  "verdict": "MINOR",
+  "defects": [
+   "flags all near-white/pale, little colour variety versus siblings"
+  ],
+  "fix": "give this string distinct flag colours so it is not a washed-out copy of the others",
+  "scores": null,
+  "part": "review_part_004.json",
+  "auto_flags": [
+   "SIZE depth 2.51 vs 2"
+  ],
+  "tris": 580,
+  "worker": "vc"
+ },
+ {
+  "id": "HM08_01_cairn_shrine_01",
+  "verdict": "OK",
+  "defects": [
+   "stacked rock cairn topped with a flag reads well"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_004.json",
+  "auto_flags": [
+   "SIZE width 11 vs 14",
+   "SIZE depth 11 vs 14"
+  ],
+  "tris": 596,
+  "worker": "vc"
+ },
+ {
+  "id": "HM08_02_cairn_shrine_02",
+  "verdict": "MAJOR",
+  "defects": [
+   "reads as a small red-roof hut, not a cairn shrine",
+   "does not match its siblings in the HM08 cairn set"
+  ],
+  "fix": "rebuild as a stone cairn/chorten (stacked rock or a whitewashed stupa form) consistent with the cairn_shrine set",
+  "scores": null,
+  "part": "review_part_004.json",
+  "auto_flags": [],
+  "tris": 190,
+  "worker": "vc"
+ },
+ {
+  "id": "HM08_03_cairn_shrine_03",
+  "verdict": "OK",
+  "defects": [
+   "red-and-gold prayer wheel under a canopy reads well"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_005.json",
+  "auto_flags": [],
+  "tris": 476,
+  "worker": "vc"
+ },
+ {
+  "id": "HM08_04_cairn_shrine_04",
+  "verdict": "OK",
+  "defects": [
+   "bell under a timber frame reads well"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_005.json",
+  "auto_flags": [],
+  "tris": 300,
+  "worker": "vc"
+ },
+ {
+  "id": "HM09_01_monastery_outpost_01",
+  "verdict": "OK",
+  "defects": [
+   "tiered white-and-red monastery block, good silhouette"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_005.json",
+  "auto_flags": [],
+  "tris": 824,
+  "worker": "vc"
+ },
+ {
+  "id": "HM09_02_monastery_outpost_02",
+  "verdict": "OK",
+  "defects": [
+   "octagonal gold-roof hall, good variety from _01"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_005.json",
+  "auto_flags": [],
+  "tris": 1466,
+  "worker": "vc"
+ },
+ {
+  "id": "HM09_03_monastery_outpost_03",
+  "verdict": "OK",
+  "defects": [
+   "two-storey monastery with balcony, reads well"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_005.json",
+  "auto_flags": [
+   "SIZE height 24.1 vs 30"
+  ],
+  "tris": 924,
+  "worker": "vc"
+ },
+ {
+  "id": "HM09_04_monastery_outpost_04",
+  "verdict": "OK",
+  "defects": [
+   "open pavilion with bell under a pyramid roof"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_005.json",
+  "auto_flags": [],
+  "tris": 1032,
+  "worker": "vc"
+ },
+ {
+  "id": "FR01_01_giant_tree_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_018.json",
+  "auto_flags": [],
+  "tris": 5964,
+  "worker": "vg"
+ },
+ {
+  "id": "FR01_02_giant_tree_02",
+  "verdict": "MINOR",
+  "defects": [
+   "near-recolour of FR01_01"
+  ],
+  "fix": "Vary canopy mass and branch spread to distinguish from 01.",
+  "scores": null,
+  "part": "review_part_018.json",
+  "auto_flags": [],
+  "tris": 6016,
+  "worker": "vg"
+ },
+ {
+  "id": "FR01_03_giant_tree_03",
+  "verdict": "MAJOR",
+  "defects": [
+   "canopy reduced to two ball blobs on splayed legs; reads as an arch/wishbone, not a giant tree",
+   "trunk splits into a bare inverted-V with a gap"
+  ],
+  "fix": "Rebuild with a full connected canopy and a solid single trunk so it matches its giant-tree siblings.",
+  "scores": null,
+  "part": "review_part_018.json",
+  "auto_flags": [],
+  "tris": 1056,
+  "worker": "vg"
+ },
+ {
+  "id": "FR01_04_giant_tree_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_018.json",
+  "auto_flags": [],
+  "tris": 3228,
+  "worker": "vg"
+ },
+ {
+  "id": "FR02_01_forest_ruin_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_018.json",
+  "auto_flags": [],
+  "tris": 1128,
+  "worker": "vg"
+ },
+ {
+  "id": "FR02_02_forest_ruin_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_018.json",
+  "auto_flags": [],
+  "tris": 1136,
+  "worker": "vg"
+ },
+ {
+  "id": "FR02_03_forest_ruin_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_018.json",
+  "auto_flags": [],
+  "tris": 876,
+  "worker": "vg"
+ },
+ {
+  "id": "FR02_04_forest_ruin_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_018.json",
+  "auto_flags": [],
+  "tris": 820,
+  "worker": "vg"
+ },
+ {
+  "id": "FR02_05_forest_ruin_05",
+  "verdict": "MINOR",
+  "defects": [
+   "tall thin column looks like a floating plain slab with little relief"
+  ],
+  "fix": "Add break detail and a base to the standing column so it reads as a ruin, not a blank post.",
+  "scores": null,
+  "part": "review_part_018.json",
+  "auto_flags": [],
+  "tris": 1304,
+  "worker": "vg"
+ },
+ {
+  "id": "FR02_06_forest_ruin_06",
+  "verdict": "MINOR",
+  "defects": [
+   "lone thin column with a floating cap block; sparse"
+  ],
+  "fix": "Anchor the capstone to the column and add rubble so it reads as a ruin fragment.",
+  "scores": null,
+  "part": "review_part_019.json",
+  "auto_flags": [],
+  "tris": 1196,
+  "worker": "vg"
+ },
+ {
+  "id": "FR03_01_cave_mouth_01",
+  "verdict": "OK",
+  "defects": [
+   "grass caps slightly float"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_019.json",
+  "auto_flags": [],
+  "tris": 948,
+  "worker": "vg"
+ },
+ {
+  "id": "FR03_02_cave_mouth_02",
+  "verdict": "MINOR",
+  "defects": [
+   "near-duplicate of FR03_01"
+  ],
+  "fix": "Vary the opening and rock stacking to differ from 01.",
+  "scores": null,
+  "part": "review_part_019.json",
+  "auto_flags": [],
+  "tris": 948,
+  "worker": "vg"
+ },
+ {
+  "id": "FR03_03_cave_mouth_03",
+  "verdict": "MINOR",
+  "defects": [
+   "recolour/clone of 01-02"
+  ],
+  "fix": "Change silhouette and cave opening shape.",
+  "scores": null,
+  "part": "review_part_019.json",
+  "auto_flags": [],
+  "tris": 912,
+  "worker": "vg"
+ },
+ {
+  "id": "FR03_04_cave_mouth_04",
+  "verdict": "MAJOR",
+  "defects": [
+   "rock arch collapsed into scattered loose blocks, many detached/floating",
+   "no solid cave mouth reads"
+  ],
+  "fix": "Merge the loose chunks into a solid arched mass seated on the ground with a clear opening.",
+  "scores": null,
+  "part": "review_part_019.json",
+  "auto_flags": [],
+  "tris": 792,
+  "worker": "vg"
+ },
+ {
+  "id": "FR03_05_cave_mouth_05",
+  "verdict": "MAJOR",
+  "defects": [
+   "same scattered floating-debris problem as 04",
+   "silhouette does not read as a cave"
+  ],
+  "fix": "Rebuild as one connected rock arch; remove free-floating blocks.",
+  "scores": null,
+  "part": "review_part_019.json",
+  "auto_flags": [],
+  "tris": 792,
+  "worker": "vg"
+ },
+ {
+  "id": "FR03_06_cave_mouth_06",
+  "verdict": "MAJOR",
+  "defects": [
+   "loose detached blocks, gaps, no solid opening"
+  ],
+  "fix": "Consolidate into a solid grounded cave mouth with an actual recessed opening.",
+  "scores": null,
+  "part": "review_part_019.json",
+  "auto_flags": [],
+  "tris": 792,
+  "worker": "vg"
+ },
+ {
+  "id": "PL01_01_farmhouse_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_028.json",
+  "auto_flags": [],
+  "tris": 4186,
+  "worker": "vi"
+ },
+ {
+  "id": "PL01_02_farmhouse_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_028.json",
+  "auto_flags": [],
+  "tris": 2906,
+  "worker": "vi"
+ },
+ {
+  "id": "PL01_03_farmhouse_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_029.json",
+  "auto_flags": [],
+  "tris": 4390,
+  "worker": "vi"
+ },
+ {
+  "id": "PL01_04_farmhouse_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_029.json",
+  "auto_flags": [],
+  "tris": 6620,
+  "worker": "vi"
+ },
+ {
+  "id": "PL02_01_hay_silo_01",
+  "verdict": "MINOR",
+  "defects": [
+   "reads as hay sheaves/stooks, not a silo (naming/concept mismatch)"
+  ],
+  "fix": "Fine as a grain-sheaf prop; relabel or add a silo variant if a true silo is needed.",
+  "scores": null,
+  "part": "review_part_029.json",
+  "auto_flags": [],
+  "tris": 486,
+  "worker": "vi"
+ },
+ {
+  "id": "PL02_02_hay_silo_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_029.json",
+  "auto_flags": [],
+  "tris": 288,
+  "worker": "vi"
+ },
+ {
+  "id": "PL02_03_hay_silo_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_029.json",
+  "auto_flags": [],
+  "tris": 974,
+  "worker": "vi"
+ },
+ {
+  "id": "PL03_01_farm_cart_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_029.json",
+  "auto_flags": [],
+  "tris": 632,
+  "worker": "vi"
+ },
+ {
+  "id": "PL03_02_farm_cart_02",
+  "verdict": "MINOR",
+  "defects": [
+   "near-identical to farm_cart_01 (empty vs loaded only difference)"
+  ],
+  "fix": "Vary the cart shape or add distinct cargo so the pair isn't a recolour.",
+  "scores": null,
+  "part": "review_part_029.json",
+  "auto_flags": [],
+  "tris": 576,
+  "worker": "vi"
+ },
+ {
+  "id": "PL04_01_mill_waterwheel",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_029.json",
+  "auto_flags": [],
+  "tris": 5700,
+  "worker": "vi"
+ },
+ {
+  "id": "PL05_01_ruined_watchtower_plains_01",
+  "verdict": "MINOR",
+  "defects": [
+   "floating broken-top chunks above the rim"
+  ],
+  "fix": "Attach the broken crenellation debris to the wall top.",
+  "scores": null,
+  "part": "review_part_029.json",
+  "auto_flags": [],
+  "tris": 1628,
+  "worker": "vi"
+ },
+ {
+  "id": "PL05_02_ruined_watchtower_plains_02",
+  "verdict": "MAJOR",
+  "defects": [
+   "plain cream rectangular box with windows, square silhouette",
+   "crude, does not read as a round ruined watchtower"
+  ],
+  "fix": "Rebuild as a round/battered tower with eroded broken top and surface relief instead of a flat box.",
+  "scores": null,
+  "part": "review_part_029.json",
+  "auto_flags": [],
+  "tris": 370,
+  "worker": "vi"
+ },
+ {
+  "id": "PL05_03_ruined_watchtower_plains_03",
+  "verdict": "MINOR",
+  "defects": [
+   "looks intact/new with a clean red cone roof, not ruined as the id states"
+  ],
+  "fix": "Add damage (broken roof edge, cracks, missing crenellations) to match the 'ruined' concept, or relabel as an intact watchtower.",
+  "scores": null,
+  "part": "review_part_029.json",
+  "auto_flags": [],
+  "tris": 2920,
+  "worker": "vi"
+ },
+ {
+  "id": "PL06_01_rock_arch_natural_01",
+  "verdict": "MINOR",
+  "defects": [
+   "flat grey rock, little colour variation"
+  ],
+  "fix": "Add warm/earth tone variation and relief so it reads as weathered stone, not grey default.",
+  "scores": null,
+  "part": "review_part_029.json",
+  "auto_flags": [],
+  "tris": 1356,
+  "worker": "vi"
+ },
+ {
+  "id": "PL06_02_rock_arch_natural_02",
+  "verdict": "MINOR",
+  "defects": [
+   "flat grey rock, little colour variation",
+   "small floating green/blue bits at base"
+  ],
+  "fix": "Add warm stone tone variation and remove stray specks.",
+  "scores": null,
+  "part": "review_part_030.json",
+  "auto_flags": [],
+  "tris": 1356,
+  "worker": "vi"
+ },
+ {
+  "id": "DS01_01_adobe_house_01",
+  "verdict": "OK",
+  "defects": [
+   "stray blue slab beside base is the studio floor, not the model"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_022.json",
+  "auto_flags": [],
+  "tris": 1238,
+  "worker": "vh"
+ },
+ {
+  "id": "DS01_02_adobe_house_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_022.json",
+  "auto_flags": [],
+  "tris": 1798,
+  "worker": "vh"
+ },
+ {
+  "id": "DS01_03_adobe_house_03",
+  "verdict": "MINOR",
+  "defects": [
+   "large blue slab against front wall",
+   "parapet merlons read as loose blocks"
+  ],
+  "fix": "Confirm the blue slab is not part of the model; if it is, remove it. Seat the merlons solidly on the parapet.",
+  "scores": null,
+  "part": "review_part_022.json",
+  "auto_flags": [],
+  "tris": 1336,
+  "worker": "vh"
+ },
+ {
+  "id": "DS01_04_adobe_house_04",
+  "verdict": "MINOR",
+  "defects": [
+   "stray yellow beam on ground in front"
+  ],
+  "fix": "Remove or attach the loose yellow beam lying in front of the house.",
+  "scores": null,
+  "part": "review_part_022.json",
+  "auto_flags": [],
+  "tris": 1260,
+  "worker": "vh"
+ },
+ {
+  "id": "DS01_05_adobe_house_05",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_022.json",
+  "auto_flags": [],
+  "tris": 1076,
+  "worker": "vh"
+ },
+ {
+  "id": "DS01_06_adobe_house_06",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_022.json",
+  "auto_flags": [],
+  "tris": 1468,
+  "worker": "vh"
+ },
+ {
+  "id": "DS02_01_desert_market_01",
+  "verdict": "MINOR",
+  "defects": [
+   "well + loose cylinders read as generic, not clearly a market",
+   "small floating/clipping cubes on plank"
+  ],
+  "fix": "Rename or redress toward a market stall, or seat the barrels/goods cleanly; remove stray cubes.",
+  "scores": null,
+  "part": "review_part_022.json",
+  "auto_flags": [],
+  "tris": 640,
+  "worker": "vh"
+ },
+ {
+  "id": "DS02_02_desert_market_02",
+  "verdict": "OK",
+  "defects": [
+   "loose wares on rugs are intentional clutter"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_022.json",
+  "auto_flags": [],
+  "tris": 600,
+  "worker": "vh"
+ },
+ {
+  "id": "DS02_03_desert_market_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_022.json",
+  "auto_flags": [],
+  "tris": 604,
+  "worker": "vh"
+ },
+ {
+  "id": "DS03_01_caravan_wagon_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_022.json",
+  "auto_flags": [],
+  "tris": 1116,
+  "worker": "vh"
+ },
+ {
+  "id": "DS03_02_caravan_wagon_02",
+  "verdict": "OK",
+  "defects": [
+   "near-recolour of wagon 01"
+  ],
+  "fix": "Minor: vary the cover shape so the two wagons differ beyond colour.",
+  "scores": null,
+  "part": "review_part_022.json",
+  "auto_flags": [],
+  "tris": 1224,
+  "worker": "vh"
+ },
+ {
+  "id": "DS04_01_palm_01",
+  "verdict": "MINOR",
+  "defects": [
+   "thin spindly trunk",
+   "sparse drooping fronds look wiry",
+   "faint stray wire ring near base"
+  ],
+  "fix": "Thicken the trunk slightly and give the fronds more volume/breadth so the canopy reads as a palm; remove the stray wire geometry at the base.",
+  "scores": null,
+  "part": "review_part_023.json",
+  "auto_flags": [],
+  "tris": 2420,
+  "worker": "vh"
+ },
+ {
+  "id": "DS04_02_palm_02",
+  "verdict": "MINOR",
+  "defects": [
+   "spindly trunk",
+   "sparse fronds",
+   "near-identical to palm 01/03"
+  ],
+  "fix": "Fuller fronds and a stouter trunk; vary lean/height from siblings.",
+  "scores": null,
+  "part": "review_part_023.json",
+  "auto_flags": [],
+  "tris": 2420,
+  "worker": "vh"
+ },
+ {
+  "id": "DS04_03_palm_03",
+  "verdict": "MINOR",
+  "defects": [
+   "spindly trunk",
+   "sparse fronds",
+   "near-identical to siblings"
+  ],
+  "fix": "Fuller canopy and varied silhouette from palms 01/02.",
+  "scores": null,
+  "part": "review_part_023.json",
+  "auto_flags": [],
+  "tris": 2420,
+  "worker": "vh"
+ },
+ {
+  "id": "DS05_01_oasis_rock_ring_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_023.json",
+  "auto_flags": [],
+  "tris": 2534,
+  "worker": "vh"
+ },
+ {
+  "id": "DS05_02_oasis_rock_ring_02",
+  "verdict": "OK",
+  "defects": [
+   "near-recolour of ring 01"
+  ],
+  "fix": "Minor: rearrange rocks so the two rings differ in layout.",
+  "scores": null,
+  "part": "review_part_023.json",
+  "auto_flags": [],
+  "tris": 2534,
+  "worker": "vh"
+ },
+ {
+  "id": "DS06_01_canyon_wall_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_023.json",
+  "auto_flags": [],
+  "tris": 4584,
+  "worker": "vh"
+ },
+ {
+  "id": "DS06_02_canyon_wall_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_023.json",
+  "auto_flags": [],
+  "tris": 4620,
+  "worker": "vh"
+ },
+ {
+  "id": "DS06_03_canyon_wall_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_023.json",
+  "auto_flags": [],
+  "tris": 4620,
+  "worker": "vh"
+ },
+ {
+  "id": "DS06_04_canyon_wall_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_023.json",
+  "auto_flags": [],
+  "tris": 4620,
+  "worker": "vh"
+ },
+ {
+  "id": "DS07_01_hoodoo_arch_01",
+  "verdict": "MINOR",
+  "defects": [
+   "blocky square red/cream colour patches look like camouflage",
+   "reads as two separate spires, not an arch"
+  ],
+  "fix": "Blend the colour banding into horizontal strata and connect the tops into a clear arch span.",
+  "scores": null,
+  "part": "review_part_023.json",
+  "auto_flags": [],
+  "tris": 528,
+  "worker": "vh"
+ },
+ {
+  "id": "DS07_02_hoodoo_arch_02",
+  "verdict": "MINOR",
+  "defects": [
+   "patchy camouflage-like colour blocks",
+   "arch connection unclear"
+  ],
+  "fix": "Use layered horizontal rock bands instead of square patches and make the arch span read clearly.",
+  "scores": null,
+  "part": "review_part_023.json",
+  "auto_flags": [],
+  "tris": 636,
+  "worker": "vh"
+ },
+ {
+  "id": "DS07_03_hoodoo_arch_03",
+  "verdict": "OK",
+  "defects": [
+   "mild colour patchiness"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_023.json",
+  "auto_flags": [],
+  "tris": 828,
+  "worker": "vh"
+ },
+ {
+  "id": "DS07_04_hoodoo_arch_04",
+  "verdict": "MAJOR",
+  "defects": [
+   "collapsed into a chaotic pile of blocks with one thin spire",
+   "no legible arch",
+   "camouflage colour patches"
+  ],
+  "fix": "Rebuild as a clear eroded rock arch with a connected span; remove the scattered block rubble and fix colour banding.",
+  "scores": null,
+  "part": "review_part_024.json",
+  "auto_flags": [],
+  "tris": 924,
+  "worker": "vh"
+ },
+ {
+  "id": "DS08_01_underground_entrance_01",
+  "verdict": "MAJOR",
+  "defects": [
+   "flat wall with a staircase stuck on its face",
+   "jumble of clipping amorphous slabs",
+   "no readable entrance/opening",
+   "single flat sand colour"
+  ],
+  "fix": "Rebuild as a clear sunken doorway/ramp descending into the ground with framing and a dark opening; remove clipping slabs.",
+  "scores": null,
+  "part": "review_part_024.json",
+  "auto_flags": [],
+  "tris": 1812,
+  "worker": "vh"
+ },
+ {
+  "id": "DS08_02_underground_entrance_02",
+  "verdict": "MAJOR",
+  "defects": [
+   "same confusing clipping-slab mass as 01",
+   "no clear entrance"
+  ],
+  "fix": "Rebuild with a legible descending entrance and distinct ground opening.",
+  "scores": null,
+  "part": "review_part_024.json",
+  "auto_flags": [],
+  "tris": 1812,
+  "worker": "vh"
+ },
+ {
+  "id": "DS08_03_underground_entrance_03",
+  "verdict": "MAJOR",
+  "defects": [
+   "same illegible clipping composition",
+   "no entrance read"
+  ],
+  "fix": "Rebuild as a clear buried entrance; vary design from 01/02.",
+  "scores": null,
+  "part": "review_part_024.json",
+  "auto_flags": [],
+  "tris": 1824,
+  "worker": "vh"
+ },
+ {
+  "id": "CO01_01_coastal_cliff_01",
+  "verdict": "OK",
+  "defects": [
+   "green grass cap is a flat slab"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_014.json",
+  "auto_flags": [],
+  "tris": 2460,
+  "worker": "vf"
+ },
+ {
+  "id": "CO01_02_coastal_cliff_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_014.json",
+  "auto_flags": [],
+  "tris": 2268,
+  "worker": "vf"
+ },
+ {
+  "id": "CO01_03_coastal_cliff_03",
+  "verdict": "MINOR",
+  "defects": [
+   "flat black square cave hole reads as a void/hole in the slab"
+  ],
+  "fix": "Give the cave opening depth/recess so it is not a flat black square patch.",
+  "scores": null,
+  "part": "review_part_014.json",
+  "auto_flags": [],
+  "tris": 2304,
+  "worker": "vf"
+ },
+ {
+  "id": "CO01_04_coastal_cliff_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_014.json",
+  "auto_flags": [],
+  "tris": 2688,
+  "worker": "vf"
+ },
+ {
+  "id": "CO01_05_coastal_cliff_05",
+  "verdict": "MAJOR",
+  "defects": [
+   "thin bright cyan vertical waterfall strip reads as a glowing neon line",
+   "no-glow rule violation"
+  ],
+  "fix": "Replace the glowing cyan strip with a pale matte stepped waterfall, or remove it.",
+  "scores": null,
+  "part": "review_part_014.json",
+  "auto_flags": [],
+  "tris": 2616,
+  "worker": "vf"
+ },
+ {
+  "id": "CO01_06_coastal_cliff_06",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_014.json",
+  "auto_flags": [],
+  "tris": 2076,
+  "worker": "vf"
+ },
+ {
+  "id": "CO02_01_sea_stack_01",
+  "verdict": "OK",
+  "defects": [
+   "tiny green cap on a tall stack looks token"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_014.json",
+  "auto_flags": [],
+  "tris": 804,
+  "worker": "vf"
+ },
+ {
+  "id": "CO02_02_sea_stack_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_014.json",
+  "auto_flags": [],
+  "tris": 908,
+  "worker": "vf"
+ },
+ {
+  "id": "CO02_03_sea_stack_03",
+  "verdict": "OK",
+  "defects": [
+   "very similar to sea_stack_02"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_014.json",
+  "auto_flags": [],
+  "tris": 1092,
+  "worker": "vf"
+ },
+ {
+  "id": "CO03_01_reef_01",
+  "verdict": "MAJOR",
+  "defects": [
+   "blocky dark-grey camouflage colour patches on flat rock tops",
+   "very flat low slab, little relief"
+  ],
+  "fix": "Remove the random dark polygon patches, use smooth tonal variation, and give the reef bumpy 3D relief instead of flat slabs.",
+  "scores": null,
+  "part": "review_part_030.json",
+  "auto_flags": [],
+  "tris": 684,
+  "worker": "vi"
+ },
+ {
+  "id": "CO03_02_reef_02",
+  "verdict": "MAJOR",
+  "defects": [
+   "square dark camouflage patches on rock",
+   "flat jumbled slabs"
+  ],
+  "fix": "Replace blotchy patches with coherent rock colour; add rounded relief and settle overlapping slabs.",
+  "scores": null,
+  "part": "review_part_030.json",
+  "auto_flags": [],
+  "tris": 524,
+  "worker": "vi"
+ },
+ {
+  "id": "CO03_03_reef_03",
+  "verdict": "MAJOR",
+  "defects": [
+   "blocky dark colour patches",
+   "flat slab silhouette, samey with set"
+  ],
+  "fix": "Recolour evenly and add 3D reef shaping; vary from siblings.",
+  "scores": null,
+  "part": "review_part_030.json",
+  "auto_flags": [],
+  "tris": 684,
+  "worker": "vi"
+ },
+ {
+  "id": "CO03_04_reef_04",
+  "verdict": "MAJOR",
+  "defects": [
+   "dark camouflage patches",
+   "jumbled overlapping flat slabs read as clipping planes"
+  ],
+  "fix": "Rebuild as a solid low reef mound with even colour; merge the loose slabs.",
+  "scores": null,
+  "part": "review_part_030.json",
+  "auto_flags": [],
+  "tris": 524,
+  "worker": "vi"
+ },
+ {
+  "id": "CO03_05_reef_05",
+  "verdict": "MAJOR",
+  "defects": [
+   "square dark patches",
+   "messy overlapping flat plates"
+  ],
+  "fix": "Consolidate into one reef body, even rock tone, add relief.",
+  "scores": null,
+  "part": "review_part_030.json",
+  "auto_flags": [],
+  "tris": 684,
+  "worker": "vi"
+ },
+ {
+  "id": "CO03_06_reef_06",
+  "verdict": "MAJOR",
+  "defects": [
+   "camouflage dark patches",
+   "flat jumbled slabs, recolour of set"
+  ],
+  "fix": "Even recolour, 3D relief, differentiate from siblings.",
+  "scores": null,
+  "part": "review_part_030.json",
+  "auto_flags": [],
+  "tris": 524,
+  "worker": "vi"
+ },
+ {
+  "id": "CO04_01_sea_arch_01",
+  "verdict": "MINOR",
+  "defects": [
+   "flat grey stone, little colour variation"
+  ],
+  "fix": "Add weathered stone tone variation; silhouette is good.",
+  "scores": null,
+  "part": "review_part_030.json",
+  "auto_flags": [],
+  "tris": 876,
+  "worker": "vi"
+ },
+ {
+  "id": "CO04_02_sea_arch_02",
+  "verdict": "MINOR",
+  "defects": [
+   "flat grey, close to sea_arch_01"
+  ],
+  "fix": "Vary the arch profile from its sibling and add stone colour relief.",
+  "scores": null,
+  "part": "review_part_030.json",
+  "auto_flags": [],
+  "tris": 876,
+  "worker": "vi"
+ },
+ {
+  "id": "CO05_01_ruin_islet_01",
+  "verdict": "MINOR",
+  "defects": [
+   "green grass platform meets rock with a hard flat edge",
+   "base rock slightly jumbled"
+  ],
+  "fix": "Blend the grass cap onto the rock with a sloped rim and tidy the base boulders.",
+  "scores": null,
+  "part": "review_part_030.json",
+  "auto_flags": [],
+  "tris": 11264,
+  "worker": "vi"
+ },
+ {
+  "id": "CO05_02_ruin_islet_02",
+  "verdict": "MINOR",
+  "defects": [
+   "hard flat grass-on-rock seam",
+   "similar to islet_01"
+  ],
+  "fix": "Soften the grass rim and vary tower/tree arrangement.",
+  "scores": null,
+  "part": "review_part_030.json",
+  "auto_flags": [],
+  "tris": 11192,
+  "worker": "vi"
+ },
+ {
+  "id": "CO05_03_ruin_islet_03",
+  "verdict": "MAJOR",
+  "defects": [
+   "blocky tan/yellow colour patches on the base rock read as camouflage blotches",
+   "hard grass seam"
+  ],
+  "fix": "Remove the square sand-coloured patches, use coherent rock colour, and blend the grass cap.",
+  "scores": null,
+  "part": "review_part_030.json",
+  "auto_flags": [],
+  "tris": 11192,
+  "worker": "vi"
+ },
+ {
+  "id": "RD01_01_watchtower_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_031.json",
+  "auto_flags": [],
+  "tris": 2920,
+  "worker": "vi"
+ },
+ {
+  "id": "RD01_02_watchtower_02",
+  "verdict": "MINOR",
+  "defects": [
+   "plain featureless box, open/hollow top",
+   "no roof or crenellation detail"
+  ],
+  "fix": "Cap the open top and add a simple roof or crenellation so it does not read as a bare box.",
+  "scores": null,
+  "part": "review_part_031.json",
+  "auto_flags": [],
+  "tris": 370,
+  "worker": "vi"
+ },
+ {
+  "id": "RD01_03_watchtower_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_031.json",
+  "auto_flags": [],
+  "tris": 1628,
+  "worker": "vi"
+ },
+ {
+  "id": "RD01_04_watchtower_04",
+  "verdict": "MINOR",
+  "defects": [
+   "plain box walls with floating broken-crenellation chunks on top"
+  ],
+  "fix": "Anchor the broken battlement pieces to the wall top so none appear detached, and add slight wall relief.",
+  "scores": null,
+  "part": "review_part_031.json",
+  "auto_flags": [],
+  "tris": 370,
+  "worker": "vi"
+ },
+ {
+  "id": "RD02_01_camp_set_01",
+  "verdict": "MINOR",
+  "defects": [
+   "identical geometry to RD02_02/03, only recolored (variety)"
+  ],
+  "fix": "Differentiate the three tents by shape (size, awning, flap) instead of colour only.",
+  "scores": null,
+  "part": "review_part_031.json",
+  "auto_flags": [
+   "VERY FEW TRIANGLES"
+  ],
+  "tris": 108,
+  "worker": "vi"
+ },
+ {
+  "id": "RD02_02_camp_set_02",
+  "verdict": "MINOR",
+  "defects": [
+   "recolor of RD02_01 (variety)"
+  ],
+  "fix": "Give it distinct geometry from the other tents, not just a red skin.",
+  "scores": null,
+  "part": "review_part_031.json",
+  "auto_flags": [
+   "VERY FEW TRIANGLES"
+  ],
+  "tris": 108,
+  "worker": "vi"
+ },
+ {
+  "id": "RD02_03_camp_set_03",
+  "verdict": "MINOR",
+  "defects": [
+   "recolor of RD02_01 (variety)"
+  ],
+  "fix": "Give it distinct geometry from the other tents, not just a blue skin.",
+  "scores": null,
+  "part": "review_part_031.json",
+  "auto_flags": [
+   "VERY FEW TRIANGLES"
+  ],
+  "tris": 108,
+  "worker": "vi"
+ },
+ {
+  "id": "RD02_04_camp_set_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_031.json",
+  "auto_flags": [],
+  "tris": 232,
+  "worker": "vi"
+ },
+ {
+  "id": "RD02_05_camp_set_05",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_031.json",
+  "auto_flags": [],
+  "tris": 384,
+  "worker": "vi"
+ },
+ {
+  "id": "RD02_06_camp_set_06",
+  "verdict": "MINOR",
+  "defects": [
+   "dark gap/hole at bottom-front of the barrel"
+  ],
+  "fix": "Close the end cap so there is no see-through black gap at the barrel foot.",
+  "scores": null,
+  "part": "review_part_031.json",
+  "auto_flags": [],
+  "tris": 152,
+  "worker": "vi"
+ },
+ {
+  "id": "RD03_01_waystation_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_031.json",
+  "auto_flags": [],
+  "tris": 2488,
+  "worker": "vi"
+ },
+ {
+  "id": "RD03_02_waystation_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_031.json",
+  "auto_flags": [],
+  "tris": 4960,
+  "worker": "vi"
+ },
+ {
+  "id": "RD04_01_trading_post_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_032.json",
+  "auto_flags": [
+   "MANY MATERIALS 15"
+  ],
+  "tris": 4948,
+  "worker": "vi"
+ },
+ {
+  "id": "RD04_02_trading_post_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_032.json",
+  "auto_flags": [],
+  "tris": 4036,
+  "worker": "vi"
+ },
+ {
+  "id": "RD05_01_battlefield_prop_01",
+  "verdict": "MAJOR",
+  "defects": [
+   "unreadable silhouette",
+   "jumble of brown planks/wheel, no clear object",
+   "parts look detached/clipping"
+  ],
+  "fix": "Rebuild as a clearly readable prop (broken cart or barricade) with connected parts and a recognisable shape.",
+  "scores": null,
+  "part": "review_part_032.json",
+  "auto_flags": [],
+  "tris": 192,
+  "worker": "vi"
+ },
+ {
+  "id": "RD05_02_battlefield_prop_02",
+  "verdict": "MAJOR",
+  "defects": [
+   "silhouette does not read as anything",
+   "flat plank balanced on a rock/disc"
+  ],
+  "fix": "Redesign into an identifiable battlefield item (overturned table, broken shield stack) that reads at 30-60 studs.",
+  "scores": null,
+  "part": "review_part_032.json",
+  "auto_flags": [],
+  "tris": 192,
+  "worker": "vi"
+ },
+ {
+  "id": "RD05_03_battlefield_prop_03",
+  "verdict": "MAJOR",
+  "defects": [
+   "flat red slab on thin runners, unreadable",
+   "no believable object"
+  ],
+  "fix": "Rebuild as a recognisable fallen banner or sledge with volume, not a single flat slab.",
+  "scores": null,
+  "part": "review_part_032.json",
+  "auto_flags": [
+   "VERY FEW TRIANGLES"
+  ],
+  "tris": 100,
+  "worker": "vi"
+ },
+ {
+  "id": "RD05_04_battlefield_prop_04",
+  "verdict": "MINOR",
+  "defects": [
+   "reads as a spiked barricade but crude/boxy"
+  ],
+  "fix": "Vary spike angles and add a base rail so it reads clearly as a cheval-de-frise.",
+  "scores": null,
+  "part": "review_part_032.json",
+  "auto_flags": [],
+  "tris": 232,
+  "worker": "vi"
+ },
+ {
+  "id": "RD05_05_battlefield_prop_05",
+  "verdict": "REDO",
+  "defects": [
+   "detached floating red and blue disc parts",
+   "exploded, not assembled",
+   "no coherent object"
+  ],
+  "fix": "Rebuild from scratch as a single connected prop; the current parts float apart and read as broken.",
+  "scores": null,
+  "part": "review_part_032.json",
+  "auto_flags": [],
+  "tris": 572,
+  "worker": "vi"
+ },
+ {
+  "id": "RD06_01_abandoned_house_01",
+  "verdict": "MAJOR",
+  "defects": [
+   "large flat grey slab wall with no detail",
+   "chimney/parts appear detached",
+   "collapse reads as a defect not ruin"
+  ],
+  "fix": "Replace the blank grey slab with a broken half-timber wall, anchor the chimney, and make the collapse intentional.",
+  "scores": null,
+  "part": "review_part_032.json",
+  "auto_flags": [],
+  "tris": 772,
+  "worker": "vi"
+ },
+ {
+  "id": "RD06_02_abandoned_house_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_032.json",
+  "auto_flags": [],
+  "tris": 2516,
+  "worker": "vi"
+ },
+ {
+  "id": "RD06_03_abandoned_house_03",
+  "verdict": "MAJOR",
+  "defects": [
+   "huge blank dark slab dominates",
+   "silhouette unreadable as a house",
+   "flat untextured faces"
+  ],
+  "fix": "Rebuild the fallen wall as a ruined timber-framed panel with debris; remove the featureless slab.",
+  "scores": null,
+  "part": "review_part_032.json",
+  "auto_flags": [],
+  "tris": 772,
+  "worker": "vi"
+ },
+ {
+  "id": "RD06_04_abandoned_house_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_032.json",
+  "auto_flags": [],
+  "tris": 3926,
+  "worker": "vi"
+ },
+ {
+  "id": "RD06_05_abandoned_house_05",
+  "verdict": "MAJOR",
+  "defects": [
+   "blank flat grey slab wall",
+   "no house relief",
+   "collapse looks broken not designed"
+  ],
+  "fix": "Give the standing wall half-timber relief and windows; make the rubble read as deliberate ruin.",
+  "scores": null,
+  "part": "review_part_032.json",
+  "auto_flags": [],
+  "tris": 772,
+  "worker": "vi"
+ },
+ {
+  "id": "VG01_01_tree_tall_narrow_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_015.json",
+  "auto_flags": [],
+  "tris": 2084,
+  "worker": "vf"
+ },
+ {
+  "id": "VG01_02_tree_tall_narrow_02",
+  "verdict": "OK",
+  "defects": [
+   "near-identical to tree_tall_narrow_01"
+  ],
+  "fix": "Vary the foliage silhouette so 01 and 02 are not recolour-identical.",
+  "scores": null,
+  "part": "review_part_015.json",
+  "auto_flags": [],
+  "tris": 2084,
+  "worker": "vf"
+ },
+ {
+  "id": "VG01_03_tree_tall_narrow_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_015.json",
+  "auto_flags": [],
+  "tris": 2832,
+  "worker": "vf"
+ },
+ {
+  "id": "VG02_01_tree_old_oak_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_015.json",
+  "auto_flags": [],
+  "tris": 2844,
+  "worker": "vf"
+ },
+ {
+  "id": "VG02_02_tree_old_oak_02",
+  "verdict": "OK",
+  "defects": [
+   "very similar to old_oak_01"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_015.json",
+  "auto_flags": [],
+  "tris": 2844,
+  "worker": "vf"
+ },
+ {
+  "id": "VG03_01_tree_flowering_01",
+  "verdict": "MINOR",
+  "defects": [
+   "pink blossom and green foliage sit as separate blotchy patches rather than blended blossom",
+   "reads as two colours slapped on"
+  ],
+  "fix": "Intermix smaller pink blossom clumps through the green canopy so the blossom reads natural, not patchy.",
+  "scores": null,
+  "part": "review_part_015.json",
+  "auto_flags": [],
+  "tris": 2832,
+  "worker": "vf"
+ },
+ {
+  "id": "VG03_02_tree_flowering_02",
+  "verdict": "MINOR",
+  "defects": [
+   "same patchy pink-on-green blotching as flowering_01"
+  ],
+  "fix": "Blend the pink blossom clusters into the canopy rather than large flat patches.",
+  "scores": null,
+  "part": "review_part_015.json",
+  "auto_flags": [],
+  "tris": 2832,
+  "worker": "vf"
+ },
+ {
+  "id": "VG04_01_tree_birch_01",
+  "verdict": "MAJOR",
+  "defects": [
+   "canopy covered in flat yellow blotches, reads diseased not birch",
+   "splayed flat-white trunk looks like an open cone, not bark"
+  ],
+  "fix": "Use a slim upright white-bark trunk with dark lenticel marks and a predominantly green canopy with light accents, not large yellow patches.",
+  "scores": null,
+  "part": "review_part_019.json",
+  "auto_flags": [],
+  "tris": 2168,
+  "worker": "vg"
+ },
+ {
+  "id": "VG04_02_tree_birch_02",
+  "verdict": "MAJOR",
+  "defects": [
+   "same yellow-blotch canopy and splayed cone trunk as 01"
+  ],
+  "fix": "Rebuild trunk as a thin upright birch bole and reduce yellow to subtle autumn accents.",
+  "scores": null,
+  "part": "review_part_019.json",
+  "auto_flags": [],
+  "tris": 2168,
+  "worker": "vg"
+ },
+ {
+  "id": "VG04_03_tree_birch_03",
+  "verdict": "MAJOR",
+  "defects": [
+   "clone of 01/02 with same trunk and blotch defects"
+  ],
+  "fix": "Fix the trunk and canopy as above and vary the shape from its siblings.",
+  "scores": null,
+  "part": "review_part_019.json",
+  "auto_flags": [],
+  "tris": 2168,
+  "worker": "vg"
+ },
+ {
+  "id": "VG05_01_tree_cypress_swamp_01",
+  "verdict": "OK",
+  "defects": [
+   "thin root/vine wisps slightly stray"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_019.json",
+  "auto_flags": [],
+  "tris": 1852,
+  "worker": "vg"
+ },
+ {
+  "id": "VG05_02_tree_cypress_swamp_02",
+  "verdict": "MINOR",
+  "defects": [
+   "near-recolour of VG05_01"
+  ],
+  "fix": "Vary canopy mass and root spread.",
+  "scores": null,
+  "part": "review_part_019.json",
+  "auto_flags": [],
+  "tris": 1852,
+  "worker": "vg"
+ },
+ {
+  "id": "VG05_03_tree_cypress_swamp_03",
+  "verdict": "MINOR",
+  "defects": [
+   "near-clone of VG05_01/02"
+  ],
+  "fix": "Differentiate canopy silhouette and trunk from siblings.",
+  "scores": null,
+  "part": "review_part_020.json",
+  "auto_flags": [],
+  "tris": 1852,
+  "worker": "vg"
+ },
+ {
+  "id": "VG06_01_marsh_hummock_01",
+  "verdict": "MINOR",
+  "defects": [
+   "single flat green faceted slab mound with no relief or detail",
+   "no texture of marsh grass/moss"
+  ],
+  "fix": "Add tufts, mud rim and height variation so it reads as a marsh hummock, not a flat green shard.",
+  "scores": null,
+  "part": "review_part_020.json",
+  "auto_flags": [],
+  "tris": 396,
+  "worker": "vg"
+ },
+ {
+  "id": "VG06_02_marsh_hummock_02",
+  "verdict": "MINOR",
+  "defects": [
+   "near-duplicate of 01; flat untextured green"
+  ],
+  "fix": "Vary the shape and add detail/mud edge.",
+  "scores": null,
+  "part": "review_part_020.json",
+  "auto_flags": [],
+  "tris": 396,
+  "worker": "vg"
+ },
+ {
+  "id": "VG07_01_boardwalk_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_020.json",
+  "auto_flags": [],
+  "tris": 664,
+  "worker": "vg"
+ },
+ {
+  "id": "VG07_02_boardwalk_02",
+  "verdict": "OK",
+  "defects": [
+   "near variant of 01 but rail difference is enough"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_020.json",
+  "auto_flags": [],
+  "tris": 736,
+  "worker": "vg"
+ },
+ {
+  "id": "TW01_01_town1_hero_statue",
+  "verdict": "MINOR",
+  "defects": [
+   "face is crude flat-boxy",
+   "staff reads thin"
+  ],
+  "fix": "Add simple carved robe folds and a thicker staff so it reads as a hero statue up close.",
+  "scores": null,
+  "part": "review_part_011.json",
+  "auto_flags": [],
+  "tris": 1314,
+  "worker": "ve"
+ },
+ {
+  "id": "TW02_01_street_life_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_011.json",
+  "auto_flags": [],
+  "tris": 744,
+  "worker": "ve"
+ },
+ {
+  "id": "TW02_02_street_life_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_011.json",
+  "auto_flags": [],
+  "tris": 628,
+  "worker": "ve"
+ },
+ {
+  "id": "TW02_03_street_life_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_011.json",
+  "auto_flags": [],
+  "tris": 408,
+  "worker": "ve"
+ },
+ {
+  "id": "TW02_04_street_life_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_011.json",
+  "auto_flags": [],
+  "tris": 482,
+  "worker": "ve"
+ },
+ {
+  "id": "TW02_05_street_life_05",
+  "verdict": "OK",
+  "defects": [
+   "stacked barrels/wheels a little uniform"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_011.json",
+  "auto_flags": [],
+  "tris": 1944,
+  "worker": "ve"
+ },
+ {
+  "id": "TW02_06_street_life_06",
+  "verdict": "MINOR",
+  "defects": [
+   "bracket+gong reads ambiguous as a street prop",
+   "cylinder on ground looks detached"
+  ],
+  "fix": "Ground the fallen log/bell and clarify what the prop is; thicken the mount.",
+  "scores": null,
+  "part": "review_part_011.json",
+  "auto_flags": [],
+  "tris": 184,
+  "worker": "ve"
+ },
+ {
+  "id": "TW02_07_street_life_07",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_011.json",
+  "auto_flags": [],
+  "tris": 224,
+  "worker": "ve"
+ },
+ {
+  "id": "TW02_08_street_life_08",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_011.json",
+  "auto_flags": [],
+  "tris": 212,
+  "worker": "ve"
+ },
+ {
+  "id": "RV01_01_bank_rock_01",
+  "verdict": "MINOR",
+  "defects": [
+   "near-monochrome flat grey, little colour",
+   "reads as default grey rock"
+  ],
+  "fix": "Add subtle earth/moss colour variation so it does not read as a grey default blockout.",
+  "scores": null,
+  "part": "review_part_033.json",
+  "auto_flags": [],
+  "tris": 576,
+  "worker": "vi"
+ },
+ {
+  "id": "RV01_02_bank_rock_02",
+  "verdict": "MINOR",
+  "defects": [
+   "flat grey, same style as siblings (variety/colour)"
+  ],
+  "fix": "Vary tone and add a touch of moss/soil; differentiate shape from RV01_01.",
+  "scores": null,
+  "part": "review_part_033.json",
+  "auto_flags": [],
+  "tris": 576,
+  "worker": "vi"
+ },
+ {
+  "id": "RV01_03_bank_rock_03",
+  "verdict": "MINOR",
+  "defects": [
+   "flat grey monochrome, little relief colour"
+  ],
+  "fix": "Introduce colour variation and avoid the uniform grey default look.",
+  "scores": null,
+  "part": "review_part_033.json",
+  "auto_flags": [],
+  "tris": 576,
+  "worker": "vi"
+ },
+ {
+  "id": "RV01_04_bank_rock_04",
+  "verdict": "MINOR",
+  "defects": [
+   "flat grey, reads like a recolor-less sibling"
+  ],
+  "fix": "Add colour/tone variation and distinguish silhouette from the other bank rocks.",
+  "scores": null,
+  "part": "review_part_033.json",
+  "auto_flags": [],
+  "tris": 576,
+  "worker": "vi"
+ },
+ {
+  "id": "VC01_01_volcanic_rock_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_024.json",
+  "auto_flags": [],
+  "tris": 2212,
+  "worker": "vh"
+ },
+ {
+  "id": "VC01_02_volcanic_rock_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_024.json",
+  "auto_flags": [],
+  "tris": 2312,
+  "worker": "vh"
+ },
+ {
+  "id": "VC01_03_volcanic_rock_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_024.json",
+  "auto_flags": [],
+  "tris": 2412,
+  "worker": "vh"
+ },
+ {
+  "id": "VC01_04_volcanic_rock_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_024.json",
+  "auto_flags": [],
+  "tris": 2512,
+  "worker": "vh"
+ },
+ {
+  "id": "VC01_05_volcanic_rock_05",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_024.json",
+  "auto_flags": [],
+  "tris": 2212,
+  "worker": "vh"
+ },
+ {
+  "id": "VC01_06_volcanic_rock_06",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_024.json",
+  "auto_flags": [],
+  "tris": 2312,
+  "worker": "vh"
+ },
+ {
+  "id": "VC01_07_volcanic_rock_07",
+  "verdict": "MINOR",
+  "defects": [
+   "tiny stray block floating at bottom-right"
+  ],
+  "fix": "Remove the small detached fragment near the base.",
+  "scores": null,
+  "part": "review_part_024.json",
+  "auto_flags": [],
+  "tris": 2412,
+  "worker": "vh"
+ },
+ {
+  "id": "VC01_08_volcanic_rock_08",
+  "verdict": "MINOR",
+  "defects": [
+   "small stray fragment at base",
+   "set of 8 feel like close variants"
+  ],
+  "fix": "Remove the loose fragment; vary spire arrangement across the set.",
+  "scores": null,
+  "part": "review_part_024.json",
+  "auto_flags": [],
+  "tris": 2512,
+  "worker": "vh"
+ },
+ {
+  "id": "VC02_01_skull_cliff_hero_01",
+  "verdict": "MINOR",
+  "defects": [
+   "white skull sits in front of a thin stacked-slab cliff; slabs read as stacked paper",
+   "skull jaw/teeth block floats slightly below"
+  ],
+  "fix": "Make the cliff chunky faceted dark rock rather than thin stacked plates and seat the jaw flush to the skull.",
+  "scores": null,
+  "part": "review_part_015.json",
+  "auto_flags": [],
+  "tris": 6632,
+  "worker": "vf"
+ },
+ {
+  "id": "VC02_02_skull_cliff_hero_02",
+  "verdict": "MINOR",
+  "defects": [
+   "horned skull version, same thin stacked-slab cliff issue",
+   "near recolour/variant of 01"
+  ],
+  "fix": "Differentiate from 01 and rebuild the slab cliff as solid faceted rock.",
+  "scores": null,
+  "part": "review_part_015.json",
+  "auto_flags": [],
+  "tris": 7464,
+  "worker": "vf"
+ },
+ {
+  "id": "VC03_01_dark_fort_ruin_01",
+  "verdict": "MINOR",
+  "defects": [
+   "a few loose detached blocks/poles at the base"
+  ],
+  "fix": "Seat or remove the stray fragments lying at the foot of the walls.",
+  "scores": null,
+  "part": "review_part_025.json",
+  "auto_flags": [],
+  "tris": 5840,
+  "worker": "vh"
+ },
+ {
+  "id": "VC03_02_dark_fort_ruin_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_025.json",
+  "auto_flags": [],
+  "tris": 6844,
+  "worker": "vh"
+ },
+ {
+  "id": "VC03_03_dark_fort_ruin_03",
+  "verdict": "MINOR",
+  "defects": [
+   "small detached bits at base"
+  ],
+  "fix": "Clean up loose ground fragments.",
+  "scores": null,
+  "part": "review_part_025.json",
+  "auto_flags": [],
+  "tris": 5840,
+  "worker": "vh"
+ },
+ {
+  "id": "VC04_01_skull_city_building_01",
+  "verdict": "REDO",
+  "defects": [
+   "hollow open grey box, not a building",
+   "detached wooden poles float above it",
+   "no roof, no facade, no identity"
+  ],
+  "fix": "Rebuild as a recognisable ruined building with walls, an opening and seated/attached timber beams instead of a hollow box with floating poles.",
+  "scores": null,
+  "part": "review_part_025.json",
+  "auto_flags": [],
+  "tris": 332,
+  "worker": "vh"
+ },
+ {
+  "id": "VC04_02_skull_city_building_02",
+  "verdict": "REDO",
+  "defects": [
+   "open hollow box",
+   "floating detached poles",
+   "unreadable"
+  ],
+  "fix": "Rebuild as an identifiable structure with attached beams.",
+  "scores": null,
+  "part": "review_part_025.json",
+  "auto_flags": [],
+  "tris": 332,
+  "worker": "vh"
+ },
+ {
+  "id": "VC04_03_skull_city_building_03",
+  "verdict": "MAJOR",
+  "defects": [
+   "mostly a hollow box but has a broken tower",
+   "poles float detached above"
+  ],
+  "fix": "Attach the timber beams to the structure and close/define the box into a readable ruined building.",
+  "scores": null,
+  "part": "review_part_025.json",
+  "auto_flags": [],
+  "tris": 1116,
+  "worker": "vh"
+ },
+ {
+  "id": "VC04_04_skull_city_building_04",
+  "verdict": "REDO",
+  "defects": [
+   "hollow open box",
+   "floating detached poles",
+   "no identity"
+  ],
+  "fix": "Rebuild as a recognisable building with attached beams.",
+  "scores": null,
+  "part": "review_part_025.json",
+  "auto_flags": [],
+  "tris": 332,
+  "worker": "vh"
+ },
+ {
+  "id": "VC04_05_skull_city_building_05",
+  "verdict": "REDO",
+  "defects": [
+   "hollow open box",
+   "floating detached poles"
+  ],
+  "fix": "Rebuild into an identifiable structure; attach the beams.",
+  "scores": null,
+  "part": "review_part_025.json",
+  "auto_flags": [],
+  "tris": 332,
+  "worker": "vh"
+ },
+ {
+  "id": "VC04_06_skull_city_building_06",
+  "verdict": "MAJOR",
+  "defects": [
+   "hollow box with a broken tower stub",
+   "floating detached poles"
+  ],
+  "fix": "Attach beams and define the box into a readable ruined building.",
+  "scores": null,
+  "part": "review_part_025.json",
+  "auto_flags": [],
+  "tris": 1116,
+  "worker": "vh"
+ },
+ {
+  "id": "FL01_01_floating_island_hero_01",
+  "verdict": "MINOR",
+  "defects": [
+   "underside is a stack of thin flat square plates, reads artificial close up",
+   "top layout near-identical to FL01_02/03 (variety)"
+  ],
+  "fix": "Reshape the underside into a tapering natural rock/root mass; vary the tower+tree arrangement between the three heroes.",
+  "scores": null,
+  "part": "review_part_033.json",
+  "auto_flags": [],
+  "tris": 16804,
+  "worker": "vi"
+ },
+ {
+  "id": "FL01_02_floating_island_hero_02",
+  "verdict": "MINOR",
+  "defects": [
+   "same stacked-plate underside",
+   "same ruined tower and tree layout as siblings"
+  ],
+  "fix": "Give it a distinct top composition and a less papery underside.",
+  "scores": null,
+  "part": "review_part_033.json",
+  "auto_flags": [],
+  "tris": 16792,
+  "worker": "vi"
+ },
+ {
+  "id": "FL01_03_floating_island_hero_03",
+  "verdict": "MINOR",
+  "defects": [
+   "stacked-plate underside",
+   "layout repeats FL01_01/02"
+  ],
+  "fix": "Differentiate the island shape and props from the other two heroes.",
+  "scores": null,
+  "part": "review_part_033.json",
+  "auto_flags": [],
+  "tris": 16768,
+  "worker": "vi"
+ },
+ {
+  "id": "FL02_01_floating_island_small_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_033.json",
+  "auto_flags": [],
+  "tris": 642,
+  "worker": "vi"
+ },
+ {
+  "id": "FL02_02_floating_island_small_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_033.json",
+  "auto_flags": [],
+  "tris": 642,
+  "worker": "vi"
+ },
+ {
+  "id": "FL02_03_floating_island_small_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_033.json",
+  "auto_flags": [],
+  "tris": 642,
+  "worker": "vi"
+ },
+ {
+  "id": "SP01_01_snow_spire_cluster_01",
+  "verdict": "MAJOR",
+  "defects": [
+   "blocky black/grey/white square camouflage patches over the spire",
+   "very thin pencil-like spire reads as a pole, weak silhouette",
+   "base rocks look detached"
+  ],
+  "fix": "Replace the camo patches with coherent snow-over-grey-rock shading, thicken the spire taper, and seat the base rocks into the mass.",
+  "scores": null,
+  "part": "review_part_020.json",
+  "auto_flags": [],
+  "tris": 1416,
+  "worker": "vg"
+ },
+ {
+  "id": "SP01_02_snow_spire_cluster_02",
+  "verdict": "MAJOR",
+  "defects": [
+   "identical camouflage-patch and thin-spire problem as 01"
+  ],
+  "fix": "Same fix as SP01_01; also vary silhouette so it is not a clone.",
+  "scores": null,
+  "part": "review_part_020.json",
+  "auto_flags": [],
+  "tris": 1416,
+  "worker": "vg"
+ },
+ {
+  "id": "SP01_03_snow_spire_cluster_03",
+  "verdict": "MAJOR",
+  "defects": [
+   "camo patches, thin spire, clone of the set"
+  ],
+  "fix": "Recolour coherently, thicken, and differentiate shape.",
+  "scores": null,
+  "part": "review_part_020.json",
+  "auto_flags": [],
+  "tris": 1416,
+  "worker": "vg"
+ },
+ {
+  "id": "SP01_04_snow_spire_cluster_04",
+  "verdict": "MAJOR",
+  "defects": [
+   "camo patches, thin spire, clone"
+  ],
+  "fix": "Recolour coherently, thicken, and differentiate shape.",
+  "scores": null,
+  "part": "review_part_020.json",
+  "auto_flags": [],
+  "tris": 1416,
+  "worker": "vg"
+ },
+ {
+  "id": "SP01_05_snow_spire_cluster_05",
+  "verdict": "MAJOR",
+  "defects": [
+   "camo patches, thin spire, clone"
+  ],
+  "fix": "Recolour coherently, thicken, and differentiate shape.",
+  "scores": null,
+  "part": "review_part_020.json",
+  "auto_flags": [],
+  "tris": 1416,
+  "worker": "vg"
+ },
+ {
+  "id": "SP01_06_snow_spire_cluster_06",
+  "verdict": "MAJOR",
+  "defects": [
+   "camo patches, thin spire, clone"
+  ],
+  "fix": "Recolour coherently, thicken, and differentiate shape.",
+  "scores": null,
+  "part": "review_part_020.json",
+  "auto_flags": [],
+  "tris": 1416,
+  "worker": "vg"
+ },
+ {
+  "id": "SD01_01_red_mesa_cluster_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_025.json",
+  "auto_flags": [],
+  "tris": 1284,
+  "worker": "vh"
+ },
+ {
+  "id": "SD01_02_red_mesa_cluster_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_025.json",
+  "auto_flags": [],
+  "tris": 1500,
+  "worker": "vh"
+ },
+ {
+  "id": "SD01_03_red_mesa_cluster_03",
+  "verdict": "OK",
+  "defects": [
+   "layout close to siblings"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_025.json",
+  "auto_flags": [],
+  "tris": 1272,
+  "worker": "vh"
+ },
+ {
+  "id": "SD01_04_red_mesa_cluster_04",
+  "verdict": "MAJOR",
+  "defects": [
+   "silhouette wrong: stacked flat slabs, not a broad flat-topped mesa",
+   "teetering pancake-tower look",
+   "thin flat debris planes at base"
+  ],
+  "fix": "Rebuild as a broad flat-topped butte with sloped sides and horizontal strata, wider than tall; remove the stacked-box tower shape.",
+  "scores": null,
+  "part": "review_part_026.json",
+  "auto_flags": [],
+  "tris": 1368,
+  "worker": "vh"
+ },
+ {
+  "id": "SD01_05_red_mesa_cluster_05",
+  "verdict": "MAJOR",
+  "defects": [
+   "reads as a stack of coins/slabs, not a mesa",
+   "narrow unstable silhouette",
+   "flat ground debris planes"
+  ],
+  "fix": "Reshape into one solid wide red rock mass with eroded flanks; keep the red/tan banding but lose the pancake stacking.",
+  "scores": null,
+  "part": "review_part_026.json",
+  "auto_flags": [],
+  "tris": 1260,
+  "worker": "vh"
+ },
+ {
+  "id": "SD01_06_red_mesa_cluster_06",
+  "verdict": "MAJOR",
+  "defects": [
+   "slab-stack tower not a mesa",
+   "flat clipping debris planes around base"
+  ],
+  "fix": "Rebuild as a broad buttressed mesa form; replace flat base planes with chunky fallen rocks.",
+  "scores": null,
+  "part": "review_part_026.json",
+  "auto_flags": [],
+  "tris": 1416,
+  "worker": "vh"
+ },
+ {
+  "id": "SD02_01_desert_ruin_block_01",
+  "verdict": "MINOR",
+  "defects": [
+   "thin flat debris planes jutting from base",
+   "slight variety overlap with siblings"
+  ],
+  "fix": "Replace the flat ground slabs with small 3D rubble chunks.",
+  "scores": null,
+  "part": "review_part_026.json",
+  "auto_flags": [],
+  "tris": 1480,
+  "worker": "vh"
+ },
+ {
+  "id": "SD02_02_desert_ruin_block_02",
+  "verdict": "MINOR",
+  "defects": [
+   "flat debris planes at base",
+   "similar massing to other SD02 blocks"
+  ],
+  "fix": "Swap flat base planes for volumetric rubble and vary the broken-wall skyline.",
+  "scores": null,
+  "part": "review_part_026.json",
+  "auto_flags": [],
+  "tris": 1724,
+  "worker": "vh"
+ },
+ {
+  "id": "SD02_03_desert_ruin_block_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_026.json",
+  "auto_flags": [],
+  "tris": 1968,
+  "worker": "vh"
+ },
+ {
+  "id": "SD02_04_desert_ruin_block_04",
+  "verdict": "MINOR",
+  "defects": [
+   "flat debris planes at base",
+   "reads as recolour/remix of SD02_01"
+  ],
+  "fix": "Give it a distinct broken silhouette and 3D rubble instead of flat slabs.",
+  "scores": null,
+  "part": "review_part_026.json",
+  "auto_flags": [],
+  "tris": 1480,
+  "worker": "vh"
+ },
+ {
+  "id": "SD02_05_desert_ruin_block_05",
+  "verdict": "MINOR",
+  "defects": [
+   "thin flat base planes",
+   "variety overlap with siblings"
+  ],
+  "fix": "Vary massing and replace flat ground planes with chunky debris.",
+  "scores": null,
+  "part": "review_part_026.json",
+  "auto_flags": [],
+  "tris": 1688,
+  "worker": "vh"
+ },
+ {
+  "id": "SD02_06_desert_ruin_block_06",
+  "verdict": "MINOR",
+  "defects": [
+   "flat debris planes jutting at base"
+  ],
+  "fix": "Replace flat slabs with small solid rubble blocks.",
+  "scores": null,
+  "part": "review_part_026.json",
+  "auto_flags": [],
+  "tris": 1968,
+  "worker": "vh"
+ },
+ {
+  "id": "BR01_01_viaduct_bridge_01",
+  "verdict": "MINOR",
+  "defects": [
+   "dark/inverted patches visible in the arch spandrels under the deck"
+  ],
+  "fix": "Check face normals under the arches; fill the spandrels so no black inverted faces show.",
+  "scores": null,
+  "part": "review_part_033.json",
+  "auto_flags": [],
+  "tris": 3680,
+  "worker": "vi"
+ },
+ {
+  "id": "BR01_02_viaduct_bridge_02",
+  "verdict": "MAJOR",
+  "defects": [
+   "black inverted faces under the arches",
+   "unexplained grey slab block sitting on the deck midway"
+  ],
+  "fix": "Fix the inverted arch faces and remove or justify the grey block on the deck; it reads as a stray/clipping part.",
+  "scores": null,
+  "part": "review_part_033.json",
+  "auto_flags": [],
+  "tris": 3692,
+  "worker": "vi"
+ },
+ {
+  "id": "HB01_01_harbour_wall_tower_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_034.json",
+  "auto_flags": [],
+  "tris": 2236,
+  "worker": "vi"
+ },
+ {
+  "id": "HB01_02_harbour_wall_tower_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_034.json",
+  "auto_flags": [],
+  "tris": 290,
+  "worker": "vi"
+ },
+ {
+  "id": "HB01_03_harbour_wall_tower_03",
+  "verdict": "MINOR",
+  "defects": [
+   "plain flat grey box, little relief",
+   "reads slightly bland/default"
+  ],
+  "fix": "Add stone colour/trim or corner detail so it is not a flat grey cube with two windows.",
+  "scores": null,
+  "part": "review_part_034.json",
+  "auto_flags": [],
+  "tris": 336,
+  "worker": "vi"
+ },
+ {
+  "id": "VL01_01_village_church_spire",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_034.json",
+  "auto_flags": [],
+  "tris": 1634,
+  "worker": "vi"
+ },
+ {
+  "id": "RW01_01_rework_existing_01",
+  "verdict": "MAJOR",
+  "defects": [
+   "crude stack of offset coloured slabs",
+   "silhouette does not read as a clear structure",
+   "slabs look loosely piled/unstable"
+  ],
+  "fix": "Rebuild as a coherent tower/mesa with aligned, connected courses instead of randomly offset flat slabs.",
+  "scores": null,
+  "part": "review_part_034.json",
+  "auto_flags": [],
+  "tris": 1356,
+  "worker": "vj"
+ },
+ {
+  "id": "RW01_02_rework_existing_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_034.json",
+  "auto_flags": [],
+  "tris": 372,
+  "worker": "vj"
+ },
+ {
+  "id": "RW01_03_rework_existing_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_034.json",
+  "auto_flags": [],
+  "tris": 10712,
+  "worker": "vj"
+ },
+ {
+  "id": "RW01_04_rework_existing_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_034.json",
+  "auto_flags": [],
+  "tris": 10712,
+  "worker": "vj"
+ },
+ {
+  "id": "RW02_01_rework_world_tree_roots",
+  "verdict": "OK",
+  "defects": [
+   "slight gap between radial roots at centre"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_011.json",
+  "auto_flags": [],
+  "tris": 15432,
+  "worker": "ve"
+ },
+ {
+  "id": "NE01_01_village_sign_01",
+  "verdict": "MAJOR",
+  "defects": [
+   "does not read as a village sign: a grey slab with a row of pale cylinders and a small black flag",
+   "ambiguous silhouette, looks like an organ or crate, crude versus sibling signs"
+  ],
+  "fix": "rebuild as a clear notice board on a post with a legible board face, matching the NE01 sign set",
+  "scores": null,
+  "part": "review_part_005.json",
+  "auto_flags": [],
+  "tris": 264,
+  "worker": "vc"
+ },
+ {
+  "id": "NE01_02_village_sign_02",
+  "verdict": "OK",
+  "defects": [
+   "board on a post with leaf motif, reads as a sign"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_005.json",
+  "auto_flags": [
+   "SIZE depth 5.48 vs 4"
+  ],
+  "tris": 388,
+  "worker": "vc"
+ },
+ {
+  "id": "NE01_03_village_sign_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_005.json",
+  "auto_flags": [],
+  "tris": 252,
+  "worker": "vc"
+ },
+ {
+  "id": "NE01_04_village_sign_04",
+  "verdict": "MINOR",
+  "defects": [
+   "board sits on a plain tapered sand-coloured plinth that reads as a blank wedge"
+  ],
+  "fix": "slim the base to a post or add detail so the plinth does not dominate the sign",
+  "scores": null,
+  "part": "review_part_005.json",
+  "auto_flags": [],
+  "tris": 240,
+  "worker": "vc"
+ },
+ {
+  "id": "NE01_05_village_sign_05",
+  "verdict": "OK",
+  "defects": [
+   "anchor emblem board, good harbour-sign read"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_005.json",
+  "auto_flags": [
+   "SIZE depth 2.91 vs 4"
+  ],
+  "tris": 316,
+  "worker": "vc"
+ },
+ {
+  "id": "NE01_06_village_sign_06",
+  "verdict": "OK",
+  "defects": [
+   "coloured notice board with posters, reads well"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_005.json",
+  "auto_flags": [
+   "SIZE depth 2.73 vs 4"
+  ],
+  "tris": 244,
+  "worker": "vc"
+ },
+ {
+  "id": "NE02_01_entry_rock_pair_01",
+  "verdict": "MINOR",
+  "defects": [
+   "small stray green/flat patch at base"
+  ],
+  "fix": "remove the stray green vertex/face at the base; keep faceting",
+  "scores": null,
+  "part": "review_part_006.json",
+  "auto_flags": [],
+  "tris": 576,
+  "worker": "vc"
+ },
+ {
+  "id": "NE02_02_entry_rock_pair_02",
+  "verdict": "MINOR",
+  "defects": [
+   "stray white flat patch on upper face"
+  ],
+  "fix": "delete the flat white sliver face on the top-right boulder",
+  "scores": null,
+  "part": "review_part_006.json",
+  "auto_flags": [
+   "SIZE depth 17.02 vs 22"
+  ],
+  "tris": 576,
+  "worker": "vc"
+ },
+ {
+  "id": "NE02_03_entry_rock_pair_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_006.json",
+  "auto_flags": [
+   "SIZE depth 14.2 vs 22"
+  ],
+  "tris": 552,
+  "worker": "vc"
+ },
+ {
+  "id": "NE02_04_entry_rock_pair_04",
+  "verdict": "MINOR",
+  "defects": [
+   "very dark near-black rock colour vs cream siblings"
+  ],
+  "fix": "lighten to a natural grey so it matches the other entry rocks",
+  "scores": null,
+  "part": "review_part_006.json",
+  "auto_flags": [],
+  "tris": 696,
+  "worker": "vc"
+ },
+ {
+  "id": "EV01_01_elf_house_new_01",
+  "verdict": "MINOR",
+  "defects": [
+   "stacked ring tiers at base look slightly offset/clipping",
+   "loose plank segments at ground"
+  ],
+  "fix": "Align the stacked base rings cleanly and seat the ground planks flush.",
+  "scores": null,
+  "part": "review_part_011.json",
+  "auto_flags": [],
+  "tris": 4040,
+  "worker": "ve"
+ },
+ {
+  "id": "EV01_02_elf_house_new_02",
+  "verdict": "OK",
+  "defects": [
+   "round porthole windows a touch plain"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_012.json",
+  "auto_flags": [],
+  "tris": 1648,
+  "worker": "ve"
+ },
+ {
+  "id": "EV01_03_elf_house_new_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_012.json",
+  "auto_flags": [],
+  "tris": 2460,
+  "worker": "ve"
+ },
+ {
+  "id": "EV01_04_elf_house_new_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_012.json",
+  "auto_flags": [],
+  "tris": 2264,
+  "worker": "ve"
+ },
+ {
+  "id": "EV01_05_elf_house_new_05",
+  "verdict": "MINOR",
+  "defects": [
+   "front is a big open dark round doorway with a see-through hollow interior behind the columns",
+   "reads as an open gazebo more than a house"
+  ],
+  "fix": "Close or shallow the interior behind the arch so there is no see-through gap; add a door/wall panel.",
+  "scores": null,
+  "part": "review_part_012.json",
+  "auto_flags": [],
+  "tris": 1576,
+  "worker": "ve"
+ },
+ {
+  "id": "EV01_06_elf_house_new_06",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_012.json",
+  "auto_flags": [],
+  "tris": 976,
+  "worker": "ve"
+ },
+ {
+  "id": "EV01_07_elf_house_new_07",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_012.json",
+  "auto_flags": [],
+  "tris": 2324,
+  "worker": "ve"
+ },
+ {
+  "id": "EV01_08_elf_house_new_08",
+  "verdict": "OK",
+  "defects": [
+   "striped front facade a bit loud"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_012.json",
+  "auto_flags": [],
+  "tris": 1452,
+  "worker": "ve"
+ },
+ {
+  "id": "EV02_01_canopy_cluster_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_012.json",
+  "auto_flags": [],
+  "tris": 6288,
+  "worker": "ve"
+ },
+ {
+  "id": "EV02_02_canopy_cluster_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_012.json",
+  "auto_flags": [],
+  "tris": 8144,
+  "worker": "ve"
+ },
+ {
+  "id": "EV02_03_canopy_cluster_03",
+  "verdict": "OK",
+  "defects": [
+   "very similar to canopy_cluster_01, risks reading as a recolour"
+  ],
+  "fix": "Vary platform count/heights so the three canopy clusters are clearly distinct designs.",
+  "scores": null,
+  "part": "review_part_012.json",
+  "auto_flags": [],
+  "tris": 6264,
+  "worker": "ve"
+ },
+ {
+  "id": "EV03_01_elf_path_piece_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_012.json",
+  "auto_flags": [],
+  "tris": 384,
+  "worker": "ve"
+ },
+ {
+  "id": "EV03_02_elf_path_piece_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_012.json",
+  "auto_flags": [],
+  "tris": 832,
+  "worker": "ve"
+ },
+ {
+  "id": "EV03_03_elf_path_piece_03",
+  "verdict": "MINOR",
+  "defects": [
+   "arched deck has an open gap/see-through underside between the ramp and the deck"
+  ],
+  "fix": "Fill the underside of the arched walkway so it is solid and tiles on the ground.",
+  "scores": null,
+  "part": "review_part_013.json",
+  "auto_flags": [],
+  "tris": 528,
+  "worker": "ve"
+ },
+ {
+  "id": "EV03_04_elf_path_piece_04",
+  "verdict": "MAJOR",
+  "defects": [
+   "stepped bridge planks look detached/floating with gaps between them",
+   "green mossy patches look like loose stuck-on blobs",
+   "would not tile cleanly"
+  ],
+  "fix": "Join the plank steps into a continuous solid deck seated on the ground and integrate the moss rather than floating blobs.",
+  "scores": null,
+  "part": "review_part_013.json",
+  "auto_flags": [],
+  "tris": 1080,
+  "worker": "ve"
+ },
+ {
+  "id": "EV03_05_elf_path_piece_05",
+  "verdict": "MAJOR",
+  "defects": [
+   "loose thin slab plates float with visible gaps and do not connect",
+   "reads as scattered debris, not a path"
+  ],
+  "fix": "Merge the slabs into one connected walkable path surface with no floating gaps.",
+  "scores": null,
+  "part": "review_part_013.json",
+  "auto_flags": [],
+  "tris": 632,
+  "worker": "ve"
+ },
+ {
+  "id": "EV03_06_elf_path_piece_06",
+  "verdict": "MINOR",
+  "defects": [
+   "flat ring planter, trees inside look placed a bit randomly"
+  ],
+  "fix": "Even out tree spacing inside the ring and add a lip so it reads as a planter.",
+  "scores": null,
+  "part": "review_part_013.json",
+  "auto_flags": [],
+  "tris": 2520,
+  "worker": "ve"
+ },
+ {
+  "id": "TW03_01_skull_avenue_set_01",
+  "verdict": "MINOR",
+  "defects": [
+   "dark brazier bowl on a thin tripod reads generic, not skull-avenue themed"
+  ],
+  "fix": "Add a skull/gothic motif to tie it to the avenue set and thicken the legs.",
+  "scores": null,
+  "part": "review_part_013.json",
+  "auto_flags": [],
+  "tris": 268,
+  "worker": "ve"
+ },
+ {
+  "id": "TW03_02_skull_avenue_set_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_013.json",
+  "auto_flags": [],
+  "tris": 588,
+  "worker": "ve"
+ },
+ {
+  "id": "TW03_03_skull_avenue_set_03",
+  "verdict": "OK",
+  "defects": [
+   "banner post leans; base could tip"
+  ],
+  "fix": "",
+  "scores": null,
+  "part": "review_part_013.json",
+  "auto_flags": [],
+  "tris": 260,
+  "worker": "ve"
+ },
+ {
+  "id": "TW03_04_skull_avenue_set_04",
+  "verdict": "OK",
+  "defects": [
+   "near-identical recolour of set_03 (red vs blue)"
+  ],
+  "fix": "Give it a different banner shape/standard so it is not just a recolour of set_03.",
+  "scores": null,
+  "part": "review_part_013.json",
+  "auto_flags": [],
+  "tris": 260,
+  "worker": "ve"
+ }
+]

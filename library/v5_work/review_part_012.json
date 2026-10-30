@@ -1,0 +1,14 @@
+[
+  {"id": "EV01_02_elf_house_new_02", "verdict": "OK", "defects": ["round porthole windows a touch plain"], "fix": ""},
+  {"id": "EV01_03_elf_house_new_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "EV01_04_elf_house_new_04", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "EV01_05_elf_house_new_05", "verdict": "MINOR", "defects": ["front is a big open dark round doorway with a see-through hollow interior behind the columns", "reads as an open gazebo more than a house"], "fix": "Close or shallow the interior behind the arch so there is no see-through gap; add a door/wall panel."},
+  {"id": "EV01_06_elf_house_new_06", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "EV01_07_elf_house_new_07", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "EV01_08_elf_house_new_08", "verdict": "OK", "defects": ["striped front facade a bit loud"], "fix": ""},
+  {"id": "EV02_01_canopy_cluster_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "EV02_02_canopy_cluster_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "EV02_03_canopy_cluster_03", "verdict": "OK", "defects": ["very similar to canopy_cluster_01, risks reading as a recolour"], "fix": "Vary platform count/heights so the three canopy clusters are clearly distinct designs."},
+  {"id": "EV03_01_elf_path_piece_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "EV03_02_elf_path_piece_02", "verdict": "OK", "defects": [], "fix": ""}
+]

@@ -1,0 +1,14 @@
+[
+  {"id": "FR03_04_cave_mouth_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "HL07_01_mine_entrance_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "DS08_03_underground_entrance_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "WT13_03_plateau_terrace_set_03", "verdict": "MINOR", "defects": ["deep dark shadow slots between stair treads read as gaps from above"], "fix": "Thicken the step treads or close the vertical gaps so the staircase does not read as separated floating slabs from above.", "original": "OK"},
+  {"id": "DS04_03_palm_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "FR03_06_cave_mouth_06", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "RV01_01_bank_rock_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "WT06_01_wizard_floor_medallion", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "RW01_01_rework_existing_01", "verdict": "MINOR", "defects": ["loose planks/fragments splay out around the base"], "fix": "Tidy or reattach the stray planks around the base so the kiln/tower sits cleanly on the ground.", "original": "OK"},
+  {"id": "LM04_02_fortress_rampart_step_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "HL03_02_glacier_tongue_02", "verdict": "MINOR", "defects": ["reads as flat scattered shards rather than a cohesive ice tongue", "a few small detached ice bits"], "fix": "Raise and consolidate the ice mass so it reads as a solid glacier tongue instead of flat scattered fragments.", "original": "OK"},
+  {"id": "SD01_03_red_mesa_cluster_03", "verdict": "MINOR", "defects": ["loose detached rock chunks splay out at the base"], "fix": "Reattach or remove the stray base chunks so the mesa pillars rest cleanly on the ground.", "original": "OK"}
+]

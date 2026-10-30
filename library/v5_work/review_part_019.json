@@ -1,0 +1,14 @@
+[
+  {"id": "FR02_06_forest_ruin_06", "verdict": "MINOR", "defects": ["lone thin column with a floating cap block; sparse"], "fix": "Anchor the capstone to the column and add rubble so it reads as a ruin fragment."},
+  {"id": "FR03_01_cave_mouth_01", "verdict": "OK", "defects": ["grass caps slightly float"], "fix": ""},
+  {"id": "FR03_02_cave_mouth_02", "verdict": "MINOR", "defects": ["near-duplicate of FR03_01"], "fix": "Vary the opening and rock stacking to differ from 01."},
+  {"id": "FR03_03_cave_mouth_03", "verdict": "MINOR", "defects": ["recolour/clone of 01-02"], "fix": "Change silhouette and cave opening shape."},
+  {"id": "FR03_04_cave_mouth_04", "verdict": "MAJOR", "defects": ["rock arch collapsed into scattered loose blocks, many detached/floating", "no solid cave mouth reads"], "fix": "Merge the loose chunks into a solid arched mass seated on the ground with a clear opening."},
+  {"id": "FR03_05_cave_mouth_05", "verdict": "MAJOR", "defects": ["same scattered floating-debris problem as 04", "silhouette does not read as a cave"], "fix": "Rebuild as one connected rock arch; remove free-floating blocks."},
+  {"id": "FR03_06_cave_mouth_06", "verdict": "MAJOR", "defects": ["loose detached blocks, gaps, no solid opening"], "fix": "Consolidate into a solid grounded cave mouth with an actual recessed opening."},
+  {"id": "VG04_01_tree_birch_01", "verdict": "MAJOR", "defects": ["canopy covered in flat yellow blotches, reads diseased not birch", "splayed flat-white trunk looks like an open cone, not bark"], "fix": "Use a slim upright white-bark trunk with dark lenticel marks and a predominantly green canopy with light accents, not large yellow patches."},
+  {"id": "VG04_02_tree_birch_02", "verdict": "MAJOR", "defects": ["same yellow-blotch canopy and splayed cone trunk as 01"], "fix": "Rebuild trunk as a thin upright birch bole and reduce yellow to subtle autumn accents."},
+  {"id": "VG04_03_tree_birch_03", "verdict": "MAJOR", "defects": ["clone of 01/02 with same trunk and blotch defects"], "fix": "Fix the trunk and canopy as above and vary the shape from its siblings."},
+  {"id": "VG05_01_tree_cypress_swamp_01", "verdict": "OK", "defects": ["thin root/vine wisps slightly stray"], "fix": ""},
+  {"id": "VG05_02_tree_cypress_swamp_02", "verdict": "MINOR", "defects": ["near-recolour of VG05_01"], "fix": "Vary canopy mass and root spread."}
+]

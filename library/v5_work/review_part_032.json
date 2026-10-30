@@ -1,0 +1,14 @@
+[
+  {"id": "RD04_01_trading_post_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "RD04_02_trading_post_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "RD05_01_battlefield_prop_01", "verdict": "MAJOR", "defects": ["unreadable silhouette", "jumble of brown planks/wheel, no clear object", "parts look detached/clipping"], "fix": "Rebuild as a clearly readable prop (broken cart or barricade) with connected parts and a recognisable shape."},
+  {"id": "RD05_02_battlefield_prop_02", "verdict": "MAJOR", "defects": ["silhouette does not read as anything", "flat plank balanced on a rock/disc"], "fix": "Redesign into an identifiable battlefield item (overturned table, broken shield stack) that reads at 30-60 studs."},
+  {"id": "RD05_03_battlefield_prop_03", "verdict": "MAJOR", "defects": ["flat red slab on thin runners, unreadable", "no believable object"], "fix": "Rebuild as a recognisable fallen banner or sledge with volume, not a single flat slab."},
+  {"id": "RD05_04_battlefield_prop_04", "verdict": "MINOR", "defects": ["reads as a spiked barricade but crude/boxy"], "fix": "Vary spike angles and add a base rail so it reads clearly as a cheval-de-frise."},
+  {"id": "RD05_05_battlefield_prop_05", "verdict": "REDO", "defects": ["detached floating red and blue disc parts", "exploded, not assembled", "no coherent object"], "fix": "Rebuild from scratch as a single connected prop; the current parts float apart and read as broken."},
+  {"id": "RD06_01_abandoned_house_01", "verdict": "MAJOR", "defects": ["large flat grey slab wall with no detail", "chimney/parts appear detached", "collapse reads as a defect not ruin"], "fix": "Replace the blank grey slab with a broken half-timber wall, anchor the chimney, and make the collapse intentional."},
+  {"id": "RD06_02_abandoned_house_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "RD06_03_abandoned_house_03", "verdict": "MAJOR", "defects": ["huge blank dark slab dominates", "silhouette unreadable as a house", "flat untextured faces"], "fix": "Rebuild the fallen wall as a ruined timber-framed panel with debris; remove the featureless slab."},
+  {"id": "RD06_04_abandoned_house_04", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "RD06_05_abandoned_house_05", "verdict": "MAJOR", "defects": ["blank flat grey slab wall", "no house relief", "collapse looks broken not designed"], "fix": "Give the standing wall half-timber relief and windows; make the rubble read as deliberate ruin."}
+]

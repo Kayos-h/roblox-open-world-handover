@@ -1,0 +1,14 @@
+[
+  {"id": "LM10_02_temple_colonnade_buried_02", "verdict": "MINOR", "defects": ["black/inverted face on top of lintel"], "fix": "Recalculate normals on the lintel so the top face is not black."},
+  {"id": "LM10_03_temple_colonnade_buried_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "LM11_01_temple_gate_buried", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "LM12_01_temple_stair_down_01", "verdict": "MAJOR", "defects": ["reads as a jumble of flat clipping slabs", "no clear descending stair silhouette", "small floating boxes top-left"], "fix": "Rebuild as a readable recessed stair cut into the ground with clear step treads and framing walls; remove floating fragments."},
+  {"id": "LM12_02_temple_stair_down_02", "verdict": "MAJOR", "defects": ["confusing overlapping slabs", "stair not legible", "flat single-colour mass"], "fix": "Rebuild with distinct stepped treads descending into a clear pit opening instead of stacked flat planes."},
+  {"id": "LM13_01_guardian_statue_01", "verdict": "MINOR", "defects": ["small black/inverted face near head", "very thin crude figure"], "fix": "Fix the black face normal and widen the torso/head so it reads as a carved guardian figure."},
+  {"id": "LM13_02_guardian_statue_02", "verdict": "MINOR", "defects": ["small black/inverted face near head", "thin crude figure"], "fix": "Fix the black face normal and bulk up the figure for a clearer statue silhouette."},
+  {"id": "LM14_01_sand_obelisk_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "LM14_02_sand_obelisk_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "LM14_03_sand_obelisk_03", "verdict": "MINOR", "defects": ["near-identical recolour of obelisk 01/02"], "fix": "Vary height, carving marks or erosion so the three obelisks are not identical."},
+  {"id": "LM16_01_ring_temple_segment_01", "verdict": "MINOR", "defects": ["plain curved slab with little relief", "flat single-colour mass"], "fix": "Add carved panelling, step relief or weathering to the curved wall so it is not a featureless slab."},
+  {"id": "LM16_02_ring_temple_segment_02", "verdict": "MINOR", "defects": ["near-identical to segment 01", "flat featureless curved mass"], "fix": "Differentiate from segment 01 with distinct relief/damage and add surface detail."}
+]

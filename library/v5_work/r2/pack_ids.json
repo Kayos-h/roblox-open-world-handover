@@ -1,0 +1,1334 @@
+[
+ {
+  "id": "FR03_02_cave_mouth_02",
+  "category": "v5_forest",
+  "kind": "changed",
+  "row": "FR03"
+ },
+ {
+  "id": "LM20_02_crater_arcane_ruin_02",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM20"
+ },
+ {
+  "id": "RV01_04_bank_rock_04",
+  "category": "v5_roads",
+  "kind": "changed",
+  "row": "RV01"
+ },
+ {
+  "id": "VC04_03_skull_city_building_03",
+  "category": "v5_skull",
+  "kind": "changed",
+  "row": "VC04"
+ },
+ {
+  "id": "LM14_03_sand_obelisk_03",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM14"
+ },
+ {
+  "id": "LM04_03_fortress_rampart_step_03",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM04"
+ },
+ {
+  "id": "SD01_04_red_mesa_cluster_04",
+  "category": "v5_desert",
+  "kind": "changed",
+  "row": "SD01"
+ },
+ {
+  "id": "LM21_02_floating_rock_02",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM21"
+ },
+ {
+  "id": "CO03_06_reef_06",
+  "category": "v5_coast",
+  "kind": "changed",
+  "row": "CO03"
+ },
+ {
+  "id": "CP01_02_ring_wall_straight_02",
+  "category": "v5_capital",
+  "kind": "changed",
+  "row": "CP01"
+ },
+ {
+  "id": "HM06_01_switchback_wall_01",
+  "category": "v5_himalaya",
+  "kind": "changed",
+  "row": "HM06"
+ },
+ {
+  "id": "NE02_04_entry_rock_pair_04",
+  "category": "v5_entrances",
+  "kind": "changed",
+  "row": "NE02"
+ },
+ {
+  "id": "DS04_01_palm_01",
+  "category": "v5_desert",
+  "kind": "changed",
+  "row": "DS04"
+ },
+ {
+  "id": "LM23_02_gorge_wall_02",
+  "category": "v5_forest",
+  "kind": "anchor",
+  "row": "LM23"
+ },
+ {
+  "id": "TW01_01_town1_hero_statue",
+  "category": "v5_town1",
+  "kind": "changed",
+  "row": "TW01"
+ },
+ {
+  "id": "CO01_02_coastal_cliff_02",
+  "category": "v5_coast",
+  "kind": "anchor",
+  "row": "CO01"
+ },
+ {
+  "id": "LM10_03_temple_colonnade_buried_03",
+  "category": "v5_landmarks",
+  "kind": "anchor",
+  "row": "LM10"
+ },
+ {
+  "id": "HM04_02_tunnel_lining_02",
+  "category": "v5_himalaya",
+  "kind": "changed",
+  "row": "HM04"
+ },
+ {
+  "id": "RD05_04_battlefield_prop_04",
+  "category": "v5_roads",
+  "kind": "changed",
+  "row": "RD05"
+ },
+ {
+  "id": "FR01_03_giant_tree_03",
+  "category": "v5_forest",
+  "kind": "changed",
+  "row": "FR01"
+ },
+ {
+  "id": "RD02_06_camp_set_06",
+  "category": "v5_roads",
+  "kind": "changed",
+  "row": "RD02"
+ },
+ {
+  "id": "VC04_05_skull_city_building_05",
+  "category": "v5_skull",
+  "kind": "changed",
+  "row": "VC04"
+ },
+ {
+  "id": "SP01_02_snow_spire_cluster_02",
+  "category": "v5_himalaya",
+  "kind": "changed",
+  "row": "SP01"
+ },
+ {
+  "id": "PL05_01_ruined_watchtower_plains_01",
+  "category": "v5_plains",
+  "kind": "changed",
+  "row": "PL05"
+ },
+ {
+  "id": "CO04_02_sea_arch_02",
+  "category": "v5_coast",
+  "kind": "changed",
+  "row": "CO04"
+ },
+ {
+  "id": "HL03_03_glacier_tongue_03",
+  "category": "v5_himalaya",
+  "kind": "changed",
+  "row": "HL03"
+ },
+ {
+  "id": "VC04_06_skull_city_building_06",
+  "category": "v5_skull",
+  "kind": "changed",
+  "row": "VC04"
+ },
+ {
+  "id": "CO01_03_coastal_cliff_03",
+  "category": "v5_coast",
+  "kind": "changed",
+  "row": "CO01"
+ },
+ {
+  "id": "PL05_02_ruined_watchtower_plains_02",
+  "category": "v5_plains",
+  "kind": "changed",
+  "row": "PL05"
+ },
+ {
+  "id": "DS04_02_palm_02",
+  "category": "v5_desert",
+  "kind": "changed",
+  "row": "DS04"
+ },
+ {
+  "id": "CP16_09_townhouse_new_09",
+  "category": "v5_capital",
+  "kind": "anchor",
+  "row": "CP16"
+ },
+ {
+  "id": "HL07_02_mine_entrance_02",
+  "category": "v5_himalaya",
+  "kind": "changed",
+  "row": "HL07"
+ },
+ {
+  "id": "VC04_04_skull_city_building_04",
+  "category": "v5_skull",
+  "kind": "changed",
+  "row": "VC04"
+ },
+ {
+  "id": "RD02_02_camp_set_02",
+  "category": "v5_roads",
+  "kind": "changed",
+  "row": "RD02"
+ },
+ {
+  "id": "LM22_01_colossal_fall_cliff_hero",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM22"
+ },
+ {
+  "id": "RD06_01_abandoned_house_01",
+  "category": "v5_roads",
+  "kind": "changed",
+  "row": "RD06"
+ },
+ {
+  "id": "CP14_04_skyline_tower_04",
+  "category": "v5_capital",
+  "kind": "changed",
+  "row": "CP14"
+ },
+ {
+  "id": "SD01_05_red_mesa_cluster_05",
+  "category": "v5_desert",
+  "kind": "changed",
+  "row": "SD01"
+ },
+ {
+  "id": "LM12_01_temple_stair_down_01",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM12"
+ },
+ {
+  "id": "HL01_01_ice_spire_01",
+  "category": "v5_himalaya",
+  "kind": "anchor",
+  "row": "HL01"
+ },
+ {
+  "id": "CP03_02_ring_wall_stair_end_02",
+  "category": "v5_capital",
+  "kind": "changed",
+  "row": "CP03"
+ },
+ {
+  "id": "VC02_02_skull_cliff_hero_02",
+  "category": "v5_skull",
+  "kind": "changed",
+  "row": "VC02"
+ },
+ {
+  "id": "SP01_03_snow_spire_cluster_03",
+  "category": "v5_himalaya",
+  "kind": "changed",
+  "row": "SP01"
+ },
+ {
+  "id": "HM04_01_tunnel_lining_01",
+  "category": "v5_himalaya",
+  "kind": "changed",
+  "row": "HM04"
+ },
+ {
+  "id": "FR03_03_cave_mouth_03",
+  "category": "v5_forest",
+  "kind": "changed",
+  "row": "FR03"
+ },
+ {
+  "id": "LM02_01_world_tree_falls",
+  "category": "v5_elf",
+  "kind": "changed",
+  "row": "LM02"
+ },
+ {
+  "id": "VC04_01_skull_city_building_01",
+  "category": "v5_skull",
+  "kind": "changed",
+  "row": "VC04"
+ },
+ {
+  "id": "FL01_02_floating_island_hero_02",
+  "category": "v5_coast",
+  "kind": "changed",
+  "row": "FL01"
+ },
+ {
+  "id": "WT13_01_plateau_terrace_set_01",
+  "category": "v5_wizard",
+  "kind": "changed",
+  "row": "WT13"
+ },
+ {
+  "id": "PL01_03_farmhouse_03",
+  "category": "v5_plains",
+  "kind": "anchor",
+  "row": "PL01"
+ },
+ {
+  "id": "VC02_01_skull_cliff_hero_01",
+  "category": "v5_skull",
+  "kind": "changed",
+  "row": "VC02"
+ },
+ {
+  "id": "HL07_01_mine_entrance_01",
+  "category": "v5_himalaya",
+  "kind": "anchor",
+  "row": "HL07"
+ },
+ {
+  "id": "CO01_05_coastal_cliff_05",
+  "category": "v5_coast",
+  "kind": "changed",
+  "row": "CO01"
+ },
+ {
+  "id": "HM07_04_prayer_flag_string_04",
+  "category": "v5_himalaya",
+  "kind": "changed",
+  "row": "HM07"
+ },
+ {
+  "id": "SD02_02_desert_ruin_block_02",
+  "category": "v5_desert",
+  "kind": "changed",
+  "row": "SD02"
+ },
+ {
+  "id": "HL05_01_mountain_shrine",
+  "category": "v5_himalaya",
+  "kind": "anchor",
+  "row": "HL05"
+ },
+ {
+  "id": "DS08_03_underground_entrance_03",
+  "category": "v5_desert",
+  "kind": "changed",
+  "row": "DS08"
+ },
+ {
+  "id": "RD05_03_battlefield_prop_03",
+  "category": "v5_roads",
+  "kind": "changed",
+  "row": "RD05"
+ },
+ {
+  "id": "LM19_05_crater_rim_rock_05",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM19"
+ },
+ {
+  "id": "VG05_03_tree_cypress_swamp_03",
+  "category": "v5_forest",
+  "kind": "changed",
+  "row": "VG05"
+ },
+ {
+  "id": "SD02_04_desert_ruin_block_04",
+  "category": "v5_desert",
+  "kind": "changed",
+  "row": "SD02"
+ },
+ {
+  "id": "LM16_02_ring_temple_segment_02",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM16"
+ },
+ {
+  "id": "RW01_01_rework_existing_01",
+  "category": "v5_rework",
+  "kind": "changed",
+  "row": "RW01"
+ },
+ {
+  "id": "RV01_01_bank_rock_01",
+  "category": "v5_roads",
+  "kind": "changed",
+  "row": "RV01"
+ },
+ {
+  "id": "HL03_01_glacier_tongue_01",
+  "category": "v5_himalaya",
+  "kind": "changed",
+  "row": "HL03"
+ },
+ {
+  "id": "RV01_02_bank_rock_02",
+  "category": "v5_roads",
+  "kind": "changed",
+  "row": "RV01"
+ },
+ {
+  "id": "LM31_02_ruined_castle_module_02",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM31"
+ },
+ {
+  "id": "VG05_02_tree_cypress_swamp_02",
+  "category": "v5_forest",
+  "kind": "changed",
+  "row": "VG05"
+ },
+ {
+  "id": "LM19_04_crater_rim_rock_04",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM19"
+ },
+ {
+  "id": "FL01_01_floating_island_hero_01",
+  "category": "v5_coast",
+  "kind": "changed",
+  "row": "FL01"
+ },
+ {
+  "id": "LM10_02_temple_colonnade_buried_02",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM10"
+ },
+ {
+  "id": "RD01_02_watchtower_02",
+  "category": "v5_roads",
+  "kind": "changed",
+  "row": "RD01"
+ },
+ {
+  "id": "CO03_04_reef_04",
+  "category": "v5_coast",
+  "kind": "changed",
+  "row": "CO03"
+ },
+ {
+  "id": "CP18_04_quay_wall_04",
+  "category": "v5_capital",
+  "kind": "changed",
+  "row": "CP18"
+ },
+ {
+  "id": "EV01_05_elf_house_new_05",
+  "category": "v5_elf",
+  "kind": "changed",
+  "row": "EV01"
+ },
+ {
+  "id": "FL01_03_floating_island_hero_03",
+  "category": "v5_coast",
+  "kind": "changed",
+  "row": "FL01"
+ },
+ {
+  "id": "LM31_01_ruined_castle_module_01",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM31"
+ },
+ {
+  "id": "RD02_05_camp_set_05",
+  "category": "v5_roads",
+  "kind": "anchor",
+  "row": "RD02"
+ },
+ {
+  "id": "HM06_02_switchback_wall_02",
+  "category": "v5_himalaya",
+  "kind": "changed",
+  "row": "HM06"
+ },
+ {
+  "id": "LM26_03_ruin_arena_segment_03",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM26"
+ },
+ {
+  "id": "RD05_02_battlefield_prop_02",
+  "category": "v5_roads",
+  "kind": "changed",
+  "row": "RD05"
+ },
+ {
+  "id": "CP02_02_ring_wall_corner_02",
+  "category": "v5_capital",
+  "kind": "changed",
+  "row": "CP02"
+ },
+ {
+  "id": "EV02_03_canopy_cluster_03",
+  "category": "v5_elf",
+  "kind": "changed",
+  "row": "EV02"
+ },
+ {
+  "id": "VG04_01_tree_birch_01",
+  "category": "v5_forest",
+  "kind": "changed",
+  "row": "VG04"
+ },
+ {
+  "id": "SD02_05_desert_ruin_block_05",
+  "category": "v5_desert",
+  "kind": "changed",
+  "row": "SD02"
+ },
+ {
+  "id": "PL06_01_rock_arch_natural_01",
+  "category": "v5_plains",
+  "kind": "changed",
+  "row": "PL06"
+ },
+ {
+  "id": "LM16_01_ring_temple_segment_01",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM16"
+ },
+ {
+  "id": "RD06_02_abandoned_house_02",
+  "category": "v5_roads",
+  "kind": "anchor",
+  "row": "RD06"
+ },
+ {
+  "id": "DS07_04_hoodoo_arch_04",
+  "category": "v5_desert",
+  "kind": "changed",
+  "row": "DS07"
+ },
+ {
+  "id": "PL03_02_farm_cart_02",
+  "category": "v5_plains",
+  "kind": "changed",
+  "row": "PL03"
+ },
+ {
+  "id": "HM08_02_cairn_shrine_02",
+  "category": "v5_himalaya",
+  "kind": "changed",
+  "row": "HM08"
+ },
+ {
+  "id": "LM01_01_world_tree_trunk_door",
+  "category": "v5_elf",
+  "kind": "changed",
+  "row": "LM01"
+ },
+ {
+  "id": "DS03_02_caravan_wagon_02",
+  "category": "v5_desert",
+  "kind": "changed",
+  "row": "DS03"
+ },
+ {
+  "id": "CP18_02_quay_wall_02",
+  "category": "v5_capital",
+  "kind": "changed",
+  "row": "CP18"
+ },
+ {
+  "id": "CP06_01_gate_flank_tower_01",
+  "category": "v5_capital",
+  "kind": "changed",
+  "row": "CP06"
+ },
+ {
+  "id": "CP03_01_ring_wall_stair_end_01",
+  "category": "v5_capital",
+  "kind": "anchor",
+  "row": "CP03"
+ },
+ {
+  "id": "TW03_04_skull_avenue_set_04",
+  "category": "v5_town1",
+  "kind": "changed",
+  "row": "TW03"
+ },
+ {
+  "id": "HL01_04_ice_spire_04",
+  "category": "v5_himalaya",
+  "kind": "changed",
+  "row": "HL01"
+ },
+ {
+  "id": "FR01_04_giant_tree_04",
+  "category": "v5_forest",
+  "kind": "anchor",
+  "row": "FR01"
+ },
+ {
+  "id": "LM26_02_ruin_arena_segment_02",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM26"
+ },
+ {
+  "id": "WT13_03_plateau_terrace_set_03",
+  "category": "v5_wizard",
+  "kind": "anchor",
+  "row": "WT13"
+ },
+ {
+  "id": "HL03_02_glacier_tongue_02",
+  "category": "v5_himalaya",
+  "kind": "changed",
+  "row": "HL03"
+ },
+ {
+  "id": "RD01_04_watchtower_04",
+  "category": "v5_roads",
+  "kind": "changed",
+  "row": "RD01"
+ },
+ {
+  "id": "RD05_05_battlefield_prop_05",
+  "category": "v5_roads",
+  "kind": "changed",
+  "row": "RD05"
+ },
+ {
+  "id": "BR01_02_viaduct_bridge_02",
+  "category": "v5_roads",
+  "kind": "changed",
+  "row": "BR01"
+ },
+ {
+  "id": "VG03_01_tree_flowering_01",
+  "category": "v5_forest",
+  "kind": "changed",
+  "row": "VG03"
+ },
+ {
+  "id": "WT08_02_wizard_study_set_02",
+  "category": "v5_wizard",
+  "kind": "changed",
+  "row": "WT08"
+ },
+ {
+  "id": "LM03_01_frost_fortress_hero",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM03"
+ },
+ {
+  "id": "CO05_02_ruin_islet_02",
+  "category": "v5_coast",
+  "kind": "changed",
+  "row": "CO05"
+ },
+ {
+  "id": "LM04_02_fortress_rampart_step_02",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM04"
+ },
+ {
+  "id": "RD02_03_camp_set_03",
+  "category": "v5_roads",
+  "kind": "changed",
+  "row": "RD02"
+ },
+ {
+  "id": "LM08_01_mountain_span_bridge",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM08"
+ },
+ {
+  "id": "TW03_01_skull_avenue_set_01",
+  "category": "v5_town1",
+  "kind": "changed",
+  "row": "TW03"
+ },
+ {
+  "id": "CO05_01_ruin_islet_01",
+  "category": "v5_coast",
+  "kind": "changed",
+  "row": "CO05"
+ },
+ {
+  "id": "FR02_06_forest_ruin_06",
+  "category": "v5_forest",
+  "kind": "changed",
+  "row": "FR02"
+ },
+ {
+  "id": "CO03_02_reef_02",
+  "category": "v5_coast",
+  "kind": "changed",
+  "row": "CO03"
+ },
+ {
+  "id": "CP16_01_townhouse_new_01",
+  "category": "v5_capital",
+  "kind": "changed",
+  "row": "CP16"
+ },
+ {
+  "id": "SP01_05_snow_spire_cluster_05",
+  "category": "v5_himalaya",
+  "kind": "changed",
+  "row": "SP01"
+ },
+ {
+  "id": "SD01_06_red_mesa_cluster_06",
+  "category": "v5_desert",
+  "kind": "changed",
+  "row": "SD01"
+ },
+ {
+  "id": "SP01_06_snow_spire_cluster_06",
+  "category": "v5_himalaya",
+  "kind": "changed",
+  "row": "SP01"
+ },
+ {
+  "id": "HM05_01_cliff_gallery_01",
+  "category": "v5_himalaya",
+  "kind": "changed",
+  "row": "HM05"
+ },
+ {
+  "id": "CP11_01_great_hall_chapel_01",
+  "category": "v5_capital",
+  "kind": "changed",
+  "row": "CP11"
+ },
+ {
+  "id": "NE01_01_village_sign_01",
+  "category": "v5_entrances",
+  "kind": "changed",
+  "row": "NE01"
+ },
+ {
+  "id": "RD05_01_battlefield_prop_01",
+  "category": "v5_roads",
+  "kind": "changed",
+  "row": "RD05"
+ },
+ {
+  "id": "VC03_03_dark_fort_ruin_03",
+  "category": "v5_skull",
+  "kind": "changed",
+  "row": "VC03"
+ },
+ {
+  "id": "LM21_04_floating_rock_04",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM21"
+ },
+ {
+  "id": "RD06_03_abandoned_house_03",
+  "category": "v5_roads",
+  "kind": "changed",
+  "row": "RD06"
+ },
+ {
+  "id": "LM28_01_ruin_column_set_01",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM28"
+ },
+ {
+  "id": "CO04_01_sea_arch_01",
+  "category": "v5_coast",
+  "kind": "changed",
+  "row": "CO04"
+ },
+ {
+  "id": "LM13_01_guardian_statue_01",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM13"
+ },
+ {
+  "id": "CP08_01_water_gate",
+  "category": "v5_capital",
+  "kind": "anchor",
+  "row": "CP08"
+ },
+ {
+  "id": "VG06_01_marsh_hummock_01",
+  "category": "v5_forest",
+  "kind": "changed",
+  "row": "VG06"
+ },
+ {
+  "id": "HM05_02_cliff_gallery_02",
+  "category": "v5_himalaya",
+  "kind": "changed",
+  "row": "HM05"
+ },
+ {
+  "id": "DS07_01_hoodoo_arch_01",
+  "category": "v5_desert",
+  "kind": "changed",
+  "row": "DS07"
+ },
+ {
+  "id": "VG06_02_marsh_hummock_02",
+  "category": "v5_forest",
+  "kind": "changed",
+  "row": "VG06"
+ },
+ {
+  "id": "DS01_04_adobe_house_04",
+  "category": "v5_desert",
+  "kind": "changed",
+  "row": "DS01"
+ },
+ {
+  "id": "SP01_01_snow_spire_cluster_01",
+  "category": "v5_himalaya",
+  "kind": "changed",
+  "row": "SP01"
+ },
+ {
+  "id": "VC04_02_skull_city_building_02",
+  "category": "v5_skull",
+  "kind": "changed",
+  "row": "VC04"
+ },
+ {
+  "id": "LM23_03_gorge_wall_03",
+  "category": "v5_forest",
+  "kind": "changed",
+  "row": "LM23"
+ },
+ {
+  "id": "EV03_03_elf_path_piece_03",
+  "category": "v5_elf",
+  "kind": "changed",
+  "row": "EV03"
+ },
+ {
+  "id": "DS06_04_canyon_wall_04",
+  "category": "v5_desert",
+  "kind": "anchor",
+  "row": "DS06"
+ },
+ {
+  "id": "VG04_02_tree_birch_02",
+  "category": "v5_forest",
+  "kind": "changed",
+  "row": "VG04"
+ },
+ {
+  "id": "LM25_01_ruin_gate_hero",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM25"
+ },
+ {
+  "id": "FR01_02_giant_tree_02",
+  "category": "v5_forest",
+  "kind": "changed",
+  "row": "FR01"
+ },
+ {
+  "id": "LM07_02_carved_stair_switchback_02",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM07"
+ },
+ {
+  "id": "LM29_01_ruin_tower_stump_01",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM29"
+ },
+ {
+  "id": "FR02_05_forest_ruin_05",
+  "category": "v5_forest",
+  "kind": "changed",
+  "row": "FR02"
+ },
+ {
+  "id": "VC03_01_dark_fort_ruin_01",
+  "category": "v5_skull",
+  "kind": "changed",
+  "row": "VC03"
+ },
+ {
+  "id": "DS05_02_oasis_rock_ring_02",
+  "category": "v5_desert",
+  "kind": "changed",
+  "row": "DS05"
+ },
+ {
+  "id": "TW02_06_street_life_06",
+  "category": "v5_town1",
+  "kind": "changed",
+  "row": "TW02"
+ },
+ {
+  "id": "FR03_05_cave_mouth_05",
+  "category": "v5_forest",
+  "kind": "changed",
+  "row": "FR03"
+ },
+ {
+  "id": "HM06_03_switchback_wall_03",
+  "category": "v5_himalaya",
+  "kind": "changed",
+  "row": "HM06"
+ },
+ {
+  "id": "FR03_06_cave_mouth_06",
+  "category": "v5_forest",
+  "kind": "changed",
+  "row": "FR03"
+ },
+ {
+  "id": "HL04_02_ice_cave_mouth_02",
+  "category": "v5_himalaya",
+  "kind": "changed",
+  "row": "HL04"
+ },
+ {
+  "id": "CP14_05_skyline_tower_05",
+  "category": "v5_capital",
+  "kind": "changed",
+  "row": "CP14"
+ },
+ {
+  "id": "RD02_01_camp_set_01",
+  "category": "v5_roads",
+  "kind": "changed",
+  "row": "RD02"
+ },
+ {
+  "id": "LM30_01_ruined_castle_hero",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM30"
+ },
+ {
+  "id": "NE01_04_village_sign_04",
+  "category": "v5_entrances",
+  "kind": "changed",
+  "row": "NE01"
+ },
+ {
+  "id": "LM27_01_ruin_aqueduct_arch_01",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM27"
+ },
+ {
+  "id": "DS01_03_adobe_house_03",
+  "category": "v5_desert",
+  "kind": "changed",
+  "row": "DS01"
+ },
+ {
+  "id": "CO03_01_reef_01",
+  "category": "v5_coast",
+  "kind": "changed",
+  "row": "CO03"
+ },
+ {
+  "id": "BR01_01_viaduct_bridge_01",
+  "category": "v5_roads",
+  "kind": "changed",
+  "row": "BR01"
+ },
+ {
+  "id": "SD02_06_desert_ruin_block_06",
+  "category": "v5_desert",
+  "kind": "changed",
+  "row": "SD02"
+ },
+ {
+  "id": "CO03_03_reef_03",
+  "category": "v5_coast",
+  "kind": "changed",
+  "row": "CO03"
+ },
+ {
+  "id": "VG01_02_tree_tall_narrow_02",
+  "category": "v5_forest",
+  "kind": "changed",
+  "row": "VG01"
+ },
+ {
+  "id": "LM05_02_fortress_cliff_tower_02",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM05"
+ },
+ {
+  "id": "CP12_01_terrace_retaining_wall_01",
+  "category": "v5_capital",
+  "kind": "changed",
+  "row": "CP12"
+ },
+ {
+  "id": "DS02_01_desert_market_01",
+  "category": "v5_desert",
+  "kind": "changed",
+  "row": "DS02"
+ },
+ {
+  "id": "CP04_01_tower_round_cone_01",
+  "category": "v5_capital",
+  "kind": "anchor",
+  "row": "CP04"
+ },
+ {
+  "id": "NE02_01_entry_rock_pair_01",
+  "category": "v5_entrances",
+  "kind": "changed",
+  "row": "NE02"
+ },
+ {
+  "id": "PL04_01_mill_waterwheel",
+  "category": "v5_plains",
+  "kind": "anchor",
+  "row": "PL04"
+ },
+ {
+  "id": "PL05_03_ruined_watchtower_plains_03",
+  "category": "v5_plains",
+  "kind": "changed",
+  "row": "PL05"
+ },
+ {
+  "id": "LM26_01_ruin_arena_segment_01",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM26"
+ },
+ {
+  "id": "CP18_01_quay_wall_01",
+  "category": "v5_capital",
+  "kind": "changed",
+  "row": "CP18"
+ },
+ {
+  "id": "WT03_01_wizard_bookshelf_curved_01",
+  "category": "v5_wizard",
+  "kind": "anchor",
+  "row": "WT03"
+ },
+ {
+  "id": "VG04_03_tree_birch_03",
+  "category": "v5_forest",
+  "kind": "changed",
+  "row": "VG04"
+ },
+ {
+  "id": "RD01_03_watchtower_03",
+  "category": "v5_roads",
+  "kind": "anchor",
+  "row": "RD01"
+ },
+ {
+  "id": "RV01_03_bank_rock_03",
+  "category": "v5_roads",
+  "kind": "changed",
+  "row": "RV01"
+ },
+ {
+  "id": "DS08_02_underground_entrance_02",
+  "category": "v5_desert",
+  "kind": "changed",
+  "row": "DS08"
+ },
+ {
+  "id": "LM29_02_ruin_tower_stump_02",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM29"
+ },
+ {
+  "id": "LM28_03_ruin_column_set_03",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM28"
+ },
+ {
+  "id": "HL02_02_ice_arch_02",
+  "category": "v5_himalaya",
+  "kind": "changed",
+  "row": "HL02"
+ },
+ {
+  "id": "VC01_08_volcanic_rock_08",
+  "category": "v5_skull",
+  "kind": "changed",
+  "row": "VC01"
+ },
+ {
+  "id": "PL06_02_rock_arch_natural_02",
+  "category": "v5_plains",
+  "kind": "changed",
+  "row": "PL06"
+ },
+ {
+  "id": "SD02_03_desert_ruin_block_03",
+  "category": "v5_desert",
+  "kind": "anchor",
+  "row": "SD02"
+ },
+ {
+  "id": "FR03_04_cave_mouth_04",
+  "category": "v5_forest",
+  "kind": "changed",
+  "row": "FR03"
+ },
+ {
+  "id": "EV03_05_elf_path_piece_05",
+  "category": "v5_elf",
+  "kind": "changed",
+  "row": "EV03"
+ },
+ {
+  "id": "LM27_02_ruin_aqueduct_arch_02",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM27"
+ },
+ {
+  "id": "PL02_01_hay_silo_01",
+  "category": "v5_plains",
+  "kind": "changed",
+  "row": "PL02"
+ },
+ {
+  "id": "DS07_02_hoodoo_arch_02",
+  "category": "v5_desert",
+  "kind": "changed",
+  "row": "DS07"
+ },
+ {
+  "id": "CP06_02_gate_flank_tower_02",
+  "category": "v5_capital",
+  "kind": "changed",
+  "row": "CP06"
+ },
+ {
+  "id": "LM13_02_guardian_statue_02",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM13"
+ },
+ {
+  "id": "LM07_01_carved_stair_switchback_01",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM07"
+ },
+ {
+  "id": "VC01_07_volcanic_rock_07",
+  "category": "v5_skull",
+  "kind": "changed",
+  "row": "VC01"
+ },
+ {
+  "id": "LM28_02_ruin_column_set_02",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM28"
+ },
+ {
+  "id": "DS08_01_underground_entrance_01",
+  "category": "v5_desert",
+  "kind": "changed",
+  "row": "DS08"
+ },
+ {
+  "id": "RD06_05_abandoned_house_05",
+  "category": "v5_roads",
+  "kind": "changed",
+  "row": "RD06"
+ },
+ {
+  "id": "CO03_05_reef_05",
+  "category": "v5_coast",
+  "kind": "changed",
+  "row": "CO03"
+ },
+ {
+  "id": "NE02_02_entry_rock_pair_02",
+  "category": "v5_entrances",
+  "kind": "changed",
+  "row": "NE02"
+ },
+ {
+  "id": "CP14_02_skyline_tower_02",
+  "category": "v5_capital",
+  "kind": "anchor",
+  "row": "CP14"
+ },
+ {
+  "id": "CP10_02_keep_wing_02",
+  "category": "v5_capital",
+  "kind": "anchor",
+  "row": "CP10"
+ },
+ {
+  "id": "LM18_01_crater_monolith_ring",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM18"
+ },
+ {
+  "id": "CP18_03_quay_wall_03",
+  "category": "v5_capital",
+  "kind": "changed",
+  "row": "CP18"
+ },
+ {
+  "id": "SP01_04_snow_spire_cluster_04",
+  "category": "v5_himalaya",
+  "kind": "changed",
+  "row": "SP01"
+ },
+ {
+  "id": "CP12_02_terrace_retaining_wall_02",
+  "category": "v5_capital",
+  "kind": "changed",
+  "row": "CP12"
+ },
+ {
+  "id": "EV01_01_elf_house_new_01",
+  "category": "v5_elf",
+  "kind": "changed",
+  "row": "EV01"
+ },
+ {
+  "id": "LM19_03_crater_rim_rock_03",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM19"
+ },
+ {
+  "id": "DS01_06_adobe_house_06",
+  "category": "v5_desert",
+  "kind": "anchor",
+  "row": "DS01"
+ },
+ {
+  "id": "EV03_04_elf_path_piece_04",
+  "category": "v5_elf",
+  "kind": "changed",
+  "row": "EV03"
+ },
+ {
+  "id": "HB01_03_harbour_wall_tower_03",
+  "category": "v5_coast",
+  "kind": "changed",
+  "row": "HB01"
+ },
+ {
+  "id": "LM31_03_ruined_castle_module_03",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM31"
+ },
+ {
+  "id": "VG03_02_tree_flowering_02",
+  "category": "v5_forest",
+  "kind": "changed",
+  "row": "VG03"
+ },
+ {
+  "id": "VC01_05_volcanic_rock_05",
+  "category": "v5_skull",
+  "kind": "anchor",
+  "row": "VC01"
+ },
+ {
+  "id": "LM19_01_crater_rim_rock_01",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM19"
+ },
+ {
+  "id": "CP15_03_order_hq_03",
+  "category": "v5_capital",
+  "kind": "changed",
+  "row": "CP15"
+ },
+ {
+  "id": "SD02_01_desert_ruin_block_01",
+  "category": "v5_desert",
+  "kind": "changed",
+  "row": "SD02"
+ },
+ {
+  "id": "LM19_02_crater_rim_rock_02",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM19"
+ },
+ {
+  "id": "DS04_03_palm_03",
+  "category": "v5_desert",
+  "kind": "changed",
+  "row": "DS04"
+ },
+ {
+  "id": "EV03_06_elf_path_piece_06",
+  "category": "v5_elf",
+  "kind": "changed",
+  "row": "EV03"
+ },
+ {
+  "id": "LM12_02_temple_stair_down_02",
+  "category": "v5_landmarks",
+  "kind": "changed",
+  "row": "LM12"
+ },
+ {
+  "id": "CO05_03_ruin_islet_03",
+  "category": "v5_coast",
+  "kind": "changed",
+  "row": "CO05"
+ },
+ {
+  "id": "CP05_02_turret_crenellated_02",
+  "category": "v5_capital",
+  "kind": "changed",
+  "row": "CP05"
+ }
+]

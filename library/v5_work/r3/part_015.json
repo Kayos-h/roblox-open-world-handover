@@ -1,0 +1,11 @@
+[
+  {"id": "EV01_06_elf_house_new_06", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "EV01_07_elf_house_new_07", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "EV01_08_elf_house_new_08", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "EV02_01_canopy_cluster_01", "verdict": "MINOR", "defects": ["thin rope walkways between platforms read as fragile/near-detached", "near-identical to EV02_02"], "fix": "thicken the connecting bridges and vary the platform layout from EV02_02.", "original": "OK"},
+  {"id": "EV02_02_canopy_cluster_02", "verdict": "MINOR", "defects": ["sibling very close to EV02_01, differs mainly in extra platform"], "fix": "make the tier arrangement clearly distinct from EV02_01, not just an added deck.", "original": "OK"},
+  {"id": "EV03_01_elf_path_piece_01", "verdict": "MAJOR", "defects": ["back view shows a hollow open-bottomed box / see-through gap under the steps", "plain single-tone tan, no tread relief"], "fix": "close the underside of the stair piece and add step-edge colour so it reads as a solid path segment.", "original": "OK"},
+  {"id": "EV03_02_elf_path_piece_02", "verdict": "MINOR", "defects": ["back view is a flat solid grey slab with no detail", "front green-edged treads flat"], "fix": "carry the step detail/colour to the underside or recess it so the back is not a blank slab.", "original": "OK"},
+  {"id": "TW03_02_skull_avenue_set_02", "verdict": "MAJOR", "defects": ["black bowl/brazier top is an open empty cavity reading as a hole", "near-black body with gold rim looks close to glossy/near-neon metallic"], "fix": "fill the bowl with coals/fire geometry and matte the dark material so it is not a black hole on a pedestal.", "original": "OK"},
+  {"id": "TW03_03_skull_avenue_set_03", "verdict": "MINOR", "defects": ["flat red banner slab with no fold/relief", "banner barely attached to the two posts"], "fix": "add drape/fold to the banner and tie it clearly to both posts.", "original": "OK"}
+]

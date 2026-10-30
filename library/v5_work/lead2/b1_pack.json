@@ -1,0 +1,46 @@
+[
+ {
+  "id": "HM01_03_rope_suspension_bridge_03",
+  "category": "v5_himalaya"
+ },
+ {
+  "id": "HM02_01_timber_cantilever_bridge_01",
+  "category": "v5_himalaya"
+ },
+ {
+  "id": "HM02_02_timber_cantilever_bridge_02",
+  "category": "v5_himalaya"
+ },
+ {
+  "id": "HM03_01_tunnel_portal_01",
+  "category": "v5_himalaya"
+ },
+ {
+  "id": "HM03_03_tunnel_portal_03",
+  "category": "v5_himalaya"
+ },
+ {
+  "id": "HM04_02_tunnel_lining_02",
+  "category": "v5_himalaya"
+ },
+ {
+  "id": "HM06_03_switchback_wall_03",
+  "category": "v5_himalaya"
+ },
+ {
+  "id": "HM08_01_cairn_shrine_01",
+  "category": "v5_himalaya"
+ },
+ {
+  "id": "HM09_03_monastery_outpost_03",
+  "category": "v5_himalaya"
+ },
+ {
+  "id": "NE01_03_village_sign_03",
+  "category": "v5_entrances"
+ },
+ {
+  "id": "NE02_03_entry_rock_pair_03",
+  "category": "v5_entrances"
+ }
+]

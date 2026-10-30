@@ -1,0 +1,14 @@
+[
+  {"id": "WT07_04_wizard_lab_set_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "WT08_01_wizard_study_set_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "WT08_03_wizard_study_set_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "WT09_01_wizard_chandelier_ring_01", "verdict": "OK", "defects": ["candle flames read as small pale tips (not glowing)"], "fix": "", "original": "OK"},
+  {"id": "WT09_02_wizard_chandelier_ring_02", "verdict": "OK", "defects": ["similar to WT09_01 but two-tier differs enough"], "fix": "", "original": "OK"},
+  {"id": "WT10_01_wizard_observatory_telescope", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "WT11_01_wizard_armillary_crown", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "WT12_01_wizard_door_porch", "verdict": "OK", "defects": ["star emblem on signboard (generic, matches game theme)"], "fix": "", "original": "OK"},
+  {"id": "HL01_02_ice_spire_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "HL01_03_ice_spire_03", "verdict": "OK", "defects": ["very similar to HL01_02"], "fix": "", "original": "OK"},
+  {"id": "HL02_01_ice_arch_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "HL04_01_ice_cave_mouth_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

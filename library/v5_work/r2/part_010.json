@@ -1,0 +1,14 @@
+[
+  {"id": "CO05_02_ruin_islet_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM04_02_fortress_rampart_step_02", "verdict": "MINOR", "defects": ["all plain grey default, no colour relief", "a few tiny detached blocks near the steps"], "fix": "Apply a stone colour and weld the small loose blocks.", "original": "OK"},
+  {"id": "RD02_03_camp_set_03", "verdict": "MINOR", "defects": ["awning is a thin flat single-colour slab", "legs look spindly vs the large canopy"], "fix": "Give the awning thickness and a sag/fold so it does not read as a flat sheet.", "original": "OK"},
+  {"id": "LM08_01_mountain_span_bridge", "verdict": "MINOR", "defects": ["small black gap patches along the deck railing", "thin deck"], "fix": "Close the black gaps in the railing and thicken the deck slightly.", "original": "OK"},
+  {"id": "TW03_01_skull_avenue_set_01", "verdict": "MINOR", "defects": ["brazier bowl is near-black flat and reads dark", "skull on the leg sits as a tacked-on ball"], "fix": "Lighten the bowl to a metal/stone tone and seat the skull into the post.", "original": "OK"},
+  {"id": "CO05_01_ruin_islet_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "FR02_06_forest_ruin_06", "verdict": "MINOR", "defects": ["banded grey column reads a touch like default", "small scattered debris at base"], "fix": "Vary the band colours toward weathered stone and tidy the base debris.", "original": "OK"},
+  {"id": "CO03_02_reef_02", "verdict": "MINOR", "defects": ["very flat low disc, weak silhouette as a reef", "mottled surface patches read as camouflage"], "fix": "Add a few raised coral humps and reduce the patchy colour blotches.", "original": "OK"},
+  {"id": "CP16_01_townhouse_new_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "SP01_05_snow_spire_cluster_05", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "SD01_06_red_mesa_cluster_06", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "SP01_06_snow_spire_cluster_06", "verdict": "MINOR", "defects": ["near-identical to SP01_05 sibling, differs mainly in height"], "fix": "Vary the silhouette (lean, secondary peak) so it reads distinct from SP01_05.", "original": "OK"}
+]

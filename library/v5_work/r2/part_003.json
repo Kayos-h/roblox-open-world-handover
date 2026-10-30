@@ -1,0 +1,14 @@
+[
+  {"id": "CO04_02_sea_arch_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "HL03_03_glacier_tongue_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "VC04_06_skull_city_building_06", "verdict": "MAJOR", "defects": ["open-topped hollow box, exposed interior beams (back view)", "flat default grey, no relief"], "fix": "Roof it or make it a deliberate ruin and recolour off plain default grey.", "original": "OK"},
+  {"id": "CO01_03_coastal_cliff_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "PL05_02_ruined_watchtower_plains_02", "verdict": "MINOR", "defects": ["plain pale cylinder, little stone relief"], "fix": "Add stone-course relief/weathering to the shaft.", "original": "OK"},
+  {"id": "DS04_02_palm_02", "verdict": "MINOR", "defects": ["blocky sparse fronds", "very thin trunk"], "fix": "Fill out the canopy and thicken the trunk.", "original": "OK"},
+  {"id": "CP16_09_townhouse_new_09", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "HL07_02_mine_entrance_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "VC04_04_skull_city_building_04", "verdict": "MAJOR", "defects": ["open-topped hollow box, exposed beams (back view)", "flat default grey, no relief"], "fix": "Roof it or make it a deliberate ruin and recolour off plain default grey.", "original": "OK"},
+  {"id": "RD02_02_camp_set_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM22_01_colossal_fall_cliff_hero", "verdict": "MINOR", "defects": ["waterfall reads as small flat blue-white panels on ledges, slightly like light panels"], "fix": "Reshape the waterfall into a continuous falling sheet rather than isolated flat panels.", "original": "OK"},
+  {"id": "RD06_01_abandoned_house_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

@@ -1,0 +1,14 @@
+[
+  {"id": "NE02_01_entry_rock_pair_01", "verdict": "MINOR", "defects": ["small stray green/flat patch at base"], "fix": "remove the stray green vertex/face at the base; keep faceting"},
+  {"id": "NE02_02_entry_rock_pair_02", "verdict": "MINOR", "defects": ["stray white flat patch on upper face"], "fix": "delete the flat white sliver face on the top-right boulder"},
+  {"id": "NE02_03_entry_rock_pair_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "NE02_04_entry_rock_pair_04", "verdict": "MINOR", "defects": ["very dark near-black rock colour vs cream siblings"], "fix": "lighten to a natural grey so it matches the other entry rocks"},
+  {"id": "CP01_01_ring_wall_straight_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP01_02_ring_wall_straight_02", "verdict": "MINOR", "defects": ["near-identical recolour of 01/03, only arrow-slits differ"], "fix": "vary string-course or merlon spacing so siblings are not clones"},
+  {"id": "CP01_03_ring_wall_straight_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP02_01_ring_wall_corner_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP02_02_ring_wall_corner_02", "verdict": "MAJOR", "defects": ["detached floating black posts (window bars) hovering in empty air beside the wall", "gap between tower and wall"], "fix": "reattach the arrow-slit bars to the wall face and close the gap between the round tower and the straight run"},
+  {"id": "CP02_03_ring_wall_corner_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP03_01_ring_wall_stair_end_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP03_02_ring_wall_stair_end_02", "verdict": "MINOR", "defects": ["small stray stick/plank poking out of right merlon"], "fix": "remove the stray thin bar protruding from the top-right crenellation"}
+]

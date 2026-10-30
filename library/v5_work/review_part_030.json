@@ -1,0 +1,14 @@
+[
+  {"id": "PL06_02_rock_arch_natural_02", "verdict": "MINOR", "defects": ["flat grey rock, little colour variation", "small floating green/blue bits at base"], "fix": "Add warm stone tone variation and remove stray specks."},
+  {"id": "CO03_01_reef_01", "verdict": "MAJOR", "defects": ["blocky dark-grey camouflage colour patches on flat rock tops", "very flat low slab, little relief"], "fix": "Remove the random dark polygon patches, use smooth tonal variation, and give the reef bumpy 3D relief instead of flat slabs."},
+  {"id": "CO03_02_reef_02", "verdict": "MAJOR", "defects": ["square dark camouflage patches on rock", "flat jumbled slabs"], "fix": "Replace blotchy patches with coherent rock colour; add rounded relief and settle overlapping slabs."},
+  {"id": "CO03_03_reef_03", "verdict": "MAJOR", "defects": ["blocky dark colour patches", "flat slab silhouette, samey with set"], "fix": "Recolour evenly and add 3D reef shaping; vary from siblings."},
+  {"id": "CO03_04_reef_04", "verdict": "MAJOR", "defects": ["dark camouflage patches", "jumbled overlapping flat slabs read as clipping planes"], "fix": "Rebuild as a solid low reef mound with even colour; merge the loose slabs."},
+  {"id": "CO03_05_reef_05", "verdict": "MAJOR", "defects": ["square dark patches", "messy overlapping flat plates"], "fix": "Consolidate into one reef body, even rock tone, add relief."},
+  {"id": "CO03_06_reef_06", "verdict": "MAJOR", "defects": ["camouflage dark patches", "flat jumbled slabs, recolour of set"], "fix": "Even recolour, 3D relief, differentiate from siblings."},
+  {"id": "CO04_01_sea_arch_01", "verdict": "MINOR", "defects": ["flat grey stone, little colour variation"], "fix": "Add weathered stone tone variation; silhouette is good."},
+  {"id": "CO04_02_sea_arch_02", "verdict": "MINOR", "defects": ["flat grey, close to sea_arch_01"], "fix": "Vary the arch profile from its sibling and add stone colour relief."},
+  {"id": "CO05_01_ruin_islet_01", "verdict": "MINOR", "defects": ["green grass platform meets rock with a hard flat edge", "base rock slightly jumbled"], "fix": "Blend the grass cap onto the rock with a sloped rim and tidy the base boulders."},
+  {"id": "CO05_02_ruin_islet_02", "verdict": "MINOR", "defects": ["hard flat grass-on-rock seam", "similar to islet_01"], "fix": "Soften the grass rim and vary tower/tree arrangement."},
+  {"id": "CO05_03_ruin_islet_03", "verdict": "MAJOR", "defects": ["blocky tan/yellow colour patches on the base rock read as camouflage blotches", "hard grass seam"], "fix": "Remove the square sand-coloured patches, use coherent rock colour, and blend the grass cap."}
+]

@@ -1,0 +1,14 @@
+[
+  {"id": "CP01_01_ring_wall_straight_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP01_03_ring_wall_straight_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP02_01_ring_wall_corner_01", "verdict": "MINOR", "defects": ["open-topped hollow box on rear terrace (back view)"], "fix": "Cap or floor the rear wall-walk so it does not read as an empty open box from behind.", "original": "OK"},
+  {"id": "CP02_03_ring_wall_corner_03", "verdict": "MINOR", "defects": ["open hollow terrace visible from back"], "fix": "Add a floor/parapet to the rear terrace so the interior is not a hollow open box.", "original": "OK"},
+  {"id": "CP04_02_tower_round_cone_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP04_03_tower_round_cone_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP04_04_tower_round_cone_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP05_01_turret_crenellated_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP07_01_gatehouse_main", "verdict": "MINOR", "defects": ["open/hollow top (wall-walk floor missing relief)", "flat side walls lack detail"], "fix": "Add a proper floor to the open top and some pilaster/machicolation relief to the large blank side walls.", "original": "OK"},
+  {"id": "CP09_01_keep_terrace_hero", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP10_01_keep_wing_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP11_02_great_hall_chapel_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

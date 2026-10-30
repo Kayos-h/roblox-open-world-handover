@@ -1,0 +1,66 @@
+[
+ {
+  "id": "FL02_01_floating_island_small_01",
+  "category": "v5_coast"
+ },
+ {
+  "id": "FL02_02_floating_island_small_02",
+  "category": "v5_coast"
+ },
+ {
+  "id": "FL02_03_floating_island_small_03",
+  "category": "v5_coast"
+ },
+ {
+  "id": "HB01_02_harbour_wall_tower_02",
+  "category": "v5_coast"
+ },
+ {
+  "id": "RD04_02_trading_post_02",
+  "category": "v5_roads"
+ },
+ {
+  "id": "LM20_01_crater_arcane_ruin_01",
+  "category": "v5_landmarks"
+ },
+ {
+  "id": "LM20_03_crater_arcane_ruin_03",
+  "category": "v5_landmarks"
+ },
+ {
+  "id": "LM26_02_ruin_arena_segment_02",
+  "category": "v5_landmarks"
+ },
+ {
+  "id": "LM26_03_ruin_arena_segment_03",
+  "category": "v5_landmarks"
+ },
+ {
+  "id": "LM28_02_ruin_column_set_02",
+  "category": "v5_landmarks"
+ },
+ {
+  "id": "LM29_01_ruin_tower_stump_01",
+  "category": "v5_landmarks"
+ },
+ {
+  "id": "LM29_02_ruin_tower_stump_02",
+  "category": "v5_landmarks"
+ },
+ {
+  "id": "PL02_01_hay_silo_01",
+  "category": "v5_plains"
+ },
+ {
+  "id": "PL05_01_ruined_watchtower_plains_01",
+  "category": "v5_plains"
+ },
+ {
+  "id": "PL05_02_ruined_watchtower_plains_02",
+  "category": "v5_plains"
+ },
+ {
+  "id": "PL05_03_ruined_watchtower_plains_03",
+  "category": "v5_plains"
+ }
+]

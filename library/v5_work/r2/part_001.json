@@ -1,0 +1,14 @@
+[
+  {"id": "FR03_02_cave_mouth_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM20_02_crater_arcane_ruin_02", "verdict": "MINOR", "defects": ["very sparse: two plain slabs and one fallen slab on a disc", "little arcane detail"], "fix": "Add carved runes or broken column stubs so it reads as an arcane ruin, not two blank pillars.", "original": "OK"},
+  {"id": "RV01_04_bank_rock_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "VC04_03_skull_city_building_03", "verdict": "MAJOR", "defects": ["open-topped hollow box, interior beams visible (both views)", "flat default grey, no colour relief"], "fix": "Close/roof the top or give it a ruined profile, and recolour off the plain default grey.", "original": "OK"},
+  {"id": "LM14_03_sand_obelisk_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM04_03_fortress_rampart_step_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "SD01_04_red_mesa_cluster_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM21_02_floating_rock_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CO03_06_reef_06", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP01_02_ring_wall_straight_02", "verdict": "MINOR", "defects": ["pale cream slab reads flat", "little stone relief on the face"], "fix": "Add stone-course relief/weathering to the wall face so it is not a flat pale panel.", "original": "OK"},
+  {"id": "HM06_01_switchback_wall_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "NE02_04_entry_rock_pair_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

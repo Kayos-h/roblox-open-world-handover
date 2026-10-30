@@ -1,0 +1,14 @@
+[
+  {"id": "VC03_01_dark_fort_ruin_01", "verdict": "MINOR", "defects": ["a few loose detached blocks/poles at the base"], "fix": "Seat or remove the stray fragments lying at the foot of the walls."},
+  {"id": "VC03_02_dark_fort_ruin_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "VC03_03_dark_fort_ruin_03", "verdict": "MINOR", "defects": ["small detached bits at base"], "fix": "Clean up loose ground fragments."},
+  {"id": "VC04_01_skull_city_building_01", "verdict": "REDO", "defects": ["hollow open grey box, not a building", "detached wooden poles float above it", "no roof, no facade, no identity"], "fix": "Rebuild as a recognisable ruined building with walls, an opening and seated/attached timber beams instead of a hollow box with floating poles."},
+  {"id": "VC04_02_skull_city_building_02", "verdict": "REDO", "defects": ["open hollow box", "floating detached poles", "unreadable"], "fix": "Rebuild as an identifiable structure with attached beams."},
+  {"id": "VC04_03_skull_city_building_03", "verdict": "MAJOR", "defects": ["mostly a hollow box but has a broken tower", "poles float detached above"], "fix": "Attach the timber beams to the structure and close/define the box into a readable ruined building."},
+  {"id": "VC04_04_skull_city_building_04", "verdict": "REDO", "defects": ["hollow open box", "floating detached poles", "no identity"], "fix": "Rebuild as a recognisable building with attached beams."},
+  {"id": "VC04_05_skull_city_building_05", "verdict": "REDO", "defects": ["hollow open box", "floating detached poles"], "fix": "Rebuild into an identifiable structure; attach the beams."},
+  {"id": "VC04_06_skull_city_building_06", "verdict": "MAJOR", "defects": ["hollow box with a broken tower stub", "floating detached poles"], "fix": "Attach beams and define the box into a readable ruined building."},
+  {"id": "SD01_01_red_mesa_cluster_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "SD01_02_red_mesa_cluster_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "SD01_03_red_mesa_cluster_03", "verdict": "OK", "defects": ["layout close to siblings"], "fix": ""}
+]

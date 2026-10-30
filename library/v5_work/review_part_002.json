@@ -1,0 +1,14 @@
+[
+  {"id": "WT03_03_wizard_bookshelf_curved_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "WT04_01_wizard_bookshelf_straight_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "WT04_02_wizard_bookshelf_straight_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "WT05_01_wizard_round_map_table", "verdict": "OK", "defects": ["reads clearly as a relief map of an island with land, water, landmark tokens and a brass rim on stone"], "fix": "", "scores": {"exterior": 8, "interior": 8, "bookshelves": 8, "map": 10, "silhouette": 9, "materials": 9}},
+  {"id": "WT06_01_wizard_floor_medallion", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "WT07_01_wizard_lab_set_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "WT07_02_wizard_lab_set_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "WT07_03_wizard_lab_set_03", "verdict": "OK", "defects": ["crystal ball/orb on stand reads well"], "fix": ""},
+  {"id": "WT07_04_wizard_lab_set_04", "verdict": "OK", "defects": ["orrery and star-disc read well"], "fix": ""},
+  {"id": "WT08_01_wizard_study_set_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "WT08_02_wizard_study_set_02", "verdict": "MINOR", "defects": ["sparse: a bare blue canopy-bed/frame with little detail for the tri count, crudest of the study set"], "fix": "add bedding, pillows or drapery folds so it reads as a furnished study/bed, not an empty frame"},
+  {"id": "WT08_03_wizard_study_set_03", "verdict": "OK", "defects": ["globe, desk and easel-chart read well"], "fix": ""}
+]

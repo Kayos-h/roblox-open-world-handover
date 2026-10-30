@@ -1,0 +1,387 @@
+[
+ {
+  "model": "WT05_01_wizard_round_map_table",
+  "x": 0.0,
+  "y": 0.0,
+  "z": 0.0,
+  "rot": 0.0,
+  "group": "WizardTowerInterior",
+  "note": "THE CIRCULAR MAP, Map Hall centre"
+ },
+ {
+  "model": "WT06_01_wizard_floor_medallion",
+  "x": 0.0,
+  "y": 0.0,
+  "z": 0.3,
+  "rot": 0.0,
+  "group": "WizardTowerInterior",
+  "scale": 0.84
+ },
+ {
+  "model": "WT10_01_wizard_observatory_telescope",
+  "x": 0.0,
+  "y": 0.0,
+  "z": 232.0,
+  "rot": 0.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT09_01_wizard_chandelier_ring_01",
+  "x": -14.0,
+  "y": 0.0,
+  "z": 30.0,
+  "rot": 0.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT09_02_wizard_chandelier_ring_02",
+  "x": 14.0,
+  "y": 0.0,
+  "z": 30.0,
+  "rot": 0.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT09_01_wizard_chandelier_ring_01",
+  "x": 0.0,
+  "y": 0.0,
+  "z": 222.0,
+  "rot": 0.0,
+  "group": "WizardTowerInterior",
+  "scale": 0.8
+ },
+ {
+  "model": "WT03_01_wizard_bookshelf_curved_01",
+  "x": 16.69,
+  "y": -42.0,
+  "z": 0.1,
+  "rot": 201.7,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT03_02_wizard_bookshelf_curved_02",
+  "x": 42.13,
+  "y": -17.45,
+  "z": 0.1,
+  "rot": 247.5,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT03_02_wizard_bookshelf_curved_02",
+  "x": 42.13,
+  "y": 17.45,
+  "z": 0.1,
+  "rot": 292.5,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT03_02_wizard_bookshelf_curved_02",
+  "x": 17.45,
+  "y": 42.13,
+  "z": 0.1,
+  "rot": 337.5,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT03_02_wizard_bookshelf_curved_02",
+  "x": -17.45,
+  "y": 42.13,
+  "z": 0.1,
+  "rot": 22.5,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT03_02_wizard_bookshelf_curved_02",
+  "x": -42.13,
+  "y": 17.45,
+  "z": 0.1,
+  "rot": 67.5,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT03_02_wizard_bookshelf_curved_02",
+  "x": -42.13,
+  "y": -17.45,
+  "z": 0.1,
+  "rot": 112.5,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT03_02_wizard_bookshelf_curved_02",
+  "x": -16.84,
+  "y": -42.38,
+  "z": 0.1,
+  "rot": 158.3,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT03_02_wizard_bookshelf_curved_02",
+  "x": 35.93,
+  "y": -28.07,
+  "z": 40.0,
+  "rot": 232.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT03_02_wizard_bookshelf_curved_02",
+  "x": 45.26,
+  "y": 5.56,
+  "z": 40.0,
+  "rot": 277.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT03_02_wizard_bookshelf_curved_02",
+  "x": 28.07,
+  "y": 35.93,
+  "z": 40.0,
+  "rot": 322.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT03_02_wizard_bookshelf_curved_02",
+  "x": -5.56,
+  "y": 45.26,
+  "z": 40.0,
+  "rot": 7.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT03_02_wizard_bookshelf_curved_02",
+  "x": -35.93,
+  "y": 28.07,
+  "z": 40.0,
+  "rot": 52.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT03_02_wizard_bookshelf_curved_02",
+  "x": -45.26,
+  "y": -5.56,
+  "z": 40.0,
+  "rot": 97.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT03_02_wizard_bookshelf_curved_02",
+  "x": -28.07,
+  "y": -35.93,
+  "z": 40.0,
+  "rot": 142.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT03_02_wizard_bookshelf_curved_02",
+  "x": 5.56,
+  "y": -45.26,
+  "z": 40.0,
+  "rot": 187.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT03_02_wizard_bookshelf_curved_02",
+  "x": 37.1,
+  "y": -10.64,
+  "z": 72.0,
+  "rot": 254.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT03_01_wizard_bookshelf_curved_01",
+  "x": 27.48,
+  "y": 26.54,
+  "z": 72.0,
+  "rot": 314.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT03_02_wizard_bookshelf_curved_02",
+  "x": -9.34,
+  "y": 37.45,
+  "z": 72.0,
+  "rot": 14.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT03_01_wizard_bookshelf_curved_01",
+  "x": -36.72,
+  "y": 10.53,
+  "z": 72.0,
+  "rot": 74.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT03_02_wizard_bookshelf_curved_02",
+  "x": 21.06,
+  "y": 27.45,
+  "z": 104.0,
+  "rot": 322.5,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT03_02_wizard_bookshelf_curved_02",
+  "x": -12.4,
+  "y": 32.3,
+  "z": 104.0,
+  "rot": 21.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT03_03_wizard_bookshelf_curved_03",
+  "x": -33.98,
+  "y": 5.38,
+  "z": 104.0,
+  "rot": 81.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT03_02_wizard_bookshelf_curved_02",
+  "x": -21.77,
+  "y": -26.89,
+  "z": 104.0,
+  "rot": 141.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT03_03_wizard_bookshelf_curved_03",
+  "x": 12.33,
+  "y": -32.12,
+  "z": 104.0,
+  "rot": 201.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT04_02_wizard_bookshelf_straight_02",
+  "x": -20.74,
+  "y": 23.04,
+  "z": 0.1,
+  "rot": 222.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT04_02_wizard_bookshelf_straight_02",
+  "x": -30.96,
+  "y": 1.62,
+  "z": 0.1,
+  "rot": 267.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT04_02_wizard_bookshelf_straight_02",
+  "x": -23.04,
+  "y": -20.74,
+  "z": 0.1,
+  "rot": 312.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT04_02_wizard_bookshelf_straight_02",
+  "x": 14.07,
+  "y": -27.62,
+  "z": 0.1,
+  "rot": 27.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT04_01_wizard_bookshelf_straight_01",
+  "x": -12.4,
+  "y": 32.3,
+  "z": 104.0,
+  "rot": 21.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT04_01_wizard_bookshelf_straight_01",
+  "x": -34.17,
+  "y": 5.41,
+  "z": 104.0,
+  "rot": 81.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT04_01_wizard_bookshelf_straight_01",
+  "x": -21.77,
+  "y": -26.89,
+  "z": 104.0,
+  "rot": 141.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT04_01_wizard_bookshelf_straight_01",
+  "x": 12.4,
+  "y": -32.3,
+  "z": 104.0,
+  "rot": 201.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT07_01_wizard_lab_set_01",
+  "x": 27.08,
+  "y": 4.78,
+  "z": 136.0,
+  "rot": 280.0,
+  "group": "WizardTowerInterior",
+  "scale": 0.85
+ },
+ {
+  "model": "WT07_02_wizard_lab_set_02",
+  "x": 3.87,
+  "y": 27.53,
+  "z": 136.0,
+  "rot": 352.0,
+  "group": "WizardTowerInterior",
+  "scale": 0.85
+ },
+ {
+  "model": "WT07_03_wizard_lab_set_03",
+  "x": -16.22,
+  "y": -22.33,
+  "z": 136.0,
+  "rot": 144.0,
+  "group": "WizardTowerInterior",
+  "scale": 0.85
+ },
+ {
+  "model": "WT07_04_wizard_lab_set_04",
+  "x": 13.0,
+  "y": -24.46,
+  "z": 136.0,
+  "rot": 208.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT08_01_wizard_study_set_01",
+  "x": -12.91,
+  "y": 18.43,
+  "z": 168.0,
+  "rot": 35.0,
+  "group": "WizardTowerInterior",
+  "scale": 0.85
+ },
+ {
+  "model": "WT08_02_wizard_study_set_02",
+  "x": -18.1,
+  "y": -12.68,
+  "z": 168.0,
+  "rot": 125.0,
+  "group": "WizardTowerInterior",
+  "scale": 0.85
+ },
+ {
+  "model": "WT07_04_wizard_lab_set_04",
+  "x": 14.57,
+  "y": 13.11,
+  "z": 200.0,
+  "rot": 312.0,
+  "group": "WizardTowerInterior"
+ },
+ {
+  "model": "WT07_03_wizard_lab_set_03",
+  "x": -12.98,
+  "y": 14.42,
+  "z": 200.0,
+  "rot": 42.0,
+  "group": "WizardTowerInterior",
+  "scale": 0.85
+ }
+]

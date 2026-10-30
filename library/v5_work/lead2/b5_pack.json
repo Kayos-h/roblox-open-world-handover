@@ -1,0 +1,42 @@
+[
+ {
+  "id": "EV02_01_canopy_cluster_01",
+  "category": "v5_elf"
+ },
+ {
+  "id": "EV02_02_canopy_cluster_02",
+  "category": "v5_elf"
+ },
+ {
+  "id": "EV03_02_elf_path_piece_02",
+  "category": "v5_elf"
+ },
+ {
+  "id": "EV03_05_elf_path_piece_05",
+  "category": "v5_elf"
+ },
+ {
+  "id": "RW02_01_rework_world_tree_roots",
+  "category": "v5_elf"
+ },
+ {
+  "id": "TW01_01_town1_hero_statue",
+  "category": "v5_town1"
+ },
+ {
+  "id": "TW02_01_street_life_01",
+  "category": "v5_town1"
+ },
+ {
+  "id": "TW02_04_street_life_04",
+  "category": "v5_town1"
+ },
+ {
+  "id": "TW03_01_skull_avenue_set_01",
+  "category": "v5_town1"
+ },
+ {
+  "id": "TW03_03_skull_avenue_set_03",
+  "category": "v5_town1"
+ }
+]

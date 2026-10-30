@@ -1,0 +1,459 @@
+00:02.375  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_forest\FR03_02_cave_mouth_02.blend"
+00:03.609  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\FR03_02_cave_mouth_02.png'
+00:03.609  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM20_02_crater_arcane_ruin_02.blend"
+00:04.609  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM20_02_crater_arcane_ruin_02.png'
+00:04.609  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_roads\RV01_04_bank_rock_04.blend"
+00:05.593  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\RV01_04_bank_rock_04.png'
+00:05.593  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_skull\VC04_03_skull_city_building_03.blend"
+00:06.640  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\VC04_03_skull_city_building_03.png'
+00:06.640  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM14_03_sand_obelisk_03.blend"
+00:07.531  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM14_03_sand_obelisk_03.png'
+00:07.546  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM04_03_fortress_rampart_step_03.blend"
+00:08.546  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM04_03_fortress_rampart_step_03.png'
+00:08.546  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\SD01_04_red_mesa_cluster_04.blend"
+00:09.843  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\SD01_04_red_mesa_cluster_04.png'
+00:09.843  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM21_02_floating_rock_02.blend"
+00:11.015  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM21_02_floating_rock_02.png'
+00:11.015  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_coast\CO03_06_reef_06.blend"
+00:12.062  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CO03_06_reef_06.png'
+00:12.062  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_capital\CP01_02_ring_wall_straight_02.blend"
+00:13.062  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CP01_02_ring_wall_straight_02.png'
+00:13.062  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\HM06_01_switchback_wall_01.blend"
+00:14.109  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\HM06_01_switchback_wall_01.png'
+00:14.125  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_entrances\NE02_04_entry_rock_pair_04.blend"
+00:15.265  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\NE02_04_entry_rock_pair_04.png'
+00:15.265  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\DS04_01_palm_01.blend"
+00:16.218  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\DS04_01_palm_01.png'
+00:16.234  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_forest\LM23_02_gorge_wall_02.blend"
+00:17.359  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM23_02_gorge_wall_02.png'
+00:17.375  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_town1\TW01_01_town1_hero_statue.blend"
+00:18.328  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\TW01_01_town1_hero_statue.png'
+00:18.343  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_coast\CO01_02_coastal_cliff_02.blend"
+00:19.421  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CO01_02_coastal_cliff_02.png'
+00:19.421  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM10_03_temple_colonnade_buried_03.blend"
+00:20.484  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM10_03_temple_colonnade_buried_03.png'
+00:20.484  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\HM04_02_tunnel_lining_02.blend"
+00:21.671  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\HM04_02_tunnel_lining_02.png'
+00:21.671  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_roads\RD05_04_battlefield_prop_04.blend"
+00:22.671  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\RD05_04_battlefield_prop_04.png'
+00:22.671  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_forest\FR01_03_giant_tree_03.blend"
+00:23.656  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\FR01_03_giant_tree_03.png'
+00:23.671  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_roads\RD02_06_camp_set_06.blend"
+00:24.703  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\RD02_06_camp_set_06.png'
+00:24.718  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_skull\VC04_05_skull_city_building_05.blend"
+00:25.812  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\VC04_05_skull_city_building_05.png'
+00:25.812  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\SP01_02_snow_spire_cluster_02.blend"
+00:26.734  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\SP01_02_snow_spire_cluster_02.png'
+00:26.734  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_plains\PL05_01_ruined_watchtower_plains_01.blend"
+00:27.703  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\PL05_01_ruined_watchtower_plains_01.png'
+00:27.703  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_coast\CO04_02_sea_arch_02.blend"
+00:28.890  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CO04_02_sea_arch_02.png'
+00:28.890  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\HL03_03_glacier_tongue_03.blend"
+00:29.953  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\HL03_03_glacier_tongue_03.png'
+00:29.968  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_skull\VC04_06_skull_city_building_06.blend"
+00:31.000  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\VC04_06_skull_city_building_06.png'
+00:31.015  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_coast\CO01_03_coastal_cliff_03.blend"
+00:32.109  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CO01_03_coastal_cliff_03.png'
+00:32.125  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_plains\PL05_02_ruined_watchtower_plains_02.blend"
+00:33.140  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\PL05_02_ruined_watchtower_plains_02.png'
+00:33.140  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\DS04_02_palm_02.blend"
+00:34.093  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\DS04_02_palm_02.png'
+00:34.109  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_capital\CP16_09_townhouse_new_09.blend"
+00:35.203  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CP16_09_townhouse_new_09.png'
+00:35.203  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\HL07_02_mine_entrance_02.blend"
+00:36.343  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\HL07_02_mine_entrance_02.png'
+00:36.343  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_skull\VC04_04_skull_city_building_04.blend"
+00:37.500  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\VC04_04_skull_city_building_04.png'
+00:37.500  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_roads\RD02_02_camp_set_02.blend"
+00:38.500  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\RD02_02_camp_set_02.png'
+00:38.500  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM22_01_colossal_fall_cliff_hero.blend"
+00:39.703  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM22_01_colossal_fall_cliff_hero.png'
+00:39.703  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_roads\RD06_01_abandoned_house_01.blend"
+00:40.828  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\RD06_01_abandoned_house_01.png'
+00:40.828  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_capital\CP14_04_skyline_tower_04.blend"
+00:41.828  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CP14_04_skyline_tower_04.png'
+00:41.828  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\SD01_05_red_mesa_cluster_05.blend"
+00:43.109  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\SD01_05_red_mesa_cluster_05.png'
+00:43.109  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM12_01_temple_stair_down_01.blend"
+00:44.281  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM12_01_temple_stair_down_01.png'
+00:44.281  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\HL01_01_ice_spire_01.blend"
+00:45.265  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\HL01_01_ice_spire_01.png'
+00:45.265  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_capital\CP03_02_ring_wall_stair_end_02.blend"
+00:46.437  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CP03_02_ring_wall_stair_end_02.png'
+00:46.437  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_skull\VC02_02_skull_cliff_hero_02.blend"
+00:47.515  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\VC02_02_skull_cliff_hero_02.png'
+00:47.515  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\SP01_03_snow_spire_cluster_03.blend"
+00:48.437  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\SP01_03_snow_spire_cluster_03.png'
+00:48.437  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\HM04_01_tunnel_lining_01.blend"
+00:49.609  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\HM04_01_tunnel_lining_01.png'
+00:49.625  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_forest\FR03_03_cave_mouth_03.blend"
+00:50.718  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\FR03_03_cave_mouth_03.png'
+00:50.734  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_elf\LM02_01_world_tree_falls.blend"
+00:51.781  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM02_01_world_tree_falls.png'
+00:51.781  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_skull\VC04_01_skull_city_building_01.blend"
+00:52.890  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\VC04_01_skull_city_building_01.png'
+00:52.890  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_coast\FL01_02_floating_island_hero_02.blend"
+00:54.015  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\FL01_02_floating_island_hero_02.png'
+00:54.031  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_wizard\WT13_01_plateau_terrace_set_01.blend"
+00:55.046  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\WT13_01_plateau_terrace_set_01.png'
+00:55.046  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_plains\PL01_03_farmhouse_03.blend"
+00:56.062  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\PL01_03_farmhouse_03.png'
+00:56.062  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_skull\VC02_01_skull_cliff_hero_01.blend"
+00:57.140  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\VC02_01_skull_cliff_hero_01.png'
+00:57.156  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\HL07_01_mine_entrance_01.blend"
+00:58.250  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\HL07_01_mine_entrance_01.png'
+00:58.250  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_coast\CO01_05_coastal_cliff_05.blend"
+00:59.296  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CO01_05_coastal_cliff_05.png'
+00:59.296  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\HM07_04_prayer_flag_string_04.blend"
+01:00.250  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\HM07_04_prayer_flag_string_04.png'
+01:00.250  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\SD02_02_desert_ruin_block_02.blend"
+01:01.296  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\SD02_02_desert_ruin_block_02.png'
+01:01.312  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\HL05_01_mountain_shrine.blend"
+01:02.328  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\HL05_01_mountain_shrine.png'
+01:02.328  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\DS08_03_underground_entrance_03.blend"
+01:03.453  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\DS08_03_underground_entrance_03.png'
+01:03.453  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_roads\RD05_03_battlefield_prop_03.blend"
+01:04.421  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\RD05_03_battlefield_prop_03.png'
+01:04.421  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM19_05_crater_rim_rock_05.blend"
+01:05.515  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM19_05_crater_rim_rock_05.png'
+01:05.515  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_forest\VG05_03_tree_cypress_swamp_03.blend"
+01:06.546  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\VG05_03_tree_cypress_swamp_03.png'
+01:06.546  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\SD02_04_desert_ruin_block_04.blend"
+01:07.640  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\SD02_04_desert_ruin_block_04.png'
+01:07.640  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM16_02_ring_temple_segment_02.blend"
+01:08.687  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM16_02_ring_temple_segment_02.png'
+01:08.687  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_rework\RW01_01_rework_existing_01.blend"
+01:09.781  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\RW01_01_rework_existing_01.png'
+01:09.781  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_roads\RV01_01_bank_rock_01.blend"
+01:10.765  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\RV01_01_bank_rock_01.png'
+01:10.765  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\HL03_01_glacier_tongue_01.blend"
+01:11.875  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\HL03_01_glacier_tongue_01.png'
+01:11.875  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_roads\RV01_02_bank_rock_02.blend"
+01:12.953  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\RV01_02_bank_rock_02.png'
+01:12.953  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM31_02_ruined_castle_module_02.blend"
+01:14.140  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM31_02_ruined_castle_module_02.png'
+01:14.140  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_forest\VG05_02_tree_cypress_swamp_02.blend"
+01:15.156  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\VG05_02_tree_cypress_swamp_02.png'
+01:15.171  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM19_04_crater_rim_rock_04.blend"
+01:16.390  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM19_04_crater_rim_rock_04.png'
+01:16.390  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_coast\FL01_01_floating_island_hero_01.blend"
+01:17.578  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\FL01_01_floating_island_hero_01.png'
+01:17.578  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM10_02_temple_colonnade_buried_02.blend"
+01:18.703  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM10_02_temple_colonnade_buried_02.png'
+01:18.703  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_roads\RD01_02_watchtower_02.blend"
+01:19.703  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\RD01_02_watchtower_02.png'
+01:19.703  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_coast\CO03_04_reef_04.blend"
+01:20.734  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CO03_04_reef_04.png'
+01:20.750  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_capital\CP18_04_quay_wall_04.blend"
+01:21.765  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CP18_04_quay_wall_04.png'
+01:21.765  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_elf\EV01_05_elf_house_new_05.blend"
+01:22.843  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\EV01_05_elf_house_new_05.png'
+01:22.843  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_coast\FL01_03_floating_island_hero_03.blend"
+01:24.031  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\FL01_03_floating_island_hero_03.png'
+01:24.031  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM31_01_ruined_castle_module_01.blend"
+01:25.218  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM31_01_ruined_castle_module_01.png'
+01:25.218  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_roads\RD02_05_camp_set_05.blend"
+01:26.250  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\RD02_05_camp_set_05.png'
+01:26.265  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\HM06_02_switchback_wall_02.blend"
+01:27.296  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\HM06_02_switchback_wall_02.png'
+01:27.296  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM26_03_ruin_arena_segment_03.blend"
+01:28.406  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM26_03_ruin_arena_segment_03.png'
+01:28.406  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_roads\RD05_02_battlefield_prop_02.blend"
+01:29.468  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\RD05_02_battlefield_prop_02.png'
+01:29.468  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_capital\CP02_02_ring_wall_corner_02.blend"
+01:30.718  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CP02_02_ring_wall_corner_02.png'
+01:30.718  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_elf\EV02_03_canopy_cluster_03.blend"
+01:31.781  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\EV02_03_canopy_cluster_03.png'
+01:31.781  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_forest\VG04_01_tree_birch_01.blend"
+01:32.765  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\VG04_01_tree_birch_01.png'
+01:32.765  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\SD02_05_desert_ruin_block_05.blend"
+01:33.906  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\SD02_05_desert_ruin_block_05.png'
+01:33.906  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_plains\PL06_01_rock_arch_natural_01.blend"
+01:34.968  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\PL06_01_rock_arch_natural_01.png'
+01:34.968  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM16_01_ring_temple_segment_01.blend"
+01:36.078  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM16_01_ring_temple_segment_01.png'
+01:36.078  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_roads\RD06_02_abandoned_house_02.blend"
+01:37.187  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\RD06_02_abandoned_house_02.png'
+01:37.187  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\DS07_04_hoodoo_arch_04.blend"
+01:38.328  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\DS07_04_hoodoo_arch_04.png'
+01:38.343  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_plains\PL03_02_farm_cart_02.blend"
+01:39.359  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\PL03_02_farm_cart_02.png'
+01:39.375  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\HM08_02_cairn_shrine_02.blend"
+01:40.453  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\HM08_02_cairn_shrine_02.png'
+01:40.453  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_elf\LM01_01_world_tree_trunk_door.blend"
+01:41.640  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM01_01_world_tree_trunk_door.png'
+01:41.640  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\DS03_02_caravan_wagon_02.blend"
+01:42.750  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\DS03_02_caravan_wagon_02.png'
+01:42.765  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_capital\CP18_02_quay_wall_02.blend"
+01:43.765  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CP18_02_quay_wall_02.png'
+01:43.765  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_capital\CP06_01_gate_flank_tower_01.blend"
+01:44.812  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CP06_01_gate_flank_tower_01.png'
+01:44.828  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_capital\CP03_01_ring_wall_stair_end_01.blend"
+01:46.000  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CP03_01_ring_wall_stair_end_01.png'
+01:46.000  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_town1\TW03_04_skull_avenue_set_04.blend"
+01:47.093  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\TW03_04_skull_avenue_set_04.png'
+01:47.109  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\HL01_04_ice_spire_04.blend"
+01:48.062  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\HL01_04_ice_spire_04.png'
+01:48.062  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_forest\FR01_04_giant_tree_04.blend"
+01:49.109  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\FR01_04_giant_tree_04.png'
+01:49.109  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM26_02_ruin_arena_segment_02.blend"
+01:50.187  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM26_02_ruin_arena_segment_02.png'
+01:50.187  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_wizard\WT13_03_plateau_terrace_set_03.blend"
+01:51.250  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\WT13_03_plateau_terrace_set_03.png'
+01:51.250  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\HL03_02_glacier_tongue_02.blend"
+01:52.296  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\HL03_02_glacier_tongue_02.png'
+01:52.296  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_roads\RD01_04_watchtower_04.blend"
+01:53.328  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\RD01_04_watchtower_04.png'
+01:53.343  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_roads\RD05_05_battlefield_prop_05.blend"
+01:54.390  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\RD05_05_battlefield_prop_05.png'
+01:54.390  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_roads\BR01_02_viaduct_bridge_02.blend"
+01:55.406  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\BR01_02_viaduct_bridge_02.png'
+01:55.421  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_forest\VG03_01_tree_flowering_01.blend"
+01:56.484  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\VG03_01_tree_flowering_01.png'
+01:56.484  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_wizard\WT08_02_wizard_study_set_02.blend"
+01:57.625  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\WT08_02_wizard_study_set_02.png'
+01:57.625  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM03_01_frost_fortress_hero.blend"
+01:58.875  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM03_01_frost_fortress_hero.png'
+01:58.875  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_coast\CO05_02_ruin_islet_02.blend"
+02:00.046  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CO05_02_ruin_islet_02.png'
+02:00.046  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM04_02_fortress_rampart_step_02.blend"
+02:01.078  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM04_02_fortress_rampart_step_02.png'
+02:01.078  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_roads\RD02_03_camp_set_03.blend"
+02:02.187  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\RD02_03_camp_set_03.png'
+02:02.187  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM08_01_mountain_span_bridge.blend"
+02:03.234  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM08_01_mountain_span_bridge.png'
+02:03.234  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_town1\TW03_01_skull_avenue_set_01.blend"
+02:04.468  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\TW03_01_skull_avenue_set_01.png'
+02:04.468  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_coast\CO05_01_ruin_islet_01.blend"
+02:05.609  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CO05_01_ruin_islet_01.png'
+02:05.609  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_forest\FR02_06_forest_ruin_06.blend"
+02:06.687  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\FR02_06_forest_ruin_06.png'
+02:06.687  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_coast\CO03_02_reef_02.blend"
+02:07.718  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CO03_02_reef_02.png'
+02:07.718  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_capital\CP16_01_townhouse_new_01.blend"
+02:08.937  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CP16_01_townhouse_new_01.png'
+02:08.937  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\SP01_05_snow_spire_cluster_05.blend"
+02:09.906  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\SP01_05_snow_spire_cluster_05.png'
+02:09.906  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\SD01_06_red_mesa_cluster_06.blend"
+02:11.171  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\SD01_06_red_mesa_cluster_06.png'
+02:11.171  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\SP01_06_snow_spire_cluster_06.blend"
+02:12.140  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\SP01_06_snow_spire_cluster_06.png'
+02:12.140  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\HM05_01_cliff_gallery_01.blend"
+02:13.218  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\HM05_01_cliff_gallery_01.png'
+02:13.234  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_capital\CP11_01_great_hall_chapel_01.blend"
+02:14.375  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CP11_01_great_hall_chapel_01.png'
+02:14.375  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_entrances\NE01_01_village_sign_01.blend"
+02:15.296  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\NE01_01_village_sign_01.png'
+02:15.312  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_roads\RD05_01_battlefield_prop_01.blend"
+02:16.328  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\RD05_01_battlefield_prop_01.png'
+02:16.328  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_skull\VC03_03_dark_fort_ruin_03.blend"
+02:17.375  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\VC03_03_dark_fort_ruin_03.png'
+02:17.375  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM21_04_floating_rock_04.blend"
+02:18.500  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM21_04_floating_rock_04.png'
+02:18.500  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_roads\RD06_03_abandoned_house_03.blend"
+02:19.593  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\RD06_03_abandoned_house_03.png'
+02:19.593  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM28_01_ruin_column_set_01.blend"
+02:20.500  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM28_01_ruin_column_set_01.png'
+02:20.515  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_coast\CO04_01_sea_arch_01.blend"
+02:21.578  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CO04_01_sea_arch_01.png'
+02:21.593  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM13_01_guardian_statue_01.blend"
+02:22.500  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM13_01_guardian_statue_01.png'
+02:22.500  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_capital\CP08_01_water_gate.blend"
+02:23.593  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CP08_01_water_gate.png'
+02:23.609  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_forest\VG06_01_marsh_hummock_01.blend"
+02:24.687  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\VG06_01_marsh_hummock_01.png'
+02:24.687  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\HM05_02_cliff_gallery_02.blend"
+02:25.687  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\HM05_02_cliff_gallery_02.png'
+02:25.687  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\DS07_01_hoodoo_arch_01.blend"
+02:26.828  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\DS07_01_hoodoo_arch_01.png'
+02:26.828  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_forest\VG06_02_marsh_hummock_02.blend"
+02:27.921  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\VG06_02_marsh_hummock_02.png'
+02:27.921  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\DS01_04_adobe_house_04.blend"
+02:29.078  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\DS01_04_adobe_house_04.png'
+02:29.078  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\SP01_01_snow_spire_cluster_01.blend"
+02:30.046  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\SP01_01_snow_spire_cluster_01.png'
+02:30.062  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_skull\VC04_02_skull_city_building_02.blend"
+02:31.250  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\VC04_02_skull_city_building_02.png'
+02:31.250  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_forest\LM23_03_gorge_wall_03.blend"
+02:32.484  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM23_03_gorge_wall_03.png'
+02:32.484  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_elf\EV03_03_elf_path_piece_03.blend"
+02:33.625  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\EV03_03_elf_path_piece_03.png'
+02:33.625  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\DS06_04_canyon_wall_04.blend"
+02:34.765  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\DS06_04_canyon_wall_04.png'
+02:34.781  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_forest\VG04_02_tree_birch_02.blend"
+02:35.703  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\VG04_02_tree_birch_02.png'
+02:35.703  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM25_01_ruin_gate_hero.blend"
+02:36.734  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM25_01_ruin_gate_hero.png'
+02:36.734  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_forest\FR01_02_giant_tree_02.blend"
+02:37.703  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\FR01_02_giant_tree_02.png'
+02:37.703  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM07_02_carved_stair_switchback_02.blend"
+02:38.937  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM07_02_carved_stair_switchback_02.png'
+02:38.937  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM29_01_ruin_tower_stump_01.blend"
+02:39.953  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM29_01_ruin_tower_stump_01.png'
+02:39.953  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_forest\FR02_05_forest_ruin_05.blend"
+02:40.921  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\FR02_05_forest_ruin_05.png'
+02:40.937  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_skull\VC03_01_dark_fort_ruin_01.blend"
+02:41.937  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\VC03_01_dark_fort_ruin_01.png'
+02:41.953  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\DS05_02_oasis_rock_ring_02.blend"
+02:42.937  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\DS05_02_oasis_rock_ring_02.png'
+02:42.937  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_town1\TW02_06_street_life_06.blend"
+02:44.000  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\TW02_06_street_life_06.png'
+02:44.015  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_forest\FR03_05_cave_mouth_05.blend"
+02:45.109  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\FR03_05_cave_mouth_05.png'
+02:45.109  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\HM06_03_switchback_wall_03.blend"
+02:46.062  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\HM06_03_switchback_wall_03.png'
+02:46.062  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_forest\FR03_06_cave_mouth_06.blend"
+02:47.203  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\FR03_06_cave_mouth_06.png'
+02:47.203  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\HL04_02_ice_cave_mouth_02.blend"
+02:48.250  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\HL04_02_ice_cave_mouth_02.png'
+02:48.265  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_capital\CP14_05_skyline_tower_05.blend"
+02:49.171  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CP14_05_skyline_tower_05.png'
+02:49.171  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_roads\RD02_01_camp_set_01.blend"
+02:50.109  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\RD02_01_camp_set_01.png'
+02:50.109  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM30_01_ruined_castle_hero.blend"
+02:51.125  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM30_01_ruined_castle_hero.png'
+02:51.125  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_entrances\NE01_04_village_sign_04.blend"
+02:52.140  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\NE01_04_village_sign_04.png'
+02:52.140  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM27_01_ruin_aqueduct_arch_01.blend"
+02:53.156  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM27_01_ruin_aqueduct_arch_01.png'
+02:53.156  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\DS01_03_adobe_house_03.blend"
+02:54.281  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\DS01_03_adobe_house_03.png'
+02:54.281  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_coast\CO03_01_reef_01.blend"
+02:55.250  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CO03_01_reef_01.png'
+02:55.250  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_roads\BR01_01_viaduct_bridge_01.blend"
+02:56.250  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\BR01_01_viaduct_bridge_01.png'
+02:56.250  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\SD02_06_desert_ruin_block_06.blend"
+02:57.296  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\SD02_06_desert_ruin_block_06.png'
+02:57.296  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_coast\CO03_03_reef_03.blend"
+02:58.265  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CO03_03_reef_03.png'
+02:58.265  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_forest\VG01_02_tree_tall_narrow_02.blend"
+02:59.187  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\VG01_02_tree_tall_narrow_02.png'
+02:59.203  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM05_02_fortress_cliff_tower_02.blend"
+03:00.203  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM05_02_fortress_cliff_tower_02.png'
+03:00.203  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_capital\CP12_01_terrace_retaining_wall_01.blend"
+03:01.203  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CP12_01_terrace_retaining_wall_01.png'
+03:01.203  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\DS02_01_desert_market_01.blend"
+03:02.234  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\DS02_01_desert_market_01.png'
+03:02.234  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_capital\CP04_01_tower_round_cone_01.blend"
+03:03.203  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CP04_01_tower_round_cone_01.png'
+03:03.203  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_entrances\NE02_01_entry_rock_pair_01.blend"
+03:04.281  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\NE02_01_entry_rock_pair_01.png'
+03:04.296  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_plains\PL04_01_mill_waterwheel.blend"
+03:05.375  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\PL04_01_mill_waterwheel.png'
+03:05.375  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_plains\PL05_03_ruined_watchtower_plains_03.blend"
+03:06.328  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\PL05_03_ruined_watchtower_plains_03.png'
+03:06.328  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM26_01_ruin_arena_segment_01.blend"
+03:07.421  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM26_01_ruin_arena_segment_01.png'
+03:07.421  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_capital\CP18_01_quay_wall_01.blend"
+03:08.375  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CP18_01_quay_wall_01.png'
+03:08.375  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_wizard\WT03_01_wizard_bookshelf_curved_01.blend"
+03:09.421  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\WT03_01_wizard_bookshelf_curved_01.png'
+03:09.421  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_forest\VG04_03_tree_birch_03.blend"
+03:10.328  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\VG04_03_tree_birch_03.png'
+03:10.343  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_roads\RD01_03_watchtower_03.blend"
+03:11.312  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\RD01_03_watchtower_03.png'
+03:11.312  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_roads\RV01_03_bank_rock_03.blend"
+03:12.265  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\RV01_03_bank_rock_03.png'
+03:12.265  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\DS08_02_underground_entrance_02.blend"
+03:13.343  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\DS08_02_underground_entrance_02.png'
+03:13.343  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM29_02_ruin_tower_stump_02.blend"
+03:14.359  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM29_02_ruin_tower_stump_02.png'
+03:14.375  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM28_03_ruin_column_set_03.blend"
+03:15.281  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM28_03_ruin_column_set_03.png'
+03:15.296  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\HL02_02_ice_arch_02.blend"
+03:16.359  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\HL02_02_ice_arch_02.png'
+03:16.359  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_skull\VC01_08_volcanic_rock_08.blend"
+03:17.453  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\VC01_08_volcanic_rock_08.png'
+03:17.453  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_plains\PL06_02_rock_arch_natural_02.blend"
+03:18.468  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\PL06_02_rock_arch_natural_02.png'
+03:18.484  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\SD02_03_desert_ruin_block_03.blend"
+03:19.562  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\SD02_03_desert_ruin_block_03.png'
+03:19.562  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_forest\FR03_04_cave_mouth_04.blend"
+03:20.671  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\FR03_04_cave_mouth_04.png'
+03:20.687  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_elf\EV03_05_elf_path_piece_05.blend"
+03:21.687  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\EV03_05_elf_path_piece_05.png'
+03:21.703  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM27_02_ruin_aqueduct_arch_02.blend"
+03:22.703  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM27_02_ruin_aqueduct_arch_02.png'
+03:22.718  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_plains\PL02_01_hay_silo_01.blend"
+03:23.734  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\PL02_01_hay_silo_01.png'
+03:23.734  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\DS07_02_hoodoo_arch_02.blend"
+03:24.796  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\DS07_02_hoodoo_arch_02.png'
+03:24.812  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_capital\CP06_02_gate_flank_tower_02.blend"
+03:25.859  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CP06_02_gate_flank_tower_02.png'
+03:25.859  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM13_02_guardian_statue_02.blend"
+03:26.765  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM13_02_guardian_statue_02.png'
+03:26.765  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM07_01_carved_stair_switchback_01.blend"
+03:28.062  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM07_01_carved_stair_switchback_01.png'
+03:28.062  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_skull\VC01_07_volcanic_rock_07.blend"
+03:29.109  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\VC01_07_volcanic_rock_07.png'
+03:29.125  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM28_02_ruin_column_set_02.blend"
+03:30.046  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM28_02_ruin_column_set_02.png'
+03:30.046  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\DS08_01_underground_entrance_01.blend"
+03:31.171  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\DS08_01_underground_entrance_01.png'
+03:31.171  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_roads\RD06_05_abandoned_house_05.blend"
+03:32.296  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\RD06_05_abandoned_house_05.png'
+03:32.296  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_coast\CO03_05_reef_05.blend"
+03:33.281  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CO03_05_reef_05.png'
+03:33.281  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_entrances\NE02_02_entry_rock_pair_02.blend"
+03:34.343  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\NE02_02_entry_rock_pair_02.png'
+03:34.359  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_capital\CP14_02_skyline_tower_02.blend"
+03:35.296  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CP14_02_skyline_tower_02.png'
+03:35.312  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_capital\CP10_02_keep_wing_02.blend"
+03:36.375  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CP10_02_keep_wing_02.png'
+03:36.375  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM18_01_crater_monolith_ring.blend"
+03:37.437  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM18_01_crater_monolith_ring.png'
+03:37.437  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_capital\CP18_03_quay_wall_03.blend"
+03:38.390  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CP18_03_quay_wall_03.png'
+03:38.390  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_himalaya\SP01_04_snow_spire_cluster_04.blend"
+03:39.312  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\SP01_04_snow_spire_cluster_04.png'
+03:39.312  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_capital\CP12_02_terrace_retaining_wall_02.blend"
+03:40.312  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CP12_02_terrace_retaining_wall_02.png'
+03:40.312  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_elf\EV01_01_elf_house_new_01.blend"
+03:41.359  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\EV01_01_elf_house_new_01.png'
+03:41.375  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM19_03_crater_rim_rock_03.blend"
+03:42.453  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM19_03_crater_rim_rock_03.png'
+03:42.468  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\DS01_06_adobe_house_06.blend"
+03:43.546  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\DS01_06_adobe_house_06.png'
+03:43.546  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_elf\EV03_04_elf_path_piece_04.blend"
+03:44.546  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\EV03_04_elf_path_piece_04.png'
+03:44.546  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_coast\HB01_03_harbour_wall_tower_03.blend"
+03:45.625  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\HB01_03_harbour_wall_tower_03.png'
+03:45.625  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM31_03_ruined_castle_module_03.blend"
+03:46.687  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM31_03_ruined_castle_module_03.png'
+03:46.687  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_forest\VG03_02_tree_flowering_02.blend"
+03:47.718  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\VG03_02_tree_flowering_02.png'
+03:47.718  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_skull\VC01_05_volcanic_rock_05.blend"
+03:48.796  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\VC01_05_volcanic_rock_05.png'
+03:48.796  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM19_01_crater_rim_rock_01.blend"
+03:50.000  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM19_01_crater_rim_rock_01.png'
+03:50.000  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_capital\CP15_03_order_hq_03.blend"
+03:51.031  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CP15_03_order_hq_03.png'
+03:51.046  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\SD02_01_desert_ruin_block_01.blend"
+03:52.109  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\SD02_01_desert_ruin_block_01.png'
+03:52.109  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM19_02_crater_rim_rock_02.blend"
+03:53.234  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM19_02_crater_rim_rock_02.png'
+03:53.234  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_desert\DS04_03_palm_03.blend"
+03:54.109  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\DS04_03_palm_03.png'
+03:54.125  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_elf\EV03_06_elf_path_piece_06.blend"
+03:55.093  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\EV03_06_elf_path_piece_06.png'
+03:55.109  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_landmarks\LM12_02_temple_stair_down_02.blend"
+03:56.218  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\LM12_02_temple_stair_down_02.png'
+03:56.234  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_coast\CO05_03_ruin_islet_03.blend"
+03:57.312  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CO05_03_ruin_islet_03.png'
+03:57.312  blend            | Read blend: "C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_capital\CP05_02_turret_crenellated_02.blend"
+03:58.375  render           | Saved: 'C:\Users\Nitro\.kiro\crew\workspace\town\library\v5_work\r2\back\CP05_02_turret_crenellated_02.png'
+BACK_PROGRESS 20 21
+BACK_PROGRESS 40 43
+BACK_PROGRESS 60 64
+BACK_PROGRESS 80 86
+BACK_PROGRESS 100 108
+BACK_PROGRESS 120 130
+BACK_PROGRESS 140 151
+BACK_PROGRESS 160 172
+BACK_PROGRESS 180 192
+BACK_PROGRESS 200 213
+BACK_PROGRESS 220 234
+BACK_DONE 222 236
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

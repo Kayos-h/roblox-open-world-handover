@@ -1,0 +1,82 @@
+[
+ {
+  "id": "DS01_01_adobe_house_01",
+  "category": "v5_desert"
+ },
+ {
+  "id": "DS01_05_adobe_house_05",
+  "category": "v5_desert"
+ },
+ {
+  "id": "DS04_01_palm_01",
+  "category": "v5_desert"
+ },
+ {
+  "id": "DS04_02_palm_02",
+  "category": "v5_desert"
+ },
+ {
+  "id": "DS06_02_canyon_wall_02",
+  "category": "v5_desert"
+ },
+ {
+  "id": "DS06_03_canyon_wall_03",
+  "category": "v5_desert"
+ },
+ {
+  "id": "DS07_03_hoodoo_arch_03",
+  "category": "v5_desert"
+ },
+ {
+  "id": "DS08_02_underground_entrance_02",
+  "category": "v5_desert"
+ },
+ {
+  "id": "SD01_03_red_mesa_cluster_03",
+  "category": "v5_desert"
+ },
+ {
+  "id": "SD02_05_desert_ruin_block_05",
+  "category": "v5_desert"
+ },
+ {
+  "id": "LM10_01_temple_colonnade_buried_01",
+  "category": "v5_landmarks"
+ },
+ {
+  "id": "LM12_01_temple_stair_down_01",
+  "category": "v5_landmarks"
+ },
+ {
+  "id": "LM12_02_temple_stair_down_02",
+  "category": "v5_landmarks"
+ },
+ {
+  "id": "LM13_01_guardian_statue_01",
+  "category": "v5_landmarks"
+ },
+ {
+  "id": "LM14_01_sand_obelisk_01",
+  "category": "v5_landmarks"
+ },
+ {
+  "id": "LM14_02_sand_obelisk_02",
+  "category": "v5_landmarks"
+ },
+ {
+  "id": "LM16_01_ring_temple_segment_01",
+  "category": "v5_landmarks"
+ },
+ {
+  "id": "VC01_03_volcanic_rock_03",
+  "category": "v5_skull"
+ },
+ {
+  "id": "VC01_04_volcanic_rock_04",
+  "category": "v5_skull"
+ },
+ {
+  "id": "VC01_06_volcanic_rock_06",
+  "category": "v5_skull"
+ }
+]

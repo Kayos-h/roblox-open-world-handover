@@ -1,0 +1,14 @@
+[
+  {"id": "WT13_01_plateau_terrace_set_01", "verdict": "MAJOR", "defects": ["open hollow box visible under grid top", "reads as plain untextured grey/white default", "no relief, crude grid slab"], "fix": "Close the open underside, give the top terrace stone relief and a believable rock/earth body instead of a blank slab.", "original": "OK"},
+  {"id": "PL01_03_farmhouse_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "VC02_01_skull_cliff_hero_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "HL07_01_mine_entrance_01", "verdict": "MINOR", "defects": ["blocky rock body reads as plain grey slabs", "timber frame around entrance is thin"], "fix": "Add a little surface relief/colour variation to the rock so it does not read as a plain grey block.", "original": "OK"},
+  {"id": "CO01_05_coastal_cliff_05", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "HM07_04_prayer_flag_string_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "SD02_02_desert_ruin_block_02", "verdict": "MINOR", "defects": ["mostly plain tan boxes with little ruin detail", "sits on a visible flat base slab"], "fix": "Add broken edges, fallen blocks or carved detail so it reads as a ruin rather than stacked plain boxes.", "original": "OK"},
+  {"id": "HL05_01_mountain_shrine", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "DS08_03_underground_entrance_03", "verdict": "MAJOR", "defects": ["no readable opening or stairs down - just a plain tan cube with rubble on top", "silhouette does not read as an entrance", "dark vertical seam stripes on back from overlapping faces"], "fix": "Cut a clear dark doorway/stair opening into the face and remove the overlapping-face seam stripes so it reads as an underground entrance.", "original": "OK"},
+  {"id": "RD05_03_battlefield_prop_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM19_05_crater_rim_rock_05", "verdict": "MINOR", "defects": ["flat single tan colour across the whole rock pile"], "fix": "Vary the rock tone slightly so the mass does not read as one flat colour.", "original": "OK"},
+  {"id": "VG05_03_tree_cypress_swamp_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

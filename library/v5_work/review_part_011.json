@@ -1,0 +1,14 @@
+[
+  {"id": "LM02_01_world_tree_falls", "verdict": "REDO", "defects": ["waterfalls are flat bright white+cyan vertical slabs that read as glowing light panels, not water", "no-glow rule violation", "body reads as a random rubble stone stack, not a tree trunk with falls", "window-like openings look like lit doors"], "fix": "Rebuild as a believable tree-trunk cliff; make the falls thin layered translucent/pale-blue stepped water with foam at the base and NO emissive bright panels."},
+  {"id": "TW01_01_town1_hero_statue", "verdict": "MINOR", "defects": ["face is crude flat-boxy", "staff reads thin"], "fix": "Add simple carved robe folds and a thicker staff so it reads as a hero statue up close."},
+  {"id": "TW02_01_street_life_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "TW02_02_street_life_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "TW02_03_street_life_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "TW02_04_street_life_04", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "TW02_05_street_life_05", "verdict": "OK", "defects": ["stacked barrels/wheels a little uniform"], "fix": ""},
+  {"id": "TW02_06_street_life_06", "verdict": "MINOR", "defects": ["bracket+gong reads ambiguous as a street prop", "cylinder on ground looks detached"], "fix": "Ground the fallen log/bell and clarify what the prop is; thicken the mount."},
+  {"id": "TW02_07_street_life_07", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "TW02_08_street_life_08", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "RW02_01_rework_world_tree_roots", "verdict": "OK", "defects": ["slight gap between radial roots at centre"], "fix": ""},
+  {"id": "EV01_01_elf_house_new_01", "verdict": "MINOR", "defects": ["stacked ring tiers at base look slightly offset/clipping", "loose plank segments at ground"], "fix": "Align the stacked base rings cleanly and seat the ground planks flush."}
+]

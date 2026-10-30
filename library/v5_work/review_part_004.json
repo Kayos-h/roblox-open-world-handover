@@ -1,0 +1,14 @@
+[
+  {"id": "HM04_02_tunnel_lining_02", "verdict": "MAJOR", "defects": ["large black inverted/inside-out faces across the top and left of the interior", "reads as holes / flipped normals, not lit stone"], "fix": "recalculate normals outward (or solidify the shell) and give the inner faces a stone colour so no black inverted patches remain"},
+  {"id": "HM05_01_cliff_gallery_01", "verdict": "MINOR", "defects": ["timber walkway clings to a blocky grey cliff but the rock is plain flat-grey slabs with little relief"], "fix": "vary the cliff rock colours/angles so it is not one flat grey mass behind the gallery"},
+  {"id": "HM05_02_cliff_gallery_02", "verdict": "MINOR", "defects": ["same flat grey cliff backing; white snow slab on top looks like a loose flat plane"], "fix": "break up the grey rock and seat the snow cap so it conforms to the top rather than floating as a flat sheet"},
+  {"id": "HM06_01_switchback_wall_01", "verdict": "MAJOR", "defects": ["blocky two-tone grey checkerboard camouflage patches across the wall face", "stones read as a flat chequer pattern, not masonry"], "fix": "replace the alternating light/dark grey checker with subtler stone tone variation and real block relief"},
+  {"id": "HM06_02_switchback_wall_02", "verdict": "MINOR", "defects": ["mostly plain flat slabs; curved retaining section is bland with little stone detail"], "fix": "add coursing/relief to the wall faces so the curve reads as laid stone"},
+  {"id": "HM06_03_switchback_wall_03", "verdict": "MAJOR", "defects": ["same blocky grey checkerboard camouflage patches as _01"], "fix": "remove the two-tone checker; use graded stone tones with block relief"},
+  {"id": "HM07_01_prayer_flag_string_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "HM07_02_prayer_flag_string_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "HM07_03_prayer_flag_string_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "HM07_04_prayer_flag_string_04", "verdict": "MINOR", "defects": ["flags all near-white/pale, little colour variety versus siblings"], "fix": "give this string distinct flag colours so it is not a washed-out copy of the others"},
+  {"id": "HM08_01_cairn_shrine_01", "verdict": "OK", "defects": ["stacked rock cairn topped with a flag reads well"], "fix": ""},
+  {"id": "HM08_02_cairn_shrine_02", "verdict": "MAJOR", "defects": ["reads as a small red-roof hut, not a cairn shrine", "does not match its siblings in the HM08 cairn set"], "fix": "rebuild as a stone cairn/chorten (stacked rock or a whitewashed stupa form) consistent with the cairn_shrine set"}
+]

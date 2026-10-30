@@ -1,0 +1,14 @@
+[
+  {"id": "VG05_03_tree_cypress_swamp_03", "verdict": "MINOR", "defects": ["near-clone of VG05_01/02"], "fix": "Differentiate canopy silhouette and trunk from siblings."},
+  {"id": "VG06_01_marsh_hummock_01", "verdict": "MINOR", "defects": ["single flat green faceted slab mound with no relief or detail", "no texture of marsh grass/moss"], "fix": "Add tufts, mud rim and height variation so it reads as a marsh hummock, not a flat green shard."},
+  {"id": "VG06_02_marsh_hummock_02", "verdict": "MINOR", "defects": ["near-duplicate of 01; flat untextured green"], "fix": "Vary the shape and add detail/mud edge."},
+  {"id": "VG07_01_boardwalk_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "VG07_02_boardwalk_02", "verdict": "OK", "defects": ["near variant of 01 but rail difference is enough"], "fix": ""},
+  {"id": "SP01_01_snow_spire_cluster_01", "verdict": "MAJOR", "defects": ["blocky black/grey/white square camouflage patches over the spire", "very thin pencil-like spire reads as a pole, weak silhouette", "base rocks look detached"], "fix": "Replace the camo patches with coherent snow-over-grey-rock shading, thicken the spire taper, and seat the base rocks into the mass."},
+  {"id": "SP01_02_snow_spire_cluster_02", "verdict": "MAJOR", "defects": ["identical camouflage-patch and thin-spire problem as 01"], "fix": "Same fix as SP01_01; also vary silhouette so it is not a clone."},
+  {"id": "SP01_03_snow_spire_cluster_03", "verdict": "MAJOR", "defects": ["camo patches, thin spire, clone of the set"], "fix": "Recolour coherently, thicken, and differentiate shape."},
+  {"id": "SP01_04_snow_spire_cluster_04", "verdict": "MAJOR", "defects": ["camo patches, thin spire, clone"], "fix": "Recolour coherently, thicken, and differentiate shape."},
+  {"id": "SP01_05_snow_spire_cluster_05", "verdict": "MAJOR", "defects": ["camo patches, thin spire, clone"], "fix": "Recolour coherently, thicken, and differentiate shape."},
+  {"id": "SP01_06_snow_spire_cluster_06", "verdict": "MAJOR", "defects": ["camo patches, thin spire, clone"], "fix": "Recolour coherently, thicken, and differentiate shape."},
+  {"id": "LM10_01_temple_colonnade_buried_01", "verdict": "OK", "defects": [], "fix": ""}
+]

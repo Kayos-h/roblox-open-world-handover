@@ -1,0 +1,2250 @@
+[
+ {
+  "id": "FR03_02_cave_mouth_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_001.json"
+ },
+ {
+  "id": "LM20_02_crater_arcane_ruin_02",
+  "verdict": "MINOR",
+  "defects": [
+   "very sparse: two plain slabs and one fallen slab on a disc",
+   "little arcane detail"
+  ],
+  "fix": "Add carved runes or broken column stubs so it reads as an arcane ruin, not two blank pillars.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_001.json"
+ },
+ {
+  "id": "RV01_04_bank_rock_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_001.json"
+ },
+ {
+  "id": "VC04_03_skull_city_building_03",
+  "verdict": "MAJOR",
+  "defects": [
+   "open-topped hollow box, interior beams visible (both views)",
+   "flat default grey, no colour relief"
+  ],
+  "fix": "Close/roof the top or give it a ruined profile, and recolour off the plain default grey.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_001.json"
+ },
+ {
+  "id": "LM14_03_sand_obelisk_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_001.json"
+ },
+ {
+  "id": "LM04_03_fortress_rampart_step_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_001.json"
+ },
+ {
+  "id": "SD01_04_red_mesa_cluster_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_001.json"
+ },
+ {
+  "id": "LM21_02_floating_rock_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_001.json"
+ },
+ {
+  "id": "CO03_06_reef_06",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_001.json"
+ },
+ {
+  "id": "CP01_02_ring_wall_straight_02",
+  "verdict": "MINOR",
+  "defects": [
+   "pale cream slab reads flat",
+   "little stone relief on the face"
+  ],
+  "fix": "Add stone-course relief/weathering to the wall face so it is not a flat pale panel.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_001.json"
+ },
+ {
+  "id": "HM06_01_switchback_wall_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_001.json"
+ },
+ {
+  "id": "NE02_04_entry_rock_pair_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_001.json"
+ },
+ {
+  "id": "DS04_01_palm_01",
+  "verdict": "MINOR",
+  "defects": [
+   "fronds blocky and sparse",
+   "very thin trunk"
+  ],
+  "fix": "Fill out the frond canopy and thicken the trunk slightly so it does not look stick-like.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_002.json"
+ },
+ {
+  "id": "LM23_02_gorge_wall_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "anchor",
+  "part": "part_002.json"
+ },
+ {
+  "id": "TW01_01_town1_hero_statue",
+  "verdict": "MINOR",
+  "defects": [
+   "figure is a vague blocky form, little readable detail for a hero statue"
+  ],
+  "fix": "Sculpt clearer body/pose detail so the statue reads as a figure, not a draped block.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_002.json"
+ },
+ {
+  "id": "CO01_02_coastal_cliff_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "anchor",
+  "part": "part_002.json"
+ },
+ {
+  "id": "LM10_03_temple_colonnade_buried_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "anchor",
+  "part": "part_002.json"
+ },
+ {
+  "id": "HM04_02_tunnel_lining_02",
+  "verdict": "MINOR",
+  "defects": [
+   "top slab reads near-black",
+   "dark heavy lintel"
+  ],
+  "fix": "Lighten the near-black top slab to a stone tone so it does not read as a black patch.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_002.json"
+ },
+ {
+  "id": "RD05_04_battlefield_prop_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_002.json"
+ },
+ {
+  "id": "FR01_03_giant_tree_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_002.json"
+ },
+ {
+  "id": "RD02_06_camp_set_06",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_002.json"
+ },
+ {
+  "id": "VC04_05_skull_city_building_05",
+  "verdict": "MAJOR",
+  "defects": [
+   "open-topped hollow box, exposed roof beams (both views)",
+   "flat default grey, no colour relief"
+  ],
+  "fix": "Roof it or give a ruined profile and recolour off plain default grey.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_002.json"
+ },
+ {
+  "id": "SP01_02_snow_spire_cluster_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_002.json"
+ },
+ {
+  "id": "PL05_01_ruined_watchtower_plains_01",
+  "verdict": "MINOR",
+  "defects": [
+   "plain pale cylinder with little stone relief"
+  ],
+  "fix": "Add stone-course relief and weathering to the tower shaft so it is not a smooth pale cylinder.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_002.json"
+ },
+ {
+  "id": "CO04_02_sea_arch_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_003.json"
+ },
+ {
+  "id": "HL03_03_glacier_tongue_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_003.json"
+ },
+ {
+  "id": "VC04_06_skull_city_building_06",
+  "verdict": "MAJOR",
+  "defects": [
+   "open-topped hollow box, exposed interior beams (back view)",
+   "flat default grey, no relief"
+  ],
+  "fix": "Roof it or make it a deliberate ruin and recolour off plain default grey.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_003.json"
+ },
+ {
+  "id": "CO01_03_coastal_cliff_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_003.json"
+ },
+ {
+  "id": "PL05_02_ruined_watchtower_plains_02",
+  "verdict": "MINOR",
+  "defects": [
+   "plain pale cylinder, little stone relief"
+  ],
+  "fix": "Add stone-course relief/weathering to the shaft.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_003.json"
+ },
+ {
+  "id": "DS04_02_palm_02",
+  "verdict": "MINOR",
+  "defects": [
+   "blocky sparse fronds",
+   "very thin trunk"
+  ],
+  "fix": "Fill out the canopy and thicken the trunk.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_003.json"
+ },
+ {
+  "id": "CP16_09_townhouse_new_09",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "anchor",
+  "part": "part_003.json"
+ },
+ {
+  "id": "HL07_02_mine_entrance_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_003.json"
+ },
+ {
+  "id": "VC04_04_skull_city_building_04",
+  "verdict": "MAJOR",
+  "defects": [
+   "open-topped hollow box, exposed beams (back view)",
+   "flat default grey, no relief"
+  ],
+  "fix": "Roof it or make it a deliberate ruin and recolour off plain default grey.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_003.json"
+ },
+ {
+  "id": "RD02_02_camp_set_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_003.json"
+ },
+ {
+  "id": "LM22_01_colossal_fall_cliff_hero",
+  "verdict": "MINOR",
+  "defects": [
+   "waterfall reads as small flat blue-white panels on ledges, slightly like light panels"
+  ],
+  "fix": "Reshape the waterfall into a continuous falling sheet rather than isolated flat panels.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_003.json"
+ },
+ {
+  "id": "RD06_01_abandoned_house_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_003.json"
+ },
+ {
+  "id": "CP14_04_skyline_tower_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_004.json"
+ },
+ {
+  "id": "SD01_05_red_mesa_cluster_05",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_004.json"
+ },
+ {
+  "id": "LM12_01_temple_stair_down_01",
+  "verdict": "MINOR",
+  "defects": [
+   "side walls read as flat near-black panels (front/side view)"
+  ],
+  "fix": "Recolour the black side panels to a stone tone so they do not read as black patches.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_004.json"
+ },
+ {
+  "id": "HL01_01_ice_spire_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "anchor",
+  "part": "part_004.json"
+ },
+ {
+  "id": "CP03_02_ring_wall_stair_end_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_004.json"
+ },
+ {
+  "id": "VC02_02_skull_cliff_hero_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_004.json"
+ },
+ {
+  "id": "SP01_03_snow_spire_cluster_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_004.json"
+ },
+ {
+  "id": "HM04_01_tunnel_lining_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_004.json"
+ },
+ {
+  "id": "FR03_03_cave_mouth_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_004.json"
+ },
+ {
+  "id": "LM02_01_world_tree_falls",
+  "verdict": "MINOR",
+  "defects": [
+   "stone ledges with blue panels down the trunk read slightly like building windows (both views)"
+  ],
+  "fix": "Make the waterfall/ledge faces read clearly as water/rock rather than windowed slabs.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_004.json"
+ },
+ {
+  "id": "VC04_01_skull_city_building_01",
+  "verdict": "MAJOR",
+  "defects": [
+   "flat default grey, no colour relief",
+   "crenellated top exposes interior beams (back view)"
+  ],
+  "fix": "Recolour off plain default grey and close/floor the open top.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_004.json"
+ },
+ {
+  "id": "FL01_02_floating_island_hero_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_004.json"
+ },
+ {
+  "id": "WT13_01_plateau_terrace_set_01",
+  "verdict": "MAJOR",
+  "defects": [
+   "open hollow box visible under grid top",
+   "reads as plain untextured grey/white default",
+   "no relief, crude grid slab"
+  ],
+  "fix": "Close the open underside, give the top terrace stone relief and a believable rock/earth body instead of a blank slab.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_005.json"
+ },
+ {
+  "id": "PL01_03_farmhouse_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "anchor",
+  "part": "part_005.json"
+ },
+ {
+  "id": "VC02_01_skull_cliff_hero_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_005.json"
+ },
+ {
+  "id": "HL07_01_mine_entrance_01",
+  "verdict": "MINOR",
+  "defects": [
+   "blocky rock body reads as plain grey slabs",
+   "timber frame around entrance is thin"
+  ],
+  "fix": "Add a little surface relief/colour variation to the rock so it does not read as a plain grey block.",
+  "original": "OK",
+  "kind": "anchor",
+  "part": "part_005.json"
+ },
+ {
+  "id": "CO01_05_coastal_cliff_05",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_005.json"
+ },
+ {
+  "id": "HM07_04_prayer_flag_string_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_005.json"
+ },
+ {
+  "id": "SD02_02_desert_ruin_block_02",
+  "verdict": "MINOR",
+  "defects": [
+   "mostly plain tan boxes with little ruin detail",
+   "sits on a visible flat base slab"
+  ],
+  "fix": "Add broken edges, fallen blocks or carved detail so it reads as a ruin rather than stacked plain boxes.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_005.json"
+ },
+ {
+  "id": "HL05_01_mountain_shrine",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "anchor",
+  "part": "part_005.json"
+ },
+ {
+  "id": "DS08_03_underground_entrance_03",
+  "verdict": "MAJOR",
+  "defects": [
+   "no readable opening or stairs down - just a plain tan cube with rubble on top",
+   "silhouette does not read as an entrance",
+   "dark vertical seam stripes on back from overlapping faces"
+  ],
+  "fix": "Cut a clear dark doorway/stair opening into the face and remove the overlapping-face seam stripes so it reads as an underground entrance.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_005.json"
+ },
+ {
+  "id": "RD05_03_battlefield_prop_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_005.json"
+ },
+ {
+  "id": "LM19_05_crater_rim_rock_05",
+  "verdict": "MINOR",
+  "defects": [
+   "flat single tan colour across the whole rock pile"
+  ],
+  "fix": "Vary the rock tone slightly so the mass does not read as one flat colour.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_005.json"
+ },
+ {
+  "id": "VG05_03_tree_cypress_swamp_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_005.json"
+ },
+ {
+  "id": "SD02_04_desert_ruin_block_04",
+  "verdict": "MINOR",
+  "defects": [
+   "plain tan boxes on a flat base slab",
+   "little ruin detail"
+  ],
+  "fix": "Add broken edges, fallen blocks or carved relief so it reads as a ruin, not stacked plain boxes.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_006.json"
+ },
+ {
+  "id": "LM16_02_ring_temple_segment_02",
+  "verdict": "MAJOR",
+  "defects": [
+   "huge blank flat tan slab/plinth with no relief",
+   "columns bunched at the base with stubby fins protruding from the underside",
+   "does not read as a ring temple segment"
+  ],
+  "fix": "Rebuild as a readable curved temple segment with evenly spaced columns and surface relief, and remove the loose fins hanging under the base.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_006.json"
+ },
+ {
+  "id": "RW01_01_rework_existing_01",
+  "verdict": "MINOR",
+  "defects": [
+   "loose debris chips look detached/floating around the base",
+   "placeholder-sounding id but reads as a banded tower/kiln"
+  ],
+  "fix": "Ground the base debris so the loose chips do not read as floating detached parts.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_006.json"
+ },
+ {
+  "id": "RV01_01_bank_rock_01",
+  "verdict": "MINOR",
+  "defects": [
+   "very similar in shape to RV01_02 sibling",
+   "mostly flat grey colour"
+  ],
+  "fix": "Differentiate the sibling bank rocks in shape and arrangement, not only tone.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_006.json"
+ },
+ {
+  "id": "HL03_01_glacier_tongue_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_006.json"
+ },
+ {
+  "id": "RV01_02_bank_rock_02",
+  "verdict": "MINOR",
+  "defects": [
+   "very similar in shape to RV01_01 sibling"
+  ],
+  "fix": "Differentiate the sibling bank rocks in shape and arrangement, not only tone.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_006.json"
+ },
+ {
+  "id": "LM31_02_ruined_castle_module_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_006.json"
+ },
+ {
+  "id": "VG05_02_tree_cypress_swamp_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_006.json"
+ },
+ {
+  "id": "LM19_04_crater_rim_rock_04",
+  "verdict": "MINOR",
+  "defects": [
+   "flat single tan colour across the rock mass"
+  ],
+  "fix": "Vary rock tone slightly so the mass does not read as one flat colour.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_006.json"
+ },
+ {
+  "id": "FL01_01_floating_island_hero_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_006.json"
+ },
+ {
+  "id": "LM10_02_temple_colonnade_buried_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_006.json"
+ },
+ {
+  "id": "RD01_02_watchtower_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_006.json"
+ },
+ {
+  "id": "CO03_04_reef_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_007.json"
+ },
+ {
+  "id": "CP18_04_quay_wall_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_007.json"
+ },
+ {
+  "id": "EV01_05_elf_house_new_05",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_007.json"
+ },
+ {
+  "id": "FL01_03_floating_island_hero_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_007.json"
+ },
+ {
+  "id": "LM31_01_ruined_castle_module_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_007.json"
+ },
+ {
+  "id": "RD02_05_camp_set_05",
+  "verdict": "MAJOR",
+  "defects": [
+   "just a scatter of plain boxes, a white cylinder and a white blob",
+   "no readable camp - no tents, fire or gear",
+   "crude untextured primitives"
+  ],
+  "fix": "Rebuild as recognisable camp gear (tents, campfire, crates/barrels) instead of loose plain primitives.",
+  "original": "OK",
+  "kind": "anchor",
+  "part": "part_007.json"
+ },
+ {
+  "id": "HM06_02_switchback_wall_02",
+  "verdict": "MINOR",
+  "defects": [
+   "dark banding/stripes on the back face",
+   "flat grey surface with little relief"
+  ],
+  "fix": "Clean up the back-face banding and add light stone relief.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_007.json"
+ },
+ {
+  "id": "LM26_03_ruin_arena_segment_03",
+  "verdict": "MINOR",
+  "defects": [
+   "very plain flat tan surface with no relief on the arena wall"
+  ],
+  "fix": "Add stone-block relief and weathering so the curved wall does not read as a plain slab.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_007.json"
+ },
+ {
+  "id": "RD05_02_battlefield_prop_02",
+  "verdict": "MINOR",
+  "defects": [
+   "large flat single-colour red disc/shield reads as a plain slab"
+  ],
+  "fix": "Add a rim, boss or relief to the red shield so it is not a flat coloured slab.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_007.json"
+ },
+ {
+  "id": "CP02_02_ring_wall_corner_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_007.json"
+ },
+ {
+  "id": "EV02_03_canopy_cluster_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_007.json"
+ },
+ {
+  "id": "VG04_01_tree_birch_01",
+  "verdict": "MINOR",
+  "defects": [
+   "trunk is very thin and spindly (pole-like) for the canopy mass"
+  ],
+  "fix": "Thicken the trunk so the birch does not read as a pole holding a blob.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_007.json"
+ },
+ {
+  "id": "SD02_05_desert_ruin_block_05",
+  "verdict": "MINOR",
+  "defects": [
+   "plain tan boxes on a flat base slab",
+   "little ruin detail"
+  ],
+  "fix": "Add broken edges, fallen blocks or carved relief so it reads as a ruin rather than stacked plain boxes.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_008.json"
+ },
+ {
+  "id": "PL06_01_rock_arch_natural_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_008.json"
+ },
+ {
+  "id": "LM16_01_ring_temple_segment_01",
+  "verdict": "MAJOR",
+  "defects": [
+   "huge blank flat tan slab/plinth with no relief",
+   "columns bunched at one corner with stubby fins protruding from the underside",
+   "does not read as a ring temple segment (same defect as sibling LM16_02)"
+  ],
+  "fix": "Rebuild as a readable curved temple segment with evenly spaced columns and surface relief, and remove the loose fins under the base.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_008.json"
+ },
+ {
+  "id": "RD06_02_abandoned_house_02",
+  "verdict": "MINOR",
+  "defects": [
+   "very dark near-black timber reads close to a default dark grey"
+  ],
+  "fix": "Lighten/vary the timber tone so it reads as weathered wood rather than a flat dark slab.",
+  "original": "OK",
+  "kind": "anchor",
+  "part": "part_008.json"
+ },
+ {
+  "id": "DS07_04_hoodoo_arch_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_008.json"
+ },
+ {
+  "id": "PL03_02_farm_cart_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_008.json"
+ },
+ {
+  "id": "HM08_02_cairn_shrine_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_008.json"
+ },
+ {
+  "id": "LM01_01_world_tree_trunk_door",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_008.json"
+ },
+ {
+  "id": "DS03_02_caravan_wagon_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_008.json"
+ },
+ {
+  "id": "CP18_02_quay_wall_02",
+  "verdict": "MINOR",
+  "defects": [
+   "dark horizontal stripes between stone courses on the back face (overlapping faces)"
+  ],
+  "fix": "Remove the overlapping-face stripes along the back courses.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_008.json"
+ },
+ {
+  "id": "CP06_01_gate_flank_tower_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_008.json"
+ },
+ {
+  "id": "CP03_01_ring_wall_stair_end_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "anchor",
+  "part": "part_008.json"
+ },
+ {
+  "id": "TW03_04_skull_avenue_set_04",
+  "verdict": "MINOR",
+  "defects": [
+   "banner cloth clips through the pole",
+   "thin flat banner reads as paper from distance"
+  ],
+  "fix": "Thicken the banner slab and seat it against the pole so it does not intersect.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_009.json"
+ },
+ {
+  "id": "HL01_04_ice_spire_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_009.json"
+ },
+ {
+  "id": "FR01_04_giant_tree_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "anchor",
+  "part": "part_009.json"
+ },
+ {
+  "id": "LM26_02_ruin_arena_segment_02",
+  "verdict": "MINOR",
+  "defects": [
+   "small detached rubble blocks float/scatter at base (front)",
+   "back wall faces look thin"
+  ],
+  "fix": "Weld the loose rubble to the base or remove the floating fragments.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_009.json"
+ },
+ {
+  "id": "WT13_03_plateau_terrace_set_03",
+  "verdict": "MAJOR",
+  "defects": [
+   "bright flat pale ramp slab reads as a glowing light panel",
+   "back is a plain featureless grey wedge",
+   "no surface relief"
+  ],
+  "fix": "Break up the ramp and back face with step/stone relief and a muted stone colour so it no longer reads as a lit panel.",
+  "original": "OK",
+  "kind": "anchor",
+  "part": "part_009.json"
+ },
+ {
+  "id": "HL03_02_glacier_tongue_02",
+  "verdict": "MINOR",
+  "defects": [
+   "dark near-black ice blocks among the white (front)",
+   "scattered loose chunks"
+  ],
+  "fix": "Recolour the black facets to pale blue ice and merge stray chunks into the mass.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_009.json"
+ },
+ {
+  "id": "RD01_04_watchtower_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_009.json"
+ },
+ {
+  "id": "RD05_05_battlefield_prop_05",
+  "verdict": "MAJOR",
+  "defects": [
+   "jumbled unreadable silhouette",
+   "plain grey default parts with red/blue patches",
+   "reads as a crashed heap not a battlefield prop"
+  ],
+  "fix": "Rebuild as a clear recognisable prop (shield/banner/weapon rack) with coherent shape and colour.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_009.json"
+ },
+ {
+  "id": "BR01_02_viaduct_bridge_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_009.json"
+ },
+ {
+  "id": "VG03_01_tree_flowering_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_009.json"
+ },
+ {
+  "id": "WT08_02_wizard_study_set_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_009.json"
+ },
+ {
+  "id": "LM03_01_frost_fortress_hero",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_009.json"
+ },
+ {
+  "id": "CO05_02_ruin_islet_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_010.json"
+ },
+ {
+  "id": "LM04_02_fortress_rampart_step_02",
+  "verdict": "MINOR",
+  "defects": [
+   "all plain grey default, no colour relief",
+   "a few tiny detached blocks near the steps"
+  ],
+  "fix": "Apply a stone colour and weld the small loose blocks.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_010.json"
+ },
+ {
+  "id": "RD02_03_camp_set_03",
+  "verdict": "MINOR",
+  "defects": [
+   "awning is a thin flat single-colour slab",
+   "legs look spindly vs the large canopy"
+  ],
+  "fix": "Give the awning thickness and a sag/fold so it does not read as a flat sheet.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_010.json"
+ },
+ {
+  "id": "LM08_01_mountain_span_bridge",
+  "verdict": "MINOR",
+  "defects": [
+   "small black gap patches along the deck railing",
+   "thin deck"
+  ],
+  "fix": "Close the black gaps in the railing and thicken the deck slightly.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_010.json"
+ },
+ {
+  "id": "TW03_01_skull_avenue_set_01",
+  "verdict": "MINOR",
+  "defects": [
+   "brazier bowl is near-black flat and reads dark",
+   "skull on the leg sits as a tacked-on ball"
+  ],
+  "fix": "Lighten the bowl to a metal/stone tone and seat the skull into the post.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_010.json"
+ },
+ {
+  "id": "CO05_01_ruin_islet_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_010.json"
+ },
+ {
+  "id": "FR02_06_forest_ruin_06",
+  "verdict": "MINOR",
+  "defects": [
+   "banded grey column reads a touch like default",
+   "small scattered debris at base"
+  ],
+  "fix": "Vary the band colours toward weathered stone and tidy the base debris.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_010.json"
+ },
+ {
+  "id": "CO03_02_reef_02",
+  "verdict": "MINOR",
+  "defects": [
+   "very flat low disc, weak silhouette as a reef",
+   "mottled surface patches read as camouflage"
+  ],
+  "fix": "Add a few raised coral humps and reduce the patchy colour blotches.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_010.json"
+ },
+ {
+  "id": "CP16_01_townhouse_new_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_010.json"
+ },
+ {
+  "id": "SP01_05_snow_spire_cluster_05",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_010.json"
+ },
+ {
+  "id": "SD01_06_red_mesa_cluster_06",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_010.json"
+ },
+ {
+  "id": "SP01_06_snow_spire_cluster_06",
+  "verdict": "MINOR",
+  "defects": [
+   "near-identical to SP01_05 sibling, differs mainly in height"
+  ],
+  "fix": "Vary the silhouette (lean, secondary peak) so it reads distinct from SP01_05.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_010.json"
+ },
+ {
+  "id": "HM05_01_cliff_gallery_01",
+  "verdict": "MINOR",
+  "defects": [
+   "loose white stone blocks scattered on the gallery deck look untidy",
+   "thin posts under a heavy stone load"
+  ],
+  "fix": "Tidy the loose blocks into stacked rows and thicken the support posts.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_011.json"
+ },
+ {
+  "id": "CP11_01_great_hall_chapel_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_011.json"
+ },
+ {
+  "id": "NE01_01_village_sign_01",
+  "verdict": "MINOR",
+  "defects": [
+   "sign board is a plain flat single-colour slab with no text/relief"
+  ],
+  "fix": "Add a carved border or plank relief to the board so it does not read as a blank panel.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_011.json"
+ },
+ {
+  "id": "RD05_01_battlefield_prop_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_011.json"
+ },
+ {
+  "id": "VC03_03_dark_fort_ruin_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_011.json"
+ },
+ {
+  "id": "LM21_04_floating_rock_04",
+  "verdict": "MAJOR",
+  "defects": [
+   "stacked thin wafer slabs leave see-through gaps between layers (close-up)",
+   "unstable paper-stack silhouette",
+   "sharp razor edges"
+  ],
+  "fix": "Replace the wafer stack with chunkier overlapping rock volumes that close the gaps.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_011.json"
+ },
+ {
+  "id": "RD06_03_abandoned_house_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_011.json"
+ },
+ {
+  "id": "LM28_01_ruin_column_set_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_011.json"
+ },
+ {
+  "id": "CO04_01_sea_arch_01",
+  "verdict": "MINOR",
+  "defects": [
+   "loose rubble chunks scattered around base",
+   "arch opening is ragged"
+  ],
+  "fix": "Weld the scattered base rubble and clean the arch underside.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_011.json"
+ },
+ {
+  "id": "LM13_01_guardian_statue_01",
+  "verdict": "MINOR",
+  "defects": [
+   "face/features very crude, reads as a plain post with a red panel",
+   "back is a flat blank slab"
+  ],
+  "fix": "Add carved facial/armour relief and a spear detail so it reads as a guardian figure.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_011.json"
+ },
+ {
+  "id": "CP08_01_water_gate",
+  "verdict": "MAJOR",
+  "defects": [
+   "roof is a flat bright white slab that reads as a glowing light panel",
+   "freestanding plain gatehouse box"
+  ],
+  "fix": "Recolour the white roof to a muted tile tone with relief; this is a CP gate so the arch is allowed but the flat white top must go.",
+  "original": "OK",
+  "kind": "anchor",
+  "part": "part_011.json"
+ },
+ {
+  "id": "VG06_01_marsh_hummock_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_011.json"
+ },
+ {
+  "id": "HM05_02_cliff_gallery_02",
+  "verdict": "MINOR",
+  "defects": [
+   "loose white blocks scattered on deck",
+   "near-identical to HM05_01 sibling"
+  ],
+  "fix": "Tidy the loose blocks and vary the stone arrangement from HM05_01.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_012.json"
+ },
+ {
+  "id": "DS07_01_hoodoo_arch_01",
+  "verdict": "MINOR",
+  "defects": [
+   "arch legs nearly meet but leave a thin broken gap at the top (front)",
+   "crumbly ragged edges"
+  ],
+  "fix": "Close or clearly bridge the top gap so the arch reads as a continuous span (natural arch, allowed).",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_012.json"
+ },
+ {
+  "id": "VG06_02_marsh_hummock_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_012.json"
+ },
+ {
+  "id": "DS01_04_adobe_house_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_012.json"
+ },
+ {
+  "id": "SP01_01_snow_spire_cluster_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_012.json"
+ },
+ {
+  "id": "VC04_02_skull_city_building_02",
+  "verdict": "MINOR",
+  "defects": [
+   "open-top box: roof is just exposed grey beams with no cover (both views)",
+   "plain grey default walls"
+  ],
+  "fix": "Close the roof with planking/tiles and apply a colour; leave beams only if ruined by intent.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_012.json"
+ },
+ {
+  "id": "LM23_03_gorge_wall_03",
+  "verdict": "MAJOR",
+  "defects": [
+   "bright cyan/white flat panels set in the wall read as glowing light windows (front/close-up)"
+  ],
+  "fix": "Recolour the cyan-white inset panels to dark recesses or stone; nothing may glow.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_012.json"
+ },
+ {
+  "id": "EV03_03_elf_path_piece_03",
+  "verdict": "MINOR",
+  "defects": [
+   "plain single-colour flat plank ramp with sparse posts",
+   "little detail for an elf path"
+  ],
+  "fix": "Add plank relief, rails or carved elf motifs so it reads richer than a bare ramp.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_012.json"
+ },
+ {
+  "id": "DS06_04_canyon_wall_04",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "anchor",
+  "part": "part_012.json"
+ },
+ {
+  "id": "VG04_02_tree_birch_02",
+  "verdict": "MINOR",
+  "defects": [
+   "thin white trunk (birch ok) but canopy sits as a single lollipop ball",
+   "weak root/base"
+  ],
+  "fix": "Break the canopy into a few clumps for a fuller birch crown.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_012.json"
+ },
+ {
+  "id": "LM25_01_ruin_gate_hero",
+  "verdict": "MINOR",
+  "defects": [
+   "lintel rests unevenly on mismatched pillar heights, looks about to slip",
+   "scattered base rubble"
+  ],
+  "fix": "Seat the lintel squarely on both pillars and weld the loose base rubble.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_012.json"
+ },
+ {
+  "id": "FR01_02_giant_tree_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_012.json"
+ },
+ {
+  "id": "LM07_02_carved_stair_switchback_02",
+  "verdict": "MAJOR",
+  "defects": [
+   "rock mass is plain default grey, no relief",
+   "stair is a thin black slab, reads poorly from distance",
+   "boxy stacked blocks look unfinished"
+  ],
+  "fix": "Give the rock warm cliff colour with relief and widen/recess the stair so the switchback reads clearly.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_013.json"
+ },
+ {
+  "id": "LM29_01_ruin_tower_stump_01",
+  "verdict": "MINOR",
+  "defects": [
+   "plain tan cylinder, almost featureless",
+   "only faint banding lines, little ruin character"
+  ],
+  "fix": "Add broken crenellations, cracks and stone block detail to read as a ruined stump.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_013.json"
+ },
+ {
+  "id": "FR02_05_forest_ruin_05",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_013.json"
+ },
+ {
+  "id": "VC03_01_dark_fort_ruin_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_013.json"
+ },
+ {
+  "id": "DS05_02_oasis_rock_ring_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_013.json"
+ },
+ {
+  "id": "TW02_06_street_life_06",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_013.json"
+ },
+ {
+  "id": "FR03_05_cave_mouth_05",
+  "verdict": "MINOR",
+  "defects": [
+   "flat uniform tan colour, no rock variation",
+   "stacked-slab shape looks blocky"
+  ],
+  "fix": "Vary rock colour/shading and soften the slab stack so it reads as a natural cave.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_013.json"
+ },
+ {
+  "id": "HM06_03_switchback_wall_03",
+  "verdict": "MINOR",
+  "defects": [
+   "plain grey slab wall, little relief",
+   "steps barely read on front"
+  ],
+  "fix": "Add stone texture/colour and deepen the step cuts.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_013.json"
+ },
+ {
+  "id": "FR03_06_cave_mouth_06",
+  "verdict": "MINOR",
+  "defects": [
+   "flat uniform tan colour like FR03_05",
+   "near-duplicate silhouette of sibling"
+  ],
+  "fix": "Differentiate shape from FR03_05 and add rock colour variation.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_013.json"
+ },
+ {
+  "id": "HL04_02_ice_cave_mouth_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_013.json"
+ },
+ {
+  "id": "CP14_05_skyline_tower_05",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_013.json"
+ },
+ {
+  "id": "RD02_01_camp_set_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_013.json"
+ },
+ {
+  "id": "LM30_01_ruined_castle_hero",
+  "verdict": "MINOR",
+  "defects": [
+   "entirely plain monochrome grey, no colour or surface relief",
+   "central keep is a featureless slab",
+   "hero piece reads flat from distance"
+  ],
+  "fix": "Add stone colour variation and weathering/relief, especially on the central keep.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_014.json"
+ },
+ {
+  "id": "NE01_04_village_sign_04",
+  "verdict": "MINOR",
+  "defects": [
+   "sign panel is blank white, reads as empty light panel"
+  ],
+  "fix": "Give the panel a wood/parchment colour or carved text so it reads as a sign.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_014.json"
+ },
+ {
+  "id": "LM27_01_ruin_aqueduct_arch_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_014.json"
+ },
+ {
+  "id": "DS01_03_adobe_house_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_014.json"
+ },
+ {
+  "id": "CO03_01_reef_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_014.json"
+ },
+ {
+  "id": "BR01_01_viaduct_bridge_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_014.json"
+ },
+ {
+  "id": "SD02_06_desert_ruin_block_06",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_014.json"
+ },
+ {
+  "id": "CO03_03_reef_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_014.json"
+ },
+ {
+  "id": "VG01_02_tree_tall_narrow_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_014.json"
+ },
+ {
+  "id": "LM05_02_fortress_cliff_tower_02",
+  "verdict": "MINOR",
+  "defects": [
+   "cliff base is plain grey faceted blocks, default colour, no rock relief"
+  ],
+  "fix": "Give the cliff base a rock colour and relief so it does not read as default grey.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_014.json"
+ },
+ {
+  "id": "CP12_01_terrace_retaining_wall_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_014.json"
+ },
+ {
+  "id": "DS02_01_desert_market_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_014.json"
+ },
+ {
+  "id": "CP04_01_tower_round_cone_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "anchor",
+  "part": "part_015.json"
+ },
+ {
+  "id": "NE02_01_entry_rock_pair_01",
+  "verdict": "MINOR",
+  "defects": [
+   "plain grey faceted rocks, default colour, no rock relief"
+  ],
+  "fix": "Give the rocks a natural stone colour and shading variation.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_015.json"
+ },
+ {
+  "id": "PL04_01_mill_waterwheel",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "anchor",
+  "part": "part_015.json"
+ },
+ {
+  "id": "PL05_03_ruined_watchtower_plains_03",
+  "verdict": "MINOR",
+  "defects": [
+   "plain tan cylinder, low detail",
+   "broken roof reads but body is featureless"
+  ],
+  "fix": "Add stone block relief, cracks and window detail.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_015.json"
+ },
+ {
+  "id": "LM26_01_ruin_arena_segment_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_015.json"
+ },
+ {
+  "id": "CP18_01_quay_wall_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_015.json"
+ },
+ {
+  "id": "WT03_01_wizard_bookshelf_curved_01",
+  "verdict": "MINOR",
+  "defects": [
+   "back is a flat solid dark-red slab, large blank panel (back view)"
+  ],
+  "fix": "Add plank/frame detail to the back so it is not a single flat slab.",
+  "original": "OK",
+  "kind": "anchor",
+  "part": "part_015.json"
+ },
+ {
+  "id": "VG04_03_tree_birch_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_015.json"
+ },
+ {
+  "id": "RD01_03_watchtower_03",
+  "verdict": "MINOR",
+  "defects": [
+   "plain tan cylinder, minimal detail, near-default look"
+  ],
+  "fix": "Add stone texture, battlements and window relief.",
+  "original": "OK",
+  "kind": "anchor",
+  "part": "part_015.json"
+ },
+ {
+  "id": "RV01_03_bank_rock_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_015.json"
+ },
+ {
+  "id": "DS08_02_underground_entrance_02",
+  "verdict": "MINOR",
+  "defects": [
+   "blocky stacked tan boxes, flat uniform colour",
+   "entrance opening hard to read from front"
+  ],
+  "fix": "Vary colour and clarify the opening so the entrance reads clearly.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_015.json"
+ },
+ {
+  "id": "LM29_02_ruin_tower_stump_02",
+  "verdict": "MINOR",
+  "defects": [
+   "plain two-tone tan cylinder, near-featureless",
+   "shares silhouette/design with LM29_01, differs mainly by colour"
+  ],
+  "fix": "Add surface relief and differentiate the shape from LM29_01.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_015.json"
+ },
+ {
+  "id": "LM28_03_ruin_column_set_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_016.json"
+ },
+ {
+  "id": "HL02_02_ice_arch_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_016.json"
+ },
+ {
+  "id": "VC01_08_volcanic_rock_08",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_016.json"
+ },
+ {
+  "id": "PL06_02_rock_arch_natural_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_016.json"
+ },
+ {
+  "id": "SD02_03_desert_ruin_block_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "anchor",
+  "part": "part_016.json"
+ },
+ {
+  "id": "FR03_04_cave_mouth_04",
+  "verdict": "MINOR",
+  "defects": [
+   "flat uniform tan/grey, no rock colour variation",
+   "near-duplicate of FR03_05/FR03_06 siblings"
+  ],
+  "fix": "Add rock colour variation and differentiate the shape from the other cave mouths.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_016.json"
+ },
+ {
+  "id": "EV03_05_elf_path_piece_05",
+  "verdict": "MINOR",
+  "defects": [
+   "dark lattice on top reads as a flat black panel from a distance",
+   "flat single-colour slab base"
+  ],
+  "fix": "Make the lattice read as a path/grate with depth and add colour to the slab.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_016.json"
+ },
+ {
+  "id": "LM27_02_ruin_aqueduct_arch_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_016.json"
+ },
+ {
+  "id": "PL02_01_hay_silo_01",
+  "verdict": "MINOR",
+  "defects": [
+   "bright flat uniform yellow, slightly over-saturated",
+   "cones read as plain slabs with little relief"
+  ],
+  "fix": "Tone the yellow toward natural straw and add surface relief/strands.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_016.json"
+ },
+ {
+  "id": "DS07_02_hoodoo_arch_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_016.json"
+ },
+ {
+  "id": "CP06_02_gate_flank_tower_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_016.json"
+ },
+ {
+  "id": "LM13_02_guardian_statue_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_016.json"
+ },
+ {
+  "id": "LM07_01_carved_stair_switchback_01",
+  "verdict": "MAJOR",
+  "defects": [
+   "stair shaft renders pitch-black (inverted/unlit faces)",
+   "right half is a chaotic rock blob with floating shards (front)",
+   "steps read as thin white strips glued to a black slab"
+  ],
+  "fix": "Fix the stair-shaft face normals so it is not black, clean up the loose rock shards, and make the switchback steps read as cut stone instead of a white ladder on a black panel.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_017.json"
+ },
+ {
+  "id": "VC01_07_volcanic_rock_07",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_017.json"
+ },
+ {
+  "id": "LM28_02_ruin_column_set_02",
+  "verdict": "MINOR",
+  "defects": [
+   "columns look thin and barely seated on the base disc",
+   "a few small cylinder stubs lie loose on the base"
+  ],
+  "fix": "Seat the columns firmly on the base and tidy or integrate the loose stubs so nothing reads as floating.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_017.json"
+ },
+ {
+  "id": "DS08_01_underground_entrance_01",
+  "verdict": "MAJOR",
+  "defects": [
+   "reads as a plain tan box with debris on top, no visible opening or descending stair",
+   "silhouette does not say 'underground entrance'"
+  ],
+  "fix": "Cut a clear doorway/stair opening into one face so the entrance reads; add relief to the plain box walls.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_017.json"
+ },
+ {
+  "id": "RD06_05_abandoned_house_05",
+  "verdict": "MINOR",
+  "defects": [
+   "almost entirely open timber frame, very sparse",
+   "thin frame members may read as fragile at distance"
+  ],
+  "fix": "Keep the ruined look but add a little remaining wall infill/roof fragment so it reads as an abandoned house rather than bare scaffolding.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_017.json"
+ },
+ {
+  "id": "CO03_05_reef_05",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_017.json"
+ },
+ {
+  "id": "NE02_02_entry_rock_pair_02",
+  "verdict": "MINOR",
+  "defects": [
+   "low scattered rock pile, pairing/gateway intent barely reads",
+   "some flat facets"
+  ],
+  "fix": "Raise and separate the two rock masses so the 'entry pair' gateway shape reads clearly.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_017.json"
+ },
+ {
+  "id": "CP14_02_skyline_tower_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "anchor",
+  "part": "part_017.json"
+ },
+ {
+  "id": "CP10_02_keep_wing_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "anchor",
+  "part": "part_017.json"
+ },
+ {
+  "id": "LM18_01_crater_monolith_ring",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_017.json"
+ },
+ {
+  "id": "CP18_03_quay_wall_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_017.json"
+ },
+ {
+  "id": "SP01_04_snow_spire_cluster_04",
+  "verdict": "MINOR",
+  "defects": [
+   "very slender spire looks fragile and slightly unstable on its rock base",
+   "small facet noise along the spire"
+  ],
+  "fix": "Thicken the spire base slightly and smooth the facet noise so the tall needle reads as solid ice.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_017.json"
+ },
+ {
+  "id": "CP12_02_terrace_retaining_wall_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_018.json"
+ },
+ {
+  "id": "EV01_01_elf_house_new_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_018.json"
+ },
+ {
+  "id": "LM19_03_crater_rim_rock_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_018.json"
+ },
+ {
+  "id": "DS01_06_adobe_house_06",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "anchor",
+  "part": "part_018.json"
+ },
+ {
+  "id": "EV03_04_elf_path_piece_04",
+  "verdict": "MINOR",
+  "defects": [
+   "mostly a flat ramp of plank strips with little relief",
+   "back is a plain slab"
+  ],
+  "fix": "Add a bit of edge detail or foliage so the path piece is not a near-flat striped slab from behind.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_018.json"
+ },
+ {
+  "id": "HB01_03_harbour_wall_tower_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_018.json"
+ },
+ {
+  "id": "LM31_03_ruined_castle_module_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_018.json"
+ },
+ {
+  "id": "VG03_02_tree_flowering_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_018.json"
+ },
+ {
+  "id": "VC01_05_volcanic_rock_05",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "anchor",
+  "part": "part_018.json"
+ },
+ {
+  "id": "LM19_01_crater_rim_rock_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_018.json"
+ },
+ {
+  "id": "CP15_03_order_hq_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_018.json"
+ },
+ {
+  "id": "SD02_01_desert_ruin_block_01",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_018.json"
+ },
+ {
+  "id": "LM19_02_crater_rim_rock_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_019.json"
+ },
+ {
+  "id": "DS04_03_palm_03",
+  "verdict": "MINOR",
+  "defects": [
+   "very thin trunk with sparse drooping fronds reads as spindly",
+   "faint stray geometry near the trunk base (front)"
+  ],
+  "fix": "Thicken the trunk a little and fill out the frond crown so the palm does not read as a bare pole.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_019.json"
+ },
+ {
+  "id": "EV03_06_elf_path_piece_06",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_019.json"
+ },
+ {
+  "id": "LM12_02_temple_stair_down_02",
+  "verdict": "MINOR",
+  "defects": [
+   "deep recessed stair sides render very dark (self-shadow in the slot)",
+   "layered block form is plain outside the stair"
+  ],
+  "fix": "Lighten/open the recess a touch and add minor relief to the plain outer blocks; stair itself reads fine.",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_019.json"
+ },
+ {
+  "id": "CO05_03_ruin_islet_03",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_019.json"
+ },
+ {
+  "id": "CP05_02_turret_crenellated_02",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "original": "OK",
+  "kind": "changed",
+  "part": "part_019.json"
+ }
+]

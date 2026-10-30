@@ -1,0 +1,14 @@
+[
+  {"id": "EV03_03_elf_path_piece_03", "verdict": "MINOR", "defects": ["arched deck has an open gap/see-through underside between the ramp and the deck"], "fix": "Fill the underside of the arched walkway so it is solid and tiles on the ground."},
+  {"id": "EV03_04_elf_path_piece_04", "verdict": "MAJOR", "defects": ["stepped bridge planks look detached/floating with gaps between them", "green mossy patches look like loose stuck-on blobs", "would not tile cleanly"], "fix": "Join the plank steps into a continuous solid deck seated on the ground and integrate the moss rather than floating blobs."},
+  {"id": "EV03_05_elf_path_piece_05", "verdict": "MAJOR", "defects": ["loose thin slab plates float with visible gaps and do not connect", "reads as scattered debris, not a path"], "fix": "Merge the slabs into one connected walkable path surface with no floating gaps."},
+  {"id": "EV03_06_elf_path_piece_06", "verdict": "MINOR", "defects": ["flat ring planter, trees inside look placed a bit randomly"], "fix": "Even out tree spacing inside the ring and add a lip so it reads as a planter."},
+  {"id": "TW03_01_skull_avenue_set_01", "verdict": "MINOR", "defects": ["dark brazier bowl on a thin tripod reads generic, not skull-avenue themed"], "fix": "Add a skull/gothic motif to tie it to the avenue set and thicken the legs."},
+  {"id": "TW03_02_skull_avenue_set_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "TW03_03_skull_avenue_set_03", "verdict": "OK", "defects": ["banner post leans; base could tip"], "fix": ""},
+  {"id": "TW03_04_skull_avenue_set_04", "verdict": "OK", "defects": ["near-identical recolour of set_03 (red vs blue)"], "fix": "Give it a different banner shape/standard so it is not just a recolour of set_03."},
+  {"id": "LM03_01_frost_fortress_hero", "verdict": "MAJOR", "defects": ["mountain backdrop is a chaotic stack of thin flat slabs with floating/jutting plates and a messy broken silhouette", "slabs read as stacked paper, not snow rock", "castle itself is good but overwhelmed by the crude massif"], "fix": "Rebuild the mountain as chunky faceted snow-rock masses instead of thin stacked slabs; keep the castle and settle slabs so none float."},
+  {"id": "LM09_01_temple_buried_hero", "verdict": "OK", "defects": ["surrounding sand rocks are plain flat facets", "red doorways slightly float on the steps"], "fix": ""},
+  {"id": "LM15_01_ring_temple_hero", "verdict": "OK", "defects": ["some outer ring columns uneven in height"], "fix": ""},
+  {"id": "LM18_01_crater_monolith_ring", "verdict": "MINOR", "defects": ["dark monoliths are thin and spiky, ring reads sparse", "flat green pad under it looks like a disc, not terrain"], "fix": "Thicken the monoliths and break up the flat green base so the ring reads as a crater, not a disc."}
+]

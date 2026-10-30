@@ -1,0 +1,4957 @@
+[
+ {
+  "id": "CP01_02_ring_wall_straight_02",
+  "row": "CP01",
+  "worker": "vd",
+  "batch": "walls_towers",
+  "category": "v5_capital",
+  "verdict": "MINOR",
+  "defects": [
+   "near-identical recolour of 01/03, only arrow-slits differ"
+  ],
+  "fix": "vary string-course or merlon spacing so siblings are not clones",
+  "want_w": 40.0,
+  "want_h": 20.0,
+  "want_d": 10.0,
+  "tri_budget": 9000,
+  "tris_now": 1204,
+  "size_now": [
+   40.6,
+   10.6,
+   19.0
+  ],
+  "note": "40-stud wall segments (plain, arrow slits, buttressed); 8-stud wide red-brown wall-walk, white-capped inner parapet, crenellated outer edge; replaces B02_05"
+ },
+ {
+  "id": "CP02_02_ring_wall_corner_02",
+  "row": "CP02",
+  "worker": "vd",
+  "batch": "walls_towers",
+  "category": "v5_capital",
+  "verdict": "MAJOR",
+  "defects": [
+   "detached floating black posts (window bars) hovering in empty air beside the wall",
+   "gap between tower and wall"
+  ],
+  "fix": "reattach the arrow-slit bars to the wall face and close the gap between the round tower and the straight run",
+  "want_w": 24.0,
+  "want_h": 22.0,
+  "want_d": 24.0,
+  "tri_budget": 12000,
+  "tris_now": 3568,
+  "size_now": [
+   24.0,
+   24.0,
+   22.7
+  ],
+  "note": "Polygon joints of 135, 90 and 150 degrees with a tower seat; replaces B02_06"
+ },
+ {
+  "id": "CP03_02_ring_wall_stair_end_02",
+  "row": "CP03",
+  "worker": "vd",
+  "batch": "walls_towers",
+  "category": "v5_capital",
+  "verdict": "MINOR",
+  "defects": [
+   "small stray stick/plank poking out of right merlon"
+  ],
+  "fix": "remove the stray thin bar protruding from the top-right crenellation",
+  "want_w": 20.0,
+  "want_h": 20.0,
+  "want_d": 14.0,
+  "tri_budget": 7000,
+  "tris_now": 2596,
+  "size_now": [
+   20.0,
+   15.0,
+   20.0
+  ],
+  "note": "Stair up to the wall-walk and a wall end cap"
+ },
+ {
+  "id": "CP05_02_turret_crenellated_02",
+  "row": "CP05",
+  "worker": "vd",
+  "batch": "walls_towers",
+  "category": "v5_capital",
+  "verdict": "MAJOR",
+  "defects": [
+   "thin black posts/spikes poking up through the red cone roof rim",
+   "look detached and clip the roof"
+  ],
+  "fix": "remove the stray dark vertical bars at the roof rim or seat them as proper finials; do not let them clip the cone",
+  "want_w": 14.0,
+  "want_h": 26.0,
+  "want_d": 14.0,
+  "tri_budget": 8000,
+  "tris_now": 1754,
+  "size_now": [
+   14.0,
+   14.0,
+   26.0
+  ],
+  "note": "Round crenellated turrets for the outer ring (the foreground silhouette in the reference)"
+ },
+ {
+  "id": "CP06_01_gate_flank_tower_01",
+  "row": "CP06",
+  "worker": "vd",
+  "batch": "walls_towers",
+  "category": "v5_capital",
+  "verdict": "MINOR",
+  "defects": [
+   "red banner sits slightly off the wall face"
+  ],
+  "fix": "snap the banner flush to the tower wall so it is not floating",
+  "want_w": 30.0,
+  "want_h": 52.0,
+  "want_d": 30.0,
+  "tri_budget": 16000,
+  "tris_now": 3288,
+  "size_now": [
+   31.0,
+   30.0,
+   52.0
+  ],
+  "note": "Twin towers that flank the main gatehouse"
+ },
+ {
+  "id": "CP06_02_gate_flank_tower_02",
+  "row": "CP06",
+  "worker": "vd",
+  "batch": "walls_towers",
+  "category": "v5_capital",
+  "verdict": "MINOR",
+  "defects": [
+   "banner slightly detached from wall"
+  ],
+  "fix": "attach the banner flush to the wall",
+  "want_w": 30.0,
+  "want_h": 52.0,
+  "want_d": 30.0,
+  "tri_budget": 16000,
+  "tris_now": 3492,
+  "size_now": [
+   31.06,
+   30.0,
+   52.0
+  ],
+  "note": "Twin towers that flank the main gatehouse"
+ },
+ {
+  "id": "CP11_01_great_hall_chapel_01",
+  "row": "CP11",
+  "worker": "vd",
+  "batch": "town_extras",
+  "category": "v5_capital",
+  "verdict": "MAJOR",
+  "defects": [
+   "detached dark-red gable triangle floating above the roof ridge"
+  ],
+  "fix": "seat the loose red gable/dormer piece onto the roof or delete it; no floating parts",
+  "want_w": 70.0,
+  "want_h": 60.0,
+  "want_d": 50.0,
+  "tri_budget": 30000,
+  "tris_now": 9706,
+  "size_now": [
+   73.0,
+   50.0,
+   60.0
+  ],
+  "note": "Great hall and royal chapel inside the castle court"
+ },
+ {
+  "id": "CP12_01_terrace_retaining_wall_01",
+  "row": "CP12",
+  "worker": "vd",
+  "batch": "terrace_skyline",
+  "category": "v5_capital",
+  "verdict": "MAJOR",
+  "defects": [
+   "blocky square two-tone camo colour patches across the wall face",
+   "flat bright-green cap strip looks like a grass slab, not stone coping"
+  ],
+  "fix": "replace the random square patches with a single stone colour and subtle relief; recolour the green cap to stone coping",
+  "want_w": 40.0,
+  "want_h": 22.0,
+  "want_d": 10.0,
+  "tri_budget": 8000,
+  "tris_now": 1052,
+  "size_now": [
+   41.0,
+   10.0,
+   23.16
+  ],
+  "note": "Straight and curved retaining wall under the keep terrace, grassy top"
+ },
+ {
+  "id": "CP12_02_terrace_retaining_wall_02",
+  "row": "CP12",
+  "worker": "vd",
+  "batch": "terrace_skyline",
+  "category": "v5_capital",
+  "verdict": "MINOR",
+  "defects": [
+   "flat bright-green cap strip on top",
+   "plain banded slabs with little relief"
+  ],
+  "fix": "recolour the green coping to stone; add a chamfer or course line for relief",
+  "want_w": 40.0,
+  "want_h": 22.0,
+  "want_d": 10.0,
+  "tri_budget": 8000,
+  "tris_now": 708,
+  "size_now": [
+   40.0,
+   10.0,
+   23.0
+  ],
+  "note": "Straight and curved retaining wall under the keep terrace, grassy top"
+ },
+ {
+  "id": "CP14_04_skyline_tower_04",
+  "row": "CP14",
+  "worker": "vd",
+  "batch": "terrace_skyline",
+  "category": "v5_capital",
+  "verdict": "MINOR",
+  "defects": [
+   "thin detached antenna/rail bits on the top deck read as stray"
+  ],
+  "fix": "attach the rooftop rail/antenna pieces to the deck so none float",
+  "want_w": 30.0,
+  "want_h": 110.0,
+  "want_d": 30.0,
+  "tri_budget": 30000,
+  "tris_now": 898,
+  "size_now": [
+   30.0,
+   30.0,
+   110.0
+  ],
+  "note": "Five different tall towers: clock, bell, observatory, beacon (unlit), water tower"
+ },
+ {
+  "id": "CP14_05_skyline_tower_05",
+  "row": "CP14",
+  "worker": "vd",
+  "batch": "terrace_skyline",
+  "category": "v5_capital",
+  "verdict": "MINOR",
+  "defects": [
+   "teal/green patch on the water tank vs timber/stone palette"
+  ],
+  "fix": "recolour the tank patch to match the wood/metal tank body",
+  "want_w": 30.0,
+  "want_h": 110.0,
+  "want_d": 30.0,
+  "tri_budget": 30000,
+  "tris_now": 1394,
+  "size_now": [
+   29.72,
+   27.0,
+   97.77
+  ],
+  "note": "Five different tall towers: clock, bell, observatory, beacon (unlit), water tower"
+ },
+ {
+  "id": "CP15_03_order_hq_03",
+  "row": "CP15",
+  "worker": "vd",
+  "batch": "terrace_skyline",
+  "category": "v5_capital",
+  "verdict": "MAJOR",
+  "defects": [
+   "crude low-detail octagonal grey block, far below sibling landmark quality",
+   "large detached brown box floating in front of it"
+  ],
+  "fix": "rebuild to match CP15_01/02 detail (proper facade, roof, trim) and remove or integrate the stray brown box",
+  "want_w": 90.0,
+  "want_h": 60.0,
+  "want_d": 70.0,
+  "tri_budget": 40000,
+  "tris_now": 2136,
+  "size_now": [
+   90.0,
+   70.0,
+   60.0
+  ],
+  "note": "Knights-order headquarters (own name and shape, not copied) plus 2 annex buildings"
+ },
+ {
+  "id": "CP16_01_townhouse_new_01",
+  "row": "CP16",
+  "worker": "vd",
+  "batch": "town_extras",
+  "category": "v5_capital",
+  "verdict": "MINOR",
+  "defects": [
+   "door canopy sits slightly off the facade"
+  ],
+  "fix": "snap the entry canopy flush to the wall",
+  "want_w": 22.0,
+  "want_h": 28.0,
+  "want_d": 22.0,
+  "tri_budget": 11000,
+  "tris_now": 9112,
+  "size_now": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "note": "Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+ },
+ {
+  "id": "CP18_01_quay_wall_01",
+  "row": "CP18",
+  "worker": "vd",
+  "batch": "town_extras",
+  "category": "v5_capital",
+  "verdict": "MAJOR",
+  "defects": [
+   "blocky square two-tone camo colour patches (cream/lilac checker) across the wall face"
+  ],
+  "fix": "replace the random square patches with one stone colour; add bollards/course as relief instead of colour noise",
+  "want_w": 30.0,
+  "want_h": 8.0,
+  "want_d": 10.0,
+  "tri_budget": 5000,
+  "tris_now": 556,
+  "size_now": [
+   30.6,
+   10.0,
+   8.0
+  ],
+  "note": "River embankment: straight, curve, steps, mooring posts"
+ },
+ {
+  "id": "CP18_02_quay_wall_02",
+  "row": "CP18",
+  "worker": "vd",
+  "batch": "town_extras",
+  "category": "v5_capital",
+  "verdict": "MINOR",
+  "defects": [
+   "plain curved slab, little relief"
+  ],
+  "fix": "add a coping course or subtle stone banding",
+  "want_w": 30.0,
+  "want_h": 8.0,
+  "want_d": 10.0,
+  "tri_budget": 5000,
+  "tris_now": 272,
+  "size_now": [
+   30.0,
+   10.0,
+   8.0
+  ],
+  "note": "River embankment: straight, curve, steps, mooring posts"
+ },
+ {
+  "id": "CP18_03_quay_wall_03",
+  "row": "CP18",
+  "worker": "vd",
+  "batch": "town_extras",
+  "category": "v5_capital",
+  "verdict": "MAJOR",
+  "defects": [
+   "blocky square two-tone camo colour patches on wall",
+   "stair reads as flat recolour"
+  ],
+  "fix": "unify to one stone colour and model the steps with real risers rather than painted patches",
+  "want_w": 30.0,
+  "want_h": 8.0,
+  "want_d": 10.0,
+  "tri_budget": 5000,
+  "tris_now": 680,
+  "size_now": [
+   30.6,
+   10.0,
+   8.0
+  ],
+  "note": "River embankment: straight, curve, steps, mooring posts"
+ },
+ {
+  "id": "CP18_04_quay_wall_04",
+  "row": "CP18",
+  "worker": "vd",
+  "batch": "town_extras",
+  "category": "v5_capital",
+  "verdict": "MAJOR",
+  "defects": [
+   "blocky square two-tone camo colour patches across the wall face"
+  ],
+  "fix": "unify to a single stone colour; keep the chimney/bollard detail as geometry",
+  "want_w": 30.0,
+  "want_h": 8.0,
+  "want_d": 10.0,
+  "tri_budget": 5000,
+  "tris_now": 692,
+  "size_now": [
+   30.6,
+   10.0,
+   8.0
+  ],
+  "note": "River embankment: straight, curve, steps, mooring posts"
+ },
+ {
+  "id": "LM01_01_world_tree_trunk_door",
+  "row": "LM01",
+  "worker": "ve",
+  "batch": "elf_paths",
+  "category": "v5_elf",
+  "verdict": "MAJOR",
+  "defects": [
+   "splayed root buttresses are thin spiky planks with large see-through gaps between them",
+   "trunk base reads hollow/holed",
+   "top is an open flat green rim (hollow trunk cap)"
+  ],
+  "fix": "thicken and merge the roots into a solid flared base with no gaps, close the trunk top, and make the door a clear recessed opening rather than a hollow",
+  "want_w": 36.0,
+  "want_h": 50.0,
+  "want_d": 36.0,
+  "tri_budget": 30000,
+  "tris_now": 3004,
+  "size_now": [
+   36.0,
+   36.0,
+   50.0
+  ],
+  "note": "Hollow trunk piece with a door, stair and lantern niche (warm lantern only, no glow)"
+ },
+ {
+  "id": "LM02_01_world_tree_falls",
+  "row": "LM02",
+  "worker": "ve",
+  "batch": "elf_paths",
+  "category": "v5_elf",
+  "verdict": "REDO",
+  "defects": [
+   "waterfalls are flat bright white+cyan vertical slabs that read as glowing light panels, not water",
+   "no-glow rule violation",
+   "body reads as a random rubble stone stack, not a tree trunk with falls",
+   "window-like openings look like lit doors"
+  ],
+  "fix": "Rebuild as a believable tree-trunk cliff; make the falls thin layered translucent/pale-blue stepped water with foam at the base and NO emissive bright panels.",
+  "want_w": 80.0,
+  "want_h": 110.0,
+  "want_d": 40.0,
+  "tri_budget": 35000,
+  "tris_now": 5304,
+  "size_now": [
+   85.16,
+   40.0,
+   109.83
+  ],
+  "note": "3-tier waterfall set for the world tree cliff"
+ },
+ {
+  "id": "LM03_01_frost_fortress_hero",
+  "row": "LM03",
+  "worker": "vf",
+  "batch": "heroes_a",
+  "category": "v5_landmarks",
+  "verdict": "MAJOR",
+  "defects": [
+   "mountain backdrop is a chaotic stack of thin flat slabs with floating/jutting plates and a messy broken silhouette",
+   "slabs read as stacked paper, not snow rock",
+   "castle itself is good but overwhelmed by the crude massif"
+  ],
+  "fix": "Rebuild the mountain as chunky faceted snow-rock masses instead of thin stacked slabs; keep the castle and settle slabs so none float.",
+  "want_w": 300.0,
+  "want_h": 220.0,
+  "want_d": 260.0,
+  "tri_budget": 60000,
+  "tris_now": 48568,
+  "size_now": [
+   329.1,
+   275.86,
+   217.91
+  ],
+  "note": "Fortress built into a snowy mountain flank (own name and design)"
+ },
+ {
+  "id": "LM04_02_fortress_rampart_step_02",
+  "row": "LM04",
+  "worker": "vg",
+  "batch": "fortress_parts",
+  "category": "v5_landmarks",
+  "verdict": "OK",
+  "defects": [
+   "near-identical to rampart_step_01"
+  ],
+  "fix": "Give the three rampart steps distinct tower/wall arrangements so they are not recolours.",
+  "want_w": 60.0,
+  "want_h": 34.0,
+  "want_d": 20.0,
+  "tri_budget": 14000,
+  "tris_now": 5432,
+  "size_now": [
+   60.0,
+   20.0,
+   34.0
+  ],
+  "note": "Stepped ramparts that climb the rock"
+ },
+ {
+  "id": "LM04_03_fortress_rampart_step_03",
+  "row": "LM04",
+  "worker": "vg",
+  "batch": "fortress_parts",
+  "category": "v5_landmarks",
+  "verdict": "OK",
+  "defects": [
+   "near-identical to rampart_step_01 and 02"
+  ],
+  "fix": "See step_02: vary the three modules.",
+  "want_w": 60.0,
+  "want_h": 34.0,
+  "want_d": 20.0,
+  "tri_budget": 14000,
+  "tris_now": 5528,
+  "size_now": [
+   60.0,
+   20.0,
+   34.0
+  ],
+  "note": "Stepped ramparts that climb the rock"
+ },
+ {
+  "id": "LM05_02_fortress_cliff_tower_02",
+  "row": "LM05",
+  "worker": "vg",
+  "batch": "fortress_parts",
+  "category": "v5_landmarks",
+  "verdict": "MINOR",
+  "defects": [
+   "thin stick-like flag/beam pokes out of side",
+   "rock base reads as plain grey slab"
+  ],
+  "fix": "Remove or thicken the stray side beam and add facet variation to the base rock.",
+  "want_w": 34.0,
+  "want_h": 80.0,
+  "want_d": 34.0,
+  "tri_budget": 18000,
+  "tris_now": 984,
+  "size_now": [
+   34.0,
+   34.0,
+   80.0
+  ],
+  "note": "Towers clinging to the cliff"
+ },
+ {
+  "id": "LM07_01_carved_stair_switchback_01",
+  "row": "LM07",
+  "worker": "vg",
+  "batch": "fortress_parts",
+  "category": "v5_landmarks",
+  "verdict": "MAJOR",
+  "defects": [
+   "carved stair is not readable; looks like a plain rock mound",
+   "no visible steps or switchback"
+  ],
+  "fix": "Cut clear stepped switchback flights into the rock face so the staircase reads from 30-60 studs.",
+  "want_w": 50.0,
+  "want_h": 60.0,
+  "want_d": 60.0,
+  "tri_budget": 16000,
+  "tris_now": 2820,
+  "size_now": [
+   50.0,
+   60.0,
+   60.0
+  ],
+  "note": "Switchback stairs carved into the slope"
+ },
+ {
+  "id": "LM07_02_carved_stair_switchback_02",
+  "row": "LM07",
+  "worker": "vg",
+  "batch": "fortress_parts",
+  "category": "v5_landmarks",
+  "verdict": "MAJOR",
+  "defects": [
+   "steps barely readable, reads as a rough rock pile",
+   "silhouette does not say stair"
+  ],
+  "fix": "Add defined step treads and a landing so the carved switchback is legible.",
+  "want_w": 50.0,
+  "want_h": 60.0,
+  "want_d": 60.0,
+  "tri_budget": 16000,
+  "tris_now": 2820,
+  "size_now": [
+   50.0,
+   60.0,
+   60.0
+  ],
+  "note": "Switchback stairs carved into the slope"
+ },
+ {
+  "id": "LM08_01_mountain_span_bridge",
+  "row": "LM08",
+  "worker": "vg",
+  "batch": "fortress_parts",
+  "category": "v5_landmarks",
+  "verdict": "MAJOR",
+  "defects": [
+   "deck is broken/gappy, pieces look detached and floating",
+   "no continuous walkable span",
+   "tiny scattered posts read as debris"
+  ],
+  "fix": "Rebuild a continuous solid deck with connected rails/supports so it reads as a crossable bridge.",
+  "want_w": 90.0,
+  "want_h": 24.0,
+  "want_d": 16.0,
+  "tri_budget": 14000,
+  "tris_now": 2368,
+  "size_now": [
+   90.0,
+   16.0,
+   24.0
+  ],
+  "note": "Stone span between two rock faces on a pass"
+ },
+ {
+  "id": "LM10_02_temple_colonnade_buried_02",
+  "row": "LM10",
+  "worker": "vh",
+  "batch": "temple_parts",
+  "category": "v5_landmarks",
+  "verdict": "MINOR",
+  "defects": [
+   "black/inverted face on top of lintel"
+  ],
+  "fix": "Recalculate normals on the lintel so the top face is not black.",
+  "want_w": 60.0,
+  "want_h": 40.0,
+  "want_d": 20.0,
+  "tri_budget": 14000,
+  "tris_now": 3936,
+  "size_now": [
+   60.0,
+   20.0,
+   40.0
+  ],
+  "note": "Colonnade sections sunk into the dunes"
+ },
+ {
+  "id": "LM12_01_temple_stair_down_01",
+  "row": "LM12",
+  "worker": "vh",
+  "batch": "temple_parts",
+  "category": "v5_landmarks",
+  "verdict": "MAJOR",
+  "defects": [
+   "reads as a jumble of flat clipping slabs",
+   "no clear descending stair silhouette",
+   "small floating boxes top-left"
+  ],
+  "fix": "Rebuild as a readable recessed stair cut into the ground with clear step treads and framing walls; remove floating fragments.",
+  "want_w": 30.0,
+  "want_h": 24.0,
+  "want_d": 40.0,
+  "tri_budget": 9000,
+  "tris_now": 1288,
+  "size_now": [
+   30.0,
+   40.0,
+   24.0
+  ],
+  "note": "Stair that leads down into the sand"
+ },
+ {
+  "id": "LM12_02_temple_stair_down_02",
+  "row": "LM12",
+  "worker": "vh",
+  "batch": "temple_parts",
+  "category": "v5_landmarks",
+  "verdict": "MAJOR",
+  "defects": [
+   "confusing overlapping slabs",
+   "stair not legible",
+   "flat single-colour mass"
+  ],
+  "fix": "Rebuild with distinct stepped treads descending into a clear pit opening instead of stacked flat planes.",
+  "want_w": 30.0,
+  "want_h": 24.0,
+  "want_d": 40.0,
+  "tri_budget": 9000,
+  "tris_now": 1288,
+  "size_now": [
+   30.0,
+   40.0,
+   24.0
+  ],
+  "note": "Stair that leads down into the sand"
+ },
+ {
+  "id": "LM13_01_guardian_statue_01",
+  "row": "LM13",
+  "worker": "vh",
+  "batch": "temple_parts",
+  "category": "v5_landmarks",
+  "verdict": "MINOR",
+  "defects": [
+   "small black/inverted face near head",
+   "very thin crude figure"
+  ],
+  "fix": "Fix the black face normal and widen the torso/head so it reads as a carved guardian figure.",
+  "want_w": 20.0,
+  "want_h": 70.0,
+  "want_d": 20.0,
+  "tri_budget": 18000,
+  "tris_now": 428,
+  "size_now": [
+   18.11,
+   20.0,
+   67.81
+  ],
+  "note": "Original weathered guardian figures"
+ },
+ {
+  "id": "LM13_02_guardian_statue_02",
+  "row": "LM13",
+  "worker": "vh",
+  "batch": "temple_parts",
+  "category": "v5_landmarks",
+  "verdict": "MINOR",
+  "defects": [
+   "small black/inverted face near head",
+   "thin crude figure"
+  ],
+  "fix": "Fix the black face normal and bulk up the figure for a clearer statue silhouette.",
+  "want_w": 20.0,
+  "want_h": 70.0,
+  "want_d": 20.0,
+  "tri_budget": 18000,
+  "tris_now": 404,
+  "size_now": [
+   20.0,
+   20.0,
+   70.0
+  ],
+  "note": "Original weathered guardian figures"
+ },
+ {
+  "id": "LM14_03_sand_obelisk_03",
+  "row": "LM14",
+  "worker": "vh",
+  "batch": "temple_parts",
+  "category": "v5_landmarks",
+  "verdict": "MINOR",
+  "defects": [
+   "near-identical recolour of obelisk 01/02"
+  ],
+  "fix": "Vary height, carving marks or erosion so the three obelisks are not identical.",
+  "want_w": 10.0,
+  "want_h": 60.0,
+  "want_d": 10.0,
+  "tri_budget": 5000,
+  "tris_now": 592,
+  "size_now": [
+   10.46,
+   9.96,
+   59.02
+  ],
+  "note": "Carved obelisks, leaning"
+ },
+ {
+  "id": "LM16_01_ring_temple_segment_01",
+  "row": "LM16",
+  "worker": "vh",
+  "batch": "temple_parts",
+  "category": "v5_landmarks",
+  "verdict": "MINOR",
+  "defects": [
+   "plain curved slab with little relief",
+   "flat single-colour mass"
+  ],
+  "fix": "Add carved panelling, step relief or weathering to the curved wall so it is not a featureless slab.",
+  "want_w": 50.0,
+  "want_h": 40.0,
+  "want_d": 25.0,
+  "tri_budget": 14000,
+  "tris_now": 736,
+  "size_now": [
+   50.0,
+   25.0,
+   40.0
+  ],
+  "note": "Ring wall segments for building out the circle"
+ },
+ {
+  "id": "LM16_02_ring_temple_segment_02",
+  "row": "LM16",
+  "worker": "vh",
+  "batch": "temple_parts",
+  "category": "v5_landmarks",
+  "verdict": "MINOR",
+  "defects": [
+   "near-identical to segment 01",
+   "flat featureless curved mass"
+  ],
+  "fix": "Differentiate from segment 01 with distinct relief/damage and add surface detail.",
+  "want_w": 50.0,
+  "want_h": 40.0,
+  "want_d": 25.0,
+  "tri_budget": 14000,
+  "tris_now": 604,
+  "size_now": [
+   50.0,
+   25.0,
+   40.0
+  ],
+  "note": "Ring wall segments for building out the circle"
+ },
+ {
+  "id": "LM18_01_crater_monolith_ring",
+  "row": "LM18",
+  "worker": "vf",
+  "batch": "heroes_b",
+  "category": "v5_landmarks",
+  "verdict": "MINOR",
+  "defects": [
+   "dark monoliths are thin and spiky, ring reads sparse",
+   "flat green pad under it looks like a disc, not terrain"
+  ],
+  "fix": "Thicken the monoliths and break up the flat green base so the ring reads as a crater, not a disc.",
+  "want_w": 140.0,
+  "want_h": 50.0,
+  "want_d": 140.0,
+  "tri_budget": 40000,
+  "tris_now": 2684,
+  "size_now": [
+   150.16,
+   136.96,
+   48.05
+  ],
+  "note": "Ring of carved standing stones around the crater rim (non-emissive)"
+ },
+ {
+  "id": "LM19_01_crater_rim_rock_01",
+  "row": "LM19",
+  "worker": "vi",
+  "batch": "ruins_crater",
+  "category": "v5_landmarks",
+  "verdict": "MINOR",
+  "defects": [
+   "flat grey, little relief",
+   "some near-black shadowed facets"
+  ],
+  "fix": "Add subtle colour variation and break up large flat faces so it reads as weathered rock, not grey default.",
+  "want_w": 60.0,
+  "want_h": 40.0,
+  "want_d": 50.0,
+  "tri_budget": 12000,
+  "tris_now": 1080,
+  "size_now": [
+   60.0,
+   50.0,
+   40.0
+  ],
+  "note": "Broken rim rocks"
+ },
+ {
+  "id": "LM19_02_crater_rim_rock_02",
+  "row": "LM19",
+  "worker": "vi",
+  "batch": "ruins_crater",
+  "category": "v5_landmarks",
+  "verdict": "MAJOR",
+  "defects": [
+   "large very dark/near-black facets read as holes or inverted faces",
+   "flat grey, crude"
+  ],
+  "fix": "Check face normals on the dark faces and lighten; add relief and warmer rock tone.",
+  "want_w": 60.0,
+  "want_h": 40.0,
+  "want_d": 50.0,
+  "tri_budget": 12000,
+  "tris_now": 1080,
+  "size_now": [
+   60.0,
+   50.0,
+   40.0
+  ],
+  "note": "Broken rim rocks"
+ },
+ {
+  "id": "LM19_03_crater_rim_rock_03",
+  "row": "LM19",
+  "worker": "vi",
+  "batch": "ruins_crater",
+  "category": "v5_landmarks",
+  "verdict": "MINOR",
+  "defects": [
+   "flat grey rock pile, dark facets",
+   "crude chunky blocks"
+  ],
+  "fix": "Add colour variation and smaller detail rocks; verify no inverted dark faces.",
+  "want_w": 60.0,
+  "want_h": 40.0,
+  "want_d": 50.0,
+  "tri_budget": 12000,
+  "tris_now": 1080,
+  "size_now": [
+   60.0,
+   50.0,
+   40.0
+  ],
+  "note": "Broken rim rocks"
+ },
+ {
+  "id": "LM19_04_crater_rim_rock_04",
+  "row": "LM19",
+  "worker": "vi",
+  "batch": "ruins_crater",
+  "category": "v5_landmarks",
+  "verdict": "MAJOR",
+  "defects": [
+   "large dark/near-black facets read as inverted faces or holes",
+   "flat grey, crude"
+  ],
+  "fix": "Recalculate normals on the dark faces, lighten and add warm rock tone with more relief.",
+  "want_w": 60.0,
+  "want_h": 40.0,
+  "want_d": 50.0,
+  "tri_budget": 12000,
+  "tris_now": 1080,
+  "size_now": [
+   60.0,
+   50.0,
+   40.0
+  ],
+  "note": "Broken rim rocks"
+ },
+ {
+  "id": "LM19_05_crater_rim_rock_05",
+  "row": "LM19",
+  "worker": "vi",
+  "batch": "ruins_crater",
+  "category": "v5_landmarks",
+  "verdict": "MAJOR",
+  "defects": [
+   "big flat near-black block face looks like an inverted normal",
+   "flat grey rock pile"
+  ],
+  "fix": "Fix the inverted/dark face, break up the large flat block and add colour variation.",
+  "want_w": 60.0,
+  "want_h": 40.0,
+  "want_d": 50.0,
+  "tri_budget": 12000,
+  "tris_now": 1080,
+  "size_now": [
+   60.0,
+   50.0,
+   40.0
+  ],
+  "note": "Broken rim rocks"
+ },
+ {
+  "id": "LM20_02_crater_arcane_ruin_02",
+  "row": "LM20",
+  "worker": "vi",
+  "batch": "ruins_crater",
+  "category": "v5_landmarks",
+  "verdict": "MINOR",
+  "defects": [
+   "blue rune marks risk reading as emissive",
+   "a stray small green nub near base"
+  ],
+  "fix": "Keep rune trim matte (no glow); confirm no stray prop geometry is saved with the model.",
+  "want_w": 40.0,
+  "want_h": 40.0,
+  "want_d": 40.0,
+  "tri_budget": 14000,
+  "tris_now": 408,
+  "size_now": [
+   37.2,
+   36.0,
+   40.0
+  ],
+  "note": "Small broken magical structures on the crater floor"
+ },
+ {
+  "id": "LM21_02_floating_rock_02",
+  "row": "LM21",
+  "worker": "vi",
+  "batch": "ruins_crater",
+  "category": "v5_landmarks",
+  "verdict": "MINOR",
+  "defects": [
+   "underside rock chunks look loosely jumbled/semi-detached"
+  ],
+  "fix": "Merge the underside rock mass into one tapered root so chunks don't read as floating fragments.",
+  "want_w": 40.0,
+  "want_h": 30.0,
+  "want_d": 40.0,
+  "tri_budget": 8000,
+  "tris_now": 330,
+  "size_now": [
+   43.69,
+   40.0,
+   30.0
+  ],
+  "note": "Drifting rock slabs over the crater (no glow)"
+ },
+ {
+  "id": "LM21_04_floating_rock_04",
+  "row": "LM21",
+  "worker": "vi",
+  "batch": "ruins_crater",
+  "category": "v5_landmarks",
+  "verdict": "MINOR",
+  "defects": [
+   "underside chunks slightly disconnected",
+   "close recolour of siblings"
+  ],
+  "fix": "Vary the island outline and tidy the underside into a cohesive tapered mass.",
+  "want_w": 40.0,
+  "want_h": 30.0,
+  "want_d": 40.0,
+  "tri_budget": 8000,
+  "tris_now": 330,
+  "size_now": [
+   43.67,
+   38.03,
+   30.0
+  ],
+  "note": "Drifting rock slabs over the crater (no glow)"
+ },
+ {
+  "id": "LM22_01_colossal_fall_cliff_hero",
+  "row": "LM22",
+  "worker": "vf",
+  "batch": "heroes_a",
+  "category": "v5_landmarks",
+  "verdict": "REDO",
+  "defects": [
+   "waterfalls are bright white+cyan flat emissive-looking vertical slabs floating in front of the cliff",
+   "no-glow rule violation",
+   "falls float detached from the rock face",
+   "cliff is a thin stacked-slab stack like paper"
+  ],
+  "fix": "Rebuild falls as thin pale stepped water hugging the rock with foam pools, no glowing slabs; make the cliff chunky faceted rock instead of stacked thin plates.",
+  "want_w": 240.0,
+  "want_h": 260.0,
+  "want_d": 120.0,
+  "tri_budget": 60000,
+  "tris_now": 51678,
+  "size_now": [
+   240.0,
+   120.0,
+   260.0
+  ],
+  "note": "Colossal multi-fall cliff for the river valley"
+ },
+ {
+  "id": "LM23_03_gorge_wall_03",
+  "row": "LM23",
+  "worker": "vg",
+  "batch": "forest_set",
+  "category": "v5_forest",
+  "verdict": "MAJOR",
+  "defects": [
+   "thin flat bright-white waterfall slab clips through the wall as a glowing vertical bar",
+   "slab is a single flat panel with no relief"
+  ],
+  "fix": "Replace the flat white bar with a recessed stepped water chute in muted blue, seated into the rock, no flat glowing panel.",
+  "want_w": 90.0,
+  "want_h": 80.0,
+  "want_d": 30.0,
+  "tri_budget": 20000,
+  "tris_now": 3456,
+  "size_now": [
+   95.72,
+   30.0,
+   81.79
+  ],
+  "note": "Gorge walls below the falls"
+ },
+ {
+  "id": "LM25_01_ruin_gate_hero",
+  "row": "LM25",
+  "worker": "vf",
+  "batch": "heroes_a",
+  "category": "v5_landmarks",
+  "verdict": "MINOR",
+  "defects": [
+   "the tall L-shaped overhang block reads ambiguous, almost like an unfinished arm",
+   "red inset panels look like flat stickers"
+  ],
+  "fix": "Clarify the gate lintel form and recess/relieve the red panels so they read as stone niches.",
+  "want_w": 90.0,
+  "want_h": 80.0,
+  "want_d": 30.0,
+  "tri_budget": 40000,
+  "tris_now": 3068,
+  "size_now": [
+   82.04,
+   30.65,
+   80.0
+  ],
+  "note": "Gate of the ancient civilization, half collapsed"
+ },
+ {
+  "id": "LM26_01_ruin_arena_segment_01",
+  "row": "LM26",
+  "worker": "vi",
+  "batch": "ruins_crater",
+  "category": "v5_landmarks",
+  "verdict": "MINOR",
+  "defects": [
+   "thin white bars between columns read flat/railing-like",
+   "very similar to siblings"
+  ],
+  "fix": "Give columns more depth and vary the broken top edge between the three segments.",
+  "want_w": 60.0,
+  "want_h": 34.0,
+  "want_d": 30.0,
+  "tri_budget": 14000,
+  "tris_now": 1040,
+  "size_now": [
+   60.0,
+   30.0,
+   34.0
+  ],
+  "note": "Arena wall segments"
+ },
+ {
+  "id": "LM26_02_ruin_arena_segment_02",
+  "row": "LM26",
+  "worker": "vi",
+  "batch": "ruins_crater",
+  "category": "v5_landmarks",
+  "verdict": "MINOR",
+  "defects": [
+   "near-identical to segment_01 (recolour feel)",
+   "flat white infill bars"
+  ],
+  "fix": "Differentiate the broken silhouette and thicken the column/arch geometry.",
+  "want_w": 60.0,
+  "want_h": 34.0,
+  "want_d": 30.0,
+  "tri_budget": 14000,
+  "tris_now": 1052,
+  "size_now": [
+   60.0,
+   30.0,
+   34.0
+  ],
+  "note": "Arena wall segments"
+ },
+ {
+  "id": "LM26_03_ruin_arena_segment_03",
+  "row": "LM26",
+  "worker": "vi",
+  "batch": "ruins_crater",
+  "category": "v5_landmarks",
+  "verdict": "MINOR",
+  "defects": [
+   "flat infill bars",
+   "variety overlap with other arena segments"
+  ],
+  "fix": "Vary ruin damage pattern; add depth to the colonnade.",
+  "want_w": 60.0,
+  "want_h": 34.0,
+  "want_d": 30.0,
+  "tri_budget": 14000,
+  "tris_now": 1064,
+  "size_now": [
+   60.0,
+   30.0,
+   31.65
+  ],
+  "note": "Arena wall segments"
+ },
+ {
+  "id": "LM27_01_ruin_aqueduct_arch_01",
+  "row": "LM27",
+  "worker": "vi",
+  "batch": "ruins_crater",
+  "category": "v5_landmarks",
+  "verdict": "MAJOR",
+  "defects": [
+   "solid black rectangular patches across the parapet read as holes/gaps",
+   "stray green nubs stuck to piers"
+  ],
+  "fix": "Fill the black gaps with proper stone blocks (or model them as real openings with back faces); remove stray green bits.",
+  "want_w": 40.0,
+  "want_h": 50.0,
+  "want_d": 12.0,
+  "tri_budget": 12000,
+  "tris_now": 668,
+  "size_now": [
+   40.0,
+   11.23,
+   50.0
+  ],
+  "note": "Aqueduct arches"
+ },
+ {
+  "id": "LM27_02_ruin_aqueduct_arch_02",
+  "row": "LM27",
+  "worker": "vi",
+  "batch": "ruins_crater",
+  "category": "v5_landmarks",
+  "verdict": "MAJOR",
+  "defects": [
+   "black holes along broken parapet",
+   "green nubs clinging to columns"
+  ],
+  "fix": "Close/backface the black gaps and remove floating green specks.",
+  "want_w": 40.0,
+  "want_h": 50.0,
+  "want_d": 12.0,
+  "tri_budget": 12000,
+  "tris_now": 656,
+  "size_now": [
+   41.58,
+   12.0,
+   50.0
+  ],
+  "note": "Aqueduct arches"
+ },
+ {
+  "id": "LM28_01_ruin_column_set_01",
+  "row": "LM28",
+  "worker": "vi",
+  "batch": "ruins_crater",
+  "category": "v5_landmarks",
+  "verdict": "MINOR",
+  "defects": [
+   "grey-white drum banding looks a bit striped",
+   "small floating debris"
+  ],
+  "fix": "Soften the stripe contrast and settle debris on the ground.",
+  "want_w": 24.0,
+  "want_h": 40.0,
+  "want_d": 24.0,
+  "tri_budget": 8000,
+  "tris_now": 1064,
+  "size_now": [
+   24.0,
+   23.4,
+   40.0
+  ],
+  "note": "Broken column groups"
+ },
+ {
+  "id": "LM28_02_ruin_column_set_02",
+  "row": "LM28",
+  "worker": "vi",
+  "batch": "ruins_crater",
+  "category": "v5_landmarks",
+  "verdict": "MINOR",
+  "defects": [
+   "striped drum look",
+   "scattered small floating chunks"
+  ],
+  "fix": "Reduce band contrast; ground the rubble.",
+  "want_w": 24.0,
+  "want_h": 40.0,
+  "want_d": 24.0,
+  "tri_budget": 8000,
+  "tris_now": 1412,
+  "size_now": [
+   25.24,
+   23.96,
+   40.0
+  ],
+  "note": "Broken column groups"
+ },
+ {
+  "id": "LM28_03_ruin_column_set_03",
+  "row": "LM28",
+  "worker": "vi",
+  "batch": "ruins_crater",
+  "category": "v5_landmarks",
+  "verdict": "MINOR",
+  "defects": [
+   "two columns read as recolour of the other sets",
+   "banding stripes"
+  ],
+  "fix": "Vary column heights/breaks and tone down stripes.",
+  "want_w": 24.0,
+  "want_h": 40.0,
+  "want_d": 24.0,
+  "tri_budget": 8000,
+  "tris_now": 1240,
+  "size_now": [
+   24.11,
+   24.9,
+   40.0
+  ],
+  "note": "Broken column groups"
+ },
+ {
+  "id": "LM29_01_ruin_tower_stump_01",
+  "row": "LM29",
+  "worker": "vi",
+  "batch": "ruins_crater",
+  "category": "v5_landmarks",
+  "verdict": "MINOR",
+  "defects": [
+   "floating broken-top chunks sit slightly above the rim"
+  ],
+  "fix": "Attach the broken crenellation chunks to the wall top.",
+  "want_w": 26.0,
+  "want_h": 36.0,
+  "want_d": 26.0,
+  "tri_budget": 10000,
+  "tris_now": 1628,
+  "size_now": [
+   26.0,
+   26.0,
+   32.85
+  ],
+  "note": "Tower stumps"
+ },
+ {
+  "id": "LM29_02_ruin_tower_stump_02",
+  "row": "LM29",
+  "worker": "vi",
+  "batch": "ruins_crater",
+  "category": "v5_landmarks",
+  "verdict": "MAJOR",
+  "defects": [
+   "reads as a plain cream box, square silhouette",
+   "almost no relief, crude for a tower stump"
+  ],
+  "fix": "Make the stump round or battered with an eroded broken top and surface relief, not a flat rectangular box.",
+  "want_w": 26.0,
+  "want_h": 36.0,
+  "want_d": 26.0,
+  "tri_budget": 10000,
+  "tris_now": 370,
+  "size_now": [
+   26.0,
+   26.0,
+   36.0
+  ],
+  "note": "Tower stumps"
+ },
+ {
+  "id": "LM30_01_ruined_castle_hero",
+  "row": "LM30",
+  "worker": "vf",
+  "batch": "heroes_a",
+  "category": "v5_landmarks",
+  "verdict": "MINOR",
+  "defects": [
+   "almost entirely flat default grey, reads unfinished/greyed-out",
+   "window holes are flat black rectangles",
+   "rubble cubes scattered loosely"
+  ],
+  "fix": "Add weathered stone colour variation and recess the windows; tidy the rubble so cubes rest naturally.",
+  "want_w": 140.0,
+  "want_h": 70.0,
+  "want_d": 120.0,
+  "tri_budget": 50000,
+  "tris_now": 9628,
+  "size_now": [
+   140.17,
+   121.25,
+   71.63
+  ],
+  "note": "Ruined castle with a broken keep"
+ },
+ {
+  "id": "LM31_01_ruined_castle_module_01",
+  "row": "LM31",
+  "worker": "vi",
+  "batch": "ruins_crater",
+  "category": "v5_landmarks",
+  "verdict": "MINOR",
+  "defects": [
+   "green moss bands look like painted rings",
+   "slight sibling overlap"
+  ],
+  "fix": "Break the moss into patches rather than continuous bands.",
+  "want_w": 40.0,
+  "want_h": 40.0,
+  "want_d": 30.0,
+  "tri_budget": 14000,
+  "tris_now": 1636,
+  "size_now": [
+   41.48,
+   30.0,
+   40.0
+  ],
+  "note": "Wall and tower modules for the ruined castle"
+ },
+ {
+  "id": "LM31_02_ruined_castle_module_02",
+  "row": "LM31",
+  "worker": "vi",
+  "batch": "ruins_crater",
+  "category": "v5_landmarks",
+  "verdict": "MINOR",
+  "defects": [
+   "continuous green ring bands",
+   "similar to module_01"
+  ],
+  "fix": "Vary the tower damage and scatter the moss.",
+  "want_w": 40.0,
+  "want_h": 40.0,
+  "want_d": 30.0,
+  "tri_budget": 14000,
+  "tris_now": 2368,
+  "size_now": [
+   40.0,
+   30.0,
+   40.0
+  ],
+  "note": "Wall and tower modules for the ruined castle"
+ },
+ {
+  "id": "LM31_03_ruined_castle_module_03",
+  "row": "LM31",
+  "worker": "vi",
+  "batch": "ruins_crater",
+  "category": "v5_landmarks",
+  "verdict": "MAJOR",
+  "defects": [
+   "two plain flat grey slabs, minimal detail",
+   "crude, reads as blank blocks not castle ruin"
+  ],
+  "fix": "Add wall thickness, broken crenellations, window/arrow slits and surface relief so it reads as a ruined wall.",
+  "want_w": 40.0,
+  "want_h": 40.0,
+  "want_d": 30.0,
+  "tri_budget": 14000,
+  "tris_now": 996,
+  "size_now": [
+   36.41,
+   30.0,
+   40.0
+  ],
+  "note": "Wall and tower modules for the ruined castle"
+ },
+ {
+  "id": "WT02_01_wizard_tower_interior",
+  "row": "WT02",
+  "worker": "vb",
+  "batch": "interior_shell",
+  "category": "v5_wizard",
+  "verdict": "MAJOR",
+  "defects": [
+   "walkable floors with spiral stairs and domed top are good",
+   "but NO bookshelves on any interior floor",
+   "NO circular relief map inside the tower"
+  ],
+  "fix": "place the WT03/WT04 bookshelves floor-to-ceiling on at least one library floor and set the WT05 round map on a floor so the interior delivers the brief's bookshelves and map categories",
+  "want_w": 100.0,
+  "want_h": 280.0,
+  "want_d": 100.0,
+  "tri_budget": 90000,
+  "tris_now": 43788,
+  "size_now": [
+   100.23,
+   100.23,
+   287.51
+  ],
+  "note": "Interior shell: 8 floor plates, open central atrium, wide helical stair (rise at most 1.2, run at least 2), railings, wall linings, window reveals; plus tower_collision.json (boxes for floors, walls, stair treads) so Studio can build invisible collision"
+ },
+ {
+  "id": "WT08_02_wizard_study_set_02",
+  "row": "WT08",
+  "worker": "vb",
+  "batch": "furniture",
+  "category": "v5_wizard",
+  "verdict": "MINOR",
+  "defects": [
+   "sparse: a bare blue canopy-bed/frame with little detail for the tri count, crudest of the study set"
+  ],
+  "fix": "add bedding, pillows or drapery folds so it reads as a furnished study/bed, not an empty frame",
+  "want_w": 18.0,
+  "want_h": 12.0,
+  "want_d": 14.0,
+  "tri_budget": 9000,
+  "tris_now": 592,
+  "size_now": [
+   17.4,
+   13.7,
+   11.45
+  ],
+  "note": "Archmage desk with open books and quill, bed alcove with drapes, globe and sea-chart stand"
+ },
+ {
+  "id": "WT13_01_plateau_terrace_set_01",
+  "row": "WT13",
+  "worker": "va",
+  "batch": "tower_terrace",
+  "category": "v5_wizard",
+  "verdict": "MINOR",
+  "defects": [
+   "plain flat cream slab deck with little relief"
+  ],
+  "fix": "add an edge trim or a few steps so it reads as a built terrace, not a blank box lid",
+  "want_w": 30.0,
+  "want_h": 10.0,
+  "want_d": 30.0,
+  "tri_budget": 7000,
+  "tris_now": 2520,
+  "size_now": [
+   30.4,
+   31.1,
+   10.8
+  ],
+  "note": "Terrace retaining wall x2, 40-step stair, prayer-flag pole, cairn and lantern post around the tower"
+ },
+ {
+  "id": "HL01_04_ice_spire_04",
+  "row": "HL01",
+  "worker": "vg",
+  "batch": "highland_set",
+  "category": "v5_himalaya",
+  "verdict": "MINOR",
+  "defects": [
+   "near-identical recolour of the other three spires"
+  ],
+  "fix": "Vary the taper and chunk placement so it is not a clone of HL01_01-03.",
+  "want_w": 24.0,
+  "want_h": 70.0,
+  "want_d": 24.0,
+  "tri_budget": 8000,
+  "tris_now": 768,
+  "size_now": [
+   24.0,
+   24.0,
+   70.0
+  ],
+  "note": "Ice spires"
+ },
+ {
+  "id": "HL02_02_ice_arch_02",
+  "row": "HL02",
+  "worker": "vg",
+  "batch": "highland_set",
+  "category": "v5_himalaya",
+  "verdict": "MINOR",
+  "defects": [
+   "very close duplicate of HL02_01",
+   "scattered base blocks look like floating debris"
+  ],
+  "fix": "Reshape the arch silhouette for variety and merge the loose base chunks into the mass.",
+  "want_w": 50.0,
+  "want_h": 40.0,
+  "want_d": 14.0,
+  "tri_budget": 9000,
+  "tris_now": 864,
+  "size_now": [
+   50.0,
+   14.0,
+   40.0
+  ],
+  "note": "Natural ice arches"
+ },
+ {
+  "id": "HL03_01_glacier_tongue_01",
+  "row": "HL03",
+  "worker": "vg",
+  "batch": "highland_set",
+  "category": "v5_himalaya",
+  "verdict": "MINOR",
+  "defects": [
+   "brown/tan rock chunks mixed into ice read as dirty camouflage patches",
+   "flat scattered slabs"
+  ],
+  "fix": "Reduce the brown rock blotches and give the ice plates more consistent cool tone and relief.",
+  "want_w": 90.0,
+  "want_h": 24.0,
+  "want_d": 50.0,
+  "tri_budget": 12000,
+  "tris_now": 948,
+  "size_now": [
+   90.0,
+   50.0,
+   24.0
+  ],
+  "note": "Glacier tongues and crevasse edges"
+ },
+ {
+  "id": "HL03_02_glacier_tongue_02",
+  "row": "HL03",
+  "worker": "vg",
+  "batch": "highland_set",
+  "category": "v5_himalaya",
+  "verdict": "MINOR",
+  "defects": [
+   "same brown-patch issue; near-copy of 01"
+  ],
+  "fix": "Tone down brown patches and differentiate the shape from siblings.",
+  "want_w": 90.0,
+  "want_h": 24.0,
+  "want_d": 50.0,
+  "tri_budget": 12000,
+  "tris_now": 960,
+  "size_now": [
+   90.0,
+   50.0,
+   24.0
+  ],
+  "note": "Glacier tongues and crevasse edges"
+ },
+ {
+  "id": "HL03_03_glacier_tongue_03",
+  "row": "HL03",
+  "worker": "vg",
+  "batch": "highland_set",
+  "category": "v5_himalaya",
+  "verdict": "MINOR",
+  "defects": [
+   "recolour of 01/02 with brown debris patches"
+  ],
+  "fix": "Vary silhouette and cut the muddy brown blocks.",
+  "want_w": 90.0,
+  "want_h": 24.0,
+  "want_d": 50.0,
+  "tri_budget": 12000,
+  "tris_now": 972,
+  "size_now": [
+   90.0,
+   50.0,
+   24.0
+  ],
+  "note": "Glacier tongues and crevasse edges"
+ },
+ {
+  "id": "HL04_02_ice_cave_mouth_02",
+  "row": "HL04",
+  "worker": "vg",
+  "batch": "highland_set",
+  "category": "v5_himalaya",
+  "verdict": "MINOR",
+  "defects": [
+   "near-identical to HL04_01"
+  ],
+  "fix": "Change opening shape/overhang so it is not a clone.",
+  "want_w": 40.0,
+  "want_h": 30.0,
+  "want_d": 30.0,
+  "tri_budget": 10000,
+  "tris_now": 788,
+  "size_now": [
+   40.0,
+   30.0,
+   28.44
+  ],
+  "note": "Ice cave entrances"
+ },
+ {
+  "id": "HL07_02_mine_entrance_02",
+  "row": "HL07",
+  "worker": "vg",
+  "batch": "highland_set",
+  "category": "v5_himalaya",
+  "verdict": "MINOR",
+  "defects": [
+   "very close variant of HL07_01"
+  ],
+  "fix": "Alter timber framing or rubble arrangement for variety.",
+  "want_w": 30.0,
+  "want_h": 24.0,
+  "want_d": 24.0,
+  "tri_budget": 9000,
+  "tris_now": 732,
+  "size_now": [
+   31.41,
+   24.0,
+   24.0
+  ],
+  "note": "Timbered mine mouths"
+ },
+ {
+  "id": "HM04_01_tunnel_lining_01",
+  "row": "HM04",
+  "worker": "vc",
+  "batch": "tunnels",
+  "category": "v5_himalaya",
+  "verdict": "MINOR",
+  "defects": [
+   "interior is a dark cavity; as a modular lining the open back is expected but the inner faces look unlit/near-black"
+  ],
+  "fix": "give the inner tunnel faces a lit stone colour so the bore does not read as a black hole from grazing angles",
+  "want_w": 24.0,
+  "want_h": 20.0,
+  "want_d": 24.0,
+  "tri_budget": 8000,
+  "tris_now": 980,
+  "size_now": [
+   24.61,
+   25.49,
+   22.16
+  ],
+  "note": "Tunnel lining segments (24-stud straight, 30-degree bend) with rock walls, timber ribs and lantern brackets (warm, no glow)"
+ },
+ {
+  "id": "HM04_02_tunnel_lining_02",
+  "row": "HM04",
+  "worker": "vc",
+  "batch": "tunnels",
+  "category": "v5_himalaya",
+  "verdict": "MAJOR",
+  "defects": [
+   "large black inverted/inside-out faces across the top and left of the interior",
+   "reads as holes / flipped normals, not lit stone"
+  ],
+  "fix": "recalculate normals outward (or solidify the shell) and give the inner faces a stone colour so no black inverted patches remain",
+  "want_w": 24.0,
+  "want_h": 20.0,
+  "want_d": 24.0,
+  "tri_budget": 8000,
+  "tris_now": 772,
+  "size_now": [
+   25.89,
+   29.72,
+   19.6
+  ],
+  "note": "Tunnel lining segments (24-stud straight, 30-degree bend) with rock walls, timber ribs and lantern brackets (warm, no glow)"
+ },
+ {
+  "id": "HM05_01_cliff_gallery_01",
+  "row": "HM05",
+  "worker": "vc",
+  "batch": "road_extras",
+  "category": "v5_himalaya",
+  "verdict": "MINOR",
+  "defects": [
+   "timber walkway clings to a blocky grey cliff but the rock is plain flat-grey slabs with little relief"
+  ],
+  "fix": "vary the cliff rock colours/angles so it is not one flat grey mass behind the gallery",
+  "want_w": 40.0,
+  "want_h": 22.0,
+  "want_d": 14.0,
+  "tri_budget": 9000,
+  "tris_now": 644,
+  "size_now": [
+   41.31,
+   15.14,
+   25.55
+  ],
+  "note": "Road galleries cut into a cliff with timber props and a rock roof"
+ },
+ {
+  "id": "HM05_02_cliff_gallery_02",
+  "row": "HM05",
+  "worker": "vc",
+  "batch": "road_extras",
+  "category": "v5_himalaya",
+  "verdict": "MINOR",
+  "defects": [
+   "same flat grey cliff backing; white snow slab on top looks like a loose flat plane"
+  ],
+  "fix": "break up the grey rock and seat the snow cap so it conforms to the top rather than floating as a flat sheet",
+  "want_w": 40.0,
+  "want_h": 22.0,
+  "want_d": 14.0,
+  "tri_budget": 9000,
+  "tris_now": 820,
+  "size_now": [
+   41.49,
+   15.02,
+   25.88
+  ],
+  "note": "Road galleries cut into a cliff with timber props and a rock roof"
+ },
+ {
+  "id": "HM06_01_switchback_wall_01",
+  "row": "HM06",
+  "worker": "vc",
+  "batch": "road_extras",
+  "category": "v5_himalaya",
+  "verdict": "MAJOR",
+  "defects": [
+   "blocky two-tone grey checkerboard camouflage patches across the wall face",
+   "stones read as a flat chequer pattern, not masonry"
+  ],
+  "fix": "replace the alternating light/dark grey checker with subtler stone tone variation and real block relief",
+  "want_w": 30.0,
+  "want_h": 14.0,
+  "want_d": 14.0,
+  "tri_budget": 7000,
+  "tris_now": 588,
+  "size_now": [
+   30.51,
+   5.23,
+   12.0
+  ],
+  "note": "Stone retaining walls and hairpin corners for mountain roads"
+ },
+ {
+  "id": "HM06_02_switchback_wall_02",
+  "row": "HM06",
+  "worker": "vc",
+  "batch": "road_extras",
+  "category": "v5_himalaya",
+  "verdict": "MINOR",
+  "defects": [
+   "mostly plain flat slabs; curved retaining section is bland with little stone detail"
+  ],
+  "fix": "add coursing/relief to the wall faces so the curve reads as laid stone",
+  "want_w": 30.0,
+  "want_h": 14.0,
+  "want_d": 14.0,
+  "tri_budget": 7000,
+  "tris_now": 512,
+  "size_now": [
+   23.94,
+   20.44,
+   12.0
+  ],
+  "note": "Stone retaining walls and hairpin corners for mountain roads"
+ },
+ {
+  "id": "HM06_03_switchback_wall_03",
+  "row": "HM06",
+  "worker": "vc",
+  "batch": "road_extras",
+  "category": "v5_himalaya",
+  "verdict": "MAJOR",
+  "defects": [
+   "same blocky grey checkerboard camouflage patches as _01"
+  ],
+  "fix": "remove the two-tone checker; use graded stone tones with block relief",
+  "want_w": 30.0,
+  "want_h": 14.0,
+  "want_d": 14.0,
+  "tri_budget": 7000,
+  "tris_now": 776,
+  "size_now": [
+   30.56,
+   6.9,
+   12.0
+  ],
+  "note": "Stone retaining walls and hairpin corners for mountain roads"
+ },
+ {
+  "id": "HM07_04_prayer_flag_string_04",
+  "row": "HM07",
+  "worker": "vc",
+  "batch": "road_extras",
+  "category": "v5_himalaya",
+  "verdict": "MINOR",
+  "defects": [
+   "flags all near-white/pale, little colour variety versus siblings"
+  ],
+  "fix": "give this string distinct flag colours so it is not a washed-out copy of the others",
+  "want_w": 40.0,
+  "want_h": 12.0,
+  "want_d": 2.0,
+  "tri_budget": 3000,
+  "tris_now": 580,
+  "size_now": [
+   39.94,
+   2.51,
+   12.5
+  ],
+  "note": "Strings of cloth flags for bridges, cairns and passes"
+ },
+ {
+  "id": "HM08_02_cairn_shrine_02",
+  "row": "HM08",
+  "worker": "vc",
+  "batch": "road_extras",
+  "category": "v5_himalaya",
+  "verdict": "MAJOR",
+  "defects": [
+   "reads as a small red-roof hut, not a cairn shrine",
+   "does not match its siblings in the HM08 cairn set"
+  ],
+  "fix": "rebuild as a stone cairn/chorten (stacked rock or a whitewashed stupa form) consistent with the cairn_shrine set",
+  "want_w": 14.0,
+  "want_h": 12.0,
+  "want_d": 14.0,
+  "tri_budget": 4000,
+  "tris_now": 190,
+  "size_now": [
+   12.8,
+   12.0,
+   12.4
+  ],
+  "note": "Stone cairns and small roadside shrines"
+ },
+ {
+  "id": "FR01_02_giant_tree_02",
+  "row": "FR01",
+  "worker": "vg",
+  "batch": "forest_set",
+  "category": "v5_forest",
+  "verdict": "MINOR",
+  "defects": [
+   "near-recolour of FR01_01"
+  ],
+  "fix": "Vary canopy mass and branch spread to distinguish from 01.",
+  "want_w": 90.0,
+  "want_h": 160.0,
+  "want_d": 90.0,
+  "tri_budget": 40000,
+  "tris_now": 6016,
+  "size_now": [
+   90.0,
+   90.0,
+   166.96
+  ],
+  "note": "Four giant-tree silhouettes: leaning, twin trunk, arched, broken top (natural, no glow)"
+ },
+ {
+  "id": "FR01_03_giant_tree_03",
+  "row": "FR01",
+  "worker": "vg",
+  "batch": "forest_set",
+  "category": "v5_forest",
+  "verdict": "MAJOR",
+  "defects": [
+   "canopy reduced to two ball blobs on splayed legs; reads as an arch/wishbone, not a giant tree",
+   "trunk splits into a bare inverted-V with a gap"
+  ],
+  "fix": "Rebuild with a full connected canopy and a solid single trunk so it matches its giant-tree siblings.",
+  "want_w": 90.0,
+  "want_h": 160.0,
+  "want_d": 90.0,
+  "tri_budget": 40000,
+  "tris_now": 1056,
+  "size_now": [
+   89.84,
+   93.57,
+   160.0
+  ],
+  "note": "Four giant-tree silhouettes: leaning, twin trunk, arched, broken top (natural, no glow)"
+ },
+ {
+  "id": "FR02_05_forest_ruin_05",
+  "row": "FR02",
+  "worker": "vg",
+  "batch": "forest_set",
+  "category": "v5_forest",
+  "verdict": "MINOR",
+  "defects": [
+   "tall thin column looks like a floating plain slab with little relief"
+  ],
+  "fix": "Add break detail and a base to the standing column so it reads as a ruin, not a blank post.",
+  "want_w": 40.0,
+  "want_h": 34.0,
+  "want_d": 30.0,
+  "tri_budget": 10000,
+  "tris_now": 1304,
+  "size_now": [
+   36.52,
+   30.0,
+   34.0
+  ],
+  "note": "Overgrown arch, stair, wall, altar and two broken pillars"
+ },
+ {
+  "id": "FR02_06_forest_ruin_06",
+  "row": "FR02",
+  "worker": "vg",
+  "batch": "forest_set",
+  "category": "v5_forest",
+  "verdict": "MINOR",
+  "defects": [
+   "lone thin column with a floating cap block; sparse"
+  ],
+  "fix": "Anchor the capstone to the column and add rubble so it reads as a ruin fragment.",
+  "want_w": 40.0,
+  "want_h": 34.0,
+  "want_d": 30.0,
+  "tri_budget": 10000,
+  "tris_now": 1196,
+  "size_now": [
+   40.0,
+   30.0,
+   34.0
+  ],
+  "note": "Overgrown arch, stair, wall, altar and two broken pillars"
+ },
+ {
+  "id": "FR03_02_cave_mouth_02",
+  "row": "FR03",
+  "worker": "vg",
+  "batch": "forest_set",
+  "category": "v5_forest",
+  "verdict": "MINOR",
+  "defects": [
+   "near-duplicate of FR03_01"
+  ],
+  "fix": "Vary the opening and rock stacking to differ from 01.",
+  "want_w": 40.0,
+  "want_h": 30.0,
+  "want_d": 30.0,
+  "tri_budget": 10000,
+  "tris_now": 948,
+  "size_now": [
+   40.0,
+   30.0,
+   31.29
+  ],
+  "note": "Cave mouths and rock arches for secret caves"
+ },
+ {
+  "id": "FR03_03_cave_mouth_03",
+  "row": "FR03",
+  "worker": "vg",
+  "batch": "forest_set",
+  "category": "v5_forest",
+  "verdict": "MINOR",
+  "defects": [
+   "recolour/clone of 01-02"
+  ],
+  "fix": "Change silhouette and cave opening shape.",
+  "want_w": 40.0,
+  "want_h": 30.0,
+  "want_d": 30.0,
+  "tri_budget": 10000,
+  "tris_now": 912,
+  "size_now": [
+   40.0,
+   30.0,
+   30.37
+  ],
+  "note": "Cave mouths and rock arches for secret caves"
+ },
+ {
+  "id": "FR03_04_cave_mouth_04",
+  "row": "FR03",
+  "worker": "vg",
+  "batch": "forest_set",
+  "category": "v5_forest",
+  "verdict": "MAJOR",
+  "defects": [
+   "rock arch collapsed into scattered loose blocks, many detached/floating",
+   "no solid cave mouth reads"
+  ],
+  "fix": "Merge the loose chunks into a solid arched mass seated on the ground with a clear opening.",
+  "want_w": 40.0,
+  "want_h": 30.0,
+  "want_d": 30.0,
+  "tri_budget": 10000,
+  "tris_now": 792,
+  "size_now": [
+   40.0,
+   30.0,
+   30.0
+  ],
+  "note": "Cave mouths and rock arches for secret caves"
+ },
+ {
+  "id": "FR03_05_cave_mouth_05",
+  "row": "FR03",
+  "worker": "vg",
+  "batch": "forest_set",
+  "category": "v5_forest",
+  "verdict": "MAJOR",
+  "defects": [
+   "same scattered floating-debris problem as 04",
+   "silhouette does not read as a cave"
+  ],
+  "fix": "Rebuild as one connected rock arch; remove free-floating blocks.",
+  "want_w": 40.0,
+  "want_h": 30.0,
+  "want_d": 30.0,
+  "tri_budget": 10000,
+  "tris_now": 792,
+  "size_now": [
+   40.0,
+   30.73,
+   30.0
+  ],
+  "note": "Cave mouths and rock arches for secret caves"
+ },
+ {
+  "id": "FR03_06_cave_mouth_06",
+  "row": "FR03",
+  "worker": "vg",
+  "batch": "forest_set",
+  "category": "v5_forest",
+  "verdict": "MAJOR",
+  "defects": [
+   "loose detached blocks, gaps, no solid opening"
+  ],
+  "fix": "Consolidate into a solid grounded cave mouth with an actual recessed opening.",
+  "want_w": 40.0,
+  "want_h": 30.0,
+  "want_d": 30.0,
+  "tri_budget": 10000,
+  "tris_now": 792,
+  "size_now": [
+   40.0,
+   30.0,
+   30.0
+  ],
+  "note": "Cave mouths and rock arches for secret caves"
+ },
+ {
+  "id": "PL02_01_hay_silo_01",
+  "row": "PL02",
+  "worker": "vi",
+  "batch": "plains_set",
+  "category": "v5_plains",
+  "verdict": "MINOR",
+  "defects": [
+   "reads as hay sheaves/stooks, not a silo (naming/concept mismatch)"
+  ],
+  "fix": "Fine as a grain-sheaf prop; relabel or add a silo variant if a true silo is needed.",
+  "want_w": 14.0,
+  "want_h": 24.0,
+  "want_d": 14.0,
+  "tri_budget": 5000,
+  "tris_now": 486,
+  "size_now": [
+   12.7,
+   14.0,
+   24.0
+  ],
+  "note": "Hay stacks and a silo"
+ },
+ {
+  "id": "PL03_02_farm_cart_02",
+  "row": "PL03",
+  "worker": "vi",
+  "batch": "plains_set",
+  "category": "v5_plains",
+  "verdict": "MINOR",
+  "defects": [
+   "near-identical to farm_cart_01 (empty vs loaded only difference)"
+  ],
+  "fix": "Vary the cart shape or add distinct cargo so the pair isn't a recolour.",
+  "want_w": 14.0,
+  "want_h": 8.0,
+  "want_d": 8.0,
+  "tri_budget": 3000,
+  "tris_now": 576,
+  "size_now": [
+   13.57,
+   8.0,
+   8.0
+  ],
+  "note": "Carts"
+ },
+ {
+  "id": "PL05_01_ruined_watchtower_plains_01",
+  "row": "PL05",
+  "worker": "vi",
+  "batch": "plains_set",
+  "category": "v5_plains",
+  "verdict": "MINOR",
+  "defects": [
+   "floating broken-top chunks above the rim"
+  ],
+  "fix": "Attach the broken crenellation debris to the wall top.",
+  "want_w": 20.0,
+  "want_h": 40.0,
+  "want_d": 20.0,
+  "tri_budget": 9000,
+  "tris_now": 1628,
+  "size_now": [
+   20.0,
+   18.59,
+   37.24
+  ],
+  "note": "Ruined watchtowers"
+ },
+ {
+  "id": "PL05_02_ruined_watchtower_plains_02",
+  "row": "PL05",
+  "worker": "vi",
+  "batch": "plains_set",
+  "category": "v5_plains",
+  "verdict": "MAJOR",
+  "defects": [
+   "plain cream rectangular box with windows, square silhouette",
+   "crude, does not read as a round ruined watchtower"
+  ],
+  "fix": "Rebuild as a round/battered tower with eroded broken top and surface relief instead of a flat box.",
+  "want_w": 20.0,
+  "want_h": 40.0,
+  "want_d": 20.0,
+  "tri_budget": 9000,
+  "tris_now": 370,
+  "size_now": [
+   20.0,
+   20.0,
+   41.15
+  ],
+  "note": "Ruined watchtowers"
+ },
+ {
+  "id": "PL05_03_ruined_watchtower_plains_03",
+  "row": "PL05",
+  "worker": "vi",
+  "batch": "plains_set",
+  "category": "v5_plains",
+  "verdict": "MINOR",
+  "defects": [
+   "looks intact/new with a clean red cone roof, not ruined as the id states"
+  ],
+  "fix": "Add damage (broken roof edge, cracks, missing crenellations) to match the 'ruined' concept, or relabel as an intact watchtower.",
+  "want_w": 20.0,
+  "want_h": 40.0,
+  "want_d": 20.0,
+  "tri_budget": 9000,
+  "tris_now": 2920,
+  "size_now": [
+   20.0,
+   20.0,
+   40.0
+  ],
+  "note": "Ruined watchtowers"
+ },
+ {
+  "id": "PL06_01_rock_arch_natural_01",
+  "row": "PL06",
+  "worker": "vi",
+  "batch": "plains_set",
+  "category": "v5_plains",
+  "verdict": "MINOR",
+  "defects": [
+   "flat grey rock, little colour variation"
+  ],
+  "fix": "Add warm/earth tone variation and relief so it reads as weathered stone, not grey default.",
+  "want_w": 60.0,
+  "want_h": 40.0,
+  "want_d": 24.0,
+  "tri_budget": 12000,
+  "tris_now": 1356,
+  "size_now": [
+   60.0,
+   24.0,
+   40.0
+  ],
+  "note": "Natural rock arches that carry paths over streams"
+ },
+ {
+  "id": "PL06_02_rock_arch_natural_02",
+  "row": "PL06",
+  "worker": "vi",
+  "batch": "plains_set",
+  "category": "v5_plains",
+  "verdict": "MINOR",
+  "defects": [
+   "flat grey rock, little colour variation",
+   "small floating green/blue bits at base"
+  ],
+  "fix": "Add warm stone tone variation and remove stray specks.",
+  "want_w": 60.0,
+  "want_h": 40.0,
+  "want_d": 24.0,
+  "tri_budget": 12000,
+  "tris_now": 1356,
+  "size_now": [
+   60.0,
+   24.0,
+   40.0
+  ],
+  "note": "Natural rock arches that carry paths over streams"
+ },
+ {
+  "id": "DS01_03_adobe_house_03",
+  "row": "DS01",
+  "worker": "vh",
+  "batch": "desert_village",
+  "category": "v5_desert",
+  "verdict": "MINOR",
+  "defects": [
+   "large blue slab against front wall",
+   "parapet merlons read as loose blocks"
+  ],
+  "fix": "Confirm the blue slab is not part of the model; if it is, remove it. Seat the merlons solidly on the parapet.",
+  "want_w": 20.0,
+  "want_h": 18.0,
+  "want_d": 20.0,
+  "tri_budget": 8000,
+  "tris_now": 1336,
+  "size_now": [
+   22.0,
+   20.0,
+   18.0
+  ],
+  "note": "Desert houses"
+ },
+ {
+  "id": "DS01_04_adobe_house_04",
+  "row": "DS01",
+  "worker": "vh",
+  "batch": "desert_village",
+  "category": "v5_desert",
+  "verdict": "MINOR",
+  "defects": [
+   "stray yellow beam on ground in front"
+  ],
+  "fix": "Remove or attach the loose yellow beam lying in front of the house.",
+  "want_w": 20.0,
+  "want_h": 18.0,
+  "want_d": 20.0,
+  "tri_budget": 8000,
+  "tris_now": 1260,
+  "size_now": [
+   22.0,
+   20.0,
+   18.0
+  ],
+  "note": "Desert houses"
+ },
+ {
+  "id": "DS02_01_desert_market_01",
+  "row": "DS02",
+  "worker": "vh",
+  "batch": "desert_village",
+  "category": "v5_desert",
+  "verdict": "MINOR",
+  "defects": [
+   "well + loose cylinders read as generic, not clearly a market",
+   "small floating/clipping cubes on plank"
+  ],
+  "fix": "Rename or redress toward a market stall, or seat the barrels/goods cleanly; remove stray cubes.",
+  "want_w": 24.0,
+  "want_h": 16.0,
+  "want_d": 18.0,
+  "tri_budget": 6000,
+  "tris_now": 640,
+  "size_now": [
+   24.0,
+   17.0,
+   16.0
+  ],
+  "note": "Well, awning and stall sets"
+ },
+ {
+  "id": "DS03_02_caravan_wagon_02",
+  "row": "DS03",
+  "worker": "vh",
+  "batch": "desert_village",
+  "category": "v5_desert",
+  "verdict": "OK",
+  "defects": [
+   "near-recolour of wagon 01"
+  ],
+  "fix": "Minor: vary the cover shape so the two wagons differ beyond colour.",
+  "want_w": 18.0,
+  "want_h": 12.0,
+  "want_d": 10.0,
+  "tri_budget": 5000,
+  "tris_now": 1224,
+  "size_now": [
+   18.0,
+   10.0,
+   12.0
+  ],
+  "note": "Caravan wagons"
+ },
+ {
+  "id": "DS04_01_palm_01",
+  "row": "DS04",
+  "worker": "vh",
+  "batch": "desert_village",
+  "category": "v5_desert",
+  "verdict": "MINOR",
+  "defects": [
+   "thin spindly trunk",
+   "sparse drooping fronds look wiry",
+   "faint stray wire ring near base"
+  ],
+  "fix": "Thicken the trunk slightly and give the fronds more volume/breadth so the canopy reads as a palm; remove the stray wire geometry at the base.",
+  "want_w": 14.0,
+  "want_h": 42.0,
+  "want_d": 14.0,
+  "tri_budget": 6000,
+  "tris_now": 2420,
+  "size_now": [
+   14.0,
+   14.0,
+   41.78
+  ],
+  "note": "Oasis palms"
+ },
+ {
+  "id": "DS04_02_palm_02",
+  "row": "DS04",
+  "worker": "vh",
+  "batch": "desert_village",
+  "category": "v5_desert",
+  "verdict": "MINOR",
+  "defects": [
+   "spindly trunk",
+   "sparse fronds",
+   "near-identical to palm 01/03"
+  ],
+  "fix": "Fuller fronds and a stouter trunk; vary lean/height from siblings.",
+  "want_w": 14.0,
+  "want_h": 42.0,
+  "want_d": 14.0,
+  "tri_budget": 6000,
+  "tris_now": 2420,
+  "size_now": [
+   14.0,
+   14.0,
+   39.78
+  ],
+  "note": "Oasis palms"
+ },
+ {
+  "id": "DS04_03_palm_03",
+  "row": "DS04",
+  "worker": "vh",
+  "batch": "desert_village",
+  "category": "v5_desert",
+  "verdict": "MINOR",
+  "defects": [
+   "spindly trunk",
+   "sparse fronds",
+   "near-identical to siblings"
+  ],
+  "fix": "Fuller canopy and varied silhouette from palms 01/02.",
+  "want_w": 14.0,
+  "want_h": 42.0,
+  "want_d": 14.0,
+  "tri_budget": 6000,
+  "tris_now": 2420,
+  "size_now": [
+   14.0,
+   14.0,
+   42.0
+  ],
+  "note": "Oasis palms"
+ },
+ {
+  "id": "DS05_02_oasis_rock_ring_02",
+  "row": "DS05",
+  "worker": "vh",
+  "batch": "desert_village",
+  "category": "v5_desert",
+  "verdict": "OK",
+  "defects": [
+   "near-recolour of ring 01"
+  ],
+  "fix": "Minor: rearrange rocks so the two rings differ in layout.",
+  "want_w": 50.0,
+  "want_h": 10.0,
+  "want_d": 50.0,
+  "tri_budget": 8000,
+  "tris_now": 2534,
+  "size_now": [
+   51.73,
+   52.25,
+   10.0
+  ],
+  "note": "Rocks around an oasis pool"
+ },
+ {
+  "id": "DS07_01_hoodoo_arch_01",
+  "row": "DS07",
+  "worker": "vh",
+  "batch": "desert_land",
+  "category": "v5_desert",
+  "verdict": "MINOR",
+  "defects": [
+   "blocky square red/cream colour patches look like camouflage",
+   "reads as two separate spires, not an arch"
+  ],
+  "fix": "Blend the colour banding into horizontal strata and connect the tops into a clear arch span.",
+  "want_w": 40.0,
+  "want_h": 70.0,
+  "want_d": 30.0,
+  "tri_budget": 12000,
+  "tris_now": 528,
+  "size_now": [
+   39.04,
+   30.0,
+   70.0
+  ],
+  "note": "Hoodoos and rock arches"
+ },
+ {
+  "id": "DS07_02_hoodoo_arch_02",
+  "row": "DS07",
+  "worker": "vh",
+  "batch": "desert_land",
+  "category": "v5_desert",
+  "verdict": "MINOR",
+  "defects": [
+   "patchy camouflage-like colour blocks",
+   "arch connection unclear"
+  ],
+  "fix": "Use layered horizontal rock bands instead of square patches and make the arch span read clearly.",
+  "want_w": 40.0,
+  "want_h": 70.0,
+  "want_d": 30.0,
+  "tri_budget": 12000,
+  "tris_now": 636,
+  "size_now": [
+   43.2,
+   30.0,
+   72.82
+  ],
+  "note": "Hoodoos and rock arches"
+ },
+ {
+  "id": "DS07_04_hoodoo_arch_04",
+  "row": "DS07",
+  "worker": "vh",
+  "batch": "desert_land",
+  "category": "v5_desert",
+  "verdict": "MAJOR",
+  "defects": [
+   "collapsed into a chaotic pile of blocks with one thin spire",
+   "no legible arch",
+   "camouflage colour patches"
+  ],
+  "fix": "Rebuild as a clear eroded rock arch with a connected span; remove the scattered block rubble and fix colour banding.",
+  "want_w": 40.0,
+  "want_h": 70.0,
+  "want_d": 30.0,
+  "tri_budget": 12000,
+  "tris_now": 924,
+  "size_now": [
+   40.0,
+   30.0,
+   68.37
+  ],
+  "note": "Hoodoos and rock arches"
+ },
+ {
+  "id": "DS08_01_underground_entrance_01",
+  "row": "DS08",
+  "worker": "vh",
+  "batch": "desert_land",
+  "category": "v5_desert",
+  "verdict": "MAJOR",
+  "defects": [
+   "flat wall with a staircase stuck on its face",
+   "jumble of clipping amorphous slabs",
+   "no readable entrance/opening",
+   "single flat sand colour"
+  ],
+  "fix": "Rebuild as a clear sunken doorway/ramp descending into the ground with framing and a dark opening; remove clipping slabs.",
+  "want_w": 30.0,
+  "want_h": 24.0,
+  "want_d": 30.0,
+  "tri_budget": 9000,
+  "tris_now": 1812,
+  "size_now": [
+   30.0,
+   30.0,
+   24.0
+  ],
+  "note": "Stair-down entrances to the underground"
+ },
+ {
+  "id": "DS08_02_underground_entrance_02",
+  "row": "DS08",
+  "worker": "vh",
+  "batch": "desert_land",
+  "category": "v5_desert",
+  "verdict": "MAJOR",
+  "defects": [
+   "same confusing clipping-slab mass as 01",
+   "no clear entrance"
+  ],
+  "fix": "Rebuild with a legible descending entrance and distinct ground opening.",
+  "want_w": 30.0,
+  "want_h": 24.0,
+  "want_d": 30.0,
+  "tri_budget": 9000,
+  "tris_now": 1812,
+  "size_now": [
+   30.0,
+   30.0,
+   24.0
+  ],
+  "note": "Stair-down entrances to the underground"
+ },
+ {
+  "id": "DS08_03_underground_entrance_03",
+  "row": "DS08",
+  "worker": "vh",
+  "batch": "desert_land",
+  "category": "v5_desert",
+  "verdict": "MAJOR",
+  "defects": [
+   "same illegible clipping composition",
+   "no entrance read"
+  ],
+  "fix": "Rebuild as a clear buried entrance; vary design from 01/02.",
+  "want_w": 30.0,
+  "want_h": 24.0,
+  "want_d": 30.0,
+  "tri_budget": 9000,
+  "tris_now": 1824,
+  "size_now": [
+   30.0,
+   30.0,
+   24.0
+  ],
+  "note": "Stair-down entrances to the underground"
+ },
+ {
+  "id": "CO01_03_coastal_cliff_03",
+  "row": "CO01",
+  "worker": "vf",
+  "batch": "coast",
+  "category": "v5_coast",
+  "verdict": "MINOR",
+  "defects": [
+   "flat black square cave hole reads as a void/hole in the slab"
+  ],
+  "fix": "Give the cave opening depth/recess so it is not a flat black square patch.",
+  "want_w": 110.0,
+  "want_h": 70.0,
+  "want_d": 50.0,
+  "tri_budget": 18000,
+  "tris_now": 2304,
+  "size_now": [
+   113.78,
+   50.0,
+   63.97
+  ],
+  "note": "Cliff pieces that replace the archived R04 grey boxes"
+ },
+ {
+  "id": "CO01_05_coastal_cliff_05",
+  "row": "CO01",
+  "worker": "vf",
+  "batch": "coast",
+  "category": "v5_coast",
+  "verdict": "MAJOR",
+  "defects": [
+   "thin bright cyan vertical waterfall strip reads as a glowing neon line",
+   "no-glow rule violation"
+  ],
+  "fix": "Replace the glowing cyan strip with a pale matte stepped waterfall, or remove it.",
+  "want_w": 110.0,
+  "want_h": 70.0,
+  "want_d": 50.0,
+  "tri_budget": 18000,
+  "tris_now": 2616,
+  "size_now": [
+   114.72,
+   50.0,
+   71.39
+  ],
+  "note": "Cliff pieces that replace the archived R04 grey boxes"
+ },
+ {
+  "id": "CO03_01_reef_01",
+  "row": "CO03",
+  "worker": "vi",
+  "batch": "coast_set",
+  "category": "v5_coast",
+  "verdict": "MAJOR",
+  "defects": [
+   "blocky dark-grey camouflage colour patches on flat rock tops",
+   "very flat low slab, little relief"
+  ],
+  "fix": "Remove the random dark polygon patches, use smooth tonal variation, and give the reef bumpy 3D relief instead of flat slabs.",
+  "want_w": 30.0,
+  "want_h": 6.0,
+  "want_d": 30.0,
+  "tri_budget": 6000,
+  "tris_now": 684,
+  "size_now": [
+   30.0,
+   30.0,
+   6.0
+  ],
+  "note": "Low reefs and sea rocks"
+ },
+ {
+  "id": "CO03_02_reef_02",
+  "row": "CO03",
+  "worker": "vi",
+  "batch": "coast_set",
+  "category": "v5_coast",
+  "verdict": "MAJOR",
+  "defects": [
+   "square dark camouflage patches on rock",
+   "flat jumbled slabs"
+  ],
+  "fix": "Replace blotchy patches with coherent rock colour; add rounded relief and settle overlapping slabs.",
+  "want_w": 30.0,
+  "want_h": 6.0,
+  "want_d": 30.0,
+  "tri_budget": 6000,
+  "tris_now": 524,
+  "size_now": [
+   30.0,
+   30.0,
+   6.0
+  ],
+  "note": "Low reefs and sea rocks"
+ },
+ {
+  "id": "CO03_03_reef_03",
+  "row": "CO03",
+  "worker": "vi",
+  "batch": "coast_set",
+  "category": "v5_coast",
+  "verdict": "MAJOR",
+  "defects": [
+   "blocky dark colour patches",
+   "flat slab silhouette, samey with set"
+  ],
+  "fix": "Recolour evenly and add 3D reef shaping; vary from siblings.",
+  "want_w": 30.0,
+  "want_h": 6.0,
+  "want_d": 30.0,
+  "tri_budget": 6000,
+  "tris_now": 684,
+  "size_now": [
+   30.0,
+   30.0,
+   6.0
+  ],
+  "note": "Low reefs and sea rocks"
+ },
+ {
+  "id": "CO03_04_reef_04",
+  "row": "CO03",
+  "worker": "vi",
+  "batch": "coast_set",
+  "category": "v5_coast",
+  "verdict": "MAJOR",
+  "defects": [
+   "dark camouflage patches",
+   "jumbled overlapping flat slabs read as clipping planes"
+  ],
+  "fix": "Rebuild as a solid low reef mound with even colour; merge the loose slabs.",
+  "want_w": 30.0,
+  "want_h": 6.0,
+  "want_d": 30.0,
+  "tri_budget": 6000,
+  "tris_now": 524,
+  "size_now": [
+   30.0,
+   30.0,
+   6.0
+  ],
+  "note": "Low reefs and sea rocks"
+ },
+ {
+  "id": "CO03_05_reef_05",
+  "row": "CO03",
+  "worker": "vi",
+  "batch": "coast_set",
+  "category": "v5_coast",
+  "verdict": "MAJOR",
+  "defects": [
+   "square dark patches",
+   "messy overlapping flat plates"
+  ],
+  "fix": "Consolidate into one reef body, even rock tone, add relief.",
+  "want_w": 30.0,
+  "want_h": 6.0,
+  "want_d": 30.0,
+  "tri_budget": 6000,
+  "tris_now": 684,
+  "size_now": [
+   30.0,
+   30.0,
+   6.0
+  ],
+  "note": "Low reefs and sea rocks"
+ },
+ {
+  "id": "CO03_06_reef_06",
+  "row": "CO03",
+  "worker": "vi",
+  "batch": "coast_set",
+  "category": "v5_coast",
+  "verdict": "MAJOR",
+  "defects": [
+   "camouflage dark patches",
+   "flat jumbled slabs, recolour of set"
+  ],
+  "fix": "Even recolour, 3D relief, differentiate from siblings.",
+  "want_w": 30.0,
+  "want_h": 6.0,
+  "want_d": 30.0,
+  "tri_budget": 6000,
+  "tris_now": 524,
+  "size_now": [
+   30.0,
+   30.0,
+   6.0
+  ],
+  "note": "Low reefs and sea rocks"
+ },
+ {
+  "id": "CO04_01_sea_arch_01",
+  "row": "CO04",
+  "worker": "vi",
+  "batch": "coast_set",
+  "category": "v5_coast",
+  "verdict": "MINOR",
+  "defects": [
+   "flat grey stone, little colour variation"
+  ],
+  "fix": "Add weathered stone tone variation; silhouette is good.",
+  "want_w": 70.0,
+  "want_h": 60.0,
+  "want_d": 30.0,
+  "tri_budget": 14000,
+  "tris_now": 876,
+  "size_now": [
+   70.0,
+   30.0,
+   60.0
+  ],
+  "note": "Sea arches"
+ },
+ {
+  "id": "CO04_02_sea_arch_02",
+  "row": "CO04",
+  "worker": "vi",
+  "batch": "coast_set",
+  "category": "v5_coast",
+  "verdict": "MINOR",
+  "defects": [
+   "flat grey, close to sea_arch_01"
+  ],
+  "fix": "Vary the arch profile from its sibling and add stone colour relief.",
+  "want_w": 70.0,
+  "want_h": 60.0,
+  "want_d": 30.0,
+  "tri_budget": 14000,
+  "tris_now": 876,
+  "size_now": [
+   70.0,
+   30.0,
+   60.0
+  ],
+  "note": "Sea arches"
+ },
+ {
+  "id": "CO05_01_ruin_islet_01",
+  "row": "CO05",
+  "worker": "vi",
+  "batch": "coast_set",
+  "category": "v5_coast",
+  "verdict": "MINOR",
+  "defects": [
+   "green grass platform meets rock with a hard flat edge",
+   "base rock slightly jumbled"
+  ],
+  "fix": "Blend the grass cap onto the rock with a sloped rim and tidy the base boulders.",
+  "want_w": 60.0,
+  "want_h": 40.0,
+  "want_d": 60.0,
+  "tri_budget": 16000,
+  "tris_now": 11264,
+  "size_now": [
+   60.0,
+   60.0,
+   40.0
+  ],
+  "note": "Small ruin islets"
+ },
+ {
+  "id": "CO05_02_ruin_islet_02",
+  "row": "CO05",
+  "worker": "vi",
+  "batch": "coast_set",
+  "category": "v5_coast",
+  "verdict": "MINOR",
+  "defects": [
+   "hard flat grass-on-rock seam",
+   "similar to islet_01"
+  ],
+  "fix": "Soften the grass rim and vary tower/tree arrangement.",
+  "want_w": 60.0,
+  "want_h": 40.0,
+  "want_d": 60.0,
+  "tri_budget": 16000,
+  "tris_now": 11192,
+  "size_now": [
+   60.0,
+   60.0,
+   43.38
+  ],
+  "note": "Small ruin islets"
+ },
+ {
+  "id": "CO05_03_ruin_islet_03",
+  "row": "CO05",
+  "worker": "vi",
+  "batch": "coast_set",
+  "category": "v5_coast",
+  "verdict": "MAJOR",
+  "defects": [
+   "blocky tan/yellow colour patches on the base rock read as camouflage blotches",
+   "hard grass seam"
+  ],
+  "fix": "Remove the square sand-coloured patches, use coherent rock colour, and blend the grass cap.",
+  "want_w": 60.0,
+  "want_h": 40.0,
+  "want_d": 60.0,
+  "tri_budget": 16000,
+  "tris_now": 11192,
+  "size_now": [
+   60.0,
+   60.0,
+   39.33
+  ],
+  "note": "Small ruin islets"
+ },
+ {
+  "id": "RD01_02_watchtower_02",
+  "row": "RD01",
+  "worker": "vi",
+  "batch": "road_life",
+  "category": "v5_roads",
+  "verdict": "MINOR",
+  "defects": [
+   "plain featureless box, open/hollow top",
+   "no roof or crenellation detail"
+  ],
+  "fix": "Cap the open top and add a simple roof or crenellation so it does not read as a bare box.",
+  "want_w": 20.0,
+  "want_h": 50.0,
+  "want_d": 20.0,
+  "tri_budget": 11000,
+  "tris_now": 370,
+  "size_now": [
+   20.0,
+   20.0,
+   47.63
+  ],
+  "note": "Two intact and two ruined watchtowers"
+ },
+ {
+  "id": "RD01_04_watchtower_04",
+  "row": "RD01",
+  "worker": "vi",
+  "batch": "road_life",
+  "category": "v5_roads",
+  "verdict": "MINOR",
+  "defects": [
+   "plain box walls with floating broken-crenellation chunks on top"
+  ],
+  "fix": "Anchor the broken battlement pieces to the wall top so none appear detached, and add slight wall relief.",
+  "want_w": 20.0,
+  "want_h": 50.0,
+  "want_d": 20.0,
+  "tri_budget": 11000,
+  "tris_now": 370,
+  "size_now": [
+   20.0,
+   20.0,
+   51.11
+  ],
+  "note": "Two intact and two ruined watchtowers"
+ },
+ {
+  "id": "RD02_01_camp_set_01",
+  "row": "RD02",
+  "worker": "vi",
+  "batch": "road_life",
+  "category": "v5_roads",
+  "verdict": "MINOR",
+  "defects": [
+   "identical geometry to RD02_02/03, only recolored (variety)"
+  ],
+  "fix": "Differentiate the three tents by shape (size, awning, flap) instead of colour only.",
+  "want_w": 16.0,
+  "want_h": 10.0,
+  "want_d": 14.0,
+  "tri_budget": 4000,
+  "tris_now": 108,
+  "size_now": [
+   16.0,
+   14.76,
+   9.04
+  ],
+  "note": "Tents x3, cooking rack, supply stack, bedroll"
+ },
+ {
+  "id": "RD02_02_camp_set_02",
+  "row": "RD02",
+  "worker": "vi",
+  "batch": "road_life",
+  "category": "v5_roads",
+  "verdict": "MINOR",
+  "defects": [
+   "recolor of RD02_01 (variety)"
+  ],
+  "fix": "Give it distinct geometry from the other tents, not just a red skin.",
+  "want_w": 16.0,
+  "want_h": 10.0,
+  "want_d": 14.0,
+  "tri_budget": 4000,
+  "tris_now": 108,
+  "size_now": [
+   16.0,
+   14.76,
+   10.04
+  ],
+  "note": "Tents x3, cooking rack, supply stack, bedroll"
+ },
+ {
+  "id": "RD02_03_camp_set_03",
+  "row": "RD02",
+  "worker": "vi",
+  "batch": "road_life",
+  "category": "v5_roads",
+  "verdict": "MINOR",
+  "defects": [
+   "recolor of RD02_01 (variety)"
+  ],
+  "fix": "Give it distinct geometry from the other tents, not just a blue skin.",
+  "want_w": 16.0,
+  "want_h": 10.0,
+  "want_d": 14.0,
+  "tri_budget": 4000,
+  "tris_now": 108,
+  "size_now": [
+   16.0,
+   14.76,
+   10.0
+  ],
+  "note": "Tents x3, cooking rack, supply stack, bedroll"
+ },
+ {
+  "id": "RD02_06_camp_set_06",
+  "row": "RD02",
+  "worker": "vi",
+  "batch": "road_life",
+  "category": "v5_roads",
+  "verdict": "MINOR",
+  "defects": [
+   "dark gap/hole at bottom-front of the barrel"
+  ],
+  "fix": "Close the end cap so there is no see-through black gap at the barrel foot.",
+  "want_w": 16.0,
+  "want_h": 10.0,
+  "want_d": 14.0,
+  "tri_budget": 4000,
+  "tris_now": 152,
+  "size_now": [
+   16.0,
+   14.0,
+   10.0
+  ],
+  "note": "Tents x3, cooking rack, supply stack, bedroll"
+ },
+ {
+  "id": "RD05_01_battlefield_prop_01",
+  "row": "RD05",
+  "worker": "vi",
+  "batch": "road_life",
+  "category": "v5_roads",
+  "verdict": "MAJOR",
+  "defects": [
+   "unreadable silhouette",
+   "jumble of brown planks/wheel, no clear object",
+   "parts look detached/clipping"
+  ],
+  "fix": "Rebuild as a clearly readable prop (broken cart or barricade) with connected parts and a recognisable shape.",
+  "want_w": 14.0,
+  "want_h": 10.0,
+  "want_d": 10.0,
+  "tri_budget": 3000,
+  "tris_now": 192,
+  "size_now": [
+   14.0,
+   10.0,
+   10.0
+  ],
+  "note": "Broken ballista, cart, banner, spear rack, shield pile"
+ },
+ {
+  "id": "RD05_02_battlefield_prop_02",
+  "row": "RD05",
+  "worker": "vi",
+  "batch": "road_life",
+  "category": "v5_roads",
+  "verdict": "MAJOR",
+  "defects": [
+   "silhouette does not read as anything",
+   "flat plank balanced on a rock/disc"
+  ],
+  "fix": "Redesign into an identifiable battlefield item (overturned table, broken shield stack) that reads at 30-60 studs.",
+  "want_w": 14.0,
+  "want_h": 10.0,
+  "want_d": 10.0,
+  "tri_budget": 3000,
+  "tris_now": 192,
+  "size_now": [
+   14.0,
+   10.0,
+   10.0
+  ],
+  "note": "Broken ballista, cart, banner, spear rack, shield pile"
+ },
+ {
+  "id": "RD05_03_battlefield_prop_03",
+  "row": "RD05",
+  "worker": "vi",
+  "batch": "road_life",
+  "category": "v5_roads",
+  "verdict": "MAJOR",
+  "defects": [
+   "flat red slab on thin runners, unreadable",
+   "no believable object"
+  ],
+  "fix": "Rebuild as a recognisable fallen banner or sledge with volume, not a single flat slab.",
+  "want_w": 14.0,
+  "want_h": 10.0,
+  "want_d": 10.0,
+  "tri_budget": 3000,
+  "tris_now": 100,
+  "size_now": [
+   14.0,
+   10.0,
+   10.66
+  ],
+  "note": "Broken ballista, cart, banner, spear rack, shield pile"
+ },
+ {
+  "id": "RD05_04_battlefield_prop_04",
+  "row": "RD05",
+  "worker": "vi",
+  "batch": "road_life",
+  "category": "v5_roads",
+  "verdict": "MINOR",
+  "defects": [
+   "reads as a spiked barricade but crude/boxy"
+  ],
+  "fix": "Vary spike angles and add a base rail so it reads clearly as a cheval-de-frise.",
+  "want_w": 14.0,
+  "want_h": 10.0,
+  "want_d": 10.0,
+  "tri_budget": 3000,
+  "tris_now": 232,
+  "size_now": [
+   14.0,
+   10.0,
+   10.0
+  ],
+  "note": "Broken ballista, cart, banner, spear rack, shield pile"
+ },
+ {
+  "id": "RD05_05_battlefield_prop_05",
+  "row": "RD05",
+  "worker": "vi",
+  "batch": "road_life",
+  "category": "v5_roads",
+  "verdict": "REDO",
+  "defects": [
+   "detached floating red and blue disc parts",
+   "exploded, not assembled",
+   "no coherent object"
+  ],
+  "fix": "Rebuild from scratch as a single connected prop; the current parts float apart and read as broken.",
+  "want_w": 14.0,
+  "want_h": 10.0,
+  "want_d": 10.0,
+  "tri_budget": 3000,
+  "tris_now": 572,
+  "size_now": [
+   14.0,
+   10.0,
+   10.0
+  ],
+  "note": "Broken ballista, cart, banner, spear rack, shield pile"
+ },
+ {
+  "id": "RD06_01_abandoned_house_01",
+  "row": "RD06",
+  "worker": "vi",
+  "batch": "road_life",
+  "category": "v5_roads",
+  "verdict": "MAJOR",
+  "defects": [
+   "large flat grey slab wall with no detail",
+   "chimney/parts appear detached",
+   "collapse reads as a defect not ruin"
+  ],
+  "fix": "Replace the blank grey slab with a broken half-timber wall, anchor the chimney, and make the collapse intentional.",
+  "want_w": 22.0,
+  "want_h": 20.0,
+  "want_d": 20.0,
+  "tri_budget": 9000,
+  "tris_now": 772,
+  "size_now": [
+   22.0,
+   20.0,
+   20.0
+  ],
+  "note": "Collapsed or burnt houses"
+ },
+ {
+  "id": "RD06_03_abandoned_house_03",
+  "row": "RD06",
+  "worker": "vi",
+  "batch": "road_life",
+  "category": "v5_roads",
+  "verdict": "MAJOR",
+  "defects": [
+   "huge blank dark slab dominates",
+   "silhouette unreadable as a house",
+   "flat untextured faces"
+  ],
+  "fix": "Rebuild the fallen wall as a ruined timber-framed panel with debris; remove the featureless slab.",
+  "want_w": 22.0,
+  "want_h": 20.0,
+  "want_d": 20.0,
+  "tri_budget": 9000,
+  "tris_now": 772,
+  "size_now": [
+   22.6,
+   21.7,
+   20.0
+  ],
+  "note": "Collapsed or burnt houses"
+ },
+ {
+  "id": "RD06_05_abandoned_house_05",
+  "row": "RD06",
+  "worker": "vi",
+  "batch": "road_life",
+  "category": "v5_roads",
+  "verdict": "MAJOR",
+  "defects": [
+   "blank flat grey slab wall",
+   "no house relief",
+   "collapse looks broken not designed"
+  ],
+  "fix": "Give the standing wall half-timber relief and windows; make the rubble read as deliberate ruin.",
+  "want_w": 22.0,
+  "want_h": 20.0,
+  "want_d": 20.0,
+  "tri_budget": 9000,
+  "tris_now": 772,
+  "size_now": [
+   22.19,
+   20.0,
+   20.0
+  ],
+  "note": "Collapsed or burnt houses"
+ },
+ {
+  "id": "VG01_02_tree_tall_narrow_02",
+  "row": "VG01",
+  "worker": "vf",
+  "batch": "trees",
+  "category": "v5_forest",
+  "verdict": "OK",
+  "defects": [
+   "near-identical to tree_tall_narrow_01"
+  ],
+  "fix": "Vary the foliage silhouette so 01 and 02 are not recolour-identical.",
+  "want_w": 14.0,
+  "want_h": 46.0,
+  "want_d": 14.0,
+  "tri_budget": 9000,
+  "tris_now": 2084,
+  "size_now": [
+   14.0,
+   14.0,
+   44.68
+  ],
+  "note": "Poplar and beech, narrow crown"
+ },
+ {
+  "id": "VG03_01_tree_flowering_01",
+  "row": "VG03",
+  "worker": "vf",
+  "batch": "trees",
+  "category": "v5_forest",
+  "verdict": "MINOR",
+  "defects": [
+   "pink blossom and green foliage sit as separate blotchy patches rather than blended blossom",
+   "reads as two colours slapped on"
+  ],
+  "fix": "Intermix smaller pink blossom clumps through the green canopy so the blossom reads natural, not patchy.",
+  "want_w": 22.0,
+  "want_h": 30.0,
+  "want_d": 22.0,
+  "tri_budget": 12000,
+  "tris_now": 2832,
+  "size_now": [
+   20.04,
+   23.51,
+   30.0
+  ],
+  "note": "Flowering trees"
+ },
+ {
+  "id": "VG03_02_tree_flowering_02",
+  "row": "VG03",
+  "worker": "vf",
+  "batch": "trees",
+  "category": "v5_forest",
+  "verdict": "MINOR",
+  "defects": [
+   "same patchy pink-on-green blotching as flowering_01"
+  ],
+  "fix": "Blend the pink blossom clusters into the canopy rather than large flat patches.",
+  "want_w": 22.0,
+  "want_h": 30.0,
+  "want_d": 22.0,
+  "tri_budget": 12000,
+  "tris_now": 2832,
+  "size_now": [
+   22.76,
+   22.01,
+   32.23
+  ],
+  "note": "Flowering trees"
+ },
+ {
+  "id": "VG04_01_tree_birch_01",
+  "row": "VG04",
+  "worker": "vg",
+  "batch": "forest_set",
+  "category": "v5_forest",
+  "verdict": "MAJOR",
+  "defects": [
+   "canopy covered in flat yellow blotches, reads diseased not birch",
+   "splayed flat-white trunk looks like an open cone, not bark"
+  ],
+  "fix": "Use a slim upright white-bark trunk with dark lenticel marks and a predominantly green canopy with light accents, not large yellow patches.",
+  "want_w": 14.0,
+  "want_h": 34.0,
+  "want_d": 14.0,
+  "tri_budget": 8000,
+  "tris_now": 2168,
+  "size_now": [
+   14.53,
+   15.11,
+   35.63
+  ],
+  "note": "Birch"
+ },
+ {
+  "id": "VG04_02_tree_birch_02",
+  "row": "VG04",
+  "worker": "vg",
+  "batch": "forest_set",
+  "category": "v5_forest",
+  "verdict": "MAJOR",
+  "defects": [
+   "same yellow-blotch canopy and splayed cone trunk as 01"
+  ],
+  "fix": "Rebuild trunk as a thin upright birch bole and reduce yellow to subtle autumn accents.",
+  "want_w": 14.0,
+  "want_h": 34.0,
+  "want_d": 14.0,
+  "tri_budget": 8000,
+  "tris_now": 2168,
+  "size_now": [
+   14.0,
+   14.0,
+   36.42
+  ],
+  "note": "Birch"
+ },
+ {
+  "id": "VG04_03_tree_birch_03",
+  "row": "VG04",
+  "worker": "vg",
+  "batch": "forest_set",
+  "category": "v5_forest",
+  "verdict": "MAJOR",
+  "defects": [
+   "clone of 01/02 with same trunk and blotch defects"
+  ],
+  "fix": "Fix the trunk and canopy as above and vary the shape from its siblings.",
+  "want_w": 14.0,
+  "want_h": 34.0,
+  "want_d": 14.0,
+  "tri_budget": 8000,
+  "tris_now": 2168,
+  "size_now": [
+   14.0,
+   14.0,
+   36.18
+  ],
+  "note": "Birch"
+ },
+ {
+  "id": "VG05_02_tree_cypress_swamp_02",
+  "row": "VG05",
+  "worker": "vg",
+  "batch": "marsh_set",
+  "category": "v5_forest",
+  "verdict": "MINOR",
+  "defects": [
+   "near-recolour of VG05_01"
+  ],
+  "fix": "Vary canopy mass and root spread.",
+  "want_w": 22.0,
+  "want_h": 38.0,
+  "want_d": 22.0,
+  "tri_budget": 11000,
+  "tris_now": 1852,
+  "size_now": [
+   23.31,
+   22.92,
+   41.13
+  ],
+  "note": "Swamp cypress for marshland"
+ },
+ {
+  "id": "VG05_03_tree_cypress_swamp_03",
+  "row": "VG05",
+  "worker": "vg",
+  "batch": "marsh_set",
+  "category": "v5_forest",
+  "verdict": "MINOR",
+  "defects": [
+   "near-clone of VG05_01/02"
+  ],
+  "fix": "Differentiate canopy silhouette and trunk from siblings.",
+  "want_w": 22.0,
+  "want_h": 38.0,
+  "want_d": 22.0,
+  "tri_budget": 11000,
+  "tris_now": 1852,
+  "size_now": [
+   23.35,
+   22.21,
+   41.59
+  ],
+  "note": "Swamp cypress for marshland"
+ },
+ {
+  "id": "VG06_01_marsh_hummock_01",
+  "row": "VG06",
+  "worker": "vg",
+  "batch": "marsh_set",
+  "category": "v5_forest",
+  "verdict": "MINOR",
+  "defects": [
+   "single flat green faceted slab mound with no relief or detail",
+   "no texture of marsh grass/moss"
+  ],
+  "fix": "Add tufts, mud rim and height variation so it reads as a marsh hummock, not a flat green shard.",
+  "want_w": 16.0,
+  "want_h": 6.0,
+  "want_d": 16.0,
+  "tri_budget": 3000,
+  "tris_now": 396,
+  "size_now": [
+   16.0,
+   16.0,
+   6.0
+  ],
+  "note": "Grass hummocks"
+ },
+ {
+  "id": "VG06_02_marsh_hummock_02",
+  "row": "VG06",
+  "worker": "vg",
+  "batch": "marsh_set",
+  "category": "v5_forest",
+  "verdict": "MINOR",
+  "defects": [
+   "near-duplicate of 01; flat untextured green"
+  ],
+  "fix": "Vary the shape and add detail/mud edge.",
+  "want_w": 16.0,
+  "want_h": 6.0,
+  "want_d": 16.0,
+  "tri_budget": 3000,
+  "tris_now": 396,
+  "size_now": [
+   16.0,
+   16.0,
+   6.0
+  ],
+  "note": "Grass hummocks"
+ },
+ {
+  "id": "TW01_01_town1_hero_statue",
+  "row": "TW01",
+  "worker": "ve",
+  "batch": "town1",
+  "category": "v5_town1",
+  "verdict": "MINOR",
+  "defects": [
+   "face is crude flat-boxy",
+   "staff reads thin"
+  ],
+  "fix": "Add simple carved robe folds and a thicker staff so it reads as a hero statue up close.",
+  "want_w": 14.0,
+  "want_h": 40.0,
+  "want_d": 14.0,
+  "tri_budget": 16000,
+  "tris_now": 1314,
+  "size_now": [
+   14.0,
+   14.0,
+   37.55
+  ],
+  "note": "Statue with a real face for the plaza"
+ },
+ {
+  "id": "TW02_06_street_life_06",
+  "row": "TW02",
+  "worker": "ve",
+  "batch": "town1",
+  "category": "v5_town1",
+  "verdict": "MINOR",
+  "defects": [
+   "bracket+gong reads ambiguous as a street prop",
+   "cylinder on ground looks detached"
+  ],
+  "fix": "Ground the fallen log/bell and clarify what the prop is; thicken the mount.",
+  "want_w": 12.0,
+  "want_h": 10.0,
+  "want_d": 10.0,
+  "tri_budget": 3000,
+  "tris_now": 184,
+  "size_now": [
+   12.0,
+   10.0,
+   10.0
+  ],
+  "note": "Carts x2, crate stacks x2, barrel stack, hanging signs x2, bench"
+ },
+ {
+  "id": "RV01_01_bank_rock_01",
+  "row": "RV01",
+  "worker": "vi",
+  "batch": "road_life",
+  "category": "v5_roads",
+  "verdict": "MINOR",
+  "defects": [
+   "near-monochrome flat grey, little colour",
+   "reads as default grey rock"
+  ],
+  "fix": "Add subtle earth/moss colour variation so it does not read as a grey default blockout.",
+  "want_w": 30.0,
+  "want_h": 10.0,
+  "want_d": 20.0,
+  "tri_budget": 5000,
+  "tris_now": 576,
+  "size_now": [
+   30.0,
+   20.0,
+   10.0
+  ],
+  "note": "Bank rocks for lakes and rivers"
+ },
+ {
+  "id": "RV01_02_bank_rock_02",
+  "row": "RV01",
+  "worker": "vi",
+  "batch": "road_life",
+  "category": "v5_roads",
+  "verdict": "MINOR",
+  "defects": [
+   "flat grey, same style as siblings (variety/colour)"
+  ],
+  "fix": "Vary tone and add a touch of moss/soil; differentiate shape from RV01_01.",
+  "want_w": 30.0,
+  "want_h": 10.0,
+  "want_d": 20.0,
+  "tri_budget": 5000,
+  "tris_now": 576,
+  "size_now": [
+   30.0,
+   20.0,
+   10.0
+  ],
+  "note": "Bank rocks for lakes and rivers"
+ },
+ {
+  "id": "RV01_03_bank_rock_03",
+  "row": "RV01",
+  "worker": "vi",
+  "batch": "road_life",
+  "category": "v5_roads",
+  "verdict": "MINOR",
+  "defects": [
+   "flat grey monochrome, little relief colour"
+  ],
+  "fix": "Introduce colour variation and avoid the uniform grey default look.",
+  "want_w": 30.0,
+  "want_h": 10.0,
+  "want_d": 20.0,
+  "tri_budget": 5000,
+  "tris_now": 576,
+  "size_now": [
+   30.0,
+   20.0,
+   10.0
+  ],
+  "note": "Bank rocks for lakes and rivers"
+ },
+ {
+  "id": "RV01_04_bank_rock_04",
+  "row": "RV01",
+  "worker": "vi",
+  "batch": "road_life",
+  "category": "v5_roads",
+  "verdict": "MINOR",
+  "defects": [
+   "flat grey, reads like a recolor-less sibling"
+  ],
+  "fix": "Add colour/tone variation and distinguish silhouette from the other bank rocks.",
+  "want_w": 30.0,
+  "want_h": 10.0,
+  "want_d": 20.0,
+  "tri_budget": 5000,
+  "tris_now": 576,
+  "size_now": [
+   30.0,
+   20.0,
+   10.0
+  ],
+  "note": "Bank rocks for lakes and rivers"
+ },
+ {
+  "id": "VC01_07_volcanic_rock_07",
+  "row": "VC01",
+  "worker": "vh",
+  "batch": "skull_set",
+  "category": "v5_skull",
+  "verdict": "MINOR",
+  "defects": [
+   "tiny stray block floating at bottom-right"
+  ],
+  "fix": "Remove the small detached fragment near the base.",
+  "want_w": 60.0,
+  "want_h": 60.0,
+  "want_d": 50.0,
+  "tri_budget": 12000,
+  "tris_now": 2412,
+  "size_now": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "note": "Dark volcanic rock formations (basalt colours; lava veins are terrain paint)"
+ },
+ {
+  "id": "VC01_08_volcanic_rock_08",
+  "row": "VC01",
+  "worker": "vh",
+  "batch": "skull_set",
+  "category": "v5_skull",
+  "verdict": "MINOR",
+  "defects": [
+   "small stray fragment at base",
+   "set of 8 feel like close variants"
+  ],
+  "fix": "Remove the loose fragment; vary spire arrangement across the set.",
+  "want_w": 60.0,
+  "want_h": 60.0,
+  "want_d": 50.0,
+  "tri_budget": 12000,
+  "tris_now": 2512,
+  "size_now": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "note": "Dark volcanic rock formations (basalt colours; lava veins are terrain paint)"
+ },
+ {
+  "id": "VC02_01_skull_cliff_hero_01",
+  "row": "VC02",
+  "worker": "vf",
+  "batch": "skull",
+  "category": "v5_skull",
+  "verdict": "MINOR",
+  "defects": [
+   "white skull sits in front of a thin stacked-slab cliff; slabs read as stacked paper",
+   "skull jaw/teeth block floats slightly below"
+  ],
+  "fix": "Make the cliff chunky faceted dark rock rather than thin stacked plates and seat the jaw flush to the skull.",
+  "want_w": 200.0,
+  "want_h": 120.0,
+  "want_d": 120.0,
+  "tri_budget": 55000,
+  "tris_now": 6632,
+  "size_now": [
+   218.16,
+   120.0,
+   118.52
+  ],
+  "note": "Giant skull carved into a dark cliff, the Skull City landmark (own design)"
+ },
+ {
+  "id": "VC02_02_skull_cliff_hero_02",
+  "row": "VC02",
+  "worker": "vf",
+  "batch": "skull",
+  "category": "v5_skull",
+  "verdict": "MINOR",
+  "defects": [
+   "horned skull version, same thin stacked-slab cliff issue",
+   "near recolour/variant of 01"
+  ],
+  "fix": "Differentiate from 01 and rebuild the slab cliff as solid faceted rock.",
+  "want_w": 200.0,
+  "want_h": 120.0,
+  "want_d": 120.0,
+  "tri_budget": 55000,
+  "tris_now": 7464,
+  "size_now": [
+   212.77,
+   120.0,
+   120.0
+  ],
+  "note": "Giant skull carved into a dark cliff, the Skull City landmark (own design)"
+ },
+ {
+  "id": "VC03_01_dark_fort_ruin_01",
+  "row": "VC03",
+  "worker": "vh",
+  "batch": "skull_set",
+  "category": "v5_skull",
+  "verdict": "MINOR",
+  "defects": [
+   "a few loose detached blocks/poles at the base"
+  ],
+  "fix": "Seat or remove the stray fragments lying at the foot of the walls.",
+  "want_w": 60.0,
+  "want_h": 50.0,
+  "want_d": 50.0,
+  "tri_budget": 16000,
+  "tris_now": 5840,
+  "size_now": [
+   60.0,
+   50.0,
+   45.81
+  ],
+  "note": "Dark fort ruins"
+ },
+ {
+  "id": "VC03_03_dark_fort_ruin_03",
+  "row": "VC03",
+  "worker": "vh",
+  "batch": "skull_set",
+  "category": "v5_skull",
+  "verdict": "MINOR",
+  "defects": [
+   "small detached bits at base"
+  ],
+  "fix": "Clean up loose ground fragments.",
+  "want_w": 60.0,
+  "want_h": 50.0,
+  "want_d": 50.0,
+  "tri_budget": 16000,
+  "tris_now": 5840,
+  "size_now": [
+   60.0,
+   50.0,
+   50.0
+  ],
+  "note": "Dark fort ruins"
+ },
+ {
+  "id": "VC04_01_skull_city_building_01",
+  "row": "VC04",
+  "worker": "vh",
+  "batch": "skull_set",
+  "category": "v5_skull",
+  "verdict": "REDO",
+  "defects": [
+   "hollow open grey box, not a building",
+   "detached wooden poles float above it",
+   "no roof, no facade, no identity"
+  ],
+  "fix": "Rebuild as a recognisable ruined building with walls, an opening and seated/attached timber beams instead of a hollow box with floating poles.",
+  "want_w": 30.0,
+  "want_h": 30.0,
+  "want_d": 30.0,
+  "tri_budget": 11000,
+  "tris_now": 332,
+  "size_now": [
+   30.0,
+   30.0,
+   30.0
+  ],
+  "note": "Ruined dark-stone houses and halls for the forbidden city"
+ },
+ {
+  "id": "VC04_02_skull_city_building_02",
+  "row": "VC04",
+  "worker": "vh",
+  "batch": "skull_set",
+  "category": "v5_skull",
+  "verdict": "REDO",
+  "defects": [
+   "open hollow box",
+   "floating detached poles",
+   "unreadable"
+  ],
+  "fix": "Rebuild as an identifiable structure with attached beams.",
+  "want_w": 30.0,
+  "want_h": 30.0,
+  "want_d": 30.0,
+  "tri_budget": 11000,
+  "tris_now": 332,
+  "size_now": [
+   30.0,
+   30.0,
+   30.0
+  ],
+  "note": "Ruined dark-stone houses and halls for the forbidden city"
+ },
+ {
+  "id": "VC04_03_skull_city_building_03",
+  "row": "VC04",
+  "worker": "vh",
+  "batch": "skull_set",
+  "category": "v5_skull",
+  "verdict": "MAJOR",
+  "defects": [
+   "mostly a hollow box but has a broken tower",
+   "poles float detached above"
+  ],
+  "fix": "Attach the timber beams to the structure and close/define the box into a readable ruined building.",
+  "want_w": 30.0,
+  "want_h": 30.0,
+  "want_d": 30.0,
+  "tri_budget": 11000,
+  "tris_now": 1116,
+  "size_now": [
+   31.8,
+   30.0,
+   30.0
+  ],
+  "note": "Ruined dark-stone houses and halls for the forbidden city"
+ },
+ {
+  "id": "VC04_04_skull_city_building_04",
+  "row": "VC04",
+  "worker": "vh",
+  "batch": "skull_set",
+  "category": "v5_skull",
+  "verdict": "REDO",
+  "defects": [
+   "hollow open box",
+   "floating detached poles",
+   "no identity"
+  ],
+  "fix": "Rebuild as a recognisable building with attached beams.",
+  "want_w": 30.0,
+  "want_h": 30.0,
+  "want_d": 30.0,
+  "tri_budget": 11000,
+  "tris_now": 332,
+  "size_now": [
+   30.0,
+   30.0,
+   30.0
+  ],
+  "note": "Ruined dark-stone houses and halls for the forbidden city"
+ },
+ {
+  "id": "VC04_05_skull_city_building_05",
+  "row": "VC04",
+  "worker": "vh",
+  "batch": "skull_set",
+  "category": "v5_skull",
+  "verdict": "REDO",
+  "defects": [
+   "hollow open box",
+   "floating detached poles"
+  ],
+  "fix": "Rebuild into an identifiable structure; attach the beams.",
+  "want_w": 30.0,
+  "want_h": 30.0,
+  "want_d": 30.0,
+  "tri_budget": 11000,
+  "tris_now": 332,
+  "size_now": [
+   30.0,
+   30.0,
+   30.0
+  ],
+  "note": "Ruined dark-stone houses and halls for the forbidden city"
+ },
+ {
+  "id": "VC04_06_skull_city_building_06",
+  "row": "VC04",
+  "worker": "vh",
+  "batch": "skull_set",
+  "category": "v5_skull",
+  "verdict": "MAJOR",
+  "defects": [
+   "hollow box with a broken tower stub",
+   "floating detached poles"
+  ],
+  "fix": "Attach beams and define the box into a readable ruined building.",
+  "want_w": 30.0,
+  "want_h": 30.0,
+  "want_d": 30.0,
+  "tri_budget": 11000,
+  "tris_now": 1116,
+  "size_now": [
+   32.92,
+   30.0,
+   30.0
+  ],
+  "note": "Ruined dark-stone houses and halls for the forbidden city"
+ },
+ {
+  "id": "FL01_01_floating_island_hero_01",
+  "row": "FL01",
+  "worker": "vi",
+  "batch": "sky",
+  "category": "v5_coast",
+  "verdict": "MINOR",
+  "defects": [
+   "underside is a stack of thin flat square plates, reads artificial close up",
+   "top layout near-identical to FL01_02/03 (variety)"
+  ],
+  "fix": "Reshape the underside into a tapering natural rock/root mass; vary the tower+tree arrangement between the three heroes.",
+  "want_w": 90.0,
+  "want_h": 60.0,
+  "want_d": 90.0,
+  "tri_budget": 30000,
+  "tris_now": 16804,
+  "size_now": [
+   90.0,
+   90.0,
+   60.0
+  ],
+  "note": "Floating islands with a ruin"
+ },
+ {
+  "id": "FL01_02_floating_island_hero_02",
+  "row": "FL01",
+  "worker": "vi",
+  "batch": "sky",
+  "category": "v5_coast",
+  "verdict": "MINOR",
+  "defects": [
+   "same stacked-plate underside",
+   "same ruined tower and tree layout as siblings"
+  ],
+  "fix": "Give it a distinct top composition and a less papery underside.",
+  "want_w": 90.0,
+  "want_h": 60.0,
+  "want_d": 90.0,
+  "tri_budget": 30000,
+  "tris_now": 16792,
+  "size_now": [
+   90.0,
+   90.0,
+   60.0
+  ],
+  "note": "Floating islands with a ruin"
+ },
+ {
+  "id": "FL01_03_floating_island_hero_03",
+  "row": "FL01",
+  "worker": "vi",
+  "batch": "sky",
+  "category": "v5_coast",
+  "verdict": "MINOR",
+  "defects": [
+   "stacked-plate underside",
+   "layout repeats FL01_01/02"
+  ],
+  "fix": "Differentiate the island shape and props from the other two heroes.",
+  "want_w": 90.0,
+  "want_h": 60.0,
+  "want_d": 90.0,
+  "tri_budget": 30000,
+  "tris_now": 16768,
+  "size_now": [
+   83.35,
+   90.0,
+   60.0
+  ],
+  "note": "Floating islands with a ruin"
+ },
+ {
+  "id": "SP01_01_snow_spire_cluster_01",
+  "row": "SP01",
+  "worker": "vg",
+  "batch": "highland_set",
+  "category": "v5_himalaya",
+  "verdict": "MAJOR",
+  "defects": [
+   "blocky black/grey/white square camouflage patches over the spire",
+   "very thin pencil-like spire reads as a pole, weak silhouette",
+   "base rocks look detached"
+  ],
+  "fix": "Replace the camo patches with coherent snow-over-grey-rock shading, thicken the spire taper, and seat the base rocks into the mass.",
+  "want_w": 60.0,
+  "want_h": 160.0,
+  "want_d": 60.0,
+  "tri_budget": 15000,
+  "tris_now": 1416,
+  "size_now": [
+   60.0,
+   60.0,
+   160.0
+  ],
+  "note": "Jagged snow-capped spires and ridgelines for the Frosthold massif (the concept map mountain)"
+ },
+ {
+  "id": "SP01_02_snow_spire_cluster_02",
+  "row": "SP01",
+  "worker": "vg",
+  "batch": "highland_set",
+  "category": "v5_himalaya",
+  "verdict": "MAJOR",
+  "defects": [
+   "identical camouflage-patch and thin-spire problem as 01"
+  ],
+  "fix": "Same fix as SP01_01; also vary silhouette so it is not a clone.",
+  "want_w": 60.0,
+  "want_h": 160.0,
+  "want_d": 60.0,
+  "tri_budget": 15000,
+  "tris_now": 1416,
+  "size_now": [
+   60.0,
+   60.0,
+   160.0
+  ],
+  "note": "Jagged snow-capped spires and ridgelines for the Frosthold massif (the concept map mountain)"
+ },
+ {
+  "id": "SP01_03_snow_spire_cluster_03",
+  "row": "SP01",
+  "worker": "vg",
+  "batch": "highland_set",
+  "category": "v5_himalaya",
+  "verdict": "MAJOR",
+  "defects": [
+   "camo patches, thin spire, clone of the set"
+  ],
+  "fix": "Recolour coherently, thicken, and differentiate shape.",
+  "want_w": 60.0,
+  "want_h": 160.0,
+  "want_d": 60.0,
+  "tri_budget": 15000,
+  "tris_now": 1416,
+  "size_now": [
+   60.0,
+   60.0,
+   160.0
+  ],
+  "note": "Jagged snow-capped spires and ridgelines for the Frosthold massif (the concept map mountain)"
+ },
+ {
+  "id": "SP01_04_snow_spire_cluster_04",
+  "row": "SP01",
+  "worker": "vg",
+  "batch": "highland_set",
+  "category": "v5_himalaya",
+  "verdict": "MAJOR",
+  "defects": [
+   "camo patches, thin spire, clone"
+  ],
+  "fix": "Recolour coherently, thicken, and differentiate shape.",
+  "want_w": 60.0,
+  "want_h": 160.0,
+  "want_d": 60.0,
+  "tri_budget": 15000,
+  "tris_now": 1416,
+  "size_now": [
+   60.0,
+   60.0,
+   160.0
+  ],
+  "note": "Jagged snow-capped spires and ridgelines for the Frosthold massif (the concept map mountain)"
+ },
+ {
+  "id": "SP01_05_snow_spire_cluster_05",
+  "row": "SP01",
+  "worker": "vg",
+  "batch": "highland_set",
+  "category": "v5_himalaya",
+  "verdict": "MAJOR",
+  "defects": [
+   "camo patches, thin spire, clone"
+  ],
+  "fix": "Recolour coherently, thicken, and differentiate shape.",
+  "want_w": 60.0,
+  "want_h": 160.0,
+  "want_d": 60.0,
+  "tri_budget": 15000,
+  "tris_now": 1416,
+  "size_now": [
+   60.0,
+   60.0,
+   160.0
+  ],
+  "note": "Jagged snow-capped spires and ridgelines for the Frosthold massif (the concept map mountain)"
+ },
+ {
+  "id": "SP01_06_snow_spire_cluster_06",
+  "row": "SP01",
+  "worker": "vg",
+  "batch": "highland_set",
+  "category": "v5_himalaya",
+  "verdict": "MAJOR",
+  "defects": [
+   "camo patches, thin spire, clone"
+  ],
+  "fix": "Recolour coherently, thicken, and differentiate shape.",
+  "want_w": 60.0,
+  "want_h": 160.0,
+  "want_d": 60.0,
+  "tri_budget": 15000,
+  "tris_now": 1416,
+  "size_now": [
+   60.0,
+   60.0,
+   160.0
+  ],
+  "note": "Jagged snow-capped spires and ridgelines for the Frosthold massif (the concept map mountain)"
+ },
+ {
+  "id": "SD01_04_red_mesa_cluster_04",
+  "row": "SD01",
+  "worker": "vh",
+  "batch": "desert_land",
+  "category": "v5_desert",
+  "verdict": "MAJOR",
+  "defects": [
+   "silhouette wrong: stacked flat slabs, not a broad flat-topped mesa",
+   "teetering pancake-tower look",
+   "thin flat debris planes at base"
+  ],
+  "fix": "Rebuild as a broad flat-topped butte with sloped sides and horizontal strata, wider than tall; remove the stacked-box tower shape.",
+  "want_w": 120.0,
+  "want_h": 90.0,
+  "want_d": 100.0,
+  "tri_budget": 16000,
+  "tris_now": 1368,
+  "size_now": [
+   120.0,
+   100.0,
+   90.0
+  ],
+  "note": "Orange-red mesa and butte clusters (the concept map desert)"
+ },
+ {
+  "id": "SD01_05_red_mesa_cluster_05",
+  "row": "SD01",
+  "worker": "vh",
+  "batch": "desert_land",
+  "category": "v5_desert",
+  "verdict": "MAJOR",
+  "defects": [
+   "reads as a stack of coins/slabs, not a mesa",
+   "narrow unstable silhouette",
+   "flat ground debris planes"
+  ],
+  "fix": "Reshape into one solid wide red rock mass with eroded flanks; keep the red/tan banding but lose the pancake stacking.",
+  "want_w": 120.0,
+  "want_h": 90.0,
+  "want_d": 100.0,
+  "tri_budget": 16000,
+  "tris_now": 1260,
+  "size_now": [
+   120.0,
+   100.0,
+   85.81
+  ],
+  "note": "Orange-red mesa and butte clusters (the concept map desert)"
+ },
+ {
+  "id": "SD01_06_red_mesa_cluster_06",
+  "row": "SD01",
+  "worker": "vh",
+  "batch": "desert_land",
+  "category": "v5_desert",
+  "verdict": "MAJOR",
+  "defects": [
+   "slab-stack tower not a mesa",
+   "flat clipping debris planes around base"
+  ],
+  "fix": "Rebuild as a broad buttressed mesa form; replace flat base planes with chunky fallen rocks.",
+  "want_w": 120.0,
+  "want_h": 90.0,
+  "want_d": 100.0,
+  "tri_budget": 16000,
+  "tris_now": 1416,
+  "size_now": [
+   120.0,
+   100.0,
+   85.03
+  ],
+  "note": "Orange-red mesa and butte clusters (the concept map desert)"
+ },
+ {
+  "id": "SD02_01_desert_ruin_block_01",
+  "row": "SD02",
+  "worker": "vh",
+  "batch": "desert_land",
+  "category": "v5_desert",
+  "verdict": "MINOR",
+  "defects": [
+   "thin flat debris planes jutting from base",
+   "slight variety overlap with siblings"
+  ],
+  "fix": "Replace the flat ground slabs with small 3D rubble chunks.",
+  "want_w": 40.0,
+  "want_h": 30.0,
+  "want_d": 40.0,
+  "tri_budget": 10000,
+  "tris_now": 1480,
+  "size_now": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "note": "Sand-worn ruined city blocks around the ring temple"
+ },
+ {
+  "id": "SD02_02_desert_ruin_block_02",
+  "row": "SD02",
+  "worker": "vh",
+  "batch": "desert_land",
+  "category": "v5_desert",
+  "verdict": "MINOR",
+  "defects": [
+   "flat debris planes at base",
+   "similar massing to other SD02 blocks"
+  ],
+  "fix": "Swap flat base planes for volumetric rubble and vary the broken-wall skyline.",
+  "want_w": 40.0,
+  "want_h": 30.0,
+  "want_d": 40.0,
+  "tri_budget": 10000,
+  "tris_now": 1724,
+  "size_now": [
+   40.0,
+   43.77,
+   30.0
+  ],
+  "note": "Sand-worn ruined city blocks around the ring temple"
+ },
+ {
+  "id": "SD02_04_desert_ruin_block_04",
+  "row": "SD02",
+  "worker": "vh",
+  "batch": "desert_land",
+  "category": "v5_desert",
+  "verdict": "MINOR",
+  "defects": [
+   "flat debris planes at base",
+   "reads as recolour/remix of SD02_01"
+  ],
+  "fix": "Give it a distinct broken silhouette and 3D rubble instead of flat slabs.",
+  "want_w": 40.0,
+  "want_h": 30.0,
+  "want_d": 40.0,
+  "tri_budget": 10000,
+  "tris_now": 1480,
+  "size_now": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "note": "Sand-worn ruined city blocks around the ring temple"
+ },
+ {
+  "id": "SD02_05_desert_ruin_block_05",
+  "row": "SD02",
+  "worker": "vh",
+  "batch": "desert_land",
+  "category": "v5_desert",
+  "verdict": "MINOR",
+  "defects": [
+   "thin flat base planes",
+   "variety overlap with siblings"
+  ],
+  "fix": "Vary massing and replace flat ground planes with chunky debris.",
+  "want_w": 40.0,
+  "want_h": 30.0,
+  "want_d": 40.0,
+  "tri_budget": 10000,
+  "tris_now": 1688,
+  "size_now": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "note": "Sand-worn ruined city blocks around the ring temple"
+ },
+ {
+  "id": "SD02_06_desert_ruin_block_06",
+  "row": "SD02",
+  "worker": "vh",
+  "batch": "desert_land",
+  "category": "v5_desert",
+  "verdict": "MINOR",
+  "defects": [
+   "flat debris planes jutting at base"
+  ],
+  "fix": "Replace flat slabs with small solid rubble blocks.",
+  "want_w": 40.0,
+  "want_h": 30.0,
+  "want_d": 40.0,
+  "tri_budget": 10000,
+  "tris_now": 1968,
+  "size_now": [
+   41.51,
+   40.0,
+   30.0
+  ],
+  "note": "Sand-worn ruined city blocks around the ring temple"
+ },
+ {
+  "id": "BR01_01_viaduct_bridge_01",
+  "row": "BR01",
+  "worker": "vi",
+  "batch": "road_life",
+  "category": "v5_roads",
+  "verdict": "MINOR",
+  "defects": [
+   "dark/inverted patches visible in the arch spandrels under the deck"
+  ],
+  "fix": "Check face normals under the arches; fill the spandrels so no black inverted faces show.",
+  "want_w": 160.0,
+  "want_h": 40.0,
+  "want_d": 20.0,
+  "tri_budget": 24000,
+  "tris_now": 3680,
+  "size_now": [
+   167.0,
+   20.0,
+   40.0
+  ],
+  "note": "Multi-arch stone viaduct across a valley (the long central bridge on the concept map)"
+ },
+ {
+  "id": "BR01_02_viaduct_bridge_02",
+  "row": "BR01",
+  "worker": "vi",
+  "batch": "road_life",
+  "category": "v5_roads",
+  "verdict": "MAJOR",
+  "defects": [
+   "black inverted faces under the arches",
+   "unexplained grey slab block sitting on the deck midway"
+  ],
+  "fix": "Fix the inverted arch faces and remove or justify the grey block on the deck; it reads as a stray/clipping part.",
+  "want_w": 160.0,
+  "want_h": 40.0,
+  "want_d": 20.0,
+  "tri_budget": 24000,
+  "tris_now": 3692,
+  "size_now": [
+   167.0,
+   20.0,
+   39.02
+  ],
+  "note": "Multi-arch stone viaduct across a valley (the long central bridge on the concept map)"
+ },
+ {
+  "id": "HB01_03_harbour_wall_tower_03",
+  "row": "HB01",
+  "worker": "vi",
+  "batch": "coast_set",
+  "category": "v5_coast",
+  "verdict": "MINOR",
+  "defects": [
+   "plain flat grey box, little relief",
+   "reads slightly bland/default"
+  ],
+  "fix": "Add stone colour/trim or corner detail so it is not a flat grey cube with two windows.",
+  "want_w": 24.0,
+  "want_h": 40.0,
+  "want_d": 24.0,
+  "tri_budget": 10000,
+  "tris_now": 336,
+  "size_now": [
+   24.0,
+   24.0,
+   39.6
+  ],
+  "note": "Towers for the walled port"
+ },
+ {
+  "id": "RW01_01_rework_existing_01",
+  "row": "RW01",
+  "worker": "vj",
+  "batch": "reworks",
+  "category": "v5_rework",
+  "verdict": "MAJOR",
+  "defects": [
+   "crude stack of offset coloured slabs",
+   "silhouette does not read as a clear structure",
+   "slabs look loosely piled/unstable"
+  ],
+  "fix": "Rebuild as a coherent tower/mesa with aligned, connected courses instead of randomly offset flat slabs.",
+  "want_w": 0.0,
+  "want_h": 0.0,
+  "want_d": 0.0,
+  "tri_budget": 0,
+  "tris_now": 1356,
+  "size_now": [
+   75.7,
+   70.3,
+   79.9
+  ],
+  "note": "R03_03 mesa (open lip top), F08_13 gate (thin dark seam), D01_02 and D01_04 treehouses (cut from 58k to 50k triangles)"
+ },
+ {
+  "id": "NE01_01_village_sign_01",
+  "row": "NE01",
+  "worker": "vc",
+  "batch": "signs",
+  "category": "v5_entrances",
+  "verdict": "MAJOR",
+  "defects": [
+   "does not read as a village sign: a grey slab with a row of pale cylinders and a small black flag",
+   "ambiguous silhouette, looks like an organ or crate, crude versus sibling signs"
+  ],
+  "fix": "rebuild as a clear notice board on a post with a legible board face, matching the NE01 sign set",
+  "want_w": 10.0,
+  "want_h": 18.0,
+  "want_d": 4.0,
+  "tri_budget": 6000,
+  "tris_now": 264,
+  "size_now": [
+   10.4,
+   3.82,
+   17.6
+  ],
+  "note": "One carved sign per settlement on a post or stone (Town 1, elf valley, alpine, rusty, harbour, desert village; the west village reuses the rusty sign set): the only marker at a natural entrance, no arch, no gate"
+ },
+ {
+  "id": "NE01_04_village_sign_04",
+  "row": "NE01",
+  "worker": "vc",
+  "batch": "signs",
+  "category": "v5_entrances",
+  "verdict": "MINOR",
+  "defects": [
+   "board sits on a plain tapered sand-coloured plinth that reads as a blank wedge"
+  ],
+  "fix": "slim the base to a post or add detail so the plinth does not dominate the sign",
+  "want_w": 10.0,
+  "want_h": 18.0,
+  "want_d": 4.0,
+  "tri_budget": 6000,
+  "tris_now": 240,
+  "size_now": [
+   8.67,
+   3.97,
+   17.6
+  ],
+  "note": "One carved sign per settlement on a post or stone (Town 1, elf valley, alpine, rusty, harbour, desert village; the west village reuses the rusty sign set): the only marker at a natural entrance, no arch, no gate"
+ },
+ {
+  "id": "NE02_01_entry_rock_pair_01",
+  "row": "NE02",
+  "worker": "vc",
+  "batch": "boulders",
+  "category": "v5_entrances",
+  "verdict": "MINOR",
+  "defects": [
+   "small stray green/flat patch at base"
+  ],
+  "fix": "remove the stray green vertex/face at the base; keep faceting",
+  "want_w": 30.0,
+  "want_h": 14.0,
+  "want_d": 22.0,
+  "tri_budget": 5000,
+  "tris_now": 576,
+  "size_now": [
+   31.0,
+   20.78,
+   14.6
+  ],
+  "note": "Large boulder pairs (mossy, frosted, sandstone, basalt) that frame a road where it meets a settlement"
+ },
+ {
+  "id": "NE02_02_entry_rock_pair_02",
+  "row": "NE02",
+  "worker": "vc",
+  "batch": "boulders",
+  "category": "v5_entrances",
+  "verdict": "MINOR",
+  "defects": [
+   "stray white flat patch on upper face"
+  ],
+  "fix": "delete the flat white sliver face on the top-right boulder",
+  "want_w": 30.0,
+  "want_h": 14.0,
+  "want_d": 22.0,
+  "tri_budget": 5000,
+  "tris_now": 576,
+  "size_now": [
+   31.0,
+   17.02,
+   14.6
+  ],
+  "note": "Large boulder pairs (mossy, frosted, sandstone, basalt) that frame a road where it meets a settlement"
+ },
+ {
+  "id": "NE02_04_entry_rock_pair_04",
+  "row": "NE02",
+  "worker": "vc",
+  "batch": "boulders",
+  "category": "v5_entrances",
+  "verdict": "MINOR",
+  "defects": [
+   "very dark near-black rock colour vs cream siblings"
+  ],
+  "fix": "lighten to a natural grey so it matches the other entry rocks",
+  "want_w": 30.0,
+  "want_h": 14.0,
+  "want_d": 22.0,
+  "tri_budget": 5000,
+  "tris_now": 696,
+  "size_now": [
+   31.0,
+   19.23,
+   14.6
+  ],
+  "note": "Large boulder pairs (mossy, frosted, sandstone, basalt) that frame a road where it meets a settlement"
+ },
+ {
+  "id": "EV01_01_elf_house_new_01",
+  "row": "EV01",
+  "worker": "ve",
+  "batch": "?",
+  "category": "v5_elf",
+  "verdict": "MINOR",
+  "defects": [
+   "stacked ring tiers at base look slightly offset/clipping",
+   "loose plank segments at ground"
+  ],
+  "fix": "Align the stacked base rings cleanly and seat the ground planks flush.",
+  "want_w": 26.0,
+  "want_h": 30.0,
+  "want_d": 26.0,
+  "tri_budget": 14000,
+  "tris_now": 4040,
+  "size_now": [
+   26.0,
+   26.0,
+   30.0
+  ],
+  "note": "Eight new elf house types so the valley stops repeating three round houses: tall tower house, bridge house, library, healer hut, archery lodge, bathhouse, council hall, weavers hall (wood and stone, warm lantern hooks, no glow)"
+ },
+ {
+  "id": "EV01_05_elf_house_new_05",
+  "row": "EV01",
+  "worker": "ve",
+  "batch": "?",
+  "category": "v5_elf",
+  "verdict": "MINOR",
+  "defects": [
+   "front is a big open dark round doorway with a see-through hollow interior behind the columns",
+   "reads as an open gazebo more than a house"
+  ],
+  "fix": "Close or shallow the interior behind the arch so there is no see-through gap; add a door/wall panel.",
+  "want_w": 26.0,
+  "want_h": 30.0,
+  "want_d": 26.0,
+  "tri_budget": 14000,
+  "tris_now": 1576,
+  "size_now": [
+   26.0,
+   27.2,
+   30.0
+  ],
+  "note": "Eight new elf house types so the valley stops repeating three round houses: tall tower house, bridge house, library, healer hut, archery lodge, bathhouse, council hall, weavers hall (wood and stone, warm lantern hooks, no glow)"
+ },
+ {
+  "id": "EV02_03_canopy_cluster_03",
+  "row": "EV02",
+  "worker": "ve",
+  "batch": "canopy_roots",
+  "category": "v5_elf",
+  "verdict": "OK",
+  "defects": [
+   "very similar to canopy_cluster_01, risks reading as a recolour"
+  ],
+  "fix": "Vary platform count/heights so the three canopy clusters are clearly distinct designs.",
+  "want_w": 70.0,
+  "want_h": 40.0,
+  "want_d": 70.0,
+  "tri_budget": 30000,
+  "tris_now": 6264,
+  "size_now": [
+   63.37,
+   70.0,
+   40.0
+  ],
+  "note": "Canopy village clusters: 3-4 platforms, rope bridges, small huts, ladders to the ground; for 90-140 studs up around the world tree"
+ },
+ {
+  "id": "EV03_03_elf_path_piece_03",
+  "row": "EV03",
+  "worker": "ve",
+  "batch": "elf_paths",
+  "category": "v5_elf",
+  "verdict": "MINOR",
+  "defects": [
+   "arched deck has an open gap/see-through underside between the ramp and the deck"
+  ],
+  "fix": "Fill the underside of the arched walkway so it is solid and tiles on the ground.",
+  "want_w": 20.0,
+  "want_h": 6.0,
+  "want_d": 20.0,
+  "tri_budget": 4000,
+  "tris_now": 528,
+  "size_now": [
+   21.5,
+   20.0,
+   6.0
+  ],
+  "note": "Root stairs, carved steps, stone-and-root bridge, garden arch, path posts, plaza paving ring"
+ },
+ {
+  "id": "EV03_04_elf_path_piece_04",
+  "row": "EV03",
+  "worker": "ve",
+  "batch": "elf_paths",
+  "category": "v5_elf",
+  "verdict": "MAJOR",
+  "defects": [
+   "stepped bridge planks look detached/floating with gaps between them",
+   "green mossy patches look like loose stuck-on blobs",
+   "would not tile cleanly"
+  ],
+  "fix": "Join the plank steps into a continuous solid deck seated on the ground and integrate the moss rather than floating blobs.",
+  "want_w": 20.0,
+  "want_h": 6.0,
+  "want_d": 20.0,
+  "tri_budget": 4000,
+  "tris_now": 1080,
+  "size_now": [
+   20.0,
+   20.0,
+   6.0
+  ],
+  "note": "Root stairs, carved steps, stone-and-root bridge, garden arch, path posts, plaza paving ring"
+ },
+ {
+  "id": "EV03_05_elf_path_piece_05",
+  "row": "EV03",
+  "worker": "ve",
+  "batch": "elf_paths",
+  "category": "v5_elf",
+  "verdict": "MAJOR",
+  "defects": [
+   "loose thin slab plates float with visible gaps and do not connect",
+   "reads as scattered debris, not a path"
+  ],
+  "fix": "Merge the slabs into one connected walkable path surface with no floating gaps.",
+  "want_w": 20.0,
+  "want_h": 6.0,
+  "want_d": 20.0,
+  "tri_budget": 4000,
+  "tris_now": 632,
+  "size_now": [
+   20.0,
+   20.0,
+   6.15
+  ],
+  "note": "Root stairs, carved steps, stone-and-root bridge, garden arch, path posts, plaza paving ring"
+ },
+ {
+  "id": "EV03_06_elf_path_piece_06",
+  "row": "EV03",
+  "worker": "ve",
+  "batch": "elf_paths",
+  "category": "v5_elf",
+  "verdict": "MINOR",
+  "defects": [
+   "flat ring planter, trees inside look placed a bit randomly"
+  ],
+  "fix": "Even out tree spacing inside the ring and add a lip so it reads as a planter.",
+  "want_w": 20.0,
+  "want_h": 6.0,
+  "want_d": 20.0,
+  "tri_budget": 4000,
+  "tris_now": 2520,
+  "size_now": [
+   20.0,
+   20.0,
+   6.0
+  ],
+  "note": "Root stairs, carved steps, stone-and-root bridge, garden arch, path posts, plaza paving ring"
+ },
+ {
+  "id": "TW03_01_skull_avenue_set_01",
+  "row": "TW03",
+  "worker": "ve",
+  "batch": "town1",
+  "category": "v5_town1",
+  "verdict": "MINOR",
+  "defects": [
+   "dark brazier bowl on a thin tripod reads generic, not skull-avenue themed"
+  ],
+  "fix": "Add a skull/gothic motif to tie it to the avenue set and thicken the legs.",
+  "want_w": 14.0,
+  "want_h": 14.0,
+  "want_d": 14.0,
+  "tri_budget": 5000,
+  "tris_now": 268,
+  "size_now": [
+   14.0,
+   14.0,
+   14.0
+  ],
+  "note": "Braziers x2 and banner poles x2 for the avenue from the skull HQ apron to the plaza"
+ },
+ {
+  "id": "TW03_04_skull_avenue_set_04",
+  "row": "TW03",
+  "worker": "ve",
+  "batch": "town1",
+  "category": "v5_town1",
+  "verdict": "OK",
+  "defects": [
+   "near-identical recolour of set_03 (red vs blue)"
+  ],
+  "fix": "Give it a different banner shape/standard so it is not just a recolour of set_03.",
+  "want_w": 14.0,
+  "want_h": 14.0,
+  "want_d": 14.0,
+  "tri_budget": 5000,
+  "tris_now": 260,
+  "size_now": [
+   14.0,
+   14.0,
+   14.0
+  ],
+  "note": "Braziers x2 and banner poles x2 for the avenue from the skull HQ apron to the plaza"
+ },
+ {
+  "id": "CP08_01_water_gate",
+  "row": "CP08",
+  "worker": "vd",
+  "batch": "?",
+  "category": "v5_capital",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "want_w": 40.0,
+  "want_h": 30.0,
+  "want_d": 30.0,
+  "tri_budget": 18000,
+  "tris_now": 3764,
+  "size_now": [
+   40.0,
+   30.0,
+   30.0
+  ],
+  "note": ""
+ },
+ {
+  "id": "HL07_01_mine_entrance_01",
+  "row": "HL07",
+  "worker": "vg",
+  "batch": "?",
+  "category": "v5_himalaya",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "want_w": 30.0,
+  "want_h": 24.0,
+  "want_d": 24.0,
+  "tri_budget": 9000,
+  "tris_now": 592,
+  "size_now": [
+   31.37,
+   26.16,
+   24.0
+  ],
+  "note": ""
+ },
+ {
+  "id": "RD01_03_watchtower_03",
+  "row": "RD01",
+  "worker": "vi",
+  "batch": "?",
+  "category": "v5_roads",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "want_w": 20.0,
+  "want_h": 50.0,
+  "want_d": 20.0,
+  "tri_budget": 11000,
+  "tris_now": 1628,
+  "size_now": [
+   20.0,
+   20.0,
+   48.96
+  ],
+  "note": ""
+ },
+ {
+  "id": "RD02_05_camp_set_05",
+  "row": "RD02",
+  "worker": "vi",
+  "batch": "?",
+  "category": "v5_roads",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "want_w": 16.0,
+  "want_h": 10.0,
+  "want_d": 14.0,
+  "tri_budget": 4000,
+  "tris_now": 384,
+  "size_now": [
+   16.0,
+   14.0,
+   10.0
+  ],
+  "note": ""
+ },
+ {
+  "id": "RD06_02_abandoned_house_02",
+  "row": "RD06",
+  "worker": "vi",
+  "batch": "?",
+  "category": "v5_roads",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "want_w": 22.0,
+  "want_h": 20.0,
+  "want_d": 20.0,
+  "tri_budget": 9000,
+  "tris_now": 2516,
+  "size_now": [
+   22.0,
+   21.19,
+   20.0
+  ],
+  "note": ""
+ },
+ {
+  "id": "WT03_01_wizard_bookshelf_curved_01",
+  "row": "WT03",
+  "worker": "vb",
+  "batch": "?",
+  "category": "v5_wizard",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "want_w": 24.0,
+  "want_h": 28.0,
+  "want_d": 6.0,
+  "tri_budget": 12000,
+  "tris_now": 4424,
+  "size_now": [
+   24.36,
+   7.14,
+   28.0
+  ],
+  "note": ""
+ },
+ {
+  "id": "WT13_02_plateau_terrace_set_02",
+  "row": "WT13",
+  "worker": "va",
+  "batch": "?",
+  "category": "v5_wizard",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "want_w": 30.0,
+  "want_h": 10.0,
+  "want_d": 30.0,
+  "tri_budget": 7000,
+  "tris_now": 1264,
+  "size_now": [
+   29.0,
+   29.0,
+   10.0
+  ],
+  "note": ""
+ },
+ {
+  "id": "WT13_03_plateau_terrace_set_03",
+  "row": "WT13",
+  "worker": "va",
+  "batch": "?",
+  "category": "v5_wizard",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "want_w": 30.0,
+  "want_h": 10.0,
+  "want_d": 30.0,
+  "tri_budget": 7000,
+  "tris_now": 1440,
+  "size_now": [
+   30.4,
+   29.22,
+   10.5
+  ],
+  "note": ""
+ },
+ {
+  "id": "WT13_04_plateau_terrace_set_04",
+  "row": "WT13",
+  "worker": "va",
+  "batch": "?",
+  "category": "v5_wizard",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "want_w": 30.0,
+  "want_h": 10.0,
+  "want_d": 30.0,
+  "tri_budget": 7000,
+  "tris_now": 968,
+  "size_now": [
+   27.94,
+   27.94,
+   10.77
+  ],
+  "note": ""
+ },
+ {
+  "id": "WT13_05_plateau_terrace_set_05",
+  "row": "WT13",
+  "worker": "va",
+  "batch": "?",
+  "category": "v5_wizard",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "want_w": 30.0,
+  "want_h": 10.0,
+  "want_d": 30.0,
+  "tri_budget": 7000,
+  "tris_now": 976,
+  "size_now": [
+   28.27,
+   28.88,
+   9.84
+  ],
+  "note": ""
+ },
+ {
+  "id": "WT13_06_plateau_terrace_set_06",
+  "row": "WT13",
+  "worker": "va",
+  "batch": "?",
+  "category": "v5_wizard",
+  "verdict": "OK",
+  "defects": [],
+  "fix": "",
+  "want_w": 30.0,
+  "want_h": 10.0,
+  "want_d": 30.0,
+  "tri_budget": 7000,
+  "tris_now": 858,
+  "size_now": [
+   29.6,
+   29.6,
+   9.8
+  ],
+  "note": ""
+ }
+]

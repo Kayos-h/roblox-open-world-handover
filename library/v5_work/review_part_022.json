@@ -1,0 +1,14 @@
+[
+  {"id": "LM17_01_ring_inner_sanctum", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "DS01_01_adobe_house_01", "verdict": "OK", "defects": ["stray blue slab beside base is the studio floor, not the model"], "fix": ""},
+  {"id": "DS01_02_adobe_house_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "DS01_03_adobe_house_03", "verdict": "MINOR", "defects": ["large blue slab against front wall", "parapet merlons read as loose blocks"], "fix": "Confirm the blue slab is not part of the model; if it is, remove it. Seat the merlons solidly on the parapet."},
+  {"id": "DS01_04_adobe_house_04", "verdict": "MINOR", "defects": ["stray yellow beam on ground in front"], "fix": "Remove or attach the loose yellow beam lying in front of the house."},
+  {"id": "DS01_05_adobe_house_05", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "DS01_06_adobe_house_06", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "DS02_01_desert_market_01", "verdict": "MINOR", "defects": ["well + loose cylinders read as generic, not clearly a market", "small floating/clipping cubes on plank"], "fix": "Rename or redress toward a market stall, or seat the barrels/goods cleanly; remove stray cubes."},
+  {"id": "DS02_02_desert_market_02", "verdict": "OK", "defects": ["loose wares on rugs are intentional clutter"], "fix": ""},
+  {"id": "DS02_03_desert_market_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "DS03_01_caravan_wagon_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "DS03_02_caravan_wagon_02", "verdict": "OK", "defects": ["near-recolour of wagon 01"], "fix": "Minor: vary the cover shape so the two wagons differ beyond colour."}
+]

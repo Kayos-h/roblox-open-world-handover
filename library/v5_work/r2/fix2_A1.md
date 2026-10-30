@@ -1,0 +1,21 @@
+# Fix round 2, builder A1: 13 models
+
+MAJOR 1, UNREVIEWED set members 0, MINOR 12. Worst first. Read `ROUND2_LESSONS.md` next to this file first.
+
+You own the same fix module(s) as before. Models marked "never rebuilt" are untouched round-1 models: write a new builder for them in your fix module (copy the round-1 code from the original queue module, then improve it) and add the id to `BATCHES` with the SAME category folder.
+
+| id | round 2 | round 1 | category | target W x D x H | tri budget | tris now | what the round-2 reviewers saw | reviewer suggestion | note |
+|---|---|---|---|---|---|---|---|---|---|
+| `LM21_04_floating_rock_04` | MAJOR | MINOR | v5_landmarks | 40 x 40 x 30 | 8000 | 192 | stacked thin wafer slabs leave see-through gaps between layers (close-up); unstable paper-stack silhouette; sharp razor edges | Replace the wafer stack with chunkier overlapping rock volumes that close the gaps. | rebuilt in round 1 |
+| `LM19_04_crater_rim_rock_04` | MINOR | MAJOR | v5_landmarks | 60 x 50 x 40 | 12000 | 1320 | flat single tan colour across the rock mass | Vary rock tone slightly so the mass does not read as one flat colour. | rebuilt in round 1 |
+| `LM19_05_crater_rim_rock_05` | MINOR | MAJOR | v5_landmarks | 60 x 50 x 40 | 12000 | 1308 | flat single tan colour across the whole rock pile | Vary the rock tone slightly so the mass does not read as one flat colour. | rebuilt in round 1 |
+| `LM20_02_crater_arcane_ruin_02` | MINOR | MINOR | v5_landmarks | 40 x 40 x 40 | 14000 | 524 | very sparse: two plain slabs and one fallen slab on a disc; little arcane detail | Add carved runes or broken column stubs so it reads as an arcane ruin, not two blank pillars. | rebuilt in round 1 |
+| `LM26_02_ruin_arena_segment_02` | MINOR | MINOR | v5_landmarks | 60 x 30 x 34 | 14000 | 2116 | small detached rubble blocks float/scatter at base (front); back wall faces look thin | Weld the loose rubble to the base or remove the floating fragments. | rebuilt in round 1 |
+| `LM26_03_ruin_arena_segment_03` | MINOR | MINOR | v5_landmarks | 60 x 30 x 34 | 14000 | 3016 | very plain flat tan surface with no relief on the arena wall | Add stone-block relief and weathering so the curved wall does not read as a plain slab. | rebuilt in round 1 |
+| `LM28_02_ruin_column_set_02` | MINOR | MINOR | v5_landmarks | 24 x 24 x 40 | 8000 | 976 | columns look thin and barely seated on the base disc; a few small cylinder stubs lie loose on the base | Seat the columns firmly on the base and tidy or integrate the loose stubs so nothing reads as floating. | rebuilt in round 1 |
+| `LM29_01_ruin_tower_stump_01` | MINOR | MINOR | v5_landmarks | 26 x 26 x 36 | 10000 | 956 | plain tan cylinder, almost featureless; only faint banding lines, little ruin character | Add broken crenellations, cracks and stone block detail to read as a ruined stump. | rebuilt in round 1 |
+| `LM29_02_ruin_tower_stump_02` | MINOR | MAJOR | v5_landmarks | 26 x 26 x 36 | 10000 | 824 | plain two-tone tan cylinder, near-featureless; shares silhouette/design with LM29_01, differs mainly by colour | Add surface relief and differentiate the shape from LM29_01. | rebuilt in round 1 |
+| `PL02_01_hay_silo_01` | MINOR | MINOR | v5_plains | 14 x 14 x 24 | 5000 | 576 | bright flat uniform yellow, slightly over-saturated; cones read as plain slabs with little relief | Tone the yellow toward natural straw and add surface relief/strands. | rebuilt in round 1 |
+| `PL05_01_ruined_watchtower_plains_01` | MINOR | MINOR | v5_plains | 20 x 20 x 40 | 9000 | 920 | plain pale cylinder with little stone relief | Add stone-course relief and weathering to the tower shaft so it is not a smooth pale cylinder. | rebuilt in round 1 |
+| `PL05_02_ruined_watchtower_plains_02` | MINOR | MAJOR | v5_plains | 20 x 20 x 40 | 9000 | 932 | plain pale cylinder, little stone relief | Add stone-course relief/weathering to the shaft. | rebuilt in round 1 |
+| `PL05_03_ruined_watchtower_plains_03` | MINOR | MINOR | v5_plains | 20 x 20 x 40 | 9000 | 878 | plain tan cylinder, low detail; broken roof reads but body is featureless | Add stone block relief, cracks and window detail. | rebuilt in round 1 |

@@ -1,0 +1,8123 @@
+[
+ {
+  "id": "CP01_01_ring_wall_straight_01",
+  "row": "CP01",
+  "flags": [],
+  "thumb_mean": 168.1,
+  "tris": 1108,
+  "size": [
+   40.6,
+   10.6,
+   19.0
+  ],
+  "want": [
+   40.0,
+   10.0,
+   20.0
+  ],
+  "budget": 9000,
+  "worker": "vd",
+  "materials": 5
+ },
+ {
+  "id": "CP01_02_ring_wall_straight_02",
+  "row": "CP01",
+  "flags": [],
+  "thumb_mean": 159.2,
+  "tris": 3716,
+  "size": [
+   40.6,
+   10.6,
+   19.0
+  ],
+  "want": [
+   40.0,
+   10.0,
+   20.0
+  ],
+  "budget": 9000,
+  "worker": "vd",
+  "materials": 8
+ },
+ {
+  "id": "CP01_03_ring_wall_straight_03",
+  "row": "CP01",
+  "flags": [],
+  "thumb_mean": 167.7,
+  "tris": 1460,
+  "size": [
+   40.6,
+   10.0,
+   19.0
+  ],
+  "want": [
+   40.0,
+   10.0,
+   20.0
+  ],
+  "budget": 9000,
+  "worker": "vd",
+  "materials": 5
+ },
+ {
+  "id": "CP02_01_ring_wall_corner_01",
+  "row": "CP02",
+  "flags": [],
+  "thumb_mean": 175.1,
+  "tris": 3600,
+  "size": [
+   24.0,
+   23.94,
+   22.74
+  ],
+  "want": [
+   24.0,
+   24.0,
+   22.0
+  ],
+  "budget": 12000,
+  "worker": "vd",
+  "materials": 6
+ },
+ {
+  "id": "CP02_02_ring_wall_corner_02",
+  "row": "CP02",
+  "flags": [],
+  "thumb_mean": 176.7,
+  "tris": 3600,
+  "size": [
+   25.13,
+   25.12,
+   22.7
+  ],
+  "want": [
+   24.0,
+   24.0,
+   22.0
+  ],
+  "budget": 12000,
+  "worker": "vd",
+  "materials": 6
+ },
+ {
+  "id": "CP02_03_ring_wall_corner_03",
+  "row": "CP02",
+  "flags": [],
+  "thumb_mean": 173.8,
+  "tris": 3600,
+  "size": [
+   24.0,
+   21.45,
+   22.74
+  ],
+  "want": [
+   24.0,
+   24.0,
+   22.0
+  ],
+  "budget": 12000,
+  "worker": "vd",
+  "materials": 6
+ },
+ {
+  "id": "CP03_01_ring_wall_stair_end_01",
+  "row": "CP03",
+  "flags": [],
+  "thumb_mean": 181.5,
+  "tris": 2596,
+  "size": [
+   20.0,
+   15.0,
+   20.0
+  ],
+  "want": [
+   20.0,
+   14.0,
+   20.0
+  ],
+  "budget": 7000,
+  "worker": "vd",
+  "materials": 7
+ },
+ {
+  "id": "CP03_02_ring_wall_stair_end_02",
+  "row": "CP03",
+  "flags": [],
+  "thumb_mean": 181.6,
+  "tris": 2584,
+  "size": [
+   20.0,
+   15.0,
+   20.0
+  ],
+  "want": [
+   20.0,
+   14.0,
+   20.0
+  ],
+  "budget": 7000,
+  "worker": "vd",
+  "materials": 7
+ },
+ {
+  "id": "CP04_01_tower_round_cone_01",
+  "row": "CP04",
+  "flags": [],
+  "thumb_mean": 160.7,
+  "tris": 2832,
+  "size": [
+   19.0,
+   19.0,
+   43.05
+  ],
+  "want": [
+   22.0,
+   22.0,
+   48.0
+  ],
+  "budget": 14000,
+  "worker": "vd",
+  "materials": 7
+ },
+ {
+  "id": "CP04_02_tower_round_cone_02",
+  "row": "CP04",
+  "flags": [],
+  "thumb_mean": 161.1,
+  "tris": 2952,
+  "size": [
+   25.0,
+   25.0,
+   52.6
+  ],
+  "want": [
+   22.0,
+   22.0,
+   48.0
+  ],
+  "budget": 14000,
+  "worker": "vd",
+  "materials": 10
+ },
+ {
+  "id": "CP04_03_tower_round_cone_03",
+  "row": "CP04",
+  "flags": [
+   "SIZE width 31 vs 22",
+   "SIZE depth 31 vs 22"
+  ],
+  "thumb_mean": 164.4,
+  "tris": 2832,
+  "size": [
+   31.0,
+   31.0,
+   52.7
+  ],
+  "want": [
+   22.0,
+   22.0,
+   48.0
+  ],
+  "budget": 14000,
+  "worker": "vd",
+  "materials": 7
+ },
+ {
+  "id": "CP04_04_tower_round_cone_04",
+  "row": "CP04",
+  "flags": [
+   "SIZE width 37 vs 22",
+   "SIZE depth 37 vs 22",
+   "SIZE height 59.1 vs 48"
+  ],
+  "thumb_mean": 164.8,
+  "tris": 2952,
+  "size": [
+   37.0,
+   37.0,
+   59.1
+  ],
+  "want": [
+   22.0,
+   22.0,
+   48.0
+  ],
+  "budget": 14000,
+  "worker": "vd",
+  "materials": 10
+ },
+ {
+  "id": "CP05_01_turret_crenellated_01",
+  "row": "CP05",
+  "flags": [],
+  "thumb_mean": 167.8,
+  "tris": 1800,
+  "size": [
+   14.0,
+   14.0,
+   26.0
+  ],
+  "want": [
+   14.0,
+   14.0,
+   26.0
+  ],
+  "budget": 8000,
+  "worker": "vd",
+  "materials": 5
+ },
+ {
+  "id": "CP05_02_turret_crenellated_02",
+  "row": "CP05",
+  "flags": [],
+  "thumb_mean": 161.5,
+  "tris": 2216,
+  "size": [
+   14.0,
+   14.0,
+   26.0
+  ],
+  "want": [
+   14.0,
+   14.0,
+   26.0
+  ],
+  "budget": 8000,
+  "worker": "vd",
+  "materials": 8
+ },
+ {
+  "id": "CP06_01_gate_flank_tower_01",
+  "row": "CP06",
+  "flags": [],
+  "thumb_mean": 164.8,
+  "tris": 3288,
+  "size": [
+   31.0,
+   31.0,
+   52.0
+  ],
+  "want": [
+   30.0,
+   30.0,
+   52.0
+  ],
+  "budget": 16000,
+  "worker": "vd",
+  "materials": 10
+ },
+ {
+  "id": "CP06_02_gate_flank_tower_02",
+  "row": "CP06",
+  "flags": [],
+  "thumb_mean": 171.8,
+  "tris": 3492,
+  "size": [
+   31.06,
+   31.06,
+   52.0
+  ],
+  "want": [
+   30.0,
+   30.0,
+   52.0
+  ],
+  "budget": 16000,
+  "worker": "vd",
+  "materials": 7
+ },
+ {
+  "id": "CP07_01_gatehouse_main",
+  "row": "CP07",
+  "flags": [],
+  "thumb_mean": 170.7,
+  "tris": 4864,
+  "size": [
+   63.6,
+   43.9,
+   54.5
+  ],
+  "want": [
+   60.0,
+   40.0,
+   56.0
+  ],
+  "budget": 30000,
+  "worker": "vd",
+  "materials": 12
+ },
+ {
+  "id": "CP08_01_water_gate",
+  "row": "CP08",
+  "flags": [],
+  "thumb_mean": 160.3,
+  "tris": 5576,
+  "size": [
+   40.0,
+   30.0,
+   30.0
+  ],
+  "want": [
+   40.0,
+   30.0,
+   30.0
+  ],
+  "budget": 18000,
+  "worker": "vd",
+  "materials": 10
+ },
+ {
+  "id": "CP09_01_keep_terrace_hero",
+  "row": "CP09",
+  "flags": [],
+  "thumb_mean": 158.0,
+  "tris": 44260,
+  "size": [
+   130.0,
+   111.2,
+   115.8
+  ],
+  "want": [
+   130.0,
+   110.0,
+   120.0
+  ],
+  "budget": 50000,
+  "worker": "vd",
+  "materials": 14
+ },
+ {
+  "id": "CP10_01_keep_wing_01",
+  "row": "CP10",
+  "flags": [],
+  "thumb_mean": 158.7,
+  "tris": 10416,
+  "size": [
+   64.0,
+   50.0,
+   70.0
+  ],
+  "want": [
+   60.0,
+   50.0,
+   70.0
+  ],
+  "budget": 28000,
+  "worker": "vd",
+  "materials": 10
+ },
+ {
+  "id": "CP10_02_keep_wing_02",
+  "row": "CP10",
+  "flags": [],
+  "thumb_mean": 159.5,
+  "tris": 9858,
+  "size": [
+   58.0,
+   51.67,
+   70.0
+  ],
+  "want": [
+   60.0,
+   50.0,
+   70.0
+  ],
+  "budget": 28000,
+  "worker": "vd",
+  "materials": 11
+ },
+ {
+  "id": "CP11_01_great_hall_chapel_01",
+  "row": "CP11",
+  "flags": [],
+  "thumb_mean": 155.1,
+  "tris": 9826,
+  "size": [
+   73.0,
+   50.0,
+   60.0
+  ],
+  "want": [
+   70.0,
+   50.0,
+   60.0
+  ],
+  "budget": 30000,
+  "worker": "vd",
+  "materials": 10
+ },
+ {
+  "id": "CP11_02_great_hall_chapel_02",
+  "row": "CP11",
+  "flags": [],
+  "thumb_mean": 150.1,
+  "tris": 5942,
+  "size": [
+   70.0,
+   48.17,
+   60.65
+  ],
+  "want": [
+   70.0,
+   50.0,
+   60.0
+  ],
+  "budget": 30000,
+  "worker": "vd",
+  "materials": 10
+ },
+ {
+  "id": "CP12_01_terrace_retaining_wall_01",
+  "row": "CP12",
+  "flags": [],
+  "thumb_mean": 149.9,
+  "tris": 1084,
+  "size": [
+   41.0,
+   10.0,
+   23.46
+  ],
+  "want": [
+   40.0,
+   10.0,
+   22.0
+  ],
+  "budget": 8000,
+  "worker": "vd",
+  "materials": 5
+ },
+ {
+  "id": "CP12_02_terrace_retaining_wall_02",
+  "row": "CP12",
+  "flags": [],
+  "thumb_mean": 151.6,
+  "tris": 1088,
+  "size": [
+   40.0,
+   10.0,
+   23.0
+  ],
+  "want": [
+   40.0,
+   10.0,
+   22.0
+  ],
+  "budget": 8000,
+  "worker": "vd",
+  "materials": 5
+ },
+ {
+  "id": "CP13_01_grand_stair_01",
+  "row": "CP13",
+  "flags": [],
+  "thumb_mean": 168.7,
+  "tris": 2980,
+  "size": [
+   30.0,
+   41.14,
+   23.94
+  ],
+  "want": [
+   30.0,
+   40.0,
+   22.0
+  ],
+  "budget": 9000,
+  "worker": "vd",
+  "materials": 4
+ },
+ {
+  "id": "CP13_02_grand_stair_02",
+  "row": "CP13",
+  "flags": [],
+  "thumb_mean": 169.7,
+  "tris": 6220,
+  "size": [
+   30.0,
+   41.03,
+   22.0
+  ],
+  "want": [
+   30.0,
+   40.0,
+   22.0
+  ],
+  "budget": 9000,
+  "worker": "vd",
+  "materials": 4
+ },
+ {
+  "id": "CP14_01_skyline_tower_01",
+  "row": "CP14",
+  "flags": [],
+  "thumb_mean": 158.8,
+  "tris": 1402,
+  "size": [
+   30.0,
+   30.0,
+   119.3
+  ],
+  "want": [
+   30.0,
+   30.0,
+   110.0
+  ],
+  "budget": 30000,
+  "worker": "vd",
+  "materials": 6
+ },
+ {
+  "id": "CP14_02_skyline_tower_02",
+  "row": "CP14",
+  "flags": [],
+  "thumb_mean": 157.0,
+  "tris": 1776,
+  "size": [
+   30.0,
+   30.0,
+   102.1
+  ],
+  "want": [
+   30.0,
+   30.0,
+   110.0
+  ],
+  "budget": 30000,
+  "worker": "vd",
+  "materials": 6
+ },
+ {
+  "id": "CP14_03_skyline_tower_03",
+  "row": "CP14",
+  "flags": [],
+  "thumb_mean": 158.4,
+  "tris": 2760,
+  "size": [
+   30.0,
+   30.0,
+   110.0
+  ],
+  "want": [
+   30.0,
+   30.0,
+   110.0
+  ],
+  "budget": 30000,
+  "worker": "vd",
+  "materials": 6
+ },
+ {
+  "id": "CP14_04_skyline_tower_04",
+  "row": "CP14",
+  "flags": [],
+  "thumb_mean": 151.7,
+  "tris": 926,
+  "size": [
+   30.0,
+   30.0,
+   110.0
+  ],
+  "want": [
+   30.0,
+   30.0,
+   110.0
+  ],
+  "budget": 30000,
+  "worker": "vd",
+  "materials": 5
+ },
+ {
+  "id": "CP14_05_skyline_tower_05",
+  "row": "CP14",
+  "flags": [],
+  "thumb_mean": 146.6,
+  "tris": 1422,
+  "size": [
+   29.4,
+   29.0,
+   110.0
+  ],
+  "want": [
+   30.0,
+   30.0,
+   110.0
+  ],
+  "budget": 30000,
+  "worker": "vd",
+  "materials": 4
+ },
+ {
+  "id": "CP15_01_order_hq_01",
+  "row": "CP15",
+  "flags": [],
+  "thumb_mean": 146.6,
+  "tris": 13116,
+  "size": [
+   88.5,
+   70.0,
+   60.0
+  ],
+  "want": [
+   90.0,
+   70.0,
+   60.0
+  ],
+  "budget": 40000,
+  "worker": "vd",
+  "materials": 14
+ },
+ {
+  "id": "CP15_02_order_hq_02",
+  "row": "CP15",
+  "flags": [],
+  "thumb_mean": 151.3,
+  "tris": 10578,
+  "size": [
+   90.0,
+   70.0,
+   53.15
+  ],
+  "want": [
+   90.0,
+   70.0,
+   60.0
+  ],
+  "budget": 40000,
+  "worker": "vd",
+  "materials": 12
+ },
+ {
+  "id": "CP15_03_order_hq_03",
+  "row": "CP15",
+  "flags": [],
+  "thumb_mean": 154.0,
+  "tris": 3362,
+  "size": [
+   90.0,
+   70.0,
+   57.1
+  ],
+  "want": [
+   90.0,
+   70.0,
+   60.0
+  ],
+  "budget": 40000,
+  "worker": "vd",
+  "materials": 13
+ },
+ {
+  "id": "CP16_01_townhouse_new_01",
+  "row": "CP16",
+  "flags": [],
+  "thumb_mean": 139.1,
+  "tris": 9112,
+  "size": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "want": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "budget": 11000,
+  "worker": "vd",
+  "materials": 9
+ },
+ {
+  "id": "CP16_02_townhouse_new_02",
+  "row": "CP16",
+  "flags": [],
+  "thumb_mean": 138.4,
+  "tris": 5958,
+  "size": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "want": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "budget": 11000,
+  "worker": "vd",
+  "materials": 9
+ },
+ {
+  "id": "CP16_03_townhouse_new_03",
+  "row": "CP16",
+  "flags": [],
+  "thumb_mean": 138.4,
+  "tris": 5958,
+  "size": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "want": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "budget": 11000,
+  "worker": "vd",
+  "materials": 9
+ },
+ {
+  "id": "CP16_04_townhouse_new_04",
+  "row": "CP16",
+  "flags": [
+   "TRIS 12304 > 11000"
+  ],
+  "thumb_mean": 138.8,
+  "tris": 12304,
+  "size": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "want": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "budget": 11000,
+  "worker": "vd",
+  "materials": 9
+ },
+ {
+  "id": "CP16_05_townhouse_new_05",
+  "row": "CP16",
+  "flags": [
+   "TRIS 12304 > 11000"
+  ],
+  "thumb_mean": 138.8,
+  "tris": 12304,
+  "size": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "want": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "budget": 11000,
+  "worker": "vd",
+  "materials": 9
+ },
+ {
+  "id": "CP16_06_townhouse_new_06",
+  "row": "CP16",
+  "flags": [],
+  "thumb_mean": 140.8,
+  "tris": 3980,
+  "size": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "want": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "budget": 11000,
+  "worker": "vd",
+  "materials": 8
+ },
+ {
+  "id": "CP16_07_townhouse_new_07",
+  "row": "CP16",
+  "flags": [],
+  "thumb_mean": 140.8,
+  "tris": 3980,
+  "size": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "want": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "budget": 11000,
+  "worker": "vd",
+  "materials": 8
+ },
+ {
+  "id": "CP16_08_townhouse_new_08",
+  "row": "CP16",
+  "flags": [],
+  "thumb_mean": 140.5,
+  "tris": 5584,
+  "size": [
+   22.0,
+   22.29,
+   28.0
+  ],
+  "want": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "budget": 11000,
+  "worker": "vd",
+  "materials": 11
+ },
+ {
+  "id": "CP16_09_townhouse_new_09",
+  "row": "CP16",
+  "flags": [],
+  "thumb_mean": 145.5,
+  "tris": 5614,
+  "size": [
+   22.0,
+   20.88,
+   28.0
+  ],
+  "want": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "budget": 11000,
+  "worker": "vd",
+  "materials": 10
+ },
+ {
+  "id": "CP16_10_townhouse_new_10",
+  "row": "CP16",
+  "flags": [],
+  "thumb_mean": 142.9,
+  "tris": 5452,
+  "size": [
+   22.0,
+   20.88,
+   28.0
+  ],
+  "want": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "budget": 11000,
+  "worker": "vd",
+  "materials": 9
+ },
+ {
+  "id": "CP16_11_townhouse_new_11",
+  "row": "CP16",
+  "flags": [],
+  "thumb_mean": 144.7,
+  "tris": 1038,
+  "size": [
+   22.0,
+   23.0,
+   25.9
+  ],
+  "want": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "budget": 11000,
+  "worker": "vd",
+  "materials": 6
+ },
+ {
+  "id": "CP16_12_townhouse_new_12",
+  "row": "CP16",
+  "flags": [],
+  "thumb_mean": 139.1,
+  "tris": 9112,
+  "size": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "want": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "budget": 11000,
+  "worker": "vd",
+  "materials": 9
+ },
+ {
+  "id": "CP17_01_plaza_features_01",
+  "row": "CP17",
+  "flags": [],
+  "thumb_mean": 155.8,
+  "tris": 1244,
+  "size": [
+   28.0,
+   28.0,
+   34.5
+  ],
+  "want": [
+   30.0,
+   30.0,
+   34.0
+  ],
+  "budget": 14000,
+  "worker": "vd",
+  "materials": 4
+ },
+ {
+  "id": "CP17_02_plaza_features_02",
+  "row": "CP17",
+  "flags": [],
+  "thumb_mean": 148.0,
+  "tris": 776,
+  "size": [
+   30.0,
+   30.0,
+   34.0
+  ],
+  "want": [
+   30.0,
+   30.0,
+   34.0
+  ],
+  "budget": 14000,
+  "worker": "vd",
+  "materials": 6
+ },
+ {
+  "id": "CP18_01_quay_wall_01",
+  "row": "CP18",
+  "flags": [],
+  "thumb_mean": 150.7,
+  "tris": 584,
+  "size": [
+   30.8,
+   10.0,
+   8.0
+  ],
+  "want": [
+   30.0,
+   10.0,
+   8.0
+  ],
+  "budget": 5000,
+  "worker": "vd",
+  "materials": 6
+ },
+ {
+  "id": "CP18_02_quay_wall_02",
+  "row": "CP18",
+  "flags": [],
+  "thumb_mean": 150.9,
+  "tris": 904,
+  "size": [
+   30.0,
+   10.0,
+   8.0
+  ],
+  "want": [
+   30.0,
+   10.0,
+   8.0
+  ],
+  "budget": 5000,
+  "worker": "vd",
+  "materials": 5
+ },
+ {
+  "id": "CP18_03_quay_wall_03",
+  "row": "CP18",
+  "flags": [],
+  "thumb_mean": 151.3,
+  "tris": 812,
+  "size": [
+   30.8,
+   10.0,
+   8.0
+  ],
+  "want": [
+   30.0,
+   10.0,
+   8.0
+  ],
+  "budget": 5000,
+  "worker": "vd",
+  "materials": 5
+ },
+ {
+  "id": "CP18_04_quay_wall_04",
+  "row": "CP18",
+  "flags": [],
+  "thumb_mean": 149.6,
+  "tris": 736,
+  "size": [
+   30.8,
+   10.0,
+   8.0
+  ],
+  "want": [
+   30.0,
+   10.0,
+   8.0
+  ],
+  "budget": 5000,
+  "worker": "vd",
+  "materials": 7
+ },
+ {
+  "id": "CP19_01_grand_bridge_01",
+  "row": "CP19",
+  "flags": [],
+  "thumb_mean": 154.1,
+  "tris": 5040,
+  "size": [
+   67.0,
+   26.0,
+   28.0
+  ],
+  "want": [
+   60.0,
+   26.0,
+   28.0
+  ],
+  "budget": 26000,
+  "worker": "vd",
+  "materials": 7
+ },
+ {
+  "id": "CP19_02_grand_bridge_02",
+  "row": "CP19",
+  "flags": [],
+  "thumb_mean": 149.7,
+  "tris": 4120,
+  "size": [
+   62.2,
+   23.45,
+   28.0
+  ],
+  "want": [
+   60.0,
+   26.0,
+   28.0
+  ],
+  "budget": 26000,
+  "worker": "vd",
+  "materials": 9
+ },
+ {
+  "id": "LM01_01_world_tree_trunk_door",
+  "row": "LM01",
+  "flags": [],
+  "thumb_mean": 145.2,
+  "tris": 2404,
+  "size": [
+   36.0,
+   36.0,
+   50.0
+  ],
+  "want": [
+   36.0,
+   36.0,
+   50.0
+  ],
+  "budget": 30000,
+  "worker": "ve",
+  "materials": 7
+ },
+ {
+  "id": "LM02_01_world_tree_falls",
+  "row": "LM02",
+  "flags": [],
+  "thumb_mean": 143.6,
+  "tris": 5228,
+  "size": [
+   80.0,
+   40.0,
+   110.0
+  ],
+  "want": [
+   80.0,
+   40.0,
+   110.0
+  ],
+  "budget": 35000,
+  "worker": "ve",
+  "materials": 13
+ },
+ {
+  "id": "LM03_01_frost_fortress_hero",
+  "row": "LM03",
+  "flags": [
+   "MANY MATERIALS 17"
+  ],
+  "thumb_mean": 160.4,
+  "tris": 37720,
+  "size": [
+   300.0,
+   276.31,
+   220.0
+  ],
+  "want": [
+   300.0,
+   260.0,
+   220.0
+  ],
+  "budget": 60000,
+  "worker": "vf",
+  "materials": 17
+ },
+ {
+  "id": "LM04_01_fortress_rampart_step_01",
+  "row": "LM04",
+  "flags": [],
+  "thumb_mean": 153.2,
+  "tris": 5528,
+  "size": [
+   60.0,
+   20.0,
+   34.0
+  ],
+  "want": [
+   60.0,
+   20.0,
+   34.0
+  ],
+  "budget": 14000,
+  "worker": "vg",
+  "materials": 9
+ },
+ {
+  "id": "LM04_02_fortress_rampart_step_02",
+  "row": "LM04",
+  "flags": [],
+  "thumb_mean": 153.8,
+  "tris": 4140,
+  "size": [
+   60.0,
+   20.0,
+   34.0
+  ],
+  "want": [
+   60.0,
+   20.0,
+   34.0
+  ],
+  "budget": 14000,
+  "worker": "vg",
+  "materials": 8
+ },
+ {
+  "id": "LM04_03_fortress_rampart_step_03",
+  "row": "LM04",
+  "flags": [],
+  "thumb_mean": 151.3,
+  "tris": 6024,
+  "size": [
+   60.0,
+   20.0,
+   34.0
+  ],
+  "want": [
+   60.0,
+   20.0,
+   34.0
+  ],
+  "budget": 14000,
+  "worker": "vg",
+  "materials": 10
+ },
+ {
+  "id": "LM05_01_fortress_cliff_tower_01",
+  "row": "LM05",
+  "flags": [],
+  "thumb_mean": 150.9,
+  "tris": 2996,
+  "size": [
+   34.0,
+   34.0,
+   87.69
+  ],
+  "want": [
+   34.0,
+   34.0,
+   80.0
+  ],
+  "budget": 18000,
+  "worker": "vg",
+  "materials": 12
+ },
+ {
+  "id": "LM05_02_fortress_cliff_tower_02",
+  "row": "LM05",
+  "flags": [],
+  "thumb_mean": 149.0,
+  "tris": 3308,
+  "size": [
+   34.0,
+   34.0,
+   80.0
+  ],
+  "want": [
+   34.0,
+   34.0,
+   80.0
+  ],
+  "budget": 18000,
+  "worker": "vg",
+  "materials": 14
+ },
+ {
+  "id": "LM06_01_fortress_tunnel_gate",
+  "row": "LM06",
+  "flags": [],
+  "thumb_mean": 135.0,
+  "tris": 1200,
+  "size": [
+   60.0,
+   57.69,
+   51.1
+  ],
+  "want": [
+   60.0,
+   60.0,
+   50.0
+  ],
+  "budget": 24000,
+  "worker": "vg",
+  "materials": 9
+ },
+ {
+  "id": "LM07_01_carved_stair_switchback_01",
+  "row": "LM07",
+  "flags": [],
+  "thumb_mean": 140.2,
+  "tris": 3760,
+  "size": [
+   50.0,
+   62.36,
+   62.41
+  ],
+  "want": [
+   50.0,
+   60.0,
+   60.0
+  ],
+  "budget": 16000,
+  "worker": "vg",
+  "materials": 7
+ },
+ {
+  "id": "LM07_02_carved_stair_switchback_02",
+  "row": "LM07",
+  "flags": [],
+  "thumb_mean": 142.2,
+  "tris": 3760,
+  "size": [
+   50.0,
+   61.22,
+   61.61
+  ],
+  "want": [
+   50.0,
+   60.0,
+   60.0
+  ],
+  "budget": 16000,
+  "worker": "vg",
+  "materials": 7
+ },
+ {
+  "id": "LM08_01_mountain_span_bridge",
+  "row": "LM08",
+  "flags": [],
+  "thumb_mean": 145.7,
+  "tris": 5532,
+  "size": [
+   90.0,
+   16.0,
+   24.0
+  ],
+  "want": [
+   90.0,
+   16.0,
+   24.0
+  ],
+  "budget": 14000,
+  "worker": "vg",
+  "materials": 6
+ },
+ {
+  "id": "LM09_01_temple_buried_hero",
+  "row": "LM09",
+  "flags": [],
+  "thumb_mean": 161.8,
+  "tris": 5528,
+  "size": [
+   180.0,
+   160.0,
+   90.0
+  ],
+  "want": [
+   180.0,
+   160.0,
+   90.0
+  ],
+  "budget": 55000,
+  "worker": "vf",
+  "materials": 4
+ },
+ {
+  "id": "LM10_01_temple_colonnade_buried_01",
+  "row": "LM10",
+  "flags": [],
+  "thumb_mean": 159.9,
+  "tris": 4960,
+  "size": [
+   60.0,
+   20.0,
+   40.0
+  ],
+  "want": [
+   60.0,
+   20.0,
+   40.0
+  ],
+  "budget": 14000,
+  "worker": "vh",
+  "materials": 7
+ },
+ {
+  "id": "LM10_02_temple_colonnade_buried_02",
+  "row": "LM10",
+  "flags": [],
+  "thumb_mean": 159.4,
+  "tris": 4960,
+  "size": [
+   62.35,
+   20.0,
+   40.0
+  ],
+  "want": [
+   60.0,
+   20.0,
+   40.0
+  ],
+  "budget": 14000,
+  "worker": "vh",
+  "materials": 7
+ },
+ {
+  "id": "LM10_03_temple_colonnade_buried_03",
+  "row": "LM10",
+  "flags": [],
+  "thumb_mean": 159.2,
+  "tris": 3664,
+  "size": [
+   60.0,
+   20.0,
+   40.0
+  ],
+  "want": [
+   60.0,
+   20.0,
+   40.0
+  ],
+  "budget": 14000,
+  "worker": "vh",
+  "materials": 4
+ },
+ {
+  "id": "LM11_01_temple_gate_buried",
+  "row": "LM11",
+  "flags": [],
+  "thumb_mean": 161.6,
+  "tris": 926,
+  "size": [
+   40.0,
+   20.0,
+   50.66
+  ],
+  "want": [
+   40.0,
+   20.0,
+   50.0
+  ],
+  "budget": 16000,
+  "worker": "vh",
+  "materials": 4
+ },
+ {
+  "id": "LM12_01_temple_stair_down_01",
+  "row": "LM12",
+  "flags": [],
+  "thumb_mean": 169.8,
+  "tris": 2320,
+  "size": [
+   31.0,
+   40.29,
+   24.0
+  ],
+  "want": [
+   30.0,
+   40.0,
+   24.0
+  ],
+  "budget": 9000,
+  "worker": "vh",
+  "materials": 6
+ },
+ {
+  "id": "LM12_02_temple_stair_down_02",
+  "row": "LM12",
+  "flags": [],
+  "thumb_mean": 170.6,
+  "tris": 2440,
+  "size": [
+   31.0,
+   40.29,
+   24.0
+  ],
+  "want": [
+   30.0,
+   40.0,
+   24.0
+  ],
+  "budget": 9000,
+  "worker": "vh",
+  "materials": 7
+ },
+ {
+  "id": "LM13_01_guardian_statue_01",
+  "row": "LM13",
+  "flags": [],
+  "thumb_mean": 155.9,
+  "tris": 1278,
+  "size": [
+   19.2,
+   20.0,
+   70.0
+  ],
+  "want": [
+   20.0,
+   20.0,
+   70.0
+  ],
+  "budget": 18000,
+  "worker": "vh",
+  "materials": 7
+ },
+ {
+  "id": "LM13_02_guardian_statue_02",
+  "row": "LM13",
+  "flags": [],
+  "thumb_mean": 156.5,
+  "tris": 924,
+  "size": [
+   20.0,
+   20.0,
+   70.0
+  ],
+  "want": [
+   20.0,
+   20.0,
+   70.0
+  ],
+  "budget": 18000,
+  "worker": "vh",
+  "materials": 7
+ },
+ {
+  "id": "LM14_01_sand_obelisk_01",
+  "row": "LM14",
+  "flags": [],
+  "thumb_mean": 154.8,
+  "tris": 368,
+  "size": [
+   9.58,
+   9.53,
+   60.0
+  ],
+  "want": [
+   10.0,
+   10.0,
+   60.0
+  ],
+  "budget": 5000,
+  "worker": "vh",
+  "materials": 6
+ },
+ {
+  "id": "LM14_02_sand_obelisk_02",
+  "row": "LM14",
+  "flags": [],
+  "thumb_mean": 154.8,
+  "tris": 400,
+  "size": [
+   10.0,
+   10.0,
+   57.6
+  ],
+  "want": [
+   10.0,
+   10.0,
+   60.0
+  ],
+  "budget": 5000,
+  "worker": "vh",
+  "materials": 5
+ },
+ {
+  "id": "LM14_03_sand_obelisk_03",
+  "row": "LM14",
+  "flags": [],
+  "thumb_mean": 154.9,
+  "tris": 368,
+  "size": [
+   10.02,
+   9.5,
+   60.0
+  ],
+  "want": [
+   10.0,
+   10.0,
+   60.0
+  ],
+  "budget": 5000,
+  "worker": "vh",
+  "materials": 4
+ },
+ {
+  "id": "LM15_01_ring_temple_hero",
+  "row": "LM15",
+  "flags": [],
+  "thumb_mean": 159.3,
+  "tris": 10914,
+  "size": [
+   220.0,
+   220.0,
+   60.0
+  ],
+  "want": [
+   220.0,
+   220.0,
+   60.0
+  ],
+  "budget": 55000,
+  "worker": "vf",
+  "materials": 5
+ },
+ {
+  "id": "LM16_01_ring_temple_segment_01",
+  "row": "LM16",
+  "flags": [],
+  "thumb_mean": 165.9,
+  "tris": 5220,
+  "size": [
+   50.0,
+   25.0,
+   38.0
+  ],
+  "want": [
+   50.0,
+   25.0,
+   40.0
+  ],
+  "budget": 14000,
+  "worker": "vh",
+  "materials": 6
+ },
+ {
+  "id": "LM16_02_ring_temple_segment_02",
+  "row": "LM16",
+  "flags": [],
+  "thumb_mean": 167.4,
+  "tris": 4656,
+  "size": [
+   50.0,
+   25.0,
+   40.0
+  ],
+  "want": [
+   50.0,
+   25.0,
+   40.0
+  ],
+  "budget": 14000,
+  "worker": "vh",
+  "materials": 6
+ },
+ {
+  "id": "LM17_01_ring_inner_sanctum",
+  "row": "LM17",
+  "flags": [],
+  "thumb_mean": 162.8,
+  "tris": 3948,
+  "size": [
+   60.0,
+   60.0,
+   57.0
+  ],
+  "want": [
+   60.0,
+   60.0,
+   60.0
+  ],
+  "budget": 24000,
+  "worker": "vh",
+  "materials": 6
+ },
+ {
+  "id": "LM18_01_crater_monolith_ring",
+  "row": "LM18",
+  "flags": [],
+  "thumb_mean": 145.4,
+  "tris": 5396,
+  "size": [
+   140.0,
+   140.0,
+   50.0
+  ],
+  "want": [
+   140.0,
+   140.0,
+   50.0
+  ],
+  "budget": 40000,
+  "worker": "vf",
+  "materials": 6
+ },
+ {
+  "id": "LM19_01_crater_rim_rock_01",
+  "row": "LM19",
+  "flags": [],
+  "thumb_mean": 138.9,
+  "tris": 1308,
+  "size": [
+   60.0,
+   50.0,
+   40.0
+  ],
+  "want": [
+   60.0,
+   50.0,
+   40.0
+  ],
+  "budget": 12000,
+  "worker": "vi",
+  "materials": 8
+ },
+ {
+  "id": "LM19_02_crater_rim_rock_02",
+  "row": "LM19",
+  "flags": [],
+  "thumb_mean": 137.8,
+  "tris": 1320,
+  "size": [
+   60.0,
+   50.0,
+   40.0
+  ],
+  "want": [
+   60.0,
+   50.0,
+   40.0
+  ],
+  "budget": 12000,
+  "worker": "vi",
+  "materials": 8
+ },
+ {
+  "id": "LM19_03_crater_rim_rock_03",
+  "row": "LM19",
+  "flags": [],
+  "thumb_mean": 142.5,
+  "tris": 1308,
+  "size": [
+   60.0,
+   50.0,
+   40.0
+  ],
+  "want": [
+   60.0,
+   50.0,
+   40.0
+  ],
+  "budget": 12000,
+  "worker": "vi",
+  "materials": 8
+ },
+ {
+  "id": "LM19_04_crater_rim_rock_04",
+  "row": "LM19",
+  "flags": [],
+  "thumb_mean": 142.6,
+  "tris": 1320,
+  "size": [
+   60.0,
+   50.0,
+   40.0
+  ],
+  "want": [
+   60.0,
+   50.0,
+   40.0
+  ],
+  "budget": 12000,
+  "worker": "vi",
+  "materials": 7
+ },
+ {
+  "id": "LM19_05_crater_rim_rock_05",
+  "row": "LM19",
+  "flags": [],
+  "thumb_mean": 140.8,
+  "tris": 1308,
+  "size": [
+   60.0,
+   50.0,
+   40.0
+  ],
+  "want": [
+   60.0,
+   50.0,
+   40.0
+  ],
+  "budget": 12000,
+  "worker": "vi",
+  "materials": 7
+ },
+ {
+  "id": "LM20_01_crater_arcane_ruin_01",
+  "row": "LM20",
+  "flags": [],
+  "thumb_mean": 153.2,
+  "tris": 952,
+  "size": [
+   38.0,
+   38.0,
+   43.17
+  ],
+  "want": [
+   40.0,
+   40.0,
+   40.0
+  ],
+  "budget": 14000,
+  "worker": "vi",
+  "materials": 8
+ },
+ {
+  "id": "LM20_02_crater_arcane_ruin_02",
+  "row": "LM20",
+  "flags": [],
+  "thumb_mean": 154.3,
+  "tris": 1312,
+  "size": [
+   38.8,
+   38.8,
+   38.04
+  ],
+  "want": [
+   40.0,
+   40.0,
+   40.0
+  ],
+  "budget": 14000,
+  "worker": "vi",
+  "materials": 8
+ },
+ {
+  "id": "LM20_03_crater_arcane_ruin_03",
+  "row": "LM20",
+  "flags": [],
+  "thumb_mean": 155.3,
+  "tris": 764,
+  "size": [
+   38.0,
+   38.0,
+   40.0
+  ],
+  "want": [
+   40.0,
+   40.0,
+   40.0
+  ],
+  "budget": 14000,
+  "worker": "vi",
+  "materials": 8
+ },
+ {
+  "id": "LM21_01_floating_rock_01",
+  "row": "LM21",
+  "flags": [],
+  "thumb_mean": 140.8,
+  "tris": 330,
+  "size": [
+   41.17,
+   42.65,
+   30.0
+  ],
+  "want": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "budget": 8000,
+  "worker": "vi",
+  "materials": 6
+ },
+ {
+  "id": "LM21_02_floating_rock_02",
+  "row": "LM21",
+  "flags": [],
+  "thumb_mean": 133.1,
+  "tris": 276,
+  "size": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "want": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "budget": 8000,
+  "worker": "vi",
+  "materials": 8
+ },
+ {
+  "id": "LM21_03_floating_rock_03",
+  "row": "LM21",
+  "flags": [],
+  "thumb_mean": 141.0,
+  "tris": 330,
+  "size": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "want": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "budget": 8000,
+  "worker": "vi",
+  "materials": 6
+ },
+ {
+  "id": "LM21_04_floating_rock_04",
+  "row": "LM21",
+  "flags": [],
+  "thumb_mean": 140.0,
+  "tris": 348,
+  "size": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "want": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "budget": 8000,
+  "worker": "vi",
+  "materials": 8
+ },
+ {
+  "id": "LM22_01_colossal_fall_cliff_hero",
+  "row": "LM22",
+  "flags": [],
+  "thumb_mean": 136.8,
+  "tris": 27732,
+  "size": [
+   240.0,
+   120.0,
+   264.72
+  ],
+  "want": [
+   240.0,
+   120.0,
+   260.0
+  ],
+  "budget": 60000,
+  "worker": "vf",
+  "materials": 11
+ },
+ {
+  "id": "LM23_01_gorge_wall_01",
+  "row": "LM23",
+  "flags": [],
+  "thumb_mean": 136.1,
+  "tris": 3456,
+  "size": [
+   95.5,
+   30.0,
+   78.65
+  ],
+  "want": [
+   90.0,
+   30.0,
+   80.0
+  ],
+  "budget": 20000,
+  "worker": "vg",
+  "materials": 6
+ },
+ {
+  "id": "LM23_02_gorge_wall_02",
+  "row": "LM23",
+  "flags": [],
+  "thumb_mean": 132.5,
+  "tris": 3444,
+  "size": [
+   95.26,
+   30.0,
+   81.27
+  ],
+  "want": [
+   90.0,
+   30.0,
+   80.0
+  ],
+  "budget": 20000,
+  "worker": "vg",
+  "materials": 6
+ },
+ {
+  "id": "LM23_03_gorge_wall_03",
+  "row": "LM23",
+  "flags": [],
+  "thumb_mean": 133.8,
+  "tris": 3720,
+  "size": [
+   95.29,
+   30.0,
+   84.57
+  ],
+  "want": [
+   90.0,
+   30.0,
+   80.0
+  ],
+  "budget": 20000,
+  "worker": "vg",
+  "materials": 10
+ },
+ {
+  "id": "LM24_01_fall_pool_rock_01",
+  "row": "LM24",
+  "flags": [],
+  "thumb_mean": 145.2,
+  "tris": 468,
+  "size": [
+   30.0,
+   30.0,
+   17.45
+  ],
+  "want": [
+   30.0,
+   30.0,
+   16.0
+  ],
+  "budget": 6000,
+  "worker": "vg",
+  "materials": 6
+ },
+ {
+  "id": "LM24_02_fall_pool_rock_02",
+  "row": "LM24",
+  "flags": [],
+  "thumb_mean": 142.7,
+  "tris": 852,
+  "size": [
+   31.23,
+   30.0,
+   16.0
+  ],
+  "want": [
+   30.0,
+   30.0,
+   16.0
+  ],
+  "budget": 6000,
+  "worker": "vg",
+  "materials": 7
+ },
+ {
+  "id": "LM24_03_fall_pool_rock_03",
+  "row": "LM24",
+  "flags": [],
+  "thumb_mean": 144.0,
+  "tris": 768,
+  "size": [
+   31.17,
+   32.97,
+   16.99
+  ],
+  "want": [
+   30.0,
+   30.0,
+   16.0
+  ],
+  "budget": 6000,
+  "worker": "vg",
+  "materials": 7
+ },
+ {
+  "id": "LM25_01_ruin_gate_hero",
+  "row": "LM25",
+  "flags": [],
+  "thumb_mean": 157.0,
+  "tris": 1616,
+  "size": [
+   82.04,
+   30.65,
+   80.0
+  ],
+  "want": [
+   90.0,
+   30.0,
+   80.0
+  ],
+  "budget": 40000,
+  "worker": "vf",
+  "materials": 5
+ },
+ {
+  "id": "LM26_01_ruin_arena_segment_01",
+  "row": "LM26",
+  "flags": [],
+  "thumb_mean": 148.1,
+  "tris": 2460,
+  "size": [
+   60.0,
+   30.0,
+   33.19
+  ],
+  "want": [
+   60.0,
+   30.0,
+   34.0
+  ],
+  "budget": 14000,
+  "worker": "vi",
+  "materials": 8
+ },
+ {
+  "id": "LM26_02_ruin_arena_segment_02",
+  "row": "LM26",
+  "flags": [],
+  "thumb_mean": 148.4,
+  "tris": 2044,
+  "size": [
+   60.0,
+   30.0,
+   33.4
+  ],
+  "want": [
+   60.0,
+   30.0,
+   34.0
+  ],
+  "budget": 14000,
+  "worker": "vi",
+  "materials": 8
+ },
+ {
+  "id": "LM26_03_ruin_arena_segment_03",
+  "row": "LM26",
+  "flags": [],
+  "thumb_mean": 148.1,
+  "tris": 3520,
+  "size": [
+   60.0,
+   30.0,
+   33.29
+  ],
+  "want": [
+   60.0,
+   30.0,
+   34.0
+  ],
+  "budget": 14000,
+  "worker": "vi",
+  "materials": 8
+ },
+ {
+  "id": "LM27_01_ruin_aqueduct_arch_01",
+  "row": "LM27",
+  "flags": [],
+  "thumb_mean": 147.2,
+  "tris": 1700,
+  "size": [
+   40.0,
+   12.0,
+   50.0
+  ],
+  "want": [
+   40.0,
+   12.0,
+   50.0
+  ],
+  "budget": 12000,
+  "worker": "vi",
+  "materials": 7
+ },
+ {
+  "id": "LM27_02_ruin_aqueduct_arch_02",
+  "row": "LM27",
+  "flags": [],
+  "thumb_mean": 147.5,
+  "tris": 1632,
+  "size": [
+   40.0,
+   12.0,
+   50.0
+  ],
+  "want": [
+   40.0,
+   12.0,
+   50.0
+  ],
+  "budget": 12000,
+  "worker": "vi",
+  "materials": 7
+ },
+ {
+  "id": "LM28_01_ruin_column_set_01",
+  "row": "LM28",
+  "flags": [],
+  "thumb_mean": 154.9,
+  "tris": 956,
+  "size": [
+   24.0,
+   24.0,
+   38.55
+  ],
+  "want": [
+   24.0,
+   24.0,
+   40.0
+  ],
+  "budget": 8000,
+  "worker": "vi",
+  "materials": 7
+ },
+ {
+  "id": "LM28_02_ruin_column_set_02",
+  "row": "LM28",
+  "flags": [],
+  "thumb_mean": 155.7,
+  "tris": 1320,
+  "size": [
+   24.0,
+   24.0,
+   37.9
+  ],
+  "want": [
+   24.0,
+   24.0,
+   40.0
+  ],
+  "budget": 8000,
+  "worker": "vi",
+  "materials": 6
+ },
+ {
+  "id": "LM28_03_ruin_column_set_03",
+  "row": "LM28",
+  "flags": [],
+  "thumb_mean": 155.4,
+  "tris": 852,
+  "size": [
+   25.48,
+   24.0,
+   38.49
+  ],
+  "want": [
+   24.0,
+   24.0,
+   40.0
+  ],
+  "budget": 8000,
+  "worker": "vi",
+  "materials": 7
+ },
+ {
+  "id": "LM29_01_ruin_tower_stump_01",
+  "row": "LM29",
+  "flags": [],
+  "thumb_mean": 154.5,
+  "tris": 2456,
+  "size": [
+   23.86,
+   26.0,
+   36.0
+  ],
+  "want": [
+   26.0,
+   26.0,
+   36.0
+  ],
+  "budget": 10000,
+  "worker": "vi",
+  "materials": 6
+ },
+ {
+  "id": "LM29_02_ruin_tower_stump_02",
+  "row": "LM29",
+  "flags": [],
+  "thumb_mean": 150.8,
+  "tris": 2352,
+  "size": [
+   27.94,
+   26.0,
+   36.0
+  ],
+  "want": [
+   26.0,
+   26.0,
+   36.0
+  ],
+  "budget": 10000,
+  "worker": "vi",
+  "materials": 5
+ },
+ {
+  "id": "LM30_01_ruined_castle_hero",
+  "row": "LM30",
+  "flags": [],
+  "thumb_mean": 155.3,
+  "tris": 8304,
+  "size": [
+   139.21,
+   121.35,
+   69.77
+  ],
+  "want": [
+   140.0,
+   120.0,
+   70.0
+  ],
+  "budget": 50000,
+  "worker": "vf",
+  "materials": 6
+ },
+ {
+  "id": "LM31_01_ruined_castle_module_01",
+  "row": "LM31",
+  "flags": [],
+  "thumb_mean": 152.6,
+  "tris": 1152,
+  "size": [
+   36.9,
+   30.0,
+   41.16
+  ],
+  "want": [
+   40.0,
+   30.0,
+   40.0
+  ],
+  "budget": 14000,
+  "worker": "vi",
+  "materials": 8
+ },
+ {
+  "id": "LM31_02_ruined_castle_module_02",
+  "row": "LM31",
+  "flags": [],
+  "thumb_mean": 152.6,
+  "tris": 1208,
+  "size": [
+   36.9,
+   30.0,
+   42.57
+  ],
+  "want": [
+   40.0,
+   30.0,
+   40.0
+  ],
+  "budget": 14000,
+  "worker": "vi",
+  "materials": 8
+ },
+ {
+  "id": "LM31_03_ruined_castle_module_03",
+  "row": "LM31",
+  "flags": [],
+  "thumb_mean": 153.1,
+  "tris": 1076,
+  "size": [
+   39.32,
+   30.0,
+   40.12
+  ],
+  "want": [
+   40.0,
+   30.0,
+   40.0
+  ],
+  "budget": 14000,
+  "worker": "vi",
+  "materials": 8
+ },
+ {
+  "id": "WT01_01_wizard_tower_shell",
+  "row": "WT01",
+  "flags": [],
+  "thumb_mean": 159.1,
+  "tris": 42636,
+  "size": [
+   119.2,
+   119.2,
+   300.09
+  ],
+  "want": [
+   110.0,
+   110.0,
+   300.0
+  ],
+  "budget": 150000,
+  "worker": "va",
+  "materials": 9
+ },
+ {
+  "id": "WT02_01_wizard_tower_interior",
+  "row": "WT02",
+  "flags": [],
+  "thumb_mean": 150.3,
+  "tris": 43788,
+  "size": [
+   100.23,
+   100.23,
+   287.51
+  ],
+  "want": [
+   100.0,
+   100.0,
+   280.0
+  ],
+  "budget": 90000,
+  "worker": "vb",
+  "materials": 6
+ },
+ {
+  "id": "WT03_01_wizard_bookshelf_curved_01",
+  "row": "WT03",
+  "flags": [],
+  "thumb_mean": 124.4,
+  "tris": 5352,
+  "size": [
+   25.66,
+   6.0,
+   28.0
+  ],
+  "want": [
+   24.0,
+   6.0,
+   28.0
+  ],
+  "budget": 12000,
+  "worker": "vb",
+  "materials": 14
+ },
+ {
+  "id": "WT03_02_wizard_bookshelf_curved_02",
+  "row": "WT03",
+  "flags": [],
+  "thumb_mean": 139.0,
+  "tris": 5820,
+  "size": [
+   22.58,
+   6.0,
+   28.08
+  ],
+  "want": [
+   24.0,
+   6.0,
+   28.0
+  ],
+  "budget": 12000,
+  "worker": "vb",
+  "materials": 11
+ },
+ {
+  "id": "WT03_03_wizard_bookshelf_curved_03",
+  "row": "WT03",
+  "flags": [],
+  "thumb_mean": 130.0,
+  "tris": 4372,
+  "size": [
+   24.0,
+   6.0,
+   28.08
+  ],
+  "want": [
+   24.0,
+   6.0,
+   28.0
+  ],
+  "budget": 12000,
+  "worker": "vb",
+  "materials": 10
+ },
+ {
+  "id": "WT04_01_wizard_bookshelf_straight_01",
+  "row": "WT04",
+  "flags": [],
+  "thumb_mean": 140.1,
+  "tris": 2196,
+  "size": [
+   14.7,
+   5.0,
+   26.04
+  ],
+  "want": [
+   14.0,
+   5.0,
+   26.0
+  ],
+  "budget": 10000,
+  "worker": "vb",
+  "materials": 9
+ },
+ {
+  "id": "WT04_02_wizard_bookshelf_straight_02",
+  "row": "WT04",
+  "flags": [],
+  "thumb_mean": 143.1,
+  "tris": 3536,
+  "size": [
+   14.7,
+   5.0,
+   26.0
+  ],
+  "want": [
+   14.0,
+   5.0,
+   26.0
+  ],
+  "budget": 10000,
+  "worker": "vb",
+  "materials": 10
+ },
+ {
+  "id": "WT05_01_wizard_round_map_table",
+  "row": "WT05",
+  "flags": [
+   "MANY MATERIALS 17"
+  ],
+  "thumb_mean": 145.4,
+  "tris": 20314,
+  "size": [
+   47.6,
+   47.6,
+   11.42
+  ],
+  "want": [
+   44.0,
+   44.0,
+   12.0
+  ],
+  "budget": 60000,
+  "worker": "vb",
+  "materials": 17
+ },
+ {
+  "id": "WT06_01_wizard_floor_medallion",
+  "row": "WT06",
+  "flags": [],
+  "thumb_mean": 152.9,
+  "tris": 4844,
+  "size": [
+   80.0,
+   80.0,
+   1.0
+  ],
+  "want": [
+   80.0,
+   80.0,
+   1.0
+  ],
+  "budget": 8000,
+  "worker": "vb",
+  "materials": 7
+ },
+ {
+  "id": "WT07_01_wizard_lab_set_01",
+  "row": "WT07",
+  "flags": [],
+  "thumb_mean": 136.6,
+  "tris": 3192,
+  "size": [
+   17.6,
+   12.9,
+   14.05
+  ],
+  "want": [
+   18.0,
+   12.0,
+   14.0
+  ],
+  "budget": 10000,
+  "worker": "vb",
+  "materials": 7
+ },
+ {
+  "id": "WT07_02_wizard_lab_set_02",
+  "row": "WT07",
+  "flags": [],
+  "thumb_mean": 127.2,
+  "tris": 2620,
+  "size": [
+   17.0,
+   12.17,
+   13.0
+  ],
+  "want": [
+   18.0,
+   12.0,
+   14.0
+  ],
+  "budget": 10000,
+  "worker": "vb",
+  "materials": 7
+ },
+ {
+  "id": "WT07_03_wizard_lab_set_03",
+  "row": "WT07",
+  "flags": [],
+  "thumb_mean": 137.4,
+  "tris": 2564,
+  "size": [
+   16.0,
+   12.85,
+   13.0
+  ],
+  "want": [
+   18.0,
+   12.0,
+   14.0
+  ],
+  "budget": 10000,
+  "worker": "vb",
+  "materials": 8
+ },
+ {
+  "id": "WT07_04_wizard_lab_set_04",
+  "row": "WT07",
+  "flags": [],
+  "thumb_mean": 148.3,
+  "tris": 2212,
+  "size": [
+   18.58,
+   11.76,
+   15.42
+  ],
+  "want": [
+   18.0,
+   12.0,
+   14.0
+  ],
+  "budget": 10000,
+  "worker": "vb",
+  "materials": 7
+ },
+ {
+  "id": "WT08_01_wizard_study_set_01",
+  "row": "WT08",
+  "flags": [],
+  "thumb_mean": 129.2,
+  "tris": 2180,
+  "size": [
+   17.5,
+   13.34,
+   12.44
+  ],
+  "want": [
+   18.0,
+   14.0,
+   12.0
+  ],
+  "budget": 9000,
+  "worker": "vb",
+  "materials": 13
+ },
+ {
+  "id": "WT08_02_wizard_study_set_02",
+  "row": "WT08",
+  "flags": [],
+  "thumb_mean": 126.3,
+  "tris": 3692,
+  "size": [
+   18.0,
+   13.62,
+   12.2
+  ],
+  "want": [
+   18.0,
+   14.0,
+   12.0
+  ],
+  "budget": 9000,
+  "worker": "vb",
+  "materials": 13
+ },
+ {
+  "id": "WT08_03_wizard_study_set_03",
+  "row": "WT08",
+  "flags": [],
+  "thumb_mean": 146.0,
+  "tris": 1560,
+  "size": [
+   17.2,
+   14.95,
+   10.9
+  ],
+  "want": [
+   18.0,
+   14.0,
+   12.0
+  ],
+  "budget": 9000,
+  "worker": "vb",
+  "materials": 7
+ },
+ {
+  "id": "WT09_01_wizard_chandelier_ring_01",
+  "row": "WT09",
+  "flags": [],
+  "thumb_mean": 148.9,
+  "tris": 1756,
+  "size": [
+   19.84,
+   19.84,
+   7.12
+  ],
+  "want": [
+   20.0,
+   20.0,
+   8.0
+  ],
+  "budget": 6000,
+  "worker": "vb",
+  "materials": 4
+ },
+ {
+  "id": "WT09_02_wizard_chandelier_ring_02",
+  "row": "WT09",
+  "flags": [],
+  "thumb_mean": 148.6,
+  "tris": 3176,
+  "size": [
+   20.04,
+   19.76,
+   7.92
+  ],
+  "want": [
+   20.0,
+   20.0,
+   8.0
+  ],
+  "budget": 6000,
+  "worker": "vb",
+  "materials": 4
+ },
+ {
+  "id": "WT10_01_wizard_observatory_telescope",
+  "row": "WT10",
+  "flags": [],
+  "thumb_mean": 153.0,
+  "tris": 996,
+  "size": [
+   13.0,
+   13.93,
+   26.79
+  ],
+  "want": [
+   14.0,
+   14.0,
+   24.0
+  ],
+  "budget": 20000,
+  "worker": "vb",
+  "materials": 4
+ },
+ {
+  "id": "WT11_01_wizard_armillary_crown",
+  "row": "WT11",
+  "flags": [],
+  "thumb_mean": 147.7,
+  "tris": 3188,
+  "size": [
+   70.5,
+   70.5,
+   49.99
+  ],
+  "want": [
+   70.0,
+   70.0,
+   50.0
+  ],
+  "budget": 22000,
+  "worker": "va",
+  "materials": 3
+ },
+ {
+  "id": "WT12_01_wizard_door_porch",
+  "row": "WT12",
+  "flags": [],
+  "thumb_mean": 140.1,
+  "tris": 2488,
+  "size": [
+   40.8,
+   26.4,
+   39.0
+  ],
+  "want": [
+   40.0,
+   24.0,
+   36.0
+  ],
+  "budget": 24000,
+  "worker": "va",
+  "materials": 10
+ },
+ {
+  "id": "WT13_01_plateau_terrace_set_01",
+  "row": "WT13",
+  "flags": [],
+  "thumb_mean": 148.7,
+  "tris": 2936,
+  "size": [
+   31.6,
+   30.0,
+   10.39
+  ],
+  "want": [
+   30.0,
+   30.0,
+   10.0
+  ],
+  "budget": 7000,
+  "worker": "va",
+  "materials": 8
+ },
+ {
+  "id": "WT13_02_plateau_terrace_set_02",
+  "row": "WT13",
+  "flags": [],
+  "thumb_mean": 149.6,
+  "tris": 2656,
+  "size": [
+   30.0,
+   30.0,
+   10.45
+  ],
+  "want": [
+   30.0,
+   30.0,
+   10.0
+  ],
+  "budget": 7000,
+  "worker": "va",
+  "materials": 8
+ },
+ {
+  "id": "WT13_03_plateau_terrace_set_03",
+  "row": "WT13",
+  "flags": [],
+  "thumb_mean": 150.4,
+  "tris": 5288,
+  "size": [
+   28.8,
+   30.9,
+   10.0
+  ],
+  "want": [
+   30.0,
+   30.0,
+   10.0
+  ],
+  "budget": 7000,
+  "worker": "va",
+  "materials": 7
+ },
+ {
+  "id": "WT13_04_plateau_terrace_set_04",
+  "row": "WT13",
+  "flags": [],
+  "thumb_mean": 148.7,
+  "tris": 3204,
+  "size": [
+   27.72,
+   27.72,
+   10.0
+  ],
+  "want": [
+   30.0,
+   30.0,
+   10.0
+  ],
+  "budget": 7000,
+  "worker": "va",
+  "materials": 11
+ },
+ {
+  "id": "WT13_05_plateau_terrace_set_05",
+  "row": "WT13",
+  "flags": [],
+  "thumb_mean": 148.9,
+  "tris": 2980,
+  "size": [
+   31.6,
+   32.55,
+   10.03
+  ],
+  "want": [
+   30.0,
+   30.0,
+   10.0
+  ],
+  "budget": 7000,
+  "worker": "va",
+  "materials": 8
+ },
+ {
+  "id": "WT13_06_plateau_terrace_set_06",
+  "row": "WT13",
+  "flags": [],
+  "thumb_mean": 151.0,
+  "tris": 3696,
+  "size": [
+   29.2,
+   29.2,
+   9.95
+  ],
+  "want": [
+   30.0,
+   30.0,
+   10.0
+  ],
+  "budget": 7000,
+  "worker": "va",
+  "materials": 8
+ },
+ {
+  "id": "HL01_01_ice_spire_01",
+  "row": "HL01",
+  "flags": [],
+  "thumb_mean": 160.1,
+  "tris": 588,
+  "size": [
+   24.0,
+   24.0,
+   70.74
+  ],
+  "want": [
+   24.0,
+   24.0,
+   70.0
+  ],
+  "budget": 8000,
+  "worker": "vg",
+  "materials": 4
+ },
+ {
+  "id": "HL01_02_ice_spire_02",
+  "row": "HL01",
+  "flags": [],
+  "thumb_mean": 158.4,
+  "tris": 648,
+  "size": [
+   24.0,
+   24.0,
+   75.11
+  ],
+  "want": [
+   24.0,
+   24.0,
+   70.0
+  ],
+  "budget": 8000,
+  "worker": "vg",
+  "materials": 4
+ },
+ {
+  "id": "HL01_03_ice_spire_03",
+  "row": "HL01",
+  "flags": [],
+  "thumb_mean": 158.7,
+  "tris": 708,
+  "size": [
+   24.0,
+   24.0,
+   70.0
+  ],
+  "want": [
+   24.0,
+   24.0,
+   70.0
+  ],
+  "budget": 8000,
+  "worker": "vg",
+  "materials": 4
+ },
+ {
+  "id": "HL01_04_ice_spire_04",
+  "row": "HL01",
+  "flags": [],
+  "thumb_mean": 158.2,
+  "tris": 552,
+  "size": [
+   24.0,
+   24.0,
+   68.84
+  ],
+  "want": [
+   24.0,
+   24.0,
+   70.0
+  ],
+  "budget": 8000,
+  "worker": "vg",
+  "materials": 3
+ },
+ {
+  "id": "HL02_01_ice_arch_01",
+  "row": "HL02",
+  "flags": [],
+  "thumb_mean": 165.0,
+  "tris": 864,
+  "size": [
+   50.0,
+   14.0,
+   40.0
+  ],
+  "want": [
+   50.0,
+   14.0,
+   40.0
+  ],
+  "budget": 9000,
+  "worker": "vg",
+  "materials": 4
+ },
+ {
+  "id": "HL02_02_ice_arch_02",
+  "row": "HL02",
+  "flags": [],
+  "thumb_mean": 164.7,
+  "tris": 1176,
+  "size": [
+   50.0,
+   14.0,
+   40.0
+  ],
+  "want": [
+   50.0,
+   14.0,
+   40.0
+  ],
+  "budget": 9000,
+  "worker": "vg",
+  "materials": 3
+ },
+ {
+  "id": "HL03_01_glacier_tongue_01",
+  "row": "HL03",
+  "flags": [],
+  "thumb_mean": 156.4,
+  "tris": 876,
+  "size": [
+   90.0,
+   54.78,
+   24.0
+  ],
+  "want": [
+   90.0,
+   50.0,
+   24.0
+  ],
+  "budget": 12000,
+  "worker": "vg",
+  "materials": 7
+ },
+ {
+  "id": "HL03_02_glacier_tongue_02",
+  "row": "HL03",
+  "flags": [],
+  "thumb_mean": 158.2,
+  "tris": 720,
+  "size": [
+   90.0,
+   50.0,
+   24.0
+  ],
+  "want": [
+   90.0,
+   50.0,
+   24.0
+  ],
+  "budget": 12000,
+  "worker": "vg",
+  "materials": 11
+ },
+ {
+  "id": "HL03_03_glacier_tongue_03",
+  "row": "HL03",
+  "flags": [],
+  "thumb_mean": 155.3,
+  "tris": 972,
+  "size": [
+   90.0,
+   54.78,
+   24.0
+  ],
+  "want": [
+   90.0,
+   50.0,
+   24.0
+  ],
+  "budget": 12000,
+  "worker": "vg",
+  "materials": 7
+ },
+ {
+  "id": "HL04_01_ice_cave_mouth_01",
+  "row": "HL04",
+  "flags": [],
+  "thumb_mean": 168.2,
+  "tris": 788,
+  "size": [
+   40.0,
+   30.0,
+   28.41
+  ],
+  "want": [
+   40.0,
+   30.0,
+   30.0
+  ],
+  "budget": 10000,
+  "worker": "vg",
+  "materials": 5
+ },
+ {
+  "id": "HL04_02_ice_cave_mouth_02",
+  "row": "HL04",
+  "flags": [],
+  "thumb_mean": 166.4,
+  "tris": 520,
+  "size": [
+   40.0,
+   30.0,
+   27.73
+  ],
+  "want": [
+   40.0,
+   30.0,
+   30.0
+  ],
+  "budget": 10000,
+  "worker": "vg",
+  "materials": 5
+ },
+ {
+  "id": "HL05_01_mountain_shrine",
+  "row": "HL05",
+  "flags": [],
+  "thumb_mean": 151.3,
+  "tris": 816,
+  "size": [
+   24.0,
+   24.0,
+   24.0
+  ],
+  "want": [
+   24.0,
+   24.0,
+   24.0
+  ],
+  "budget": 9000,
+  "worker": "vg",
+  "materials": 13
+ },
+ {
+  "id": "HL06_01_snow_watchtower",
+  "row": "HL06",
+  "flags": [],
+  "thumb_mean": 153.0,
+  "tris": 2654,
+  "size": [
+   20.0,
+   20.0,
+   50.0
+  ],
+  "want": [
+   20.0,
+   20.0,
+   50.0
+  ],
+  "budget": 11000,
+  "worker": "vg",
+  "materials": 10
+ },
+ {
+  "id": "HL07_01_mine_entrance_01",
+  "row": "HL07",
+  "flags": [],
+  "thumb_mean": 137.3,
+  "tris": 860,
+  "size": [
+   31.15,
+   24.0,
+   24.0
+  ],
+  "want": [
+   30.0,
+   24.0,
+   24.0
+  ],
+  "budget": 9000,
+  "worker": "vg",
+  "materials": 8
+ },
+ {
+  "id": "HL07_02_mine_entrance_02",
+  "row": "HL07",
+  "flags": [],
+  "thumb_mean": 134.0,
+  "tris": 592,
+  "size": [
+   31.11,
+   24.0,
+   24.0
+  ],
+  "want": [
+   30.0,
+   24.0,
+   24.0
+  ],
+  "budget": 9000,
+  "worker": "vg",
+  "materials": 6
+ },
+ {
+  "id": "HM01_01_rope_suspension_bridge_01",
+  "row": "HM01",
+  "flags": [
+   "SIZE width 72 vs 120"
+  ],
+  "thumb_mean": 148.0,
+  "tris": 5316,
+  "size": [
+   72.0,
+   9.6,
+   14.1
+  ],
+  "want": [
+   120.0,
+   10.0,
+   14.0
+  ],
+  "budget": 12000,
+  "worker": "vc",
+  "materials": 11
+ },
+ {
+  "id": "HM01_02_rope_suspension_bridge_02",
+  "row": "HM01",
+  "flags": [],
+  "thumb_mean": 148.7,
+  "tris": 7552,
+  "size": [
+   103.31,
+   10.68,
+   14.1
+  ],
+  "want": [
+   120.0,
+   10.0,
+   14.0
+  ],
+  "budget": 12000,
+  "worker": "vc",
+  "materials": 12
+ },
+ {
+  "id": "HM01_03_rope_suspension_bridge_03",
+  "row": "HM01",
+  "flags": [],
+  "thumb_mean": 148.5,
+  "tris": 11418,
+  "size": [
+   129.29,
+   10.94,
+   14.1
+  ],
+  "want": [
+   120.0,
+   10.0,
+   14.0
+  ],
+  "budget": 12000,
+  "worker": "vc",
+  "materials": 12
+ },
+ {
+  "id": "HM02_01_timber_cantilever_bridge_01",
+  "row": "HM02",
+  "flags": [],
+  "thumb_mean": 144.7,
+  "tris": 1004,
+  "size": [
+   36.0,
+   9.02,
+   12.0
+  ],
+  "want": [
+   36.0,
+   10.0,
+   12.0
+  ],
+  "budget": 10000,
+  "worker": "vc",
+  "materials": 6
+ },
+ {
+  "id": "HM02_02_timber_cantilever_bridge_02",
+  "row": "HM02",
+  "flags": [],
+  "thumb_mean": 144.0,
+  "tris": 1208,
+  "size": [
+   36.0,
+   9.09,
+   12.0
+  ],
+  "want": [
+   36.0,
+   10.0,
+   12.0
+  ],
+  "budget": 10000,
+  "worker": "vc",
+  "materials": 6
+ },
+ {
+  "id": "HM03_01_tunnel_portal_01",
+  "row": "HM03",
+  "flags": [],
+  "thumb_mean": 142.0,
+  "tris": 468,
+  "size": [
+   32.27,
+   19.64,
+   25.09
+  ],
+  "want": [
+   30.0,
+   20.0,
+   24.0
+  ],
+  "budget": 12000,
+  "worker": "vc",
+  "materials": 5
+ },
+ {
+  "id": "HM03_02_tunnel_portal_02",
+  "row": "HM03",
+  "flags": [],
+  "thumb_mean": 138.1,
+  "tris": 564,
+  "size": [
+   32.01,
+   20.83,
+   25.65
+  ],
+  "want": [
+   30.0,
+   20.0,
+   24.0
+  ],
+  "budget": 12000,
+  "worker": "vc",
+  "materials": 8
+ },
+ {
+  "id": "HM03_03_tunnel_portal_03",
+  "row": "HM03",
+  "flags": [
+   "MANY MATERIALS 15"
+  ],
+  "thumb_mean": 138.3,
+  "tris": 1000,
+  "size": [
+   31.78,
+   20.03,
+   24.0
+  ],
+  "want": [
+   30.0,
+   20.0,
+   24.0
+  ],
+  "budget": 12000,
+  "worker": "vc",
+  "materials": 15
+ },
+ {
+  "id": "HM04_01_tunnel_lining_01",
+  "row": "HM04",
+  "flags": [],
+  "thumb_mean": 124.9,
+  "tris": 880,
+  "size": [
+   24.6,
+   25.7,
+   20.0
+  ],
+  "want": [
+   24.0,
+   24.0,
+   20.0
+  ],
+  "budget": 8000,
+  "worker": "vc",
+  "materials": 9
+ },
+ {
+  "id": "HM04_02_tunnel_lining_02",
+  "row": "HM04",
+  "flags": [],
+  "thumb_mean": 140.2,
+  "tris": 1216,
+  "size": [
+   24.0,
+   24.0,
+   20.75
+  ],
+  "want": [
+   24.0,
+   24.0,
+   20.0
+  ],
+  "budget": 8000,
+  "worker": "vc",
+  "materials": 7
+ },
+ {
+  "id": "HM05_01_cliff_gallery_01",
+  "row": "HM05",
+  "flags": [],
+  "thumb_mean": 141.9,
+  "tris": 1216,
+  "size": [
+   42.87,
+   14.0,
+   22.74
+  ],
+  "want": [
+   40.0,
+   14.0,
+   22.0
+  ],
+  "budget": 9000,
+  "worker": "vc",
+  "materials": 6
+ },
+ {
+  "id": "HM05_02_cliff_gallery_02",
+  "row": "HM05",
+  "flags": [],
+  "thumb_mean": 148.5,
+  "tris": 1192,
+  "size": [
+   40.0,
+   14.0,
+   23.18
+  ],
+  "want": [
+   40.0,
+   14.0,
+   22.0
+  ],
+  "budget": 9000,
+  "worker": "vc",
+  "materials": 7
+ },
+ {
+  "id": "HM06_01_switchback_wall_01",
+  "row": "HM06",
+  "flags": [],
+  "thumb_mean": 145.2,
+  "tris": 844,
+  "size": [
+   30.56,
+   14.0,
+   14.0
+  ],
+  "want": [
+   30.0,
+   14.0,
+   14.0
+  ],
+  "budget": 7000,
+  "worker": "vc",
+  "materials": 3
+ },
+ {
+  "id": "HM06_02_switchback_wall_02",
+  "row": "HM06",
+  "flags": [],
+  "thumb_mean": 147.0,
+  "tris": 2752,
+  "size": [
+   30.6,
+   14.0,
+   14.0
+  ],
+  "want": [
+   30.0,
+   14.0,
+   14.0
+  ],
+  "budget": 7000,
+  "worker": "vc",
+  "materials": 4
+ },
+ {
+  "id": "HM06_03_switchback_wall_03",
+  "row": "HM06",
+  "flags": [],
+  "thumb_mean": 148.1,
+  "tris": 1576,
+  "size": [
+   30.66,
+   14.0,
+   14.0
+  ],
+  "want": [
+   30.0,
+   14.0,
+   14.0
+  ],
+  "budget": 7000,
+  "worker": "vc",
+  "materials": 6
+ },
+ {
+  "id": "HM07_01_prayer_flag_string_01",
+  "row": "HM07",
+  "flags": [
+   "SIZE depth 2.52 vs 2"
+  ],
+  "thumb_mean": 150.0,
+  "tris": 500,
+  "size": [
+   39.93,
+   2.52,
+   12.47
+  ],
+  "want": [
+   40.0,
+   2.0,
+   12.0
+  ],
+  "budget": 3000,
+  "worker": "vc",
+  "materials": 9
+ },
+ {
+  "id": "HM07_02_prayer_flag_string_02",
+  "row": "HM07",
+  "flags": [
+   "SIZE depth 2.35 vs 2"
+  ],
+  "thumb_mean": 150.0,
+  "tris": 848,
+  "size": [
+   39.93,
+   2.35,
+   12.49
+  ],
+  "want": [
+   40.0,
+   2.0,
+   12.0
+  ],
+  "budget": 3000,
+  "worker": "vc",
+  "materials": 9
+ },
+ {
+  "id": "HM07_03_prayer_flag_string_03",
+  "row": "HM07",
+  "flags": [
+   "SIZE depth 2.49 vs 2"
+  ],
+  "thumb_mean": 150.1,
+  "tris": 596,
+  "size": [
+   39.93,
+   2.49,
+   12.48
+  ],
+  "want": [
+   40.0,
+   2.0,
+   12.0
+  ],
+  "budget": 3000,
+  "worker": "vc",
+  "materials": 9
+ },
+ {
+  "id": "HM07_04_prayer_flag_string_04",
+  "row": "HM07",
+  "flags": [],
+  "thumb_mean": 150.1,
+  "tris": 500,
+  "size": [
+   39.94,
+   2.0,
+   12.5
+  ],
+  "want": [
+   40.0,
+   2.0,
+   12.0
+  ],
+  "budget": 3000,
+  "worker": "vc",
+  "materials": 9
+ },
+ {
+  "id": "HM08_01_cairn_shrine_01",
+  "row": "HM08",
+  "flags": [],
+  "thumb_mean": 147.8,
+  "tris": 584,
+  "size": [
+   14.0,
+   14.0,
+   12.4
+  ],
+  "want": [
+   14.0,
+   14.0,
+   12.0
+  ],
+  "budget": 4000,
+  "worker": "vc",
+  "materials": 8
+ },
+ {
+  "id": "HM08_02_cairn_shrine_02",
+  "row": "HM08",
+  "flags": [],
+  "thumb_mean": 188.8,
+  "tris": 1098,
+  "size": [
+   14.0,
+   14.0,
+   12.0
+  ],
+  "want": [
+   14.0,
+   14.0,
+   12.0
+  ],
+  "budget": 4000,
+  "worker": "vc",
+  "materials": 3
+ },
+ {
+  "id": "HM08_03_cairn_shrine_03",
+  "row": "HM08",
+  "flags": [],
+  "thumb_mean": 123.1,
+  "tris": 616,
+  "size": [
+   12.8,
+   14.0,
+   12.4
+  ],
+  "want": [
+   14.0,
+   14.0,
+   12.0
+  ],
+  "budget": 4000,
+  "worker": "vc",
+  "materials": 6
+ },
+ {
+  "id": "HM08_04_cairn_shrine_04",
+  "row": "HM08",
+  "flags": [],
+  "thumb_mean": 135.0,
+  "tris": 300,
+  "size": [
+   12.8,
+   12.0,
+   12.4
+  ],
+  "want": [
+   14.0,
+   14.0,
+   12.0
+  ],
+  "budget": 4000,
+  "worker": "vc",
+  "materials": 5
+ },
+ {
+  "id": "HM09_01_monastery_outpost_01",
+  "row": "HM09",
+  "flags": [],
+  "thumb_mean": 151.5,
+  "tris": 824,
+  "size": [
+   38.0,
+   28.2,
+   29.05
+  ],
+  "want": [
+   40.0,
+   30.0,
+   30.0
+  ],
+  "budget": 14000,
+  "worker": "vc",
+  "materials": 7
+ },
+ {
+  "id": "HM09_02_monastery_outpost_02",
+  "row": "HM09",
+  "flags": [],
+  "thumb_mean": 161.4,
+  "tris": 1466,
+  "size": [
+   34.0,
+   31.2,
+   25.9
+  ],
+  "want": [
+   40.0,
+   30.0,
+   30.0
+  ],
+  "budget": 14000,
+  "worker": "vc",
+  "materials": 5
+ },
+ {
+  "id": "HM09_03_monastery_outpost_03",
+  "row": "HM09",
+  "flags": [],
+  "thumb_mean": 164.9,
+  "tris": 1436,
+  "size": [
+   38.0,
+   28.4,
+   30.0
+  ],
+  "want": [
+   40.0,
+   30.0,
+   30.0
+  ],
+  "budget": 14000,
+  "worker": "vc",
+  "materials": 6
+ },
+ {
+  "id": "HM09_04_monastery_outpost_04",
+  "row": "HM09",
+  "flags": [],
+  "thumb_mean": 139.5,
+  "tris": 1032,
+  "size": [
+   34.0,
+   30.0,
+   31.9
+  ],
+  "want": [
+   40.0,
+   30.0,
+   30.0
+  ],
+  "budget": 14000,
+  "worker": "vc",
+  "materials": 12
+ },
+ {
+  "id": "FR01_01_giant_tree_01",
+  "row": "FR01",
+  "flags": [],
+  "thumb_mean": 139.4,
+  "tris": 5964,
+  "size": [
+   92.09,
+   93.06,
+   170.73
+  ],
+  "want": [
+   90.0,
+   90.0,
+   160.0
+  ],
+  "budget": 40000,
+  "worker": "vg",
+  "materials": 5
+ },
+ {
+  "id": "FR01_02_giant_tree_02",
+  "row": "FR01",
+  "flags": [],
+  "thumb_mean": 141.6,
+  "tris": 4028,
+  "size": [
+   92.5,
+   91.15,
+   164.33
+  ],
+  "want": [
+   90.0,
+   90.0,
+   160.0
+  ],
+  "budget": 40000,
+  "worker": "vg",
+  "materials": 6
+ },
+ {
+  "id": "FR01_03_giant_tree_03",
+  "row": "FR01",
+  "flags": [],
+  "thumb_mean": 141.4,
+  "tris": 4760,
+  "size": [
+   90.0,
+   90.0,
+   169.72
+  ],
+  "want": [
+   90.0,
+   90.0,
+   160.0
+  ],
+  "budget": 40000,
+  "worker": "vg",
+  "materials": 6
+ },
+ {
+  "id": "FR01_04_giant_tree_04",
+  "row": "FR01",
+  "flags": [],
+  "thumb_mean": 140.9,
+  "tris": 3228,
+  "size": [
+   98.24,
+   91.72,
+   160.69
+  ],
+  "want": [
+   90.0,
+   90.0,
+   160.0
+  ],
+  "budget": 40000,
+  "worker": "vg",
+  "materials": 5
+ },
+ {
+  "id": "FR02_01_forest_ruin_01",
+  "row": "FR02",
+  "flags": [],
+  "thumb_mean": 141.4,
+  "tris": 1128,
+  "size": [
+   40.0,
+   30.0,
+   34.0
+  ],
+  "want": [
+   40.0,
+   30.0,
+   34.0
+  ],
+  "budget": 10000,
+  "worker": "vg",
+  "materials": 6
+ },
+ {
+  "id": "FR02_02_forest_ruin_02",
+  "row": "FR02",
+  "flags": [],
+  "thumb_mean": 135.2,
+  "tris": 1136,
+  "size": [
+   40.0,
+   30.0,
+   34.0
+  ],
+  "want": [
+   40.0,
+   30.0,
+   34.0
+  ],
+  "budget": 10000,
+  "worker": "vg",
+  "materials": 5
+ },
+ {
+  "id": "FR02_03_forest_ruin_03",
+  "row": "FR02",
+  "flags": [],
+  "thumb_mean": 134.8,
+  "tris": 876,
+  "size": [
+   41.12,
+   30.0,
+   34.0
+  ],
+  "want": [
+   40.0,
+   30.0,
+   34.0
+  ],
+  "budget": 10000,
+  "worker": "vg",
+  "materials": 5
+ },
+ {
+  "id": "FR02_04_forest_ruin_04",
+  "row": "FR02",
+  "flags": [],
+  "thumb_mean": 145.9,
+  "tris": 2172,
+  "size": [
+   42.62,
+   30.91,
+   34.11
+  ],
+  "want": [
+   40.0,
+   30.0,
+   34.0
+  ],
+  "budget": 10000,
+  "worker": "vg",
+  "materials": 6
+ },
+ {
+  "id": "FR02_05_forest_ruin_05",
+  "row": "FR02",
+  "flags": [],
+  "thumb_mean": 144.9,
+  "tris": 1052,
+  "size": [
+   40.0,
+   30.0,
+   34.0
+  ],
+  "want": [
+   40.0,
+   30.0,
+   34.0
+  ],
+  "budget": 10000,
+  "worker": "vg",
+  "materials": 9
+ },
+ {
+  "id": "FR02_06_forest_ruin_06",
+  "row": "FR02",
+  "flags": [],
+  "thumb_mean": 144.8,
+  "tris": 940,
+  "size": [
+   40.0,
+   30.0,
+   34.0
+  ],
+  "want": [
+   40.0,
+   30.0,
+   34.0
+  ],
+  "budget": 10000,
+  "worker": "vg",
+  "materials": 7
+ },
+ {
+  "id": "FR03_01_cave_mouth_01",
+  "row": "FR03",
+  "flags": [],
+  "thumb_mean": 136.0,
+  "tris": 648,
+  "size": [
+   40.0,
+   31.61,
+   30.0
+  ],
+  "want": [
+   40.0,
+   30.0,
+   30.0
+  ],
+  "budget": 10000,
+  "worker": "vg",
+  "materials": 8
+ },
+ {
+  "id": "FR03_02_cave_mouth_02",
+  "row": "FR03",
+  "flags": [],
+  "thumb_mean": 135.4,
+  "tris": 648,
+  "size": [
+   40.0,
+   32.36,
+   30.0
+  ],
+  "want": [
+   40.0,
+   30.0,
+   30.0
+  ],
+  "budget": 10000,
+  "worker": "vg",
+  "materials": 8
+ },
+ {
+  "id": "FR03_03_cave_mouth_03",
+  "row": "FR03",
+  "flags": [],
+  "thumb_mean": 135.7,
+  "tris": 672,
+  "size": [
+   40.0,
+   31.31,
+   30.0
+  ],
+  "want": [
+   40.0,
+   30.0,
+   30.0
+  ],
+  "budget": 10000,
+  "worker": "vg",
+  "materials": 8
+ },
+ {
+  "id": "FR03_04_cave_mouth_04",
+  "row": "FR03",
+  "flags": [],
+  "thumb_mean": 138.2,
+  "tris": 624,
+  "size": [
+   40.0,
+   31.7,
+   30.0
+  ],
+  "want": [
+   40.0,
+   30.0,
+   30.0
+  ],
+  "budget": 10000,
+  "worker": "vg",
+  "materials": 8
+ },
+ {
+  "id": "FR03_05_cave_mouth_05",
+  "row": "FR03",
+  "flags": [],
+  "thumb_mean": 136.5,
+  "tris": 648,
+  "size": [
+   40.0,
+   31.23,
+   30.0
+  ],
+  "want": [
+   40.0,
+   30.0,
+   30.0
+  ],
+  "budget": 10000,
+  "worker": "vg",
+  "materials": 8
+ },
+ {
+  "id": "FR03_06_cave_mouth_06",
+  "row": "FR03",
+  "flags": [],
+  "thumb_mean": 134.5,
+  "tris": 672,
+  "size": [
+   40.0,
+   32.46,
+   30.0
+  ],
+  "want": [
+   40.0,
+   30.0,
+   30.0
+  ],
+  "budget": 10000,
+  "worker": "vg",
+  "materials": 8
+ },
+ {
+  "id": "PL01_01_farmhouse_01",
+  "row": "PL01",
+  "flags": [],
+  "thumb_mean": 137.0,
+  "tris": 4186,
+  "size": [
+   29.5,
+   23.3,
+   21.27
+  ],
+  "want": [
+   28.0,
+   24.0,
+   22.0
+  ],
+  "budget": 10000,
+  "worker": "vi",
+  "materials": 13
+ },
+ {
+  "id": "PL01_02_farmhouse_02",
+  "row": "PL01",
+  "flags": [],
+  "thumb_mean": 139.2,
+  "tris": 2906,
+  "size": [
+   28.5,
+   23.15,
+   22.0
+  ],
+  "want": [
+   28.0,
+   24.0,
+   22.0
+  ],
+  "budget": 10000,
+  "worker": "vi",
+  "materials": 12
+ },
+ {
+  "id": "PL01_03_farmhouse_03",
+  "row": "PL01",
+  "flags": [],
+  "thumb_mean": 136.7,
+  "tris": 4390,
+  "size": [
+   26.39,
+   22.86,
+   21.85
+  ],
+  "want": [
+   28.0,
+   24.0,
+   22.0
+  ],
+  "budget": 10000,
+  "worker": "vi",
+  "materials": 10
+ },
+ {
+  "id": "PL01_04_farmhouse_04",
+  "row": "PL01",
+  "flags": [],
+  "thumb_mean": 139.9,
+  "tris": 6620,
+  "size": [
+   28.0,
+   22.45,
+   22.48
+  ],
+  "want": [
+   28.0,
+   24.0,
+   22.0
+  ],
+  "budget": 10000,
+  "worker": "vi",
+  "materials": 11
+ },
+ {
+  "id": "PL02_01_hay_silo_01",
+  "row": "PL02",
+  "flags": [],
+  "thumb_mean": 156.6,
+  "tris": 1200,
+  "size": [
+   14.0,
+   14.0,
+   24.0
+  ],
+  "want": [
+   14.0,
+   14.0,
+   24.0
+  ],
+  "budget": 5000,
+  "worker": "vi",
+  "materials": 5
+ },
+ {
+  "id": "PL02_02_hay_silo_02",
+  "row": "PL02",
+  "flags": [],
+  "thumb_mean": 162.1,
+  "tris": 288,
+  "size": [
+   14.0,
+   14.0,
+   24.0
+  ],
+  "want": [
+   14.0,
+   14.0,
+   24.0
+  ],
+  "budget": 5000,
+  "worker": "vi",
+  "materials": 3
+ },
+ {
+  "id": "PL02_03_hay_silo_03",
+  "row": "PL02",
+  "flags": [],
+  "thumb_mean": 155.1,
+  "tris": 974,
+  "size": [
+   14.0,
+   14.0,
+   23.2
+  ],
+  "want": [
+   14.0,
+   14.0,
+   24.0
+  ],
+  "budget": 5000,
+  "worker": "vi",
+  "materials": 5
+ },
+ {
+  "id": "PL03_01_farm_cart_01",
+  "row": "PL03",
+  "flags": [],
+  "thumb_mean": 142.0,
+  "tris": 632,
+  "size": [
+   13.57,
+   8.0,
+   8.0
+  ],
+  "want": [
+   14.0,
+   8.0,
+   8.0
+  ],
+  "budget": 3000,
+  "worker": "vi",
+  "materials": 4
+ },
+ {
+  "id": "PL03_02_farm_cart_02",
+  "row": "PL03",
+  "flags": [],
+  "thumb_mean": 143.5,
+  "tris": 820,
+  "size": [
+   13.84,
+   8.0,
+   8.0
+  ],
+  "want": [
+   14.0,
+   8.0,
+   8.0
+  ],
+  "budget": 3000,
+  "worker": "vi",
+  "materials": 4
+ },
+ {
+  "id": "PL04_01_mill_waterwheel",
+  "row": "PL04",
+  "flags": [],
+  "thumb_mean": 134.8,
+  "tris": 5700,
+  "size": [
+   35.3,
+   30.0,
+   30.0
+  ],
+  "want": [
+   34.0,
+   30.0,
+   30.0
+  ],
+  "budget": 16000,
+  "worker": "vi",
+  "materials": 13
+ },
+ {
+  "id": "PL05_01_ruined_watchtower_plains_01",
+  "row": "PL05",
+  "flags": [],
+  "thumb_mean": 151.6,
+  "tris": 2456,
+  "size": [
+   20.0,
+   20.0,
+   40.0
+  ],
+  "want": [
+   20.0,
+   20.0,
+   40.0
+  ],
+  "budget": 9000,
+  "worker": "vi",
+  "materials": 6
+ },
+ {
+  "id": "PL05_02_ruined_watchtower_plains_02",
+  "row": "PL05",
+  "flags": [],
+  "thumb_mean": 151.0,
+  "tris": 2720,
+  "size": [
+   20.0,
+   20.0,
+   40.0
+  ],
+  "want": [
+   20.0,
+   20.0,
+   40.0
+  ],
+  "budget": 9000,
+  "worker": "vi",
+  "materials": 6
+ },
+ {
+  "id": "PL05_03_ruined_watchtower_plains_03",
+  "row": "PL05",
+  "flags": [],
+  "thumb_mean": 150.9,
+  "tris": 2390,
+  "size": [
+   20.0,
+   21.83,
+   40.0
+  ],
+  "want": [
+   20.0,
+   20.0,
+   40.0
+  ],
+  "budget": 9000,
+  "worker": "vi",
+  "materials": 8
+ },
+ {
+  "id": "PL06_01_rock_arch_natural_01",
+  "row": "PL06",
+  "flags": [],
+  "thumb_mean": 145.2,
+  "tris": 504,
+  "size": [
+   62.14,
+   22.35,
+   40.0
+  ],
+  "want": [
+   60.0,
+   24.0,
+   40.0
+  ],
+  "budget": 12000,
+  "worker": "vi",
+  "materials": 7
+ },
+ {
+  "id": "PL06_02_rock_arch_natural_02",
+  "row": "PL06",
+  "flags": [],
+  "thumb_mean": 145.4,
+  "tris": 504,
+  "size": [
+   62.6,
+   24.0,
+   40.0
+  ],
+  "want": [
+   60.0,
+   24.0,
+   40.0
+  ],
+  "budget": 12000,
+  "worker": "vi",
+  "materials": 7
+ },
+ {
+  "id": "DS01_01_adobe_house_01",
+  "row": "DS01",
+  "flags": [],
+  "thumb_mean": 173.7,
+  "tris": 1202,
+  "size": [
+   20.0,
+   20.0,
+   18.0
+  ],
+  "want": [
+   20.0,
+   20.0,
+   18.0
+  ],
+  "budget": 8000,
+  "worker": "vh",
+  "materials": 8
+ },
+ {
+  "id": "DS01_02_adobe_house_02",
+  "row": "DS01",
+  "flags": [],
+  "thumb_mean": 168.4,
+  "tris": 1798,
+  "size": [
+   20.0,
+   20.0,
+   17.25
+  ],
+  "want": [
+   20.0,
+   20.0,
+   18.0
+  ],
+  "budget": 8000,
+  "worker": "vh",
+  "materials": 7
+ },
+ {
+  "id": "DS01_03_adobe_house_03",
+  "row": "DS01",
+  "flags": [],
+  "thumb_mean": 175.9,
+  "tris": 1804,
+  "size": [
+   20.0,
+   20.36,
+   18.0
+  ],
+  "want": [
+   20.0,
+   20.0,
+   18.0
+  ],
+  "budget": 8000,
+  "worker": "vh",
+  "materials": 7
+ },
+ {
+  "id": "DS01_04_adobe_house_04",
+  "row": "DS01",
+  "flags": [],
+  "thumb_mean": 175.8,
+  "tris": 1804,
+  "size": [
+   20.0,
+   20.36,
+   18.0
+  ],
+  "want": [
+   20.0,
+   20.0,
+   18.0
+  ],
+  "budget": 8000,
+  "worker": "vh",
+  "materials": 7
+ },
+ {
+  "id": "DS01_05_adobe_house_05",
+  "row": "DS01",
+  "flags": [],
+  "thumb_mean": 172.2,
+  "tris": 2288,
+  "size": [
+   20.0,
+   20.36,
+   18.0
+  ],
+  "want": [
+   20.0,
+   20.0,
+   18.0
+  ],
+  "budget": 8000,
+  "worker": "vh",
+  "materials": 8
+ },
+ {
+  "id": "DS01_06_adobe_house_06",
+  "row": "DS01",
+  "flags": [],
+  "thumb_mean": 160.2,
+  "tris": 1468,
+  "size": [
+   20.0,
+   20.0,
+   18.0
+  ],
+  "want": [
+   20.0,
+   20.0,
+   18.0
+  ],
+  "budget": 8000,
+  "worker": "vh",
+  "materials": 7
+ },
+ {
+  "id": "DS02_01_desert_market_01",
+  "row": "DS02",
+  "flags": [],
+  "thumb_mean": 145.1,
+  "tris": 1126,
+  "size": [
+   24.0,
+   18.0,
+   16.0
+  ],
+  "want": [
+   24.0,
+   18.0,
+   16.0
+  ],
+  "budget": 6000,
+  "worker": "vh",
+  "materials": 11
+ },
+ {
+  "id": "DS02_02_desert_market_02",
+  "row": "DS02",
+  "flags": [],
+  "thumb_mean": 142.2,
+  "tris": 600,
+  "size": [
+   24.0,
+   18.0,
+   16.0
+  ],
+  "want": [
+   24.0,
+   18.0,
+   16.0
+  ],
+  "budget": 6000,
+  "worker": "vh",
+  "materials": 8
+ },
+ {
+  "id": "DS02_03_desert_market_03",
+  "row": "DS02",
+  "flags": [],
+  "thumb_mean": 146.4,
+  "tris": 604,
+  "size": [
+   24.0,
+   18.0,
+   16.0
+  ],
+  "want": [
+   24.0,
+   18.0,
+   16.0
+  ],
+  "budget": 6000,
+  "worker": "vh",
+  "materials": 8
+ },
+ {
+  "id": "DS03_01_caravan_wagon_01",
+  "row": "DS03",
+  "flags": [],
+  "thumb_mean": 151.3,
+  "tris": 1116,
+  "size": [
+   18.0,
+   10.0,
+   12.0
+  ],
+  "want": [
+   18.0,
+   10.0,
+   12.0
+  ],
+  "budget": 5000,
+  "worker": "vh",
+  "materials": 5
+ },
+ {
+  "id": "DS03_02_caravan_wagon_02",
+  "row": "DS03",
+  "flags": [],
+  "thumb_mean": 138.3,
+  "tris": 1168,
+  "size": [
+   18.0,
+   10.0,
+   12.0
+  ],
+  "want": [
+   18.0,
+   10.0,
+   12.0
+  ],
+  "budget": 5000,
+  "worker": "vh",
+  "materials": 5
+ },
+ {
+  "id": "DS04_01_palm_01",
+  "row": "DS04",
+  "flags": [],
+  "thumb_mean": 150.1,
+  "tris": 3816,
+  "size": [
+   14.0,
+   14.0,
+   40.08
+  ],
+  "want": [
+   14.0,
+   14.0,
+   42.0
+  ],
+  "budget": 6000,
+  "worker": "vh",
+  "materials": 4
+ },
+ {
+  "id": "DS04_02_palm_02",
+  "row": "DS04",
+  "flags": [],
+  "thumb_mean": 150.1,
+  "tris": 2952,
+  "size": [
+   14.0,
+   14.0,
+   42.0
+  ],
+  "want": [
+   14.0,
+   14.0,
+   42.0
+  ],
+  "budget": 6000,
+  "worker": "vh",
+  "materials": 4
+ },
+ {
+  "id": "DS04_03_palm_03",
+  "row": "DS04",
+  "flags": [],
+  "thumb_mean": 150.9,
+  "tris": 3816,
+  "size": [
+   14.0,
+   14.0,
+   44.07
+  ],
+  "want": [
+   14.0,
+   14.0,
+   42.0
+  ],
+  "budget": 6000,
+  "worker": "vh",
+  "materials": 4
+ },
+ {
+  "id": "DS05_01_oasis_rock_ring_01",
+  "row": "DS05",
+  "flags": [],
+  "thumb_mean": 149.0,
+  "tris": 2534,
+  "size": [
+   53.44,
+   50.0,
+   10.74
+  ],
+  "want": [
+   50.0,
+   50.0,
+   10.0
+  ],
+  "budget": 8000,
+  "worker": "vh",
+  "materials": 7
+ },
+ {
+  "id": "DS05_02_oasis_rock_ring_02",
+  "row": "DS05",
+  "flags": [],
+  "thumb_mean": 151.4,
+  "tris": 1900,
+  "size": [
+   51.27,
+   53.13,
+   10.0
+  ],
+  "want": [
+   50.0,
+   50.0,
+   10.0
+  ],
+  "budget": 8000,
+  "worker": "vh",
+  "materials": 8
+ },
+ {
+  "id": "DS06_01_canyon_wall_01",
+  "row": "DS06",
+  "flags": [],
+  "thumb_mean": 150.1,
+  "tris": 4584,
+  "size": [
+   126.64,
+   40.0,
+   93.19
+  ],
+  "want": [
+   120.0,
+   40.0,
+   90.0
+  ],
+  "budget": 20000,
+  "worker": "vh",
+  "materials": 7
+ },
+ {
+  "id": "DS06_02_canyon_wall_02",
+  "row": "DS06",
+  "flags": [],
+  "thumb_mean": 149.4,
+  "tris": 2880,
+  "size": [
+   127.06,
+   40.0,
+   93.43
+  ],
+  "want": [
+   120.0,
+   40.0,
+   90.0
+  ],
+  "budget": 20000,
+  "worker": "vh",
+  "materials": 7
+ },
+ {
+  "id": "DS06_03_canyon_wall_03",
+  "row": "DS06",
+  "flags": [],
+  "thumb_mean": 148.7,
+  "tris": 2988,
+  "size": [
+   124.84,
+   40.0,
+   93.93
+  ],
+  "want": [
+   120.0,
+   40.0,
+   90.0
+  ],
+  "budget": 20000,
+  "worker": "vh",
+  "materials": 7
+ },
+ {
+  "id": "DS06_04_canyon_wall_04",
+  "row": "DS06",
+  "flags": [],
+  "thumb_mean": 149.2,
+  "tris": 4620,
+  "size": [
+   125.42,
+   40.0,
+   91.63
+  ],
+  "want": [
+   120.0,
+   40.0,
+   90.0
+  ],
+  "budget": 20000,
+  "worker": "vh",
+  "materials": 7
+ },
+ {
+  "id": "DS07_01_hoodoo_arch_01",
+  "row": "DS07",
+  "flags": [],
+  "thumb_mean": 148.0,
+  "tris": 1488,
+  "size": [
+   40.0,
+   30.0,
+   70.0
+  ],
+  "want": [
+   40.0,
+   30.0,
+   70.0
+  ],
+  "budget": 12000,
+  "worker": "vh",
+  "materials": 7
+ },
+ {
+  "id": "DS07_02_hoodoo_arch_02",
+  "row": "DS07",
+  "flags": [],
+  "thumb_mean": 149.6,
+  "tris": 1488,
+  "size": [
+   40.0,
+   30.0,
+   70.0
+  ],
+  "want": [
+   40.0,
+   30.0,
+   70.0
+  ],
+  "budget": 12000,
+  "worker": "vh",
+  "materials": 7
+ },
+ {
+  "id": "DS07_03_hoodoo_arch_03",
+  "row": "DS07",
+  "flags": [],
+  "thumb_mean": 148.6,
+  "tris": 1584,
+  "size": [
+   40.0,
+   30.0,
+   70.0
+  ],
+  "want": [
+   40.0,
+   30.0,
+   70.0
+  ],
+  "budget": 12000,
+  "worker": "vh",
+  "materials": 7
+ },
+ {
+  "id": "DS07_04_hoodoo_arch_04",
+  "row": "DS07",
+  "flags": [],
+  "thumb_mean": 149.0,
+  "tris": 1596,
+  "size": [
+   40.0,
+   30.0,
+   70.0
+  ],
+  "want": [
+   40.0,
+   30.0,
+   70.0
+  ],
+  "budget": 12000,
+  "worker": "vh",
+  "materials": 7
+ },
+ {
+  "id": "DS08_01_underground_entrance_01",
+  "row": "DS08",
+  "flags": [],
+  "thumb_mean": 166.1,
+  "tris": 864,
+  "size": [
+   30.0,
+   30.6,
+   23.86
+  ],
+  "want": [
+   30.0,
+   30.0,
+   24.0
+  ],
+  "budget": 9000,
+  "worker": "vh",
+  "materials": 9
+ },
+ {
+  "id": "DS08_02_underground_entrance_02",
+  "row": "DS08",
+  "flags": [],
+  "thumb_mean": 166.1,
+  "tris": 884,
+  "size": [
+   30.0,
+   30.6,
+   24.0
+  ],
+  "want": [
+   30.0,
+   30.0,
+   24.0
+  ],
+  "budget": 9000,
+  "worker": "vh",
+  "materials": 9
+ },
+ {
+  "id": "DS08_03_underground_entrance_03",
+  "row": "DS08",
+  "flags": [],
+  "thumb_mean": 165.5,
+  "tris": 872,
+  "size": [
+   30.0,
+   30.6,
+   23.83
+  ],
+  "want": [
+   30.0,
+   30.0,
+   24.0
+  ],
+  "budget": 9000,
+  "worker": "vh",
+  "materials": 8
+ },
+ {
+  "id": "CO01_01_coastal_cliff_01",
+  "row": "CO01",
+  "flags": [],
+  "thumb_mean": 139.3,
+  "tris": 2460,
+  "size": [
+   114.95,
+   50.0,
+   70.38
+  ],
+  "want": [
+   110.0,
+   50.0,
+   70.0
+  ],
+  "budget": 18000,
+  "worker": "vf",
+  "materials": 4
+ },
+ {
+  "id": "CO01_02_coastal_cliff_02",
+  "row": "CO01",
+  "flags": [],
+  "thumb_mean": 140.3,
+  "tris": 2268,
+  "size": [
+   120.1,
+   50.0,
+   65.39
+  ],
+  "want": [
+   110.0,
+   50.0,
+   70.0
+  ],
+  "budget": 18000,
+  "worker": "vf",
+  "materials": 4
+ },
+ {
+  "id": "CO01_03_coastal_cliff_03",
+  "row": "CO01",
+  "flags": [],
+  "thumb_mean": 138.6,
+  "tris": 2784,
+  "size": [
+   110.0,
+   50.0,
+   74.72
+  ],
+  "want": [
+   110.0,
+   50.0,
+   70.0
+  ],
+  "budget": 18000,
+  "worker": "vf",
+  "materials": 6
+ },
+ {
+  "id": "CO01_04_coastal_cliff_04",
+  "row": "CO01",
+  "flags": [],
+  "thumb_mean": 143.7,
+  "tris": 2688,
+  "size": [
+   114.2,
+   48.72,
+   70.0
+  ],
+  "want": [
+   110.0,
+   50.0,
+   70.0
+  ],
+  "budget": 18000,
+  "worker": "vf",
+  "materials": 4
+ },
+ {
+  "id": "CO01_05_coastal_cliff_05",
+  "row": "CO01",
+  "flags": [],
+  "thumb_mean": 140.0,
+  "tris": 3912,
+  "size": [
+   110.0,
+   50.0,
+   71.04
+  ],
+  "want": [
+   110.0,
+   50.0,
+   70.0
+  ],
+  "budget": 18000,
+  "worker": "vf",
+  "materials": 8
+ },
+ {
+  "id": "CO01_06_coastal_cliff_06",
+  "row": "CO01",
+  "flags": [],
+  "thumb_mean": 140.4,
+  "tris": 2076,
+  "size": [
+   113.37,
+   50.0,
+   63.52
+  ],
+  "want": [
+   110.0,
+   50.0,
+   70.0
+  ],
+  "budget": 18000,
+  "worker": "vf",
+  "materials": 4
+ },
+ {
+  "id": "CO02_01_sea_stack_01",
+  "row": "CO02",
+  "flags": [],
+  "thumb_mean": 150.4,
+  "tris": 1176,
+  "size": [
+   40.0,
+   40.0,
+   93.4
+  ],
+  "want": [
+   40.0,
+   40.0,
+   90.0
+  ],
+  "budget": 14000,
+  "worker": "vf",
+  "materials": 3
+ },
+ {
+  "id": "CO02_02_sea_stack_02",
+  "row": "CO02",
+  "flags": [],
+  "thumb_mean": 156.5,
+  "tris": 1400,
+  "size": [
+   40.0,
+   40.0,
+   95.0
+  ],
+  "want": [
+   40.0,
+   40.0,
+   90.0
+  ],
+  "budget": 14000,
+  "worker": "vf",
+  "materials": 3
+ },
+ {
+  "id": "CO02_03_sea_stack_03",
+  "row": "CO02",
+  "flags": [],
+  "thumb_mean": 153.1,
+  "tris": 1608,
+  "size": [
+   40.0,
+   40.0,
+   94.01
+  ],
+  "want": [
+   40.0,
+   40.0,
+   90.0
+  ],
+  "budget": 14000,
+  "worker": "vf",
+  "materials": 3
+ },
+ {
+  "id": "CO03_01_reef_01",
+  "row": "CO03",
+  "flags": [],
+  "thumb_mean": 144.4,
+  "tris": 2144,
+  "size": [
+   29.4,
+   28.0,
+   6.0
+  ],
+  "want": [
+   30.0,
+   30.0,
+   6.0
+  ],
+  "budget": 6000,
+  "worker": "vi",
+  "materials": 6
+ },
+ {
+  "id": "CO03_02_reef_02",
+  "row": "CO03",
+  "flags": [],
+  "thumb_mean": 144.2,
+  "tris": 2162,
+  "size": [
+   29.4,
+   28.0,
+   6.0
+  ],
+  "want": [
+   30.0,
+   30.0,
+   6.0
+  ],
+  "budget": 6000,
+  "worker": "vi",
+  "materials": 7
+ },
+ {
+  "id": "CO03_03_reef_03",
+  "row": "CO03",
+  "flags": [],
+  "thumb_mean": 144.5,
+  "tris": 2582,
+  "size": [
+   29.4,
+   28.38,
+   6.0
+  ],
+  "want": [
+   30.0,
+   30.0,
+   6.0
+  ],
+  "budget": 6000,
+  "worker": "vi",
+  "materials": 6
+ },
+ {
+  "id": "CO03_04_reef_04",
+  "row": "CO03",
+  "flags": [],
+  "thumb_mean": 145.1,
+  "tris": 2144,
+  "size": [
+   29.4,
+   28.0,
+   6.0
+  ],
+  "want": [
+   30.0,
+   30.0,
+   6.0
+  ],
+  "budget": 6000,
+  "worker": "vi",
+  "materials": 6
+ },
+ {
+  "id": "CO03_05_reef_05",
+  "row": "CO03",
+  "flags": [],
+  "thumb_mean": 144.6,
+  "tris": 2384,
+  "size": [
+   29.4,
+   28.0,
+   6.0
+  ],
+  "want": [
+   30.0,
+   30.0,
+   6.0
+  ],
+  "budget": 6000,
+  "worker": "vi",
+  "materials": 7
+ },
+ {
+  "id": "CO03_06_reef_06",
+  "row": "CO03",
+  "flags": [],
+  "thumb_mean": 144.3,
+  "tris": 2582,
+  "size": [
+   29.4,
+   28.0,
+   6.0
+  ],
+  "want": [
+   30.0,
+   30.0,
+   6.0
+  ],
+  "budget": 6000,
+  "worker": "vi",
+  "materials": 6
+ },
+ {
+  "id": "CO04_01_sea_arch_01",
+  "row": "CO04",
+  "flags": [],
+  "thumb_mean": 144.3,
+  "tris": 1992,
+  "size": [
+   70.0,
+   30.0,
+   60.0
+  ],
+  "want": [
+   70.0,
+   30.0,
+   60.0
+  ],
+  "budget": 14000,
+  "worker": "vi",
+  "materials": 6
+ },
+ {
+  "id": "CO04_02_sea_arch_02",
+  "row": "CO04",
+  "flags": [],
+  "thumb_mean": 143.8,
+  "tris": 1728,
+  "size": [
+   70.0,
+   27.99,
+   60.0
+  ],
+  "want": [
+   70.0,
+   30.0,
+   60.0
+  ],
+  "budget": 14000,
+  "worker": "vi",
+  "materials": 6
+ },
+ {
+  "id": "CO05_01_ruin_islet_01",
+  "row": "CO05",
+  "flags": [],
+  "thumb_mean": 144.7,
+  "tris": 11544,
+  "size": [
+   60.0,
+   60.0,
+   40.0
+  ],
+  "want": [
+   60.0,
+   60.0,
+   40.0
+  ],
+  "budget": 16000,
+  "worker": "vi",
+  "materials": 11
+ },
+ {
+  "id": "CO05_02_ruin_islet_02",
+  "row": "CO05",
+  "flags": [],
+  "thumb_mean": 146.1,
+  "tris": 10528,
+  "size": [
+   60.0,
+   60.0,
+   40.0
+  ],
+  "want": [
+   60.0,
+   60.0,
+   40.0
+  ],
+  "budget": 16000,
+  "worker": "vi",
+  "materials": 10
+ },
+ {
+  "id": "CO05_03_ruin_islet_03",
+  "row": "CO05",
+  "flags": [],
+  "thumb_mean": 145.8,
+  "tris": 10976,
+  "size": [
+   60.0,
+   60.0,
+   40.0
+  ],
+  "want": [
+   60.0,
+   60.0,
+   40.0
+  ],
+  "budget": 16000,
+  "worker": "vi",
+  "materials": 11
+ },
+ {
+  "id": "RD01_01_watchtower_01",
+  "row": "RD01",
+  "flags": [],
+  "thumb_mean": 159.1,
+  "tris": 2920,
+  "size": [
+   20.0,
+   20.0,
+   50.0
+  ],
+  "want": [
+   20.0,
+   20.0,
+   50.0
+  ],
+  "budget": 11000,
+  "worker": "vi",
+  "materials": 8
+ },
+ {
+  "id": "RD01_02_watchtower_02",
+  "row": "RD01",
+  "flags": [],
+  "thumb_mean": 153.5,
+  "tris": 2356,
+  "size": [
+   20.0,
+   19.7,
+   50.0
+  ],
+  "want": [
+   20.0,
+   20.0,
+   50.0
+  ],
+  "budget": 11000,
+  "worker": "vi",
+  "materials": 8
+ },
+ {
+  "id": "RD01_03_watchtower_03",
+  "row": "RD01",
+  "flags": [],
+  "thumb_mean": 151.2,
+  "tris": 2844,
+  "size": [
+   20.8,
+   20.48,
+   46.4
+  ],
+  "want": [
+   20.0,
+   20.0,
+   50.0
+  ],
+  "budget": 11000,
+  "worker": "vi",
+  "materials": 8
+ },
+ {
+  "id": "RD01_04_watchtower_04",
+  "row": "RD01",
+  "flags": [],
+  "thumb_mean": 155.0,
+  "tris": 2496,
+  "size": [
+   19.76,
+   19.84,
+   47.43
+  ],
+  "want": [
+   20.0,
+   20.0,
+   50.0
+  ],
+  "budget": 11000,
+  "worker": "vi",
+  "materials": 6
+ },
+ {
+  "id": "RD02_01_camp_set_01",
+  "row": "RD02",
+  "flags": [],
+  "thumb_mean": 163.4,
+  "tris": 200,
+  "size": [
+   16.0,
+   14.0,
+   10.02
+  ],
+  "want": [
+   16.0,
+   14.0,
+   10.0
+  ],
+  "budget": 4000,
+  "worker": "vi",
+  "materials": 5
+ },
+ {
+  "id": "RD02_02_camp_set_02",
+  "row": "RD02",
+  "flags": [],
+  "thumb_mean": 145.0,
+  "tris": 232,
+  "size": [
+   16.05,
+   14.0,
+   9.24
+  ],
+  "want": [
+   16.0,
+   14.0,
+   10.0
+  ],
+  "budget": 4000,
+  "worker": "vi",
+  "materials": 4
+ },
+ {
+  "id": "RD02_03_camp_set_03",
+  "row": "RD02",
+  "flags": [],
+  "thumb_mean": 128.9,
+  "tris": 404,
+  "size": [
+   16.0,
+   14.0,
+   10.0
+  ],
+  "want": [
+   16.0,
+   14.0,
+   10.0
+  ],
+  "budget": 4000,
+  "worker": "vi",
+  "materials": 4
+ },
+ {
+  "id": "RD02_04_camp_set_04",
+  "row": "RD02",
+  "flags": [],
+  "thumb_mean": 140.0,
+  "tris": 232,
+  "size": [
+   16.0,
+   14.0,
+   10.0
+  ],
+  "want": [
+   16.0,
+   14.0,
+   10.0
+  ],
+  "budget": 4000,
+  "worker": "vi",
+  "materials": 4
+ },
+ {
+  "id": "RD02_05_camp_set_05",
+  "row": "RD02",
+  "flags": [],
+  "thumb_mean": 139.3,
+  "tris": 810,
+  "size": [
+   16.0,
+   14.0,
+   10.0
+  ],
+  "want": [
+   16.0,
+   14.0,
+   10.0
+  ],
+  "budget": 4000,
+  "worker": "vi",
+  "materials": 11
+ },
+ {
+  "id": "RD02_06_camp_set_06",
+  "row": "RD02",
+  "flags": [],
+  "thumb_mean": 138.6,
+  "tris": 668,
+  "size": [
+   16.0,
+   14.0,
+   10.0
+  ],
+  "want": [
+   16.0,
+   14.0,
+   10.0
+  ],
+  "budget": 4000,
+  "worker": "vi",
+  "materials": 3
+ },
+ {
+  "id": "RD03_01_waystation_01",
+  "row": "RD03",
+  "flags": [],
+  "thumb_mean": 139.9,
+  "tris": 2488,
+  "size": [
+   30.0,
+   24.0,
+   20.0
+  ],
+  "want": [
+   30.0,
+   24.0,
+   20.0
+  ],
+  "budget": 10000,
+  "worker": "vi",
+  "materials": 13
+ },
+ {
+  "id": "RD03_02_waystation_02",
+  "row": "RD03",
+  "flags": [],
+  "thumb_mean": 135.0,
+  "tris": 4960,
+  "size": [
+   30.0,
+   24.0,
+   21.03
+  ],
+  "want": [
+   30.0,
+   24.0,
+   20.0
+  ],
+  "budget": 10000,
+  "worker": "vi",
+  "materials": 12
+ },
+ {
+  "id": "RD04_01_trading_post_01",
+  "row": "RD04",
+  "flags": [
+   "MANY MATERIALS 15"
+  ],
+  "thumb_mean": 134.1,
+  "tris": 4948,
+  "size": [
+   30.0,
+   24.0,
+   21.16
+  ],
+  "want": [
+   30.0,
+   24.0,
+   20.0
+  ],
+  "budget": 11000,
+  "worker": "vi",
+  "materials": 15
+ },
+ {
+  "id": "RD04_02_trading_post_02",
+  "row": "RD04",
+  "flags": [],
+  "thumb_mean": 136.2,
+  "tris": 4932,
+  "size": [
+   30.0,
+   24.0,
+   20.0
+  ],
+  "want": [
+   30.0,
+   24.0,
+   20.0
+  ],
+  "budget": 11000,
+  "worker": "vi",
+  "materials": 14
+ },
+ {
+  "id": "RD05_01_battlefield_prop_01",
+  "row": "RD05",
+  "flags": [],
+  "thumb_mean": 136.9,
+  "tris": 1120,
+  "size": [
+   13.41,
+   10.0,
+   10.0
+  ],
+  "want": [
+   14.0,
+   10.0,
+   10.0
+  ],
+  "budget": 3000,
+  "worker": "vi",
+  "materials": 4
+ },
+ {
+  "id": "RD05_02_battlefield_prop_02",
+  "row": "RD05",
+  "flags": [],
+  "thumb_mean": 137.2,
+  "tris": 748,
+  "size": [
+   14.0,
+   10.0,
+   10.0
+  ],
+  "want": [
+   14.0,
+   10.0,
+   10.0
+  ],
+  "budget": 3000,
+  "worker": "vi",
+  "materials": 6
+ },
+ {
+  "id": "RD05_03_battlefield_prop_03",
+  "row": "RD05",
+  "flags": [],
+  "thumb_mean": 143.7,
+  "tris": 268,
+  "size": [
+   14.0,
+   10.0,
+   9.82
+  ],
+  "want": [
+   14.0,
+   10.0,
+   10.0
+  ],
+  "budget": 3000,
+  "worker": "vi",
+  "materials": 7
+ },
+ {
+  "id": "RD05_04_battlefield_prop_04",
+  "row": "RD05",
+  "flags": [],
+  "thumb_mean": 138.2,
+  "tris": 468,
+  "size": [
+   14.0,
+   10.0,
+   10.0
+  ],
+  "want": [
+   14.0,
+   10.0,
+   10.0
+  ],
+  "budget": 3000,
+  "worker": "vi",
+  "materials": 4
+ },
+ {
+  "id": "RD05_05_battlefield_prop_05",
+  "row": "RD05",
+  "flags": [],
+  "thumb_mean": 137.8,
+  "tris": 948,
+  "size": [
+   14.0,
+   9.76,
+   10.11
+  ],
+  "want": [
+   14.0,
+   10.0,
+   10.0
+  ],
+  "budget": 3000,
+  "worker": "vi",
+  "materials": 6
+ },
+ {
+  "id": "RD06_01_abandoned_house_01",
+  "row": "RD06",
+  "flags": [],
+  "thumb_mean": 150.2,
+  "tris": 1926,
+  "size": [
+   22.0,
+   20.0,
+   20.0
+  ],
+  "want": [
+   22.0,
+   20.0,
+   20.0
+  ],
+  "budget": 9000,
+  "worker": "vi",
+  "materials": 9
+ },
+ {
+  "id": "RD06_02_abandoned_house_02",
+  "row": "RD06",
+  "flags": [
+   "MANY MATERIALS 16"
+  ],
+  "thumb_mean": 132.3,
+  "tris": 7176,
+  "size": [
+   22.0,
+   18.99,
+   20.0
+  ],
+  "want": [
+   22.0,
+   20.0,
+   20.0
+  ],
+  "budget": 9000,
+  "worker": "vi",
+  "materials": 16
+ },
+ {
+  "id": "RD06_03_abandoned_house_03",
+  "row": "RD06",
+  "flags": [],
+  "thumb_mean": 151.5,
+  "tris": 1862,
+  "size": [
+   22.0,
+   20.0,
+   20.0
+  ],
+  "want": [
+   22.0,
+   20.0,
+   20.0
+  ],
+  "budget": 9000,
+  "worker": "vi",
+  "materials": 8
+ },
+ {
+  "id": "RD06_04_abandoned_house_04",
+  "row": "RD06",
+  "flags": [],
+  "thumb_mean": 119.8,
+  "tris": 3926,
+  "size": [
+   23.8,
+   20.92,
+   20.0
+  ],
+  "want": [
+   22.0,
+   20.0,
+   20.0
+  ],
+  "budget": 9000,
+  "worker": "vi",
+  "materials": 5
+ },
+ {
+  "id": "RD06_05_abandoned_house_05",
+  "row": "RD06",
+  "flags": [],
+  "thumb_mean": 144.8,
+  "tris": 2968,
+  "size": [
+   22.0,
+   20.0,
+   20.0
+  ],
+  "want": [
+   22.0,
+   20.0,
+   20.0
+  ],
+  "budget": 9000,
+  "worker": "vi",
+  "materials": 9
+ },
+ {
+  "id": "VG01_01_tree_tall_narrow_01",
+  "row": "VG01",
+  "flags": [],
+  "thumb_mean": 149.1,
+  "tris": 2084,
+  "size": [
+   14.0,
+   14.0,
+   45.77
+  ],
+  "want": [
+   14.0,
+   14.0,
+   46.0
+  ],
+  "budget": 9000,
+  "worker": "vf",
+  "materials": 3
+ },
+ {
+  "id": "VG01_02_tree_tall_narrow_02",
+  "row": "VG01",
+  "flags": [],
+  "thumb_mean": 146.6,
+  "tris": 2104,
+  "size": [
+   14.63,
+   15.03,
+   45.46
+  ],
+  "want": [
+   14.0,
+   14.0,
+   46.0
+  ],
+  "budget": 9000,
+  "worker": "vf",
+  "materials": 4
+ },
+ {
+  "id": "VG01_03_tree_tall_narrow_03",
+  "row": "VG01",
+  "flags": [],
+  "thumb_mean": 147.5,
+  "tris": 2832,
+  "size": [
+   14.29,
+   14.61,
+   42.86
+  ],
+  "want": [
+   14.0,
+   14.0,
+   46.0
+  ],
+  "budget": 9000,
+  "worker": "vf",
+  "materials": 3
+ },
+ {
+  "id": "VG02_01_tree_old_oak_01",
+  "row": "VG02",
+  "flags": [],
+  "thumb_mean": 137.7,
+  "tris": 2844,
+  "size": [
+   29.2,
+   30.93,
+   44.51
+  ],
+  "want": [
+   30.0,
+   30.0,
+   42.0
+  ],
+  "budget": 14000,
+  "worker": "vf",
+  "materials": 3
+ },
+ {
+  "id": "VG02_02_tree_old_oak_02",
+  "row": "VG02",
+  "flags": [],
+  "thumb_mean": 139.1,
+  "tris": 2832,
+  "size": [
+   27.1,
+   30.0,
+   42.12
+  ],
+  "want": [
+   30.0,
+   30.0,
+   42.0
+  ],
+  "budget": 14000,
+  "worker": "vf",
+  "materials": 3
+ },
+ {
+  "id": "VG03_01_tree_flowering_01",
+  "row": "VG03",
+  "flags": [],
+  "thumb_mean": 147.7,
+  "tris": 3240,
+  "size": [
+   23.5,
+   23.42,
+   28.6
+  ],
+  "want": [
+   22.0,
+   22.0,
+   30.0
+  ],
+  "budget": 12000,
+  "worker": "vf",
+  "materials": 5
+ },
+ {
+  "id": "VG03_02_tree_flowering_02",
+  "row": "VG03",
+  "flags": [],
+  "thumb_mean": 148.6,
+  "tris": 3464,
+  "size": [
+   22.52,
+   22.71,
+   28.4
+  ],
+  "want": [
+   22.0,
+   22.0,
+   30.0
+  ],
+  "budget": 12000,
+  "worker": "vf",
+  "materials": 5
+ },
+ {
+  "id": "VG04_01_tree_birch_01",
+  "row": "VG04",
+  "flags": [],
+  "thumb_mean": 151.8,
+  "tris": 1818,
+  "size": [
+   14.0,
+   14.0,
+   33.0
+  ],
+  "want": [
+   14.0,
+   14.0,
+   34.0
+  ],
+  "budget": 8000,
+  "worker": "vg",
+  "materials": 5
+ },
+ {
+  "id": "VG04_02_tree_birch_02",
+  "row": "VG04",
+  "flags": [],
+  "thumb_mean": 152.9,
+  "tris": 1818,
+  "size": [
+   14.0,
+   14.0,
+   34.43
+  ],
+  "want": [
+   14.0,
+   14.0,
+   34.0
+  ],
+  "budget": 8000,
+  "worker": "vg",
+  "materials": 5
+ },
+ {
+  "id": "VG04_03_tree_birch_03",
+  "row": "VG04",
+  "flags": [],
+  "thumb_mean": 152.7,
+  "tris": 2088,
+  "size": [
+   14.0,
+   14.0,
+   33.11
+  ],
+  "want": [
+   14.0,
+   14.0,
+   34.0
+  ],
+  "budget": 8000,
+  "worker": "vg",
+  "materials": 5
+ },
+ {
+  "id": "VG05_01_tree_cypress_swamp_01",
+  "row": "VG05",
+  "flags": [],
+  "thumb_mean": 141.2,
+  "tris": 1724,
+  "size": [
+   21.82,
+   23.39,
+   41.05
+  ],
+  "want": [
+   22.0,
+   22.0,
+   38.0
+  ],
+  "budget": 11000,
+  "worker": "vg",
+  "materials": 4
+ },
+ {
+  "id": "VG05_02_tree_cypress_swamp_02",
+  "row": "VG05",
+  "flags": [],
+  "thumb_mean": 138.5,
+  "tris": 1592,
+  "size": [
+   22.0,
+   22.0,
+   38.27
+  ],
+  "want": [
+   22.0,
+   22.0,
+   38.0
+  ],
+  "budget": 11000,
+  "worker": "vg",
+  "materials": 4
+ },
+ {
+  "id": "VG05_03_tree_cypress_swamp_03",
+  "row": "VG05",
+  "flags": [],
+  "thumb_mean": 139.6,
+  "tris": 1248,
+  "size": [
+   22.0,
+   22.0,
+   38.35
+  ],
+  "want": [
+   22.0,
+   22.0,
+   38.0
+  ],
+  "budget": 11000,
+  "worker": "vg",
+  "materials": 4
+ },
+ {
+  "id": "VG06_01_marsh_hummock_01",
+  "row": "VG06",
+  "flags": [],
+  "thumb_mean": 145.6,
+  "tris": 872,
+  "size": [
+   16.79,
+   16.0,
+   6.0
+  ],
+  "want": [
+   16.0,
+   16.0,
+   6.0
+  ],
+  "budget": 3000,
+  "worker": "vg",
+  "materials": 4
+ },
+ {
+  "id": "VG06_02_marsh_hummock_02",
+  "row": "VG06",
+  "flags": [],
+  "thumb_mean": 144.6,
+  "tris": 1028,
+  "size": [
+   16.84,
+   17.1,
+   6.0
+  ],
+  "want": [
+   16.0,
+   16.0,
+   6.0
+  ],
+  "budget": 3000,
+  "worker": "vg",
+  "materials": 4
+ },
+ {
+  "id": "VG07_01_boardwalk_01",
+  "row": "VG07",
+  "flags": [],
+  "thumb_mean": 145.5,
+  "tris": 664,
+  "size": [
+   30.0,
+   6.0,
+   4.0
+  ],
+  "want": [
+   30.0,
+   6.0,
+   4.0
+  ],
+  "budget": 3000,
+  "worker": "vg",
+  "materials": 3
+ },
+ {
+  "id": "VG07_02_boardwalk_02",
+  "row": "VG07",
+  "flags": [],
+  "thumb_mean": 145.4,
+  "tris": 1064,
+  "size": [
+   30.0,
+   5.8,
+   4.0
+  ],
+  "want": [
+   30.0,
+   6.0,
+   4.0
+  ],
+  "budget": 3000,
+  "worker": "vg",
+  "materials": 4
+ },
+ {
+  "id": "TW01_01_town1_hero_statue",
+  "row": "TW01",
+  "flags": [],
+  "thumb_mean": 147.2,
+  "tris": 2030,
+  "size": [
+   14.0,
+   14.0,
+   37.85
+  ],
+  "want": [
+   14.0,
+   14.0,
+   40.0
+  ],
+  "budget": 16000,
+  "worker": "ve",
+  "materials": 6
+ },
+ {
+  "id": "TW02_01_street_life_01",
+  "row": "TW02",
+  "flags": [],
+  "thumb_mean": 138.2,
+  "tris": 864,
+  "size": [
+   12.0,
+   10.2,
+   10.0
+  ],
+  "want": [
+   12.0,
+   10.0,
+   10.0
+  ],
+  "budget": 3000,
+  "worker": "ve",
+  "materials": 4
+ },
+ {
+  "id": "TW02_02_street_life_02",
+  "row": "TW02",
+  "flags": [],
+  "thumb_mean": 145.0,
+  "tris": 628,
+  "size": [
+   12.0,
+   10.0,
+   10.0
+  ],
+  "want": [
+   12.0,
+   10.0,
+   10.0
+  ],
+  "budget": 3000,
+  "worker": "ve",
+  "materials": 4
+ },
+ {
+  "id": "TW02_03_street_life_03",
+  "row": "TW02",
+  "flags": [],
+  "thumb_mean": 132.3,
+  "tris": 948,
+  "size": [
+   12.48,
+   9.01,
+   10.0
+  ],
+  "want": [
+   12.0,
+   10.0,
+   10.0
+  ],
+  "budget": 3000,
+  "worker": "ve",
+  "materials": 7
+ },
+ {
+  "id": "TW02_04_street_life_04",
+  "row": "TW02",
+  "flags": [],
+  "thumb_mean": 141.2,
+  "tris": 674,
+  "size": [
+   12.0,
+   10.0,
+   10.0
+  ],
+  "want": [
+   12.0,
+   10.0,
+   10.0
+  ],
+  "budget": 3000,
+  "worker": "ve",
+  "materials": 3
+ },
+ {
+  "id": "TW02_05_street_life_05",
+  "row": "TW02",
+  "flags": [],
+  "thumb_mean": 127.7,
+  "tris": 1944,
+  "size": [
+   12.0,
+   10.0,
+   10.0
+  ],
+  "want": [
+   12.0,
+   10.0,
+   10.0
+  ],
+  "budget": 3000,
+  "worker": "ve",
+  "materials": 3
+ },
+ {
+  "id": "TW02_06_street_life_06",
+  "row": "TW02",
+  "flags": [],
+  "thumb_mean": 132.0,
+  "tris": 620,
+  "size": [
+   12.0,
+   10.0,
+   10.0
+  ],
+  "want": [
+   12.0,
+   10.0,
+   10.0
+  ],
+  "budget": 3000,
+  "worker": "ve",
+  "materials": 7
+ },
+ {
+  "id": "TW02_07_street_life_07",
+  "row": "TW02",
+  "flags": [],
+  "thumb_mean": 141.3,
+  "tris": 368,
+  "size": [
+   12.0,
+   10.0,
+   10.2
+  ],
+  "want": [
+   12.0,
+   10.0,
+   10.0
+  ],
+  "budget": 3000,
+  "worker": "ve",
+  "materials": 7
+ },
+ {
+  "id": "TW02_08_street_life_08",
+  "row": "TW02",
+  "flags": [],
+  "thumb_mean": 131.8,
+  "tris": 212,
+  "size": [
+   12.0,
+   10.0,
+   10.0
+  ],
+  "want": [
+   12.0,
+   10.0,
+   10.0
+  ],
+  "budget": 3000,
+  "worker": "ve",
+  "materials": 4
+ },
+ {
+  "id": "RV01_01_bank_rock_01",
+  "row": "RV01",
+  "flags": [],
+  "thumb_mean": 147.7,
+  "tris": 968,
+  "size": [
+   29.04,
+   20.0,
+   10.0
+  ],
+  "want": [
+   30.0,
+   20.0,
+   10.0
+  ],
+  "budget": 5000,
+  "worker": "vi",
+  "materials": 6
+ },
+ {
+  "id": "RV01_02_bank_rock_02",
+  "row": "RV01",
+  "flags": [],
+  "thumb_mean": 150.4,
+  "tris": 496,
+  "size": [
+   31.39,
+   20.2,
+   10.0
+  ],
+  "want": [
+   30.0,
+   20.0,
+   10.0
+  ],
+  "budget": 5000,
+  "worker": "vi",
+  "materials": 6
+ },
+ {
+  "id": "RV01_03_bank_rock_03",
+  "row": "RV01",
+  "flags": [],
+  "thumb_mean": 145.8,
+  "tris": 720,
+  "size": [
+   30.0,
+   19.2,
+   10.0
+  ],
+  "want": [
+   30.0,
+   20.0,
+   10.0
+  ],
+  "budget": 5000,
+  "worker": "vi",
+  "materials": 7
+ },
+ {
+  "id": "RV01_04_bank_rock_04",
+  "row": "RV01",
+  "flags": [],
+  "thumb_mean": 146.9,
+  "tris": 968,
+  "size": [
+   28.06,
+   20.0,
+   10.0
+  ],
+  "want": [
+   30.0,
+   20.0,
+   10.0
+  ],
+  "budget": 5000,
+  "worker": "vi",
+  "materials": 6
+ },
+ {
+  "id": "VC01_01_volcanic_rock_01",
+  "row": "VC01",
+  "flags": [],
+  "thumb_mean": 131.7,
+  "tris": 2212,
+  "size": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "want": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "budget": 12000,
+  "worker": "vh",
+  "materials": 4
+ },
+ {
+  "id": "VC01_02_volcanic_rock_02",
+  "row": "VC01",
+  "flags": [],
+  "thumb_mean": 133.4,
+  "tris": 2312,
+  "size": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "want": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "budget": 12000,
+  "worker": "vh",
+  "materials": 4
+ },
+ {
+  "id": "VC01_03_volcanic_rock_03",
+  "row": "VC01",
+  "flags": [],
+  "thumb_mean": 131.7,
+  "tris": 1412,
+  "size": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "want": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "budget": 12000,
+  "worker": "vh",
+  "materials": 3
+ },
+ {
+  "id": "VC01_04_volcanic_rock_04",
+  "row": "VC01",
+  "flags": [],
+  "thumb_mean": 126.1,
+  "tris": 1640,
+  "size": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "want": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "budget": 12000,
+  "worker": "vh",
+  "materials": 4
+ },
+ {
+  "id": "VC01_05_volcanic_rock_05",
+  "row": "VC01",
+  "flags": [],
+  "thumb_mean": 133.1,
+  "tris": 2212,
+  "size": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "want": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "budget": 12000,
+  "worker": "vh",
+  "materials": 4
+ },
+ {
+  "id": "VC01_06_volcanic_rock_06",
+  "row": "VC01",
+  "flags": [],
+  "thumb_mean": 136.9,
+  "tris": 1784,
+  "size": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "want": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "budget": 12000,
+  "worker": "vh",
+  "materials": 4
+ },
+ {
+  "id": "VC01_07_volcanic_rock_07",
+  "row": "VC01",
+  "flags": [],
+  "thumb_mean": 129.9,
+  "tris": 1856,
+  "size": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "want": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "budget": 12000,
+  "worker": "vh",
+  "materials": 4
+ },
+ {
+  "id": "VC01_08_volcanic_rock_08",
+  "row": "VC01",
+  "flags": [],
+  "thumb_mean": 129.7,
+  "tris": 1928,
+  "size": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "want": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "budget": 12000,
+  "worker": "vh",
+  "materials": 4
+ },
+ {
+  "id": "VC02_01_skull_cliff_hero_01",
+  "row": "VC02",
+  "flags": [],
+  "thumb_mean": 141.0,
+  "tris": 5476,
+  "size": [
+   200.0,
+   120.0,
+   122.49
+  ],
+  "want": [
+   200.0,
+   120.0,
+   120.0
+  ],
+  "budget": 55000,
+  "worker": "vf",
+  "materials": 6
+ },
+ {
+  "id": "VC02_02_skull_cliff_hero_02",
+  "row": "VC02",
+  "flags": [],
+  "thumb_mean": 144.1,
+  "tris": 5148,
+  "size": [
+   200.0,
+   120.0,
+   120.0
+  ],
+  "want": [
+   200.0,
+   120.0,
+   120.0
+  ],
+  "budget": 55000,
+  "worker": "vf",
+  "materials": 6
+ },
+ {
+  "id": "VC03_01_dark_fort_ruin_01",
+  "row": "VC03",
+  "flags": [],
+  "thumb_mean": 140.5,
+  "tris": 6736,
+  "size": [
+   60.0,
+   50.0,
+   50.0
+  ],
+  "want": [
+   60.0,
+   50.0,
+   50.0
+  ],
+  "budget": 16000,
+  "worker": "vh",
+  "materials": 8
+ },
+ {
+  "id": "VC03_02_dark_fort_ruin_02",
+  "row": "VC03",
+  "flags": [],
+  "thumb_mean": 133.3,
+  "tris": 6844,
+  "size": [
+   60.0,
+   50.0,
+   50.0
+  ],
+  "want": [
+   60.0,
+   50.0,
+   50.0
+  ],
+  "budget": 16000,
+  "worker": "vh",
+  "materials": 5
+ },
+ {
+  "id": "VC03_03_dark_fort_ruin_03",
+  "row": "VC03",
+  "flags": [],
+  "thumb_mean": 138.5,
+  "tris": 6736,
+  "size": [
+   60.0,
+   50.0,
+   51.87
+  ],
+  "want": [
+   60.0,
+   50.0,
+   50.0
+  ],
+  "budget": 16000,
+  "worker": "vh",
+  "materials": 8
+ },
+ {
+  "id": "VC04_01_skull_city_building_01",
+  "row": "VC04",
+  "flags": [],
+  "thumb_mean": 109.7,
+  "tris": 1256,
+  "size": [
+   30.0,
+   30.0,
+   30.0
+  ],
+  "want": [
+   30.0,
+   30.0,
+   30.0
+  ],
+  "budget": 11000,
+  "worker": "vh",
+  "materials": 7
+ },
+ {
+  "id": "VC04_02_skull_city_building_02",
+  "row": "VC04",
+  "flags": [],
+  "thumb_mean": 117.3,
+  "tris": 1188,
+  "size": [
+   30.0,
+   30.0,
+   30.0
+  ],
+  "want": [
+   30.0,
+   30.0,
+   30.0
+  ],
+  "budget": 11000,
+  "worker": "vh",
+  "materials": 6
+ },
+ {
+  "id": "VC04_03_skull_city_building_03",
+  "row": "VC04",
+  "flags": [],
+  "thumb_mean": 123.3,
+  "tris": 2558,
+  "size": [
+   30.0,
+   30.0,
+   29.15
+  ],
+  "want": [
+   30.0,
+   30.0,
+   30.0
+  ],
+  "budget": 11000,
+  "worker": "vh",
+  "materials": 6
+ },
+ {
+  "id": "VC04_04_skull_city_building_04",
+  "row": "VC04",
+  "flags": [],
+  "thumb_mean": 105.7,
+  "tris": 1184,
+  "size": [
+   30.0,
+   30.0,
+   30.0
+  ],
+  "want": [
+   30.0,
+   30.0,
+   30.0
+  ],
+  "budget": 11000,
+  "worker": "vh",
+  "materials": 6
+ },
+ {
+  "id": "VC04_05_skull_city_building_05",
+  "row": "VC04",
+  "flags": [],
+  "thumb_mean": 115.4,
+  "tris": 1256,
+  "size": [
+   30.0,
+   30.0,
+   30.0
+  ],
+  "want": [
+   30.0,
+   30.0,
+   30.0
+  ],
+  "budget": 11000,
+  "worker": "vh",
+  "materials": 7
+ },
+ {
+  "id": "VC04_06_skull_city_building_06",
+  "row": "VC04",
+  "flags": [],
+  "thumb_mean": 116.2,
+  "tris": 1294,
+  "size": [
+   30.5,
+   30.0,
+   30.1
+  ],
+  "want": [
+   30.0,
+   30.0,
+   30.0
+  ],
+  "budget": 11000,
+  "worker": "vh",
+  "materials": 6
+ },
+ {
+  "id": "FL01_01_floating_island_hero_01",
+  "row": "FL01",
+  "flags": [
+   "MANY MATERIALS 17"
+  ],
+  "thumb_mean": 141.5,
+  "tris": 18064,
+  "size": [
+   86.0,
+   86.0,
+   60.0
+  ],
+  "want": [
+   90.0,
+   90.0,
+   60.0
+  ],
+  "budget": 30000,
+  "worker": "vi",
+  "materials": 17
+ },
+ {
+  "id": "FL01_02_floating_island_hero_02",
+  "row": "FL01",
+  "flags": [
+   "MANY MATERIALS 15"
+  ],
+  "thumb_mean": 141.1,
+  "tris": 13052,
+  "size": [
+   86.0,
+   86.0,
+   59.81
+  ],
+  "want": [
+   90.0,
+   90.0,
+   60.0
+  ],
+  "budget": 30000,
+  "worker": "vi",
+  "materials": 15
+ },
+ {
+  "id": "FL01_03_floating_island_hero_03",
+  "row": "FL01",
+  "flags": [
+   "MANY MATERIALS 18"
+  ],
+  "thumb_mean": 142.0,
+  "tris": 9976,
+  "size": [
+   86.0,
+   86.0,
+   63.31
+  ],
+  "want": [
+   90.0,
+   90.0,
+   60.0
+  ],
+  "budget": 30000,
+  "worker": "vi",
+  "materials": 18
+ },
+ {
+  "id": "FL02_01_floating_island_small_01",
+  "row": "FL02",
+  "flags": [],
+  "thumb_mean": 139.0,
+  "tris": 462,
+  "size": [
+   39.71,
+   39.71,
+   24.89
+  ],
+  "want": [
+   40.0,
+   40.0,
+   24.0
+  ],
+  "budget": 10000,
+  "worker": "vi",
+  "materials": 7
+ },
+ {
+  "id": "FL02_02_floating_island_small_02",
+  "row": "FL02",
+  "flags": [],
+  "thumb_mean": 142.1,
+  "tris": 462,
+  "size": [
+   40.85,
+   40.98,
+   24.75
+  ],
+  "want": [
+   40.0,
+   40.0,
+   24.0
+  ],
+  "budget": 10000,
+  "worker": "vi",
+  "materials": 6
+ },
+ {
+  "id": "FL02_03_floating_island_small_03",
+  "row": "FL02",
+  "flags": [],
+  "thumb_mean": 142.6,
+  "tris": 498,
+  "size": [
+   40.0,
+   40.0,
+   24.0
+  ],
+  "want": [
+   40.0,
+   40.0,
+   24.0
+  ],
+  "budget": 10000,
+  "worker": "vi",
+  "materials": 6
+ },
+ {
+  "id": "SP01_01_snow_spire_cluster_01",
+  "row": "SP01",
+  "flags": [],
+  "thumb_mean": 152.9,
+  "tris": 1644,
+  "size": [
+   60.0,
+   60.0,
+   161.46
+  ],
+  "want": [
+   60.0,
+   60.0,
+   160.0
+  ],
+  "budget": 15000,
+  "worker": "vg",
+  "materials": 5
+ },
+ {
+  "id": "SP01_02_snow_spire_cluster_02",
+  "row": "SP01",
+  "flags": [],
+  "thumb_mean": 154.0,
+  "tris": 1776,
+  "size": [
+   60.0,
+   60.0,
+   165.79
+  ],
+  "want": [
+   60.0,
+   60.0,
+   160.0
+  ],
+  "budget": 15000,
+  "worker": "vg",
+  "materials": 5
+ },
+ {
+  "id": "SP01_03_snow_spire_cluster_03",
+  "row": "SP01",
+  "flags": [],
+  "thumb_mean": 152.8,
+  "tris": 1644,
+  "size": [
+   60.0,
+   60.0,
+   162.82
+  ],
+  "want": [
+   60.0,
+   60.0,
+   160.0
+  ],
+  "budget": 15000,
+  "worker": "vg",
+  "materials": 5
+ },
+ {
+  "id": "SP01_04_snow_spire_cluster_04",
+  "row": "SP01",
+  "flags": [],
+  "thumb_mean": 153.3,
+  "tris": 1908,
+  "size": [
+   60.0,
+   60.0,
+   168.45
+  ],
+  "want": [
+   60.0,
+   60.0,
+   160.0
+  ],
+  "budget": 15000,
+  "worker": "vg",
+  "materials": 5
+ },
+ {
+  "id": "SP01_05_snow_spire_cluster_05",
+  "row": "SP01",
+  "flags": [],
+  "thumb_mean": 153.1,
+  "tris": 1776,
+  "size": [
+   60.0,
+   60.0,
+   160.8
+  ],
+  "want": [
+   60.0,
+   60.0,
+   160.0
+  ],
+  "budget": 15000,
+  "worker": "vg",
+  "materials": 5
+ },
+ {
+  "id": "SP01_06_snow_spire_cluster_06",
+  "row": "SP01",
+  "flags": [],
+  "thumb_mean": 153.5,
+  "tris": 1644,
+  "size": [
+   60.0,
+   60.0,
+   163.81
+  ],
+  "want": [
+   60.0,
+   60.0,
+   160.0
+  ],
+  "budget": 15000,
+  "worker": "vg",
+  "materials": 5
+ },
+ {
+  "id": "SD01_01_red_mesa_cluster_01",
+  "row": "SD01",
+  "flags": [],
+  "thumb_mean": 159.9,
+  "tris": 1284,
+  "size": [
+   120.0,
+   100.0,
+   92.18
+  ],
+  "want": [
+   120.0,
+   100.0,
+   90.0
+  ],
+  "budget": 16000,
+  "worker": "vh",
+  "materials": 7
+ },
+ {
+  "id": "SD01_02_red_mesa_cluster_02",
+  "row": "SD01",
+  "flags": [],
+  "thumb_mean": 158.5,
+  "tris": 1500,
+  "size": [
+   120.0,
+   100.0,
+   92.39
+  ],
+  "want": [
+   120.0,
+   100.0,
+   90.0
+  ],
+  "budget": 16000,
+  "worker": "vh",
+  "materials": 7
+ },
+ {
+  "id": "SD01_03_red_mesa_cluster_03",
+  "row": "SD01",
+  "flags": [],
+  "thumb_mean": 147.7,
+  "tris": 1836,
+  "size": [
+   115.35,
+   101.65,
+   95.39
+  ],
+  "want": [
+   120.0,
+   100.0,
+   90.0
+  ],
+  "budget": 16000,
+  "worker": "vh",
+  "materials": 6
+ },
+ {
+  "id": "SD01_04_red_mesa_cluster_04",
+  "row": "SD01",
+  "flags": [],
+  "thumb_mean": 147.5,
+  "tris": 1956,
+  "size": [
+   113.69,
+   100.52,
+   93.22
+  ],
+  "want": [
+   120.0,
+   100.0,
+   90.0
+  ],
+  "budget": 16000,
+  "worker": "vh",
+  "materials": 6
+ },
+ {
+  "id": "SD01_05_red_mesa_cluster_05",
+  "row": "SD01",
+  "flags": [],
+  "thumb_mean": 147.4,
+  "tris": 1956,
+  "size": [
+   117.65,
+   100.04,
+   93.03
+  ],
+  "want": [
+   120.0,
+   100.0,
+   90.0
+  ],
+  "budget": 16000,
+  "worker": "vh",
+  "materials": 6
+ },
+ {
+  "id": "SD01_06_red_mesa_cluster_06",
+  "row": "SD01",
+  "flags": [],
+  "thumb_mean": 148.9,
+  "tris": 1956,
+  "size": [
+   117.88,
+   99.34,
+   88.96
+  ],
+  "want": [
+   120.0,
+   100.0,
+   90.0
+  ],
+  "budget": 16000,
+  "worker": "vh",
+  "materials": 6
+ },
+ {
+  "id": "SD02_01_desert_ruin_block_01",
+  "row": "SD02",
+  "flags": [],
+  "thumb_mean": 165.9,
+  "tris": 2364,
+  "size": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "want": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "budget": 10000,
+  "worker": "vh",
+  "materials": 9
+ },
+ {
+  "id": "SD02_02_desert_ruin_block_02",
+  "row": "SD02",
+  "flags": [],
+  "thumb_mean": 164.8,
+  "tris": 2392,
+  "size": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "want": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "budget": 10000,
+  "worker": "vh",
+  "materials": 9
+ },
+ {
+  "id": "SD02_03_desert_ruin_block_03",
+  "row": "SD02",
+  "flags": [],
+  "thumb_mean": 170.1,
+  "tris": 1968,
+  "size": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "want": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "budget": 10000,
+  "worker": "vh",
+  "materials": 5
+ },
+ {
+  "id": "SD02_04_desert_ruin_block_04",
+  "row": "SD02",
+  "flags": [],
+  "thumb_mean": 166.8,
+  "tris": 2400,
+  "size": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "want": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "budget": 10000,
+  "worker": "vh",
+  "materials": 9
+ },
+ {
+  "id": "SD02_05_desert_ruin_block_05",
+  "row": "SD02",
+  "flags": [],
+  "thumb_mean": 165.9,
+  "tris": 2296,
+  "size": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "want": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "budget": 10000,
+  "worker": "vh",
+  "materials": 9
+ },
+ {
+  "id": "SD02_06_desert_ruin_block_06",
+  "row": "SD02",
+  "flags": [],
+  "thumb_mean": 165.5,
+  "tris": 2676,
+  "size": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "want": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "budget": 10000,
+  "worker": "vh",
+  "materials": 9
+ },
+ {
+  "id": "BR01_01_viaduct_bridge_01",
+  "row": "BR01",
+  "flags": [],
+  "thumb_mean": 149.0,
+  "tris": 8252,
+  "size": [
+   167.2,
+   20.0,
+   40.0
+  ],
+  "want": [
+   160.0,
+   20.0,
+   40.0
+  ],
+  "budget": 24000,
+  "worker": "vi",
+  "materials": 6
+ },
+ {
+  "id": "BR01_02_viaduct_bridge_02",
+  "row": "BR01",
+  "flags": [],
+  "thumb_mean": 148.8,
+  "tris": 8384,
+  "size": [
+   167.2,
+   20.0,
+   40.0
+  ],
+  "want": [
+   160.0,
+   20.0,
+   40.0
+  ],
+  "budget": 24000,
+  "worker": "vi",
+  "materials": 7
+ },
+ {
+  "id": "HB01_01_harbour_wall_tower_01",
+  "row": "HB01",
+  "flags": [],
+  "thumb_mean": 165.3,
+  "tris": 2236,
+  "size": [
+   24.0,
+   24.0,
+   40.0
+  ],
+  "want": [
+   24.0,
+   24.0,
+   40.0
+  ],
+  "budget": 10000,
+  "worker": "vi",
+  "materials": 10
+ },
+ {
+  "id": "HB01_02_harbour_wall_tower_02",
+  "row": "HB01",
+  "flags": [],
+  "thumb_mean": 170.8,
+  "tris": 470,
+  "size": [
+   24.0,
+   24.0,
+   43.0
+  ],
+  "want": [
+   24.0,
+   24.0,
+   40.0
+  ],
+  "budget": 10000,
+  "worker": "vi",
+  "materials": 5
+ },
+ {
+  "id": "HB01_03_harbour_wall_tower_03",
+  "row": "HB01",
+  "flags": [],
+  "thumb_mean": 157.8,
+  "tris": 1646,
+  "size": [
+   24.0,
+   24.0,
+   37.6
+  ],
+  "want": [
+   24.0,
+   24.0,
+   40.0
+  ],
+  "budget": 10000,
+  "worker": "vi",
+  "materials": 5
+ },
+ {
+  "id": "VL01_01_village_church_spire",
+  "row": "VL01",
+  "flags": [],
+  "thumb_mean": 152.7,
+  "tris": 1634,
+  "size": [
+   30.0,
+   40.0,
+   70.5
+  ],
+  "want": [
+   30.0,
+   40.0,
+   70.0
+  ],
+  "budget": 20000,
+  "worker": "vi",
+  "materials": 8
+ },
+ {
+  "id": "RW01_01_rework_existing_01",
+  "row": "RW01",
+  "flags": [],
+  "thumb_mean": 152.9,
+  "tris": 3288,
+  "size": [
+   75.7,
+   70.3,
+   79.9
+  ],
+  "want": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "budget": 0,
+  "worker": "vj",
+  "materials": 9
+ },
+ {
+  "id": "RW01_02_rework_existing_02",
+  "row": "RW01",
+  "flags": [],
+  "thumb_mean": 148.1,
+  "tris": 404,
+  "size": [
+   24.3,
+   7.0,
+   19.8
+  ],
+  "want": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "budget": 0,
+  "worker": "vj",
+  "materials": 8
+ },
+ {
+  "id": "RW01_03_rework_existing_03",
+  "row": "RW01",
+  "flags": [],
+  "thumb_mean": 138.7,
+  "tris": 10712,
+  "size": [
+   50.5,
+   49.2,
+   65.4
+  ],
+  "want": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "budget": 0,
+  "worker": "vj",
+  "materials": 12
+ },
+ {
+  "id": "RW01_04_rework_existing_04",
+  "row": "RW01",
+  "flags": [],
+  "thumb_mean": 135.1,
+  "tris": 10712,
+  "size": [
+   53.6,
+   53.6,
+   59.4
+  ],
+  "want": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "budget": 0,
+  "worker": "vj",
+  "materials": 12
+ },
+ {
+  "id": "RW02_01_rework_world_tree_roots",
+  "row": "RW02",
+  "flags": [],
+  "thumb_mean": 149.4,
+  "tris": 16492,
+  "size": [
+   198.0,
+   187.0,
+   32.0
+  ],
+  "want": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "budget": 0,
+  "worker": "ve",
+  "materials": 7
+ },
+ {
+  "id": "NE01_01_village_sign_01",
+  "row": "NE01",
+  "flags": [],
+  "thumb_mean": 142.5,
+  "tris": 524,
+  "size": [
+   10.4,
+   4.0,
+   17.6
+  ],
+  "want": [
+   10.0,
+   4.0,
+   18.0
+  ],
+  "budget": 6000,
+  "worker": "vc",
+  "materials": 6
+ },
+ {
+  "id": "NE01_02_village_sign_02",
+  "row": "NE01",
+  "flags": [
+   "SIZE depth 5.48 vs 4"
+  ],
+  "thumb_mean": 142.9,
+  "tris": 388,
+  "size": [
+   10.34,
+   5.48,
+   17.6
+  ],
+  "want": [
+   10.0,
+   4.0,
+   18.0
+  ],
+  "budget": 6000,
+  "worker": "vc",
+  "materials": 3
+ },
+ {
+  "id": "NE01_03_village_sign_03",
+  "row": "NE01",
+  "flags": [],
+  "thumb_mean": 150.6,
+  "tris": 252,
+  "size": [
+   10.02,
+   3.99,
+   17.6
+  ],
+  "want": [
+   10.0,
+   4.0,
+   18.0
+  ],
+  "budget": 6000,
+  "worker": "vc",
+  "materials": 8
+ },
+ {
+  "id": "NE01_04_village_sign_04",
+  "row": "NE01",
+  "flags": [],
+  "thumb_mean": 140.3,
+  "tris": 320,
+  "size": [
+   10.4,
+   4.0,
+   17.6
+  ],
+  "want": [
+   10.0,
+   4.0,
+   18.0
+  ],
+  "budget": 6000,
+  "worker": "vc",
+  "materials": 5
+ },
+ {
+  "id": "NE01_05_village_sign_05",
+  "row": "NE01",
+  "flags": [
+   "SIZE depth 2.91 vs 4"
+  ],
+  "thumb_mean": 154.4,
+  "tris": 316,
+  "size": [
+   10.4,
+   2.91,
+   17.6
+  ],
+  "want": [
+   10.0,
+   4.0,
+   18.0
+  ],
+  "budget": 6000,
+  "worker": "vc",
+  "materials": 5
+ },
+ {
+  "id": "NE01_06_village_sign_06",
+  "row": "NE01",
+  "flags": [
+   "SIZE depth 2.73 vs 4"
+  ],
+  "thumb_mean": 150.1,
+  "tris": 244,
+  "size": [
+   10.4,
+   2.73,
+   17.6
+  ],
+  "want": [
+   10.0,
+   4.0,
+   18.0
+  ],
+  "budget": 6000,
+  "worker": "vc",
+  "materials": 9
+ },
+ {
+  "id": "NE02_01_entry_rock_pair_01",
+  "row": "NE02",
+  "flags": [],
+  "thumb_mean": 144.9,
+  "tris": 976,
+  "size": [
+   31.0,
+   22.0,
+   14.6
+  ],
+  "want": [
+   30.0,
+   22.0,
+   14.0
+  ],
+  "budget": 5000,
+  "worker": "vc",
+  "materials": 5
+ },
+ {
+  "id": "NE02_02_entry_rock_pair_02",
+  "row": "NE02",
+  "flags": [],
+  "thumb_mean": 144.9,
+  "tris": 1000,
+  "size": [
+   31.0,
+   22.0,
+   14.6
+  ],
+  "want": [
+   30.0,
+   22.0,
+   14.0
+  ],
+  "budget": 5000,
+  "worker": "vc",
+  "materials": 5
+ },
+ {
+  "id": "NE02_03_entry_rock_pair_03",
+  "row": "NE02",
+  "flags": [],
+  "thumb_mean": 146.3,
+  "tris": 880,
+  "size": [
+   31.0,
+   22.0,
+   14.6
+  ],
+  "want": [
+   30.0,
+   22.0,
+   14.0
+  ],
+  "budget": 5000,
+  "worker": "vc",
+  "materials": 6
+ },
+ {
+  "id": "NE02_04_entry_rock_pair_04",
+  "row": "NE02",
+  "flags": [],
+  "thumb_mean": 144.4,
+  "tris": 880,
+  "size": [
+   31.0,
+   22.0,
+   14.6
+  ],
+  "want": [
+   30.0,
+   22.0,
+   14.0
+  ],
+  "budget": 5000,
+  "worker": "vc",
+  "materials": 3
+ },
+ {
+  "id": "EV01_01_elf_house_new_01",
+  "row": "EV01",
+  "flags": [],
+  "thumb_mean": 145.0,
+  "tris": 4204,
+  "size": [
+   26.0,
+   26.0,
+   30.0
+  ],
+  "want": [
+   26.0,
+   26.0,
+   30.0
+  ],
+  "budget": 14000,
+  "worker": "ve",
+  "materials": 9
+ },
+ {
+  "id": "EV01_02_elf_house_new_02",
+  "row": "EV01",
+  "flags": [],
+  "thumb_mean": 136.6,
+  "tris": 1648,
+  "size": [
+   27.67,
+   26.0,
+   30.0
+  ],
+  "want": [
+   26.0,
+   26.0,
+   30.0
+  ],
+  "budget": 14000,
+  "worker": "ve",
+  "materials": 7
+ },
+ {
+  "id": "EV01_03_elf_house_new_03",
+  "row": "EV01",
+  "flags": [],
+  "thumb_mean": 147.8,
+  "tris": 2460,
+  "size": [
+   26.0,
+   26.0,
+   30.0
+  ],
+  "want": [
+   26.0,
+   26.0,
+   30.0
+  ],
+  "budget": 14000,
+  "worker": "ve",
+  "materials": 12
+ },
+ {
+  "id": "EV01_04_elf_house_new_04",
+  "row": "EV01",
+  "flags": [],
+  "thumb_mean": 146.6,
+  "tris": 2264,
+  "size": [
+   26.0,
+   26.0,
+   30.0
+  ],
+  "want": [
+   26.0,
+   26.0,
+   30.0
+  ],
+  "budget": 14000,
+  "worker": "ve",
+  "materials": 11
+ },
+ {
+  "id": "EV01_05_elf_house_new_05",
+  "row": "EV01",
+  "flags": [],
+  "thumb_mean": 145.6,
+  "tris": 1552,
+  "size": [
+   26.0,
+   26.0,
+   30.0
+  ],
+  "want": [
+   26.0,
+   26.0,
+   30.0
+  ],
+  "budget": 14000,
+  "worker": "ve",
+  "materials": 8
+ },
+ {
+  "id": "EV01_06_elf_house_new_06",
+  "row": "EV01",
+  "flags": [],
+  "thumb_mean": 142.8,
+  "tris": 976,
+  "size": [
+   26.0,
+   26.0,
+   30.0
+  ],
+  "want": [
+   26.0,
+   26.0,
+   30.0
+  ],
+  "budget": 14000,
+  "worker": "ve",
+  "materials": 10
+ },
+ {
+  "id": "EV01_07_elf_house_new_07",
+  "row": "EV01",
+  "flags": [],
+  "thumb_mean": 148.8,
+  "tris": 2324,
+  "size": [
+   26.32,
+   26.0,
+   30.0
+  ],
+  "want": [
+   26.0,
+   26.0,
+   30.0
+  ],
+  "budget": 14000,
+  "worker": "ve",
+  "materials": 10
+ },
+ {
+  "id": "EV01_08_elf_house_new_08",
+  "row": "EV01",
+  "flags": [],
+  "thumb_mean": 137.8,
+  "tris": 1452,
+  "size": [
+   26.0,
+   26.0,
+   30.0
+  ],
+  "want": [
+   26.0,
+   26.0,
+   30.0
+  ],
+  "budget": 14000,
+  "worker": "ve",
+  "materials": 13
+ },
+ {
+  "id": "EV02_01_canopy_cluster_01",
+  "row": "EV02",
+  "flags": [],
+  "thumb_mean": 147.2,
+  "tris": 9920,
+  "size": [
+   70.0,
+   70.0,
+   40.0
+  ],
+  "want": [
+   70.0,
+   70.0,
+   40.0
+  ],
+  "budget": 30000,
+  "worker": "ve",
+  "materials": 9
+ },
+ {
+  "id": "EV02_02_canopy_cluster_02",
+  "row": "EV02",
+  "flags": [],
+  "thumb_mean": 146.6,
+  "tris": 12096,
+  "size": [
+   70.0,
+   63.4,
+   43.62
+  ],
+  "want": [
+   70.0,
+   70.0,
+   40.0
+  ],
+  "budget": 30000,
+  "worker": "ve",
+  "materials": 9
+ },
+ {
+  "id": "EV02_03_canopy_cluster_03",
+  "row": "EV02",
+  "flags": [],
+  "thumb_mean": 146.8,
+  "tris": 4596,
+  "size": [
+   65.0,
+   70.0,
+   40.0
+  ],
+  "want": [
+   70.0,
+   70.0,
+   40.0
+  ],
+  "budget": 30000,
+  "worker": "ve",
+  "materials": 8
+ },
+ {
+  "id": "EV03_01_elf_path_piece_01",
+  "row": "EV03",
+  "flags": [],
+  "thumb_mean": 143.7,
+  "tris": 1132,
+  "size": [
+   19.8,
+   20.0,
+   6.53
+  ],
+  "want": [
+   20.0,
+   20.0,
+   6.0
+  ],
+  "budget": 4000,
+  "worker": "ve",
+  "materials": 5
+ },
+ {
+  "id": "EV03_02_elf_path_piece_02",
+  "row": "EV03",
+  "flags": [],
+  "thumb_mean": 149.3,
+  "tris": 1052,
+  "size": [
+   20.0,
+   18.5,
+   6.45
+  ],
+  "want": [
+   20.0,
+   20.0,
+   6.0
+  ],
+  "budget": 4000,
+  "worker": "ve",
+  "materials": 5
+ },
+ {
+  "id": "EV03_03_elf_path_piece_03",
+  "row": "EV03",
+  "flags": [],
+  "thumb_mean": 140.5,
+  "tris": 1668,
+  "size": [
+   20.0,
+   20.0,
+   5.62
+  ],
+  "want": [
+   20.0,
+   20.0,
+   6.0
+  ],
+  "budget": 4000,
+  "worker": "ve",
+  "materials": 9
+ },
+ {
+  "id": "EV03_04_elf_path_piece_04",
+  "row": "EV03",
+  "flags": [],
+  "thumb_mean": 141.9,
+  "tris": 1312,
+  "size": [
+   20.0,
+   20.0,
+   6.26
+  ],
+  "want": [
+   20.0,
+   20.0,
+   6.0
+  ],
+  "budget": 4000,
+  "worker": "ve",
+  "materials": 4
+ },
+ {
+  "id": "EV03_05_elf_path_piece_05",
+  "row": "EV03",
+  "flags": [],
+  "thumb_mean": 146.6,
+  "tris": 488,
+  "size": [
+   20.0,
+   20.14,
+   6.0
+  ],
+  "want": [
+   20.0,
+   20.0,
+   6.0
+  ],
+  "budget": 4000,
+  "worker": "ve",
+  "materials": 5
+ },
+ {
+  "id": "EV03_06_elf_path_piece_06",
+  "row": "EV03",
+  "flags": [],
+  "thumb_mean": 146.3,
+  "tris": 1626,
+  "size": [
+   19.6,
+   19.6,
+   6.0
+  ],
+  "want": [
+   20.0,
+   20.0,
+   6.0
+  ],
+  "budget": 4000,
+  "worker": "ve",
+  "materials": 7
+ },
+ {
+  "id": "TW03_01_skull_avenue_set_01",
+  "row": "TW03",
+  "flags": [],
+  "thumb_mean": 119.7,
+  "tris": 736,
+  "size": [
+   14.0,
+   14.0,
+   14.0
+  ],
+  "want": [
+   14.0,
+   14.0,
+   14.0
+  ],
+  "budget": 5000,
+  "worker": "ve",
+  "materials": 4
+ },
+ {
+  "id": "TW03_02_skull_avenue_set_02",
+  "row": "TW03",
+  "flags": [],
+  "thumb_mean": 126.6,
+  "tris": 684,
+  "size": [
+   14.0,
+   14.0,
+   14.0
+  ],
+  "want": [
+   14.0,
+   14.0,
+   14.0
+  ],
+  "budget": 5000,
+  "worker": "ve",
+  "materials": 6
+ },
+ {
+  "id": "TW03_03_skull_avenue_set_03",
+  "row": "TW03",
+  "flags": [],
+  "thumb_mean": 131.5,
+  "tris": 332,
+  "size": [
+   14.0,
+   14.0,
+   14.0
+  ],
+  "want": [
+   14.0,
+   14.0,
+   14.0
+  ],
+  "budget": 5000,
+  "worker": "ve",
+  "materials": 7
+ },
+ {
+  "id": "TW03_04_skull_avenue_set_04",
+  "row": "TW03",
+  "flags": [],
+  "thumb_mean": 131.0,
+  "tris": 364,
+  "size": [
+   14.0,
+   14.0,
+   14.0
+  ],
+  "want": [
+   14.0,
+   14.0,
+   14.0
+  ],
+  "budget": 5000,
+  "worker": "ve",
+  "materials": 6
+ }
+]

@@ -1,0 +1,19 @@
+# Fix round 2, builder A2: 11 models
+
+MAJOR 2, UNREVIEWED set members 0, MINOR 9. Worst first. Read `ROUND2_LESSONS.md` next to this file first.
+
+You own the same fix module(s) as before. Models marked "never rebuilt" are untouched round-1 models: write a new builder for them in your fix module (copy the round-1 code from the original queue module, then improve it) and add the id to `BATCHES` with the SAME category folder.
+
+| id | round 2 | round 1 | category | target W x D x H | tri budget | tris now | what the round-2 reviewers saw | reviewer suggestion | note |
+|---|---|---|---|---|---|---|---|---|---|
+| `RD02_05_camp_set_05` | MAJOR | OK | v5_roads | 16 x 14 x 10 | 4000 | 384 | just a scatter of plain boxes, a white cylinder and a white blob; no readable camp - no tents, fire or gear; crude untextured primitives | Rebuild as recognisable camp gear (tents, campfire, crates/barrels) instead of loose plain primitives. | never rebuilt |
+| `RD05_05_battlefield_prop_05` | MAJOR | REDO | v5_roads | 14 x 10 x 10 | 3000 | 852 | jumbled unreadable silhouette; plain grey default parts with red/blue patches; reads as a crashed heap not a battlefield prop | Rebuild as a clear recognisable prop (shield/banner/weapon rack) with coherent shape and colour. | rebuilt in round 1 |
+| `CO03_02_reef_02` | MINOR | MAJOR | v5_coast | 30 x 30 x 6 | 6000 | 1916 | very flat low disc, weak silhouette as a reef; mottled surface patches read as camouflage | Add a few raised coral humps and reduce the patchy colour blotches. | rebuilt in round 1 |
+| `CO04_01_sea_arch_01` | MINOR | MINOR | v5_coast | 70 x 30 x 60 | 14000 | 1836 | loose rubble chunks scattered around base; arch opening is ragged | Weld the scattered base rubble and clean the arch underside. | rebuilt in round 1 |
+| `RD01_03_watchtower_03` | MINOR | OK | v5_roads | 20 x 20 x 50 | 11000 | 1628 | plain tan cylinder, minimal detail, near-default look | Add stone texture, battlements and window relief. | never rebuilt |
+| `RD02_03_camp_set_03` | MINOR | MINOR | v5_roads | 16 x 14 x 10 | 4000 | 172 | awning is a thin flat single-colour slab; legs look spindly vs the large canopy | Give the awning thickness and a sag/fold so it does not read as a flat sheet. | rebuilt in round 1 |
+| `RD05_02_battlefield_prop_02` | MINOR | MAJOR | v5_roads | 14 x 10 x 10 | 3000 | 384 | large flat single-colour red disc/shield reads as a plain slab | Add a rim, boss or relief to the red shield so it is not a flat coloured slab. | rebuilt in round 1 |
+| `RD06_02_abandoned_house_02` | MINOR | OK | v5_roads | 22 x 20 x 20 | 9000 | 2516 | very dark near-black timber reads close to a default dark grey | Lighten/vary the timber tone so it reads as weathered wood rather than a flat dark slab. | never rebuilt |
+| `RD06_05_abandoned_house_05` | MINOR | MAJOR | v5_roads | 22 x 20 x 20 | 9000 | 2240 | almost entirely open timber frame, very sparse; thin frame members may read as fragile at distance | Keep the ruined look but add a little remaining wall infill/roof fragment so it reads as an abandoned house rather than bare scaffolding. | rebuilt in round 1 |
+| `RV01_01_bank_rock_01` | MINOR | MINOR | v5_roads | 30 x 20 x 10 | 5000 | 968 | very similar in shape to RV01_02 sibling; mostly flat grey colour | Differentiate the sibling bank rocks in shape and arrangement, not only tone. | rebuilt in round 1 |
+| `RV01_02_bank_rock_02` | MINOR | MINOR | v5_roads | 30 x 20 x 10 | 5000 | 600 | very similar in shape to RV01_01 sibling | Differentiate the sibling bank rocks in shape and arrangement, not only tone. | rebuilt in round 1 |

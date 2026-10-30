@@ -1,0 +1,14 @@
+[
+  {"id": "DS04_01_palm_01", "verdict": "MINOR", "defects": ["thin spindly trunk", "sparse drooping fronds look wiry", "faint stray wire ring near base"], "fix": "Thicken the trunk slightly and give the fronds more volume/breadth so the canopy reads as a palm; remove the stray wire geometry at the base."},
+  {"id": "DS04_02_palm_02", "verdict": "MINOR", "defects": ["spindly trunk", "sparse fronds", "near-identical to palm 01/03"], "fix": "Fuller fronds and a stouter trunk; vary lean/height from siblings."},
+  {"id": "DS04_03_palm_03", "verdict": "MINOR", "defects": ["spindly trunk", "sparse fronds", "near-identical to siblings"], "fix": "Fuller canopy and varied silhouette from palms 01/02."},
+  {"id": "DS05_01_oasis_rock_ring_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "DS05_02_oasis_rock_ring_02", "verdict": "OK", "defects": ["near-recolour of ring 01"], "fix": "Minor: rearrange rocks so the two rings differ in layout."},
+  {"id": "DS06_01_canyon_wall_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "DS06_02_canyon_wall_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "DS06_03_canyon_wall_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "DS06_04_canyon_wall_04", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "DS07_01_hoodoo_arch_01", "verdict": "MINOR", "defects": ["blocky square red/cream colour patches look like camouflage", "reads as two separate spires, not an arch"], "fix": "Blend the colour banding into horizontal strata and connect the tops into a clear arch span."},
+  {"id": "DS07_02_hoodoo_arch_02", "verdict": "MINOR", "defects": ["patchy camouflage-like colour blocks", "arch connection unclear"], "fix": "Use layered horizontal rock bands instead of square patches and make the arch span read clearly."},
+  {"id": "DS07_03_hoodoo_arch_03", "verdict": "OK", "defects": ["mild colour patchiness"], "fix": ""}
+]

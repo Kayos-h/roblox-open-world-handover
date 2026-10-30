@@ -1,0 +1,14 @@
+[
+  {"id": "SD01_04_red_mesa_cluster_04", "verdict": "MAJOR", "defects": ["silhouette wrong: stacked flat slabs, not a broad flat-topped mesa", "teetering pancake-tower look", "thin flat debris planes at base"], "fix": "Rebuild as a broad flat-topped butte with sloped sides and horizontal strata, wider than tall; remove the stacked-box tower shape."},
+  {"id": "SD01_05_red_mesa_cluster_05", "verdict": "MAJOR", "defects": ["reads as a stack of coins/slabs, not a mesa", "narrow unstable silhouette", "flat ground debris planes"], "fix": "Reshape into one solid wide red rock mass with eroded flanks; keep the red/tan banding but lose the pancake stacking."},
+  {"id": "SD01_06_red_mesa_cluster_06", "verdict": "MAJOR", "defects": ["slab-stack tower not a mesa", "flat clipping debris planes around base"], "fix": "Rebuild as a broad buttressed mesa form; replace flat base planes with chunky fallen rocks."},
+  {"id": "SD02_01_desert_ruin_block_01", "verdict": "MINOR", "defects": ["thin flat debris planes jutting from base", "slight variety overlap with siblings"], "fix": "Replace the flat ground slabs with small 3D rubble chunks."},
+  {"id": "SD02_02_desert_ruin_block_02", "verdict": "MINOR", "defects": ["flat debris planes at base", "similar massing to other SD02 blocks"], "fix": "Swap flat base planes for volumetric rubble and vary the broken-wall skyline."},
+  {"id": "SD02_03_desert_ruin_block_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "SD02_04_desert_ruin_block_04", "verdict": "MINOR", "defects": ["flat debris planes at base", "reads as recolour/remix of SD02_01"], "fix": "Give it a distinct broken silhouette and 3D rubble instead of flat slabs."},
+  {"id": "SD02_05_desert_ruin_block_05", "verdict": "MINOR", "defects": ["thin flat base planes", "variety overlap with siblings"], "fix": "Vary massing and replace flat ground planes with chunky debris."},
+  {"id": "SD02_06_desert_ruin_block_06", "verdict": "MINOR", "defects": ["flat debris planes jutting at base"], "fix": "Replace flat slabs with small solid rubble blocks."},
+  {"id": "LM19_01_crater_rim_rock_01", "verdict": "MINOR", "defects": ["flat grey, little relief", "some near-black shadowed facets"], "fix": "Add subtle colour variation and break up large flat faces so it reads as weathered rock, not grey default."},
+  {"id": "LM19_02_crater_rim_rock_02", "verdict": "MAJOR", "defects": ["large very dark/near-black facets read as holes or inverted faces", "flat grey, crude"], "fix": "Check face normals on the dark faces and lighten; add relief and warmer rock tone."},
+  {"id": "LM19_03_crater_rim_rock_03", "verdict": "MINOR", "defects": ["flat grey rock pile, dark facets", "crude chunky blocks"], "fix": "Add colour variation and smaller detail rocks; verify no inverted dark faces."}
+]

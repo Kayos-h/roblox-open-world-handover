@@ -1,0 +1,14 @@
+[
+  {"id": "DS07_04_hoodoo_arch_04", "verdict": "MAJOR", "defects": ["collapsed into a chaotic pile of blocks with one thin spire", "no legible arch", "camouflage colour patches"], "fix": "Rebuild as a clear eroded rock arch with a connected span; remove the scattered block rubble and fix colour banding."},
+  {"id": "DS08_01_underground_entrance_01", "verdict": "MAJOR", "defects": ["flat wall with a staircase stuck on its face", "jumble of clipping amorphous slabs", "no readable entrance/opening", "single flat sand colour"], "fix": "Rebuild as a clear sunken doorway/ramp descending into the ground with framing and a dark opening; remove clipping slabs."},
+  {"id": "DS08_02_underground_entrance_02", "verdict": "MAJOR", "defects": ["same confusing clipping-slab mass as 01", "no clear entrance"], "fix": "Rebuild with a legible descending entrance and distinct ground opening."},
+  {"id": "DS08_03_underground_entrance_03", "verdict": "MAJOR", "defects": ["same illegible clipping composition", "no entrance read"], "fix": "Rebuild as a clear buried entrance; vary design from 01/02."},
+  {"id": "VC01_01_volcanic_rock_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "VC01_02_volcanic_rock_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "VC01_03_volcanic_rock_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "VC01_04_volcanic_rock_04", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "VC01_05_volcanic_rock_05", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "VC01_06_volcanic_rock_06", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "VC01_07_volcanic_rock_07", "verdict": "MINOR", "defects": ["tiny stray block floating at bottom-right"], "fix": "Remove the small detached fragment near the base."},
+  {"id": "VC01_08_volcanic_rock_08", "verdict": "MINOR", "defects": ["small stray fragment at base", "set of 8 feel like close variants"], "fix": "Remove the loose fragment; vary spire arrangement across the set."}
+]

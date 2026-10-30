@@ -1,0 +1,14 @@
+[
+  {"id": "HL06_01_snow_watchtower", "verdict": "OK", "defects": ["a couple of base struts look thin"], "fix": ""},
+  {"id": "HL07_01_mine_entrance_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "HL07_02_mine_entrance_02", "verdict": "MINOR", "defects": ["very close variant of HL07_01"], "fix": "Alter timber framing or rubble arrangement for variety."},
+  {"id": "FR01_01_giant_tree_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "FR01_02_giant_tree_02", "verdict": "MINOR", "defects": ["near-recolour of FR01_01"], "fix": "Vary canopy mass and branch spread to distinguish from 01."},
+  {"id": "FR01_03_giant_tree_03", "verdict": "MAJOR", "defects": ["canopy reduced to two ball blobs on splayed legs; reads as an arch/wishbone, not a giant tree", "trunk splits into a bare inverted-V with a gap"], "fix": "Rebuild with a full connected canopy and a solid single trunk so it matches its giant-tree siblings."},
+  {"id": "FR01_04_giant_tree_04", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "FR02_01_forest_ruin_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "FR02_02_forest_ruin_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "FR02_03_forest_ruin_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "FR02_04_forest_ruin_04", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "FR02_05_forest_ruin_05", "verdict": "MINOR", "defects": ["tall thin column looks like a floating plain slab with little relief"], "fix": "Add break detail and a base to the standing column so it reads as a ruin, not a blank post."}
+]

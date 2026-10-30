@@ -1,0 +1,14 @@
+[
+  {"id": "FR03_05_cave_mouth_05", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "DS07_01_hoodoo_arch_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP18_02_quay_wall_02", "verdict": "MAJOR", "defects": ["reads as an ocean liner/ship, not a quay wall", "curved hull silhouette with funnel-like posts on top", "no wall face that would tile along a quay"], "fix": "Rebuild as a straight stone quay wall with flat vertical face, bollards instead of funnels, and ends that tile with neighbours.", "original": "OK"},
+  {"id": "LM25_01_ruin_gate_hero", "verdict": "MINOR", "defects": ["slight gap/notch under the lintel between piers (front)", "loose debris blocks read a little scattered"], "fix": "Close the small gap where the lintel meets the right pier and tidy the ground rubble.", "original": "OK"},
+  {"id": "FR02_06_forest_ruin_06", "verdict": "OK", "defects": ["banded column plus mossy base reads fine"], "fix": "", "original": "OK"},
+  {"id": "LM16_02_ring_temple_segment_02", "verdict": "MAJOR", "defects": ["detached/floating slabs lean against the pillars (back)", "fallen wedge pieces at the base look like broken stray parts", "stripey overlap banding on the round core", "silhouette does not clearly read as a temple ring segment"], "fix": "Reseat the leaning slabs into the structure, remove stray floating wedges, and give the ring core a cleaner curved wall.", "original": "OK"},
+  {"id": "EV03_05_elf_path_piece_05", "verdict": "MINOR", "defects": ["flat single-colour slab base with little relief", "dark grid lattice on top reads a touch heavy/flat"], "fix": "Add edge trim or stone relief to the base and lighten the lattice so it reads as a path/grate.", "original": "OK"},
+  {"id": "CO04_01_sea_arch_01", "verdict": "MAJOR", "defects": ["loose rubble pile, barely reads as an arch", "opening nearly collapsed/filled with debris", "crude scattered blocks, no clean arch span"], "fix": "Rebuild with a continuous rock span and a clear open hole beneath so the sea-arch silhouette reads.", "original": "OK"},
+  {"id": "TW03_01_skull_avenue_set_01", "verdict": "MINOR", "defects": ["skull banner atop the brazier is small and reads oddly against the bowl", "mostly flat near-black surfaces with little relief"], "fix": "Give the dark brazier some surface relief and firm up the skull marker so it is not mistaken for debris.", "original": "OK"},
+  {"id": "DS08_01_underground_entrance_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP01_02_ring_wall_straight_02", "verdict": "OK", "defects": ["clean tiling crenellated block wall, rests on ground"], "fix": "", "original": "OK"},
+  {"id": "NE02_01_entry_rock_pair_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

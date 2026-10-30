@@ -1,0 +1,14 @@
+[
+  {"id": "CP15_01_order_hq_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP15_02_order_hq_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP15_03_order_hq_03", "verdict": "MAJOR", "defects": ["crude low-detail octagonal grey block, far below sibling landmark quality", "large detached brown box floating in front of it"], "fix": "rebuild to match CP15_01/02 detail (proper facade, roof, trim) and remove or integrate the stray brown box"},
+  {"id": "CP16_01_townhouse_new_01", "verdict": "MINOR", "defects": ["door canopy sits slightly off the facade"], "fix": "snap the entry canopy flush to the wall"},
+  {"id": "CP16_02_townhouse_new_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP16_03_townhouse_new_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP16_04_townhouse_new_04", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP16_05_townhouse_new_05", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP16_06_townhouse_new_06", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP16_07_townhouse_new_07", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP16_08_townhouse_new_08", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP16_09_townhouse_new_09", "verdict": "OK", "defects": [], "fix": ""}
+]

@@ -1,0 +1,14 @@
+[
+  {"id": "LM24_02_fall_pool_rock_02", "verdict": "MAJOR", "defects": ["plain default-grey angular boxes", "no colour or surface relief", "reads as unfinished blockout both views"], "fix": "Apply rock colour/material variation and break up the flat box faces so it reads as weathered stone, not a grey blockout.", "original": "OK"},
+  {"id": "LM24_03_fall_pool_rock_03", "verdict": "MAJOR", "defects": ["plain default-grey angular boxes", "no colour or relief", "near-identical to LM24_02"], "fix": "Colour and vary the rock surface and change the arrangement so it differs from LM24_02 in shape, not only placement.", "original": "OK"},
+  {"id": "WT01_01_wizard_tower_shell", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "WT03_02_wizard_bookshelf_curved_02", "verdict": "MINOR", "defects": ["back is a single uniform dark slab (open-back shelf)"], "fix": "Optional: add a thin backing board or trim so the back is not one flat colour.", "original": "OK"},
+  {"id": "WT03_03_wizard_bookshelf_curved_03", "verdict": "MINOR", "defects": ["back a uniform dark slab", "very similar to WT03_02"], "fix": "Optional: vary the shelf count/book layout so it differs from WT03_02 beyond the curve.", "original": "OK"},
+  {"id": "WT04_01_wizard_bookshelf_straight_01", "verdict": "MINOR", "defects": ["back a uniform dark slab"], "fix": "Optional: add backing relief so the rear is not one flat slab.", "original": "OK"},
+  {"id": "WT04_02_wizard_bookshelf_straight_02", "verdict": "MINOR", "defects": ["back a uniform dark slab", "similar to WT04_01"], "fix": "Optional: change shelf arrangement so it reads distinct from WT04_01.", "original": "OK"},
+  {"id": "WT05_01_wizard_round_map_table", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "WT06_01_wizard_floor_medallion", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "WT07_01_wizard_lab_set_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "WT07_02_wizard_lab_set_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "WT07_03_wizard_lab_set_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

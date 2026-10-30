@@ -1,0 +1,14 @@
+[
+  {"id": "CO03_04_reef_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP18_04_quay_wall_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "EV01_05_elf_house_new_05", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "FL01_03_floating_island_hero_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM31_01_ruined_castle_module_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "RD02_05_camp_set_05", "verdict": "MAJOR", "defects": ["just a scatter of plain boxes, a white cylinder and a white blob", "no readable camp - no tents, fire or gear", "crude untextured primitives"], "fix": "Rebuild as recognisable camp gear (tents, campfire, crates/barrels) instead of loose plain primitives.", "original": "OK"},
+  {"id": "HM06_02_switchback_wall_02", "verdict": "MINOR", "defects": ["dark banding/stripes on the back face", "flat grey surface with little relief"], "fix": "Clean up the back-face banding and add light stone relief.", "original": "OK"},
+  {"id": "LM26_03_ruin_arena_segment_03", "verdict": "MINOR", "defects": ["very plain flat tan surface with no relief on the arena wall"], "fix": "Add stone-block relief and weathering so the curved wall does not read as a plain slab.", "original": "OK"},
+  {"id": "RD05_02_battlefield_prop_02", "verdict": "MINOR", "defects": ["large flat single-colour red disc/shield reads as a plain slab"], "fix": "Add a rim, boss or relief to the red shield so it is not a flat coloured slab.", "original": "OK"},
+  {"id": "CP02_02_ring_wall_corner_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "EV02_03_canopy_cluster_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "VG04_01_tree_birch_01", "verdict": "MINOR", "defects": ["trunk is very thin and spindly (pole-like) for the canopy mass"], "fix": "Thicken the trunk so the birch does not read as a pole holding a blob.", "original": "OK"}
+]

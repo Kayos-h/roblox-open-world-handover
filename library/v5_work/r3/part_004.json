@@ -1,0 +1,14 @@
+[
+  {"id": "LM10_01_temple_colonnade_buried_01", "verdict": "MINOR", "defects": ["black hollow gap at the top of a broken column (both views)"], "fix": "Cap the broken column tops so the dark hollow interior is not visible.", "original": "OK"},
+  {"id": "LM11_01_temple_gate_buried", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM14_01_sand_obelisk_01", "verdict": "MINOR", "defects": ["nearly identical to LM14_02 (same shape and colour, differs only in small marks)"], "fix": "Differentiate the two obelisks in shape/proportion/carving, not just minor marks.", "original": "OK"},
+  {"id": "LM14_02_sand_obelisk_02", "verdict": "MINOR", "defects": ["nearly identical to LM14_01 (variety)"], "fix": "Give this obelisk a distinct silhouette or detailing from LM14_01.", "original": "OK"},
+  {"id": "LM15_01_ring_temple_hero", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM17_01_ring_inner_sanctum", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM20_01_crater_arcane_ruin_01", "verdict": "MINOR", "defects": ["standing shards are near-default flat grey with little colour/relief"], "fix": "Add stone colour variation and facet relief to the shards; keep the small arcane accents.", "original": "OK"},
+  {"id": "LM20_03_crater_arcane_ruin_03", "verdict": "MINOR", "defects": ["single plain grey monolith, very bare, near-default colour"], "fix": "Add relief, carving or colour to the monolith and base so it is not a plain grey slab.", "original": "OK"},
+  {"id": "LM21_01_floating_rock_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM21_03_floating_rock_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM23_01_gorge_wall_01", "verdict": "MAJOR", "defects": ["built from stacked flat slabs reading as overlapping layered stripes", "square camouflage colour patches on the rock face", "visible in both views"], "fix": "Rebuild the gorge wall as a chunky faceted cliff instead of stacked thin slabs, and remove the square camouflage colour patches for blended stone tones.", "original": "OK"},
+  {"id": "LM24_01_fall_pool_rock_01", "verdict": "MINOR", "defects": ["rock cluster is near-default grey with little colour variation"], "fix": "Add colour variation/relief to the rock so it does not read as default grey.", "original": "OK"}
+]

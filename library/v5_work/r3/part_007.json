@@ -1,0 +1,14 @@
+[
+  {"id": "HL06_01_snow_watchtower", "verdict": "OK", "defects": ["base rubble is plain grey but acceptable at distance"], "fix": "", "original": "OK"},
+  {"id": "HM01_01_rope_suspension_bridge_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "HM01_02_rope_suspension_bridge_02", "verdict": "OK", "defects": ["very similar to HM01_01, mainly longer"], "fix": "", "original": "OK"},
+  {"id": "HM01_03_rope_suspension_bridge_03", "verdict": "OK", "defects": ["same design as HM01_01/02, only length differs"], "fix": "", "original": "OK"},
+  {"id": "HM02_01_timber_cantilever_bridge_01", "verdict": "MINOR", "defects": ["abutment blocks are plain default-grey, no colour/relief"], "fix": "Give the stone abutments a rock colour/material so they do not read as grey blockout.", "original": "OK"},
+  {"id": "HM02_02_timber_cantilever_bridge_02", "verdict": "MINOR", "defects": ["plain default-grey abutment blocks", "same design as HM02_01"], "fix": "Colour the abutments and vary the span so it reads distinct from HM02_01.", "original": "OK"},
+  {"id": "HM03_01_tunnel_portal_01", "verdict": "MINOR", "defects": ["rock mass plain grey, no colour relief", "timber arch fine"], "fix": "Add rock colour/material variation to the stone mass.", "original": "OK"},
+  {"id": "HM03_02_tunnel_portal_02", "verdict": "MAJOR", "defects": ["thin black vertical stripes across the opening (front) read as a stripe/gap artifact", "rock mass plain grey", "snow cap floats as flat white slab"], "fix": "Remove the black vertical stripe artifact at the opening and colour the rock; seat the snow cap on the stone.", "original": "OK"},
+  {"id": "HM03_03_tunnel_portal_03", "verdict": "MINOR", "defects": ["rock mass plain grey, no relief", "flags/awning fine"], "fix": "Add rock colour/material variation to the stone mass.", "original": "OK"},
+  {"id": "HM07_01_prayer_flag_string_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "HM07_02_prayer_flag_string_02", "verdict": "OK", "defects": ["similar to HM07_01, more flags"], "fix": "", "original": "OK"},
+  {"id": "HM07_03_prayer_flag_string_03", "verdict": "OK", "defects": ["similar to HM07_01/02"], "fix": "", "original": "OK"}
+]

@@ -1,0 +1,14 @@
+[
+  {"id": "DS03_01_caravan_wagon_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "DS05_01_oasis_rock_ring_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "DS06_01_canyon_wall_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "DS06_02_canyon_wall_02", "verdict": "MINOR", "defects": ["near-identical to DS06_01 and DS06_03, differs only slightly in arrangement"], "fix": "Vary the ledge/stratum pattern so the three canyon-wall tiles read as distinct designs, not clones.", "original": "OK"},
+  {"id": "DS06_03_canyon_wall_03", "verdict": "MINOR", "defects": ["near-identical to DS06_01 and DS06_02"], "fix": "Vary the stratification and top profile from its siblings.", "original": "OK"},
+  {"id": "DS07_03_hoodoo_arch_03", "verdict": "MINOR", "defects": ["square camouflage-style colour patches scattered across the rock", "arch reads a little thin/unstable at the top"], "fix": "Blend the rock colour so there are no square patches and thicken the arch crown slightly.", "original": "OK"},
+  {"id": "CO01_01_coastal_cliff_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CO01_04_coastal_cliff_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CO01_06_coastal_cliff_06", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CO02_01_sea_stack_01", "verdict": "MINOR", "defects": ["small green cap on top of a sea stack looks out of place (grass on a sea spire)"], "fix": "Replace or remove the green top cap so the stack reads as bare rock.", "original": "OK"},
+  {"id": "CO02_02_sea_stack_02", "verdict": "MINOR", "defects": ["same odd green cap on top; near-identical to CO02_01/03"], "fix": "Remove the green cap and vary the silhouette from its siblings.", "original": "OK"},
+  {"id": "CO02_03_sea_stack_03", "verdict": "MINOR", "defects": ["odd green cap on top", "very similar to the other two sea stacks"], "fix": "Remove the green cap and differentiate the shape.", "original": "OK"}
+]

@@ -1,0 +1,14 @@
+[
+  {"id": "LM27_01_ruin_aqueduct_arch_01", "verdict": "MAJOR", "defects": ["solid black rectangular patches across the parapet read as holes/gaps", "stray green nubs stuck to piers"], "fix": "Fill the black gaps with proper stone blocks (or model them as real openings with back faces); remove stray green bits."},
+  {"id": "LM27_02_ruin_aqueduct_arch_02", "verdict": "MAJOR", "defects": ["black holes along broken parapet", "green nubs clinging to columns"], "fix": "Close/backface the black gaps and remove floating green specks."},
+  {"id": "LM28_01_ruin_column_set_01", "verdict": "MINOR", "defects": ["grey-white drum banding looks a bit striped", "small floating debris"], "fix": "Soften the stripe contrast and settle debris on the ground."},
+  {"id": "LM28_02_ruin_column_set_02", "verdict": "MINOR", "defects": ["striped drum look", "scattered small floating chunks"], "fix": "Reduce band contrast; ground the rubble."},
+  {"id": "LM28_03_ruin_column_set_03", "verdict": "MINOR", "defects": ["two columns read as recolour of the other sets", "banding stripes"], "fix": "Vary column heights/breaks and tone down stripes."},
+  {"id": "LM29_01_ruin_tower_stump_01", "verdict": "MINOR", "defects": ["floating broken-top chunks sit slightly above the rim"], "fix": "Attach the broken crenellation chunks to the wall top."},
+  {"id": "LM29_02_ruin_tower_stump_02", "verdict": "MAJOR", "defects": ["reads as a plain cream box, square silhouette", "almost no relief, crude for a tower stump"], "fix": "Make the stump round or battered with an eroded broken top and surface relief, not a flat rectangular box."},
+  {"id": "LM31_01_ruined_castle_module_01", "verdict": "MINOR", "defects": ["green moss bands look like painted rings", "slight sibling overlap"], "fix": "Break the moss into patches rather than continuous bands."},
+  {"id": "LM31_02_ruined_castle_module_02", "verdict": "MINOR", "defects": ["continuous green ring bands", "similar to module_01"], "fix": "Vary the tower damage and scatter the moss."},
+  {"id": "LM31_03_ruined_castle_module_03", "verdict": "MAJOR", "defects": ["two plain flat grey slabs, minimal detail", "crude, reads as blank blocks not castle ruin"], "fix": "Add wall thickness, broken crenellations, window/arrow slits and surface relief so it reads as a ruined wall."},
+  {"id": "PL01_01_farmhouse_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "PL01_02_farmhouse_02", "verdict": "OK", "defects": [], "fix": ""}
+]

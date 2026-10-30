@@ -1,0 +1,14 @@
+[
+  {"id": "WT01_01_wizard_tower_shell", "verdict": "OK", "defects": ["reads more as a tiered lighthouse than a classic wizard tower, but believable as an island landmark"], "fix": "", "scores": {"exterior": 9, "interior": 8, "bookshelves": 8, "map": 9, "silhouette": 9, "materials": 8}},
+  {"id": "WT11_01_wizard_armillary_crown", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "WT12_01_wizard_door_porch", "verdict": "OK", "defects": ["door opening a touch narrow for a main entrance, but acceptable for a porch"], "fix": ""},
+  {"id": "WT13_01_plateau_terrace_set_01", "verdict": "MINOR", "defects": ["plain flat cream slab deck with little relief"], "fix": "add an edge trim or a few steps so it reads as a built terrace, not a blank box lid"},
+  {"id": "WT13_02_plateau_terrace_set_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "WT13_03_plateau_terrace_set_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "WT13_04_plateau_terrace_set_04", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "WT13_05_plateau_terrace_set_05", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "WT13_06_plateau_terrace_set_06", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "WT02_01_wizard_tower_interior", "verdict": "MAJOR", "defects": ["walkable floors with spiral stairs and domed top are good", "but NO bookshelves on any interior floor", "NO circular relief map inside the tower"], "fix": "place the WT03/WT04 bookshelves floor-to-ceiling on at least one library floor and set the WT05 round map on a floor so the interior delivers the brief's bookshelves and map categories", "scores": {"exterior": 8, "interior": 8, "bookshelves": 3, "map": 3, "silhouette": 8, "materials": 8}},
+  {"id": "WT03_01_wizard_bookshelf_curved_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "WT03_02_wizard_bookshelf_curved_02", "verdict": "OK", "defects": [], "fix": ""}
+]

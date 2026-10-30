@@ -1,0 +1,14 @@
+[
+  {"id": "LM22_01_colossal_fall_cliff_hero", "verdict": "REDO", "defects": ["waterfalls are bright white+cyan flat emissive-looking vertical slabs floating in front of the cliff", "no-glow rule violation", "falls float detached from the rock face", "cliff is a thin stacked-slab stack like paper"], "fix": "Rebuild falls as thin pale stepped water hugging the rock with foam pools, no glowing slabs; make the cliff chunky faceted rock instead of stacked thin plates."},
+  {"id": "LM25_01_ruin_gate_hero", "verdict": "MINOR", "defects": ["the tall L-shaped overhang block reads ambiguous, almost like an unfinished arm", "red inset panels look like flat stickers"], "fix": "Clarify the gate lintel form and recess/relieve the red panels so they read as stone niches."},
+  {"id": "LM30_01_ruined_castle_hero", "verdict": "MINOR", "defects": ["almost entirely flat default grey, reads unfinished/greyed-out", "window holes are flat black rectangles", "rubble cubes scattered loosely"], "fix": "Add weathered stone colour variation and recess the windows; tidy the rubble so cubes rest naturally."},
+  {"id": "CO01_01_coastal_cliff_01", "verdict": "OK", "defects": ["green grass cap is a flat slab"], "fix": ""},
+  {"id": "CO01_02_coastal_cliff_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CO01_03_coastal_cliff_03", "verdict": "MINOR", "defects": ["flat black square cave hole reads as a void/hole in the slab"], "fix": "Give the cave opening depth/recess so it is not a flat black square patch."},
+  {"id": "CO01_04_coastal_cliff_04", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CO01_05_coastal_cliff_05", "verdict": "MAJOR", "defects": ["thin bright cyan vertical waterfall strip reads as a glowing neon line", "no-glow rule violation"], "fix": "Replace the glowing cyan strip with a pale matte stepped waterfall, or remove it."},
+  {"id": "CO01_06_coastal_cliff_06", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CO02_01_sea_stack_01", "verdict": "OK", "defects": ["tiny green cap on a tall stack looks token"], "fix": ""},
+  {"id": "CO02_02_sea_stack_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CO02_03_sea_stack_03", "verdict": "OK", "defects": ["very similar to sea_stack_02"], "fix": ""}
+]

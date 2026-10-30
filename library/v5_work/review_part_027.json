@@ -1,0 +1,14 @@
+[
+  {"id": "LM19_04_crater_rim_rock_04", "verdict": "MAJOR", "defects": ["large dark/near-black facets read as inverted faces or holes", "flat grey, crude"], "fix": "Recalculate normals on the dark faces, lighten and add warm rock tone with more relief."},
+  {"id": "LM19_05_crater_rim_rock_05", "verdict": "MAJOR", "defects": ["big flat near-black block face looks like an inverted normal", "flat grey rock pile"], "fix": "Fix the inverted/dark face, break up the large flat block and add colour variation."},
+  {"id": "LM20_01_crater_arcane_ruin_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "LM20_02_crater_arcane_ruin_02", "verdict": "MINOR", "defects": ["blue rune marks risk reading as emissive", "a stray small green nub near base"], "fix": "Keep rune trim matte (no glow); confirm no stray prop geometry is saved with the model."},
+  {"id": "LM20_03_crater_arcane_ruin_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "LM21_01_floating_rock_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "LM21_02_floating_rock_02", "verdict": "MINOR", "defects": ["underside rock chunks look loosely jumbled/semi-detached"], "fix": "Merge the underside rock mass into one tapered root so chunks don't read as floating fragments."},
+  {"id": "LM21_03_floating_rock_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "LM21_04_floating_rock_04", "verdict": "MINOR", "defects": ["underside chunks slightly disconnected", "close recolour of siblings"], "fix": "Vary the island outline and tidy the underside into a cohesive tapered mass."},
+  {"id": "LM26_01_ruin_arena_segment_01", "verdict": "MINOR", "defects": ["thin white bars between columns read flat/railing-like", "very similar to siblings"], "fix": "Give columns more depth and vary the broken top edge between the three segments."},
+  {"id": "LM26_02_ruin_arena_segment_02", "verdict": "MINOR", "defects": ["near-identical to segment_01 (recolour feel)", "flat white infill bars"], "fix": "Differentiate the broken silhouette and thicken the column/arch geometry."},
+  {"id": "LM26_03_ruin_arena_segment_03", "verdict": "MINOR", "defects": ["flat infill bars", "variety overlap with other arena segments"], "fix": "Vary ruin damage pattern; add depth to the colonnade."}
+]

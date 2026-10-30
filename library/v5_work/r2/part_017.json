@@ -1,0 +1,14 @@
+[
+  {"id": "LM07_01_carved_stair_switchback_01", "verdict": "MAJOR", "defects": ["stair shaft renders pitch-black (inverted/unlit faces)", "right half is a chaotic rock blob with floating shards (front)", "steps read as thin white strips glued to a black slab"], "fix": "Fix the stair-shaft face normals so it is not black, clean up the loose rock shards, and make the switchback steps read as cut stone instead of a white ladder on a black panel.", "original": "OK"},
+  {"id": "VC01_07_volcanic_rock_07", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM28_02_ruin_column_set_02", "verdict": "MINOR", "defects": ["columns look thin and barely seated on the base disc", "a few small cylinder stubs lie loose on the base"], "fix": "Seat the columns firmly on the base and tidy or integrate the loose stubs so nothing reads as floating.", "original": "OK"},
+  {"id": "DS08_01_underground_entrance_01", "verdict": "MAJOR", "defects": ["reads as a plain tan box with debris on top, no visible opening or descending stair", "silhouette does not say 'underground entrance'"], "fix": "Cut a clear doorway/stair opening into one face so the entrance reads; add relief to the plain box walls.", "original": "OK"},
+  {"id": "RD06_05_abandoned_house_05", "verdict": "MINOR", "defects": ["almost entirely open timber frame, very sparse", "thin frame members may read as fragile at distance"], "fix": "Keep the ruined look but add a little remaining wall infill/roof fragment so it reads as an abandoned house rather than bare scaffolding.", "original": "OK"},
+  {"id": "CO03_05_reef_05", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "NE02_02_entry_rock_pair_02", "verdict": "MINOR", "defects": ["low scattered rock pile, pairing/gateway intent barely reads", "some flat facets"], "fix": "Raise and separate the two rock masses so the 'entry pair' gateway shape reads clearly.", "original": "OK"},
+  {"id": "CP14_02_skyline_tower_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP10_02_keep_wing_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM18_01_crater_monolith_ring", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP18_03_quay_wall_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "SP01_04_snow_spire_cluster_04", "verdict": "MINOR", "defects": ["very slender spire looks fragile and slightly unstable on its rock base", "small facet noise along the spire"], "fix": "Thicken the spire base slightly and smooth the facet noise so the tall needle reads as solid ice.", "original": "OK"}
+]

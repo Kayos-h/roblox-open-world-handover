@@ -1,0 +1,14 @@
+[
+  {"id": "VG07_01_boardwalk_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "VG07_02_boardwalk_02", "verdict": "MINOR", "defects": ["near-identical to VG07_01, only minor plank/rail differences"], "fix": "Vary length, railing or plank gaps so the two boardwalk pieces differ beyond a near-clone.", "original": "OK"},
+  {"id": "TW02_01_street_life_01", "verdict": "MINOR", "defects": ["cart load is a plain white box with small green blob, reads unfinished", "wheel reads as a flat disc from the back"], "fix": "Give the cart a proper cargo and round out the wheels so they read from both sides.", "original": "OK"},
+  {"id": "TW02_02_street_life_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "TW02_03_street_life_03", "verdict": "OK", "defects": ["plain single-colour crate stack, little relief"], "fix": "", "original": "OK"},
+  {"id": "TW02_04_street_life_04", "verdict": "MINOR", "defects": ["two white cylinders have hollow open-top holes reading as gaps", "black slit gaps between crates"], "fix": "Cap the open cylinder tops and close the thin black gaps between boxes.", "original": "OK"},
+  {"id": "TW02_05_street_life_05", "verdict": "OK", "defects": ["stacked barrels fairly plain"], "fix": "", "original": "OK"},
+  {"id": "TW02_07_street_life_07", "verdict": "MAJOR", "defects": ["crude dark-grey blob, silhouette does not read as any clear object", "black hole gaps in the lower box", "flat near-black single colour, no relief"], "fix": "Rebuild as a recognisable street prop (well/pump/bin) with closed geometry and a lighter, textured surface.", "original": "OK"},
+  {"id": "TW02_08_street_life_08", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "VC01_01_volcanic_rock_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "VC01_02_volcanic_rock_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "VC01_03_volcanic_rock_03", "verdict": "MINOR", "defects": ["small detached rock shards float near the base", "very similar to VC01_01/02"], "fix": "Reattach the loose shards to the base and vary the spire arrangement from its siblings.", "original": "OK"}
+]

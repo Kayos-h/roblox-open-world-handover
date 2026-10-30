@@ -1,0 +1,14 @@
+[
+  {"id": "CP12_02_terrace_retaining_wall_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "EV01_01_elf_house_new_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM19_03_crater_rim_rock_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "DS01_06_adobe_house_06", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "EV03_04_elf_path_piece_04", "verdict": "MINOR", "defects": ["mostly a flat ramp of plank strips with little relief", "back is a plain slab"], "fix": "Add a bit of edge detail or foliage so the path piece is not a near-flat striped slab from behind.", "original": "OK"},
+  {"id": "HB01_03_harbour_wall_tower_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM31_03_ruined_castle_module_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "VG03_02_tree_flowering_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "VC01_05_volcanic_rock_05", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM19_01_crater_rim_rock_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP15_03_order_hq_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "SD02_01_desert_ruin_block_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

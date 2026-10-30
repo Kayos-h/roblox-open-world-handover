@@ -1,0 +1,14 @@
+[
+  {"id": "CP16_10_townhouse_new_10", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP16_11_townhouse_new_11", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP16_12_townhouse_new_12", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP17_01_plaza_features_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP17_02_plaza_features_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP18_01_quay_wall_01", "verdict": "MAJOR", "defects": ["blocky square two-tone camo colour patches (cream/lilac checker) across the wall face"], "fix": "replace the random square patches with one stone colour; add bollards/course as relief instead of colour noise"},
+  {"id": "CP18_02_quay_wall_02", "verdict": "MINOR", "defects": ["plain curved slab, little relief"], "fix": "add a coping course or subtle stone banding"},
+  {"id": "CP18_03_quay_wall_03", "verdict": "MAJOR", "defects": ["blocky square two-tone camo colour patches on wall", "stair reads as flat recolour"], "fix": "unify to one stone colour and model the steps with real risers rather than painted patches"},
+  {"id": "CP18_04_quay_wall_04", "verdict": "MAJOR", "defects": ["blocky square two-tone camo colour patches across the wall face"], "fix": "unify to a single stone colour; keep the chimney/bollard detail as geometry"},
+  {"id": "CP19_01_grand_bridge_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "CP19_02_grand_bridge_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "LM01_01_world_tree_trunk_door", "verdict": "MAJOR", "defects": ["splayed root buttresses are thin spiky planks with large see-through gaps between them", "trunk base reads hollow/holed", "top is an open flat green rim (hollow trunk cap)"], "fix": "thicken and merge the roots into a solid flared base with no gaps, close the trunk top, and make the door a clear recessed opening rather than a hollow"}
+]

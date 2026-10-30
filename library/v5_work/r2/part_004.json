@@ -1,0 +1,14 @@
+[
+  {"id": "CP14_04_skyline_tower_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "SD01_05_red_mesa_cluster_05", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM12_01_temple_stair_down_01", "verdict": "MINOR", "defects": ["side walls read as flat near-black panels (front/side view)"], "fix": "Recolour the black side panels to a stone tone so they do not read as black patches.", "original": "OK"},
+  {"id": "HL01_01_ice_spire_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP03_02_ring_wall_stair_end_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "VC02_02_skull_cliff_hero_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "SP01_03_snow_spire_cluster_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "HM04_01_tunnel_lining_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "FR03_03_cave_mouth_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM02_01_world_tree_falls", "verdict": "MINOR", "defects": ["stone ledges with blue panels down the trunk read slightly like building windows (both views)"], "fix": "Make the waterfall/ledge faces read clearly as water/rock rather than windowed slabs.", "original": "OK"},
+  {"id": "VC04_01_skull_city_building_01", "verdict": "MAJOR", "defects": ["flat default grey, no colour relief", "crenellated top exposes interior beams (back view)"], "fix": "Recolour off plain default grey and close/floor the open top.", "original": "OK"},
+  {"id": "FL01_02_floating_island_hero_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

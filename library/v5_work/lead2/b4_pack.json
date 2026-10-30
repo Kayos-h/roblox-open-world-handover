@@ -1,0 +1,54 @@
+[
+ {
+  "id": "FR02_01_forest_ruin_01",
+  "category": "v5_forest"
+ },
+ {
+  "id": "FR02_02_forest_ruin_02",
+  "category": "v5_forest"
+ },
+ {
+  "id": "FR02_03_forest_ruin_03",
+  "category": "v5_forest"
+ },
+ {
+  "id": "FR03_01_cave_mouth_01",
+  "category": "v5_forest"
+ },
+ {
+  "id": "LM24_01_fall_pool_rock_01",
+  "category": "v5_forest"
+ },
+ {
+  "id": "VG05_01_tree_cypress_swamp_01",
+  "category": "v5_forest"
+ },
+ {
+  "id": "VG07_02_boardwalk_02",
+  "category": "v5_forest"
+ },
+ {
+  "id": "HL03_02_glacier_tongue_02",
+  "category": "v5_himalaya"
+ },
+ {
+  "id": "SP01_04_snow_spire_cluster_04",
+  "category": "v5_himalaya"
+ },
+ {
+  "id": "SP01_06_snow_spire_cluster_06",
+  "category": "v5_himalaya"
+ },
+ {
+  "id": "LM05_01_fortress_cliff_tower_01",
+  "category": "v5_landmarks"
+ },
+ {
+  "id": "LM05_02_fortress_cliff_tower_02",
+  "category": "v5_landmarks"
+ },
+ {
+  "id": "LM08_01_mountain_span_bridge",
+  "category": "v5_landmarks"
+ }
+]

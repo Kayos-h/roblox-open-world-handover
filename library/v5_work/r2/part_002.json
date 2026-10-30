@@ -1,0 +1,14 @@
+[
+  {"id": "DS04_01_palm_01", "verdict": "MINOR", "defects": ["fronds blocky and sparse", "very thin trunk"], "fix": "Fill out the frond canopy and thicken the trunk slightly so it does not look stick-like.", "original": "OK"},
+  {"id": "LM23_02_gorge_wall_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "TW01_01_town1_hero_statue", "verdict": "MINOR", "defects": ["figure is a vague blocky form, little readable detail for a hero statue"], "fix": "Sculpt clearer body/pose detail so the statue reads as a figure, not a draped block.", "original": "OK"},
+  {"id": "CO01_02_coastal_cliff_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM10_03_temple_colonnade_buried_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "HM04_02_tunnel_lining_02", "verdict": "MINOR", "defects": ["top slab reads near-black", "dark heavy lintel"], "fix": "Lighten the near-black top slab to a stone tone so it does not read as a black patch.", "original": "OK"},
+  {"id": "RD05_04_battlefield_prop_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "FR01_03_giant_tree_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "RD02_06_camp_set_06", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "VC04_05_skull_city_building_05", "verdict": "MAJOR", "defects": ["open-topped hollow box, exposed roof beams (both views)", "flat default grey, no colour relief"], "fix": "Roof it or give a ruined profile and recolour off plain default grey.", "original": "OK"},
+  {"id": "SP01_02_snow_spire_cluster_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "PL05_01_ruined_watchtower_plains_01", "verdict": "MINOR", "defects": ["plain pale cylinder with little stone relief"], "fix": "Add stone-course relief and weathering to the tower shaft so it is not a smooth pale cylinder.", "original": "OK"}
+]

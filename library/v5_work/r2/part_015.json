@@ -1,0 +1,14 @@
+[
+  {"id": "CP04_01_tower_round_cone_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "NE02_01_entry_rock_pair_01", "verdict": "MINOR", "defects": ["plain grey faceted rocks, default colour, no rock relief"], "fix": "Give the rocks a natural stone colour and shading variation.", "original": "OK"},
+  {"id": "PL04_01_mill_waterwheel", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "PL05_03_ruined_watchtower_plains_03", "verdict": "MINOR", "defects": ["plain tan cylinder, low detail", "broken roof reads but body is featureless"], "fix": "Add stone block relief, cracks and window detail.", "original": "OK"},
+  {"id": "LM26_01_ruin_arena_segment_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP18_01_quay_wall_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "WT03_01_wizard_bookshelf_curved_01", "verdict": "MINOR", "defects": ["back is a flat solid dark-red slab, large blank panel (back view)"], "fix": "Add plank/frame detail to the back so it is not a single flat slab.", "original": "OK"},
+  {"id": "VG04_03_tree_birch_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "RD01_03_watchtower_03", "verdict": "MINOR", "defects": ["plain tan cylinder, minimal detail, near-default look"], "fix": "Add stone texture, battlements and window relief.", "original": "OK"},
+  {"id": "RV01_03_bank_rock_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "DS08_02_underground_entrance_02", "verdict": "MINOR", "defects": ["blocky stacked tan boxes, flat uniform colour", "entrance opening hard to read from front"], "fix": "Vary colour and clarify the opening so the entrance reads clearly.", "original": "OK"},
+  {"id": "LM29_02_ruin_tower_stump_02", "verdict": "MINOR", "defects": ["plain two-tone tan cylinder, near-featureless", "shares silhouette/design with LM29_01, differs mainly by colour"], "fix": "Add surface relief and differentiate the shape from LM29_01.", "original": "OK"}
+]

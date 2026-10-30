@@ -1,0 +1,14 @@
+[
+  {"id": "CP13_01_grand_stair_01", "verdict": "MINOR", "defects": ["black vertical stripes on the solid flank (back view), look like overlapping/z-fighting faces"], "fix": "Remove the duplicate/overlapping faces on the stair side wall that produce the black stripes.", "original": "OK"},
+  {"id": "CP13_02_grand_stair_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP14_01_skyline_tower_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP14_03_skyline_tower_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP15_01_order_hq_01", "verdict": "MINOR", "defects": ["large bright gold star medallion on front gable reads as an applied emblem/badge"], "fix": "Reduce or restyle the gold star emblem so it does not read as a squad badge; keep it matte, not glowing.", "original": "SIMILAR TO Black Clover Magic Knight squad star-emblem motif (an 'order HQ' with a prominent star badge); plain star is otherwise generic"},
+  {"id": "CP15_02_order_hq_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP16_02_townhouse_new_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP16_03_townhouse_new_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP16_04_townhouse_new_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP16_05_townhouse_new_05", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP16_06_townhouse_new_06", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP16_07_townhouse_new_07", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

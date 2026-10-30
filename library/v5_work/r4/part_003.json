@@ -1,0 +1,14 @@
+[
+  {"id": "VG04_01_tree_birch_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "SD02_02_desert_ruin_block_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "SD02_05_desert_ruin_block_05", "verdict": "MINOR", "defects": ["thin splayed flaps around the rubble base (both views)"], "fix": "tidy the base rubble into solid chunky rocks, remove the thin flared flaps", "original": "OK"},
+  {"id": "LM16_01_ring_temple_segment_01", "verdict": "MINOR", "defects": ["small stray pieces scattered at the base", "columns read as flat repeated slabs"], "fix": "remove the loose base pieces and vary the column depth so the colonnade reads 3D", "original": "OK"},
+  {"id": "VG04_02_tree_birch_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "RD02_05_camp_set_05", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "RD01_03_watchtower_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "WT13_05_plateau_terrace_set_05", "verdict": "MAJOR", "defects": ["only tiny scattered rock cairns with green specks", "does not read as a plateau terrace", "badly under-scaled and unlike its WT13 siblings"], "fix": "rebuild as a proper stepped plateau terrace matching the other WT13 pieces, not loose rubble piles", "original": "OK"},
+  {"id": "VC04_04_skull_city_building_04", "verdict": "MAJOR", "defects": ["roof open with exposed rafter beams sticking up, reads as roofless open box (both views)", "small floating block at the base"], "fix": "close the roof into a solid lid (or clearly finish it as an under-construction roof) and remove the floating base block", "original": "OK"},
+  {"id": "VC04_05_skull_city_building_05", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "SP01_06_snow_spire_cluster_06", "verdict": "MINOR", "defects": ["spire very thin/needle-like relative to its 164-stud height"], "fix": "broaden the spire and base cluster so the tall spike reads stable", "original": "OK"},
+  {"id": "EV03_04_elf_path_piece_04", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

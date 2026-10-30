@@ -1,0 +1,14 @@
+[
+  {"id": "WT09_01_wizard_chandelier_ring_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "WT09_02_wizard_chandelier_ring_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "WT10_01_wizard_observatory_telescope", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "HM01_01_rope_suspension_bridge_01", "verdict": "OK", "defects": ["sagging deck with prayer-flag rails reads as a rope bridge"], "fix": ""},
+  {"id": "HM01_02_rope_suspension_bridge_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "HM01_03_rope_suspension_bridge_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "HM02_01_timber_cantilever_bridge_01", "verdict": "OK", "defects": ["covered timber span on stone abutments reads well"], "fix": ""},
+  {"id": "HM02_02_timber_cantilever_bridge_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "HM03_01_tunnel_portal_01", "verdict": "OK", "defects": ["timber-framed opening in stacked rock reads as a tunnel mouth"], "fix": ""},
+  {"id": "HM03_02_tunnel_portal_02", "verdict": "OK", "defects": ["icicles and snow cap add variety"], "fix": ""},
+  {"id": "HM03_03_tunnel_portal_03", "verdict": "OK", "defects": ["red gable and prayer flags give good variety"], "fix": ""},
+  {"id": "HM04_01_tunnel_lining_01", "verdict": "MINOR", "defects": ["interior is a dark cavity; as a modular lining the open back is expected but the inner faces look unlit/near-black"], "fix": "give the inner tunnel faces a lit stone colour so the bore does not read as a black hole from grazing angles"}
+]

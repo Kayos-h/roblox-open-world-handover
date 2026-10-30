@@ -1,0 +1,14 @@
+[
+  {"id": "HM05_01_cliff_gallery_01", "verdict": "MINOR", "defects": ["loose white stone blocks scattered on the gallery deck look untidy", "thin posts under a heavy stone load"], "fix": "Tidy the loose blocks into stacked rows and thicken the support posts.", "original": "OK"},
+  {"id": "CP11_01_great_hall_chapel_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "NE01_01_village_sign_01", "verdict": "MINOR", "defects": ["sign board is a plain flat single-colour slab with no text/relief"], "fix": "Add a carved border or plank relief to the board so it does not read as a blank panel.", "original": "OK"},
+  {"id": "RD05_01_battlefield_prop_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "VC03_03_dark_fort_ruin_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM21_04_floating_rock_04", "verdict": "MAJOR", "defects": ["stacked thin wafer slabs leave see-through gaps between layers (close-up)", "unstable paper-stack silhouette", "sharp razor edges"], "fix": "Replace the wafer stack with chunkier overlapping rock volumes that close the gaps.", "original": "OK"},
+  {"id": "RD06_03_abandoned_house_03", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM28_01_ruin_column_set_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CO04_01_sea_arch_01", "verdict": "MINOR", "defects": ["loose rubble chunks scattered around base", "arch opening is ragged"], "fix": "Weld the scattered base rubble and clean the arch underside.", "original": "OK"},
+  {"id": "LM13_01_guardian_statue_01", "verdict": "MINOR", "defects": ["face/features very crude, reads as a plain post with a red panel", "back is a flat blank slab"], "fix": "Add carved facial/armour relief and a spear detail so it reads as a guardian figure.", "original": "OK"},
+  {"id": "CP08_01_water_gate", "verdict": "MAJOR", "defects": ["roof is a flat bright white slab that reads as a glowing light panel", "freestanding plain gatehouse box"], "fix": "Recolour the white roof to a muted tile tone with relief; this is a CP gate so the arch is allowed but the flat white top must go.", "original": "OK"},
+  {"id": "VG06_01_marsh_hummock_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

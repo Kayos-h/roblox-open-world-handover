@@ -1,0 +1,14 @@
+[
+  {"id": "CP16_08_townhouse_new_08", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP16_10_townhouse_new_10", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP16_11_townhouse_new_11", "verdict": "OK", "defects": ["open market-stall shelter, mostly roof on posts (intended)"], "fix": "", "original": "OK"},
+  {"id": "CP16_12_townhouse_new_12", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP17_01_plaza_features_01", "verdict": "MINOR", "defects": ["bright gold star finial on top of the fountain column reads as an applied badge"], "fix": "Restyle or remove the gold star finial; keep it matte if kept.", "original": "SIMILAR TO Black Clover star-emblem motif (prominent gold star on a plaza monument); a plain star is otherwise generic"},
+  {"id": "CP17_02_plaza_features_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP19_01_grand_bridge_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "CP19_02_grand_bridge_02", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM04_01_fortress_rampart_step_01", "verdict": "OK", "defects": [], "fix": "", "original": "OK"},
+  {"id": "LM05_01_fortress_cliff_tower_01", "verdict": "MINOR", "defects": ["rocky base is plain near-default grey with little colour/relief"], "fix": "Give the rock base some colour variation and facet relief so it does not read as default grey.", "original": "OK"},
+  {"id": "LM06_01_fortress_tunnel_gate", "verdict": "MAJOR", "defects": ["rock built from stacked flat slabs that read as overlapping layered stripes", "near-default grey, crude", "visible in both views"], "fix": "Rebuild the rock mass as a chunky faceted boss instead of stacked flat slabs, and add stone colour variation; keep the gate opening.", "original": "OK"},
+  {"id": "LM09_01_temple_buried_hero", "verdict": "OK", "defects": [], "fix": "", "original": "OK"}
+]

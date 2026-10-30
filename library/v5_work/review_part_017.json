@@ -1,0 +1,14 @@
+[
+  {"id": "HL01_01_ice_spire_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "HL01_02_ice_spire_02", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "HL01_03_ice_spire_03", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "HL01_04_ice_spire_04", "verdict": "MINOR", "defects": ["near-identical recolour of the other three spires"], "fix": "Vary the taper and chunk placement so it is not a clone of HL01_01-03."},
+  {"id": "HL02_01_ice_arch_01", "verdict": "OK", "defects": ["a few loose chunks near the base read slightly detached"], "fix": ""},
+  {"id": "HL02_02_ice_arch_02", "verdict": "MINOR", "defects": ["very close duplicate of HL02_01", "scattered base blocks look like floating debris"], "fix": "Reshape the arch silhouette for variety and merge the loose base chunks into the mass."},
+  {"id": "HL03_01_glacier_tongue_01", "verdict": "MINOR", "defects": ["brown/tan rock chunks mixed into ice read as dirty camouflage patches", "flat scattered slabs"], "fix": "Reduce the brown rock blotches and give the ice plates more consistent cool tone and relief."},
+  {"id": "HL03_02_glacier_tongue_02", "verdict": "MINOR", "defects": ["same brown-patch issue; near-copy of 01"], "fix": "Tone down brown patches and differentiate the shape from siblings."},
+  {"id": "HL03_03_glacier_tongue_03", "verdict": "MINOR", "defects": ["recolour of 01/02 with brown debris patches"], "fix": "Vary silhouette and cut the muddy brown blocks."},
+  {"id": "HL04_01_ice_cave_mouth_01", "verdict": "OK", "defects": [], "fix": ""},
+  {"id": "HL04_02_ice_cave_mouth_02", "verdict": "MINOR", "defects": ["near-identical to HL04_01"], "fix": "Change opening shape/overhang so it is not a clone."},
+  {"id": "HL05_01_mountain_shrine", "verdict": "OK", "defects": [], "fix": ""}
+]
