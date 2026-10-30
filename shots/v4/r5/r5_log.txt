@@ -1,0 +1,54 @@
+﻿06:05:13 high shots
+06:05:17 photo mode on: density 0.02 haze 0.00
+06:05:24 f_over_south: {"returnValue":"ok","message":"Code executed successfully","success":true,"output":[]} -> C:\Users\Nitro\.kiro\crew\workspace\town\shots\v4\r5\f_over_south.jpg
+06:05:31 f_over_west: {"returnValue":"ok","message":"Code executed successfully","success":true,"output":[]} -> C:\Users\Nitro\.kiro\crew\workspace\town\shots\v4\r5\f_over_west.jpg
+06:05:37 f_over_north: {"returnValue":"ok","message":"Code executed successfully","success":true,"output":[]} -> C:\Users\Nitro\.kiro\crew\workspace\town\shots\v4\r5\f_over_north.jpg
+06:05:44 f_quad_se: {"returnValue":"ok","message":"Code executed successfully","success":true,"output":[]} -> C:\Users\Nitro\.kiro\crew\workspace\town\shots\v4\r5\f_quad_se.jpg
+06:05:50 f_quad_nw: {"returnValue":"ok","message":"Code executed successfully","success":true,"output":[]} -> C:\Users\Nitro\.kiro\crew\workspace\town\shots\v4\r5\f_quad_nw.jpg
+06:05:54 photo mode off: density 0.14 haze 1.50
+06:05:57 f_over_north.jpg  174 KB  mean 119  std 47
+06:05:57 f_over_south.jpg  215 KB  mean 115  std 38
+06:05:57 f_over_west.jpg  162 KB  mean 130  std 49
+06:05:57 f_quad_nw.jpg  227 KB  mean 97  std 18
+06:05:57 f_quad_se.jpg  187 KB  mean 98  std 27
+06:05:57 low shots
+06:06:01 photo mode off: density 0.14 haze 1.50
+06:06:08 f_south_coast: {"returnValue":"ok","message":"Code executed successfully","success":true,"output":[]} -> C:\Users\Nitro\.kiro\crew\workspace\town\shots\v4\r5\f_south_coast.jpg
+06:06:14 f_se_beach: {"returnValue":"ok","message":"Code executed successfully","success":true,"output":[]} -> C:\Users\Nitro\.kiro\crew\workspace\town\shots\v4\r5\f_se_beach.jpg
+06:06:21 f_islet_shoal: {"returnValue":"ok","message":"Code executed successfully","success":true,"output":[]} -> C:\Users\Nitro\.kiro\crew\workspace\town\shots\v4\r5\f_islet_shoal.jpg
+06:06:28 f_badlands: {"returnValue":"ok","message":"Code executed successfully","success":true,"output":[]} -> C:\Users\Nitro\.kiro\crew\workspace\town\shots\v4\r5\f_badlands.jpg
+06:06:34 f_badlands_close: {"returnValue":"ok","message":"Code executed successfully","success":true,"output":[]} -> C:\Users\Nitro\.kiro\crew\workspace\town\shots\v4\r5\f_badlands_close.jpg
+06:06:41 f_castle_yard: {"returnValue":"ok","message":"Code executed successfully","success":true,"output":[]} -> C:\Users\Nitro\.kiro\crew\workspace\town\shots\v4\r5\f_castle_yard.jpg
+06:06:47 f_capital_wall_west: {"returnValue":"ok","message":"Code executed successfully","success":true,"output":[]} -> C:\Users\Nitro\.kiro\crew\workspace\town\shots\v4\r5\f_capital_wall_west.jpg
+06:06:54 f_t1_plaza: {"returnValue":"ok","message":"Code executed successfully","success":true,"output":[]} -> C:\Users\Nitro\.kiro\crew\workspace\town\shots\v4\r5\f_t1_plaza.jpg
+06:07:01 f_elf_air: {"returnValue":"ok","message":"Code executed successfully","success":true,"output":[]} -> C:\Users\Nitro\.kiro\crew\workspace\town\shots\v4\r5\f_elf_air.jpg
+06:07:07 f_elf_tree_base: {"returnValue":"ok","message":"Code executed successfully","success":true,"output":[]} -> C:\Users\Nitro\.kiro\crew\workspace\town\shots\v4\r5\f_elf_tree_base.jpg
+06:07:14 f_elf_waterfall: {"returnValue":"ok","message":"Code executed successfully","success":true,"output":[]} -> C:\Users\Nitro\.kiro\crew\workspace\town\shots\v4\r5\f_elf_waterfall.jpg
+06:07:21 f_elf_waterfall_wide: {"returnValue":"ok","message":"Code executed successfully","success":true,"output":[]} -> C:\Users\Nitro\.kiro\crew\workspace\town\shots\v4\r5\f_elf_waterfall_wide.jpg
+06:07:27 f_elf_city: {"returnValue":"ok","message":"Code executed successfully","success":true,"output":[]} -> C:\Users\Nitro\.kiro\crew\workspace\town\shots\v4\r5\f_elf_city.jpg
+06:07:34 f_alpine_square: {"returnValue":"ok","message":"Code executed successfully","success":true,"output":[]} -> C:\Users\Nitro\.kiro\crew\workspace\town\shots\v4\r5\f_alpine_square.jpg
+06:07:40 f_harbour_inland: {"returnValue":"ok","message":"Code executed successfully","success":true,"output":[]} -> C:\Users\Nitro\.kiro\crew\workspace\town\shots\v4\r5\f_harbour_inland.jpg
+06:07:47 f_rusty_huts: {"returnValue":"ok","message":"Code executed successfully","success":true,"output":[]} -> C:\Users\Nitro\.kiro\crew\workspace\town\shots\v4\r5\f_rusty_huts.jpg
+06:07:50 photo mode off: density 0.14 haze 1.50
+06:07:53 f_alpine_square.jpg  163 KB  mean 147  std 68
+06:07:53 f_badlands.jpg  163 KB  mean 144  std 41
+06:07:53 f_badlands_close.jpg  109 KB  mean 128  std 59
+06:07:53 f_capital_wall_west.jpg  159 KB  mean 126  std 39
+06:07:53 f_castle_yard.jpg  186 KB  mean 123  std 47
+06:07:53 f_elf_air.jpg  239 KB  mean 95  std 20
+06:07:53 f_elf_city.jpg  226 KB  mean 101  std 43
+06:07:53 f_elf_tree_base.jpg  124 KB  mean 104  std 40
+06:07:53 f_elf_waterfall.jpg  198 KB  mean 101  std 39
+06:07:53 f_elf_waterfall_wide.jpg  189 KB  mean 93  std 40
+06:07:53 f_harbour_inland.jpg  202 KB  mean 121  std 50
+06:07:53 f_islet_shoal.jpg  101 KB  mean 122  std 44
+06:07:53 f_over_north.jpg  174 KB  mean 119  std 47
+06:07:53 f_over_south.jpg  215 KB  mean 115  std 38
+06:07:53 f_over_west.jpg  162 KB  mean 130  std 49
+06:07:53 f_quad_nw.jpg  227 KB  mean 97  std 18
+06:07:53 f_quad_se.jpg  187 KB  mean 98  std 27
+06:07:53 f_rusty_huts.jpg  172 KB  mean 135  std 49
+06:07:53 f_se_beach.jpg  84 KB  mean 131  std 45
+06:07:53 f_south_coast.jpg  133 KB  mean 126  std 47
+06:07:53 f_t1_plaza.jpg  177 KB  mean 109  std 44
+06:07:53 ROUND5 END

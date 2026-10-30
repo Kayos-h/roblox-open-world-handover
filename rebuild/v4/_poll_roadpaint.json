@@ -1,0 +1,1 @@
+{"code":"local g=_G.ROADPAINT if not g then return 'none' end return string.format('i=%d/%d calls=%d skippedWater=%d errs=%d done=%s secs=%.0f', g.i, g.n, g.calls, g.skippedWater, g.errs, tostring(g.done), g.secs or (os.clock()-g.started))"}

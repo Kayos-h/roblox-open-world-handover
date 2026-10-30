@@ -1,0 +1,16 @@
+﻿01:40:43 post passes begin tag=v4b
+01:40:43 == fill1 start
+01:40:46 start: started 3136 chunks
+01:41:09 fill1 : tag=v4b 1384/3136 done=false filledVox=9 cols=1410820 chunksWritten=1 skippedWaterGaps=556673 maxgap=20 errs=0 secs=nil
+01:41:32 fill1 : tag=v4b 2763/3136 done=false filledVox=9 cols=2795616 chunksWritten=1 skippedWaterGaps=900491 maxgap=20 errs=0 secs=nil
+01:41:55 fill1 : tag=v4b 3136/3136 done=true filledVox=9 cols=3177568 chunksWritten=1 skippedWaterGaps=918681 maxgap=20 errs=0 secs=52.24666840000282
+01:41:55 == fill2 start
+01:41:59 start: started 3136 chunks
+01:42:21 fill2 : tag=v4b 1375/3136 done=false deletedVox=2109709 (cols 125935, max 452 studs) filledVox=25600 (cols 1024) errs=0 secs=nil
+01:42:44 fill2 : tag=v4b 2748/3136 done=false deletedVox=2136631 (cols 128681, max 452 studs) filledVox=25600 (cols 1024) errs=0 secs=nil
+01:43:07 fill2 : tag=v4b 3136/3136 done=true deletedVox=2136631 (cols 128681, max 452 studs) filledVox=25600 (cols 1024) errs=0 secs=52.280066699997406
+01:43:07 == clip start
+01:43:11 clip : start: clip started 3136 chunks
+01:43:34 clip : 01:43:34 v4b 484/3136 done=false secs=23 clearedVox=76800 cols=71031 chunksWritten=162 maxcut=63 errs=0 
+01:43:57 clip : 01:43:57 v4b 985/3136 done=false secs=46 clearedVox=108320 cols=99587 chunksWritten=235 maxcut=63 errs=0 
+01:44:20 clip : 01:44:20 v4b 1481/3136 done=false secs=69 clearedVox=114362 cols=105058 chunksWritten=271 maxcut=63 errs=0 

@@ -1,0 +1,1 @@
+{"code":"local T=workspace.Terrain T:SetMaterialColor(Enum.Material.Ground,Color3.fromRGB(158,126,90)) T:SetMaterialColor(Enum.Material.Ice,Color3.fromRGB(170,215,235)) return 'ok'"}

@@ -1,0 +1,1 @@
+{"code":"-- look_pass3b: Basalt becomes the deep-sea navy (Brick was swapped to Basalt). Land has no Basalt on its surface (census), so this only changes the seabed.\nlocal T = workspace.Terrain\nT:SetMaterialColor(Enum.Material.Basalt, Color3.fromRGB(10, 46, 98))\nreturn \u0027Basalt \u0027 .. tostring(T:GetMaterialColor(Enum.Material.Basalt))\n"}

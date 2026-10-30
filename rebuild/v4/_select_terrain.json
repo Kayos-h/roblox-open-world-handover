@@ -1,0 +1,1 @@
+{"code":"local S = game:GetService('Selection') S:Set({workspace.Terrain}) return 'selected: ' .. tostring(#S:Get()) .. ' ' .. tostring(S:Get()[1])"}

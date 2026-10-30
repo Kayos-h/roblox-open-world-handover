@@ -1,0 +1,1 @@
+{"code":"local m=workspace.Phase1Map.town1_extra.SkullHQ.T01_demon_skull_hq for _,p in ipairs(m:GetDescendants()) do if p:IsA('BasePart') then if p.Name=='default_3' or p.Name=='default_4' then p.Color=Color3.fromRGB(206,194,166) else p.Color=Color3.fromRGB(226,216,192) end p.Material=Enum.Material.Limestone end end return 'ok'"}

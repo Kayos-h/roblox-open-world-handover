@@ -1,0 +1,1 @@
+{"code":"local a=game.Lighting:FindFirstChildOfClass('Atmosphere') a.Density=0.24 a.Offset=0.12 a.Haze=0.7 a.Glare=0.2 local L=game.Lighting return string.format('bright=%.2f amb=%s outdoor=%s exp=%.2f shadows=%s clock=%.1f', L.Brightness, tostring(L.Ambient), tostring(L.OutdoorAmbient), L.ExposureCompensation, tostring(L.GlobalShadows), L.ClockTime)"}

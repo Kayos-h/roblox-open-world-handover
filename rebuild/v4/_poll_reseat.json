@@ -1,0 +1,1 @@
+{"code":"local g=_G.RESEAT if not g then return 'none' end return string.format('folder=%s checked=%d moved=%d big=%d water=%d road=%d done=%s secs=%.0f errs=%s', g.folder, g.checked, g.moved, g.big, g.water, g.road, tostring(g.done), g.secs or (os.clock()-g.started), table.concat(g.errs, '|'))"}

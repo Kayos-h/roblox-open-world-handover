@@ -1,0 +1,1 @@
+﻿{"code":"local c=workspace.CurrentCamera c.CameraType=Enum.CameraType.Scriptable c.FieldOfView=70 c.CFrame=CFrame.lookAt(Vector3.new(-420,60,-1930),Vector3.new(-340,40,-2100)) return \u0027ok\u0027"}

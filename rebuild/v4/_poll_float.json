@@ -1,0 +1,1 @@
+{"code":"if _G.FLOATREP then return _G.FLOATREP end return \"RUNNING \" .. string.format(\"%.0f\", os.clock() - (_G.FLOATSTART or os.clock()))"}

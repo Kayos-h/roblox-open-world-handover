@@ -1,0 +1,1 @@
+{"code":"local s=game.StarterPlayer.StarterPlayerScripts:FindFirstChild('DevFlyMode') if not s then return 'missing' end local f,err=loadstring(s.Source) return f and 'compiles OK' or ('compile error: '..tostring(err))"}

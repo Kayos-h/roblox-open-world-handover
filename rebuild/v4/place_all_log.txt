@@ -1,0 +1,44 @@
+﻿01:57:06 == v4_forest begin
+01:57:12   01:57:12 [v4_forest] progress 120/13611 placed 101 failed 0 (5s)
+01:57:20   01:57:20 [v4_forest] progress 1320/13611 placed 1141 failed 0 (13s)
+01:57:25   01:57:25 [v4_forest] progress 2520/13611 placed 2341 failed 0 (18s)
+01:57:30   01:57:30 [v4_forest] progress 3720/13611 placed 3541 failed 0 (23s)
+01:57:36   01:57:36 [v4_forest] progress 4920/13611 placed 4741 failed 0 (28s)
+01:57:41   01:57:41 [v4_forest] progress 6120/13611 placed 5941 failed 0 (33s)
+01:57:46   01:57:46 [v4_forest] progress 7320/13611 placed 7141 failed 0 (38s)
+01:57:51   01:57:51 [v4_forest] progress 8520/13611 placed 8341 failed 0 (43s)
+01:57:56   01:57:56 [v4_forest] progress 9720/13611 placed 9541 failed 0 (49s)
+01:58:07   01:58:07 [v4_forest] progress 10920/13611 placed 10225 failed 0 (59s)
+01:58:12   01:58:12 [v4_forest] progress 12120/13611 placed 11318 failed 0 (65s)
+01:58:17   01:58:17 [v4_forest] progress 13320/13611 placed 12518 failed 0 (70s)
+01:58:19   01:58:19 [v4_forest] done; sent 13611 placed 12809 failed 0; waiting for upload: 0 (); skipped in Town 1 zone: 0
+01:58:19 == v4_forest end
+01:58:19 == v4_rocks begin
+01:58:25   01:58:25 [v4_rocks] progress 120/3706 placed 41 failed 0 (6s)
+01:58:32   01:58:32 [v4_rocks] progress 1320/3706 placed 1072 failed 0 (13s)
+01:58:37   01:58:37 [v4_rocks] progress 2520/3706 placed 2272 failed 0 (18s)
+01:58:42   01:58:42 [v4_rocks] progress 3706/3706 placed 3458 failed 0 (23s)
+01:58:42   01:58:42 [v4_rocks] done; sent 3706 placed 3458 failed 0; waiting for upload: 0 (); skipped in Town 1 zone: 0
+01:58:42 == v4_rocks end
+01:58:42 == v4_shore begin
+01:58:47   01:58:47 [v4_shore] progress 120/757 placed 28 failed 0 (5s)
+01:58:52   01:58:52 [v4_shore] done; sent 757 placed 595 failed 0; waiting for upload: 0 (); skipped in Town 1 zone: 0
+01:58:52 == v4_shore end
+01:58:52 == v4_pieces begin
+01:59:00   01:59:00 [v4_pieces] progress 71/71 placed 2 failed 0 (7s)
+01:59:00   01:59:00 [v4_pieces] done; sent 71 placed 2 failed 0; waiting for upload: 0 (); skipped in Town 1 zone: 0
+01:59:00 == v4_pieces end
+01:59:00 == v4_under begin
+01:59:07   01:59:07 [v4_under] progress 120/11407 placed 19 failed 0 (6s)
+01:59:13   01:59:13 [v4_under] progress 1320/11407 placed 1170 failed 0 (13s)
+01:59:18   01:59:18 [v4_under] progress 2520/11407 placed 2370 failed 0 (18s)
+01:59:24   01:59:24 [v4_under] progress 3720/11407 placed 3570 failed 0 (23s)
+01:59:31   01:59:31 [v4_under] progress 4920/11407 placed 4715 failed 0 (30s)
+01:59:36   01:59:36 [v4_under] progress 6120/11407 placed 5883 failed 0 (36s)
+01:59:41   01:59:41 [v4_under] progress 7320/11407 placed 7083 failed 0 (41s)
+01:59:47   01:59:47 [v4_under] progress 8520/11407 placed 8197 failed 0 (47s)
+01:59:52   01:59:52 [v4_under] progress 9720/11407 placed 9397 failed 0 (52s)
+01:59:57   01:59:57 [v4_under] progress 10920/11407 placed 10597 failed 0 (57s)
+02:00:00   02:00:00 [v4_under] done; sent 11407 placed 11084 failed 0; waiting for upload: 0 (); skipped in Town 1 zone: 0
+02:00:00 == v4_under end
+02:00:00 place_all END

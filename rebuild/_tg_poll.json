@@ -1,0 +1,1 @@
+{"code":"local g=_G.TG if not g then return \"none\" end return string.format(\"%s %d/%d done=%s secs=%.0f errs=%d %s\", tostring(g.tag), g.i, g.n, tostring(g.done), g.secs or (os.clock()-g.started), #g.errs, table.concat(g.errs, \" | \"):sub(1,600))"}

@@ -1,0 +1,50 @@
+﻿01:45:20 generation begin tag=v4c ext=5376
+01:45:24 tg : start: started 7056 chunks
+01:45:57 tg : 01:45:57 v4c 871/7056 done=false secs=33 errs=0 
+01:46:30 tg : 01:46:30 v4c 1734/7056 done=false secs=66 errs=0 
+01:47:03 tg : 01:47:03 v4c 2511/7056 done=false secs=99 errs=0 
+01:47:36 tg : 01:47:36 v4c 3298/7056 done=false secs=132 errs=0 
+01:48:09 tg : 01:48:09 v4c 4115/7056 done=false secs=165 errs=0 
+01:48:43 tg : 01:48:43 v4c 4956/7056 done=false secs=199 errs=0 
+01:49:16 tg : 01:49:16 v4c 5820/7056 done=false secs=232 errs=0 
+01:49:49 tg : 01:49:49 v4c 6704/7056 done=false secs=265 errs=0 
+01:50:22 tg : 01:50:22 v4c 7056/7056 done=true secs=279 errs=0 
+01:50:22 generation END, clip pass over the island
+01:50:26 clip : start: clip started 3136 chunks
+01:50:49 clip : 01:50:49 v4c 515/3136 done=false secs=23 clearedVox=0 cols=0 chunksWritten=0 maxcut=0 errs=0 
+01:51:12 clip : 01:51:12 v4c 1026/3136 done=false secs=46 clearedVox=0 cols=0 chunksWritten=0 maxcut=0 errs=0 
+01:51:35 clip : 01:51:35 v4c 1529/3136 done=false secs=69 clearedVox=0 cols=0 chunksWritten=0 maxcut=0 errs=0 
+01:51:58 clip : 01:51:58 v4c 2039/3136 done=false secs=92 clearedVox=2217 cols=1728 chunksWritten=15 maxcut=42 errs=0 
+01:52:21 clip : 01:52:21 v4c 2529/3136 done=false secs=115 clearedVox=38452 cols=31813 chunksWritten=100 maxcut=49 errs=0 
+01:52:44 clip : 01:52:44 v4c 3015/3136 done=false secs=138 clearedVox=139357 cols=110710 chunksWritten=300 maxcut=49 errs=0 
+01:53:07 clip : 01:53:07 v4c 3136/3136 done=true secs=144 clearedVox=139357 cols=110710 chunksWritten=300 maxcut=49 errs=0 
+01:53:07 clip END, floater scan (background thread in Studio)
+01:53:11 floater start: floater scan started
+01:53:34 floater : cols=32400 errs=0 floaters=0 secs=4
+01:53:34 all END
+03:47:15 ===== v4d run requested (clear-before-write, gentle shelf, seabed ramp, limestone roads, ragged biomes)
+03:47:16 generation begin tag=v4d ext=5376
+03:47:19 tg : start: started 7056 chunks
+03:47:52 tg : 03:47:52 v4d 779/7056 done=false secs=33 errs=0 
+03:48:25 tg : 03:48:25 v4d 1559/7056 done=false secs=66 errs=0 
+03:48:58 tg : 03:48:58 v4d 2297/7056 done=false secs=100 errs=0 
+03:49:31 tg : 03:49:31 v4d 3007/7056 done=false secs=133 errs=0 
+03:50:04 tg : 03:50:04 v4d 3754/7056 done=false secs=166 errs=0 
+03:50:38 tg : 03:50:38 v4d 4507/7056 done=false secs=199 errs=0 
+03:51:11 tg : 03:51:11 v4d 5293/7056 done=false secs=232 errs=0 
+03:51:44 tg : 03:51:44 v4d 6057/7056 done=false secs=265 errs=0 
+03:52:17 tg : 03:52:17 v4d 6826/7056 done=false secs=298 errs=0 
+03:52:50 tg : 03:52:50 v4d 7056/7056 done=true secs=308 errs=0 
+03:52:50 generation END, clip pass over the island
+03:52:54 clip : start: clip started 3136 chunks
+03:53:17 clip : 03:53:17 v4d 498/3136 done=false secs=23 clearedVox=0 cols=0 chunksWritten=0 maxcut=0 errs=0 
+03:53:41 clip : 03:53:41 v4d 998/3136 done=false secs=47 clearedVox=0 cols=0 chunksWritten=0 maxcut=0 errs=0 
+03:54:04 clip : 03:54:04 v4d 1508/3136 done=false secs=70 clearedVox=0 cols=0 chunksWritten=0 maxcut=0 errs=0 
+03:54:27 clip : 03:54:27 v4d 2010/3136 done=false secs=93 clearedVox=0 cols=0 chunksWritten=0 maxcut=0 errs=0 
+03:54:50 clip : 03:54:50 v4d 2493/3136 done=false secs=116 clearedVox=0 cols=0 chunksWritten=0 maxcut=0 errs=0 
+03:55:13 clip : 03:55:13 v4d 2992/3136 done=false secs=139 clearedVox=0 cols=0 chunksWritten=0 maxcut=0 errs=0 
+03:55:36 clip : 03:55:36 v4d 3136/3136 done=true secs=146 clearedVox=0 cols=0 chunksWritten=0 maxcut=0 errs=0 
+03:55:36 clip END, floater scan (background thread in Studio)
+03:55:40 floater start: floater scan started
+03:56:03 floater : cols=32400 errs=0 floaters=0 secs=6
+03:56:03 all END

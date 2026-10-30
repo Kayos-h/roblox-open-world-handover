@@ -1,0 +1,318 @@
+newmtl t_Grass
+Kd 0.360 0.620 0.250
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl t_LeafyGrass
+Kd 0.240 0.500 0.200
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl t_Ground
+Kd 0.620 0.500 0.350
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl t_Mud
+Kd 0.380 0.300 0.220
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl t_Sand
+Kd 0.860 0.790 0.560
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl t_Sandstone
+Kd 0.780 0.600 0.400
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl t_Rock
+Kd 0.500 0.500 0.500
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl t_Slate
+Kd 0.380 0.400 0.430
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl t_Basalt
+Kd 0.260 0.260 0.290
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl t_Cobblestone
+Kd 0.550 0.520 0.480
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl t_Pavement
+Kd 0.620 0.620 0.620
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl t_Snow
+Kd 0.950 0.970 1.000
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl t_Ice
+Kd 0.700 0.860 0.950
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl t_Limestone
+Kd 0.800 0.780 0.680
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl sea
+Kd 0.10 0.42 0.72
+Ka 0.1 0.2 0.3
+Ks 0.3 0.3 0.3
+d 0.55
+Tr 0.45
+
+newmtl b_enterable_182
+Kd 1.000 0.820 0.150
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_partbuilt_FishingHoles_458
+Kd 0.100 0.200 0.400
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_partbuilt_IceShanties_382
+Kd 0.900 0.350 0.300
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_partbuilt_Igloos_696
+Kd 0.970 0.980 1.000
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_partbuilt_RustyHuts_164
+Kd 0.720 0.400 0.250
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_pillar_918
+Kd 0.100 0.600 1.000
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_pillar_247
+Kd 0.100 0.900 0.400
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_pillar_754
+Kd 0.400 0.900 1.000
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_pillar_276
+Kd 0.600 0.400 1.000
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_pillar_947
+Kd 0.900 0.400 0.100
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_pillar_309
+Kd 0.900 0.950 1.000
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_pillar_426
+Kd 1.000 0.200 0.200
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_pillar_657
+Kd 1.000 0.500 0.000
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_pillar_597
+Kd 1.000 1.000 0.200
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_town1_904
+Kd 0.820 0.320 0.300
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_town1_Bridges_251
+Kd 0.500 0.360 0.220
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_town1_Crafts_592
+Kd 0.650 0.450 0.350
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_town1_Farm_545
+Kd 0.750 0.650 0.350
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_town1_Landmarks_646
+Kd 0.720 0.500 0.420
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_town1_Market_910
+Kd 0.920 0.660 0.340
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_town1_Plaza_479
+Kd 0.750 0.750 0.800
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_town1_Residential_862
+Kd 0.880 0.780 0.560
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_town1_Walls_109
+Kd 0.600 0.600 0.640
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_town1_extra_491
+Kd 0.970 0.960 0.900
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_town1_graveyard_98
+Kd 0.280 0.280 0.300
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_v3_alpine_697
+Kd 0.850 0.900 0.970
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_v3_capital_733
+Kd 0.800 0.540 0.400
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_v3_country_770
+Kd 0.720 0.620 0.360
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_v3_elf_933
+Kd 0.350 0.800 0.550
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_v3_harbour_341
+Kd 0.350 0.500 0.720
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_v3_rusty_164
+Kd 0.720 0.400 0.250
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_v3f_alpine_697
+Kd 0.850 0.900 0.970
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_v3f_castle_153
+Kd 0.620 0.660 0.850
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_v3f_country_770
+Kd 0.720 0.620 0.360
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_v3f_elf_933
+Kd 0.350 0.800 0.550
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_v3f_harbour_341
+Kd 0.350 0.500 0.720
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_v3f_rusty_406
+Kd 0.620 0.340 0.220
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1
+
+newmtl b_v3f_se_770
+Kd 0.720 0.620 0.360
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+d 1

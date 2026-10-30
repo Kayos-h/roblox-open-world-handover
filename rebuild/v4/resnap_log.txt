@@ -1,0 +1,12 @@
+﻿02:00:06 v3_country: kept=822 duplicatesRemoved=0 resnapped=690
+02:00:10 v3f_country: kept=64 duplicatesRemoved=0 resnapped=62
+02:00:13 v3f_se: kept=74 duplicatesRemoved=0 resnapped=3
+02:00:17 v3_capital: kept=1349 duplicatesRemoved=0 resnapped=2
+02:00:21 v3f_castle: kept=128 duplicatesRemoved=0 resnapped=0
+02:00:25 v3_rusty: kept=283 duplicatesRemoved=0 resnapped=4
+02:00:28 v3f_rusty: kept=34 duplicatesRemoved=0 resnapped=0
+02:00:32 v3_harbour: kept=474 duplicatesRemoved=0 resnapped=49
+02:00:35 v3f_harbour: kept=70 duplicatesRemoved=0 resnapped=17
+02:00:39 v3_alpine: kept=478 duplicatesRemoved=0 resnapped=118
+02:00:43 v3f_alpine: kept=88 duplicatesRemoved=0 resnapped=85
+02:00:43 resnap END

@@ -1,0 +1,779 @@
+# kitlib.py - shared Blender builder for the Black Clover map asset library.
+# Units: 1 Blender unit = 1 Roblox stud. Z is up in Blender.
+# Each material is named "<key>|<RobloxMaterial>" so the Roblox side knows what
+# Roblox material + colour to give each MeshPart after import.
+import bpy, bmesh, math, os
+from mathutils import Vector, Matrix, Euler
+
+LIB = r"C:\Users\Nitro\.kiro\crew\workspace\town\library"
+
+def _lin(c):
+    return tuple(((v / 255.0) ** 2.2) for v in c)
+
+# key: (sRGB colour, Roblox material, metallic, roughness, emission strength)
+PAL = {
+    'iron':        ((40, 38, 37),    'Metal',          0.85, 0.42, 0),
+    'iron_dark':   ((24, 23, 23),    'Metal',          0.85, 0.50, 0),
+    'steel':       ((92, 96, 102),   'Metal',          0.90, 0.35, 0),
+    'brass':       ((178, 138, 66),  'Metal',          1.00, 0.32, 0),
+    'gold':        ((214, 172, 72),  'Metal',          1.00, 0.25, 0),
+    'patina':      ((92, 140, 120),  'CorrodedMetal',  0.50, 0.60, 0),
+    'rust':        ((122, 62, 36),   'CorrodedMetal',  0.40, 0.85, 0),
+    'stone_light': ((176, 168, 154), 'Limestone',      0.00, 0.85, 0),
+    'stone':       ((132, 127, 120), 'Cobblestone',    0.00, 0.90, 0),
+    'stone_dark':  ((92, 89, 85),    'Slate',          0.00, 0.90, 0),
+    'marble':      ((226, 222, 212), 'Marble',         0.00, 0.40, 0),
+    'cob_a':       ((138, 132, 124), 'Cobblestone',    0.00, 0.90, 0),
+    'cob_b':       ((124, 119, 112), 'Cobblestone',    0.00, 0.90, 0),
+    'cob_c':       ((150, 142, 128), 'Cobblestone',    0.00, 0.90, 0),
+    'cob_d':       ((112, 106, 100), 'Cobblestone',    0.00, 0.90, 0),
+    'grout':       ((78, 72, 64),    'Ground',         0.00, 1.00, 0),
+    'brick':       ((150, 82, 62),   'Brick',          0.00, 0.90, 0),
+    'plaster':     ((226, 214, 190), 'Plaster',        0.00, 0.90, 0),
+    'wood_dark':   ((78, 54, 37),    'Wood',           0.00, 0.80, 0),
+    'wood':        ((122, 84, 52),   'WoodPlanks',     0.00, 0.80, 0),
+    'wood_light':  ((166, 126, 84),  'WoodPlanks',     0.00, 0.80, 0),
+    'bark':        ((84, 62, 45),    'Wood',           0.00, 0.95, 0),
+    'roof_red':    ((140, 58, 44),   'Slate',          0.00, 0.80, 0),
+    'roof_blue':   ((52, 70, 98),    'Slate',          0.00, 0.80, 0),
+    'thatch':      ((176, 146, 86),  'Fabric',         0.00, 1.00, 0),
+    'fabric_red':  ((150, 34, 38),   'Fabric',         0.00, 0.95, 0),
+    'fabric_blue': ((44, 66, 128),   'Fabric',         0.00, 0.95, 0),
+    'fabric_green':((54, 98, 60),    'Fabric',         0.00, 0.95, 0),
+    'fabric_cream':((230, 218, 188), 'Fabric',         0.00, 0.95, 0),
+    'rope':        ((176, 150, 104), 'Fabric',         0.00, 1.00, 0),
+    'rope_dark':   ((120, 96, 62),   'Fabric',         0.00, 1.00, 0),
+    'water':       ((62, 112, 128),  'Glass',          0.20, 0.05, 0),
+    'water_dark':  ((26, 40, 46),    'Glass',          0.10, 0.10, 0),
+    'water_fx':    ((168, 210, 226), 'Glass',          0.10, 0.05, 0.15),
+    'foam':        ((236, 244, 248), 'SmoothPlastic',  0.00, 0.60, 0),
+    'terracotta':  ((178, 92, 58),   'Brick',          0.00, 0.85, 0),
+    'terracotta_dark': ((134, 70, 48), 'Brick',        0.00, 0.85, 0),
+    'paper':       ((234, 222, 190), 'SmoothPlastic',  0.00, 0.90, 0),
+    'wood_paint':  ((232, 228, 216), 'WoodPlanks',     0.00, 0.80, 0),
+    'roof_dark':   ((104, 44, 34),   'Slate',          0.00, 0.85, 0),
+    'potion_red':  ((198, 40, 70),   'Glass',          0.00, 0.10, 0.4),
+    'potion_blue': ((60, 110, 220),  'Glass',          0.00, 0.10, 0.4),
+    'potion_green':((80, 200, 110),  'Glass',          0.00, 0.10, 0.4),
+    'leaf_dark':   ((46, 80, 36),    'LeafyGrass',     0.00, 0.90, 0),
+    'leaf':        ((70, 114, 46),   'LeafyGrass',     0.00, 0.90, 0),
+    'leaf_light':  ((108, 148, 62),  'LeafyGrass',     0.00, 0.90, 0),
+    'moss':        ((86, 108, 50),   'Grass',          0.00, 1.00, 0),
+    'birch':       ((224, 220, 208), 'Wood',           0.00, 0.85, 0),
+    'bark_dead':   ((108, 96, 84),   'Wood',           0.00, 0.95, 0),
+    'pine':        ((40, 82, 52),    'LeafyGrass',     0.00, 0.90, 0),
+    'pine_dark':   ((30, 66, 44),    'LeafyGrass',     0.00, 0.90, 0),
+    'pine_light':  ((58, 102, 60),   'LeafyGrass',     0.00, 0.90, 0),
+    'willow':      ((112, 146, 66),  'LeafyGrass',     0.00, 0.90, 0),
+    'birch_leaf':  ((142, 168, 70),  'LeafyGrass',     0.00, 0.90, 0),
+    'autumn_a':    ((206, 104, 36),  'LeafyGrass',     0.00, 0.90, 0),
+    'autumn_b':    ((172, 52, 32),   'LeafyGrass',     0.00, 0.90, 0),
+    'autumn_c':    ((222, 164, 50),  'LeafyGrass',     0.00, 0.90, 0),
+    'fruit':       ((186, 36, 34),   'SmoothPlastic',  0.00, 0.40, 0),
+    'grass_dry':   ((176, 160, 92),  'Grass',          0.00, 1.00, 0),
+    'fl_orange':   ((232, 134, 40),  'SmoothPlastic',  0.00, 0.60, 0),
+    'fl_pink':     ((232, 156, 182), 'SmoothPlastic',  0.00, 0.60, 0),
+    'mush_tan':    ((188, 140, 92),  'SmoothPlastic',  0.00, 0.70, 0),
+    'cliff_a':     ((128, 118, 106), 'Rock',           0.00, 0.95, 0),
+    'cliff_b':     ((104, 98, 90),   'Rock',           0.00, 0.95, 0),
+    'dirt':        ((118, 94, 68),   'Ground',         0.00, 1.00, 0),
+    'snow':        ((238, 242, 246), 'Snow',           0.00, 0.70, 0),
+    'glass':       ((170, 196, 206), 'Glass',          0.00, 0.10, 0),
+    'glass_lit':   ((240, 170, 90),  'Glass',          0.00, 0.20, 0.35),
+    'glow':        ((255, 176, 90),  'Neon',           0.00, 0.50, 2.0),
+    'flame':       ((255, 128, 30),  'Neon',           0.00, 0.50, 2.2),
+    'flame_core':  ((255, 214, 110), 'Neon',           0.00, 0.50, 2.0),
+    'fl_red':      ((196, 40, 46),   'SmoothPlastic',  0.00, 0.60, 0),
+    'fl_yellow':   ((234, 192, 42),  'SmoothPlastic',  0.00, 0.60, 0),
+    'fl_purple':   ((136, 96, 190),  'SmoothPlastic',  0.00, 0.60, 0),
+    'fl_white':    ((238, 234, 222), 'SmoothPlastic',  0.00, 0.60, 0),
+    'fl_blue':     ((70, 110, 204),  'SmoothPlastic',  0.00, 0.60, 0),
+    'wax':         ((240, 230, 204), 'SmoothPlastic',  0.00, 0.50, 0),
+    'ashlar':      ((198, 190, 172), 'Limestone',      0.00, 0.85, 0),
+    'ashlar_dark': ((164, 156, 140), 'Limestone',      0.00, 0.85, 0),
+    'castle':      ((214, 210, 200), 'Limestone',      0.00, 0.80, 0),
+    'castle_trim': ((236, 232, 222), 'Marble',         0.00, 0.50, 0),
+    'plaster_b':   ((214, 198, 168), 'Plaster',        0.00, 0.90, 0),
+    'plaster_c':   ((196, 206, 196), 'Plaster',        0.00, 0.90, 0),
+    'plaster_d':   ((222, 196, 172), 'Plaster',        0.00, 0.90, 0),
+    'timber':      ((70, 48, 34),    'Wood',           0.00, 0.85, 0),
+    'tile_a':      ((70, 86, 120),   'Slate',          0.00, 0.75, 0),
+    'tile_b':      ((60, 74, 104),   'Slate',          0.00, 0.75, 0),
+    'tile_red_a':  ((150, 64, 48),   'Slate',          0.00, 0.80, 0),
+    'tile_red_b':  ((128, 54, 42),   'Slate',          0.00, 0.80, 0),
+    'tile_grey':   ((84, 86, 92),    'Slate',          0.00, 0.80, 0),
+    'door_paint':  ((96, 40, 34),    'WoodPlanks',     0.00, 0.80, 0),
+    'shutter_g':   ((62, 98, 76),    'WoodPlanks',     0.00, 0.80, 0),
+    'shutter_b':   ((58, 82, 118),   'WoodPlanks',     0.00, 0.80, 0),
+    'shutter_r':   ((132, 50, 44),   'WoodPlanks',     0.00, 0.80, 0),
+    'glass_dark':  ((52, 66, 80),    'Glass',          0.20, 0.10, 0),
+    'stained_r':   ((190, 40, 50),   'Glass',          0.00, 0.10, 0.5),
+    'stained_b':   ((50, 80, 190),   'Glass',          0.00, 0.10, 0.5),
+    'stained_y':   ((230, 180, 50),  'Glass',          0.00, 0.10, 0.5),
+    'stained_g':   ((50, 150, 80),   'Glass',          0.00, 0.10, 0.5),
+    'carpet':      ((136, 24, 32),   'Fabric',         0.00, 1.00, 0),
+    'velvet':      ((96, 20, 40),    'Fabric',         0.00, 1.00, 0),
+    'magic':       ((120, 190, 255), 'Neon',           0.00, 0.30, 2.0),
+    'magic_purple':((170, 110, 255), 'Neon',           0.00, 0.30, 2.0),
+    'book_a':      ((120, 40, 36),   'SmoothPlastic',  0.00, 0.80, 0),
+    'book_b':      ((40, 70, 110),   'SmoothPlastic',  0.00, 0.80, 0),
+    'book_c':      ((60, 96, 56),    'SmoothPlastic',  0.00, 0.80, 0),
+    'book_d':      ((150, 120, 70),  'SmoothPlastic',  0.00, 0.80, 0),
+    'bronze':      ((120, 86, 52),   'Metal',          0.90, 0.40, 0),
+    'bread':       ((196, 140, 72),  'SmoothPlastic',  0.00, 0.70, 0),
+    'bread_dark':  ((150, 96, 48),   'SmoothPlastic',  0.00, 0.70, 0),
+    'plaster_purple': ((176, 160, 196), 'Plaster',     0.00, 0.90, 0),
+    'plaster_rose':((222, 182, 176), 'Plaster',        0.00, 0.90, 0),
+    'wicker':      ((170, 128, 74),  'Fabric',         0.00, 1.00, 0),
+    'sandstone':   ((206, 180, 140), 'Sandstone',      0.00, 0.85, 0),
+    'sandstone_dark': ((170, 144, 108), 'Sandstone',   0.00, 0.85, 0),
+    'sandstone_trim': ((228, 208, 172), 'Limestone',   0.00, 0.80, 0),
+    'plaster_dirty': ((168, 156, 134), 'Plaster',      0.00, 0.95, 0),
+    'plaster_stain': ((140, 128, 108), 'Plaster',      0.00, 0.95, 0),
+    'wood_old':    ((104, 88, 70),   'WoodPlanks',     0.00, 0.95, 0),
+    'wood_grey':   ((122, 114, 102), 'WoodPlanks',     0.00, 0.95, 0),
+    'wood_rot':    ((70, 60, 48),    'Wood',           0.00, 1.00, 0),
+    'tin':         ((128, 84, 58),   'CorrodedMetal',  0.50, 0.85, 0),
+    'tin_b':       ((100, 92, 84),   'CorrodedMetal',  0.50, 0.85, 0),
+    'roof_old':    ((96, 72, 60),    'Slate',          0.00, 0.95, 0),
+    'roof_old_b':  ((82, 66, 58),    'Slate',          0.00, 0.95, 0),
+    'canvas':      ((172, 156, 120), 'Fabric',         0.00, 1.00, 0),
+    'canvas_b':    ((128, 112, 82),  'Fabric',         0.00, 1.00, 0),
+    'hole':        ((22, 18, 16),    'SmoothPlastic',  0.00, 1.00, 0),
+    'ivy':         ((58, 86, 42),    'LeafyGrass',     0.00, 0.95, 0),
+    'elf_wood':    ((204, 184, 146), 'WoodPlanks',     0.00, 0.70, 0),
+    'elf_wood_dark': ((150, 120, 88), 'Wood',          0.00, 0.80, 0),
+    'elf_bark':    ((112, 92, 72),   'Wood',           0.00, 0.95, 0),
+    'elf_bark_b':  ((92, 80, 66),    'Wood',           0.00, 0.95, 0),
+    'elf_stone':   ((196, 202, 184), 'Limestone',      0.00, 0.80, 0),
+    'elf_stone_dark': ((150, 160, 142), 'Limestone',   0.00, 0.85, 0),
+    'jleaf_a':     ((52, 132, 64),   'LeafyGrass',     0.00, 0.85, 0),
+    'jleaf_b':     ((34, 102, 58),   'LeafyGrass',     0.00, 0.85, 0),
+    'jleaf_c':     ((104, 164, 66),  'LeafyGrass',     0.00, 0.85, 0),
+    'jleaf_d':     ((40, 120, 96),   'LeafyGrass',     0.00, 0.85, 0),
+    'moss_bright': ((96, 142, 56),   'Grass',          0.00, 1.00, 0),
+    'teal':        ((52, 138, 128),  'Fabric',         0.00, 0.90, 0),
+    'elf_roof':    ((60, 128, 110),  'Slate',          0.00, 0.70, 0),
+    'elf_roof_b':  ((46, 108, 96),   'Slate',          0.00, 0.70, 0),
+    'glow_cyan':   ((110, 236, 214), 'Neon',           0.00, 0.40, 1.6),
+    'glow_green':  ((160, 244, 120), 'Neon',           0.00, 0.40, 1.6),
+    'glow_pink':   ((246, 140, 210), 'Neon',           0.00, 0.40, 1.6),
+    'glow_gold':   ((255, 214, 120), 'Neon',           0.00, 0.40, 1.6),
+    'moon_water':  ((120, 200, 230), 'Glass',          0.10, 0.05, 0.6),
+    'dock':        ((132, 102, 74),  'WoodPlanks',     0.00, 0.85, 0),
+    'dock_b':      ((112, 88, 66),   'WoodPlanks',     0.00, 0.90, 0),
+    'piling':      ((74, 60, 48),    'Wood',           0.00, 0.95, 0),
+    'algae':       ((58, 82, 50),    'Grass',          0.00, 1.00, 0),
+    'barnacle':    ((178, 174, 162), 'Limestone',      0.00, 0.90, 0),
+    'hull':        ((104, 70, 46),   'WoodPlanks',     0.00, 0.80, 0),
+    'hull_dark':   ((56, 42, 32),    'WoodPlanks',     0.00, 0.85, 0),
+    'hull_red':    ((142, 46, 38),   'WoodPlanks',     0.00, 0.80, 0),
+    'hull_blue':   ((48, 74, 112),   'WoodPlanks',     0.00, 0.80, 0),
+    'hull_green':  ((52, 98, 80),    'WoodPlanks',     0.00, 0.80, 0),
+    'hull_white':  ((224, 218, 202), 'WoodPlanks',     0.00, 0.80, 0),
+    'sail':        ((240, 232, 210), 'Fabric',         0.00, 0.95, 0),
+    'sail_b':      ((216, 198, 162), 'Fabric',         0.00, 0.95, 0),
+    'sail_red':    ((172, 66, 50),   'Fabric',         0.00, 0.95, 0),
+    'tar':         ((38, 34, 30),    'SmoothPlastic',  0.00, 0.80, 0),
+    'fish':        ((152, 166, 176), 'SmoothPlastic',  0.30, 0.40, 0),
+    'fish_b':      ((198, 122, 94),  'SmoothPlastic',  0.10, 0.50, 0),
+    'ice':         ((214, 236, 244), 'Ice',            0.00, 0.20, 0),
+    'lh_red':      ((180, 48, 42),   'Plaster',        0.00, 0.80, 0),
+    'lh_white':    ((240, 238, 230), 'Plaster',        0.00, 0.80, 0),
+    'net':         ((150, 128, 94),  'Fabric',         0.00, 1.00, 0),
+    'whitewash':   ((238, 236, 228), 'Plaster',        0.00, 0.90, 0),
+    # ---- v4 natural elven palette (no neon; only a soft warm lantern glow) ----
+    'ev_wood':       ((196, 160, 108), 'WoodPlanks',    0.00, 0.75, 0),
+    'ev_wood_light': ((222, 192, 142), 'WoodPlanks',    0.00, 0.75, 0),
+    'ev_wood_dark':  ((124, 92, 62),   'Wood',          0.00, 0.85, 0),
+    'ev_wood_aged':  ((150, 128, 100), 'WoodPlanks',    0.00, 0.90, 0),
+    'ev_bark':       ((98, 78, 60),    'Wood',          0.00, 0.95, 0),
+    'ev_bark_light': ((134, 112, 88),  'Wood',          0.00, 0.95, 0),
+    'ev_bark_silver':((152, 146, 134), 'Wood',          0.00, 0.90, 0),
+    'ev_shingle_a':  ((92, 118, 80),   'WoodPlanks',    0.00, 0.85, 0),
+    'ev_shingle_b':  ((112, 88, 62),   'WoodPlanks',    0.00, 0.85, 0),
+    'ev_shingle_c':  ((140, 150, 96),  'WoodPlanks',    0.00, 0.85, 0),
+    'ev_thatch':     ((186, 160, 98),  'Fabric',        0.00, 1.00, 0),
+    'ev_stone':      ((176, 168, 148), 'Limestone',     0.00, 0.85, 0),
+    'ev_stone_dark': ((128, 122, 106), 'Cobblestone',   0.00, 0.90, 0),
+    'ev_stone_warm': ((200, 184, 156), 'Limestone',     0.00, 0.85, 0),
+    'ev_leaf_a':     ((78, 122, 58),   'LeafyGrass',    0.00, 0.90, 0),
+    'ev_leaf_b':     ((52, 92, 48),    'LeafyGrass',    0.00, 0.90, 0),
+    'ev_leaf_c':     ((116, 152, 74),  'LeafyGrass',    0.00, 0.90, 0),
+    'ev_leaf_d':     ((90, 112, 54),   'LeafyGrass',    0.00, 0.90, 0),
+    'ev_leaf_gold':  ((150, 156, 78),  'LeafyGrass',    0.00, 0.90, 0),
+    'ev_fern':       ((64, 110, 58),   'Grass',         0.00, 1.00, 0),
+    'ev_moss':       ((92, 120, 56),   'Grass',         0.00, 1.00, 0),
+    'ev_banner_green': ((60, 94, 68),  'Fabric',        0.00, 0.95, 0),
+    'ev_banner_gold':  ((190, 152, 74),'Fabric',        0.00, 0.95, 0),
+    'ev_shroom_brown': ((148, 110, 78),'SmoothPlastic', 0.00, 0.70, 0),
+    'ev_shroom_cream': ((228, 216, 192),'SmoothPlastic',0.00, 0.70, 0),
+    # ---- v4 D06 soft meadow colours (muted, natural; no neon) ----
+    'ev_petal_cream': ((238, 230, 208), 'SmoothPlastic', 0.00, 0.65, 0),
+    'ev_petal_gold':  ((222, 182, 70),  'SmoothPlastic', 0.00, 0.65, 0),
+    'ev_petal_pink':  ((218, 156, 170), 'SmoothPlastic', 0.00, 0.65, 0),
+    'ev_petal_rose':  ((190, 98, 118),  'SmoothPlastic', 0.00, 0.65, 0),
+    'ev_petal_violet':((150, 118, 178), 'SmoothPlastic', 0.00, 0.65, 0),
+    'ev_petal_blue':  ((118, 142, 198), 'SmoothPlastic', 0.00, 0.65, 0),
+    'ev_berry':       ((68, 54, 98),    'SmoothPlastic', 0.00, 0.55, 0),
+    'ev_berry_red':   ((158, 52, 56),   'SmoothPlastic', 0.00, 0.55, 0),
+    'ev_lichen':      ((156, 164, 124), 'Grass',         0.00, 1.00, 0),
+    'ev_shroom_tan':  ((196, 158, 112), 'SmoothPlastic', 0.00, 0.70, 0),
+    'ev_shroom_umber':((112, 82, 60),   'SmoothPlastic', 0.00, 0.70, 0),
+    # ---- v4 B01 demon-remains skull HQ (bone, horn, void; matte, no glow) ----
+    'sk_bone':        ((214, 204, 184), 'Limestone',     0.00, 0.90, 0),
+    'sk_bone_dark':   ((164, 150, 128), 'Limestone',     0.00, 0.90, 0),
+    'sk_inner':       ((126, 114, 98),  'Slate',         0.00, 0.95, 0),
+    'sk_horn':        ((92, 78, 66),    'Slate',         0.00, 0.85, 0),
+    'sk_horn_light':  ((146, 124, 98),  'Slate',         0.00, 0.85, 0),
+    'sk_tooth':       ((238, 232, 216), 'Marble',        0.00, 0.60, 0),
+    'sk_void':        ((22, 20, 26),    'Slate',         0.00, 1.00, 0),
+    'sk_floor':       ((88, 80, 72),    'Cobblestone',   0.00, 0.95, 0),
+    'sk_rune':        ((104, 84, 132),  'Slate',         0.00, 0.90, 0),
+    'ev_lantern':    ((246, 188, 104), 'Glass',         0.00, 0.20, 0.45),
+    # ---- marker materials: tiny cubes that record ladder / door positions; removed before export ----
+    'mk_lb':   ((255, 0, 255), 'SmoothPlastic', 0.0, 1.0, 0),
+    'mk_lt':   ((0, 255, 255), 'SmoothPlastic', 0.0, 1.0, 0),
+    'mk_door': ((255, 255, 0), 'SmoothPlastic', 0.0, 1.0, 0),
+    'mk_deck': ((0, 255, 0),   'SmoothPlastic', 0.0, 1.0, 0),
+    'mk_conn': ((255, 128, 0), 'SmoothPlastic', 0.0, 1.0, 0),
+}
+
+def mat(key):
+    rgb, rmat, met, rough, emit = PAL[key]
+    name = f"{key}|{rmat}"
+    m = bpy.data.materials.get(name)
+    if not m:
+        m = bpy.data.materials.new(name)
+    m.use_nodes = True
+    b = m.node_tree.nodes.get('Principled BSDF')
+    col = _lin(rgb) + (1.0,)
+    b.inputs['Base Color'].default_value = col
+    b.inputs['Metallic'].default_value = met
+    b.inputs['Roughness'].default_value = rough
+    b.inputs['Emission Strength'].default_value = 0.0
+    if emit:
+        for nm in ('Emission Color', 'Emission'):
+            if nm in b.inputs:
+                b.inputs[nm].default_value = col
+                break
+        b.inputs['Emission Strength'].default_value = emit
+    m.diffuse_color = col
+    return m
+
+# ---------------------------------------------------------------- scene
+def reset():
+    for o in list(bpy.data.objects):
+        bpy.data.objects.remove(o, do_unlink=True)
+    for coll in (bpy.data.meshes, bpy.data.curves, bpy.data.cameras, bpy.data.lights):
+        for d in list(coll):
+            if d.users == 0:
+                coll.remove(d)
+
+def _link(obj):
+    bpy.context.scene.collection.objects.link(obj)
+    return obj
+
+def _obj_from_bm(name, bm, key):
+    me = bpy.data.meshes.new(name)
+    bm.to_mesh(me)
+    bm.free()
+    me.materials.append(mat(key))
+    return _link(bpy.data.objects.new(name, me))
+
+def _place(o, loc, rot):
+    o.location = loc
+    o.rotation_euler = Euler([math.radians(a) for a in rot])
+    return o
+
+def bevel(o, width, segs=2, angle=40):
+    mod = o.modifiers.new('bev', 'BEVEL')
+    mod.width = width
+    mod.segments = segs
+    mod.limit_method = 'ANGLE'
+    mod.angle_limit = math.radians(angle)
+    mod.harden_normals = False
+    return o
+
+# ---------------------------------------------------------------- shapes
+def box(name, size, loc=(0, 0, 0), key='stone', rot=(0, 0, 0), bev=0.0, segs=2):
+    bm = bmesh.new()
+    bmesh.ops.create_cube(bm, size=1.0)
+    bmesh.ops.scale(bm, vec=Vector(size), verts=bm.verts)
+    o = _place(_obj_from_bm(name, bm, key), loc, rot)
+    if bev:
+        bevel(o, bev, segs)
+    return o
+
+def cyl(name, r, h, loc=(0, 0, 0), key='iron', verts=24, rot=(0, 0, 0), bev=0.0, r2=None):
+    """Cylinder (or cone if r2 given) standing on its base at loc."""
+    bm = bmesh.new()
+    bmesh.ops.create_cone(bm, cap_ends=True, cap_tris=False, segments=verts,
+                          radius1=r, radius2=(r if r2 is None else r2), depth=h)
+    bmesh.ops.translate(bm, vec=Vector((0, 0, h / 2)), verts=bm.verts)
+    o = _place(_obj_from_bm(name, bm, key), loc, rot)
+    if bev:
+        bevel(o, bev, 2)
+    return o
+
+def ball(name, r, loc=(0, 0, 0), key='iron', segs=16, rings=10, scale=(1, 1, 1)):
+    bm = bmesh.new()
+    bmesh.ops.create_uvsphere(bm, u_segments=segs, v_segments=rings, radius=r)
+    bmesh.ops.scale(bm, vec=Vector(scale), verts=bm.verts)
+    return _place(_obj_from_bm(name, bm, key), loc, (0, 0, 0))
+
+def lathe(name, profile, loc=(0, 0, 0), key='iron', segs=24, rot=(0, 0, 0), sx=1.0, sy=1.0):
+    """Revolve a (radius, z) profile around Z. radius 0 = closed pole.
+    sx/sy squash the revolve (e.g. 4-sided lantern with segs=4)."""
+    bm = bmesh.new()
+    rings = []
+    for (r, z) in profile:
+        if r < 1e-5:
+            rings.append([bm.verts.new((0, 0, z))])
+        else:
+            ring = []
+            for i in range(segs):
+                a = 2 * math.pi * i / segs + (math.pi / segs if segs <= 8 else 0)
+                ring.append(bm.verts.new((math.cos(a) * r * sx, math.sin(a) * r * sy, z)))
+            rings.append(ring)
+    for A, B in zip(rings, rings[1:]):
+        if len(A) == 1 and len(B) == 1:
+            continue
+        if len(A) == 1:
+            for i in range(segs):
+                bm.faces.new((A[0], B[i], B[(i + 1) % segs]))
+        elif len(B) == 1:
+            for i in range(segs):
+                bm.faces.new((A[i], B[0], A[(i + 1) % segs]))
+        else:
+            for i in range(segs):
+                bm.faces.new((A[i], A[(i + 1) % segs], B[(i + 1) % segs], B[i]))
+    # cap open ends
+    if len(rings[0]) > 1:
+        bm.faces.new(list(reversed(rings[0])))
+    if len(rings[-1]) > 1:
+        bm.faces.new(rings[-1])
+    bmesh.ops.recalc_face_normals(bm, faces=bm.faces)
+    return _place(_obj_from_bm(name, bm, key), loc, rot)
+
+def tube(name, pts, radius, key='iron', res=6, closed=False, taper=None, ures=None):
+    """Sweep a round tube through 3D points (smooth bezier through them).
+    res: 4 -> 8-sided, 6 -> 12-sided. ures: samples per segment (auto)."""
+    cu = bpy.data.curves.new(name + '_c', 'CURVE')
+    cu.dimensions = '3D'
+    cu.bevel_depth = radius
+    cu.bevel_resolution = max(0, res // 2 - 1)
+    cu.use_fill_caps = True
+    cu.resolution_u = ures if ures else (1 if len(pts) == 2 else 5)
+    sp = cu.splines.new('BEZIER')
+    sp.bezier_points.add(len(pts) - 1)
+    for bp, p in zip(sp.bezier_points, pts):
+        bp.co = p
+        bp.handle_left_type = bp.handle_right_type = 'AUTO'
+    sp.use_cyclic_u = closed
+    if taper:
+        for bp, t in zip(sp.bezier_points, taper):
+            bp.radius = t
+    tmp = _link(bpy.data.objects.new(name + '_tmp', cu))
+    dg = bpy.context.evaluated_depsgraph_get()
+    me = bpy.data.meshes.new_from_object(tmp.evaluated_get(dg))
+    bpy.data.objects.remove(tmp, do_unlink=True)
+    bpy.data.curves.remove(cu)
+    me.materials.clear()
+    me.materials.append(mat(key))
+    return _link(bpy.data.objects.new(name, me))
+
+def scroll(name, center, r0, r1, turns, plane='XZ', key='iron', radius=0.12, start_ang=0.0, n=40, off=(0, 0, 0)):
+    """Decorative spiral scroll (ironwork curl). plane XZ or YZ."""
+    pts = []
+    for i in range(n + 1):
+        t = i / n
+        a = start_ang + t * turns * 2 * math.pi
+        r = r0 + (r1 - r0) * t
+        u, v = math.cos(a) * r, math.sin(a) * r
+        if plane == 'XZ':
+            pts.append((center[0] + u + off[0], center[1] + off[1], center[2] + v + off[2]))
+        else:
+            pts.append((center[0] + off[0], center[1] + u + off[1], center[2] + v + off[2]))
+    return tube(name, pts, radius, key, res=4, ures=1)
+
+def torus(name, R, r, loc=(0, 0, 0), key='iron', segs=24, rsegs=8, rot=(0, 0, 0)):
+    bm = bmesh.new()
+    rings = []
+    for i in range(segs):
+        a = 2 * math.pi * i / segs
+        c, s = math.cos(a), math.sin(a)
+        ring = []
+        for j in range(rsegs):
+            b = 2 * math.pi * j / rsegs
+            rr = R + math.cos(b) * r
+            ring.append(bm.verts.new((c * rr, s * rr, math.sin(b) * r)))
+        rings.append(ring)
+    for i in range(segs):
+        A, B = rings[i], rings[(i + 1) % segs]
+        for j in range(rsegs):
+            bm.faces.new((A[j], B[j], B[(j + 1) % rsegs], A[(j + 1) % rsegs]))
+    bmesh.ops.recalc_face_normals(bm, faces=bm.faces)
+    return _place(_obj_from_bm(name, bm, key), loc, rot)
+
+def poly_prism(name, pts2d, h, loc=(0, 0, 0), key='stone', rot=(0, 0, 0)):
+    """Extrude a 2D outline (x, y) upward by h."""
+    bm = bmesh.new()
+    bot = [bm.verts.new((x, y, 0)) for x, y in pts2d]
+    top = [bm.verts.new((x, y, h)) for x, y in pts2d]
+    n = len(pts2d)
+    bm.faces.new(list(reversed(bot)))
+    bm.faces.new(top)
+    for i in range(n):
+        bm.faces.new((bot[i], bot[(i + 1) % n], top[(i + 1) % n], top[i]))
+    bmesh.ops.recalc_face_normals(bm, faces=bm.faces)
+    return _place(_obj_from_bm(name, bm, key), loc, rot)
+
+def array_around(fn, count, radius, z=0.0, start=0.0, face_out=True):
+    """Call fn(x, y, z, angle_deg) count times around a circle."""
+    out = []
+    for i in range(count):
+        a = start + 360.0 * i / count
+        ar = math.radians(a)
+        out.append(fn(math.cos(ar) * radius, math.sin(ar) * radius, z, a))
+    return out
+
+def mirror_x(o, name=None):
+    c = o.copy()
+    c.data = o.data.copy()
+    c.name = name or (o.name + '_mx')
+    c.location.x = -o.location.x
+    c.rotation_euler.y = -o.rotation_euler.y
+    c.rotation_euler.z = -o.rotation_euler.z
+    c.scale.x = -o.scale.x
+    _link(c)
+    return c
+
+def dup(o, loc=None, rot=None, name=None, scale=None):
+    c = o.copy()
+    c.data = o.data
+    c.name = name or (o.name + '_d')
+    for m in o.modifiers:
+        pass
+    if loc is not None:
+        c.location = loc
+    if rot is not None:
+        c.rotation_euler = Euler([math.radians(a) for a in rot])
+    if scale is not None:
+        c.scale = scale
+    _link(c)
+    return c
+
+# ---------------------------------------------------------------- finish
+def _mesh_objs():
+    return [o for o in bpy.context.scene.objects if o.type == 'MESH']
+
+def finalize(name, smooth_angle=35.0):
+    """Apply modifiers, join every mesh into one object, origin at bottom-centre."""
+    objs = _mesh_objs()
+    dg = bpy.context.evaluated_depsgraph_get()
+    bm = bmesh.new()
+    mats = []
+    for o in objs:
+        me = bpy.data.meshes.new_from_object(o.evaluated_get(dg))
+        me.transform(o.matrix_world)
+        if o.matrix_world.determinant() < 0:
+            me.flip_normals()
+        remap = []
+        for m in me.materials:
+            if m not in mats:
+                mats.append(m)
+            remap.append(mats.index(m))
+        tmp = bmesh.new()
+        tmp.from_mesh(me)
+        for f in tmp.faces:
+            f.material_index = remap[f.material_index] if remap else 0
+        me2 = bpy.data.meshes.new('t')
+        tmp.to_mesh(me2)
+        tmp.free()
+        bm.from_mesh(me2)
+        bpy.data.meshes.remove(me2)
+        bpy.data.meshes.remove(me)
+    for o in objs:
+        bpy.data.objects.remove(o, do_unlink=True)
+    bmesh.ops.remove_doubles(bm, verts=bm.verts, dist=0.0005)
+    xs = [v.co.x for v in bm.verts]; ys = [v.co.y for v in bm.verts]; zs = [v.co.z for v in bm.verts]
+    off = Vector(((min(xs) + max(xs)) / 2, (min(ys) + max(ys)) / 2, min(zs)))
+    bmesh.ops.translate(bm, vec=-off, verts=bm.verts)
+    me = bpy.data.meshes.new(name)
+    bm.to_mesh(me)
+    bm.free()
+    for m in mats:
+        me.materials.append(m)
+    ob = _link(bpy.data.objects.new(name, me))
+    # sharp edges by angle, smooth elsewhere (clean low-poly look, no faceting on curves)
+    bm = bmesh.new(); bm.from_mesh(me)
+    lim = math.radians(smooth_angle)
+    for e in bm.edges:
+        if len(e.link_faces) == 2:
+            e.smooth = e.calc_face_angle(0) < lim
+        else:
+            e.smooth = False
+    for f in bm.faces:
+        f.smooth = True
+    bm.to_mesh(me); bm.free()
+    me.update()
+    return ob
+
+def stats(ob):
+    ob.data.calc_loop_triangles()
+    tris = len(ob.data.loop_triangles)
+    d = ob.dimensions
+    return {'tris': tris, 'size_studs': (round(d.x, 2), round(d.y, 2), round(d.z, 2)),
+            'materials': [m.name for m in ob.data.materials]}
+
+# ---------------------------------------------------------------- output
+def _setup_render(ob, res=900):
+    sc = bpy.context.scene
+    for eng in ('BLENDER_EEVEE', 'BLENDER_EEVEE_NEXT'):
+        try:
+            sc.render.engine = eng
+            break
+        except Exception:
+            pass
+    sc.render.resolution_x = res
+    sc.render.resolution_y = res
+    sc.render.film_transparent = False
+    try:
+        sc.view_settings.view_transform = 'Standard'
+        sc.view_settings.look = 'None'
+    except Exception:
+        pass
+    try:
+        sc.eevee.taa_render_samples = 48
+    except Exception:
+        pass
+    w = sc.world or bpy.data.worlds.new('W')
+    sc.world = w
+    w.use_nodes = True
+    bg = w.node_tree.nodes.get('Background')
+    bg.inputs[0].default_value = (0.42, 0.47, 0.55, 1)
+    bg.inputs[1].default_value = 0.9
+    d = ob.dimensions
+    size = max(d.x, d.y, d.z)
+    ctr = Vector((0, 0, d.z / 2))
+    # ground disc
+    bm = bmesh.new()
+    bmesh.ops.create_circle(bm, cap_ends=True, segments=48, radius=size * 3)
+    gme = bpy.data.meshes.new('_ground'); bm.to_mesh(gme); bm.free()
+    gm = bpy.data.materials.get('_groundmat') or bpy.data.materials.new('_groundmat')
+    gm.use_nodes = True
+    gm.node_tree.nodes['Principled BSDF'].inputs['Base Color'].default_value = (0.20, 0.21, 0.20, 1)
+    gm.node_tree.nodes['Principled BSDF'].inputs['Roughness'].default_value = 1.0
+    gme.materials.append(gm)
+    g = _link(bpy.data.objects.new('_ground', gme))
+    # lights
+    def light(nm, kind, energy, loc, rot, size_=None, col=(1, 1, 1)):
+        ld = bpy.data.lights.new(nm, kind)
+        ld.energy = energy
+        ld.color = col
+        if size_ is not None and kind == 'AREA':
+            ld.size = size_
+        lo = _link(bpy.data.objects.new(nm, ld))
+        lo.location = loc
+        lo.rotation_euler = Euler([math.radians(a) for a in rot])
+        return lo
+    light('_sun', 'SUN', 3.2, (0, 0, 50), (50, 10, 35), col=(1.0, 0.96, 0.9))
+    light('_fill', 'AREA', 18 * size * size, (-size * 1.6, -size * 1.2, size * 1.4), (55, 0, -50), size_=size * 1.5, col=(0.8, 0.88, 1.0))
+    # camera 3/4 view
+    cd = bpy.data.cameras.new('_cam'); cd.lens = 50
+    cam = _link(bpy.data.objects.new('_cam', cd))
+    dirv = Vector((1.0, -1.25, 0.45)).normalized()
+    cam.location = ctr + dirv * size * 1.85
+    cam.rotation_euler = (ctr - cam.location).to_track_quat('-Z', 'Y').to_euler()
+    sc.camera = cam
+    cd.clip_end = size * 50
+    return [g]
+
+def _cleanup_render():
+    for nm in ('_ground', '_sun', '_fill', '_cam'):
+        o = bpy.data.objects.get(nm)
+        if o:
+            bpy.data.objects.remove(o, do_unlink=True)
+
+def render(ob, path, res=900):
+    _setup_render(ob, res)
+    bpy.context.scene.render.filepath = path
+    bpy.ops.render.render(write_still=True)
+    _cleanup_render()
+    return path
+
+MAX_TRIS = 18000
+
+def _split_pieces(ob, limit=MAX_TRIS):
+    """Copy ob into several objects, each under `limit` triangles, split by space.
+    All pieces share ob's origin so they line up when imported together."""
+    me = ob.data
+    bm = bmesh.new(); bm.from_mesh(me)
+    bm.faces.ensure_lookup_table()
+    info = [(f.index, f.calc_center_median().copy(), len(f.verts) - 2) for f in bm.faces]
+    bm.free()
+    groups = []
+    def rec(items):
+        t = sum(i[2] for i in items)
+        if t <= limit or len(items) < 2:
+            groups.append({i[0] for i in items}); return
+        cs = [i[1] for i in items]
+        ext = [max(c[k] for c in cs) - min(c[k] for c in cs) for k in range(3)]
+        ax = ext.index(max(ext))
+        items = sorted(items, key=lambda i: i[1][ax])
+        acc, cut = 0, 0
+        for n, i in enumerate(items):
+            acc += i[2]
+            if acc >= t / 2:
+                cut = n + 1; break
+        rec(items[:cut]); rec(items[cut:])
+    rec(info)
+    pieces = []
+    for k, keep in enumerate(groups):
+        bm = bmesh.new(); bm.from_mesh(me)
+        bm.faces.ensure_lookup_table()
+        bmesh.ops.delete(bm, geom=[f for f in bm.faces if f.index not in keep], context='FACES')
+        m2 = bpy.data.meshes.new(f'{ob.name}_p{k + 1}')
+        bm.to_mesh(m2); bm.free()
+        for m in me.materials:
+            m2.materials.append(m)
+        p = _link(bpy.data.objects.new(f'{ob.name}_p{k + 1}', m2))
+        p.matrix_world = ob.matrix_world.copy()
+        pieces.append(p)
+    return pieces
+
+def save(ob, category, model_id, render_png=True):
+    folder = os.path.join(LIB, category)
+    os.makedirs(folder, exist_ok=True)
+    base = os.path.join(folder, model_id)
+    st = stats(ob)
+    pieces = _split_pieces(ob) if st['tris'] > MAX_TRIS else [ob]
+    # FBX: Y-up for Roblox, 1 unit = 1 stud (import with unit = Stud).
+    for o in bpy.context.scene.objects:
+        o.select_set(False)
+    for p in pieces:
+        p.select_set(True)
+    bpy.context.view_layer.objects.active = pieces[0]
+    bpy.ops.export_scene.fbx(filepath=base + '.fbx', use_selection=True, apply_unit_scale=True,
+                             apply_scale_options='FBX_SCALE_NONE', axis_forward='-Z', axis_up='Y',
+                             mesh_smooth_type='EDGE', use_mesh_modifiers=True, bake_space_transform=True,
+                             object_types={'MESH'}, use_triangles=True)
+    if len(pieces) > 1:
+        for p in pieces:
+            bpy.data.objects.remove(p, do_unlink=True)
+    png = None
+    if render_png:
+        png = render(ob, base + '.png', res=600)
+    bpy.ops.wm.save_as_mainfile(filepath=base + '.blend', copy=True)
+    return {'blend': base + '.blend', 'fbx': base + '.fbx', 'png': png, 'pieces': len(pieces), **st}
+
+
+
+# ---------------------------------------------------------------- extra shapes
+def flame(name, loc, h=1.0, r=0.35, key='flame', tongues=3, seed=0):
+    """Stylised flame: a main teardrop plus smaller leaning tongues."""
+    import random
+    rnd = random.Random(seed)
+    def drop(nm, x, y, z, hh, rr, lean):
+        prof = [(0.0, 0.0), (rr * 0.7, hh * 0.06), (rr, hh * 0.22), (rr * 0.9, hh * 0.42),
+                (rr * 0.55, hh * 0.68), (rr * 0.22, hh * 0.88), (0.0, hh)]
+        o = lathe(nm, prof, loc=(x, y, z), key=key, segs=8)
+        o.rotation_euler = (math.radians(lean[0]), math.radians(lean[1]), rnd.uniform(0, 6.28))
+        return o
+    x, y, z = loc
+    drop(name, x, y, z, h, r, (0, 0))
+    if h > 0.6:
+        core = lathe(name + '_core', [(0.0, 0.0), (r * 0.55, h * 0.12), (r * 0.6, h * 0.3), (r * 0.35, h * 0.5), (0.0, h * 0.62)],
+                     loc=(x, y, z + h * 0.02), key='flame_core', segs=8)
+        core.scale = (1.15, 1.15, 1.0)
+    for i in range(tongues):
+        a = 2 * math.pi * i / max(1, tongues) + rnd.uniform(-0.4, 0.4)
+        d = r * 0.5
+        drop(f'{name}_t{i}', x + math.cos(a) * d, y + math.sin(a) * d, z,
+             h * rnd.uniform(0.5, 0.75), r * 0.55, (math.sin(a) * -18, math.cos(a) * 18))
+
+def chain(name, p0, p1, link=0.35, thick=0.06, key='iron'):
+    """Chain of alternating torus links from p0 to p1 (vertical-ish)."""
+    v = Vector(p1) - Vector(p0)
+    L = v.length
+    n = max(1, int(L / (link * 1.5)))
+    d = v.normalized()
+    q = d.to_track_quat('Z', 'Y')
+    for i in range(n):
+        c = Vector(p0) + d * (L * (i + 0.5) / n)
+        o = torus(f'{name}{i}', link * 0.5, thick, loc=c, key=key, segs=10, rsegs=5)
+        o.scale = (0.62, 1.0, 1.0)
+        e = q.to_euler()
+        o.rotation_euler = (e.x + math.radians(90), e.y, e.z + (math.radians(90) if i % 2 else 0))
+
+# ---------------------------------------------------------------- batch tools
+SHEET = r"C:\Users\Nitro\.kiro\crew\workspace\town\library\_sheet.png"
+
+def contact_sheet(paths, out=SHEET, cols=None, cell=330):
+    """Tile preview PNGs into one image so a whole batch is reviewed at once."""
+    import numpy as np
+    cols = cols or (3 if len(paths) <= 9 else 4)
+    rows = (len(paths) + cols - 1) // cols
+    W, H = cols * cell, rows * cell
+    canvas = np.zeros((H, W, 4), dtype=np.float32)
+    canvas[..., 3] = 1.0
+    for i, p in enumerate(paths):
+        img = bpy.data.images.load(p, check_existing=False)
+        img.scale(cell, cell)
+        px = np.array(img.pixels[:], dtype=np.float32).reshape(cell, cell, 4)
+        r, c = divmod(i, cols)
+        y0 = H - (r + 1) * cell
+        canvas[y0:y0 + cell, c * cell:(c + 1) * cell] = px
+        bpy.data.images.remove(img)
+    sheet = bpy.data.images.new('_sheet', W, H, alpha=True)
+    sheet.pixels[:] = canvas.ravel()
+    sheet.filepath_raw = out
+    sheet.file_format = 'PNG'
+    sheet.save()
+    bpy.data.images.remove(sheet)
+    return out
+
+def batch(items, category, save_files=False, res=520):
+    """items: list of (model_id, builder_fn). Builds each, renders preview,
+    optionally saves blend/fbx/png. Returns stats + writes a contact sheet."""
+    out, pngs = [], []
+    wip = os.path.join(LIB, '_wip')
+    os.makedirs(wip, exist_ok=True)
+    for mid, fn in items:
+        try:
+            ob = fn()
+            if save_files:
+                info = save(ob, category, mid)
+                pngs.append(info['png'])
+            else:
+                p = render(ob, os.path.join(wip, mid + '.png'), res=res)
+                info = stats(ob); pngs.append(p)
+            out.append((mid, info['tris'], info['size_studs']))
+        except Exception as e:
+            import traceback
+            out.append((mid, 'ERROR', traceback.format_exc()[-600:]))
+    if pngs:
+        contact_sheet(pngs)
+    return out
+
+
+def top_paint(o, key='moss', thresh=0.72, seed=0, noise_amt=0.25):
+    """Assign a second material (moss/snow/grass) to faces whose normal points up."""
+    from mathutils import noise as _n
+    m = mat(key)
+    if m.name not in [x.name for x in o.data.materials]:
+        o.data.materials.append(m)
+    idx = [x.name for x in o.data.materials].index(m.name)
+    bm = bmesh.new()
+    bm.from_mesh(o.data)
+    rot = o.rotation_euler.to_matrix()
+    off = Vector((seed * 5.3, seed * 2.1, 0))
+    for f in bm.faces:
+        nz = (rot @ f.normal).z
+        c = f.calc_center_median()
+        if nz + _n.noise(c * 0.6 + off) * noise_amt > thresh:
+            f.material_index = idx
+    bm.to_mesh(o.data)
+    bm.free()
+    return o

@@ -1,0 +1,1 @@
+{"code":"local f=workspace.Phase1Map:FindFirstChild('v3_interiors') local n=0 if f then for _,d in ipairs(f:GetDescendants()) do if d:IsA('Model') and d:GetAttribute('PlanKey') then n+=1 end end end local c=0 for k in pairs(_G.P1Claims or {}) do if tostring(k):find('v3_interiors') then c+=1 end end return 'models '..n..' claims '..c"}

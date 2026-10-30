@@ -1,0 +1,1 @@
+{"code":"local T=workspace.Terrain local reg=Region3.new(Vector3.new(-205,-12,250),Vector3.new(-100,24,300)):ExpandToGrid(4) T:ReplaceMaterial(reg,4,Enum.Material.Pavement,Enum.Material.Grass) T:ReplaceMaterial(reg,4,Enum.Material.Cobblestone,Enum.Material.Grass) return 'ok'"}
