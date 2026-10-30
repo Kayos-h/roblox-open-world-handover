@@ -1,0 +1,164 @@
+[
+ {
+  "id": "A15_lamp_iron_city",
+  "pieces": 4,
+  "max_tris": 9582,
+  "names": [
+   "brass",
+   "glass_lit",
+   "glow",
+   "iron"
+  ],
+  "size": [
+   2.89,
+   2.86,
+   18.6
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A16_lamp_iron_double",
+  "pieces": 4,
+  "max_tris": 14682,
+  "names": [
+   "brass",
+   "glass_lit",
+   "glow",
+   "iron"
+  ],
+  "size": [
+   10.06,
+   2.86,
+   18.7
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A17_lamp_wood_rustic",
+  "pieces": 8,
+  "max_tris": 2232,
+  "names": [
+   "brass",
+   "glass_lit",
+   "glow",
+   "iron",
+   "stone",
+   "stone_dark",
+   "wood",
+   "wood_dark"
+  ],
+  "size": [
+   6.11,
+   3.15,
+   14.9
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A18_wall_lantern",
+  "pieces": 4,
+  "max_tris": 3544,
+  "names": [
+   "brass",
+   "glass_lit",
+   "glow",
+   "iron"
+  ],
+  "size": [
+   1.4,
+   2.68,
+   4.87
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A19_hanging_lantern",
+  "pieces": 4,
+  "max_tris": 1504,
+  "names": [
+   "brass",
+   "glass_lit",
+   "glow",
+   "iron"
+  ],
+  "size": [
+   2.04,
+   2.04,
+   6.11
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A20_wall_torch",
+  "pieces": 5,
+  "max_tris": 748,
+  "names": [
+   "flame",
+   "flame_core",
+   "iron_dark",
+   "rope",
+   "wood_dark"
+  ],
+  "size": [
+   0.9,
+   1.25,
+   3.35
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A21_brazier",
+  "pieces": 5,
+  "max_tris": 7948,
+  "names": [
+   "brass",
+   "flame",
+   "flame_core",
+   "iron",
+   "iron_dark"
+  ],
+  "size": [
+   4.32,
+   4.18,
+   6.4
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A22_campfire",
+  "pieces": 8,
+  "max_tris": 1120,
+  "names": [
+   "bark",
+   "flame",
+   "flame_core",
+   "iron_dark",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "wood_light"
+  ],
+  "size": [
+   5.15,
+   4.91,
+   2.92
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A23_candle_cluster",
+  "pieces": 3,
+  "max_tris": 1320,
+  "names": [
+   "flame",
+   "iron_dark",
+   "wax"
+  ],
+  "size": [
+   2.8,
+   2.8,
+   3.59
+  ],
+  "min_z": 0.0
+ }
+]

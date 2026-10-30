@@ -1,0 +1,921 @@
+{
+ "HM01_01_rope_suspension_bridge_01": {
+  "category": "v5_himalaya",
+  "tris": 5316,
+  "size": [
+   72.0,
+   9.6,
+   14.1
+  ],
+  "materials": [
+   "vc_f_blue",
+   "vc_f_green",
+   "vc_f_red",
+   "vc_f_white",
+   "vc_f_yellow",
+   "vc_plank",
+   "vc_rope",
+   "vc_slate",
+   "vc_stone",
+   "vc_stone2",
+   "vc_timber"
+  ],
+  "end_a": [
+   [
+    -30.0,
+    0.0,
+    5.2
+   ]
+  ],
+  "end_b": [
+   [
+    30.0,
+    0.0,
+    5.2
+   ]
+  ],
+  "deck": [
+   [
+    0.0,
+    0.0,
+    2.7
+   ]
+  ]
+ },
+ "HM01_02_rope_suspension_bridge_02": {
+  "category": "v5_himalaya",
+  "tris": 7552,
+  "size": [
+   103.31,
+   10.68,
+   14.1
+  ],
+  "materials": [
+   "vc_f_blue",
+   "vc_f_green",
+   "vc_f_red",
+   "vc_f_white",
+   "vc_f_yellow",
+   "vc_plank",
+   "vc_rope",
+   "vc_slate",
+   "vc_snow",
+   "vc_stone",
+   "vc_stone2",
+   "vc_timber"
+  ],
+  "end_a": [
+   [
+    -44.98,
+    -0.21,
+    5.2
+   ]
+  ],
+  "end_b": [
+   [
+    45.02,
+    -0.21,
+    5.2
+   ]
+  ],
+  "deck": [
+   [
+    0.02,
+    -0.21,
+    2.7
+   ]
+  ]
+ },
+ "HM01_03_rope_suspension_bridge_03": {
+  "category": "v5_himalaya",
+  "tris": 11418,
+  "size": [
+   129.29,
+   10.94,
+   14.1
+  ],
+  "materials": [
+   "vc_f_blue",
+   "vc_f_green",
+   "vc_f_red",
+   "vc_f_white",
+   "vc_f_yellow",
+   "vc_plank",
+   "vc_rope",
+   "vc_slate",
+   "vc_snow",
+   "vc_stone",
+   "vc_stone2",
+   "vc_timber"
+  ],
+  "end_a": [
+   [
+    -58.0,
+    -0.12,
+    5.2
+   ]
+  ],
+  "end_b": [
+   [
+    58.0,
+    -0.12,
+    5.2
+   ]
+  ],
+  "deck": [
+   [
+    0.0,
+    -0.12,
+    2.7
+   ]
+  ]
+ },
+ "HM03_01_tunnel_portal_01": {
+  "category": "v5_himalaya",
+  "tris": 468,
+  "size": [
+   32.27,
+   19.64,
+   25.09
+  ],
+  "materials": [
+   "vc_f_rock_b",
+   "vc_f_rock_c",
+   "vc_f_rock_l",
+   "vc_f_rock_w",
+   "vc_timber"
+  ],
+  "door": [
+   [
+    0.02,
+    -8.73,
+    0.61
+   ]
+  ]
+ },
+ "HM03_02_tunnel_portal_02": {
+  "category": "v5_himalaya",
+  "tris": 564,
+  "size": [
+   32.01,
+   20.83,
+   25.65
+  ],
+  "materials": [
+   "vc_f_rock_b",
+   "vc_f_rock_c",
+   "vc_f_rock_d",
+   "vc_f_rock_l",
+   "vc_f_rock_w",
+   "vc_slate",
+   "vc_snow",
+   "vc_timber"
+  ],
+  "door": [
+   [
+    -0.14,
+    -8.44,
+    0.7
+   ]
+  ]
+ },
+ "HM03_03_tunnel_portal_03": {
+  "category": "v5_himalaya",
+  "tris": 1000,
+  "size": [
+   31.78,
+   20.03,
+   24.0
+  ],
+  "materials": [
+   "vc_f_blue",
+   "vc_f_green",
+   "vc_f_red",
+   "vc_f_rock_b",
+   "vc_f_rock_c",
+   "vc_f_rock_l",
+   "vc_f_rock_w",
+   "vc_f_white",
+   "vc_f_yellow",
+   "vc_gold",
+   "vc_iron",
+   "vc_plank",
+   "vc_red",
+   "vc_rope",
+   "vc_timber"
+  ],
+  "door": [
+   [
+    -0.08,
+    -8.06,
+    0.63
+   ]
+  ]
+ },
+ "HM04_01_tunnel_lining_01": {
+  "category": "v5_himalaya",
+  "tris": 880,
+  "size": [
+   24.6,
+   25.7,
+   20.0
+  ],
+  "materials": [
+   "vc_f_rock_d",
+   "vc_f_rock_l",
+   "vc_f_rock_m",
+   "vc_gold",
+   "vc_iron",
+   "vc_slate",
+   "vc_stone",
+   "vc_stone2",
+   "vc_timber"
+  ],
+  "door": [
+   [
+    0.01,
+    -11.99,
+    1.48
+   ]
+  ]
+ },
+ "HM04_02_tunnel_lining_02": {
+  "category": "v5_himalaya",
+  "tris": 1216,
+  "size": [
+   24.0,
+   24.0,
+   20.75
+  ],
+  "materials": [
+   "vc_f_rock_l",
+   "vc_f_rock_m",
+   "vc_gold",
+   "vc_iron",
+   "vc_stone",
+   "vc_stone2",
+   "vc_timber"
+  ],
+  "door": [
+   [
+    1.92,
+    -8.77,
+    0.3
+   ]
+  ]
+ },
+ "NE01_01_village_sign_01": {
+  "category": "v5_entrances",
+  "tris": 524,
+  "size": [
+   10.4,
+   4.0,
+   17.6
+  ],
+  "materials": [
+   "vc_dstone",
+   "vc_f_board",
+   "vc_red",
+   "vc_slate",
+   "vc_stone",
+   "vc_timber"
+  ]
+ },
+ "NE01_02_village_sign_02": {
+  "category": "v5_entrances",
+  "tris": 388,
+  "size": [
+   10.34,
+   5.48,
+   17.6
+  ],
+  "materials": [
+   "vc_leaf",
+   "vc_plank",
+   "vc_wood"
+  ]
+ },
+ "NE01_03_village_sign_03": {
+  "category": "v5_entrances",
+  "tris": 252,
+  "size": [
+   10.02,
+   3.99,
+   17.6
+  ],
+  "materials": [
+   "vc_f_board",
+   "vc_f_rock_m",
+   "vc_gold",
+   "vc_plank",
+   "vc_rope",
+   "vc_slate",
+   "vc_snow",
+   "vc_timber"
+  ]
+ },
+ "NE01_04_village_sign_04": {
+  "category": "v5_entrances",
+  "tris": 320,
+  "size": [
+   10.4,
+   4.0,
+   17.6
+  ],
+  "materials": [
+   "vc_f_board",
+   "vc_iron",
+   "vc_rust",
+   "vc_sand",
+   "vc_timber"
+  ]
+ },
+ "NE01_05_village_sign_05": {
+  "category": "v5_entrances",
+  "tris": 316,
+  "size": [
+   10.4,
+   2.91,
+   17.6
+  ],
+  "materials": [
+   "vc_iron",
+   "vc_rope",
+   "vc_stone2",
+   "vc_timber",
+   "vc_white"
+  ]
+ },
+ "NE01_06_village_sign_06": {
+  "category": "v5_entrances",
+  "tris": 244,
+  "size": [
+   10.4,
+   2.73,
+   17.6
+  ],
+  "materials": [
+   "vc_clay",
+   "vc_f_blue",
+   "vc_f_green",
+   "vc_f_red",
+   "vc_f_white",
+   "vc_f_yellow",
+   "vc_sand",
+   "vc_timber",
+   "vc_white"
+  ]
+ },
+ "HM02_01_timber_cantilever_bridge_01": {
+  "category": "v5_himalaya",
+  "tris": 1004,
+  "size": [
+   36.0,
+   9.02,
+   12.0
+  ],
+  "materials": [
+   "vc_f_rock_b",
+   "vc_f_rock_c",
+   "vc_f_rock_l",
+   "vc_plank",
+   "vc_slate",
+   "vc_timber"
+  ],
+  "end_a": [
+   [
+    -13.52,
+    -0.0,
+    5.03
+   ]
+  ],
+  "end_b": [
+   [
+    13.34,
+    -0.0,
+    5.03
+   ]
+  ],
+  "deck": [
+   [
+    -0.09,
+    -0.0,
+    5.03
+   ]
+  ]
+ },
+ "HM02_02_timber_cantilever_bridge_02": {
+  "category": "v5_himalaya",
+  "tris": 1208,
+  "size": [
+   36.0,
+   9.09,
+   12.0
+  ],
+  "materials": [
+   "vc_f_band_r",
+   "vc_f_rock_b",
+   "vc_f_rock_m",
+   "vc_f_rock_w",
+   "vc_plank",
+   "vc_timber"
+  ],
+  "end_a": [
+   [
+    -14.4,
+    -0.07,
+    5.1
+   ]
+  ],
+  "end_b": [
+   [
+    14.42,
+    -0.07,
+    5.1
+   ]
+  ],
+  "deck": [
+   [
+    0.01,
+    -0.07,
+    5.1
+   ]
+  ]
+ },
+ "HM05_01_cliff_gallery_01": {
+  "category": "v5_himalaya",
+  "tris": 1216,
+  "size": [
+   42.87,
+   14.0,
+   22.74
+  ],
+  "materials": [
+   "vc_f_rock_d",
+   "vc_f_rock_l",
+   "vc_f_rock_m",
+   "vc_stone",
+   "vc_stone2",
+   "vc_timber"
+  ],
+  "end_a": [
+   [
+    -19.75,
+    -1.59,
+    1.2
+   ]
+  ],
+  "end_b": [
+   [
+    20.25,
+    -1.59,
+    1.2
+   ]
+  ],
+  "deck": [
+   [
+    0.25,
+    -1.59,
+    1.2
+   ]
+  ]
+ },
+ "HM05_02_cliff_gallery_02": {
+  "category": "v5_himalaya",
+  "tris": 1192,
+  "size": [
+   40.0,
+   14.0,
+   23.18
+  ],
+  "materials": [
+   "vc_f_rock_d",
+   "vc_f_rock_l",
+   "vc_f_rock_m",
+   "vc_snow",
+   "vc_stone",
+   "vc_stone2",
+   "vc_timber"
+  ],
+  "end_a": [
+   [
+    -18.66,
+    -1.66,
+    1.2
+   ]
+  ],
+  "end_b": [
+   [
+    17.56,
+    -1.66,
+    1.2
+   ]
+  ],
+  "deck": [
+   [
+    -0.55,
+    -1.66,
+    1.2
+   ]
+  ]
+ },
+ "HM06_01_switchback_wall_01": {
+  "category": "v5_himalaya",
+  "tris": 844,
+  "size": [
+   30.56,
+   14.0,
+   14.0
+  ],
+  "materials": [
+   "vc_f_rock_d",
+   "vc_f_rock_l",
+   "vc_f_rock_m"
+  ],
+  "end_a": [
+   [
+    -14.02,
+    0.35,
+    1.07
+   ]
+  ],
+  "end_b": [
+   [
+    13.98,
+    0.35,
+    1.07
+   ]
+  ]
+ },
+ "HM06_02_switchback_wall_02": {
+  "category": "v5_himalaya",
+  "tris": 2752,
+  "size": [
+   30.6,
+   14.0,
+   14.0
+  ],
+  "materials": [
+   "vc_f_rock_d",
+   "vc_f_rock_l",
+   "vc_f_rock_m",
+   "vc_timber"
+  ],
+  "end_a": [
+   [
+    -14.0,
+    -2.12,
+    1.11
+   ]
+  ],
+  "end_b": [
+   [
+    14.0,
+    -2.12,
+    1.11
+   ]
+  ]
+ },
+ "HM06_03_switchback_wall_03": {
+  "category": "v5_himalaya",
+  "tris": 1576,
+  "size": [
+   30.66,
+   14.0,
+   14.0
+  ],
+  "materials": [
+   "vc_f_rock_d",
+   "vc_f_rock_l",
+   "vc_f_rock_m",
+   "vc_slate",
+   "vc_stone",
+   "vc_stone2"
+  ],
+  "end_a": [
+   [
+    -13.93,
+    2.13,
+    1.03
+   ]
+  ],
+  "end_b": [
+   [
+    14.07,
+    2.13,
+    1.03
+   ]
+  ]
+ },
+ "HM07_01_prayer_flag_string_01": {
+  "category": "v5_himalaya",
+  "tris": 500,
+  "size": [
+   39.93,
+   2.52,
+   12.47
+  ],
+  "materials": [
+   "vc_f_blue",
+   "vc_f_green",
+   "vc_f_red",
+   "vc_f_white",
+   "vc_f_yellow",
+   "vc_gold",
+   "vc_rope",
+   "vc_stone",
+   "vc_timber"
+  ]
+ },
+ "HM07_02_prayer_flag_string_02": {
+  "category": "v5_himalaya",
+  "tris": 848,
+  "size": [
+   39.93,
+   2.35,
+   12.49
+  ],
+  "materials": [
+   "vc_f_blue",
+   "vc_f_green",
+   "vc_f_red",
+   "vc_f_white",
+   "vc_f_yellow",
+   "vc_gold",
+   "vc_rope",
+   "vc_stone",
+   "vc_timber"
+  ]
+ },
+ "HM07_03_prayer_flag_string_03": {
+  "category": "v5_himalaya",
+  "tris": 596,
+  "size": [
+   39.93,
+   2.49,
+   12.48
+  ],
+  "materials": [
+   "vc_f_blue",
+   "vc_f_green",
+   "vc_f_red",
+   "vc_f_white",
+   "vc_f_yellow",
+   "vc_gold",
+   "vc_rope",
+   "vc_stone",
+   "vc_timber"
+  ]
+ },
+ "HM07_04_prayer_flag_string_04": {
+  "category": "v5_himalaya",
+  "tris": 500,
+  "size": [
+   39.94,
+   2.0,
+   12.5
+  ],
+  "materials": [
+   "vc_f_fr_a",
+   "vc_f_fr_b",
+   "vc_f_fr_c",
+   "vc_f_fr_d",
+   "vc_f_white",
+   "vc_gold",
+   "vc_rope",
+   "vc_stone",
+   "vc_timber"
+  ]
+ },
+ "HM08_01_cairn_shrine_01": {
+  "category": "v5_himalaya",
+  "tris": 584,
+  "size": [
+   14.0,
+   14.0,
+   12.4
+  ],
+  "materials": [
+   "vc_f_blue",
+   "vc_f_red",
+   "vc_f_rock_b",
+   "vc_f_rock_c",
+   "vc_f_rock_l",
+   "vc_f_rock_w",
+   "vc_f_yellow",
+   "vc_timber"
+  ]
+ },
+ "HM08_02_cairn_shrine_02": {
+  "category": "v5_himalaya",
+  "tris": 1098,
+  "size": [
+   14.0,
+   14.0,
+   12.0
+  ],
+  "materials": [
+   "vc_f_band_r",
+   "vc_f_whitewash",
+   "vc_gold"
+  ]
+ },
+ "HM08_03_cairn_shrine_03": {
+  "category": "v5_himalaya",
+  "tris": 616,
+  "size": [
+   12.8,
+   14.0,
+   12.4
+  ],
+  "materials": [
+   "vc_f_bronze",
+   "vc_red",
+   "vc_slate",
+   "vc_stone",
+   "vc_stone2",
+   "vc_timber"
+  ]
+ },
+ "HM08_04_cairn_shrine_04": {
+  "category": "v5_himalaya",
+  "tris": 300,
+  "size": [
+   12.8,
+   12.0,
+   12.4
+  ],
+  "materials": [
+   "vc_gold",
+   "vc_iron",
+   "vc_red",
+   "vc_slate",
+   "vc_stone2"
+  ]
+ },
+ "HM09_01_monastery_outpost_01": {
+  "category": "v5_himalaya",
+  "tris": 824,
+  "size": [
+   38.0,
+   28.2,
+   29.05
+  ],
+  "materials": [
+   "vc_gold",
+   "vc_red",
+   "vc_slate",
+   "vc_stone",
+   "vc_stone2",
+   "vc_timber",
+   "vc_white"
+  ],
+  "door": [
+   [
+    0.0,
+    -11.9,
+    1.3
+   ]
+  ]
+ },
+ "HM09_02_monastery_outpost_02": {
+  "category": "v5_himalaya",
+  "tris": 1466,
+  "size": [
+   34.0,
+   31.2,
+   25.9
+  ],
+  "materials": [
+   "vc_gold",
+   "vc_red",
+   "vc_slate",
+   "vc_stone2",
+   "vc_white"
+  ],
+  "door": [
+   [
+    0.0,
+    -12.0,
+    1.3
+   ]
+  ]
+ },
+ "HM09_03_monastery_outpost_03": {
+  "category": "v5_himalaya",
+  "tris": 1436,
+  "size": [
+   38.0,
+   28.4,
+   30.0
+  ],
+  "materials": [
+   "vc_red",
+   "vc_slate",
+   "vc_stone",
+   "vc_stone2",
+   "vc_timber",
+   "vc_white"
+  ],
+  "door": [
+   [
+    0.0,
+    -11.8,
+    1.62
+   ]
+  ]
+ },
+ "HM09_04_monastery_outpost_04": {
+  "category": "v5_himalaya",
+  "tris": 1032,
+  "size": [
+   34.0,
+   30.0,
+   31.9
+  ],
+  "materials": [
+   "vc_f_blue",
+   "vc_f_green",
+   "vc_f_red",
+   "vc_f_white",
+   "vc_f_yellow",
+   "vc_gold",
+   "vc_iron",
+   "vc_red",
+   "vc_slate",
+   "vc_stone",
+   "vc_stone2",
+   "vc_timber"
+  ],
+  "door": [
+   [
+    0.0,
+    -12.0,
+    1.3
+   ]
+  ]
+ },
+ "NE02_01_entry_rock_pair_01": {
+  "category": "v5_entrances",
+  "tris": 976,
+  "size": [
+   31.0,
+   22.0,
+   14.6
+  ],
+  "materials": [
+   "vc_f_rock_d",
+   "vc_f_rock_l",
+   "vc_f_rock_w",
+   "vc_moss",
+   "vc_stone"
+  ]
+ },
+ "NE02_02_entry_rock_pair_02": {
+  "category": "v5_entrances",
+  "tris": 1000,
+  "size": [
+   31.0,
+   22.0,
+   14.6
+  ],
+  "materials": [
+   "vc_f_rock_d",
+   "vc_f_rock_l",
+   "vc_f_rock_w",
+   "vc_stone",
+   "vc_stone2"
+  ]
+ },
+ "NE02_03_entry_rock_pair_03": {
+  "category": "v5_entrances",
+  "tris": 880,
+  "size": [
+   31.0,
+   22.0,
+   14.6
+  ],
+  "materials": [
+   "vc_f_rock_b",
+   "vc_f_rock_c",
+   "vc_f_rock_l",
+   "vc_f_rock_w",
+   "vc_stone",
+   "vc_stone2"
+  ]
+ },
+ "NE02_04_entry_rock_pair_04": {
+  "category": "v5_entrances",
+  "tris": 880,
+  "size": [
+   31.0,
+   22.0,
+   14.6
+  ],
+  "materials": [
+   "vc_f_rock_d",
+   "vc_f_rock_l",
+   "vc_f_rock_m"
+  ]
+ }
+}

@@ -1,0 +1,434 @@
+{
+ "wj_cob_a": {
+  "rgb": [
+   150,
+   142,
+   130
+  ],
+  "material": "Cobblestone",
+  "glow": false
+ },
+ "wj_cob_b": {
+  "rgb": [
+   132,
+   126,
+   116
+  ],
+  "material": "Cobblestone",
+  "glow": false
+ },
+ "wj_cob_c": {
+  "rgb": [
+   166,
+   156,
+   140
+  ],
+  "material": "Cobblestone",
+  "glow": false
+ },
+ "wj_ashlar": {
+  "rgb": [
+   190,
+   182,
+   164
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "wj_ashlar_d": {
+  "rgb": [
+   156,
+   148,
+   132
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "wj_stone": {
+  "rgb": [
+   140,
+   134,
+   124
+  ],
+  "material": "Cobblestone",
+  "glow": false
+ },
+ "wj_stone_d": {
+  "rgb": [
+   104,
+   100,
+   92
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "wj_plank": {
+  "rgb": [
+   138,
+   100,
+   62
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "wj_plank_b": {
+  "rgb": [
+   120,
+   86,
+   54
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "wj_timber": {
+  "rgb": [
+   92,
+   64,
+   42
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "wj_timber_d": {
+  "rgb": [
+   70,
+   48,
+   32
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "wj_wood_old": {
+  "rgb": [
+   112,
+   96,
+   76
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "wj_rope": {
+  "rgb": [
+   178,
+   152,
+   104
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "wj_iron": {
+  "rgb": [
+   44,
+   42,
+   40
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "wj_moss": {
+  "rgb": [
+   86,
+   112,
+   50
+  ],
+  "material": "Grass",
+  "glow": false
+ },
+ "wj_ivy": {
+  "rgb": [
+   60,
+   92,
+   44
+  ],
+  "material": "LeafyGrass",
+  "glow": false
+ },
+ "wj_banner_r": {
+  "rgb": [
+   150,
+   44,
+   42
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "wj_banner_b": {
+  "rgb": [
+   48,
+   70,
+   128
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "wj_glass_lit": {
+  "rgb": [
+   244,
+   186,
+   102
+  ],
+  "material": "Glass",
+  "glow": true
+ },
+ "wj_gold": {
+  "rgb": [
+   206,
+   166,
+   78
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "wj_pad": {
+  "rgb": [
+   62,
+   110,
+   58
+  ],
+  "material": "LeafyGrass",
+  "glow": false
+ },
+ "wj_pad_d": {
+  "rgb": [
+   44,
+   86,
+   48
+  ],
+  "material": "LeafyGrass",
+  "glow": false
+ },
+ "wj_pad_r": {
+  "rgb": [
+   88,
+   120,
+   52
+  ],
+  "material": "LeafyGrass",
+  "glow": false
+ },
+ "wj_petal_w": {
+  "rgb": [
+   238,
+   236,
+   228
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "wj_petal_p": {
+  "rgb": [
+   232,
+   160,
+   186
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "wj_pollen": {
+  "rgb": [
+   230,
+   196,
+   70
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "wj_reed": {
+  "rgb": [
+   96,
+   124,
+   58
+  ],
+  "material": "LeafyGrass",
+  "glow": false
+ },
+ "wj_reed_d": {
+  "rgb": [
+   150,
+   132,
+   78
+  ],
+  "material": "Grass",
+  "glow": false
+ },
+ "wj_cattail": {
+  "rgb": [
+   96,
+   66,
+   42
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "wj_water": {
+  "rgb": [
+   64,
+   116,
+   132
+  ],
+  "material": "Glass",
+  "glow": false
+ },
+ "wj_water_d": {
+  "rgb": [
+   34,
+   62,
+   72
+  ],
+  "material": "Glass",
+  "glow": false
+ },
+ "wj_water_fx": {
+  "rgb": [
+   176,
+   214,
+   228
+  ],
+  "material": "Glass",
+  "glow": true
+ },
+ "wj_foam": {
+  "rgb": [
+   238,
+   246,
+   248
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "wj_rock": {
+  "rgb": [
+   120,
+   112,
+   102
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "wj_rock_d": {
+  "rgb": [
+   92,
+   86,
+   78
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "wj_dock": {
+  "rgb": [
+   138,
+   104,
+   72
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "wj_dock_b": {
+  "rgb": [
+   118,
+   90,
+   66
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "wj_piling": {
+  "rgb": [
+   80,
+   62,
+   48
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "wj_algae": {
+  "rgb": [
+   58,
+   84,
+   50
+  ],
+  "material": "Grass",
+  "glow": false
+ },
+ "wj_sand": {
+  "rgb": [
+   206,
+   186,
+   148
+  ],
+  "material": "Sand",
+  "glow": false
+ },
+ "wj_sand_wet": {
+  "rgb": [
+   168,
+   150,
+   118
+  ],
+  "material": "Sand",
+  "glow": false
+ },
+ "wj_driftwood": {
+  "rgb": [
+   158,
+   146,
+   128
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "wj_shell": {
+  "rgb": [
+   228,
+   214,
+   196
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "wj_shell_p": {
+  "rgb": [
+   226,
+   180,
+   170
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "wj_starfish": {
+  "rgb": [
+   214,
+   132,
+   72
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "wj_crab": {
+  "rgb": [
+   176,
+   70,
+   54
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "wj_net": {
+  "rgb": [
+   150,
+   128,
+   94
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "wj_barrel": {
+  "rgb": [
+   112,
+   84,
+   54
+  ],
+  "material": "Wood",
+  "glow": false
+ }
+}

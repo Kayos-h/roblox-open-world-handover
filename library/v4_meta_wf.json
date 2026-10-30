@@ -1,0 +1,222 @@
+{
+ "C01_01_chalet_01": {
+  "category": "v4_alpine",
+  "tris": 27044,
+  "size": [
+   29.26,
+   23.65,
+   27.7
+  ],
+  "materials": [
+   "brass",
+   "glass",
+   "glass_dark",
+   "hole",
+   "iron",
+   "snow",
+   "stone_dark",
+   "terracotta",
+   "wf_glow",
+   "wf_plank",
+   "wf_plank_light",
+   "wf_shingle_a",
+   "wf_shingle_b",
+   "wf_shutter_g",
+   "wf_stone",
+   "wf_stone_dark",
+   "wf_timber",
+   "wf_timber_dark"
+  ],
+  "door": [
+   [
+    -5.5,
+    -9.38,
+    1.1
+   ]
+  ]
+ },
+ "C01_02_chalet_02": {
+  "category": "v4_alpine",
+  "tris": 22688,
+  "size": [
+   26.17,
+   22.41,
+   28.29
+  ],
+  "materials": [
+   "brass",
+   "glass",
+   "glass_dark",
+   "hole",
+   "iron",
+   "plaster",
+   "snow",
+   "terracotta",
+   "wf_glow",
+   "wf_plank",
+   "wf_plank_light",
+   "wf_shingle_a",
+   "wf_shingle_b",
+   "wf_shutter_r",
+   "wf_stone",
+   "wf_stone_dark",
+   "wf_timber",
+   "wf_timber_dark"
+  ],
+  "door": [
+   [
+    4.99,
+    -9.4,
+    1.14
+   ]
+  ]
+ },
+ "C01_03_chalet_03": {
+  "category": "v4_alpine",
+  "tris": 24996,
+  "size": [
+   41.71,
+   23.1,
+   24.9
+  ],
+  "materials": [
+   "bark",
+   "brass",
+   "glass",
+   "glass_dark",
+   "hole",
+   "iron",
+   "snow",
+   "stone_dark",
+   "terracotta",
+   "wf_glow",
+   "wf_plank",
+   "wf_plank_light",
+   "wf_shingle_a",
+   "wf_shingle_b",
+   "wf_shutter_g",
+   "wf_stone",
+   "wf_stone_dark",
+   "wf_timber",
+   "wf_timber_dark",
+   "wood_light"
+  ],
+  "door": [
+   [
+    -9.66,
+    -5.5,
+    1.12
+   ]
+  ]
+ },
+ "C01_04_chalet_04": {
+  "category": "v4_alpine",
+  "tris": 6432,
+  "size": [
+   27.79,
+   23.7,
+   18.62
+  ],
+  "materials": [
+   "brass",
+   "glass",
+   "glass_dark",
+   "hole",
+   "iron",
+   "snow",
+   "stone_dark",
+   "terracotta",
+   "wf_glow",
+   "wf_plank",
+   "wf_plank_light",
+   "wf_shutter_b",
+   "wf_stone",
+   "wf_stone_dark",
+   "wf_timber",
+   "wf_timber_dark",
+   "wf_turf",
+   "wood_light"
+  ],
+  "door": [
+   [
+    -3.5,
+    -4.85,
+    1.06
+   ]
+  ]
+ },
+ "C01_05_chalet_05": {
+  "category": "v4_alpine",
+  "tris": 25292,
+  "size": [
+   26.08,
+   22.44,
+   28.61
+  ],
+  "materials": [
+   "brass",
+   "bronze",
+   "glass",
+   "glass_dark",
+   "hole",
+   "iron",
+   "snow",
+   "stone_dark",
+   "terracotta",
+   "wf_glow",
+   "wf_plank",
+   "wf_plank_light",
+   "wf_shingle_a",
+   "wf_shingle_b",
+   "wf_shutter_r",
+   "wf_stone",
+   "wf_stone_dark",
+   "wf_timber",
+   "wf_timber_dark"
+  ],
+  "door": [
+   [
+    -5.0,
+    -7.77,
+    1.11
+   ]
+  ]
+ },
+ "C01_06_chalet_06": {
+  "category": "v4_alpine",
+  "tris": 26998,
+  "size": [
+   30.41,
+   20.4,
+   31.04
+  ],
+  "materials": [
+   "brass",
+   "bronze",
+   "glass",
+   "hole",
+   "iron",
+   "snow",
+   "stone_dark",
+   "terracotta",
+   "timber",
+   "wf_glow",
+   "wf_plank",
+   "wf_plank_light",
+   "wf_shingle_a",
+   "wf_shingle_b",
+   "wf_shutter_g",
+   "wf_stone",
+   "wf_stone_dark",
+   "wf_timber",
+   "wf_timber_dark"
+  ],
+  "door": [
+   [
+    -7.17,
+    -8.4,
+    1.18
+   ]
+  ]
+ }
+}

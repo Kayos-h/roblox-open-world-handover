@@ -1,0 +1,878 @@
+[
+ {
+  "id": "G01_pier_straight",
+  "pieces": 9,
+  "max_tris": 2700,
+  "names": [
+   "algae",
+   "barnacle",
+   "dock",
+   "dock_b",
+   "iron",
+   "piling",
+   "rope",
+   "rope_dark",
+   "tar"
+  ],
+  "size": [
+   13.4,
+   24.0,
+   9.68
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G02_pier_corner",
+  "pieces": 8,
+  "max_tris": 1620,
+  "names": [
+   "algae",
+   "barnacle",
+   "dock",
+   "dock_b",
+   "glass_lit",
+   "iron",
+   "piling",
+   "tar"
+  ],
+  "size": [
+   12.3,
+   12.4,
+   16.24
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G03_pier_end",
+  "pieces": 13,
+  "max_tris": 1620,
+  "names": [
+   "algae",
+   "barnacle",
+   "dock",
+   "dock_b",
+   "glass_lit",
+   "iron",
+   "piling",
+   "rope",
+   "rope_dark",
+   "tar",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   12.22,
+   15.51,
+   16.64
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G04_pier_stairs",
+  "pieces": 8,
+  "max_tris": 720,
+  "names": [
+   "algae",
+   "barnacle",
+   "dock",
+   "dock_b",
+   "hull_dark",
+   "iron",
+   "piling",
+   "tar"
+  ],
+  "size": [
+   11.0,
+   17.77,
+   11.32
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G05_piling_cluster",
+  "pieces": 7,
+  "max_tris": 928,
+  "names": [
+   "algae",
+   "barnacle",
+   "piling",
+   "rope",
+   "rust",
+   "tar",
+   "whitewash"
+  ],
+  "size": [
+   7.56,
+   4.68,
+   12.75
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G06_galleon",
+  "pieces": 19,
+  "max_tris": 11696,
+  "names": [
+   "brass",
+   "dock",
+   "door_paint",
+   "fabric_blue",
+   "fabric_red",
+   "glass_lit",
+   "gold",
+   "hull",
+   "hull_dark",
+   "hull_red",
+   "iron",
+   "rope",
+   "rope_dark",
+   "sail",
+   "sail_b",
+   "tar",
+   "timber",
+   "wood",
+   "wood_dark"
+  ],
+  "size": [
+   88.0,
+   28.02,
+   60.88
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G07_merchant_ship",
+  "pieces": 22,
+  "max_tris": 3768,
+  "names": [
+   "brass",
+   "canvas",
+   "dock",
+   "fabric_green",
+   "glass_lit",
+   "gold",
+   "hull",
+   "hull_blue",
+   "hull_dark",
+   "hull_white",
+   "iron",
+   "rope",
+   "rope_dark",
+   "sail",
+   "sail_b",
+   "tar",
+   "tile_red_a",
+   "tile_red_b",
+   "timber",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   61.49,
+   20.03,
+   41.69
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G08_fishing_boat_1",
+  "pieces": 21,
+  "max_tris": 2444,
+  "names": [
+   "brass",
+   "dock_b",
+   "fish",
+   "fl_orange",
+   "glass_dark",
+   "hull",
+   "hull_dark",
+   "hull_red",
+   "hull_white",
+   "iron",
+   "net",
+   "roof_red",
+   "rope",
+   "rope_dark",
+   "sail_b",
+   "stone_dark",
+   "tar",
+   "terracotta",
+   "wicker",
+   "wood",
+   "wood_light"
+  ],
+  "size": [
+   18.26,
+   6.48,
+   18.85
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G09_fishing_boat_2",
+  "pieces": 15,
+  "max_tris": 1904,
+  "names": [
+   "dock_b",
+   "fish",
+   "fl_orange",
+   "hull",
+   "hull_dark",
+   "hull_green",
+   "hull_white",
+   "net",
+   "rope",
+   "rope_dark",
+   "sail_red",
+   "tar",
+   "wicker",
+   "wood",
+   "wood_light"
+  ],
+  "size": [
+   16.26,
+   5.8,
+   16.71
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G10_rowboat",
+  "pieces": 7,
+  "max_tris": 2784,
+  "names": [
+   "hull",
+   "hull_blue",
+   "hull_dark",
+   "iron",
+   "rope",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   11.65,
+   11.1,
+   2.48
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G11_lighthouse",
+  "pieces": 26,
+  "max_tris": 2364,
+  "names": [
+   "algae",
+   "brass",
+   "cliff_a",
+   "cliff_b",
+   "dirt",
+   "fl_red",
+   "glass_dark",
+   "glass_lit",
+   "glow",
+   "gold",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "lh_red",
+   "lh_white",
+   "shutter_g",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "terracotta",
+   "tile_red_a",
+   "tile_red_b",
+   "timber",
+   "whitewash",
+   "wood",
+   "wood_paint"
+  ],
+  "size": [
+   27.78,
+   27.2,
+   45.75
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G12_warehouse_1",
+  "pieces": 20,
+  "max_tris": 9256,
+  "names": [
+   "brass",
+   "canvas",
+   "door_paint",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "rope",
+   "shutter_b",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "tile_a",
+   "tile_grey",
+   "timber",
+   "wood",
+   "wood_dark",
+   "wood_light",
+   "wood_old",
+   "wood_paint"
+  ],
+  "size": [
+   24.0,
+   20.14,
+   21.26
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G13_warehouse_2",
+  "pieces": 21,
+  "max_tris": 17224,
+  "names": [
+   "brass",
+   "brick",
+   "canvas",
+   "canvas_b",
+   "door_paint",
+   "glass_dark",
+   "glass_lit",
+   "hole",
+   "iron",
+   "net",
+   "rope",
+   "shutter_g",
+   "stone_dark",
+   "stone_light",
+   "tile_red_a",
+   "tile_red_b",
+   "timber",
+   "wood",
+   "wood_dark",
+   "wood_light",
+   "wood_paint"
+  ],
+  "size": [
+   33.85,
+   21.25,
+   21.35
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G14_harbour_master",
+  "pieces": 34,
+  "max_tris": 7904,
+  "names": [
+   "ashlar",
+   "brass",
+   "brick",
+   "castle_trim",
+   "dirt",
+   "door_paint",
+   "fabric_blue",
+   "fabric_green",
+   "fabric_red",
+   "fl_blue",
+   "fl_white",
+   "fl_yellow",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "paper",
+   "patina",
+   "rope",
+   "shutter_b",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "tar",
+   "terracotta",
+   "tile_a",
+   "tile_b",
+   "timber",
+   "whitewash",
+   "wood",
+   "wood_dark",
+   "wood_paint"
+  ],
+  "size": [
+   22.63,
+   15.0,
+   27.42
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G15_fish_market_stall",
+  "pieces": 12,
+  "max_tris": 2144,
+  "names": [
+   "brass",
+   "fabric_blue",
+   "fabric_cream",
+   "fish",
+   "fish_b",
+   "ice",
+   "iron",
+   "rope",
+   "tar",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   12.38,
+   5.45,
+   7.56
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G16_cargo_crane",
+  "pieces": 8,
+  "max_tris": 840,
+  "names": [
+   "iron",
+   "net",
+   "rope",
+   "stone",
+   "timber",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   22.13,
+   10.0,
+   21.4
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G17_net_rack",
+  "pieces": 7,
+  "max_tris": 1952,
+  "names": [
+   "fl_orange",
+   "net",
+   "rope",
+   "wicker",
+   "wood",
+   "wood_grey",
+   "wood_light"
+  ],
+  "size": [
+   14.43,
+   3.8,
+   7.22
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G18_rope_coil",
+  "pieces": 2,
+  "max_tris": 2520,
+  "names": [
+   "rope",
+   "rope_dark"
+  ],
+  "size": [
+   8.62,
+   4.23,
+   2.38
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G19_anchor",
+  "pieces": 2,
+  "max_tris": 2492,
+  "names": [
+   "iron",
+   "wood_dark"
+  ],
+  "size": [
+   6.82,
+   4.8,
+   8.61
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G20_buoy",
+  "pieces": 7,
+  "max_tris": 646,
+  "names": [
+   "algae",
+   "brass",
+   "glow",
+   "iron",
+   "lh_red",
+   "lh_white",
+   "rope_dark"
+  ],
+  "size": [
+   4.38,
+   4.38,
+   10.54
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G21_lobster_trap",
+  "pieces": 7,
+  "max_tris": 500,
+  "names": [
+   "fabric_red",
+   "fl_yellow",
+   "net",
+   "rope",
+   "stone_dark",
+   "wood_grey",
+   "wood_old"
+  ],
+  "size": [
+   7.11,
+   3.47,
+   1.5
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G22_cannon",
+  "pieces": 6,
+  "max_tris": 2076,
+  "names": [
+   "iron",
+   "rope_dark",
+   "tar",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   5.63,
+   5.61,
+   2.7
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G23_harbour_fort",
+  "pieces": 20,
+  "max_tris": 9746,
+  "names": [
+   "algae",
+   "brass",
+   "cob_a",
+   "door_paint",
+   "fabric_red",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "stone_1",
+   "stone_2",
+   "stone_dark",
+   "stone_light",
+   "tar",
+   "tile_a",
+   "tile_grey",
+   "timber",
+   "wood",
+   "wood_dark",
+   "wood_paint"
+  ],
+  "size": [
+   46.47,
+   40.45,
+   33.0
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G24_harbour_house_1",
+  "pieces": 29,
+  "max_tris": 7460,
+  "names": [
+   "brass",
+   "brick",
+   "dirt",
+   "door_paint",
+   "fish",
+   "fl_blue",
+   "fl_orange",
+   "fl_white",
+   "glass_dark",
+   "glass_lit",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "net",
+   "rope",
+   "shutter_b",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "terracotta",
+   "tile_red_a",
+   "tile_red_b",
+   "timber",
+   "whitewash",
+   "wood",
+   "wood_grey",
+   "wood_light",
+   "wood_old",
+   "wood_paint"
+  ],
+  "size": [
+   18.36,
+   13.53,
+   21.51
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G25_harbour_house_2",
+  "pieces": 23,
+  "max_tris": 7648,
+  "names": [
+   "brass",
+   "brick",
+   "dirt",
+   "door_paint",
+   "fl_red",
+   "fl_yellow",
+   "glass_dark",
+   "glass_lit",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "plaster_c",
+   "shutter_g",
+   "shutter_r",
+   "stone",
+   "stone_dark",
+   "terracotta",
+   "tile_a",
+   "tile_grey",
+   "timber",
+   "wood",
+   "wood_dark",
+   "wood_paint"
+  ],
+  "size": [
+   12.54,
+   15.4,
+   26.88
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G26_harbour_house_3",
+  "pieces": 20,
+  "max_tris": 2160,
+  "names": [
+   "algae",
+   "barnacle",
+   "brass",
+   "dock",
+   "dock_b",
+   "fl_orange",
+   "glass_dark",
+   "glass_lit",
+   "iron",
+   "net",
+   "piling",
+   "roof_old",
+   "roof_old_b",
+   "rope",
+   "shutter_b",
+   "tar",
+   "timber",
+   "wood_grey",
+   "wood_old",
+   "wood_paint"
+  ],
+  "size": [
+   11.6,
+   13.27,
+   19.56
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G27_harbour_tavern",
+  "pieces": 30,
+  "max_tris": 7772,
+  "names": [
+   "brass",
+   "brick",
+   "dirt",
+   "dock",
+   "dock_b",
+   "door_paint",
+   "fabric_blue",
+   "fabric_green",
+   "fl_red",
+   "fl_white",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "plaster_d",
+   "shutter_g",
+   "shutter_r",
+   "stone",
+   "stone_dark",
+   "terracotta",
+   "tile_red_a",
+   "tile_red_b",
+   "timber",
+   "wax",
+   "wood",
+   "wood_dark",
+   "wood_light",
+   "wood_paint"
+  ],
+  "size": [
+   23.11,
+   23.14,
+   25.37
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G28_seawall",
+  "pieces": 9,
+  "max_tris": 4104,
+  "names": [
+   "algae",
+   "barnacle",
+   "cliff_a",
+   "iron",
+   "rust",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "tar"
+  ],
+  "size": [
+   24.05,
+   7.28,
+   12.6
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G29_breakwater",
+  "pieces": 12,
+  "max_tris": 985,
+  "names": [
+   "algae",
+   "cliff_a",
+   "cliff_b",
+   "iron",
+   "lh_red",
+   "lh_white",
+   "piling",
+   "potion_red",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "whitewash"
+  ],
+  "size": [
+   36.28,
+   16.51,
+   13.76
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G30_ship_bell",
+  "pieces": 7,
+  "max_tris": 388,
+  "names": [
+   "brass",
+   "iron",
+   "roof_old",
+   "roof_old_b",
+   "rope",
+   "rope_dark",
+   "timber"
+  ],
+  "size": [
+   5.6,
+   3.18,
+   8.33
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G31_mooring_bollard",
+  "pieces": 3,
+  "max_tris": 892,
+  "names": [
+   "iron",
+   "rope",
+   "stone_light"
+  ],
+  "size": [
+   8.16,
+   2.54,
+   2.56
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G32_gangplank",
+  "pieces": 6,
+  "max_tris": 852,
+  "names": [
+   "dock",
+   "dock_b",
+   "iron",
+   "piling",
+   "rope",
+   "wood_dark"
+  ],
+  "size": [
+   15.06,
+   2.72,
+   3.61
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "G33_cargo_pallet",
+  "pieces": 7,
+  "max_tris": 968,
+  "names": [
+   "canvas",
+   "canvas_b",
+   "iron",
+   "rope",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   5.43,
+   4.9,
+   7.5
+  ],
+  "min_z": 0.0
+ }
+]

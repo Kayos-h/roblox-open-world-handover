@@ -1,0 +1,390 @@
+{
+ "C02_01_winter_stall_01": {
+  "category": "v4_alpine",
+  "tris": 2462,
+  "size": [
+   11.28,
+   10.36,
+   9.62
+  ],
+  "materials": [
+   "foam",
+   "iron",
+   "snow",
+   "terracotta",
+   "wf2_awn_cream",
+   "wf2_awn_red",
+   "wf2_glow",
+   "wf2_ice",
+   "wf2_plank",
+   "wf2_plank_grey",
+   "wf2_plank_light",
+   "wf2_stone",
+   "wf2_timber",
+   "wf2_timber_dark"
+  ],
+  "connect": [
+   [
+    0.34,
+    -4.27,
+    0.67
+   ]
+  ]
+ },
+ "C02_02_winter_stall_02": {
+  "category": "v4_alpine",
+  "tris": 2400,
+  "size": [
+   12.17,
+   11.43,
+   9.1
+  ],
+  "materials": [
+   "iron",
+   "snow",
+   "wf2_awn_cream",
+   "wf2_awn_green",
+   "wf2_glow",
+   "wf2_ice",
+   "wf2_plank",
+   "wf2_plank_grey",
+   "wf2_plank_light",
+   "wf2_stone",
+   "wf2_timber",
+   "wf2_timber_dark",
+   "wf2_wool_mustard",
+   "wf2_wool_red",
+   "wf2_wool_teal"
+  ],
+  "connect": [
+   [
+    0.58,
+    -4.39,
+    0.68
+   ]
+  ]
+ },
+ "C02_03_winter_stall_03": {
+  "category": "v4_alpine",
+  "tris": 2844,
+  "size": [
+   11.31,
+   10.46,
+   9.58
+  ],
+  "materials": [
+   "iron",
+   "snow",
+   "wf2_awn_blue",
+   "wf2_awn_cream",
+   "wf2_bark",
+   "wf2_coal",
+   "wf2_ember",
+   "wf2_glow",
+   "wf2_ice",
+   "wf2_plank",
+   "wf2_plank_grey",
+   "wf2_plank_light",
+   "wf2_stone",
+   "wf2_timber",
+   "wf2_timber_dark"
+  ],
+  "connect": [
+   [
+    -0.36,
+    -4.27,
+    0.63
+   ]
+  ]
+ },
+ "C03_01_ski_rack_01": {
+  "category": "v4_alpine",
+  "tris": 2704,
+  "size": [
+   12.73,
+   5.72,
+   6.82
+  ],
+  "materials": [
+   "iron",
+   "snow",
+   "wf2_awn_blue",
+   "wf2_awn_green",
+   "wf2_plank_grey",
+   "wf2_plank_light",
+   "wf2_timber",
+   "wf2_timber_dark",
+   "wf2_wool_mustard",
+   "wf2_wool_red",
+   "wf2_wool_teal"
+  ]
+ },
+ "C05_01_ice_block_01": {
+  "category": "v4_alpine",
+  "tris": 2108,
+  "size": [
+   11.04,
+   6.81,
+   8.17
+  ],
+  "materials": [
+   "iron",
+   "rope",
+   "snow",
+   "wf2_ice",
+   "wf2_ice_blue",
+   "wf2_timber"
+  ]
+ },
+ "C05_02_ice_block_02": {
+  "category": "v4_alpine",
+  "tris": 1224,
+  "size": [
+   8.99,
+   8.0,
+   10.62
+  ],
+  "materials": [
+   "snow",
+   "wf2_coal",
+   "wf2_fish",
+   "wf2_ice",
+   "wf2_ice_blue",
+   "wf2_stone"
+  ]
+ },
+ "C05_03_ice_block_03": {
+  "category": "v4_alpine",
+  "tris": 1866,
+  "size": [
+   6.83,
+   8.34,
+   12.61
+  ],
+  "materials": [
+   "snow",
+   "wf2_ice",
+   "wf2_ice_blue"
+  ]
+ },
+ "C04_01_snowman_01": {
+  "category": "v4_alpine",
+  "tris": 2660,
+  "size": [
+   8.73,
+   5.97,
+   7.78
+  ],
+  "materials": [
+   "grass_dry",
+   "snow",
+   "wf2_awn_cream",
+   "wf2_bark",
+   "wf2_carrot",
+   "wf2_coal",
+   "wf2_timber",
+   "wf2_wool_red",
+   "wf2_wool_teal"
+  ]
+ },
+ "C04_02_snowman_02": {
+  "category": "v4_alpine",
+  "tris": 2536,
+  "size": [
+   10.12,
+   8.21,
+   15.98
+  ],
+  "materials": [
+   "iron",
+   "snow",
+   "wf2_bark",
+   "wf2_carrot",
+   "wf2_coal",
+   "wf2_glow",
+   "wf2_wool_red"
+  ]
+ },
+ "C06_01_frozen_dock_01": {
+  "category": "v4_alpine",
+  "tris": 4400,
+  "size": [
+   40.0,
+   22.0,
+   5.36
+  ],
+  "materials": [
+   "rope",
+   "snow",
+   "wf2_bark",
+   "wf2_ice",
+   "wf2_ice_blue",
+   "wf2_plank",
+   "wf2_plank_grey",
+   "wf2_timber",
+   "wf2_timber_dark"
+  ],
+  "connect": [
+   [
+    0.0,
+    -6.5,
+    3.86
+   ]
+  ]
+ },
+ "C07_01_sled_01": {
+  "category": "v4_alpine",
+  "tris": 1950,
+  "size": [
+   11.41,
+   5.2,
+   4.07
+  ],
+  "materials": [
+   "rope",
+   "snow",
+   "wf2_fur",
+   "wf2_fur_dark",
+   "wf2_plank",
+   "wf2_plank_light",
+   "wf2_timber"
+  ]
+ },
+ "C07_02_sled_02": {
+  "category": "v4_alpine",
+  "tris": 1024,
+  "size": [
+   9.59,
+   4.09,
+   2.59
+  ],
+  "materials": [
+   "rope",
+   "snow",
+   "wf2_plank_light",
+   "wf2_timber",
+   "wf2_timber_dark"
+  ]
+ },
+ "C08_01_frozen_boat_01": {
+  "category": "v4_alpine",
+  "tris": 1470,
+  "size": [
+   19.0,
+   13.16,
+   5.92
+  ],
+  "materials": [
+   "snow",
+   "wf2_ice",
+   "wf2_ice_blue",
+   "wf2_plank",
+   "wf2_plank_grey",
+   "wf2_plank_light",
+   "wf2_timber",
+   "wf2_timber_dark"
+  ]
+ },
+ "C08_02_frozen_boat_02": {
+  "category": "v4_alpine",
+  "tris": 1414,
+  "size": [
+   28.0,
+   22.03,
+   12.53
+  ],
+  "materials": [
+   "sail",
+   "snow",
+   "wf2_ice",
+   "wf2_ice_blue",
+   "wf2_plank",
+   "wf2_plank_grey",
+   "wf2_timber",
+   "wf2_timber_dark"
+  ]
+ },
+ "C09_01_frozen_waterfall_01": {
+  "category": "v4_alpine",
+  "tris": 7724,
+  "size": [
+   32.02,
+   18.7,
+   31.74
+  ],
+  "materials": [
+   "cliff_b",
+   "snow",
+   "stone_dark",
+   "wf2_ice",
+   "wf2_ice_blue",
+   "wf2_ice_deep"
+  ]
+ },
+ "E14_01_icelake_rim_wall_01": {
+  "category": "v4_alpine",
+  "tris": 18352,
+  "size": [
+   60.0,
+   32.53,
+   30.71
+  ],
+  "materials": [
+   "snow",
+   "wf2c_ice_glaze",
+   "wf2c_ice_seam",
+   "wf2c_rock_dark",
+   "wf2c_rock_mid",
+   "wf2c_rock_pale"
+  ]
+ },
+ "E14_02_icelake_rim_wall_02": {
+  "category": "v4_alpine",
+  "tris": 12896,
+  "size": [
+   60.79,
+   32.95,
+   30.74
+  ],
+  "materials": [
+   "snow",
+   "wf2c_ice_glaze",
+   "wf2c_ice_pale",
+   "wf2c_rock_dark",
+   "wf2c_rock_mid",
+   "wf2c_rock_pale"
+  ]
+ },
+ "E14_03_icelake_rim_wall_03": {
+  "category": "v4_alpine",
+  "tris": 10096,
+  "size": [
+   61.99,
+   32.66,
+   30.74
+  ],
+  "materials": [
+   "snow",
+   "wf2c_rock_dark",
+   "wf2c_rock_pale",
+   "wf2c_slate",
+   "wf2c_slate_pale"
+  ]
+ },
+ "E14_04_icelake_rim_wall_04": {
+  "category": "v4_alpine",
+  "tris": 10536,
+  "size": [
+   60.0,
+   32.99,
+   30.72
+  ],
+  "materials": [
+   "snow",
+   "wf2c_ice_glaze",
+   "wf2c_rock_dark",
+   "wf2c_rock_mid",
+   "wf2c_slate_pale"
+  ]
+ }
+}

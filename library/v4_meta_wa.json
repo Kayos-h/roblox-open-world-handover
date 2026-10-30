@@ -1,0 +1,546 @@
+{
+ "A01_01_igloo_01": {
+  "category": "v4_alpine",
+  "tris": 13340,
+  "size": [
+   15.4,
+   21.06,
+   6.3
+  ],
+  "materials": [
+   "iron_dark",
+   "wa_fur",
+   "wa_fur_dark",
+   "wa_ice_block",
+   "wa_ice_blue",
+   "wa_lantern",
+   "wa_snow",
+   "wa_snow_pack",
+   "wa_snow_shade"
+  ],
+  "door": [
+   [
+    0.0,
+    -9.83,
+    0.5
+   ]
+  ]
+ },
+ "A01_02_igloo_02": {
+  "category": "v4_alpine",
+  "tris": 21672,
+  "size": [
+   24.72,
+   24.16,
+   7.1
+  ],
+  "materials": [
+   "iron_dark",
+   "wa_fur",
+   "wa_ice_block",
+   "wa_ice_blue",
+   "wa_lantern",
+   "wa_snow",
+   "wa_snow_pack",
+   "wa_snow_shade",
+   "wa_soot",
+   "wa_water_dark"
+  ],
+  "door": [
+   [
+    -2.76,
+    -11.38,
+    0.7
+   ]
+  ]
+ },
+ "A01_03_igloo_03": {
+  "category": "v4_alpine",
+  "tris": 17832,
+  "size": [
+   21.6,
+   25.54,
+   7.49
+  ],
+  "materials": [
+   "iron_dark",
+   "wa_board_grey",
+   "wa_board_trim",
+   "wa_bone",
+   "wa_fur",
+   "wa_ice_blue",
+   "wa_lantern",
+   "wa_snow",
+   "wa_snow_pack",
+   "wa_snow_shade"
+  ],
+  "door": [
+   [
+    0.0,
+    -12.07,
+    0.5
+   ]
+  ]
+ },
+ "A02_01_ice_shanty_01": {
+  "category": "v4_alpine",
+  "tris": 2170,
+  "size": [
+   9.2,
+   12.71,
+   10.45
+  ],
+  "materials": [
+   "iron",
+   "iron_dark",
+   "wa_board_grey",
+   "wa_board_red",
+   "wa_board_trim",
+   "wa_frost",
+   "wa_ice_clear",
+   "wa_snow",
+   "wa_tin",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "door": [
+   [
+    0.0,
+    -3.34,
+    0.4
+   ]
+  ]
+ },
+ "A02_02_ice_shanty_02": {
+  "category": "v4_alpine",
+  "tris": 2358,
+  "size": [
+   10.74,
+   12.88,
+   10.2
+  ],
+  "materials": [
+   "iron",
+   "iron_dark",
+   "wa_board_blue",
+   "wa_board_grey",
+   "wa_board_trim",
+   "wa_frost",
+   "wa_ice_clear",
+   "wa_snow",
+   "wa_tin",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "door": [
+   [
+    0.87,
+    -3.43,
+    0.4
+   ]
+  ]
+ },
+ "A02_03_ice_shanty_03": {
+  "category": "v4_alpine",
+  "tris": 2430,
+  "size": [
+   9.2,
+   12.71,
+   10.45
+  ],
+  "materials": [
+   "iron",
+   "iron_dark",
+   "wa_board_green",
+   "wa_board_grey",
+   "wa_board_trim",
+   "wa_frost",
+   "wa_ice_clear",
+   "wa_rope",
+   "wa_snow",
+   "wa_tin",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "door": [
+   [
+    0.0,
+    -3.34,
+    0.4
+   ]
+  ]
+ },
+ "A02_04_ice_shanty_04": {
+  "category": "v4_alpine",
+  "tris": 2170,
+  "size": [
+   9.2,
+   12.71,
+   10.45
+  ],
+  "materials": [
+   "canvas",
+   "iron",
+   "iron_dark",
+   "wa_board_grey",
+   "wa_board_trim",
+   "wa_frost",
+   "wa_ice_clear",
+   "wa_snow",
+   "wa_tin",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "door": [
+   [
+    0.0,
+    -3.34,
+    0.4
+   ]
+  ]
+ },
+ "A03_01_fishing_hole_01": {
+  "category": "v4_alpine",
+  "tris": 3212,
+  "size": [
+   6.4,
+   6.4,
+   0.66
+  ],
+  "materials": [
+   "wa_ice_block",
+   "wa_ice_blue",
+   "wa_ice_clear",
+   "wa_water_dark"
+  ]
+ },
+ "A03_02_fishing_hole_02": {
+  "category": "v4_alpine",
+  "tris": 3032,
+  "size": [
+   8.32,
+   6.4,
+   1.19
+  ],
+  "materials": [
+   "wa_ice_block",
+   "wa_ice_blue",
+   "wa_ice_clear",
+   "wa_water_dark"
+  ]
+ },
+ "A03_03_fishing_hole_03": {
+  "category": "v4_alpine",
+  "tris": 3384,
+  "size": [
+   11.0,
+   9.0,
+   1.0
+  ],
+  "materials": [
+   "steel",
+   "wa_board_trim",
+   "wa_ice_block",
+   "wa_ice_clear",
+   "wa_tin",
+   "wa_water_dark"
+  ]
+ },
+ "A04_01_rusty_hut_01": {
+  "category": "v4_rusty",
+  "tris": 3564,
+  "size": [
+   15.2,
+   14.62,
+   9.93
+  ],
+  "materials": [
+   "wa_glass",
+   "wa_iron",
+   "wa_plank",
+   "wa_plank_dark",
+   "wa_plank_grey",
+   "wa_shutter",
+   "wa_tin_grey",
+   "wa_tin_rust",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "door": [
+   [
+    0.0,
+    -4.16,
+    0.41
+   ]
+  ]
+ },
+ "A04_02_rusty_hut_02": {
+  "category": "v4_rusty",
+  "tris": 11804,
+  "size": [
+   15.75,
+   15.48,
+   10.9
+  ],
+  "materials": [
+   "wa_clay",
+   "wa_glass",
+   "wa_iron",
+   "wa_plank",
+   "wa_plank_dark",
+   "wa_sand",
+   "wa_sand_dark",
+   "wa_shutter",
+   "wa_tarp"
+  ],
+  "door": [
+   [
+    0.02,
+    -4.84,
+    0.41
+   ]
+  ]
+ },
+ "A04_03_rusty_hut_03": {
+  "category": "v4_rusty",
+  "tris": 1410,
+  "size": [
+   14.6,
+   13.15,
+   12.14
+  ],
+  "materials": [
+   "stone",
+   "wa_glass",
+   "wa_iron",
+   "wa_plank",
+   "wa_plank_dark",
+   "wa_plank_grey",
+   "wa_tarp",
+   "wa_tarp_b",
+   "wa_tin_grey",
+   "wa_tin_rust"
+  ],
+  "door": [
+   [
+    0.0,
+    -5.08,
+    0.41
+   ]
+  ]
+ },
+ "A04_04_rusty_hut_04": {
+  "category": "v4_rusty",
+  "tris": 2738,
+  "size": [
+   16.4,
+   16.11,
+   10.9
+  ],
+  "materials": [
+   "iron",
+   "wa_clay",
+   "wa_glass",
+   "wa_iron",
+   "wa_plank",
+   "wa_plank_dark",
+   "wa_plaster",
+   "wa_plaster_st",
+   "wa_sand_dark",
+   "wa_shutter",
+   "wa_tarp",
+   "wa_thatch",
+   "wa_tin_rust",
+   "wood",
+   "wood_dark"
+  ],
+  "door": [
+   [
+    0.0,
+    -4.54,
+    0.41
+   ]
+  ]
+ },
+ "A04_05_rusty_hut_05": {
+  "category": "v4_rusty",
+  "tris": 1098,
+  "size": [
+   14.96,
+   14.39,
+   11.65
+  ],
+  "materials": [
+   "wa_glass",
+   "wa_iron",
+   "wa_plank",
+   "wa_plank_dark",
+   "wa_plank_grey",
+   "wa_sand_dark",
+   "wa_tin_grey",
+   "wa_tin_rust"
+  ],
+  "door": [
+   [
+    -0.02,
+    -4.26,
+    1.7
+   ]
+  ]
+ },
+ "A04_06_rusty_hut_06": {
+  "category": "v4_rusty",
+  "tris": 11706,
+  "size": [
+   19.19,
+   14.05,
+   13.23
+  ],
+  "materials": [
+   "iron",
+   "wa_glass",
+   "wa_iron",
+   "wa_plank",
+   "wa_plank_dark",
+   "wa_sand",
+   "wa_sand_dark",
+   "wa_shutter",
+   "wa_tarp",
+   "wa_tin_grey",
+   "wa_tin_rust",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "door": [
+   [
+    1.96,
+    -5.53,
+    0.53
+   ]
+  ]
+ },
+ "A05_01_shell_rusty_church_01": {
+  "category": "v4_shells",
+  "tris": 17628,
+  "size": [
+   65.4,
+   149.2,
+   158.0
+  ],
+  "materials": [
+   "iron_dark",
+   "wa_rc_broken",
+   "wa_rc_floor",
+   "wa_rc_glass",
+   "wa_rc_roof",
+   "wa_rc_spire",
+   "wa_rc_trim",
+   "wa_rc_wall",
+   "wa_rc_wall_b"
+  ],
+  "door": [
+   [
+    0.0,
+    -74.1,
+    0.8
+   ],
+   [
+    0.0,
+    -49.35,
+    0.8
+   ]
+  ]
+ },
+ "A06_01_shell_capital_cathedral_01": {
+  "category": "v4_shells",
+  "tris": 18748,
+  "size": [
+   61.4,
+   140.91,
+   172.0
+  ],
+  "materials": [
+   "iron_dark",
+   "stained_b",
+   "stained_g",
+   "stained_r",
+   "stained_y",
+   "wa_cc_floor",
+   "wa_cc_gold",
+   "wa_cc_roof",
+   "wa_cc_spire",
+   "wa_cc_trim",
+   "wa_cc_wall",
+   "wa_rc_broken"
+  ],
+  "door": [
+   [
+    0.0,
+    -68.24,
+    0.8
+   ],
+   [
+    0.0,
+    -45.49,
+    0.8
+   ]
+  ]
+ },
+ "A07_01_shell_harbour_tavern_01": {
+  "category": "v4_shells",
+  "tris": 1626,
+  "size": [
+   32.8,
+   46.9,
+   28.3
+  ],
+  "materials": [
+   "iron",
+   "wa_tv_base",
+   "wa_tv_floor",
+   "wa_tv_glass",
+   "wa_tv_plaster",
+   "wa_tv_roof",
+   "wa_tv_timber"
+  ],
+  "door": [
+   [
+    0.0,
+    -17.15,
+    0.6
+   ]
+  ]
+ },
+ "A08_01_shell_alpine_lodge_01": {
+  "category": "v4_shells",
+  "tris": 1524,
+  "size": [
+   34.0,
+   51.2,
+   31.35
+  ],
+  "materials": [
+   "wa_ice",
+   "wa_lo_base",
+   "wa_lo_floor",
+   "wa_lo_glass",
+   "wa_lo_roof",
+   "wa_lo_snow",
+   "wa_lo_timber",
+   "wa_lo_wall"
+  ],
+  "door": [
+   [
+    0.0,
+    -19.6,
+    0.6
+   ]
+  ]
+ }
+}

@@ -1,0 +1,461 @@
+{
+ "we_ashlar": {
+  "rgb": [
+   206,
+   198,
+   180
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "we_ashlar_b": {
+  "rgb": [
+   190,
+   182,
+   164
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "we_ashlar_c": {
+  "rgb": [
+   176,
+   166,
+   148
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "we_plinth": {
+  "rgb": [
+   132,
+   128,
+   120
+  ],
+  "material": "Cobblestone",
+  "glow": false
+ },
+ "we_trim": {
+  "rgb": [
+   230,
+   224,
+   210
+  ],
+  "material": "Marble",
+  "glow": false
+ },
+ "we_trim_warm": {
+  "rgb": [
+   224,
+   210,
+   180
+  ],
+  "material": "Marble",
+  "glow": false
+ },
+ "we_slate_a": {
+  "rgb": [
+   70,
+   82,
+   108
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "we_slate_b": {
+  "rgb": [
+   58,
+   68,
+   92
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "we_floor_a": {
+  "rgb": [
+   178,
+   170,
+   154
+  ],
+  "material": "Marble",
+  "glow": false
+ },
+ "we_floor_b": {
+  "rgb": [
+   96,
+   92,
+   86
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "we_carpet": {
+  "rgb": [
+   140,
+   28,
+   36
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we_carpet_trim": {
+  "rgb": [
+   198,
+   158,
+   72
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we_banner_red": {
+  "rgb": [
+   150,
+   36,
+   42
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we_banner_gold": {
+  "rgb": [
+   196,
+   158,
+   72
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we_banner_blue": {
+  "rgb": [
+   44,
+   66,
+   128
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we_gold": {
+  "rgb": [
+   214,
+   172,
+   72
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "we_bronze": {
+  "rgb": [
+   120,
+   86,
+   52
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "we_iron": {
+  "rgb": [
+   44,
+   42,
+   40
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "we_timber": {
+  "rgb": [
+   78,
+   54,
+   37
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "we_plaster": {
+  "rgb": [
+   222,
+   210,
+   188
+  ],
+  "material": "Plaster",
+  "glow": false
+ },
+ "we_wood": {
+  "rgb": [
+   122,
+   84,
+   52
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "we_wood_light": {
+  "rgb": [
+   166,
+   126,
+   84
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "we_leather": {
+  "rgb": [
+   96,
+   64,
+   42
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we_steel": {
+  "rgb": [
+   150,
+   156,
+   164
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "we_hay": {
+  "rgb": [
+   190,
+   160,
+   92
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we_canopy_r": {
+  "rgb": [
+   164,
+   54,
+   48
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we_canopy_cream": {
+  "rgb": [
+   230,
+   218,
+   188
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we_canopy_blue": {
+  "rgb": [
+   52,
+   86,
+   140
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we_canopy_green": {
+  "rgb": [
+   60,
+   110,
+   72
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we_canopy_gold": {
+  "rgb": [
+   200,
+   160,
+   72
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we_cloth_a": {
+  "rgb": [
+   150,
+   46,
+   54
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we_cloth_b": {
+  "rgb": [
+   48,
+   78,
+   132
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we_cloth_c": {
+  "rgb": [
+   60,
+   108,
+   78
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we_cloth_d": {
+  "rgb": [
+   196,
+   170,
+   90
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we_fruit_a": {
+  "rgb": [
+   186,
+   36,
+   34
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "we_fruit_b": {
+  "rgb": [
+   232,
+   160,
+   42
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "we_fruit_c": {
+  "rgb": [
+   120,
+   172,
+   58
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "we_fruit_d": {
+  "rgb": [
+   150,
+   70,
+   160
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "we_potion_r": {
+  "rgb": [
+   198,
+   40,
+   70
+  ],
+  "material": "Glass",
+  "glow": true
+ },
+ "we_potion_b": {
+  "rgb": [
+   60,
+   110,
+   220
+  ],
+  "material": "Glass",
+  "glow": true
+ },
+ "we_potion_g": {
+  "rgb": [
+   80,
+   200,
+   110
+  ],
+  "material": "Glass",
+  "glow": true
+ },
+ "we_potion_p": {
+  "rgb": [
+   170,
+   90,
+   220
+  ],
+  "material": "Glass",
+  "glow": true
+ },
+ "we_glass_lit": {
+  "rgb": [
+   246,
+   196,
+   110
+  ],
+  "material": "Glass",
+  "glow": true
+ },
+ "we_stained_r": {
+  "rgb": [
+   190,
+   48,
+   56
+  ],
+  "material": "Glass",
+  "glow": true
+ },
+ "we_stained_b": {
+  "rgb": [
+   56,
+   92,
+   190
+  ],
+  "material": "Glass",
+  "glow": true
+ },
+ "we_stained_y": {
+  "rgb": [
+   232,
+   186,
+   60
+  ],
+  "material": "Glass",
+  "glow": true
+ },
+ "we_stained_g": {
+  "rgb": [
+   60,
+   150,
+   90
+  ],
+  "material": "Glass",
+  "glow": true
+ },
+ "we_flame": {
+  "rgb": [
+   255,
+   150,
+   40
+  ],
+  "material": "Neon",
+  "glow": true
+ },
+ "we_flame_core": {
+  "rgb": [
+   255,
+   214,
+   120
+  ],
+  "material": "Neon",
+  "glow": true
+ },
+ "we_wax": {
+  "rgb": [
+   238,
+   228,
+   200
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "we_rope": {
+  "rgb": [
+   176,
+   150,
+   104
+  ],
+  "material": "Fabric",
+  "glow": false
+ }
+}

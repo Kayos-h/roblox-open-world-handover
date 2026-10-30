@@ -1,0 +1,182 @@
+{
+ "vj_red": {
+  "rgb": [
+   176,
+   92,
+   60
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "vj_red2": {
+  "rgb": [
+   150,
+   70,
+   48
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "vj_sand": {
+  "rgb": [
+   214,
+   184,
+   140
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "vj_cream": {
+  "rgb": [
+   226,
+   208,
+   170
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "vj_sandl": {
+  "rgb": [
+   234,
+   210,
+   168
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "vj_orange": {
+  "rgb": [
+   200,
+   120,
+   70
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "vj_stone": {
+  "rgb": [
+   128,
+   124,
+   120
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "vj_stone2": {
+  "rgb": [
+   150,
+   146,
+   140
+  ],
+  "material": "Cobblestone",
+  "glow": false
+ },
+ "vj_moss": {
+  "rgb": [
+   92,
+   124,
+   72
+  ],
+  "material": "Grass",
+  "glow": false
+ },
+ "vj_plank": {
+  "rgb": [
+   134,
+   108,
+   80
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "vj_rope": {
+  "rgb": [
+   176,
+   150,
+   104
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vj_cloth": {
+  "rgb": [
+   168,
+   52,
+   52
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vj_f_red": {
+  "rgb": [
+   176,
+   92,
+   60
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "vj_f_red_d": {
+  "rgb": [
+   150,
+   70,
+   48
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "vj_f_sand": {
+  "rgb": [
+   214,
+   184,
+   140
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "vj_f_cream": {
+  "rgb": [
+   226,
+   208,
+   170
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "vj_f_orange": {
+  "rgb": [
+   200,
+   120,
+   70
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "vj_f_cap": {
+  "rgb": [
+   234,
+   214,
+   174
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "vj_f_base": {
+  "rgb": [
+   120,
+   84,
+   60
+  ],
+  "material": "Ground",
+  "glow": false
+ },
+ "vj_f_moss": {
+  "rgb": [
+   110,
+   126,
+   70
+  ],
+  "material": "Grass",
+  "glow": false
+ }
+}

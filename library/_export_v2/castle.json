@@ -1,0 +1,965 @@
+[
+ {
+  "id": "K01_main_keep",
+  "pieces": 27,
+  "max_tris": 11801,
+  "names": [
+   "ashlar",
+   "brass",
+   "castle_1",
+   "castle_2",
+   "castle_trim_1",
+   "castle_trim_2",
+   "castle_trim_3",
+   "castle_trim_4",
+   "castle_trim_5",
+   "castle_trim_6",
+   "castle_trim_7",
+   "castle_trim_8",
+   "door_paint",
+   "fabric_blue",
+   "fabric_red",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "iron_dark",
+   "marble",
+   "stained_b",
+   "stained_r",
+   "stained_y",
+   "tile_a",
+   "tile_b",
+   "timber"
+  ],
+  "size": [
+   55.5,
+   45.98,
+   100.7
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K02_castle_round_tower",
+  "pieces": 13,
+  "max_tris": 13472,
+  "names": [
+   "ashlar",
+   "brass",
+   "castle",
+   "castle_trim",
+   "door_paint",
+   "fabric_blue",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "tile_a",
+   "tile_b",
+   "timber"
+  ],
+  "size": [
+   20.4,
+   20.4,
+   87.0
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K03_castle_square_tower",
+  "pieces": 17,
+  "max_tris": 12230,
+  "names": [
+   "ashlar",
+   "brass",
+   "castle",
+   "castle_trim_1",
+   "castle_trim_2",
+   "door_paint",
+   "fabric_blue",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "iron_dark",
+   "stained_b",
+   "stone",
+   "tile_a",
+   "tile_b",
+   "timber"
+  ],
+  "size": [
+   20.36,
+   20.36,
+   78.5
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K04_spire_tower",
+  "pieces": 14,
+  "max_tris": 10822,
+  "names": [
+   "brass",
+   "castle",
+   "castle_trim_1",
+   "castle_trim_2",
+   "door_paint",
+   "fabric_red",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "stone",
+   "tile_a",
+   "tile_b",
+   "timber"
+  ],
+  "size": [
+   15.2,
+   15.4,
+   109.5
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K05_curtain_wall_straight",
+  "pieces": 7,
+  "max_tris": 6192,
+  "names": [
+   "ashlar",
+   "castle",
+   "castle_trim",
+   "glass_dark",
+   "glass_lit",
+   "iron",
+   "stone_dark"
+  ],
+  "size": [
+   40.0,
+   13.59,
+   30.92
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K06_curtain_wall_corner",
+  "pieces": 12,
+  "max_tris": 8300,
+  "names": [
+   "ashlar",
+   "castle",
+   "castle_trim",
+   "fabric_blue",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "stone_dark",
+   "tile_a",
+   "tile_b",
+   "timber"
+  ],
+  "size": [
+   32.08,
+   32.08,
+   50.82
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K07_wall_stairs",
+  "pieces": 5,
+  "max_tris": 5340,
+  "names": [
+   "castle",
+   "castle_trim",
+   "glass_dark",
+   "glass_lit",
+   "iron"
+  ],
+  "size": [
+   44.35,
+   7.8,
+   29.75
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K08_gatehouse",
+  "pieces": 16,
+  "max_tris": 13842,
+  "names": [
+   "ashlar",
+   "castle",
+   "castle_trim_1",
+   "castle_trim_2",
+   "fabric_blue",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "iron_dark",
+   "stained_b",
+   "stone_dark",
+   "tile_a",
+   "tile_b",
+   "timber",
+   "wood_dark"
+  ],
+  "size": [
+   49.56,
+   20.0,
+   70.5
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K09_drawbridge",
+  "pieces": 4,
+  "max_tris": 6892,
+  "names": [
+   "iron",
+   "iron_dark",
+   "wood",
+   "wood_dark"
+  ],
+  "size": [
+   13.8,
+   26.7,
+   20.49
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K10_moat_bridge",
+  "pieces": 11,
+  "max_tris": 9210,
+  "names": [
+   "ashlar",
+   "castle",
+   "castle_trim_1",
+   "castle_trim_2",
+   "cob_a",
+   "cob_b",
+   "cob_c",
+   "gold",
+   "grout",
+   "magic",
+   "stone_light"
+  ],
+  "size": [
+   20.8,
+   64.4,
+   21.35
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K11_throne",
+  "pieces": 6,
+  "max_tris": 2032,
+  "names": [
+   "carpet",
+   "castle_trim",
+   "gold",
+   "magic",
+   "marble",
+   "velvet"
+  ],
+  "size": [
+   14.0,
+   11.0,
+   17.6
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K12_throne_pillar",
+  "pieces": 3,
+  "max_tris": 2044,
+  "names": [
+   "castle_trim",
+   "gold",
+   "marble"
+  ],
+  "size": [
+   6.6,
+   6.6,
+   30.0
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K13_chandelier",
+  "pieces": 5,
+  "max_tris": 5860,
+  "names": [
+   "flame",
+   "glass",
+   "gold",
+   "magic",
+   "wax"
+  ],
+  "size": [
+   7.79,
+   7.79,
+   13.05
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K14_red_carpet",
+  "pieces": 3,
+  "max_tris": 692,
+  "names": [
+   "carpet",
+   "gold",
+   "velvet"
+  ],
+  "size": [
+   10.0,
+   61.5,
+   0.17
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K15_stained_window",
+  "pieces": 7,
+  "max_tris": 2488,
+  "names": [
+   "castle_trim",
+   "gold",
+   "iron_dark",
+   "stained_b",
+   "stained_g",
+   "stained_r",
+   "stained_y"
+  ],
+  "size": [
+   9.0,
+   2.4,
+   21.64
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K16_tapestry_1",
+  "pieces": 4,
+  "max_tris": 656,
+  "names": [
+   "fabric_blue",
+   "fabric_cream",
+   "gold",
+   "iron"
+  ],
+  "size": [
+   9.5,
+   0.8,
+   15.85
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K17_tapestry_2",
+  "pieces": 5,
+  "max_tris": 656,
+  "names": [
+   "fabric_green",
+   "fabric_red",
+   "gold",
+   "iron",
+   "steel"
+  ],
+  "size": [
+   9.5,
+   0.83,
+   15.85
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K18_grand_staircase",
+  "pieces": 4,
+  "max_tris": 3012,
+  "names": [
+   "carpet",
+   "castle_trim",
+   "gold",
+   "marble"
+  ],
+  "size": [
+   20.7,
+   30.95,
+   17.15
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K19_royal_desk",
+  "pieces": 12,
+  "max_tris": 508,
+  "names": [
+   "book_a",
+   "book_b",
+   "book_d",
+   "fabric_cream",
+   "fabric_green",
+   "flame",
+   "gold",
+   "iron_dark",
+   "paper",
+   "wax",
+   "wood",
+   "wood_dark"
+  ],
+  "size": [
+   8.0,
+   3.78,
+   5.22
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K20_bookshelf",
+  "pieces": 12,
+  "max_tris": 924,
+  "names": [
+   "book_a",
+   "book_b",
+   "book_c",
+   "book_d",
+   "brass",
+   "fabric_blue",
+   "fabric_red",
+   "gold",
+   "paper",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   8.6,
+   2.4,
+   14.15
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K21_magic_orb",
+  "pieces": 4,
+  "max_tris": 640,
+  "names": [
+   "gold",
+   "magic",
+   "magic_purple",
+   "marble"
+  ],
+  "size": [
+   3.96,
+   3.6,
+   7.72
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K22_candelabra",
+  "pieces": 3,
+  "max_tris": 1504,
+  "names": [
+   "flame",
+   "gold",
+   "wax"
+  ],
+  "size": [
+   3.79,
+   2.55,
+   9.07
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K23_royal_fountain",
+  "pieces": 9,
+  "max_tris": 2412,
+  "names": [
+   "ashlar",
+   "castle_trim",
+   "foam",
+   "gold",
+   "leaf",
+   "magic",
+   "marble",
+   "water",
+   "water_fx"
+  ],
+  "size": [
+   23.6,
+   23.6,
+   17.83
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K24_wizard_king_statue",
+  "pieces": 8,
+  "max_tris": 1936,
+  "names": [
+   "ashlar_dark",
+   "bronze",
+   "castle",
+   "fabric_red",
+   "gold",
+   "magic",
+   "marble",
+   "wood_dark"
+  ],
+  "size": [
+   8.0,
+   8.0,
+   20.6
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K25_topiary_ball",
+  "pieces": 4,
+  "max_tris": 640,
+  "names": [
+   "bark",
+   "castle_trim",
+   "dirt",
+   "leaf_dark"
+  ],
+  "size": [
+   4.75,
+   4.76,
+   10.59
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K26_topiary_cone",
+  "pieces": 3,
+  "max_tris": 320,
+  "names": [
+   "castle_trim",
+   "dirt",
+   "leaf_dark"
+  ],
+  "size": [
+   4.4,
+   4.4,
+   9.1
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K27_topiary_spiral",
+  "pieces": 4,
+  "max_tris": 2080,
+  "names": [
+   "bark",
+   "castle_trim",
+   "dirt",
+   "leaf_dark"
+  ],
+  "size": [
+   4.71,
+   4.61,
+   13.0
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K28_maze_hedge_straight",
+  "pieces": 3,
+  "max_tris": 1560,
+  "names": [
+   "bark",
+   "leaf",
+   "leaf_dark"
+  ],
+  "size": [
+   16.38,
+   3.59,
+   9.61
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K29_maze_hedge_corner",
+  "pieces": 3,
+  "max_tris": 2720,
+  "names": [
+   "bark",
+   "leaf",
+   "leaf_dark"
+  ],
+  "size": [
+   10.86,
+   11.24,
+   9.76
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K30_gazebo",
+  "pieces": 6,
+  "max_tris": 4400,
+  "names": [
+   "castle_trim",
+   "gold",
+   "iron",
+   "magic",
+   "marble",
+   "tile_a"
+  ],
+  "size": [
+   17.66,
+   20.03,
+   25.2
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K31_rose_arch",
+  "pieces": 6,
+  "max_tris": 4592,
+  "names": [
+   "fl_pink",
+   "fl_red",
+   "fl_white",
+   "iron",
+   "leaf",
+   "leaf_dark"
+  ],
+  "size": [
+   9.4,
+   3.49,
+   11.45
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K32_ornate_planter",
+  "pieces": 9,
+  "max_tris": 1808,
+  "names": [
+   "castle_trim",
+   "fl_pink",
+   "fl_purple",
+   "fl_white",
+   "fl_yellow",
+   "gold",
+   "leaf",
+   "leaf_dark",
+   "marble"
+  ],
+  "size": [
+   5.48,
+   4.8,
+   6.1
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K33_ornate_bench",
+  "pieces": 3,
+  "max_tris": 12780,
+  "names": [
+   "gold",
+   "iron",
+   "wood_dark"
+  ],
+  "size": [
+   8.0,
+   2.99,
+   4.91
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K34_ornate_lamp",
+  "pieces": 3,
+  "max_tris": 860,
+  "names": [
+   "glass_lit",
+   "gold",
+   "iron_dark"
+  ],
+  "size": [
+   4.6,
+   5.31,
+   14.4
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K35_royal_banner",
+  "pieces": 4,
+  "max_tris": 656,
+  "names": [
+   "castle_trim",
+   "fabric_blue",
+   "gold",
+   "iron_dark"
+  ],
+  "size": [
+   6.3,
+   2.8,
+   20.4
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K36_tower_flag",
+  "pieces": 3,
+  "max_tris": 656,
+  "names": [
+   "fabric_blue",
+   "gold",
+   "iron_dark"
+  ],
+  "size": [
+   9.52,
+   0.95,
+   14.6
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K37_mansion_1",
+  "pieces": 19,
+  "max_tris": 11086,
+  "names": [
+   "ashlar",
+   "brass",
+   "brick",
+   "castle",
+   "castle_trim_1",
+   "castle_trim_2",
+   "castle_trim_3",
+   "castle_trim_4",
+   "door_paint",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "marble",
+   "stone_dark",
+   "terracotta",
+   "tile_a",
+   "tile_b",
+   "timber"
+  ],
+  "size": [
+   35.6,
+   28.78,
+   35.5
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K38_mansion_2",
+  "pieces": 23,
+  "max_tris": 14450,
+  "names": [
+   "ashlar",
+   "brass",
+   "brick",
+   "castle_trim_1",
+   "castle_trim_2",
+   "castle_trim_3",
+   "castle_trim_4",
+   "castle_trim_5",
+   "castle_trim_6",
+   "castle_trim_7",
+   "castle_trim_8",
+   "door_paint",
+   "fabric_green",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "marble",
+   "stone_dark",
+   "terracotta",
+   "tile_b",
+   "tile_grey",
+   "timber"
+  ],
+  "size": [
+   53.76,
+   31.94,
+   50.5
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K39_mansion_3",
+  "pieces": 27,
+  "max_tris": 11160,
+  "names": [
+   "ashlar",
+   "brass",
+   "brick",
+   "castle_trim",
+   "dirt",
+   "door_paint",
+   "fabric_red",
+   "fl_pink",
+   "fl_red",
+   "fl_white",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "plaster_d",
+   "shutter_g",
+   "stone",
+   "stone_dark",
+   "terracotta",
+   "tile_red_a",
+   "tile_red_b",
+   "timber",
+   "wood",
+   "wood_paint_1",
+   "wood_paint_2"
+  ],
+  "size": [
+   33.42,
+   25.82,
+   52.5
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K40_barracks",
+  "pieces": 25,
+  "max_tris": 10710,
+  "names": [
+   "ashlar",
+   "ashlar_dark",
+   "brass",
+   "castle_trim_1",
+   "castle_trim_2",
+   "castle_trim_3",
+   "castle_trim_4",
+   "door_paint",
+   "fabric_cream",
+   "fabric_red",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "shutter_r",
+   "steel",
+   "stone",
+   "stone_dark",
+   "terracotta",
+   "tile_red_a",
+   "tile_red_b",
+   "timber",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   41.6,
+   23.38,
+   28.35
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K41_stables",
+  "pieces": 13,
+  "max_tris": 1856,
+  "names": [
+   "ashlar",
+   "glass_dark",
+   "iron",
+   "plaster",
+   "rope",
+   "rope_dark",
+   "thatch",
+   "tile_red_a",
+   "tile_red_b",
+   "timber",
+   "water",
+   "wood",
+   "wood_dark"
+  ],
+  "size": [
+   41.0,
+   20.38,
+   17.58
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K42_sentry_box",
+  "pieces": 8,
+  "max_tris": 212,
+  "names": [
+   "ashlar",
+   "fabric_blue",
+   "glass_lit",
+   "gold",
+   "iron",
+   "tile_a",
+   "wood",
+   "wood_paint"
+  ],
+  "size": [
+   6.36,
+   5.6,
+   16.4
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K43_royal_carriage",
+  "pieces": 8,
+  "max_tris": 2368,
+  "names": [
+   "fabric_blue",
+   "fabric_red",
+   "glass",
+   "glass_lit",
+   "gold",
+   "iron_dark",
+   "wood",
+   "wood_dark"
+  ],
+  "size": [
+   20.53,
+   6.76,
+   10.75
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "K44_monument_column",
+  "pieces": 6,
+  "max_tris": 2480,
+  "names": [
+   "ashlar_dark",
+   "bronze",
+   "castle",
+   "castle_trim",
+   "gold",
+   "marble"
+  ],
+  "size": [
+   10.0,
+   10.0,
+   49.2
+  ],
+  "min_z": 0.0
+ }
+]

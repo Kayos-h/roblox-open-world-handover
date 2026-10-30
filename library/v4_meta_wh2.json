@@ -1,0 +1,394 @@
+{
+ "E07_04_rusty_prop_04": {
+  "category": "v4_rusty",
+  "tris": 2312,
+  "size": [
+   11.48,
+   4.56,
+   3.84
+  ],
+  "materials": [
+   "iron",
+   "rust",
+   "stone",
+   "wood",
+   "wood_grey",
+   "wood_old",
+   "wood_rot"
+  ]
+ },
+ "E07_05_rusty_prop_05": {
+  "category": "v4_rusty",
+  "tris": 4324,
+  "size": [
+   16.24,
+   6.66,
+   6.26
+  ],
+  "materials": [
+   "iron",
+   "rust",
+   "stone",
+   "wood",
+   "wood_grey",
+   "wood_old",
+   "wood_rot"
+  ]
+ },
+ "E07_06_rusty_prop_06": {
+  "category": "v4_rusty",
+  "tris": 4588,
+  "size": [
+   13.13,
+   10.1,
+   8.19
+  ],
+  "materials": [
+   "canvas_b",
+   "grass_dry",
+   "iron",
+   "rust",
+   "thatch",
+   "wood",
+   "wood_grey",
+   "wood_old",
+   "wood_rot"
+  ]
+ },
+ "E07_07_rusty_prop_07": {
+  "category": "v4_rusty",
+  "tris": 1832,
+  "size": [
+   7.7,
+   5.71,
+   6.61
+  ],
+  "materials": [
+   "iron",
+   "rust",
+   "wood",
+   "wood_dark",
+   "wood_grey",
+   "wood_light",
+   "wood_old"
+  ]
+ },
+ "E07_08_rusty_prop_08": {
+  "category": "v4_rusty",
+  "tris": 3124,
+  "size": [
+   12.37,
+   4.75,
+   7.42
+  ],
+  "materials": [
+   "grass_dry",
+   "iron",
+   "thatch",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ]
+ },
+ "E07_09_rusty_prop_09": {
+  "category": "v4_rusty",
+  "tris": 1668,
+  "size": [
+   4.29,
+   3.16,
+   4.23
+  ],
+  "materials": [
+   "autumn_a",
+   "autumn_b",
+   "rust",
+   "water_dark",
+   "wood",
+   "wood_old"
+  ]
+ },
+ "E08_03_barn_03": {
+  "category": "v4_farm",
+  "tris": 9364,
+  "size": [
+   36.4,
+   17.34,
+   19.42
+  ],
+  "materials": [
+   "dirt",
+   "iron",
+   "rope",
+   "stone",
+   "thatch",
+   "timber",
+   "wh2_board",
+   "wh2_board_d",
+   "wh2_capwood",
+   "wood_old"
+  ]
+ },
+ "E09_02_windmill_02": {
+  "category": "v4_farm",
+  "tris": 5448,
+  "size": [
+   16.5,
+   15.77,
+   24.15
+  ],
+  "materials": [
+   "iron",
+   "stone",
+   "timber",
+   "wh2_board",
+   "wh2_board_d",
+   "wh2_sail",
+   "wood_old"
+  ]
+ },
+ "E08_01_barn_01": {
+  "category": "v4_farm",
+  "tris": 13210,
+  "size": [
+   32.6,
+   26.01,
+   26.4
+  ],
+  "materials": [
+   "dirt",
+   "glass_dark",
+   "iron",
+   "stone",
+   "wh2_barnred",
+   "wh2_barnred_d",
+   "wh2_board",
+   "wh2_board_d",
+   "wh2_capwood",
+   "whitewash"
+  ],
+  "door": [
+   [
+    0.0,
+    -10.69,
+    1.4
+   ]
+  ]
+ },
+ "E08_02_barn_02": {
+  "category": "v4_farm",
+  "tris": 8284,
+  "size": [
+   32.35,
+   20.55,
+   23.18
+  ],
+  "materials": [
+   "dirt",
+   "glass_dark",
+   "hole",
+   "plaster",
+   "rope",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "thatch",
+   "timber",
+   "wh2_board",
+   "wh2_board_d"
+  ],
+  "door": [
+   [
+    -3.18,
+    -9.4,
+    0.6
+   ]
+  ]
+ },
+ "E09_01_windmill_01": {
+  "category": "v4_farm",
+  "tris": 3292,
+  "size": [
+   26.01,
+   18.42,
+   44.5
+  ],
+  "materials": [
+   "glass_dark",
+   "iron",
+   "stone",
+   "stone_dark",
+   "timber",
+   "wh2_board_d",
+   "wh2_capwood",
+   "wh2_sail",
+   "wood_old"
+  ],
+  "door": [
+   [
+    0.0,
+    -8.51,
+    0.15
+   ]
+  ]
+ },
+ "E10_01_crop_plot_01": {
+  "category": "v4_farm",
+  "tris": 36948,
+  "size": [
+   16.4,
+   16.4,
+   3.84
+  ],
+  "materials": [
+   "wh2_soil",
+   "wh2_soil_d",
+   "wh2_wheat",
+   "wh2_wheat_d",
+   "wood_old"
+  ]
+ },
+ "E10_02_crop_plot_02": {
+  "category": "v4_farm",
+  "tris": 7296,
+  "size": [
+   16.46,
+   16.4,
+   10.65
+  ],
+  "materials": [
+   "wh2_cob",
+   "wh2_cornleaf",
+   "wh2_cornstalk",
+   "wh2_soil",
+   "wh2_soil_d",
+   "wh2_wheat",
+   "wood_old"
+  ]
+ },
+ "E10_03_crop_plot_03": {
+  "category": "v4_farm",
+  "tris": 8292,
+  "size": [
+   16.4,
+   16.4,
+   1.99
+  ],
+  "materials": [
+   "wh2_cabbage",
+   "wh2_cabbage_i",
+   "wh2_soil",
+   "wh2_soil_d",
+   "wood_old"
+  ]
+ },
+ "E10_04_crop_plot_04": {
+  "category": "v4_farm",
+  "tris": 6400,
+  "size": [
+   16.4,
+   16.51,
+   2.85
+  ],
+  "materials": [
+   "wh2_cornstalk",
+   "wh2_pumpkin",
+   "wh2_soil",
+   "wh2_vine",
+   "wood_old"
+  ]
+ },
+ "E10_05_crop_plot_05": {
+  "category": "v4_farm",
+  "tris": 6534,
+  "size": [
+   16.4,
+   16.4,
+   4.39
+  ],
+  "materials": [
+   "bark",
+   "iron",
+   "wh2_grape",
+   "wh2_grapeleaf",
+   "wh2_soil",
+   "wood_old"
+  ]
+ },
+ "E10_06_crop_plot_06": {
+  "category": "v4_farm",
+  "tris": 27684,
+  "size": [
+   16.4,
+   16.4,
+   2.7
+  ],
+  "materials": [
+   "wh2_herb",
+   "wh2_lav",
+   "wh2_lavstem",
+   "wh2_soil",
+   "wh2_soil_d",
+   "wood_old"
+  ]
+ },
+ "E11_01_scarecrow_01": {
+  "category": "v4_farm",
+  "tris": 1052,
+  "size": [
+   6.59,
+   3.0,
+   9.18
+  ],
+  "materials": [
+   "thatch",
+   "wh2_crow",
+   "wh2_rag_a",
+   "wh2_rag_b",
+   "wh2_sack",
+   "wh2_soil",
+   "wh2_straw",
+   "wood_dark",
+   "wood_old"
+  ]
+ },
+ "E11_02_scarecrow_02": {
+  "category": "v4_farm",
+  "tris": 1408,
+  "size": [
+   7.18,
+   2.47,
+   8.03
+  ],
+  "materials": [
+   "wh2_cob",
+   "wh2_crow",
+   "wh2_rag_a",
+   "wh2_rag_b",
+   "wh2_sack",
+   "wh2_soil",
+   "wh2_straw",
+   "wood_old"
+  ]
+ },
+ "E11_03_scarecrow_03": {
+  "category": "v4_farm",
+  "tris": 2700,
+  "size": [
+   5.09,
+   2.65,
+   11.89
+  ],
+  "materials": [
+   "fabric_blue",
+   "fabric_green",
+   "fabric_red",
+   "fl_pink",
+   "fl_yellow",
+   "wh2_crow",
+   "wh2_soil",
+   "wh2_straw",
+   "wh2_turnip",
+   "wood_old"
+  ]
+ }
+}

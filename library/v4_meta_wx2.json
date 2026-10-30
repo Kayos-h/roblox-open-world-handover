@@ -1,0 +1,254 @@
+{
+ "R02_02_snow_peak_02": {
+  "category": "v4_terrain",
+  "tris": 1168,
+  "size": [
+   162.58,
+   163.46,
+   150.83
+  ],
+  "materials": [
+   "wx2_rock",
+   "wx2_rock_dk",
+   "wx2_rock_lt",
+   "wx2_snow",
+   "wx2_snow_sh"
+  ]
+ },
+ "R01_04_islet_04": {
+  "category": "v4_terrain",
+  "tris": 1358,
+  "size": [
+   43.87,
+   43.85,
+   47.76
+  ],
+  "materials": [
+   "wx2_dirt",
+   "wx2_grass",
+   "wx2_isle",
+   "wx2_isle_dk",
+   "wx2_isle_lt",
+   "wx2_pine",
+   "wx2_pine_dk",
+   "wx2_rock",
+   "wx2_trunk"
+  ]
+ },
+ "F07_01_rock_formation_01": {
+  "category": "v4_terrain",
+  "tris": 828,
+  "size": [
+   21.65,
+   20.15,
+   49.39
+  ],
+  "materials": [
+   "wx2_kelp",
+   "wx2_rock",
+   "wx2_tan",
+   "wx2_tan_dk",
+   "wx2_tan_lt"
+  ]
+ },
+ "R02_01_snow_peak_01": {
+  "category": "v4_terrain",
+  "tris": 1168,
+  "size": [
+   133.36,
+   133.03,
+   169.33
+  ],
+  "materials": [
+   "wx2_rock",
+   "wx2_rock_dk",
+   "wx2_rock_lt",
+   "wx2_snow",
+   "wx2_snow_sh"
+  ]
+ },
+ "R02_03_snow_peak_03": {
+  "category": "v4_terrain",
+  "tris": 1168,
+  "size": [
+   178.96,
+   163.27,
+   138.94
+  ],
+  "materials": [
+   "wx2_rock",
+   "wx2_rock_dk",
+   "wx2_rock_lt",
+   "wx2_snow",
+   "wx2_snow_sh"
+  ]
+ },
+ "R02_04_snow_peak_04": {
+  "category": "v4_terrain",
+  "tris": 1168,
+  "size": [
+   135.01,
+   145.25,
+   153.82
+  ],
+  "materials": [
+   "wx2_ice",
+   "wx2_rock",
+   "wx2_rock_dk",
+   "wx2_snow",
+   "wx2_snow_sh"
+  ]
+ },
+ "R01_01_islet_01": {
+  "category": "v4_terrain",
+  "tris": 1358,
+  "size": [
+   43.66,
+   41.63,
+   51.34
+  ],
+  "materials": [
+   "wx2_dirt",
+   "wx2_grass",
+   "wx2_isle",
+   "wx2_isle_dk",
+   "wx2_isle_lt",
+   "wx2_pine",
+   "wx2_pine_dk",
+   "wx2_rock",
+   "wx2_trunk"
+  ]
+ },
+ "R01_03_islet_03": {
+  "category": "v4_terrain",
+  "tris": 1450,
+  "size": [
+   50.37,
+   47.39,
+   43.45
+  ],
+  "materials": [
+   "wx2_dirt",
+   "wx2_grass",
+   "wx2_isle",
+   "wx2_isle_dk",
+   "wx2_isle_lt",
+   "wx2_pine",
+   "wx2_pine_dk",
+   "wx2_rock",
+   "wx2_trunk"
+  ]
+ },
+ "F07_02_rock_formation_02": {
+  "category": "v4_terrain",
+  "tris": 828,
+  "size": [
+   20.76,
+   19.74,
+   43.44
+  ],
+  "materials": [
+   "wx2_kelp",
+   "wx2_rock",
+   "wx2_tan",
+   "wx2_tan_dk",
+   "wx2_tan_lt"
+  ]
+ },
+ "F07_03_rock_formation_03": {
+  "category": "v4_terrain",
+  "tris": 828,
+  "size": [
+   24.32,
+   26.29,
+   42.24
+  ],
+  "materials": [
+   "wx2_kelp",
+   "wx2_rock",
+   "wx2_tan",
+   "wx2_tan_dk",
+   "wx2_tan_lt"
+  ]
+ },
+ "F07_04_rock_formation_04": {
+  "category": "v4_terrain",
+  "tris": 878,
+  "size": [
+   32.97,
+   34.47,
+   45.55
+  ],
+  "materials": [
+   "wx2_kelp",
+   "wx2_rock",
+   "wx2_tan",
+   "wx2_tan_dk",
+   "wx2_tan_lt"
+  ]
+ },
+ "F07_05_rock_formation_05": {
+  "category": "v4_terrain",
+  "tris": 878,
+  "size": [
+   31.36,
+   32.52,
+   52.78
+  ],
+  "materials": [
+   "wx2_kelp",
+   "wx2_rock",
+   "wx2_tan",
+   "wx2_tan_dk",
+   "wx2_tan_lt"
+  ]
+ },
+ "F07_06_rock_formation_06": {
+  "category": "v4_terrain",
+  "tris": 878,
+  "size": [
+   37.92,
+   37.76,
+   33.04
+  ],
+  "materials": [
+   "wx2_kelp",
+   "wx2_rock",
+   "wx2_tan",
+   "wx2_tan_dk",
+   "wx2_tan_lt"
+  ]
+ },
+ "F07_07_rock_formation_07": {
+  "category": "v4_terrain",
+  "tris": 1060,
+  "size": [
+   42.04,
+   14.68,
+   51.15
+  ],
+  "materials": [
+   "wx2_kelp",
+   "wx2_rock",
+   "wx2_tan",
+   "wx2_tan_dk",
+   "wx2_tan_lt"
+  ]
+ },
+ "F07_08_rock_formation_08": {
+  "category": "v4_terrain",
+  "tris": 1060,
+  "size": [
+   80.7,
+   25.46,
+   38.07
+  ],
+  "materials": [
+   "wx2_kelp",
+   "wx2_rock",
+   "wx2_tan",
+   "wx2_tan_dk",
+   "wx2_tan_lt"
+  ]
+ }
+}

@@ -1,0 +1,353 @@
+{
+ "vc_stone": {
+  "rgb": [
+   128,
+   124,
+   120
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "vc_stone2": {
+  "rgb": [
+   150,
+   146,
+   140
+  ],
+  "material": "Cobblestone",
+  "glow": false
+ },
+ "vc_slate": {
+  "rgb": [
+   84,
+   86,
+   96
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "vc_snow": {
+  "rgb": [
+   240,
+   244,
+   250
+  ],
+  "material": "Snow",
+  "glow": false
+ },
+ "vc_ice": {
+  "rgb": [
+   196,
+   226,
+   242
+  ],
+  "material": "Ice",
+  "glow": false
+ },
+ "vc_timber": {
+  "rgb": [
+   112,
+   92,
+   70
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "vc_plank": {
+  "rgb": [
+   134,
+   108,
+   80
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "vc_rope": {
+  "rgb": [
+   176,
+   150,
+   104
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vc_f_blue": {
+  "rgb": [
+   60,
+   120,
+   200
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vc_f_white": {
+  "rgb": [
+   250,
+   250,
+   250
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vc_f_red": {
+  "rgb": [
+   200,
+   60,
+   50
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vc_f_green": {
+  "rgb": [
+   60,
+   160,
+   90
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vc_f_yellow": {
+  "rgb": [
+   240,
+   200,
+   60
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vc_white": {
+  "rgb": [
+   236,
+   232,
+   224
+  ],
+  "material": "Concrete",
+  "glow": false
+ },
+ "vc_red": {
+  "rgb": [
+   128,
+   56,
+   46
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "vc_gold": {
+  "rgb": [
+   200,
+   164,
+   84
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "vc_iron": {
+  "rgb": [
+   58,
+   58,
+   64
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "vc_moss": {
+  "rgb": [
+   92,
+   124,
+   72
+  ],
+  "material": "Grass",
+  "glow": false
+ },
+ "vc_sand": {
+  "rgb": [
+   214,
+   184,
+   140
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "vc_basalt": {
+  "rgb": [
+   62,
+   62,
+   70
+  ],
+  "material": "Basalt",
+  "glow": false
+ },
+ "vc_clay": {
+  "rgb": [
+   190,
+   122,
+   88
+  ],
+  "material": "Brick",
+  "glow": false
+ },
+ "vc_wood": {
+  "rgb": [
+   118,
+   86,
+   56
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "vc_leaf": {
+  "rgb": [
+   88,
+   128,
+   66
+  ],
+  "material": "Grass",
+  "glow": false
+ },
+ "vc_dstone": {
+  "rgb": [
+   72,
+   72,
+   80
+  ],
+  "material": "Granite",
+  "glow": false
+ },
+ "vc_rust": {
+  "rgb": [
+   150,
+   92,
+   62
+  ],
+  "material": "CorrodedMetal",
+  "glow": false
+ },
+ "vc_f_rock_d": {
+  "rgb": [
+   96,
+   94,
+   100
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "vc_f_rock_m": {
+  "rgb": [
+   132,
+   128,
+   124
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "vc_f_rock_l": {
+  "rgb": [
+   162,
+   158,
+   150
+  ],
+  "material": "Cobblestone",
+  "glow": false
+ },
+ "vc_f_whitewash": {
+  "rgb": [
+   236,
+   232,
+   222
+  ],
+  "material": "Concrete",
+  "glow": false
+ },
+ "vc_f_band_r": {
+  "rgb": [
+   150,
+   70,
+   58
+  ],
+  "material": "Brick",
+  "glow": false
+ },
+ "vc_f_board": {
+  "rgb": [
+   180,
+   150,
+   104
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "vc_f_fr_a": {
+  "rgb": [
+   72,
+   128,
+   178
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vc_f_fr_b": {
+  "rgb": [
+   214,
+   160,
+   60
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vc_f_fr_c": {
+  "rgb": [
+   176,
+   70,
+   62
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vc_f_fr_d": {
+  "rgb": [
+   78,
+   150,
+   96
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vc_f_rock_w": {
+  "rgb": [
+   150,
+   138,
+   122
+  ],
+  "material": "Cobblestone",
+  "glow": false
+ },
+ "vc_f_bronze": {
+  "rgb": [
+   128,
+   96,
+   62
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "vc_f_rock_b": {
+  "rgb": [
+   118,
+   104,
+   92
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "vc_f_rock_c": {
+  "rgb": [
+   146,
+   128,
+   108
+  ],
+  "material": "Cobblestone",
+  "glow": false
+ }
+}

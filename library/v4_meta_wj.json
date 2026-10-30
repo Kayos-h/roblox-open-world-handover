@@ -1,0 +1,482 @@
+{
+ "F08_01_stone_bridge_arch": {
+  "category": "v4_roads",
+  "tris": 9870,
+  "size": [
+   32.6,
+   12.7,
+   25.4
+  ],
+  "materials": [
+   "wj_ashlar",
+   "wj_ashlar_d",
+   "wj_cob_a",
+   "wj_cob_b",
+   "wj_cob_c",
+   "wj_glass_lit",
+   "wj_iron",
+   "wj_stone",
+   "wj_stone_d"
+  ]
+ },
+ "F08_02_stone_bridge_slab": {
+  "category": "v4_roads",
+  "tris": 7564,
+  "size": [
+   28.6,
+   12.6,
+   13.49
+  ],
+  "materials": [
+   "wj_ashlar",
+   "wj_cob_a",
+   "wj_cob_b",
+   "wj_cob_c",
+   "wj_stone",
+   "wj_stone_d"
+  ]
+ },
+ "F08_03_stone_bridge_double": {
+  "category": "v4_roads",
+  "tris": 17776,
+  "size": [
+   52.6,
+   16.0,
+   27.8
+  ],
+  "materials": [
+   "wj_ashlar",
+   "wj_ashlar_d",
+   "wj_cob_a",
+   "wj_cob_b",
+   "wj_cob_c",
+   "wj_glass_lit",
+   "wj_iron",
+   "wj_stone",
+   "wj_stone_d"
+  ]
+ },
+ "F08_11_milestone_carved": {
+  "category": "v4_roads",
+  "tris": 484,
+  "size": [
+   2.8,
+   1.5,
+   4.0
+  ],
+  "materials": [
+   "wj_ashlar",
+   "wj_ashlar_d",
+   "wj_stone",
+   "wj_stone_d"
+  ]
+ },
+ "F08_08_signpost_crossroads": {
+  "category": "v4_roads",
+  "tris": 476,
+  "size": [
+   8.6,
+   7.17,
+   10.94
+  ],
+  "materials": [
+   "wj_iron",
+   "wj_plank_b",
+   "wj_stone",
+   "wj_timber",
+   "wj_timber_d",
+   "wj_wood_old"
+  ]
+ },
+ "F08_09_signpost_stone": {
+  "category": "v4_roads",
+  "tris": 1738,
+  "size": [
+   5.98,
+   6.85,
+   12.25
+  ],
+  "materials": [
+   "wj_ashlar",
+   "wj_ashlar_d",
+   "wj_gold",
+   "wj_iron",
+   "wj_stone"
+  ]
+ },
+ "F08_10_signpost_leaning": {
+  "category": "v4_roads",
+  "tris": 582,
+  "size": [
+   4.71,
+   4.2,
+   8.41
+  ],
+  "materials": [
+   "wj_glass_lit",
+   "wj_iron",
+   "wj_plank_b",
+   "wj_rope",
+   "wj_stone",
+   "wj_timber_d",
+   "wj_wood_old"
+  ]
+ },
+ "F08_12_milestone_mossy": {
+  "category": "v4_roads",
+  "tris": 1400,
+  "size": [
+   2.84,
+   2.22,
+   3.1
+  ],
+  "materials": [
+   "wj_ashlar_d",
+   "wj_moss",
+   "wj_stone",
+   "wj_stone_d"
+  ]
+ },
+ "F08_04_wooden_footbridge": {
+  "category": "v4_roads",
+  "tris": 7144,
+  "size": [
+   26.0,
+   8.5,
+   7.28
+  ],
+  "materials": [
+   "wj_plank",
+   "wj_plank_b",
+   "wj_rope",
+   "wj_stone",
+   "wj_timber",
+   "wj_timber_d",
+   "wj_wood_old"
+  ]
+ },
+ "F08_05_wooden_trestle": {
+  "category": "v4_roads",
+  "tris": 3132,
+  "size": [
+   36.6,
+   12.12,
+   16.35
+  ],
+  "materials": [
+   "wj_ashlar",
+   "wj_plank",
+   "wj_plank_b",
+   "wj_stone",
+   "wj_timber",
+   "wj_timber_d",
+   "wj_wood_old"
+  ]
+ },
+ "F08_06_wooden_covered": {
+  "category": "v4_roads",
+  "tris": 12232,
+  "size": [
+   32.7,
+   13.52,
+   24.28
+  ],
+  "materials": [
+   "wj_ashlar",
+   "wj_plank",
+   "wj_plank_b",
+   "wj_stone",
+   "wj_timber",
+   "wj_timber_d",
+   "wj_wood_old"
+  ]
+ },
+ "F08_07_ruined_bridge": {
+  "category": "v4_roads",
+  "tris": 10872,
+  "size": [
+   32.6,
+   12.6,
+   17.53
+  ],
+  "materials": [
+   "wj_ashlar",
+   "wj_ashlar_d",
+   "wj_cob_a",
+   "wj_cob_b",
+   "wj_cob_c",
+   "wj_ivy",
+   "wj_stone",
+   "wj_stone_d"
+  ]
+ },
+ "F08_13_gate_arch_stone": {
+  "category": "v4_roads",
+  "tris": 5450,
+  "size": [
+   24.8,
+   7.3,
+   19.7
+  ],
+  "materials": [
+   "wj_ashlar",
+   "wj_ashlar_d",
+   "wj_banner_b",
+   "wj_banner_r",
+   "wj_glass_lit",
+   "wj_gold",
+   "wj_iron",
+   "wj_stone",
+   "wj_stone_d"
+  ]
+ },
+ "F08_14_gate_arch_timber": {
+  "category": "v4_roads",
+  "tris": 2156,
+  "size": [
+   24.8,
+   3.61,
+   18.5
+  ],
+  "materials": [
+   "wj_iron",
+   "wj_plank",
+   "wj_plank_b",
+   "wj_rope",
+   "wj_stone",
+   "wj_timber",
+   "wj_timber_d"
+  ]
+ },
+ "F08_15_shrine_stone": {
+  "category": "v4_roads",
+  "tris": 1252,
+  "size": [
+   4.0,
+   3.4,
+   7.5
+  ],
+  "materials": [
+   "flame",
+   "wj_ashlar",
+   "wj_gold",
+   "wj_iron",
+   "wj_plank_b",
+   "wj_stone",
+   "wj_stone_d",
+   "wj_timber_d"
+  ]
+ },
+ "F08_16_shrine_cross": {
+  "category": "v4_roads",
+  "tris": 1304,
+  "size": [
+   4.0,
+   4.41,
+   10.74
+  ],
+  "materials": [
+   "wj_banner_r",
+   "wj_gold",
+   "wj_iron",
+   "wj_ivy",
+   "wj_plank_b",
+   "wj_stone",
+   "wj_stone_d",
+   "wj_timber_d",
+   "wj_wood_old"
+  ]
+ },
+ "F08_17_shrine_niche": {
+  "category": "v4_roads",
+  "tris": 2122,
+  "size": [
+   4.2,
+   3.6,
+   8.7
+  ],
+  "materials": [
+   "flame",
+   "wj_ashlar",
+   "wj_ashlar_d",
+   "wj_banner_r",
+   "wj_gold",
+   "wj_stone",
+   "wj_stone_d"
+  ]
+ },
+ "F10_06_dock_fishing": {
+  "category": "v4_water",
+  "tris": 3232,
+  "size": [
+   7.3,
+   20.3,
+   11.41
+  ],
+  "materials": [
+   "wj_algae",
+   "wj_barrel",
+   "wj_dock_b",
+   "wj_iron",
+   "wj_piling",
+   "wj_rope"
+  ]
+ },
+ "F10_07_dock_boat_landing": {
+  "category": "v4_water",
+  "tris": 4986,
+  "size": [
+   15.62,
+   16.0,
+   14.05
+  ],
+  "materials": [
+   "wj_algae",
+   "wj_barrel",
+   "wj_glass_lit",
+   "wj_iron",
+   "wj_rock",
+   "wj_rock_d"
+  ]
+ },
+ "F10_08_driftwood_pile": {
+  "category": "v4_water",
+  "tris": 1328,
+  "size": [
+   10.26,
+   8.24,
+   2.19
+  ],
+  "materials": [
+   "wj_algae",
+   "wj_driftwood",
+   "wj_reed_d",
+   "wj_sand"
+  ]
+ },
+ "F10_09_rock_pool": {
+  "category": "v4_water",
+  "tris": 1452,
+  "size": [
+   11.14,
+   9.95,
+   1.5
+  ],
+  "materials": [
+   "wj_algae",
+   "wj_rock",
+   "wj_rock_d",
+   "wj_sand_wet",
+   "wj_shell",
+   "wj_shell_p",
+   "wj_starfish",
+   "wj_water"
+  ]
+ },
+ "F10_10_beach_fishing_gear": {
+  "category": "v4_water",
+  "tris": 2196,
+  "size": [
+   12.47,
+   10.57,
+   3.2
+  ],
+  "materials": [
+   "wj_crab",
+   "wj_driftwood",
+   "wj_net",
+   "wj_sand",
+   "wj_shell",
+   "wj_shell_p",
+   "wj_starfish"
+  ]
+ },
+ "F10_03_waterfall_step": {
+  "category": "v4_water",
+  "tris": 3052,
+  "size": [
+   12.58,
+   14.8,
+   11.25
+  ],
+  "materials": [
+   "wj_foam",
+   "wj_moss",
+   "wj_rock",
+   "wj_rock_d",
+   "wj_water_d",
+   "wj_water_fx"
+  ]
+ },
+ "F10_04_waterfall_cascade": {
+  "category": "v4_water",
+  "tris": 2084,
+  "size": [
+   12.75,
+   9.81,
+   10.66
+  ],
+  "materials": [
+   "wj_foam",
+   "wj_moss",
+   "wj_rock",
+   "wj_rock_d",
+   "wj_water_d",
+   "wj_water_fx"
+  ]
+ },
+ "F10_05_waterfall_trickle": {
+  "category": "v4_water",
+  "tris": 1088,
+  "size": [
+   8.15,
+   7.41,
+   6.32
+  ],
+  "materials": [
+   "wj_foam",
+   "wj_moss",
+   "wj_rock",
+   "wj_rock_d",
+   "wj_water",
+   "wj_water_fx"
+  ]
+ },
+ "F10_01_lily_pad_cluster": {
+  "category": "v4_water",
+  "tris": 3396,
+  "size": [
+   8.08,
+   5.78,
+   0.85
+  ],
+  "materials": [
+   "wj_pad",
+   "wj_pad_d",
+   "wj_pad_r",
+   "wj_petal_p",
+   "wj_petal_w",
+   "wj_pollen"
+  ]
+ },
+ "F10_02_lily_pad_spread": {
+  "category": "v4_water",
+  "tris": 7140,
+  "size": [
+   12.52,
+   13.16,
+   6.18
+  ],
+  "materials": [
+   "wj_cattail",
+   "wj_pad",
+   "wj_pad_d",
+   "wj_pad_r",
+   "wj_petal_p",
+   "wj_petal_w",
+   "wj_pollen",
+   "wj_reed",
+   "wj_reed_d"
+  ]
+ }
+}

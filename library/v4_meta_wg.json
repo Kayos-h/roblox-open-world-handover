@@ -1,0 +1,131 @@
+{
+ "E01_01_gravestone_01": {
+  "category": "v4_graveyard",
+  "tris": 424,
+  "size": [
+   3.4,
+   3.2,
+   4.69
+  ],
+  "materials": [
+   "wg_dirt",
+   "wg_lichen",
+   "wg_moss",
+   "wg_stone",
+   "wg_stone_d"
+  ]
+ },
+ "E01_02_gravestone_02": {
+  "category": "v4_graveyard",
+  "tris": 860,
+  "size": [
+   3.4,
+   3.6,
+   6.39
+  ],
+  "materials": [
+   "wg_dirt",
+   "wg_granite",
+   "wg_granite_d",
+   "wg_lichen"
+  ]
+ },
+ "E01_03_gravestone_03": {
+  "category": "v4_graveyard",
+  "tris": 180,
+  "size": [
+   4.09,
+   3.65,
+   5.43
+  ],
+  "materials": [
+   "wg_dirt",
+   "wg_lichen",
+   "wg_stone",
+   "wg_stone_d"
+  ]
+ },
+ "E01_04_gravestone_04": {
+  "category": "v4_graveyard",
+  "tris": 692,
+  "size": [
+   2.6,
+   3.25,
+   7.24
+  ],
+  "materials": [
+   "wg_dirt",
+   "wg_granite",
+   "wg_granite_d",
+   "wg_lichen",
+   "wg_marble",
+   "wg_marble_d"
+  ]
+ },
+ "E01_05_gravestone_05": {
+  "category": "v4_graveyard",
+  "tris": 1072,
+  "size": [
+   3.8,
+   3.0,
+   5.88
+  ],
+  "materials": [
+   "wg_dirt",
+   "wg_lichen",
+   "wg_marble",
+   "wg_marble_d",
+   "wg_stone_d"
+  ]
+ },
+ "E01_06_gravestone_06": {
+  "category": "v4_graveyard",
+  "tris": 896,
+  "size": [
+   5.67,
+   3.3,
+   2.64
+  ],
+  "materials": [
+   "wg_lichen",
+   "wg_marble_d",
+   "wg_moss",
+   "wg_stone",
+   "wg_stone_d"
+  ]
+ },
+ "E01_07_gravestone_07": {
+  "category": "v4_graveyard",
+  "tris": 528,
+  "size": [
+   5.6,
+   3.6,
+   5.25
+  ],
+  "materials": [
+   "wg_dirt",
+   "wg_granite",
+   "wg_granite_d",
+   "wg_lichen",
+   "wg_stone",
+   "wg_stone_d"
+  ]
+ },
+ "E01_08_gravestone_08": {
+  "category": "v4_graveyard",
+  "tris": 1224,
+  "size": [
+   4.44,
+   3.91,
+   2.98
+  ],
+  "materials": [
+   "wg_dirt",
+   "wg_ivy",
+   "wg_lichen",
+   "wg_moss",
+   "wg_stone",
+   "wg_stone_d"
+  ]
+ }
+}

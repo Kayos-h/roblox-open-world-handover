@@ -1,0 +1,1222 @@
+{
+ "DS01_01_adobe_house_01": {
+  "category": "v5_desert",
+  "tris": 1202,
+  "size": [
+   20.0,
+   20.0,
+   18.0
+  ],
+  "materials": [
+   "vh_gold",
+   "vh_lime",
+   "vh_sand",
+   "vh_sand2",
+   "vh_sandl",
+   "vh_shadow",
+   "vh_stone",
+   "vh_wood"
+  ]
+ },
+ "DS01_02_adobe_house_02": {
+  "category": "v5_desert",
+  "tris": 1798,
+  "size": [
+   20.0,
+   20.0,
+   17.25
+  ],
+  "materials": [
+   "vh_gold",
+   "vh_sand",
+   "vh_sand2",
+   "vh_sandl",
+   "vh_shadow",
+   "vh_stone",
+   "vh_wood"
+  ]
+ },
+ "DS01_03_adobe_house_03": {
+  "category": "v5_desert",
+  "tris": 1804,
+  "size": [
+   20.0,
+   20.36,
+   18.0
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_cream",
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_shadow",
+   "vh_f_stone",
+   "vh_f_wood"
+  ]
+ },
+ "DS01_04_adobe_house_04": {
+  "category": "v5_desert",
+  "tris": 1804,
+  "size": [
+   20.0,
+   20.36,
+   18.0
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_cream",
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_shadow",
+   "vh_f_stone",
+   "vh_f_wood"
+  ]
+ },
+ "DS01_05_adobe_house_05": {
+  "category": "v5_desert",
+  "tris": 2288,
+  "size": [
+   20.0,
+   20.36,
+   18.0
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_cream",
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_sandl",
+   "vh_f_shadow",
+   "vh_f_stone",
+   "vh_f_wood"
+  ]
+ },
+ "DS01_06_adobe_house_06": {
+  "category": "v5_desert",
+  "tris": 1468,
+  "size": [
+   20.0,
+   20.0,
+   18.0
+  ],
+  "materials": [
+   "vh_plank",
+   "vh_sand",
+   "vh_sand2",
+   "vh_sandl",
+   "vh_shadow",
+   "vh_stone",
+   "vh_wood"
+  ]
+ },
+ "DS02_01_desert_market_01": {
+  "category": "v5_desert",
+  "tris": 1126,
+  "size": [
+   24.0,
+   18.0,
+   16.0
+  ],
+  "materials": [
+   "vh_f_canvas",
+   "vh_f_clay",
+   "vh_f_cloth2",
+   "vh_f_cloth3",
+   "vh_f_palm2",
+   "vh_f_plank",
+   "vh_f_reed",
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_stone",
+   "vh_f_wood"
+  ]
+ },
+ "DS02_02_desert_market_02": {
+  "category": "v5_desert",
+  "tris": 600,
+  "size": [
+   24.0,
+   18.0,
+   16.0
+  ],
+  "materials": [
+   "vh_canvas",
+   "vh_cloth1",
+   "vh_cloth2",
+   "vh_cloth3",
+   "vh_cloth4",
+   "vh_gold",
+   "vh_sand2",
+   "vh_wood"
+  ]
+ },
+ "DS02_03_desert_market_03": {
+  "category": "v5_desert",
+  "tris": 604,
+  "size": [
+   24.0,
+   18.0,
+   16.0
+  ],
+  "materials": [
+   "vh_canvas",
+   "vh_clay",
+   "vh_cloth2",
+   "vh_cloth3",
+   "vh_palm2",
+   "vh_plank",
+   "vh_sand2",
+   "vh_wood"
+  ]
+ },
+ "DS03_01_caravan_wagon_01": {
+  "category": "v5_desert",
+  "tris": 1116,
+  "size": [
+   18.0,
+   10.0,
+   12.0
+  ],
+  "materials": [
+   "vh_canvas",
+   "vh_clay",
+   "vh_iron",
+   "vh_plank",
+   "vh_wood"
+  ]
+ },
+ "DS03_02_caravan_wagon_02": {
+  "category": "v5_desert",
+  "tris": 1168,
+  "size": [
+   18.0,
+   10.0,
+   12.0
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_cloth2",
+   "vh_f_iron",
+   "vh_f_plank",
+   "vh_f_wood"
+  ]
+ },
+ "DS04_01_palm_01": {
+  "category": "v5_desert",
+  "tris": 3816,
+  "size": [
+   14.0,
+   14.0,
+   40.08
+  ],
+  "materials": [
+   "vh_f_bark",
+   "vh_f_clay",
+   "vh_f_palm",
+   "vh_f_palm2"
+  ]
+ },
+ "DS04_02_palm_02": {
+  "category": "v5_desert",
+  "tris": 2952,
+  "size": [
+   14.0,
+   14.0,
+   42.0
+  ],
+  "materials": [
+   "vh_f_bark",
+   "vh_f_clay",
+   "vh_f_palm",
+   "vh_f_palm2"
+  ]
+ },
+ "DS04_03_palm_03": {
+  "category": "v5_desert",
+  "tris": 3816,
+  "size": [
+   14.0,
+   14.0,
+   44.07
+  ],
+  "materials": [
+   "vh_f_bark",
+   "vh_f_clay",
+   "vh_f_palm",
+   "vh_f_palm2"
+  ]
+ },
+ "DS05_01_oasis_rock_ring_01": {
+  "category": "v5_desert",
+  "tris": 2534,
+  "size": [
+   53.44,
+   50.0,
+   10.74
+  ],
+  "materials": [
+   "vh_palm2",
+   "vh_red",
+   "vh_reed",
+   "vh_sand2",
+   "vh_sandl",
+   "vh_stone",
+   "vh_water"
+  ]
+ },
+ "DS05_02_oasis_rock_ring_02": {
+  "category": "v5_desert",
+  "tris": 1900,
+  "size": [
+   51.27,
+   53.13,
+   10.0
+  ],
+  "materials": [
+   "vh_f_foam",
+   "vh_f_palm2",
+   "vh_f_red",
+   "vh_f_reed",
+   "vh_f_sandd",
+   "vh_f_sandl",
+   "vh_f_stone",
+   "vh_f_water"
+  ]
+ },
+ "DS06_01_canyon_wall_01": {
+  "category": "v5_desert",
+  "tris": 4584,
+  "size": [
+   126.64,
+   40.0,
+   93.19
+  ],
+  "materials": [
+   "vh_clay",
+   "vh_cream",
+   "vh_red",
+   "vh_red2",
+   "vh_sand",
+   "vh_sand2",
+   "vh_sandl"
+  ]
+ },
+ "DS06_02_canyon_wall_02": {
+  "category": "v5_desert",
+  "tris": 2880,
+  "size": [
+   127.06,
+   40.0,
+   93.43
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_cream",
+   "vh_f_red",
+   "vh_f_red2",
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_sandl"
+  ]
+ },
+ "DS06_03_canyon_wall_03": {
+  "category": "v5_desert",
+  "tris": 2988,
+  "size": [
+   124.84,
+   40.0,
+   93.93
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_cream",
+   "vh_f_red",
+   "vh_f_red2",
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_sandl"
+  ]
+ },
+ "DS06_04_canyon_wall_04": {
+  "category": "v5_desert",
+  "tris": 4620,
+  "size": [
+   125.42,
+   40.0,
+   91.63
+  ],
+  "materials": [
+   "vh_clay",
+   "vh_cream",
+   "vh_red",
+   "vh_red2",
+   "vh_sand",
+   "vh_sand2",
+   "vh_sandl"
+  ]
+ },
+ "DS07_01_hoodoo_arch_01": {
+  "category": "v5_desert",
+  "tris": 1488,
+  "size": [
+   40.0,
+   30.0,
+   70.0
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_cream",
+   "vh_f_moss",
+   "vh_f_red",
+   "vh_f_red2",
+   "vh_f_sand",
+   "vh_f_sandd"
+  ]
+ },
+ "DS07_02_hoodoo_arch_02": {
+  "category": "v5_desert",
+  "tris": 1488,
+  "size": [
+   40.0,
+   30.0,
+   70.0
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_cream",
+   "vh_f_moss",
+   "vh_f_red",
+   "vh_f_red2",
+   "vh_f_sand",
+   "vh_f_sandd"
+  ]
+ },
+ "DS07_03_hoodoo_arch_03": {
+  "category": "v5_desert",
+  "tris": 1584,
+  "size": [
+   40.0,
+   30.0,
+   70.0
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_cream",
+   "vh_f_moss",
+   "vh_f_red",
+   "vh_f_red2",
+   "vh_f_sand",
+   "vh_f_sandd"
+  ]
+ },
+ "DS07_04_hoodoo_arch_04": {
+  "category": "v5_desert",
+  "tris": 1596,
+  "size": [
+   40.0,
+   30.0,
+   70.0
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_cream",
+   "vh_f_moss",
+   "vh_f_red",
+   "vh_f_red2",
+   "vh_f_sand",
+   "vh_f_sandd"
+  ]
+ },
+ "DS08_01_underground_entrance_01": {
+  "category": "v5_desert",
+  "tris": 864,
+  "size": [
+   30.0,
+   30.6,
+   23.86
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_dark",
+   "vh_f_red",
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_sandl",
+   "vh_f_shadow",
+   "vh_f_stone",
+   "vh_f_wood"
+  ]
+ },
+ "DS08_02_underground_entrance_02": {
+  "category": "v5_desert",
+  "tris": 884,
+  "size": [
+   30.0,
+   30.6,
+   24.0
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_cream",
+   "vh_f_dark",
+   "vh_f_red",
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_sandl",
+   "vh_f_shadow",
+   "vh_f_stone"
+  ]
+ },
+ "DS08_03_underground_entrance_03": {
+  "category": "v5_desert",
+  "tris": 872,
+  "size": [
+   30.0,
+   30.6,
+   23.83
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_dark",
+   "vh_f_red",
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_sandl",
+   "vh_f_shadow",
+   "vh_f_stone"
+  ]
+ },
+ "SD01_01_red_mesa_cluster_01": {
+  "category": "v5_desert",
+  "tris": 1284,
+  "size": [
+   120.0,
+   100.0,
+   92.18
+  ],
+  "materials": [
+   "vh_clay",
+   "vh_cream",
+   "vh_red",
+   "vh_red2",
+   "vh_sand",
+   "vh_sand2",
+   "vh_sandl"
+  ]
+ },
+ "SD01_02_red_mesa_cluster_02": {
+  "category": "v5_desert",
+  "tris": 1500,
+  "size": [
+   120.0,
+   100.0,
+   92.39
+  ],
+  "materials": [
+   "vh_clay",
+   "vh_cream",
+   "vh_red",
+   "vh_red2",
+   "vh_sand",
+   "vh_sand2",
+   "vh_sandl"
+  ]
+ },
+ "SD01_03_red_mesa_cluster_03": {
+  "category": "v5_desert",
+  "tris": 1836,
+  "size": [
+   115.35,
+   101.65,
+   95.39
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_cream",
+   "vh_f_red",
+   "vh_f_red2",
+   "vh_f_sand",
+   "vh_f_sandd"
+  ]
+ },
+ "SD01_04_red_mesa_cluster_04": {
+  "category": "v5_desert",
+  "tris": 1956,
+  "size": [
+   113.69,
+   100.52,
+   93.22
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_cream",
+   "vh_f_red",
+   "vh_f_red2",
+   "vh_f_sand",
+   "vh_f_sandd"
+  ]
+ },
+ "SD01_05_red_mesa_cluster_05": {
+  "category": "v5_desert",
+  "tris": 1956,
+  "size": [
+   117.65,
+   100.04,
+   93.03
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_cream",
+   "vh_f_red",
+   "vh_f_red2",
+   "vh_f_sand",
+   "vh_f_sandd"
+  ]
+ },
+ "SD01_06_red_mesa_cluster_06": {
+  "category": "v5_desert",
+  "tris": 1956,
+  "size": [
+   117.88,
+   99.34,
+   88.96
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_cream",
+   "vh_f_red",
+   "vh_f_red2",
+   "vh_f_sand",
+   "vh_f_sandd"
+  ]
+ },
+ "SD02_01_desert_ruin_block_01": {
+  "category": "v5_desert",
+  "tris": 2364,
+  "size": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_sandl",
+   "vh_f_shadow",
+   "vh_f_stone",
+   "vh_sand",
+   "vh_sand2",
+   "vh_sandl"
+  ]
+ },
+ "SD02_02_desert_ruin_block_02": {
+  "category": "v5_desert",
+  "tris": 2392,
+  "size": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_sandl",
+   "vh_f_shadow",
+   "vh_f_stone",
+   "vh_sand",
+   "vh_sand2",
+   "vh_sandl"
+  ]
+ },
+ "SD02_03_desert_ruin_block_03": {
+  "category": "v5_desert",
+  "tris": 1968,
+  "size": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "materials": [
+   "vh_sand",
+   "vh_sand2",
+   "vh_sandl",
+   "vh_shadow",
+   "vh_stone"
+  ]
+ },
+ "SD02_04_desert_ruin_block_04": {
+  "category": "v5_desert",
+  "tris": 2400,
+  "size": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_sandl",
+   "vh_f_shadow",
+   "vh_f_stone",
+   "vh_sand",
+   "vh_sand2",
+   "vh_sandl"
+  ]
+ },
+ "SD02_05_desert_ruin_block_05": {
+  "category": "v5_desert",
+  "tris": 2296,
+  "size": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_sandl",
+   "vh_f_shadow",
+   "vh_f_stone",
+   "vh_sand",
+   "vh_sand2",
+   "vh_sandl"
+  ]
+ },
+ "SD02_06_desert_ruin_block_06": {
+  "category": "v5_desert",
+  "tris": 2676,
+  "size": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_sandl",
+   "vh_f_shadow",
+   "vh_f_stone",
+   "vh_sand",
+   "vh_sand2",
+   "vh_sandl"
+  ]
+ },
+ "LM10_01_temple_colonnade_buried_01": {
+  "category": "v5_landmarks",
+  "tris": 4960,
+  "size": [
+   60.0,
+   20.0,
+   40.0
+  ],
+  "materials": [
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_sandl",
+   "vh_f_stone",
+   "vh_sand",
+   "vh_sand2",
+   "vh_sandl"
+  ]
+ },
+ "LM10_02_temple_colonnade_buried_02": {
+  "category": "v5_landmarks",
+  "tris": 4960,
+  "size": [
+   62.35,
+   20.0,
+   40.0
+  ],
+  "materials": [
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_sandl",
+   "vh_f_stone",
+   "vh_sand",
+   "vh_sand2",
+   "vh_sandl"
+  ]
+ },
+ "LM10_03_temple_colonnade_buried_03": {
+  "category": "v5_landmarks",
+  "tris": 3664,
+  "size": [
+   60.0,
+   20.0,
+   40.0
+  ],
+  "materials": [
+   "vh_sand",
+   "vh_sand2",
+   "vh_sandl",
+   "vh_stone"
+  ]
+ },
+ "LM11_01_temple_gate_buried": {
+  "category": "v5_landmarks",
+  "tris": 926,
+  "size": [
+   40.0,
+   20.0,
+   50.66
+  ],
+  "materials": [
+   "vh_red",
+   "vh_sand",
+   "vh_sand2",
+   "vh_sandl"
+  ]
+ },
+ "LM12_01_temple_stair_down_01": {
+  "category": "v5_landmarks",
+  "tris": 2320,
+  "size": [
+   31.0,
+   40.29,
+   24.0
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_cream",
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_sandl",
+   "vh_f_stone"
+  ]
+ },
+ "LM12_02_temple_stair_down_02": {
+  "category": "v5_landmarks",
+  "tris": 2440,
+  "size": [
+   31.0,
+   40.29,
+   24.0
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_cream",
+   "vh_f_red",
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_sandl",
+   "vh_f_stone"
+  ]
+ },
+ "LM13_01_guardian_statue_01": {
+  "category": "v5_landmarks",
+  "tris": 1278,
+  "size": [
+   19.2,
+   20.0,
+   70.0
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_sandl",
+   "vh_f_shadow",
+   "vh_f_stone",
+   "vh_f_wood"
+  ]
+ },
+ "LM13_02_guardian_statue_02": {
+  "category": "v5_landmarks",
+  "tris": 924,
+  "size": [
+   20.0,
+   20.0,
+   70.0
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_red",
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_sandl",
+   "vh_f_shadow",
+   "vh_f_stone"
+  ]
+ },
+ "LM14_01_sand_obelisk_01": {
+  "category": "v5_landmarks",
+  "tris": 368,
+  "size": [
+   9.58,
+   9.53,
+   60.0
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_red",
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_sandl",
+   "vh_f_stone"
+  ]
+ },
+ "LM14_02_sand_obelisk_02": {
+  "category": "v5_landmarks",
+  "tris": 400,
+  "size": [
+   10.0,
+   10.0,
+   57.6
+  ],
+  "materials": [
+   "vh_f_clay",
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_sandl",
+   "vh_f_stone"
+  ]
+ },
+ "LM14_03_sand_obelisk_03": {
+  "category": "v5_landmarks",
+  "tris": 368,
+  "size": [
+   10.02,
+   9.5,
+   60.0
+  ],
+  "materials": [
+   "vh_f_red",
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_stone"
+  ]
+ },
+ "LM16_01_ring_temple_segment_01": {
+  "category": "v5_landmarks",
+  "tris": 5220,
+  "size": [
+   50.0,
+   25.0,
+   38.0
+  ],
+  "materials": [
+   "vh_f_red",
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_sandl",
+   "vh_f_shadow",
+   "vh_f_stone"
+  ]
+ },
+ "LM16_02_ring_temple_segment_02": {
+  "category": "v5_landmarks",
+  "tris": 4656,
+  "size": [
+   50.0,
+   25.0,
+   40.0
+  ],
+  "materials": [
+   "vh_f_red",
+   "vh_f_sand",
+   "vh_f_sandd",
+   "vh_f_sandl",
+   "vh_f_shadow",
+   "vh_f_stone"
+  ]
+ },
+ "LM17_01_ring_inner_sanctum": {
+  "category": "v5_landmarks",
+  "tris": 3948,
+  "size": [
+   60.0,
+   60.0,
+   57.0
+  ],
+  "materials": [
+   "vh_red",
+   "vh_sand",
+   "vh_sand2",
+   "vh_sandl",
+   "vh_shadow",
+   "vh_stone"
+  ]
+ },
+ "VC01_01_volcanic_rock_01": {
+  "category": "v5_skull",
+  "tris": 2212,
+  "size": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "materials": [
+   "vh_ash",
+   "vh_basalt",
+   "vh_basalt2",
+   "vh_rust"
+  ]
+ },
+ "VC01_02_volcanic_rock_02": {
+  "category": "v5_skull",
+  "tris": 2312,
+  "size": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "materials": [
+   "vh_ash",
+   "vh_basalt",
+   "vh_basalt2",
+   "vh_rust"
+  ]
+ },
+ "VC01_03_volcanic_rock_03": {
+  "category": "v5_skull",
+  "tris": 1412,
+  "size": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "materials": [
+   "vh_f_ash",
+   "vh_f_basalt",
+   "vh_f_basalt2"
+  ]
+ },
+ "VC01_04_volcanic_rock_04": {
+  "category": "v5_skull",
+  "tris": 1640,
+  "size": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "materials": [
+   "vh_f_ash",
+   "vh_f_basalt",
+   "vh_f_basalt2",
+   "vh_f_rust"
+  ]
+ },
+ "VC01_05_volcanic_rock_05": {
+  "category": "v5_skull",
+  "tris": 2212,
+  "size": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "materials": [
+   "vh_ash",
+   "vh_basalt",
+   "vh_basalt2",
+   "vh_rust"
+  ]
+ },
+ "VC01_06_volcanic_rock_06": {
+  "category": "v5_skull",
+  "tris": 1784,
+  "size": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "materials": [
+   "vh_f_ash",
+   "vh_f_basalt",
+   "vh_f_basalt2",
+   "vh_f_rust"
+  ]
+ },
+ "VC01_07_volcanic_rock_07": {
+  "category": "v5_skull",
+  "tris": 1856,
+  "size": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "materials": [
+   "vh_f_ash",
+   "vh_f_basalt",
+   "vh_f_basalt2",
+   "vh_f_rust"
+  ]
+ },
+ "VC01_08_volcanic_rock_08": {
+  "category": "v5_skull",
+  "tris": 1928,
+  "size": [
+   60.0,
+   50.0,
+   60.0
+  ],
+  "materials": [
+   "vh_f_ash",
+   "vh_f_basalt",
+   "vh_f_basalt2",
+   "vh_f_rust"
+  ]
+ },
+ "VC03_01_dark_fort_ruin_01": {
+  "category": "v5_skull",
+  "tris": 6736,
+  "size": [
+   60.0,
+   50.0,
+   50.0
+  ],
+  "materials": [
+   "vh_ash",
+   "vh_basalt",
+   "vh_basalt2",
+   "vh_f_ash",
+   "vh_f_basalt2",
+   "vh_f_rust",
+   "vh_rust",
+   "vh_shadow"
+  ]
+ },
+ "VC03_02_dark_fort_ruin_02": {
+  "category": "v5_skull",
+  "tris": 6844,
+  "size": [
+   60.0,
+   50.0,
+   50.0
+  ],
+  "materials": [
+   "vh_ash",
+   "vh_basalt",
+   "vh_basalt2",
+   "vh_rust",
+   "vh_shadow"
+  ]
+ },
+ "VC03_03_dark_fort_ruin_03": {
+  "category": "v5_skull",
+  "tris": 6736,
+  "size": [
+   60.0,
+   50.0,
+   51.87
+  ],
+  "materials": [
+   "vh_ash",
+   "vh_basalt",
+   "vh_basalt2",
+   "vh_f_ash",
+   "vh_f_basalt2",
+   "vh_f_rust",
+   "vh_rust",
+   "vh_shadow"
+  ]
+ },
+ "VC04_01_skull_city_building_01": {
+  "category": "v5_skull",
+  "tris": 1256,
+  "size": [
+   30.0,
+   30.0,
+   30.0
+  ],
+  "materials": [
+   "vh_f_dband",
+   "vh_f_dstone",
+   "vh_f_dstone2",
+   "vh_f_shadow",
+   "vh_f_slate",
+   "vh_f_tile",
+   "vh_f_tile2"
+  ]
+ },
+ "VC04_02_skull_city_building_02": {
+  "category": "v5_skull",
+  "tris": 1188,
+  "size": [
+   30.0,
+   30.0,
+   30.0
+  ],
+  "materials": [
+   "vh_f_dband",
+   "vh_f_dstone",
+   "vh_f_dstone2",
+   "vh_f_shadow",
+   "vh_f_slate",
+   "vh_f_tile2"
+  ]
+ },
+ "VC04_03_skull_city_building_03": {
+  "category": "v5_skull",
+  "tris": 2558,
+  "size": [
+   30.0,
+   30.0,
+   29.15
+  ],
+  "materials": [
+   "vh_f_ash",
+   "vh_f_dband",
+   "vh_f_dstone2",
+   "vh_f_shadow",
+   "vh_f_slate",
+   "vh_f_tile"
+  ]
+ },
+ "VC04_04_skull_city_building_04": {
+  "category": "v5_skull",
+  "tris": 1184,
+  "size": [
+   30.0,
+   30.0,
+   30.0
+  ],
+  "materials": [
+   "vh_f_ash",
+   "vh_f_dband",
+   "vh_f_dstone",
+   "vh_f_shadow",
+   "vh_f_slate",
+   "vh_f_tile2"
+  ]
+ },
+ "VC04_05_skull_city_building_05": {
+  "category": "v5_skull",
+  "tris": 1256,
+  "size": [
+   30.0,
+   30.0,
+   30.0
+  ],
+  "materials": [
+   "vh_f_dband",
+   "vh_f_dstone",
+   "vh_f_dstone2",
+   "vh_f_shadow",
+   "vh_f_slate",
+   "vh_f_tile",
+   "vh_f_tile2"
+  ]
+ },
+ "VC04_06_skull_city_building_06": {
+  "category": "v5_skull",
+  "tris": 1294,
+  "size": [
+   30.5,
+   30.0,
+   30.1
+  ],
+  "materials": [
+   "vh_f_dband",
+   "vh_f_dstone",
+   "vh_f_dstone2",
+   "vh_f_shadow",
+   "vh_f_slate",
+   "vh_f_tile2"
+  ]
+ }
+}

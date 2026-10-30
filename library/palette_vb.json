@@ -1,0 +1,344 @@
+{
+ "vb_granite": {
+  "rgb": [
+   176,
+   172,
+   180
+  ],
+  "material": "Granite",
+  "glow": false
+ },
+ "vb_limestone": {
+  "rgb": [
+   226,
+   214,
+   190
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "vb_white": {
+  "rgb": [
+   238,
+   234,
+   226
+  ],
+  "material": "Concrete",
+  "glow": false
+ },
+ "vb_ochre": {
+  "rgb": [
+   196,
+   150,
+   76
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "vb_timber": {
+  "rgb": [
+   112,
+   60,
+   48
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "vb_indigo": {
+  "rgb": [
+   52,
+   60,
+   96
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "vb_copper": {
+  "rgb": [
+   92,
+   150,
+   128
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "vb_brass": {
+  "rgb": [
+   200,
+   164,
+   84
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "vb_parchment": {
+  "rgb": [
+   226,
+   208,
+   170
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vb_glass": {
+  "rgb": [
+   176,
+   212,
+   226
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "vb_wax": {
+  "rgb": [
+   236,
+   226,
+   200
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "vb_ring": {
+  "rgb": [
+   184,
+   148,
+   70
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "vb_bk_red": {
+  "rgb": [
+   128,
+   54,
+   52
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vb_bk_navy": {
+  "rgb": [
+   58,
+   72,
+   112
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vb_bk_green": {
+  "rgb": [
+   62,
+   98,
+   78
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vb_bk_brown": {
+  "rgb": [
+   120,
+   88,
+   58
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vb_bk_slate": {
+  "rgb": [
+   96,
+   98,
+   110
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vb_map0": {
+  "rgb": [
+   56,
+   71,
+   50
+  ],
+  "material": "Concrete",
+  "glow": false
+ },
+ "vb_map1": {
+  "rgb": [
+   24,
+   95,
+   158
+  ],
+  "material": "Concrete",
+  "glow": false
+ },
+ "vb_map2": {
+  "rgb": [
+   84,
+   117,
+   70
+  ],
+  "material": "Concrete",
+  "glow": false
+ },
+ "vb_map3": {
+  "rgb": [
+   47,
+   146,
+   187
+  ],
+  "material": "Concrete",
+  "glow": false
+ },
+ "vb_map4": {
+  "rgb": [
+   133,
+   161,
+   81
+  ],
+  "material": "Concrete",
+  "glow": false
+ },
+ "vb_map5": {
+  "rgb": [
+   142,
+   151,
+   138
+  ],
+  "material": "Concrete",
+  "glow": false
+ },
+ "vb_map6": {
+  "rgb": [
+   189,
+   194,
+   103
+  ],
+  "material": "Concrete",
+  "glow": false
+ },
+ "vb_map7": {
+  "rgb": [
+   218,
+   226,
+   212
+  ],
+  "material": "Concrete",
+  "glow": false
+ },
+ "vb_f_quilt": {
+  "rgb": [
+   72,
+   92,
+   150
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vb_f_quilt_d": {
+  "rgb": [
+   54,
+   70,
+   120
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vb_f_sheet": {
+  "rgb": [
+   230,
+   224,
+   206
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vb_f_pillow": {
+  "rgb": [
+   236,
+   230,
+   214
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vb_f_drape": {
+  "rgb": [
+   96,
+   60,
+   120
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vb_f_drape_d": {
+  "rgb": [
+   74,
+   46,
+   94
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vb_f_rug": {
+  "rgb": [
+   150,
+   70,
+   64
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vb_f_rug_trim": {
+  "rgb": [
+   198,
+   170,
+   110
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vb_f_wood": {
+  "rgb": [
+   96,
+   62,
+   44
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "vb_f_plank_a": {
+  "rgb": [
+   118,
+   80,
+   54
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "vb_f_plank_b": {
+  "rgb": [
+   98,
+   66,
+   44
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "vb_f_frame": {
+  "rgb": [
+   80,
+   52,
+   36
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "vb_f_peg": {
+  "rgb": [
+   150,
+   120,
+   70
+  ],
+  "material": "Metal",
+  "glow": false
+ }
+}

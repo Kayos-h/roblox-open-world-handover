@@ -1,0 +1,182 @@
+{
+ "wx2_rock_dk": {
+  "rgb": [
+   74,
+   78,
+   86
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "wx2_rock": {
+  "rgb": [
+   110,
+   114,
+   122
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "wx2_rock_lt": {
+  "rgb": [
+   150,
+   154,
+   162
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "wx2_snow": {
+  "rgb": [
+   240,
+   244,
+   250
+  ],
+  "material": "Snow",
+  "glow": false
+ },
+ "wx2_snow_sh": {
+  "rgb": [
+   206,
+   216,
+   230
+  ],
+  "material": "Snow",
+  "glow": false
+ },
+ "wx2_ice": {
+  "rgb": [
+   196,
+   220,
+   236
+  ],
+  "material": "Ice",
+  "glow": false
+ },
+ "wx2_tan_dk": {
+  "rgb": [
+   104,
+   94,
+   78
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "wx2_tan": {
+  "rgb": [
+   146,
+   134,
+   112
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "wx2_tan_lt": {
+  "rgb": [
+   182,
+   170,
+   146
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "wx2_kelp": {
+  "rgb": [
+   60,
+   66,
+   50
+  ],
+  "material": "Grass",
+  "glow": false
+ },
+ "wx2_moss": {
+  "rgb": [
+   92,
+   116,
+   58
+  ],
+  "material": "Grass",
+  "glow": false
+ },
+ "wx2_isle_dk": {
+  "rgb": [
+   96,
+   90,
+   80
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "wx2_isle": {
+  "rgb": [
+   134,
+   126,
+   112
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "wx2_isle_lt": {
+  "rgb": [
+   168,
+   160,
+   144
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "wx2_grass": {
+  "rgb": [
+   96,
+   134,
+   62
+  ],
+  "material": "Grass",
+  "glow": false
+ },
+ "wx2_grass_dk": {
+  "rgb": [
+   74,
+   110,
+   50
+  ],
+  "material": "Grass",
+  "glow": false
+ },
+ "wx2_dirt": {
+  "rgb": [
+   110,
+   88,
+   62
+  ],
+  "material": "Ground",
+  "glow": false
+ },
+ "wx2_trunk": {
+  "rgb": [
+   96,
+   70,
+   46
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "wx2_pine": {
+  "rgb": [
+   46,
+   92,
+   58
+  ],
+  "material": "LeafyGrass",
+  "glow": false
+ },
+ "wx2_pine_dk": {
+  "rgb": [
+   34,
+   72,
+   48
+  ],
+  "material": "LeafyGrass",
+  "glow": false
+ }
+}

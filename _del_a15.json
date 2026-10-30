@@ -1,0 +1,1 @@
+{"code":"local m = workspace:FindFirstChild('_TEST_A15_lamp')\nif m then m:Destroy() return 'deleted test lamp' end\nreturn 'test lamp not found'"}

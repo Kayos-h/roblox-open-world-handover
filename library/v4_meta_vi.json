@@ -1,0 +1,1748 @@
+{
+ "PL01_01_farmhouse_01": {
+  "category": "v5_plains",
+  "tris": 4186,
+  "size": [
+   29.5,
+   23.3,
+   21.27
+  ],
+  "materials": [
+   "vi_barn",
+   "vi_cap",
+   "vi_cone",
+   "vi_door",
+   "vi_glass",
+   "vi_ivy",
+   "vi_plank",
+   "vi_roof2",
+   "vi_shutter",
+   "vi_stone",
+   "vi_timber",
+   "vi_trim",
+   "vi_wall"
+  ]
+ },
+ "PL01_02_farmhouse_02": {
+  "category": "v5_plains",
+  "tris": 2906,
+  "size": [
+   28.5,
+   23.15,
+   22.0
+  ],
+  "materials": [
+   "vi_cap",
+   "vi_cone",
+   "vi_door",
+   "vi_glass",
+   "vi_ivy",
+   "vi_plank",
+   "vi_roof2",
+   "vi_shutter",
+   "vi_stone",
+   "vi_timber",
+   "vi_trim",
+   "vi_wall"
+  ]
+ },
+ "PL01_03_farmhouse_03": {
+  "category": "v5_plains",
+  "tris": 4390,
+  "size": [
+   26.39,
+   22.86,
+   21.85
+  ],
+  "materials": [
+   "vi_cap",
+   "vi_cone",
+   "vi_door",
+   "vi_glass",
+   "vi_ivy",
+   "vi_shutter",
+   "vi_stone",
+   "vi_timber",
+   "vi_trim",
+   "vi_wall"
+  ]
+ },
+ "PL01_04_farmhouse_04": {
+  "category": "v5_plains",
+  "tris": 6620,
+  "size": [
+   28.0,
+   22.45,
+   22.48
+  ],
+  "materials": [
+   "vi_cap",
+   "vi_cone",
+   "vi_door",
+   "vi_glass",
+   "vi_ivy",
+   "vi_roof",
+   "vi_shutter",
+   "vi_stone",
+   "vi_timber",
+   "vi_trim",
+   "vi_wall"
+  ]
+ },
+ "PL02_01_hay_silo_01": {
+  "category": "v5_plains",
+  "tris": 1200,
+  "size": [
+   14.0,
+   14.0,
+   24.0
+  ],
+  "materials": [
+   "vi_fa_straw3",
+   "vi_fa_straw4",
+   "vi_iron",
+   "vi_rope",
+   "vi_timber"
+  ]
+ },
+ "PL02_02_hay_silo_02": {
+  "category": "v5_plains",
+  "tris": 288,
+  "size": [
+   14.0,
+   14.0,
+   24.0
+  ],
+  "materials": [
+   "vi_hay",
+   "vi_iron",
+   "vi_timber"
+  ]
+ },
+ "PL02_03_hay_silo_03": {
+  "category": "v5_plains",
+  "tris": 974,
+  "size": [
+   14.0,
+   14.0,
+   23.2
+  ],
+  "materials": [
+   "vi_copper",
+   "vi_door",
+   "vi_iron",
+   "vi_plaster",
+   "vi_stone"
+  ]
+ },
+ "PL03_01_farm_cart_01": {
+  "category": "v5_plains",
+  "tris": 632,
+  "size": [
+   13.57,
+   8.0,
+   8.0
+  ],
+  "materials": [
+   "vi_hay",
+   "vi_iron",
+   "vi_plank",
+   "vi_timber"
+  ]
+ },
+ "PL03_02_farm_cart_02": {
+  "category": "v5_plains",
+  "tris": 820,
+  "size": [
+   13.84,
+   8.0,
+   8.0
+  ],
+  "materials": [
+   "vi_iron",
+   "vi_plank",
+   "vi_sign",
+   "vi_timber"
+  ]
+ },
+ "PL04_01_mill_waterwheel": {
+  "category": "v5_plains",
+  "tris": 5700,
+  "size": [
+   35.3,
+   30.0,
+   30.0
+  ],
+  "materials": [
+   "vi_cap",
+   "vi_cone",
+   "vi_door",
+   "vi_foam",
+   "vi_glass",
+   "vi_iron",
+   "vi_plank",
+   "vi_shutter",
+   "vi_stone",
+   "vi_timber",
+   "vi_trim",
+   "vi_wall",
+   "vi_water"
+  ]
+ },
+ "PL05_01_ruined_watchtower_plains_01": {
+  "category": "v5_plains",
+  "tris": 2456,
+  "size": [
+   20.0,
+   20.0,
+   40.0
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_s_base",
+   "vi_fa_s_dk",
+   "vi_fa_s_mid",
+   "vi_fa_s_warm",
+   "vi_fa_void"
+  ]
+ },
+ "PL05_02_ruined_watchtower_plains_02": {
+  "category": "v5_plains",
+  "tris": 2720,
+  "size": [
+   20.0,
+   20.0,
+   40.0
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_s_base",
+   "vi_fa_s_dk",
+   "vi_fa_s_mid",
+   "vi_fa_s_warm",
+   "vi_fa_void"
+  ]
+ },
+ "PL05_03_ruined_watchtower_plains_03": {
+  "category": "v5_plains",
+  "tris": 2390,
+  "size": [
+   20.0,
+   21.83,
+   40.0
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_r_base",
+   "vi_fa_r_warm",
+   "vi_fa_s_base",
+   "vi_fa_s_dk",
+   "vi_fa_s_mid",
+   "vi_fa_s_warm",
+   "vi_fa_void"
+  ]
+ },
+ "PL06_01_rock_arch_natural_01": {
+  "category": "v5_plains",
+  "tris": 504,
+  "size": [
+   62.14,
+   22.35,
+   40.0
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_r_base",
+   "vi_fa_r_dk",
+   "vi_fa_r_hi",
+   "vi_fa_r_low",
+   "vi_fa_r_rust",
+   "vi_fa_r_warm"
+  ]
+ },
+ "PL06_02_rock_arch_natural_02": {
+  "category": "v5_plains",
+  "tris": 504,
+  "size": [
+   62.6,
+   24.0,
+   40.0
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_r_base",
+   "vi_fa_r_dk",
+   "vi_fa_r_hi",
+   "vi_fa_r_low",
+   "vi_fa_r_rust",
+   "vi_fa_r_warm"
+  ]
+ },
+ "VL01_01_village_church_spire": {
+  "category": "v5_plains",
+  "tris": 1634,
+  "size": [
+   30.0,
+   40.0,
+   70.5
+  ],
+  "materials": [
+   "vi_cone",
+   "vi_dark",
+   "vi_door",
+   "vi_glass",
+   "vi_gold",
+   "vi_stone",
+   "vi_trim",
+   "vi_wall"
+  ]
+ },
+ "LM19_01_crater_rim_rock_01": {
+  "category": "v5_landmarks",
+  "tris": 1308,
+  "size": [
+   60.0,
+   50.0,
+   40.0
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_r_base",
+   "vi_fa_r_dk",
+   "vi_fa_r_hi",
+   "vi_fa_r_low",
+   "vi_fa_r_mid",
+   "vi_fa_r_rust",
+   "vi_fa_r_warm"
+  ]
+ },
+ "LM19_02_crater_rim_rock_02": {
+  "category": "v5_landmarks",
+  "tris": 1320,
+  "size": [
+   60.0,
+   50.0,
+   40.0
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_r_base",
+   "vi_fa_r_dk",
+   "vi_fa_r_hi",
+   "vi_fa_r_low",
+   "vi_fa_r_mid",
+   "vi_fa_r_rust",
+   "vi_fa_r_warm"
+  ]
+ },
+ "LM19_03_crater_rim_rock_03": {
+  "category": "v5_landmarks",
+  "tris": 1308,
+  "size": [
+   60.0,
+   50.0,
+   40.0
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_r_base",
+   "vi_fa_r_dk",
+   "vi_fa_r_hi",
+   "vi_fa_r_low",
+   "vi_fa_r_mid",
+   "vi_fa_r_rust",
+   "vi_fa_r_warm"
+  ]
+ },
+ "LM19_04_crater_rim_rock_04": {
+  "category": "v5_landmarks",
+  "tris": 1320,
+  "size": [
+   60.0,
+   50.0,
+   40.0
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_r_base",
+   "vi_fa_r_hi",
+   "vi_fa_r_low",
+   "vi_fa_r_mid",
+   "vi_fa_r_rust",
+   "vi_fa_r_warm"
+  ]
+ },
+ "LM19_05_crater_rim_rock_05": {
+  "category": "v5_landmarks",
+  "tris": 1308,
+  "size": [
+   60.0,
+   50.0,
+   40.0
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_r_base",
+   "vi_fa_r_hi",
+   "vi_fa_r_low",
+   "vi_fa_r_mid",
+   "vi_fa_r_rust",
+   "vi_fa_r_warm"
+  ]
+ },
+ "LM20_01_crater_arcane_ruin_01": {
+  "category": "v5_landmarks",
+  "tris": 952,
+  "size": [
+   38.0,
+   38.0,
+   43.17
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_s_base",
+   "vi_fa_s_cool",
+   "vi_fa_s_dk",
+   "vi_fa_s_hi",
+   "vi_fa_s_mid",
+   "vi_fa_s_warm",
+   "vi_rune"
+  ]
+ },
+ "LM20_02_crater_arcane_ruin_02": {
+  "category": "v5_landmarks",
+  "tris": 1312,
+  "size": [
+   38.8,
+   38.8,
+   38.04
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_s_base",
+   "vi_fa_s_cool",
+   "vi_fa_s_dk",
+   "vi_fa_s_hi",
+   "vi_fa_s_mid",
+   "vi_fa_s_warm",
+   "vi_rune"
+  ]
+ },
+ "LM20_03_crater_arcane_ruin_03": {
+  "category": "v5_landmarks",
+  "tris": 764,
+  "size": [
+   38.0,
+   38.0,
+   40.0
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_s_base",
+   "vi_fa_s_cool",
+   "vi_fa_s_dk",
+   "vi_fa_s_hi",
+   "vi_fa_s_mid",
+   "vi_fa_s_warm",
+   "vi_rune"
+  ]
+ },
+ "LM21_01_floating_rock_01": {
+  "category": "v5_landmarks",
+  "tris": 330,
+  "size": [
+   41.17,
+   42.65,
+   30.0
+  ],
+  "materials": [
+   "vi_basalt",
+   "vi_grass",
+   "vi_ivy",
+   "vi_rock",
+   "vi_rock2",
+   "vi_stone2"
+  ]
+ },
+ "LM21_02_floating_rock_02": {
+  "category": "v5_landmarks",
+  "tris": 276,
+  "size": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "materials": [
+   "vi_fa_dirt",
+   "vi_fa_grass",
+   "vi_fa_moss",
+   "vi_fa_r_cool",
+   "vi_fa_r_dk",
+   "vi_fa_r_hi",
+   "vi_fa_r_low",
+   "vi_fa_r_mid"
+  ]
+ },
+ "LM21_03_floating_rock_03": {
+  "category": "v5_landmarks",
+  "tris": 330,
+  "size": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "materials": [
+   "vi_basalt",
+   "vi_grass",
+   "vi_ivy",
+   "vi_rock",
+   "vi_rock2",
+   "vi_stone2"
+  ]
+ },
+ "LM21_04_floating_rock_04": {
+  "category": "v5_landmarks",
+  "tris": 348,
+  "size": [
+   40.0,
+   40.0,
+   30.0
+  ],
+  "materials": [
+   "vi_fa_dirt",
+   "vi_fa_grass",
+   "vi_fa_moss",
+   "vi_fa_r_dk",
+   "vi_fa_r_hi",
+   "vi_fa_r_low",
+   "vi_fa_r_rust",
+   "vi_fa_r_warm"
+  ]
+ },
+ "LM26_01_ruin_arena_segment_01": {
+  "category": "v5_landmarks",
+  "tris": 2460,
+  "size": [
+   60.0,
+   30.0,
+   33.19
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_s_base",
+   "vi_fa_s_cool",
+   "vi_fa_s_dk",
+   "vi_fa_s_hi",
+   "vi_fa_s_mid",
+   "vi_fa_s_warm",
+   "vi_fa_void"
+  ]
+ },
+ "LM26_02_ruin_arena_segment_02": {
+  "category": "v5_landmarks",
+  "tris": 2044,
+  "size": [
+   60.0,
+   30.0,
+   33.4
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_s_base",
+   "vi_fa_s_cool",
+   "vi_fa_s_dk",
+   "vi_fa_s_hi",
+   "vi_fa_s_mid",
+   "vi_fa_s_warm",
+   "vi_fa_void"
+  ]
+ },
+ "LM26_03_ruin_arena_segment_03": {
+  "category": "v5_landmarks",
+  "tris": 3520,
+  "size": [
+   60.0,
+   30.0,
+   33.29
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_s_base",
+   "vi_fa_s_cool",
+   "vi_fa_s_dk",
+   "vi_fa_s_hi",
+   "vi_fa_s_mid",
+   "vi_fa_s_warm",
+   "vi_fa_void"
+  ]
+ },
+ "LM27_01_ruin_aqueduct_arch_01": {
+  "category": "v5_landmarks",
+  "tris": 1700,
+  "size": [
+   40.0,
+   12.0,
+   50.0
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_s_base",
+   "vi_fa_s_cool",
+   "vi_fa_s_dk",
+   "vi_fa_s_warm",
+   "vi_fa_void",
+   "vi_fa_water"
+  ]
+ },
+ "LM27_02_ruin_aqueduct_arch_02": {
+  "category": "v5_landmarks",
+  "tris": 1632,
+  "size": [
+   40.0,
+   12.0,
+   50.0
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_s_base",
+   "vi_fa_s_cool",
+   "vi_fa_s_dk",
+   "vi_fa_s_mid",
+   "vi_fa_s_warm",
+   "vi_fa_void"
+  ]
+ },
+ "LM28_01_ruin_column_set_01": {
+  "category": "v5_landmarks",
+  "tris": 956,
+  "size": [
+   24.0,
+   24.0,
+   38.55
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_s_base",
+   "vi_fa_s_cool",
+   "vi_fa_s_dk",
+   "vi_fa_s_hi",
+   "vi_fa_s_mid",
+   "vi_fa_s_warm"
+  ]
+ },
+ "LM28_02_ruin_column_set_02": {
+  "category": "v5_landmarks",
+  "tris": 1320,
+  "size": [
+   24.0,
+   24.0,
+   37.9
+  ],
+  "materials": [
+   "vi_fa_s_base",
+   "vi_fa_s_cool",
+   "vi_fa_s_dk",
+   "vi_fa_s_hi",
+   "vi_fa_s_mid",
+   "vi_fa_s_warm"
+  ]
+ },
+ "LM28_03_ruin_column_set_03": {
+  "category": "v5_landmarks",
+  "tris": 852,
+  "size": [
+   25.48,
+   24.0,
+   38.49
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_s_base",
+   "vi_fa_s_cool",
+   "vi_fa_s_dk",
+   "vi_fa_s_hi",
+   "vi_fa_s_mid",
+   "vi_fa_s_warm"
+  ]
+ },
+ "LM29_01_ruin_tower_stump_01": {
+  "category": "v5_landmarks",
+  "tris": 2456,
+  "size": [
+   23.86,
+   26.0,
+   36.0
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_s_base",
+   "vi_fa_s_dk",
+   "vi_fa_s_hi",
+   "vi_fa_s_mid",
+   "vi_fa_void"
+  ]
+ },
+ "LM29_02_ruin_tower_stump_02": {
+  "category": "v5_landmarks",
+  "tris": 2352,
+  "size": [
+   27.94,
+   26.0,
+   36.0
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_s_base",
+   "vi_fa_s_dk",
+   "vi_fa_s_warm",
+   "vi_fa_void"
+  ]
+ },
+ "LM31_01_ruined_castle_module_01": {
+  "category": "v5_landmarks",
+  "tris": 1152,
+  "size": [
+   36.9,
+   30.0,
+   41.16
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_s_base",
+   "vi_fa_s_cool",
+   "vi_fa_s_dk",
+   "vi_fa_s_hi",
+   "vi_fa_s_mid",
+   "vi_fa_s_warm",
+   "vi_fa_void"
+  ]
+ },
+ "LM31_02_ruined_castle_module_02": {
+  "category": "v5_landmarks",
+  "tris": 1208,
+  "size": [
+   36.9,
+   30.0,
+   42.57
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_s_base",
+   "vi_fa_s_cool",
+   "vi_fa_s_dk",
+   "vi_fa_s_hi",
+   "vi_fa_s_mid",
+   "vi_fa_s_warm",
+   "vi_fa_void"
+  ]
+ },
+ "LM31_03_ruined_castle_module_03": {
+  "category": "v5_landmarks",
+  "tris": 1076,
+  "size": [
+   39.32,
+   30.0,
+   40.12
+  ],
+  "materials": [
+   "vi_fa_moss",
+   "vi_fa_s_base",
+   "vi_fa_s_cool",
+   "vi_fa_s_dk",
+   "vi_fa_s_hi",
+   "vi_fa_s_mid",
+   "vi_fa_s_warm",
+   "vi_fa_void"
+  ]
+ },
+ "CO03_01_reef_01": {
+  "category": "v5_coast",
+  "tris": 2144,
+  "size": [
+   29.4,
+   28.0,
+   6.0
+  ],
+  "materials": [
+   "vi_fb_coral",
+   "vi_fb_coral2",
+   "vi_fb_foam",
+   "vi_fb_reef_hi",
+   "vi_fb_reef_lo",
+   "vi_fb_reef_mid"
+  ]
+ },
+ "CO03_02_reef_02": {
+  "category": "v5_coast",
+  "tris": 2162,
+  "size": [
+   29.4,
+   28.0,
+   6.0
+  ],
+  "materials": [
+   "vi_fb_coral",
+   "vi_fb_coral2",
+   "vi_fb_foam",
+   "vi_fb_kelp",
+   "vi_fb_reef_hi",
+   "vi_fb_reef_lo",
+   "vi_fb_reef_mid"
+  ]
+ },
+ "CO03_03_reef_03": {
+  "category": "v5_coast",
+  "tris": 2582,
+  "size": [
+   29.4,
+   28.38,
+   6.0
+  ],
+  "materials": [
+   "vi_fb_coral",
+   "vi_fb_coral2",
+   "vi_fb_foam",
+   "vi_fb_reef_hi",
+   "vi_fb_reef_lo",
+   "vi_fb_reef_mid"
+  ]
+ },
+ "CO03_04_reef_04": {
+  "category": "v5_coast",
+  "tris": 2144,
+  "size": [
+   29.4,
+   28.0,
+   6.0
+  ],
+  "materials": [
+   "vi_fb_coral",
+   "vi_fb_coral2",
+   "vi_fb_foam",
+   "vi_fb_reef_hi",
+   "vi_fb_reef_lo",
+   "vi_fb_reef_mid"
+  ]
+ },
+ "CO03_05_reef_05": {
+  "category": "v5_coast",
+  "tris": 2384,
+  "size": [
+   29.4,
+   28.0,
+   6.0
+  ],
+  "materials": [
+   "vi_fb_coral",
+   "vi_fb_coral2",
+   "vi_fb_foam",
+   "vi_fb_kelp",
+   "vi_fb_reef_hi",
+   "vi_fb_reef_lo",
+   "vi_fb_reef_mid"
+  ]
+ },
+ "CO03_06_reef_06": {
+  "category": "v5_coast",
+  "tris": 2582,
+  "size": [
+   29.4,
+   28.0,
+   6.0
+  ],
+  "materials": [
+   "vi_fb_coral",
+   "vi_fb_coral2",
+   "vi_fb_foam",
+   "vi_fb_reef_hi",
+   "vi_fb_reef_lo",
+   "vi_fb_reef_mid"
+  ]
+ },
+ "CO04_01_sea_arch_01": {
+  "category": "v5_coast",
+  "tris": 1992,
+  "size": [
+   70.0,
+   30.0,
+   60.0
+  ],
+  "materials": [
+   "vi_fb_moss",
+   "vi_fb_rock_dk",
+   "vi_fb_rock_hi",
+   "vi_fb_rock_lo",
+   "vi_fb_rock_mid",
+   "vi_fb_rock_warm"
+  ]
+ },
+ "CO04_02_sea_arch_02": {
+  "category": "v5_coast",
+  "tris": 1728,
+  "size": [
+   70.0,
+   27.99,
+   60.0
+  ],
+  "materials": [
+   "vi_fb_moss",
+   "vi_fb_rock_dk",
+   "vi_fb_rock_hi",
+   "vi_fb_rock_lo",
+   "vi_fb_rock_mid",
+   "vi_fb_rock_warm"
+  ]
+ },
+ "CO05_01_ruin_islet_01": {
+  "category": "v5_coast",
+  "tris": 11544,
+  "size": [
+   60.0,
+   60.0,
+   40.0
+  ],
+  "materials": [
+   "vi_dark",
+   "vi_fb_dirt",
+   "vi_fb_grass",
+   "vi_fb_grass2",
+   "vi_fb_rock_hi",
+   "vi_fb_rock_lo",
+   "vi_fb_rock_warm",
+   "vi_fb_timber_dk",
+   "vi_moss",
+   "vi_stone",
+   "vi_stone2"
+  ]
+ },
+ "CO05_02_ruin_islet_02": {
+  "category": "v5_coast",
+  "tris": 10528,
+  "size": [
+   60.0,
+   60.0,
+   40.0
+  ],
+  "materials": [
+   "vi_fb_dirt",
+   "vi_fb_grass",
+   "vi_fb_grass2",
+   "vi_fb_rock_hi",
+   "vi_fb_rock_lo",
+   "vi_fb_rock_warm",
+   "vi_fb_timber_dk",
+   "vi_fb_wall_stone",
+   "vi_stone",
+   "vi_stone2"
+  ]
+ },
+ "CO05_03_ruin_islet_03": {
+  "category": "v5_coast",
+  "tris": 10976,
+  "size": [
+   60.0,
+   60.0,
+   40.0
+  ],
+  "materials": [
+   "vi_dark",
+   "vi_fb_dirt",
+   "vi_fb_grass",
+   "vi_fb_grass2",
+   "vi_fb_rock_hi",
+   "vi_fb_rock_lo",
+   "vi_fb_rock_warm",
+   "vi_fb_timber_dk",
+   "vi_moss",
+   "vi_stone",
+   "vi_stone2"
+  ]
+ },
+ "HB01_01_harbour_wall_tower_01": {
+  "category": "v5_coast",
+  "tris": 2236,
+  "size": [
+   24.0,
+   24.0,
+   40.0
+  ],
+  "materials": [
+   "vi_cap",
+   "vi_dark",
+   "vi_door",
+   "vi_flag",
+   "vi_gold",
+   "vi_roof",
+   "vi_stone",
+   "vi_timber",
+   "vi_trim",
+   "vi_white"
+  ]
+ },
+ "HB01_02_harbour_wall_tower_02": {
+  "category": "v5_coast",
+  "tris": 470,
+  "size": [
+   24.0,
+   24.0,
+   43.0
+  ],
+  "materials": [
+   "vi_cone",
+   "vi_glass",
+   "vi_iron",
+   "vi_trim",
+   "vi_white"
+  ]
+ },
+ "HB01_03_harbour_wall_tower_03": {
+  "category": "v5_coast",
+  "tris": 1646,
+  "size": [
+   24.0,
+   24.0,
+   37.6
+  ],
+  "materials": [
+   "vi_fb_dark",
+   "vi_fb_door",
+   "vi_fb_rock_mid",
+   "vi_fb_trim",
+   "vi_fb_wall_stone"
+  ]
+ },
+ "RD01_01_watchtower_01": {
+  "category": "v5_roads",
+  "tris": 2920,
+  "size": [
+   20.0,
+   20.0,
+   50.0
+  ],
+  "materials": [
+   "vi_cap",
+   "vi_cone",
+   "vi_dark",
+   "vi_door",
+   "vi_gold",
+   "vi_stone",
+   "vi_trim",
+   "vi_wall"
+  ]
+ },
+ "RD01_02_watchtower_02": {
+  "category": "v5_roads",
+  "tris": 2356,
+  "size": [
+   20.0,
+   19.7,
+   50.0
+  ],
+  "materials": [
+   "vi_cap",
+   "vi_fb_dark",
+   "vi_fb_door",
+   "vi_fb_gold",
+   "vi_fb_rock_mid",
+   "vi_fb_trim",
+   "vi_fb_wall_stone",
+   "vi_roof"
+  ]
+ },
+ "RD01_03_watchtower_03": {
+  "category": "v5_roads",
+  "tris": 2844,
+  "size": [
+   20.8,
+   20.48,
+   46.4
+  ],
+  "materials": [
+   "vi_fb_dark",
+   "vi_fb_door",
+   "vi_fb_plank",
+   "vi_fb_rock_mid",
+   "vi_fb_roof_warm",
+   "vi_fb_timber",
+   "vi_fb_trim",
+   "vi_fb_wall_stone"
+  ]
+ },
+ "RD01_04_watchtower_04": {
+  "category": "v5_roads",
+  "tris": 2496,
+  "size": [
+   19.76,
+   19.84,
+   47.43
+  ],
+  "materials": [
+   "vi_fb_dark",
+   "vi_fb_door",
+   "vi_fb_plank",
+   "vi_fb_rock_mid",
+   "vi_fb_trim",
+   "vi_fb_wall_stone"
+  ]
+ },
+ "RD02_01_camp_set_01": {
+  "category": "v5_roads",
+  "tris": 200,
+  "size": [
+   16.0,
+   14.0,
+   10.02
+  ],
+  "materials": [
+   "vi_fb_cloth_c",
+   "vi_fb_cloth_r",
+   "vi_fb_dark",
+   "vi_fb_rope",
+   "vi_fb_timber"
+  ]
+ },
+ "RD02_02_camp_set_02": {
+  "category": "v5_roads",
+  "tris": 232,
+  "size": [
+   16.05,
+   14.0,
+   9.24
+  ],
+  "materials": [
+   "vi_fb_cloth_g",
+   "vi_fb_dark",
+   "vi_fb_rope",
+   "vi_fb_timber"
+  ]
+ },
+ "RD02_03_camp_set_03": {
+  "category": "v5_roads",
+  "tris": 404,
+  "size": [
+   16.0,
+   14.0,
+   10.0
+  ],
+  "materials": [
+   "vi_fb_cloth_r",
+   "vi_fb_plank",
+   "vi_fb_plank_dk",
+   "vi_fb_timber"
+  ]
+ },
+ "RD02_04_camp_set_04": {
+  "category": "v5_roads",
+  "tris": 232,
+  "size": [
+   16.0,
+   14.0,
+   10.0
+  ],
+  "materials": [
+   "vi_iron",
+   "vi_plank",
+   "vi_rock",
+   "vi_timber"
+  ]
+ },
+ "RD02_05_camp_set_05": {
+  "category": "v5_roads",
+  "tris": 810,
+  "size": [
+   16.0,
+   14.0,
+   10.0
+  ],
+  "materials": [
+   "vi_fb_ash",
+   "vi_fb_cloth_b",
+   "vi_fb_cloth_c",
+   "vi_fb_ember",
+   "vi_fb_iron",
+   "vi_fb_log",
+   "vi_fb_plank",
+   "vi_fb_plank_dk",
+   "vi_fb_pot",
+   "vi_fb_rock_mid",
+   "vi_fb_timber"
+  ]
+ },
+ "RD02_06_camp_set_06": {
+  "category": "v5_roads",
+  "tris": 668,
+  "size": [
+   16.0,
+   14.0,
+   10.0
+  ],
+  "materials": [
+   "vi_fb_iron",
+   "vi_fb_plank",
+   "vi_fb_plank_dk"
+  ]
+ },
+ "RD03_01_waystation_01": {
+  "category": "v5_roads",
+  "tris": 2488,
+  "size": [
+   30.0,
+   24.0,
+   20.0
+  ],
+  "materials": [
+   "vi_canvas",
+   "vi_cap",
+   "vi_cone",
+   "vi_door",
+   "vi_glass",
+   "vi_iron",
+   "vi_plank",
+   "vi_shutter",
+   "vi_sign",
+   "vi_stone",
+   "vi_timber",
+   "vi_trim",
+   "vi_wall"
+  ]
+ },
+ "RD03_02_waystation_02": {
+  "category": "v5_roads",
+  "tris": 4960,
+  "size": [
+   30.0,
+   24.0,
+   21.03
+  ],
+  "materials": [
+   "vi_cap",
+   "vi_cone",
+   "vi_door",
+   "vi_glass",
+   "vi_iron",
+   "vi_plank",
+   "vi_shutter",
+   "vi_sign",
+   "vi_stone",
+   "vi_timber",
+   "vi_trim",
+   "vi_wall"
+  ]
+ },
+ "RD04_01_trading_post_01": {
+  "category": "v5_roads",
+  "tris": 4948,
+  "size": [
+   30.0,
+   24.0,
+   21.16
+  ],
+  "materials": [
+   "vi_canvas",
+   "vi_canvas2",
+   "vi_canvas3",
+   "vi_cap",
+   "vi_cone",
+   "vi_door",
+   "vi_glass",
+   "vi_iron",
+   "vi_plank",
+   "vi_shutter",
+   "vi_sign",
+   "vi_stone",
+   "vi_timber",
+   "vi_trim",
+   "vi_wall"
+  ]
+ },
+ "RD04_02_trading_post_02": {
+  "category": "v5_roads",
+  "tris": 4932,
+  "size": [
+   30.0,
+   24.0,
+   20.0
+  ],
+  "materials": [
+   "vi_canvas",
+   "vi_canvas2",
+   "vi_canvas3",
+   "vi_cone",
+   "vi_door",
+   "vi_glass",
+   "vi_iron",
+   "vi_plank",
+   "vi_shutter",
+   "vi_sign",
+   "vi_stone",
+   "vi_timber",
+   "vi_trim",
+   "vi_wall"
+  ]
+ },
+ "RD05_01_battlefield_prop_01": {
+  "category": "v5_roads",
+  "tris": 1120,
+  "size": [
+   13.41,
+   10.0,
+   10.0
+  ],
+  "materials": [
+   "vi_fb_iron",
+   "vi_fb_plank",
+   "vi_fb_plank_dk",
+   "vi_fb_timber"
+  ]
+ },
+ "RD05_02_battlefield_prop_02": {
+  "category": "v5_roads",
+  "tris": 748,
+  "size": [
+   14.0,
+   10.0,
+   10.0
+  ],
+  "materials": [
+   "vi_fb_cloth_b",
+   "vi_fb_cloth_r",
+   "vi_fb_plank",
+   "vi_fb_plank_dk",
+   "vi_fb_steel",
+   "vi_fb_timber"
+  ]
+ },
+ "RD05_03_battlefield_prop_03": {
+  "category": "v5_roads",
+  "tris": 268,
+  "size": [
+   14.0,
+   10.0,
+   9.82
+  ],
+  "materials": [
+   "vi_fb_cloth_r",
+   "vi_fb_gold",
+   "vi_fb_rock_hi",
+   "vi_fb_rock_lo",
+   "vi_fb_rock_mid",
+   "vi_fb_timber",
+   "vi_fb_timber_dk"
+  ]
+ },
+ "RD05_04_battlefield_prop_04": {
+  "category": "v5_roads",
+  "tris": 468,
+  "size": [
+   14.0,
+   10.0,
+   10.0
+  ],
+  "materials": [
+   "vi_fb_rope",
+   "vi_fb_steel",
+   "vi_fb_timber",
+   "vi_fb_timber_dk"
+  ]
+ },
+ "RD05_05_battlefield_prop_05": {
+  "category": "v5_roads",
+  "tris": 948,
+  "size": [
+   14.0,
+   9.76,
+   10.11
+  ],
+  "materials": [
+   "vi_fb_cloth_b",
+   "vi_fb_cloth_r",
+   "vi_fb_plank",
+   "vi_fb_steel",
+   "vi_fb_timber",
+   "vi_fb_timber_dk"
+  ]
+ },
+ "RD06_01_abandoned_house_01": {
+  "category": "v5_roads",
+  "tris": 1926,
+  "size": [
+   22.0,
+   20.0,
+   20.0
+  ],
+  "materials": [
+   "vi_cone",
+   "vi_fb_dark",
+   "vi_fb_plaster",
+   "vi_fb_plaster2",
+   "vi_fb_rock_lo",
+   "vi_fb_rock_mid",
+   "vi_fb_timber",
+   "vi_fb_timber_dk",
+   "vi_fb_trim"
+  ]
+ },
+ "RD06_02_abandoned_house_02": {
+  "category": "v5_roads",
+  "tris": 7176,
+  "size": [
+   22.0,
+   18.99,
+   20.0
+  ],
+  "materials": [
+   "vi_cap",
+   "vi_cone",
+   "vi_fb_dark",
+   "vi_fb_door",
+   "vi_fb_moss",
+   "vi_fb_plaster",
+   "vi_fb_plaster2",
+   "vi_fb_rock_lo",
+   "vi_fb_rock_mid",
+   "vi_fb_roof_warm",
+   "vi_fb_shutter",
+   "vi_fb_timber",
+   "vi_fb_timber_dk",
+   "vi_fb_timber_grey",
+   "vi_fb_timber_warm",
+   "vi_fb_wall_warm"
+  ]
+ },
+ "RD06_03_abandoned_house_03": {
+  "category": "v5_roads",
+  "tris": 1862,
+  "size": [
+   22.0,
+   20.0,
+   20.0
+  ],
+  "materials": [
+   "vi_cone",
+   "vi_fb_dark",
+   "vi_fb_plaster",
+   "vi_fb_plaster2",
+   "vi_fb_rock_lo",
+   "vi_fb_rock_mid",
+   "vi_fb_timber",
+   "vi_fb_timber_dk"
+  ]
+ },
+ "RD06_04_abandoned_house_04": {
+  "category": "v5_roads",
+  "tris": 3926,
+  "size": [
+   23.8,
+   20.92,
+   20.0
+  ],
+  "materials": [
+   "vi_ash",
+   "vi_char",
+   "vi_glass",
+   "vi_stone",
+   "vi_stone2"
+  ]
+ },
+ "RD06_05_abandoned_house_05": {
+  "category": "v5_roads",
+  "tris": 2968,
+  "size": [
+   22.0,
+   20.0,
+   20.0
+  ],
+  "materials": [
+   "vi_cone",
+   "vi_fb_dark",
+   "vi_fb_plaster",
+   "vi_fb_plaster2",
+   "vi_fb_rock_lo",
+   "vi_fb_rock_mid",
+   "vi_fb_timber",
+   "vi_fb_timber_dk",
+   "vi_fb_timber_warm"
+  ]
+ },
+ "BR01_01_viaduct_bridge_01": {
+  "category": "v5_roads",
+  "tris": 8252,
+  "size": [
+   167.2,
+   20.0,
+   40.0
+  ],
+  "materials": [
+   "vi_fb_dirt",
+   "vi_fb_moss",
+   "vi_fb_rock_hi",
+   "vi_fb_rock_mid",
+   "vi_fb_trim",
+   "vi_fb_wall_stone"
+  ],
+  "end_a": [
+   [
+    -80.0,
+    0.19,
+    36.63
+   ]
+  ],
+  "end_b": [
+   [
+    80.0,
+    0.19,
+    36.63
+   ]
+  ],
+  "deck": [
+   [
+    0.0,
+    0.19,
+    36.63
+   ]
+  ]
+ },
+ "BR01_02_viaduct_bridge_02": {
+  "category": "v5_roads",
+  "tris": 8384,
+  "size": [
+   167.2,
+   20.0,
+   40.0
+  ],
+  "materials": [
+   "vi_fb_dirt",
+   "vi_fb_moss",
+   "vi_fb_rock_hi",
+   "vi_fb_rock_lo",
+   "vi_fb_rock_mid",
+   "vi_fb_trim",
+   "vi_fb_wall_stone"
+  ],
+  "end_a": [
+   [
+    -80.0,
+    -0.12,
+    36.7
+   ]
+  ],
+  "end_b": [
+   [
+    80.0,
+    -0.12,
+    36.7
+   ]
+  ],
+  "deck": [
+   [
+    0.0,
+    -0.12,
+    36.7
+   ]
+  ]
+ },
+ "RV01_01_bank_rock_01": {
+  "category": "v5_roads",
+  "tris": 968,
+  "size": [
+   29.04,
+   20.0,
+   10.0
+  ],
+  "materials": [
+   "vi_fb_dirt",
+   "vi_fb_grass",
+   "vi_fb_moss",
+   "vi_fb_rock_hi",
+   "vi_fb_rock_mid",
+   "vi_fb_rock_warm"
+  ]
+ },
+ "RV01_02_bank_rock_02": {
+  "category": "v5_roads",
+  "tris": 496,
+  "size": [
+   31.39,
+   20.2,
+   10.0
+  ],
+  "materials": [
+   "vi_fb_dirt",
+   "vi_fb_grass",
+   "vi_fb_moss",
+   "vi_fb_rock_hi",
+   "vi_fb_rock_lo",
+   "vi_fb_rock_warm"
+  ]
+ },
+ "RV01_03_bank_rock_03": {
+  "category": "v5_roads",
+  "tris": 720,
+  "size": [
+   30.0,
+   19.2,
+   10.0
+  ],
+  "materials": [
+   "vi_fb_dirt",
+   "vi_fb_grass",
+   "vi_fb_moss",
+   "vi_fb_rock_hi",
+   "vi_fb_rock_lo",
+   "vi_fb_rock_mid",
+   "vi_fb_rock_warm"
+  ]
+ },
+ "RV01_04_bank_rock_04": {
+  "category": "v5_roads",
+  "tris": 968,
+  "size": [
+   28.06,
+   20.0,
+   10.0
+  ],
+  "materials": [
+   "vi_fb_dirt",
+   "vi_fb_grass",
+   "vi_fb_moss",
+   "vi_fb_rock_hi",
+   "vi_fb_rock_mid",
+   "vi_fb_rock_warm"
+  ]
+ },
+ "FL01_01_floating_island_hero_01": {
+  "category": "v5_coast",
+  "tris": 18064,
+  "size": [
+   86.0,
+   86.0,
+   60.0
+  ],
+  "materials": [
+   "vi_bark",
+   "vi_fa_dirt",
+   "vi_fa_grass",
+   "vi_fa_moss",
+   "vi_fa_r_base",
+   "vi_fa_r_dk",
+   "vi_fa_r_hi",
+   "vi_fa_r_low",
+   "vi_fa_r_mid",
+   "vi_fa_r_rust",
+   "vi_fa_s_base",
+   "vi_fa_s_cool",
+   "vi_fa_s_mid",
+   "vi_fa_s_warm",
+   "vi_fa_void",
+   "vi_leaf",
+   "vi_leaf2"
+  ]
+ },
+ "FL01_02_floating_island_hero_02": {
+  "category": "v5_coast",
+  "tris": 13052,
+  "size": [
+   86.0,
+   86.0,
+   59.81
+  ],
+  "materials": [
+   "vi_bark",
+   "vi_fa_dirt",
+   "vi_fa_grass",
+   "vi_fa_moss",
+   "vi_fa_r_base",
+   "vi_fa_r_dk",
+   "vi_fa_r_hi",
+   "vi_fa_r_low",
+   "vi_fa_r_mid",
+   "vi_fa_r_rust",
+   "vi_fa_water",
+   "vi_leaf",
+   "vi_leaf2",
+   "vi_stone",
+   "vi_stone2"
+  ]
+ },
+ "FL01_03_floating_island_hero_03": {
+  "category": "v5_coast",
+  "tris": 9976,
+  "size": [
+   86.0,
+   86.0,
+   63.31
+  ],
+  "materials": [
+   "vi_bark",
+   "vi_fa_dirt",
+   "vi_fa_grass",
+   "vi_fa_moss",
+   "vi_fa_r_base",
+   "vi_fa_r_dk",
+   "vi_fa_r_hi",
+   "vi_fa_r_low",
+   "vi_fa_r_mid",
+   "vi_fa_r_rust",
+   "vi_fa_r_warm",
+   "vi_fa_s_base",
+   "vi_fa_s_cool",
+   "vi_fa_s_mid",
+   "vi_fa_s_warm",
+   "vi_fa_void",
+   "vi_leaf",
+   "vi_leaf2"
+  ]
+ },
+ "FL02_01_floating_island_small_01": {
+  "category": "v5_coast",
+  "tris": 462,
+  "size": [
+   39.71,
+   39.71,
+   24.89
+  ],
+  "materials": [
+   "vi_fb_dirt",
+   "vi_fb_rock_hi",
+   "vi_fb_rock_lo",
+   "vi_fb_rock_mid",
+   "vi_fb_rock_warm",
+   "vi_grass",
+   "vi_ivy"
+  ]
+ },
+ "FL02_02_floating_island_small_02": {
+  "category": "v5_coast",
+  "tris": 462,
+  "size": [
+   40.85,
+   40.98,
+   24.75
+  ],
+  "materials": [
+   "vi_fb_dirt",
+   "vi_fb_rock_hi",
+   "vi_fb_rock_lo",
+   "vi_fb_rock_mid",
+   "vi_grass",
+   "vi_ivy"
+  ]
+ },
+ "FL02_03_floating_island_small_03": {
+  "category": "v5_coast",
+  "tris": 498,
+  "size": [
+   40.0,
+   40.0,
+   24.0
+  ],
+  "materials": [
+   "vi_fb_dirt",
+   "vi_fb_rock_hi",
+   "vi_fb_rock_mid",
+   "vi_fb_rock_warm",
+   "vi_grass",
+   "vi_ivy"
+  ]
+ }
+}

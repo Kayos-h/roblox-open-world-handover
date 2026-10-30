@@ -1,0 +1,4 @@
+Get-CimInstance Win32_Process | Where-Object { -not $_.CommandLine -and $_.Name -match '(?i)python|pythonw|powershell|pwsh|cmd|node|wscript|cscript|\.exe' -and $_.Name -notmatch '^(svchost|csrss|smss|wininit|services|lsass|winlogon|System|Registry|Idle|fontdrvhost|dwm|MsMpEng|NisSrv|SecurityHealthService|spoolsv|WUDFHost|SgrmBroker|MemCompression|LsaIso|audiodg|dasHost|nvcontainer|NVDisplay.Container)\.exe$|^(System|Registry|Idle|Secure System|Memory Compression)$' } |
+  Sort-Object CreationDate -Descending | Select-Object -First 25 | ForEach-Object { "{0:MM-dd HH:mm} {1} pid={2} parent={3}" -f $_.CreationDate, $_.Name, $_.ProcessId, $_.ParentProcessId }
+'--- memory freeer folder ---'
+Get-ChildItem 'C:\Users\Nitro\Desktop\memory freeer' -ErrorAction SilentlyContinue | Select-Object Name, LastWriteTime | Format-Table -AutoSize | Out-String

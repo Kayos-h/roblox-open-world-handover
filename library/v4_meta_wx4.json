@@ -1,0 +1,178 @@
+{
+ "C01_04_chalet_04": {
+  "category": "v4_alpine",
+  "tris": 14684,
+  "size": [
+   20.91,
+   18.8,
+   23.12
+  ],
+  "materials": [
+   "brass",
+   "glass",
+   "glass_dark",
+   "hole",
+   "iron",
+   "snow",
+   "stone_dark",
+   "terracotta",
+   "wf_glow",
+   "wf_plank",
+   "wf_plank_light",
+   "wf_shutter_b",
+   "wf_stone",
+   "wf_stone_dark",
+   "wf_timber",
+   "wf_timber_dark",
+   "x4_turf"
+  ],
+  "door": [
+   [
+    0.0,
+    -7.4,
+    1.06
+   ]
+  ]
+ },
+ "A01_03_igloo_03": {
+  "category": "v4_alpine",
+  "tris": 17198,
+  "size": [
+   21.6,
+   26.8,
+   7.49
+  ],
+  "materials": [
+   "iron_dark",
+   "wa_board_grey",
+   "wa_board_trim",
+   "wa_fur",
+   "wa_ice_blue",
+   "wa_lantern",
+   "wa_snow",
+   "wa_snow_pack",
+   "wa_snow_shade"
+  ],
+  "door": [
+   [
+    0.0,
+    -12.7,
+    0.5
+   ]
+  ]
+ },
+ "C05_02_ice_block_02": {
+  "category": "v4_alpine",
+  "tris": 2166,
+  "size": [
+   8.99,
+   8.0,
+   10.62
+  ],
+  "materials": [
+   "snow",
+   "wf2_coal",
+   "wf2_fish",
+   "wf2_ice",
+   "wf2_stone",
+   "x4_ice",
+   "x4_ice_blue",
+   "x4_ice_deep"
+  ]
+ },
+ "C05_03_ice_block_03": {
+  "category": "v4_alpine",
+  "tris": 2298,
+  "size": [
+   6.83,
+   8.55,
+   12.49
+  ],
+  "materials": [
+   "snow",
+   "wf2_ice",
+   "wf2_ice_blue"
+  ]
+ },
+ "C07_02_sled_02": {
+  "category": "v4_alpine",
+  "tris": 2884,
+  "size": [
+   9.63,
+   4.3,
+   3.13
+  ],
+  "materials": [
+   "rope",
+   "snow",
+   "wf2_plank",
+   "wf2_plank_light",
+   "wf2_timber",
+   "wf2_timber_dark"
+  ]
+ },
+ "C08_01_frozen_boat_01": {
+  "category": "v4_alpine",
+  "tris": 1502,
+  "size": [
+   19.0,
+   14.35,
+   5.92
+  ],
+  "materials": [
+   "snow",
+   "wf2_ice",
+   "wf2_ice_blue",
+   "wf2_plank",
+   "wf2_plank_grey",
+   "wf2_plank_light",
+   "wf2_timber",
+   "wf2_timber_dark"
+  ]
+ },
+ "C08_02_frozen_boat_02": {
+  "category": "v4_alpine",
+  "tris": 1446,
+  "size": [
+   28.0,
+   22.03,
+   12.53
+  ],
+  "materials": [
+   "sail",
+   "snow",
+   "wf2_ice",
+   "wf2_ice_blue",
+   "wf2_plank",
+   "wf2_plank_grey",
+   "wf2_timber",
+   "wf2_timber_dark"
+  ]
+ },
+ "A04_05_rusty_hut_05": {
+  "category": "v4_rusty",
+  "tris": 904,
+  "size": [
+   15.0,
+   14.39,
+   11.65
+  ],
+  "materials": [
+   "wa_glass",
+   "wa_iron",
+   "wa_plank",
+   "wa_plank_dark",
+   "wa_plank_grey",
+   "wa_sand_dark",
+   "wa_tin_grey",
+   "wa_tin_rust"
+  ],
+  "door": [
+   [
+    0.0,
+    -4.26,
+    1.7
+   ]
+  ]
+ }
+}

@@ -1,0 +1,248 @@
+{
+ "E07_07_rusty_prop_07": {
+  "category": "v4_rusty",
+  "tris": 5688,
+  "size": [
+   8.45,
+   5.79,
+   6.45
+  ],
+  "materials": [
+   "rust",
+   "wood",
+   "wood_light",
+   "wood_old"
+  ]
+ },
+ "E07_08_rusty_prop_08": {
+  "category": "v4_rusty",
+  "tris": 3768,
+  "size": [
+   10.67,
+   6.8,
+   3.84
+  ],
+  "materials": [
+   "grass_dry",
+   "rust",
+   "thatch",
+   "wood",
+   "wood_light",
+   "wood_old"
+  ]
+ },
+ "E07_09_rusty_prop_09": {
+  "category": "v4_rusty",
+  "tris": 3576,
+  "size": [
+   3.4,
+   3.0,
+   6.2
+  ],
+  "materials": [
+   "rust",
+   "wood",
+   "wood_old"
+  ]
+ },
+ "F06_10_scree_chips": {
+  "category": "v4_ground",
+  "tris": 600,
+  "size": [
+   7.64,
+   7.76,
+   0.87
+  ],
+  "materials": [
+   "ev_stone_dark",
+   "stone",
+   "stone_dark"
+  ]
+ },
+ "E06_04_rusty_debris_04": {
+  "category": "v4_rusty",
+  "tris": 1936,
+  "size": [
+   9.0,
+   8.0,
+   2.21
+  ],
+  "materials": [
+   "wg2_barrel",
+   "wg2_dirt",
+   "wg2_plank",
+   "wg2_sheet_b",
+   "wg2_tarp"
+  ]
+ },
+ "E01_08_gravestone_08": {
+  "category": "v4_graveyard",
+  "tris": 1116,
+  "size": [
+   4.77,
+   4.15,
+   5.14
+  ],
+  "materials": [
+   "wg_dirt",
+   "wg_ivy",
+   "wg_lichen",
+   "wg_moss",
+   "wg_stone",
+   "wg_stone_d"
+  ]
+ },
+ "E05_02_dead_tree_02": {
+  "category": "v4_nature",
+  "tris": 6724,
+  "size": [
+   13.58,
+   12.64,
+   22.42
+  ],
+  "materials": [
+   "bark_dead",
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_moss",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "wc_dead_b"
+  ]
+ },
+ "E09_01_windmill_01": {
+  "category": "v4_farm",
+  "tris": 3628,
+  "size": [
+   26.01,
+   18.92,
+   44.5
+  ],
+  "materials": [
+   "glass_dark",
+   "iron",
+   "stone",
+   "stone_dark",
+   "timber",
+   "wh2_board_d",
+   "wh2_capwood",
+   "wh2_sail",
+   "wood_old"
+  ],
+  "door": [
+   [
+    0.0,
+    -8.26,
+    0.15
+   ]
+  ]
+ },
+ "E11_03_scarecrow_03": {
+  "category": "v4_farm",
+  "tris": 2700,
+  "size": [
+   5.09,
+   2.65,
+   11.82
+  ],
+  "materials": [
+   "wh2_crow",
+   "wh2_soil",
+   "wh2_straw",
+   "wh2_turnip",
+   "wood_old",
+   "wx6_rib_rust",
+   "wx6_rib_sage",
+   "wx6_rib_slate"
+  ]
+ },
+ "D06_10_moss_rock_a": {
+  "category": "v4_nature",
+  "tris": 6884,
+  "size": [
+   20.56,
+   17.83,
+   9.29
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "ev_moss",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark"
+  ]
+ },
+ "D05_05_ancient_tree_b": {
+  "category": "v4_nature",
+  "tris": 38420,
+  "size": [
+   46.24,
+   42.72,
+   80.31
+  ],
+  "materials": [
+   "ev_bark_silver",
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "ev_leaf_gold",
+   "ev_moss",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark"
+  ]
+ },
+ "D05_07_ancient_tree_d": {
+  "category": "v4_nature",
+  "tris": 32236,
+  "size": [
+   76.17,
+   73.13,
+   62.31
+  ],
+  "materials": [
+   "ev_bark",
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "ev_leaf_gold",
+   "ev_moss",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark"
+  ]
+ },
+ "D09_02_waterfall_cliff_b": {
+  "category": "v4_world",
+  "tris": 33192,
+  "size": [
+   40.81,
+   44.05,
+   23.48
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "ev_moss",
+   "ev_stone_dark",
+   "foam",
+   "stone",
+   "stone_dark",
+   "water"
+  ]
+ }
+}

@@ -1,0 +1,606 @@
+[
+ {
+  "id": "E01_chalet_1",
+  "pieces": 24,
+  "max_tris": 3564,
+  "names": [
+   "bark",
+   "brass",
+   "dirt",
+   "fl_pink",
+   "fl_red",
+   "glass",
+   "glass_dark",
+   "glass_lit",
+   "hole",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "roof_old",
+   "roof_old_b",
+   "shutter_g",
+   "snow",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "terracotta",
+   "timber",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   24.43,
+   19.55,
+   25.23
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E02_chalet_2",
+  "pieces": 24,
+  "max_tris": 4488,
+  "names": [
+   "bark",
+   "brass",
+   "dirt",
+   "fl_purple",
+   "fl_white",
+   "glass",
+   "glass_dark",
+   "glass_lit",
+   "hole",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "roof_old",
+   "roof_old_b",
+   "shutter_b",
+   "snow",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "terracotta",
+   "timber",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   20.48,
+   18.2,
+   31.6
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E03_chalet_3",
+  "pieces": 24,
+  "max_tris": 4150,
+  "names": [
+   "bark",
+   "brass",
+   "dirt",
+   "fl_red",
+   "fl_yellow",
+   "glass",
+   "glass_dark",
+   "glass_lit",
+   "hole",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "roof_old",
+   "roof_old_b",
+   "shutter_r",
+   "snow",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "terracotta",
+   "timber",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   28.39,
+   20.55,
+   25.76
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E04_chalet_4",
+  "pieces": 24,
+  "max_tris": 3372,
+  "names": [
+   "bark",
+   "brass",
+   "dirt",
+   "fl_pink",
+   "fl_white",
+   "glass",
+   "glass_dark",
+   "glass_lit",
+   "hole",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "roof_old",
+   "roof_old_b",
+   "shutter_g",
+   "snow",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "terracotta",
+   "timber",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   18.54,
+   16.2,
+   21.71
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E05_lodge",
+  "pieces": 26,
+  "max_tris": 6048,
+  "names": [
+   "bark",
+   "brass",
+   "dirt",
+   "fl_pink",
+   "fl_red",
+   "fl_white",
+   "glass",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "hole",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "roof_old",
+   "roof_old_b",
+   "shutter_r",
+   "snow",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "terracotta",
+   "timber",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   32.41,
+   24.11,
+   34.55
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E06_stone_chapel",
+  "pieces": 19,
+  "max_tris": 12532,
+  "names": [
+   "brass",
+   "glass",
+   "glass_dark",
+   "gold",
+   "hole",
+   "iron",
+   "iron_dark",
+   "marble",
+   "patina",
+   "plaster",
+   "roof_old",
+   "roof_old_b",
+   "snow",
+   "stained_b",
+   "stained_y",
+   "stone",
+   "stone_light",
+   "timber",
+   "wood_dark"
+  ],
+  "size": [
+   15.39,
+   27.15,
+   31.62
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E07_sawmill",
+  "pieces": 27,
+  "max_tris": 4918,
+  "names": [
+   "bark",
+   "brass",
+   "dirt",
+   "fl_red",
+   "glass",
+   "glass_dark",
+   "glass_lit",
+   "hole",
+   "iron",
+   "iron_dark",
+   "leaf",
+   "leaf_dark",
+   "roof_old",
+   "roof_old_b",
+   "shutter_g",
+   "snow",
+   "steel",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "terracotta",
+   "timber",
+   "water",
+   "water_fx",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   45.8,
+   21.8,
+   23.71
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E08_barn",
+  "pieces": 14,
+  "max_tris": 3576,
+  "names": [
+   "dirt",
+   "glass",
+   "glass_dark",
+   "roof_old",
+   "roof_old_b",
+   "snow",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "thatch",
+   "timber",
+   "wood",
+   "wood_dark",
+   "wood_rot"
+  ],
+  "size": [
+   40.0,
+   20.48,
+   22.87
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E09_goat_pen",
+  "pieces": 6,
+  "max_tris": 504,
+  "names": [
+   "roof_old",
+   "snow",
+   "thatch",
+   "water",
+   "wood",
+   "wood_dark"
+  ],
+  "size": [
+   22.58,
+   18.02,
+   8.67
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E10_watchtower",
+  "pieces": 10,
+  "max_tris": 792,
+  "names": [
+   "bark",
+   "glass",
+   "glass_lit",
+   "iron",
+   "roof_old",
+   "snow",
+   "stone",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   10.18,
+   10.78,
+   30.62
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E11_covered_bridge",
+  "pieces": 9,
+  "max_tris": 1024,
+  "names": [
+   "glass",
+   "roof_old",
+   "roof_old_b",
+   "snow",
+   "stone",
+   "timber",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   40.0,
+   12.26,
+   18.35
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E12_snowy_pine_1",
+  "pieces": 4,
+  "max_tris": 584,
+  "names": [
+   "bark",
+   "pine",
+   "pine_dark",
+   "snow"
+  ],
+  "size": [
+   21.81,
+   22.54,
+   40.01
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E13_snowy_pine_2",
+  "pieces": 4,
+  "max_tris": 584,
+  "names": [
+   "bark",
+   "pine",
+   "pine_dark",
+   "snow"
+  ],
+  "size": [
+   21.44,
+   21.85,
+   29.39
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E14_snowy_pine_3",
+  "pieces": 3,
+  "max_tris": 584,
+  "names": [
+   "bark",
+   "pine_light",
+   "snow"
+  ],
+  "size": [
+   12.23,
+   12.1,
+   15.81
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E15_snowy_rock_1",
+  "pieces": 3,
+  "max_tris": 449,
+  "names": [
+   "cliff_a",
+   "cliff_b",
+   "snow"
+  ],
+  "size": [
+   10.8,
+   7.94,
+   4.99
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E16_snowy_rock_2",
+  "pieces": 3,
+  "max_tris": 276,
+  "names": [
+   "cliff_a",
+   "cliff_b",
+   "snow"
+  ],
+  "size": [
+   8.98,
+   7.08,
+   12.1
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E17_snowy_bush",
+  "pieces": 4,
+  "max_tris": 757,
+  "names": [
+   "leaf_dark",
+   "pine",
+   "pine_dark",
+   "snow"
+  ],
+  "size": [
+   8.0,
+   7.98,
+   4.36
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E18_edelweiss",
+  "pieces": 4,
+  "max_tris": 336,
+  "names": [
+   "birch_leaf",
+   "fl_white",
+   "fl_yellow",
+   "leaf_light"
+  ],
+  "size": [
+   1.24,
+   1.08,
+   1.36
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E19_gentian",
+  "pieces": 2,
+  "max_tris": 448,
+  "names": [
+   "fl_blue",
+   "leaf"
+  ],
+  "size": [
+   1.29,
+   1.21,
+   1.18
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E20_terrace_wall",
+  "pieces": 6,
+  "max_tris": 3132,
+  "names": [
+   "cliff_a",
+   "grass_dry",
+   "snow",
+   "stone",
+   "stone_dark",
+   "stone_light"
+  ],
+  "size": [
+   21.28,
+   3.54,
+   5.84
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E21_log_fence",
+  "pieces": 3,
+  "max_tris": 396,
+  "names": [
+   "bark",
+   "snow",
+   "wood"
+  ],
+  "size": [
+   21.08,
+   4.06,
+   4.42
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E22_sled",
+  "pieces": 5,
+  "max_tris": 496,
+  "names": [
+   "iron",
+   "rope",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   8.63,
+   2.6,
+   1.75
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E23_cheese_cart",
+  "pieces": 6,
+  "max_tris": 1328,
+  "names": [
+   "fabric_red",
+   "fl_yellow",
+   "iron",
+   "steel",
+   "wood",
+   "wood_dark"
+  ],
+  "size": [
+   9.62,
+   4.36,
+   5.18
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E24_beehive",
+  "pieces": 9,
+  "max_tris": 960,
+  "names": [
+   "hole",
+   "roof_old",
+   "snow",
+   "thatch",
+   "wicker",
+   "wood",
+   "wood_dark",
+   "wood_light",
+   "wood_paint"
+  ],
+  "size": [
+   8.8,
+   4.31,
+   7.91
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E25_snow_drift",
+  "pieces": 1,
+  "max_tris": 2880,
+  "names": [
+   "snow"
+  ],
+  "size": [
+   16.1,
+   7.89,
+   4.01
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "E26_icicle_cluster",
+  "pieces": 2,
+  "max_tris": 384,
+  "names": [
+   "glass",
+   "snow"
+  ],
+  "size": [
+   8.0,
+   1.2,
+   2.83
+  ],
+  "min_z": 0.0
+ }
+]

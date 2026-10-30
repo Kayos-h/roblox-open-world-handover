@@ -1,0 +1,632 @@
+{
+ "wd_rock_grey": {
+  "rgb": [
+   120,
+   122,
+   128
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "wd_rock_dark": {
+  "rgb": [
+   84,
+   86,
+   94
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "wd_rock_light": {
+  "rgb": [
+   160,
+   162,
+   170
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "wd_peak_snow": {
+  "rgb": [
+   240,
+   244,
+   250
+  ],
+  "material": "Snow",
+  "glow": false
+ },
+ "wd_scree": {
+  "rgb": [
+   104,
+   104,
+   110
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "wd_grass": {
+  "rgb": [
+   96,
+   132,
+   62
+  ],
+  "material": "Grass",
+  "glow": false
+ },
+ "wd_grass_dry": {
+  "rgb": [
+   150,
+   148,
+   92
+  ],
+  "material": "Grass",
+  "glow": false
+ },
+ "wd_dirt": {
+  "rgb": [
+   110,
+   88,
+   62
+  ],
+  "material": "Ground",
+  "glow": false
+ },
+ "wd_ice": {
+  "rgb": [
+   206,
+   228,
+   240
+  ],
+  "material": "Glass",
+  "glow": false
+ },
+ "wd_bl_red": {
+  "rgb": [
+   158,
+   82,
+   54
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "wd_bl_orange": {
+  "rgb": [
+   192,
+   114,
+   62
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "wd_bl_sand": {
+  "rgb": [
+   198,
+   158,
+   104
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "wd_bl_cream": {
+  "rgb": [
+   222,
+   196,
+   150
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "wd_bl_dark": {
+  "rgb": [
+   124,
+   66,
+   44
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "wd_bl_talus": {
+  "rgb": [
+   176,
+   120,
+   74
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "wd_isle_rock": {
+  "rgb": [
+   132,
+   124,
+   110
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "wd_isle_dark": {
+  "rgb": [
+   98,
+   92,
+   82
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "wd_pine": {
+  "rgb": [
+   46,
+   86,
+   56
+  ],
+  "material": "LeafyGrass",
+  "glow": false
+ },
+ "wd_pine_dark": {
+  "rgb": [
+   34,
+   68,
+   48
+  ],
+  "material": "LeafyGrass",
+  "glow": false
+ },
+ "wd_oak": {
+  "rgb": [
+   78,
+   118,
+   58
+  ],
+  "material": "LeafyGrass",
+  "glow": false
+ },
+ "wd_trunk": {
+  "rgb": [
+   88,
+   66,
+   48
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "wd_granite": {
+  "rgb": [
+   118,
+   120,
+   128
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "wd_granite_dark": {
+  "rgb": [
+   82,
+   84,
+   92
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "wd_granite_light": {
+  "rgb": [
+   158,
+   160,
+   168
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "wd_snow": {
+  "rgb": [
+   238,
+   242,
+   248
+  ],
+  "material": "Snow",
+  "glow": false
+ },
+ "wd_scree_grey": {
+  "rgb": [
+   100,
+   100,
+   106
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "wd_sandstone": {
+  "rgb": [
+   196,
+   150,
+   104
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "wd_sandstone_dk": {
+  "rgb": [
+   162,
+   118,
+   78
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "wd_sandstone_lt": {
+  "rgb": [
+   220,
+   182,
+   134
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "wd_sand_band": {
+  "rgb": [
+   176,
+   134,
+   92
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "wd_scree_sand": {
+  "rgb": [
+   170,
+   132,
+   92
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "wd_basalt": {
+  "rgb": [
+   78,
+   80,
+   86
+  ],
+  "material": "Basalt",
+  "glow": false
+ },
+ "wd_basalt_dark": {
+  "rgb": [
+   54,
+   56,
+   62
+  ],
+  "material": "Basalt",
+  "glow": false
+ },
+ "wd_slate": {
+  "rgb": [
+   92,
+   96,
+   104
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "wd_moss": {
+  "rgb": [
+   94,
+   106,
+   70
+  ],
+  "material": "Grass",
+  "glow": false
+ },
+ "wd_stain": {
+  "rgb": [
+   60,
+   66,
+   64
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "wd_scree_dark": {
+  "rgb": [
+   70,
+   72,
+   78
+  ],
+  "material": "Basalt",
+  "glow": false
+ },
+ "wk_guano": {
+  "rgb": [
+   214,
+   210,
+   196
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "wk_kelp": {
+  "rgb": [
+   52,
+   60,
+   44
+  ],
+  "material": "Grass",
+  "glow": false
+ },
+ "wk_wet_rock": {
+  "rgb": [
+   70,
+   74,
+   78
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "wk_chalk": {
+  "rgb": [
+   214,
+   212,
+   204
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "wk_chalk_dk": {
+  "rgb": [
+   178,
+   176,
+   166
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "wk_chalk_band": {
+  "rgb": [
+   150,
+   148,
+   138
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "wk_cave_dark": {
+  "rgb": [
+   18,
+   16,
+   20
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "wk_grass_cap": {
+  "rgb": [
+   92,
+   128,
+   60
+  ],
+  "material": "Grass",
+  "glow": false
+ },
+ "wk_tree_pin": {
+  "rgb": [
+   48,
+   86,
+   56
+  ],
+  "material": "LeafyGrass",
+  "glow": false
+ },
+ "coastal_cliff_01_base": {
+  "rgb": [
+   120,
+   122,
+   128
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "coastal_cliff_02_base": {
+  "rgb": [
+   120,
+   122,
+   128
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "coastal_cliff_03_base": {
+  "rgb": [
+   120,
+   122,
+   128
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "sea_cliff_01_base": {
+  "rgb": [
+   214,
+   212,
+   204
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "sea_cliff_02_base": {
+  "rgb": [
+   120,
+   122,
+   128
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "sea_cliff_03_base": {
+  "rgb": [
+   120,
+   122,
+   128
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "canyon_wall_01_base": {
+  "rgb": [
+   158,
+   82,
+   54
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "canyon_wall_02_base": {
+  "rgb": [
+   214,
+   212,
+   204
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "canyon_wall_03_base": {
+  "rgb": [
+   78,
+   80,
+   86
+  ],
+  "material": "Basalt",
+  "glow": false
+ },
+ "wk_timber": {
+  "rgb": [
+   104,
+   78,
+   52
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "wk_timber_dk": {
+  "rgb": [
+   74,
+   54,
+   38
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "wk_plank": {
+  "rgb": [
+   150,
+   118,
+   80
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "wk_plank_dk": {
+  "rgb": [
+   120,
+   92,
+   62
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "wk_rail": {
+  "rgb": [
+   132,
+   102,
+   70
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "wk_rope": {
+  "rgb": [
+   168,
+   142,
+   96
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "wk_rail_roof": {
+  "rgb": [
+   96,
+   70,
+   56
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "wk_rust_rail": {
+  "rgb": [
+   96,
+   74,
+   54
+  ],
+  "material": "CorrodedMetal",
+  "glow": false
+ },
+ "wk_cart": {
+  "rgb": [
+   110,
+   86,
+   62
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "wk_cart_metal": {
+  "rgb": [
+   80,
+   70,
+   64
+  ],
+  "material": "CorrodedMetal",
+  "glow": false
+ },
+ "wk_flag": {
+  "rgb": [
+   150,
+   60,
+   52
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "wk_brazier_fire": {
+  "rgb": [
+   255,
+   150,
+   60
+  ],
+  "material": "Neon",
+  "glow": true
+ },
+ "wk_ember": {
+  "rgb": [
+   255,
+   110,
+   40
+  ],
+  "material": "Neon",
+  "glow": true
+ },
+ "waterfall_cliff_large_01_base": {
+  "rgb": [
+   120,
+   122,
+   128
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "waterfall_cliff_large_02_base": {
+  "rgb": [
+   120,
+   122,
+   128
+  ],
+  "material": "Rock",
+  "glow": false
+ }
+}

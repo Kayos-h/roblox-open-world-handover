@@ -1,0 +1,576 @@
+{
+ "F05_01_bush_round": {
+  "category": "v4_plants",
+  "tris": 1200,
+  "size": [
+   9.64,
+   9.26,
+   6.24
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "ev_stone_dark"
+  ]
+ },
+ "F05_02_bush_flower": {
+  "category": "v4_plants",
+  "tris": 3456,
+  "size": [
+   9.66,
+   9.43,
+   6.34
+  ],
+  "materials": [
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "ev_petal_cream",
+   "ev_petal_gold",
+   "ev_petal_pink"
+  ]
+ },
+ "F05_03_bush_berry": {
+  "category": "v4_plants",
+  "tris": 1936,
+  "size": [
+   9.04,
+   8.88,
+   5.8
+  ],
+  "materials": [
+   "ev_berry_red",
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "wi_berry_red"
+  ]
+ },
+ "F05_04_bush_juniper": {
+  "category": "v4_plants",
+  "tris": 1744,
+  "size": [
+   9.6,
+   9.63,
+   5.44
+  ],
+  "materials": [
+   "ev_berry",
+   "wi_juniper",
+   "wi_juniper_b"
+  ]
+ },
+ "F05_05_hedge_straight": {
+  "category": "v4_plants",
+  "tris": 3180,
+  "size": [
+   13.22,
+   5.25,
+   5.75
+  ],
+  "materials": [
+   "ev_bark",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_leaf_d"
+  ]
+ },
+ "F05_06_hedge_corner": {
+  "category": "v4_plants",
+  "tris": 3744,
+  "size": [
+   11.05,
+   11.19,
+   5.77
+  ],
+  "materials": [
+   "ev_bark",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_leaf_d"
+  ]
+ },
+ "F05_07_reed_clump": {
+  "category": "v4_plants",
+  "tris": 918,
+  "size": [
+   5.27,
+   6.16,
+   8.32
+  ],
+  "materials": [
+   "ev_bark",
+   "wi_cattail",
+   "wi_reed_green",
+   "wi_straw"
+  ]
+ },
+ "F05_08_reed_stand": {
+  "category": "v4_plants",
+  "tris": 3432,
+  "size": [
+   10.25,
+   9.33,
+   10.16
+  ],
+  "materials": [
+   "ev_bark",
+   "wi_cattail",
+   "wi_reed_green",
+   "wi_straw"
+  ]
+ },
+ "F05_09_grass_tall_a": {
+  "category": "v4_plants",
+  "tris": 3838,
+  "size": [
+   8.31,
+   6.72,
+   5.0
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "ev_moss",
+   "wi_seed"
+  ]
+ },
+ "F05_10_grass_tall_b": {
+  "category": "v4_plants",
+  "tris": 3384,
+  "size": [
+   6.96,
+   6.98,
+   5.17
+  ],
+  "materials": [
+   "ev_leaf_a",
+   "ev_leaf_d",
+   "ev_moss",
+   "wi_seed",
+   "wi_straw",
+   "wi_straw_pale"
+  ]
+ },
+ "F05_11_sea_oats": {
+  "category": "v4_plants",
+  "tris": 2456,
+  "size": [
+   8.4,
+   7.68,
+   7.54
+  ],
+  "materials": [
+   "ev_leaf_d",
+   "wi_sand",
+   "wi_sea_oat",
+   "wi_straw_pale"
+  ]
+ },
+ "F05_12_dune_tuft": {
+  "category": "v4_plants",
+  "tris": 1768,
+  "size": [
+   6.35,
+   8.12,
+   3.84
+  ],
+  "materials": [
+   "ev_leaf_d",
+   "wi_sand",
+   "wi_sea_oat",
+   "wi_shell",
+   "wi_shell_pink",
+   "wi_straw"
+  ]
+ },
+ "F06_01_log_mossy": {
+  "category": "v4_ground",
+  "tris": 888,
+  "size": [
+   7.31,
+   5.58,
+   2.49
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "ev_moss",
+   "wi_log",
+   "wi_log_end",
+   "wi_log_rot"
+  ]
+ },
+ "F06_02_log_fungus": {
+  "category": "v4_ground",
+  "tris": 976,
+  "size": [
+   5.98,
+   3.49,
+   2.21
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "ev_moss",
+   "ev_petal_cream",
+   "wi_bracket",
+   "wi_bracket_b",
+   "wi_log",
+   "wi_log_end",
+   "wi_log_rot"
+  ]
+ },
+ "F06_03_logs_crossed": {
+  "category": "v4_ground",
+  "tris": 904,
+  "size": [
+   5.91,
+   4.89,
+   2.39
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "ev_moss",
+   "wi_log",
+   "wi_log_end",
+   "wi_log_rot"
+  ]
+ },
+ "F06_04_stump_sawn": {
+  "category": "v4_ground",
+  "tris": 1860,
+  "size": [
+   6.04,
+   5.29,
+   3.7
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "wi_log",
+   "wi_log_end",
+   "wi_log_rot",
+   "wi_rings"
+  ]
+ },
+ "F06_05_stump_rotten": {
+  "category": "v4_ground",
+  "tris": 760,
+  "size": [
+   5.66,
+   4.74,
+   3.81
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "ev_moss",
+   "wi_log_rot"
+  ]
+ },
+ "F06_06_stump_splintered": {
+  "category": "v4_ground",
+  "tris": 1388,
+  "size": [
+   5.2,
+   4.1,
+   7.31
+  ],
+  "materials": [
+   "ev_leaf_a",
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "ev_moss",
+   "wi_log",
+   "wi_log_rot"
+  ]
+ },
+ "F06_07_root_arch": {
+  "category": "v4_ground",
+  "tris": 1028,
+  "size": [
+   9.7,
+   6.37,
+   3.79
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "ev_moss",
+   "wi_log",
+   "wi_log_rot"
+  ]
+ },
+ "F06_08_root_tangle": {
+  "category": "v4_ground",
+  "tris": 1584,
+  "size": [
+   6.54,
+   5.12,
+   2.54
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "ev_moss",
+   "ev_stone_dark",
+   "wi_log"
+  ]
+ },
+ "F06_09_pebbles_river": {
+  "category": "v4_ground",
+  "tris": 2080,
+  "size": [
+   8.0,
+   8.17,
+   0.8
+  ],
+  "materials": [
+   "wi_pebble_a",
+   "wi_pebble_b",
+   "wi_pebble_c",
+   "wi_pebble_d"
+  ]
+ },
+ "F06_10_scree_chips": {
+  "category": "v4_ground",
+  "tris": 600,
+  "size": [
+   8.02,
+   7.87,
+   0.77
+  ],
+  "materials": [
+   "ev_stone_dark",
+   "wi_pebble_b",
+   "wi_pebble_d"
+  ]
+ },
+ "F06_11_stepping_stones": {
+  "category": "v4_ground",
+  "tris": 560,
+  "size": [
+   7.7,
+   7.34,
+   0.54
+  ],
+  "materials": [
+   "ev_stone",
+   "wi_lichen",
+   "wi_pebble_a"
+  ]
+ },
+ "F06_12_gravel_patch": {
+  "category": "v4_ground",
+  "tris": 3680,
+  "size": [
+   6.76,
+   7.12,
+   2.71
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "wi_gravel",
+   "wi_pebble_b",
+   "wi_pebble_c",
+   "wi_pebble_d"
+  ]
+ },
+ "F06_13_boulder_mossy": {
+  "category": "v4_ground",
+  "tris": 740,
+  "size": [
+   8.66,
+   7.13,
+   5.28
+  ],
+  "materials": [
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "ev_moss",
+   "ev_stone_dark"
+  ]
+ },
+ "F06_14_slab_lichen": {
+  "category": "v4_ground",
+  "tris": 780,
+  "size": [
+   8.91,
+   6.54,
+   2.07
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_c",
+   "ev_stone",
+   "ev_stone_dark",
+   "wi_lichen"
+  ]
+ },
+ "F06_15_split_rock": {
+  "category": "v4_ground",
+  "tris": 1160,
+  "size": [
+   6.84,
+   8.52,
+   4.61
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "ev_moss",
+   "ev_stone_dark"
+  ]
+ },
+ "F06_16_flowers_buttercup": {
+  "category": "v4_ground",
+  "tris": 2244,
+  "size": [
+   6.41,
+   6.22,
+   2.91
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "ev_moss",
+   "ev_petal_gold",
+   "wi_buttercup"
+  ]
+ },
+ "F06_17_flowers_cornflower": {
+  "category": "v4_ground",
+  "tris": 2340,
+  "size": [
+   6.2,
+   6.37,
+   3.78
+  ],
+  "materials": [
+   "ev_berry",
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "ev_moss",
+   "ev_petal_blue",
+   "wi_corn_blue"
+  ]
+ },
+ "F06_18_flowers_poppy": {
+  "category": "v4_ground",
+  "tris": 2020,
+  "size": [
+   6.2,
+   6.33,
+   4.07
+  ],
+  "materials": [
+   "ev_berry",
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "ev_moss",
+   "wi_poppy"
+  ]
+ },
+ "F06_19_flowers_wild": {
+  "category": "v4_ground",
+  "tris": 2292,
+  "size": [
+   6.5,
+   6.3,
+   3.54
+  ],
+  "materials": [
+   "ev_berry",
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "ev_moss",
+   "ev_petal_cream",
+   "ev_petal_gold",
+   "ev_petal_pink",
+   "wi_buttercup",
+   "wi_corn_blue",
+   "wi_poppy"
+  ]
+ },
+ "F06_20_shrooms_brown": {
+  "category": "v4_ground",
+  "tris": 1552,
+  "size": [
+   7.97,
+   4.52,
+   3.75
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "ev_moss",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_shroom_tan",
+   "ev_shroom_umber",
+   "wi_log",
+   "wi_log_end"
+  ]
+ },
+ "F06_21_shrooms_toadstool": {
+  "category": "v4_ground",
+  "tris": 3440,
+  "size": [
+   7.21,
+   7.02,
+   3.26
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_c",
+   "ev_leaf_d",
+   "ev_moss",
+   "ev_petal_cream",
+   "ev_shroom_cream",
+   "wi_toadstool"
+  ]
+ }
+}

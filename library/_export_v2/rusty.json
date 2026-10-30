@@ -1,0 +1,822 @@
+[
+ {
+  "id": "D01_church",
+  "pieces": 20,
+  "max_tris": 16664,
+  "names": [
+   "brass",
+   "bronze",
+   "door_paint",
+   "gold",
+   "hole",
+   "iron",
+   "iron_dark",
+   "ivy",
+   "leaf_dark",
+   "roof_dark",
+   "roof_red",
+   "sandstone",
+   "sandstone_dark",
+   "sandstone_trim_1",
+   "sandstone_trim_2",
+   "stained_b",
+   "stained_g",
+   "stained_r",
+   "stained_y",
+   "timber"
+  ],
+  "size": [
+   26.6,
+   57.6,
+   65.6
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D02_church_bell",
+  "pieces": 5,
+  "max_tris": 864,
+  "names": [
+   "bronze",
+   "iron",
+   "iron_dark",
+   "rope",
+   "timber"
+  ],
+  "size": [
+   9.35,
+   5.5,
+   8.75
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D03_church_rose_window",
+  "pieces": 6,
+  "max_tris": 2816,
+  "names": [
+   "sandstone",
+   "sandstone_trim",
+   "stained_b",
+   "stained_g",
+   "stained_r",
+   "stained_y"
+  ],
+  "size": [
+   13.7,
+   2.15,
+   13.7
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D04_church_tall_window",
+  "pieces": 7,
+  "max_tris": 3384,
+  "names": [
+   "iron_dark",
+   "sandstone",
+   "sandstone_trim",
+   "stained_b",
+   "stained_g",
+   "stained_r",
+   "stained_y"
+  ],
+  "size": [
+   10.0,
+   2.2,
+   22.39
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D05_pew",
+  "pieces": 3,
+  "max_tris": 288,
+  "names": [
+   "velvet",
+   "wood",
+   "wood_dark"
+  ],
+  "size": [
+   12.29,
+   3.9,
+   5.2
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D06_altar",
+  "pieces": 9,
+  "max_tris": 328,
+  "names": [
+   "book_a",
+   "fabric_cream",
+   "fabric_red",
+   "flame",
+   "gold",
+   "marble",
+   "paper",
+   "sandstone_trim",
+   "wax"
+  ],
+  "size": [
+   12.0,
+   6.0,
+   9.1
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D07_pulpit",
+  "pieces": 5,
+  "max_tris": 1072,
+  "names": [
+   "gold",
+   "paper",
+   "sandstone_trim",
+   "wood",
+   "wood_dark"
+  ],
+  "size": [
+   7.95,
+   8.66,
+   19.5
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D08_pipe_organ",
+  "pieces": 10,
+  "max_tris": 1748,
+  "names": [
+   "fabric_cream",
+   "gold",
+   "hole",
+   "iron_dark",
+   "paper",
+   "steel",
+   "tin_b",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   16.6,
+   9.9,
+   31.04
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D09_candle_stand",
+  "pieces": 5,
+  "max_tris": 1520,
+  "names": [
+   "brass",
+   "flame",
+   "glass_lit",
+   "iron_dark",
+   "wax"
+  ],
+  "size": [
+   5.33,
+   4.72,
+   5.65
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D10_church_pillar",
+  "pieces": 3,
+  "max_tris": 928,
+  "names": [
+   "sandstone",
+   "sandstone_dark",
+   "sandstone_trim"
+  ],
+  "size": [
+   7.07,
+   7.07,
+   25.88
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D11_church_door",
+  "pieces": 7,
+  "max_tris": 6816,
+  "names": [
+   "iron",
+   "iron_dark",
+   "sandstone",
+   "sandstone_dark",
+   "sandstone_trim",
+   "timber",
+   "wood_dark"
+  ],
+  "size": [
+   10.0,
+   2.85,
+   14.12
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D12_gravestone_1",
+  "pieces": 5,
+  "max_tris": 108,
+  "names": [
+   "dirt",
+   "fl_white",
+   "moss",
+   "stone",
+   "stone_dark"
+  ],
+  "size": [
+   2.56,
+   4.65,
+   4.09
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D13_gravestone_2",
+  "pieces": 7,
+  "max_tris": 288,
+  "names": [
+   "dirt",
+   "fl_white",
+   "fl_yellow",
+   "rope",
+   "stone",
+   "stone_dark",
+   "wood_grey"
+  ],
+  "size": [
+   3.31,
+   4.68,
+   4.62
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D14_gravestone_3",
+  "pieces": 4,
+  "max_tris": 120,
+  "names": [
+   "moss",
+   "stone",
+   "stone_dark",
+   "stone_light"
+  ],
+  "size": [
+   1.8,
+   1.8,
+   6.0
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D15_gravestone_4",
+  "pieces": 5,
+  "max_tris": 252,
+  "names": [
+   "dirt",
+   "ivy",
+   "leaf_dark",
+   "moss",
+   "stone_dark"
+  ],
+  "size": [
+   2.74,
+   4.52,
+   2.97
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D16_stone_cross",
+  "pieces": 4,
+  "max_tris": 438,
+  "names": [
+   "moss",
+   "stone",
+   "stone_dark",
+   "stone_light"
+  ],
+  "size": [
+   4.2,
+   4.0,
+   10.8
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D17_mausoleum",
+  "pieces": 8,
+  "max_tris": 838,
+  "names": [
+   "hole",
+   "iron_dark",
+   "ivy",
+   "leaf_dark",
+   "moss",
+   "stone",
+   "stone_dark",
+   "stone_light"
+  ],
+  "size": [
+   15.0,
+   20.4,
+   14.96
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D18_graveyard_gate",
+  "pieces": 4,
+  "max_tris": 6320,
+  "names": [
+   "iron_dark",
+   "moss",
+   "stone",
+   "stone_light"
+  ],
+  "size": [
+   14.4,
+   2.4,
+   11.8
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D19_weeping_statue",
+  "pieces": 10,
+  "max_tris": 1648,
+  "names": [
+   "ashlar_dark",
+   "bronze",
+   "castle",
+   "gold",
+   "ivy",
+   "leaf_dark",
+   "marble",
+   "moss",
+   "stone",
+   "stone_light"
+  ],
+  "size": [
+   6.4,
+   6.4,
+   12.24
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D20_rundown_house_1",
+  "pieces": 20,
+  "max_tris": 7580,
+  "names": [
+   "brass",
+   "brick",
+   "door_paint",
+   "glass_dark",
+   "glass_lit",
+   "hole",
+   "iron",
+   "ivy",
+   "leaf_dark",
+   "plaster_dirty",
+   "roof_old",
+   "roof_old_b",
+   "stone",
+   "stone_dark",
+   "terracotta",
+   "timber",
+   "tin",
+   "wood_grey",
+   "wood_old",
+   "wood_rot"
+  ],
+  "size": [
+   18.0,
+   16.82,
+   25.39
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D21_rundown_house_2",
+  "pieces": 20,
+  "max_tris": 10160,
+  "names": [
+   "brass",
+   "brick",
+   "door_paint",
+   "glass_dark",
+   "glass_lit",
+   "hole",
+   "iron",
+   "ivy",
+   "leaf_dark",
+   "plaster_stain",
+   "roof_old",
+   "roof_old_b",
+   "stone",
+   "stone_dark",
+   "terracotta",
+   "timber",
+   "tin",
+   "wood_grey",
+   "wood_old",
+   "wood_rot"
+  ],
+  "size": [
+   17.56,
+   15.82,
+   31.22
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D22_rundown_house_3",
+  "pieces": 19,
+  "max_tris": 9536,
+  "names": [
+   "brass",
+   "brick",
+   "door_paint",
+   "glass_dark",
+   "glass_lit",
+   "hole",
+   "iron",
+   "ivy",
+   "leaf_dark",
+   "roof_old",
+   "roof_old_b",
+   "stone",
+   "stone_dark",
+   "terracotta",
+   "timber",
+   "tin",
+   "wood_grey",
+   "wood_old",
+   "wood_rot"
+  ],
+  "size": [
+   22.0,
+   16.82,
+   25.21
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D23_rundown_house_4",
+  "pieces": 20,
+  "max_tris": 7340,
+  "names": [
+   "brass",
+   "brick",
+   "door_paint",
+   "glass_dark",
+   "glass_lit",
+   "hole",
+   "iron",
+   "ivy",
+   "leaf_dark",
+   "plaster_dirty",
+   "roof_old",
+   "roof_old_b",
+   "stone",
+   "stone_dark",
+   "terracotta",
+   "timber",
+   "tin_b",
+   "wood_grey",
+   "wood_old",
+   "wood_rot"
+  ],
+  "size": [
+   14.0,
+   14.82,
+   24.5
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D24_collapsed_ruin",
+  "pieces": 11,
+  "max_tris": 2716,
+  "names": [
+   "hole",
+   "ivy",
+   "leaf",
+   "leaf_dark",
+   "leaf_light",
+   "roof_old",
+   "roof_old_b",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "wood_rot"
+  ],
+  "size": [
+   20.38,
+   15.45,
+   12.23
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D25_rundown_tavern",
+  "pieces": 23,
+  "max_tris": 7876,
+  "names": [
+   "brass",
+   "brick",
+   "door_paint",
+   "glass_dark",
+   "glass_lit",
+   "hole",
+   "iron",
+   "plaster_dirty",
+   "roof_old",
+   "roof_old_b",
+   "rust",
+   "stone",
+   "stone_dark",
+   "terracotta",
+   "timber",
+   "tin",
+   "tin_b",
+   "wood",
+   "wood_dark",
+   "wood_grey",
+   "wood_light",
+   "wood_old",
+   "wood_rot"
+  ],
+  "size": [
+   24.0,
+   22.27,
+   27.05
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D26_blacksmith_shed",
+  "pieces": 18,
+  "max_tris": 1416,
+  "names": [
+   "brick",
+   "dirt",
+   "flame",
+   "glow",
+   "hole",
+   "iron",
+   "iron_dark",
+   "rust",
+   "steel",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "tin",
+   "tin_b",
+   "wood",
+   "wood_dark",
+   "wood_old",
+   "wood_rot"
+  ],
+  "size": [
+   16.22,
+   11.39,
+   14.3
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D27_broken_windmill",
+  "pieces": 10,
+  "max_tris": 1672,
+  "names": [
+   "canvas",
+   "canvas_b",
+   "glass_dark",
+   "hole",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "wood_grey",
+   "wood_old",
+   "wood_rot"
+  ],
+  "size": [
+   21.75,
+   16.79,
+   38.49
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D28_rusty_water_tower",
+  "pieces": 8,
+  "max_tris": 1192,
+  "names": [
+   "rust",
+   "stone",
+   "tin",
+   "tin_b",
+   "water",
+   "water_fx",
+   "wood_old",
+   "wood_rot"
+  ],
+  "size": [
+   11.3,
+   11.17,
+   27.53
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D29_patched_tent",
+  "pieces": 10,
+  "max_tris": 340,
+  "names": [
+   "canvas",
+   "canvas_b",
+   "fabric_blue",
+   "fabric_green",
+   "fabric_red",
+   "hole",
+   "rope",
+   "wood_grey",
+   "wood_old",
+   "wood_rot"
+  ],
+  "size": [
+   13.95,
+   10.22,
+   6.5
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D30_scrap_pile",
+  "pieces": 8,
+  "max_tris": 864,
+  "names": [
+   "dirt",
+   "iron",
+   "rust",
+   "tin",
+   "tin_b",
+   "wood",
+   "wood_old",
+   "wood_rot"
+  ],
+  "size": [
+   10.11,
+   9.33,
+   6.49
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D31_rusted_cart",
+  "pieces": 6,
+  "max_tris": 672,
+  "names": [
+   "iron",
+   "rust",
+   "wood",
+   "wood_grey",
+   "wood_old",
+   "wood_rot"
+  ],
+  "size": [
+   10.11,
+   6.26,
+   4.68
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D32_broken_barrel",
+  "pieces": 5,
+  "max_tris": 336,
+  "names": [
+   "bark",
+   "fruit",
+   "rust",
+   "wood",
+   "wood_old"
+  ],
+  "size": [
+   6.63,
+   5.77,
+   4.02
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D33_broken_fence",
+  "pieces": 5,
+  "max_tris": 168,
+  "names": [
+   "leaf",
+   "leaf_dark",
+   "leaf_light",
+   "wood_grey",
+   "wood_old"
+  ],
+  "size": [
+   16.57,
+   2.4,
+   4.25
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D34_boarded_shack",
+  "pieces": 8,
+  "max_tris": 432,
+  "names": [
+   "hole",
+   "ivy",
+   "leaf_dark",
+   "rust",
+   "tin_b",
+   "wood_grey",
+   "wood_old",
+   "wood_rot"
+  ],
+  "size": [
+   10.46,
+   9.67,
+   11.82
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D35_collapsed_wall",
+  "pieces": 7,
+  "max_tris": 2456,
+  "names": [
+   "ivy",
+   "leaf",
+   "leaf_dark",
+   "leaf_light",
+   "stone",
+   "stone_dark",
+   "stone_light"
+  ],
+  "size": [
+   20.39,
+   6.3,
+   7.97
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D36_old_well_pump",
+  "pieces": 9,
+  "max_tris": 2592,
+  "names": [
+   "roof_old",
+   "roof_old_b",
+   "rust",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "tin_b",
+   "water_dark",
+   "wood_rot"
+  ],
+  "size": [
+   10.74,
+   7.16,
+   8.31
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "D37_crooked_lamp",
+  "pieces": 5,
+  "max_tris": 460,
+  "names": [
+   "glass_lit",
+   "hole",
+   "ivy",
+   "leaf_dark",
+   "rust"
+  ],
+  "size": [
+   5.02,
+   1.85,
+   15.3
+  ],
+  "min_z": 0.0
+ }
+]

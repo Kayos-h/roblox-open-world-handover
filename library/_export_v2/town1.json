@@ -1,0 +1,19 @@
+[
+ {
+  "id": "T01_demon_skull_hq",
+  "pieces": 4,
+  "max_tris": 13588,
+  "names": [
+   "default_1",
+   "default_2",
+   "default_3",
+   "default_4"
+  ],
+  "size": [
+   220.35,
+   147.75,
+   264.98
+  ],
+  "min_z": -75.0
+ }
+]

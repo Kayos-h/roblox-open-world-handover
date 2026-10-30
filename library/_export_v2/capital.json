@@ -1,0 +1,940 @@
+[
+ {
+  "id": "C01_city_wall_straight",
+  "pieces": 8,
+  "max_tris": 5976,
+  "names": [
+   "ashlar",
+   "ashlar_dark",
+   "castle",
+   "castle_trim",
+   "glass_dark",
+   "glass_lit",
+   "iron",
+   "stone_dark"
+  ],
+  "size": [
+   40.0,
+   13.59,
+   30.92
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C02_city_wall_corner",
+  "pieces": 8,
+  "max_tris": 7092,
+  "names": [
+   "ashlar",
+   "ashlar_dark",
+   "castle",
+   "castle_trim",
+   "glass_dark",
+   "glass_lit",
+   "iron",
+   "stone_dark"
+  ],
+  "size": [
+   31.1,
+   31.1,
+   30.92
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C03_city_wall_tower",
+  "pieces": 15,
+  "max_tris": 4276,
+  "names": [
+   "ashlar",
+   "ashlar_dark",
+   "brass",
+   "castle",
+   "castle_trim",
+   "door_paint",
+   "fabric_red",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "stone_dark",
+   "tile_a",
+   "tile_b",
+   "timber"
+  ],
+  "size": [
+   22.4,
+   22.4,
+   71.0
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C04_grand_gate",
+  "pieces": 15,
+  "max_tris": 14668,
+  "names": [
+   "ashlar",
+   "ashlar_dark",
+   "castle",
+   "castle_trim",
+   "fabric_red",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "iron_dark",
+   "stone_dark",
+   "tile_a",
+   "tile_b",
+   "timber",
+   "wood_dark"
+  ],
+  "size": [
+   52.4,
+   21.7,
+   71.0
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C05_townhouse_1",
+  "pieces": 23,
+  "max_tris": 7848,
+  "names": [
+   "ashlar",
+   "ashlar_dark",
+   "brass",
+   "brick",
+   "dirt",
+   "door_paint",
+   "fl_red",
+   "fl_white",
+   "glass_dark",
+   "glass_lit",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "plaster",
+   "shutter_g",
+   "stone",
+   "stone_dark",
+   "terracotta",
+   "tile_a",
+   "tile_b",
+   "timber",
+   "wood",
+   "wood_paint"
+  ],
+  "size": [
+   20.0,
+   21.55,
+   33.8
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C06_townhouse_2",
+  "pieces": 23,
+  "max_tris": 12344,
+  "names": [
+   "ashlar_dark",
+   "brass",
+   "brick",
+   "castle_trim",
+   "dirt",
+   "door_paint",
+   "fl_pink",
+   "fl_yellow",
+   "glass_dark",
+   "glass_lit",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "plaster_b",
+   "shutter_b",
+   "stone",
+   "stone_dark",
+   "terracotta",
+   "tile_red_a",
+   "tile_red_b",
+   "timber",
+   "wood",
+   "wood_paint"
+  ],
+  "size": [
+   16.55,
+   18.8,
+   38.06
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C07_townhouse_3",
+  "pieces": 27,
+  "max_tris": 7340,
+  "names": [
+   "ashlar",
+   "ashlar_dark",
+   "brass",
+   "brick",
+   "dirt",
+   "door_paint",
+   "fabric_blue",
+   "fabric_red",
+   "fl_orange",
+   "fl_yellow",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "plaster_c",
+   "shutter_r",
+   "stone",
+   "stone_dark",
+   "terracotta",
+   "tile_b",
+   "tile_grey",
+   "timber",
+   "wood",
+   "wood_dark",
+   "wood_paint"
+  ],
+  "size": [
+   23.0,
+   20.53,
+   33.38
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C08_townhouse_4",
+  "pieces": 22,
+  "max_tris": 12476,
+  "names": [
+   "ashlar",
+   "brass",
+   "brick",
+   "castle_trim",
+   "dirt",
+   "door_paint",
+   "fl_purple",
+   "fl_white",
+   "glass_dark",
+   "glass_lit",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "shutter_g",
+   "stone",
+   "stone_dark",
+   "terracotta",
+   "tile_a",
+   "tile_b",
+   "timber",
+   "wood",
+   "wood_paint"
+  ],
+  "size": [
+   18.53,
+   19.8,
+   32.53
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C09_corner_house",
+  "pieces": 29,
+  "max_tris": 10520,
+  "names": [
+   "ashlar",
+   "ashlar_dark",
+   "brass",
+   "brick",
+   "dirt",
+   "door_paint",
+   "fabric_blue",
+   "fabric_green",
+   "fabric_red",
+   "fl_pink",
+   "fl_red",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "plaster_d",
+   "shutter_b",
+   "shutter_g",
+   "stone",
+   "stone_dark",
+   "terracotta",
+   "tile_red_a",
+   "tile_red_b",
+   "timber",
+   "wood",
+   "wood_dark",
+   "wood_paint"
+  ],
+  "size": [
+   25.78,
+   26.18,
+   43.0
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C10_terrace_row",
+  "pieces": 34,
+  "max_tris": 16690,
+  "names": [
+   "ashlar",
+   "ashlar_dark_1",
+   "ashlar_dark_2",
+   "brass",
+   "brick",
+   "dirt",
+   "door_paint",
+   "fl_pink",
+   "fl_red",
+   "fl_white",
+   "glass_dark",
+   "glass_lit",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "plaster",
+   "plaster_b",
+   "plaster_c",
+   "plaster_d",
+   "shutter_b",
+   "shutter_g",
+   "shutter_r",
+   "stone",
+   "stone_dark",
+   "terracotta",
+   "tile_a",
+   "tile_b",
+   "tile_grey",
+   "tile_red_a",
+   "tile_red_b",
+   "timber",
+   "wood",
+   "wood_paint_1",
+   "wood_paint_2"
+  ],
+  "size": [
+   45.55,
+   19.2,
+   37.12
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C11_market_hall",
+  "pieces": 27,
+  "max_tris": 13224,
+  "names": [
+   "ashlar",
+   "brass",
+   "castle_trim",
+   "cob_a",
+   "cob_b",
+   "cob_c",
+   "fabric_green",
+   "fabric_red",
+   "fl_orange",
+   "fl_yellow",
+   "fruit",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "grout",
+   "iron",
+   "leaf_light",
+   "plaster",
+   "stone_dark",
+   "stone_light",
+   "tile_red_a",
+   "tile_red_b",
+   "timber",
+   "wood",
+   "wood_dark",
+   "wood_light",
+   "wood_paint"
+  ],
+  "size": [
+   34.6,
+   22.7,
+   38.51
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C12_bakery",
+  "pieces": 30,
+  "max_tris": 7004,
+  "names": [
+   "ashlar",
+   "ashlar_dark",
+   "brass",
+   "bread",
+   "bread_dark",
+   "brick",
+   "dirt",
+   "door_paint",
+   "fabric_blue",
+   "fabric_cream",
+   "fl_red",
+   "fl_yellow",
+   "glass_dark",
+   "glass_lit",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "plaster_d",
+   "shutter_g",
+   "stone",
+   "stone_dark",
+   "terracotta",
+   "tile_red_a",
+   "tile_red_b",
+   "timber",
+   "wicker",
+   "wood",
+   "wood_dark",
+   "wood_light",
+   "wood_paint"
+  ],
+  "size": [
+   17.56,
+   19.0,
+   26.1
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C13_potion_shop",
+  "pieces": 34,
+  "max_tris": 8000,
+  "names": [
+   "ashlar",
+   "ashlar_dark",
+   "brass",
+   "brick",
+   "dirt",
+   "door_paint",
+   "fabric_blue",
+   "fabric_green",
+   "fl_blue",
+   "fl_purple",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "iron_dark",
+   "leaf",
+   "leaf_dark",
+   "magic",
+   "magic_purple",
+   "plaster_purple",
+   "potion_blue",
+   "potion_green",
+   "potion_red",
+   "shutter_b",
+   "stone",
+   "stone_dark",
+   "terracotta",
+   "tile_b",
+   "tile_grey",
+   "timber",
+   "wood",
+   "wood_dark",
+   "wood_light",
+   "wood_paint"
+  ],
+  "size": [
+   15.55,
+   19.05,
+   32.52
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C14_magic_tool_shop",
+  "pieces": 31,
+  "max_tris": 7340,
+  "names": [
+   "ashlar",
+   "ashlar_dark",
+   "bark",
+   "brass",
+   "brick",
+   "dirt",
+   "door_paint",
+   "fabric_green",
+   "fabric_red",
+   "fl_blue",
+   "fl_white",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "magic",
+   "magic_purple",
+   "plaster_b",
+   "shutter_b",
+   "stone",
+   "stone_dark",
+   "terracotta",
+   "tile_a",
+   "tile_b",
+   "timber",
+   "wood",
+   "wood_dark",
+   "wood_light",
+   "wood_paint"
+  ],
+  "size": [
+   18.0,
+   20.07,
+   32.96
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C15_clock_tower",
+  "pieces": 20,
+  "max_tris": 17534,
+  "names": [
+   "ashlar",
+   "ashlar_dark",
+   "brass",
+   "bronze",
+   "castle",
+   "castle_trim_1",
+   "castle_trim_2",
+   "door_paint",
+   "fabric_red",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "iron_dark",
+   "marble",
+   "stone",
+   "stone_dark",
+   "tile_a",
+   "tile_b",
+   "timber"
+  ],
+  "size": [
+   13.41,
+   14.13,
+   82.5
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C16_cathedral",
+  "pieces": 20,
+  "max_tris": 17652,
+  "names": [
+   "ashlar",
+   "ashlar_dark",
+   "brass",
+   "castle",
+   "castle_trim_1",
+   "castle_trim_2",
+   "castle_trim_3",
+   "castle_trim_4",
+   "door_paint",
+   "glass_dark",
+   "gold",
+   "iron",
+   "iron_dark",
+   "stained_b",
+   "stained_g",
+   "stained_r",
+   "stained_y",
+   "tile_a",
+   "tile_b",
+   "timber"
+  ],
+  "size": [
+   50.8,
+   79.5,
+   92.3
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C17_knights_hq",
+  "pieces": 24,
+  "max_tris": 13946,
+  "names": [
+   "ashlar",
+   "ashlar_dark",
+   "brass",
+   "castle",
+   "castle_trim_1",
+   "castle_trim_2",
+   "castle_trim_3",
+   "castle_trim_4",
+   "door_paint",
+   "fabric_blue",
+   "fabric_cream",
+   "fabric_green",
+   "fabric_red",
+   "fl_orange",
+   "fl_purple",
+   "fl_white",
+   "fl_yellow",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "iron_dark",
+   "patina",
+   "timber"
+  ],
+  "size": [
+   47.74,
+   41.67,
+   46.25
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C18_guild_hall",
+  "pieces": 23,
+  "max_tris": 14974,
+  "names": [
+   "ashlar",
+   "ashlar_dark",
+   "brass",
+   "castle_trim_1",
+   "castle_trim_2",
+   "door_paint",
+   "fabric_blue",
+   "fabric_green",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "iron_dark",
+   "marble",
+   "patina",
+   "plaster_rose",
+   "shutter_r",
+   "stone_dark",
+   "tile_b",
+   "tile_grey",
+   "timber",
+   "wood_paint_1",
+   "wood_paint_2"
+  ],
+  "size": [
+   40.6,
+   23.48,
+   51.5
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C19_royal_library",
+  "pieces": 13,
+  "max_tris": 13674,
+  "names": [
+   "ashlar",
+   "brass",
+   "castle_1",
+   "castle_2",
+   "castle_trim",
+   "door_paint",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "magic",
+   "tile_a",
+   "timber"
+  ],
+  "size": [
+   45.6,
+   40.5,
+   53.52
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C20_magic_academy",
+  "pieces": 20,
+  "max_tris": 11886,
+  "names": [
+   "ashlar_dark",
+   "brass",
+   "castle",
+   "castle_trim_1",
+   "castle_trim_2",
+   "castle_trim_3",
+   "castle_trim_4",
+   "door_paint",
+   "glass_dark",
+   "gold",
+   "iron",
+   "iron_dark",
+   "magic",
+   "magic_purple",
+   "patina",
+   "stained_b",
+   "stained_y",
+   "tile_a",
+   "tile_b",
+   "timber"
+  ],
+  "size": [
+   49.21,
+   35.41,
+   70.96
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C21_plaza_fountain",
+  "pieces": 8,
+  "max_tris": 4128,
+  "names": [
+   "ashlar_dark",
+   "castle",
+   "castle_trim",
+   "foam",
+   "gold",
+   "magic",
+   "water",
+   "water_fx"
+  ],
+  "size": [
+   26.79,
+   26.79,
+   19.4
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C22_knight_statue",
+  "pieces": 8,
+  "max_tris": 1548,
+  "names": [
+   "ashlar_dark",
+   "bronze",
+   "castle",
+   "gold",
+   "iron_dark",
+   "marble",
+   "patina",
+   "steel"
+  ],
+  "size": [
+   7.6,
+   7.6,
+   20.6
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C23_obelisk",
+  "pieces": 5,
+  "max_tris": 232,
+  "names": [
+   "ashlar_dark",
+   "castle",
+   "castle_trim",
+   "gold",
+   "marble"
+  ],
+  "size": [
+   8.0,
+   8.0,
+   32.4
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C24_street_archway",
+  "pieces": 8,
+  "max_tris": 6228,
+  "names": [
+   "ashlar_dark",
+   "castle",
+   "castle_trim",
+   "fabric_red",
+   "glass_dark",
+   "gold",
+   "iron",
+   "marble"
+  ],
+  "size": [
+   27.2,
+   9.6,
+   34.4
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C25_window_flower_box",
+  "pieces": 9,
+  "max_tris": 1160,
+  "names": [
+   "dirt",
+   "fl_pink",
+   "fl_red",
+   "fl_white",
+   "fl_yellow",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "wood"
+  ],
+  "size": [
+   6.11,
+   1.16,
+   2.07
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C26_vendor_cart",
+  "pieces": 11,
+  "max_tris": 828,
+  "names": [
+   "brass",
+   "fabric_cream",
+   "fabric_red",
+   "fl_orange",
+   "fl_yellow",
+   "fruit",
+   "iron",
+   "leaf_light",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   9.82,
+   4.26,
+   7.95
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C27_canal_wall",
+  "pieces": 8,
+  "max_tris": 2914,
+  "names": [
+   "ashlar",
+   "ashlar_dark",
+   "castle_trim",
+   "iron",
+   "iron_dark",
+   "moss",
+   "stone",
+   "stone_dark"
+  ],
+  "size": [
+   24.16,
+   4.5,
+   12.58
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C28_canal_bridge",
+  "pieces": 8,
+  "max_tris": 4888,
+  "names": [
+   "ashlar",
+   "castle",
+   "castle_trim",
+   "cob_a",
+   "cob_b",
+   "cob_c",
+   "glass_lit",
+   "iron"
+  ],
+  "size": [
+   12.3,
+   31.4,
+   18.26
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C29_canal_stairs",
+  "pieces": 6,
+  "max_tris": 768,
+  "names": [
+   "ashlar",
+   "ashlar_dark",
+   "castle",
+   "castle_trim",
+   "iron",
+   "wood_dark"
+  ],
+  "size": [
+   25.6,
+   9.55,
+   11.68
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C30_plaza_paving",
+  "pieces": 10,
+  "max_tris": 5748,
+  "names": [
+   "ashlar",
+   "ashlar_dark",
+   "castle_trim",
+   "cob_a",
+   "cob_c",
+   "fabric_red",
+   "gold",
+   "grout",
+   "marble",
+   "stone_light"
+  ],
+  "size": [
+   32.0,
+   32.0,
+   0.8
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "C31_bunting",
+  "pieces": 8,
+  "max_tris": 1208,
+  "names": [
+   "fabric_blue",
+   "fabric_cream",
+   "fabric_green",
+   "fabric_red",
+   "fl_pink",
+   "fl_yellow",
+   "iron",
+   "rope"
+  ],
+  "size": [
+   40.5,
+   0.6,
+   5.99
+  ],
+  "min_z": 0.0
+ }
+]

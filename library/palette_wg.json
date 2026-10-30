@@ -1,0 +1,110 @@
+{
+ "wg_granite": {
+  "rgb": [
+   118,
+   116,
+   120
+  ],
+  "material": "Granite",
+  "glow": false
+ },
+ "wg_granite_d": {
+  "rgb": [
+   92,
+   90,
+   96
+  ],
+  "material": "Granite",
+  "glow": false
+ },
+ "wg_marble": {
+  "rgb": [
+   214,
+   210,
+   202
+  ],
+  "material": "Marble",
+  "glow": false
+ },
+ "wg_marble_d": {
+  "rgb": [
+   176,
+   172,
+   164
+  ],
+  "material": "Marble",
+  "glow": false
+ },
+ "wg_stone": {
+  "rgb": [
+   146,
+   140,
+   128
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "wg_stone_d": {
+  "rgb": [
+   110,
+   104,
+   96
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "wg_lichen": {
+  "rgb": [
+   150,
+   158,
+   118
+  ],
+  "material": "Grass",
+  "glow": false
+ },
+ "wg_moss": {
+  "rgb": [
+   88,
+   104,
+   56
+  ],
+  "material": "Grass",
+  "glow": false
+ },
+ "wg_iron": {
+  "rgb": [
+   38,
+   36,
+   36
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "wg_iron_rust": {
+  "rgb": [
+   96,
+   58,
+   40
+  ],
+  "material": "CorrodedMetal",
+  "glow": false
+ },
+ "wg_dirt": {
+  "rgb": [
+   104,
+   86,
+   64
+  ],
+  "material": "Ground",
+  "glow": false
+ },
+ "wg_ivy": {
+  "rgb": [
+   54,
+   82,
+   40
+  ],
+  "material": "LeafyGrass",
+  "glow": false
+ }
+}

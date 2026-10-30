@@ -1,0 +1,115 @@
+{
+ "RW01_01_rework_existing_01": {
+  "category": "v5_rework",
+  "tris": 3288,
+  "size": [
+   75.7,
+   70.3,
+   79.9
+  ],
+  "materials": [
+   "vj_f_base",
+   "vj_f_cap",
+   "vj_f_cream",
+   "vj_f_moss",
+   "vj_f_orange",
+   "vj_f_red",
+   "vj_f_red_d",
+   "vj_f_sand",
+   "vj_red2"
+  ]
+ },
+ "RW01_02_rework_existing_02": {
+  "category": "v5_rework",
+  "tris": 404,
+  "size": [
+   24.3,
+   7.0,
+   19.8
+  ],
+  "materials": [
+   "vj_f_cream",
+   "vj_f_moss",
+   "vj_f_orange",
+   "vj_f_red",
+   "vj_f_red_d",
+   "vj_f_sand",
+   "vj_plank",
+   "vj_rope"
+  ]
+ },
+ "RW01_03_rework_existing_03": {
+  "category": "v5_rework",
+  "tris": 10712,
+  "size": [
+   50.5,
+   49.2,
+   65.4
+  ],
+  "materials": [
+   "ve_bark",
+   "ve_cream",
+   "ve_dark",
+   "ve_lantern",
+   "ve_leaf1",
+   "ve_leaf2",
+   "ve_moss",
+   "ve_plank",
+   "ve_rope",
+   "ve_shingle",
+   "ve_shroom",
+   "ve_wood"
+  ],
+  "ladder_bottom": [
+   [
+    -1.73,
+    13.7,
+    23.01
+   ]
+  ],
+  "ladder_top": [
+   [
+    -1.73,
+    13.7,
+    34.75
+   ]
+  ]
+ },
+ "RW01_04_rework_existing_04": {
+  "category": "v5_rework",
+  "tris": 10712,
+  "size": [
+   53.6,
+   53.6,
+   59.4
+  ],
+  "materials": [
+   "ve_bark",
+   "ve_cream",
+   "ve_dark",
+   "ve_lantern",
+   "ve_leaf1",
+   "ve_leaf2",
+   "ve_moss",
+   "ve_plank",
+   "ve_rope",
+   "ve_shingle",
+   "ve_shroom",
+   "ve_wood"
+  ],
+  "ladder_bottom": [
+   [
+    1.65,
+    15.65,
+    20.37
+   ]
+  ],
+  "ladder_top": [
+   [
+    1.65,
+    15.65,
+    31.71
+   ]
+  ]
+ }
+}

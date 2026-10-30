@@ -1,0 +1,1093 @@
+{
+ "CP01_01_ring_wall_straight_01": {
+  "category": "v5_capital",
+  "tris": 1108,
+  "size": [
+   40.6,
+   10.6,
+   19.0
+  ],
+  "materials": [
+   "vd_cap",
+   "vd_deck",
+   "vd_stone",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP01_02_ring_wall_straight_02": {
+  "category": "v5_capital",
+  "tris": 3716,
+  "size": [
+   40.6,
+   10.6,
+   19.0
+  ],
+  "materials": [
+   "vd_dark",
+   "vd_deck",
+   "vd_f_coping",
+   "vd_f_stone_d",
+   "vd_f_stone_l",
+   "vd_stone",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP01_03_ring_wall_straight_03": {
+  "category": "v5_capital",
+  "tris": 1460,
+  "size": [
+   40.6,
+   10.0,
+   19.0
+  ],
+  "materials": [
+   "vd_cap",
+   "vd_deck",
+   "vd_stone",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP02_01_ring_wall_corner_01": {
+  "category": "v5_capital",
+  "tris": 3600,
+  "size": [
+   24.0,
+   23.94,
+   22.74
+  ],
+  "materials": [
+   "vd_cap",
+   "vd_dark",
+   "vd_deck",
+   "vd_stone",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP02_02_ring_wall_corner_02": {
+  "category": "v5_capital",
+  "tris": 3600,
+  "size": [
+   25.13,
+   25.12,
+   22.7
+  ],
+  "materials": [
+   "vd_cap",
+   "vd_dark",
+   "vd_deck",
+   "vd_stone",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP02_03_ring_wall_corner_03": {
+  "category": "v5_capital",
+  "tris": 3600,
+  "size": [
+   24.0,
+   21.45,
+   22.74
+  ],
+  "materials": [
+   "vd_cap",
+   "vd_dark",
+   "vd_deck",
+   "vd_stone",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP03_01_ring_wall_stair_end_01": {
+  "category": "v5_capital",
+  "tris": 2596,
+  "size": [
+   20.0,
+   15.0,
+   20.0
+  ],
+  "materials": [
+   "vd_cap",
+   "vd_dark",
+   "vd_deck",
+   "vd_stone",
+   "vd_timber",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP03_02_ring_wall_stair_end_02": {
+  "category": "v5_capital",
+  "tris": 2584,
+  "size": [
+   20.0,
+   15.0,
+   20.0
+  ],
+  "materials": [
+   "vd_cap",
+   "vd_dark",
+   "vd_deck",
+   "vd_stone",
+   "vd_timber",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP05_01_turret_crenellated_01": {
+  "category": "v5_capital",
+  "tris": 1800,
+  "size": [
+   14.0,
+   14.0,
+   26.0
+  ],
+  "materials": [
+   "vd_dark",
+   "vd_deck",
+   "vd_stone",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP05_02_turret_crenellated_02": {
+  "category": "v5_capital",
+  "tris": 2216,
+  "size": [
+   14.0,
+   14.0,
+   26.0
+  ],
+  "materials": [
+   "vd_cap",
+   "vd_cone",
+   "vd_dark",
+   "vd_deck",
+   "vd_gold",
+   "vd_stone",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP06_01_gate_flank_tower_01": {
+  "category": "v5_capital",
+  "tris": 3288,
+  "size": [
+   31.0,
+   31.0,
+   52.0
+  ],
+  "materials": [
+   "vd_dark",
+   "vd_flag",
+   "vd_gold",
+   "vd_iron",
+   "vd_roof",
+   "vd_roof2",
+   "vd_stone",
+   "vd_timber",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP06_02_gate_flank_tower_02": {
+  "category": "v5_capital",
+  "tris": 3492,
+  "size": [
+   31.06,
+   31.06,
+   52.0
+  ],
+  "materials": [
+   "vd_dark",
+   "vd_deck",
+   "vd_flag",
+   "vd_iron",
+   "vd_stone",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP04_01_tower_round_cone_01": {
+  "category": "v5_capital",
+  "tris": 2832,
+  "size": [
+   19.0,
+   19.0,
+   43.05
+  ],
+  "materials": [
+   "vd_dark",
+   "vd_gold",
+   "vd_roof",
+   "vd_roof2",
+   "vd_stone",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP04_02_tower_round_cone_02": {
+  "category": "v5_capital",
+  "tris": 2952,
+  "size": [
+   25.0,
+   25.0,
+   52.6
+  ],
+  "materials": [
+   "vd_dark",
+   "vd_door",
+   "vd_flag",
+   "vd_gold",
+   "vd_roof",
+   "vd_roof2",
+   "vd_stone",
+   "vd_timber",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP04_03_tower_round_cone_03": {
+  "category": "v5_capital",
+  "tris": 2832,
+  "size": [
+   31.0,
+   31.0,
+   52.7
+  ],
+  "materials": [
+   "vd_dark",
+   "vd_gold",
+   "vd_roof",
+   "vd_roof2",
+   "vd_stone",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP04_04_tower_round_cone_04": {
+  "category": "v5_capital",
+  "tris": 2952,
+  "size": [
+   37.0,
+   37.0,
+   59.1
+  ],
+  "materials": [
+   "vd_dark",
+   "vd_door",
+   "vd_flag",
+   "vd_gold",
+   "vd_roof",
+   "vd_roof2",
+   "vd_stone",
+   "vd_timber",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP07_01_gatehouse_main": {
+  "category": "v5_capital",
+  "tris": 4864,
+  "size": [
+   63.6,
+   43.9,
+   54.5
+  ],
+  "materials": [
+   "vd_cap",
+   "vd_dark",
+   "vd_deck",
+   "vd_flag",
+   "vd_glass",
+   "vd_gold",
+   "vd_iron",
+   "vd_roof",
+   "vd_stone",
+   "vd_timber",
+   "vd_trim",
+   "vd_wall"
+  ],
+  "door": [
+   [
+    0.0,
+    -19.05,
+    3.4
+   ]
+  ]
+ },
+ "CP08_01_water_gate": {
+  "category": "v5_capital",
+  "tris": 5576,
+  "size": [
+   40.0,
+   30.0,
+   30.0
+  ],
+  "materials": [
+   "vd_cap",
+   "vd_dark",
+   "vd_deck",
+   "vd_gold",
+   "vd_iron",
+   "vd_roof",
+   "vd_roof2",
+   "vd_stone",
+   "vd_trim",
+   "vd_wall"
+  ],
+  "door": [
+   [
+    0.0,
+    -13.24,
+    2.27
+   ]
+  ]
+ },
+ "CP09_01_keep_terrace_hero": {
+  "category": "v5_capital",
+  "tris": 44260,
+  "size": [
+   130.0,
+   111.2,
+   115.8
+  ],
+  "materials": [
+   "vd_cone",
+   "vd_dark",
+   "vd_door",
+   "vd_flag",
+   "vd_glass",
+   "vd_gold",
+   "vd_grass",
+   "vd_iron",
+   "vd_roof",
+   "vd_roof2",
+   "vd_stone",
+   "vd_timber",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP10_01_keep_wing_01": {
+  "category": "v5_capital",
+  "tris": 10416,
+  "size": [
+   64.0,
+   50.0,
+   70.0
+  ],
+  "materials": [
+   "vd_dark",
+   "vd_flag",
+   "vd_glass",
+   "vd_gold",
+   "vd_roof",
+   "vd_roof2",
+   "vd_stone",
+   "vd_timber",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP10_02_keep_wing_02": {
+  "category": "v5_capital",
+  "tris": 9858,
+  "size": [
+   58.0,
+   51.67,
+   70.0
+  ],
+  "materials": [
+   "vd_cone",
+   "vd_dark",
+   "vd_flag",
+   "vd_glass",
+   "vd_gold",
+   "vd_roof",
+   "vd_roof2",
+   "vd_stone",
+   "vd_timber",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP12_01_terrace_retaining_wall_01": {
+  "category": "v5_capital",
+  "tris": 1084,
+  "size": [
+   41.0,
+   10.0,
+   23.46
+  ],
+  "materials": [
+   "vd_f_coping",
+   "vd_f_stone_d",
+   "vd_f_stone_l",
+   "vd_stone",
+   "vd_trim"
+  ]
+ },
+ "CP12_02_terrace_retaining_wall_02": {
+  "category": "v5_capital",
+  "tris": 1088,
+  "size": [
+   40.0,
+   10.0,
+   23.0
+  ],
+  "materials": [
+   "vd_f_coping",
+   "vd_f_stone_d",
+   "vd_f_stone_l",
+   "vd_stone",
+   "vd_trim"
+  ]
+ },
+ "CP13_01_grand_stair_01": {
+  "category": "v5_capital",
+  "tris": 2980,
+  "size": [
+   30.0,
+   41.14,
+   23.94
+  ],
+  "materials": [
+   "vd_iron",
+   "vd_stone",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP13_02_grand_stair_02": {
+  "category": "v5_capital",
+  "tris": 6220,
+  "size": [
+   30.0,
+   41.03,
+   22.0
+  ],
+  "materials": [
+   "vd_iron",
+   "vd_stone",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP14_01_skyline_tower_01": {
+  "category": "v5_capital",
+  "tris": 1402,
+  "size": [
+   30.0,
+   30.0,
+   119.3
+  ],
+  "materials": [
+   "vd_cone",
+   "vd_dark",
+   "vd_gold",
+   "vd_stone",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP14_02_skyline_tower_02": {
+  "category": "v5_capital",
+  "tris": 1776,
+  "size": [
+   30.0,
+   30.0,
+   102.1
+  ],
+  "materials": [
+   "vd_cone",
+   "vd_gold",
+   "vd_stone",
+   "vd_timber",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP14_03_skyline_tower_03": {
+  "category": "v5_capital",
+  "tris": 2760,
+  "size": [
+   30.0,
+   30.0,
+   110.0
+  ],
+  "materials": [
+   "vd_copper",
+   "vd_gold",
+   "vd_iron",
+   "vd_stone",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP14_04_skyline_tower_04": {
+  "category": "v5_capital",
+  "tris": 926,
+  "size": [
+   30.0,
+   30.0,
+   110.0
+  ],
+  "materials": [
+   "vd_cone",
+   "vd_dark",
+   "vd_iron",
+   "vd_stone",
+   "vd_trim"
+  ]
+ },
+ "CP14_05_skyline_tower_05": {
+  "category": "v5_capital",
+  "tris": 1422,
+  "size": [
+   29.4,
+   29.0,
+   110.0
+  ],
+  "materials": [
+   "vd_cone",
+   "vd_iron",
+   "vd_stone",
+   "vd_timber"
+  ]
+ },
+ "CP15_01_order_hq_01": {
+  "category": "v5_capital",
+  "tris": 13116,
+  "size": [
+   88.5,
+   70.0,
+   60.0
+  ],
+  "materials": [
+   "vd_cone",
+   "vd_dark",
+   "vd_f_bronze",
+   "vd_f_bronze_d",
+   "vd_f_stone_d",
+   "vd_flag",
+   "vd_glass",
+   "vd_gold",
+   "vd_roof",
+   "vd_roof2",
+   "vd_stone",
+   "vd_timber",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP15_02_order_hq_02": {
+  "category": "v5_capital",
+  "tris": 10578,
+  "size": [
+   90.0,
+   70.0,
+   53.15
+  ],
+  "materials": [
+   "vd_cap",
+   "vd_dark",
+   "vd_door",
+   "vd_glass",
+   "vd_gold",
+   "vd_roof",
+   "vd_roof2",
+   "vd_shutter",
+   "vd_stone",
+   "vd_timber",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP15_03_order_hq_03": {
+  "category": "v5_capital",
+  "tris": 3362,
+  "size": [
+   90.0,
+   70.0,
+   57.1
+  ],
+  "materials": [
+   "vd_cap",
+   "vd_cone",
+   "vd_dark",
+   "vd_door",
+   "vd_flag",
+   "vd_glass",
+   "vd_gold",
+   "vd_roof",
+   "vd_roof2",
+   "vd_stone",
+   "vd_timber",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP19_01_grand_bridge_01": {
+  "category": "v5_capital",
+  "tris": 5040,
+  "size": [
+   67.0,
+   26.0,
+   28.0
+  ],
+  "materials": [
+   "vd_dark",
+   "vd_gold",
+   "vd_roof",
+   "vd_roof2",
+   "vd_stone",
+   "vd_trim",
+   "vd_wall"
+  ],
+  "end_a": [
+   [
+    -30.0,
+    0.0,
+    10.63
+   ]
+  ],
+  "end_b": [
+   [
+    30.0,
+    0.0,
+    10.63
+   ]
+  ],
+  "deck": [
+   [
+    0.0,
+    0.0,
+    10.63
+   ]
+  ]
+ },
+ "CP19_02_grand_bridge_02": {
+  "category": "v5_capital",
+  "tris": 4120,
+  "size": [
+   62.2,
+   23.45,
+   28.0
+  ],
+  "materials": [
+   "vd_dark",
+   "vd_gold",
+   "vd_iron",
+   "vd_roof",
+   "vd_roof2",
+   "vd_stone",
+   "vd_timber",
+   "vd_trim",
+   "vd_wall"
+  ],
+  "end_a": [
+   [
+    -30.0,
+    2.22,
+    9.2
+   ]
+  ],
+  "end_b": [
+   [
+    30.0,
+    2.22,
+    9.2
+   ]
+  ],
+  "deck": [
+   [
+    0.0,
+    2.22,
+    9.2
+   ]
+  ]
+ },
+ "CP11_01_great_hall_chapel_01": {
+  "category": "v5_capital",
+  "tris": 9826,
+  "size": [
+   73.0,
+   50.0,
+   60.0
+  ],
+  "materials": [
+   "vd_cone",
+   "vd_dark",
+   "vd_glass",
+   "vd_gold",
+   "vd_roof",
+   "vd_roof2",
+   "vd_stone",
+   "vd_timber",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP11_02_great_hall_chapel_02": {
+  "category": "v5_capital",
+  "tris": 5942,
+  "size": [
+   70.0,
+   48.17,
+   60.65
+  ],
+  "materials": [
+   "vd_cone",
+   "vd_dark",
+   "vd_glass",
+   "vd_gold",
+   "vd_roof",
+   "vd_roof2",
+   "vd_stone",
+   "vd_timber",
+   "vd_trim",
+   "vd_wall"
+  ]
+ },
+ "CP16_01_townhouse_new_01": {
+  "category": "v5_capital",
+  "tris": 9112,
+  "size": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "materials": [
+   "vd_cap",
+   "vd_door",
+   "vd_glass",
+   "vd_roof",
+   "vd_roof2",
+   "vd_shutter",
+   "vd_stone",
+   "vd_timber",
+   "vd_wall"
+  ]
+ },
+ "CP16_02_townhouse_new_02": {
+  "category": "v5_capital",
+  "tris": 5958,
+  "size": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "materials": [
+   "vd_cap",
+   "vd_door",
+   "vd_glass",
+   "vd_roof",
+   "vd_roof2",
+   "vd_shutter",
+   "vd_stone",
+   "vd_timber",
+   "vd_wall"
+  ]
+ },
+ "CP16_03_townhouse_new_03": {
+  "category": "v5_capital",
+  "tris": 5958,
+  "size": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "materials": [
+   "vd_cap",
+   "vd_door",
+   "vd_glass",
+   "vd_roof",
+   "vd_roof2",
+   "vd_shutter",
+   "vd_stone",
+   "vd_timber",
+   "vd_wall"
+  ]
+ },
+ "CP16_04_townhouse_new_04": {
+  "category": "v5_capital",
+  "tris": 12304,
+  "size": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "materials": [
+   "vd_cap",
+   "vd_door",
+   "vd_glass",
+   "vd_roof",
+   "vd_roof2",
+   "vd_shutter",
+   "vd_stone",
+   "vd_timber",
+   "vd_wall"
+  ]
+ },
+ "CP16_05_townhouse_new_05": {
+  "category": "v5_capital",
+  "tris": 12304,
+  "size": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "materials": [
+   "vd_cap",
+   "vd_door",
+   "vd_glass",
+   "vd_roof",
+   "vd_roof2",
+   "vd_shutter",
+   "vd_stone",
+   "vd_timber",
+   "vd_wall"
+  ]
+ },
+ "CP16_06_townhouse_new_06": {
+  "category": "v5_capital",
+  "tris": 3980,
+  "size": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "materials": [
+   "vd_cap",
+   "vd_glass",
+   "vd_roof",
+   "vd_roof2",
+   "vd_shutter",
+   "vd_stone",
+   "vd_timber",
+   "vd_wall"
+  ]
+ },
+ "CP16_07_townhouse_new_07": {
+  "category": "v5_capital",
+  "tris": 3980,
+  "size": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "materials": [
+   "vd_cap",
+   "vd_glass",
+   "vd_roof",
+   "vd_roof2",
+   "vd_shutter",
+   "vd_stone",
+   "vd_timber",
+   "vd_wall"
+  ]
+ },
+ "CP16_08_townhouse_new_08": {
+  "category": "v5_capital",
+  "tris": 5584,
+  "size": [
+   22.0,
+   22.29,
+   28.0
+  ],
+  "materials": [
+   "vd_cap",
+   "vd_door",
+   "vd_glass",
+   "vd_iron",
+   "vd_roof",
+   "vd_roof2",
+   "vd_shutter",
+   "vd_sign",
+   "vd_stone",
+   "vd_timber",
+   "vd_wall"
+  ]
+ },
+ "CP16_09_townhouse_new_09": {
+  "category": "v5_capital",
+  "tris": 5614,
+  "size": [
+   22.0,
+   20.88,
+   28.0
+  ],
+  "materials": [
+   "vd_cap",
+   "vd_door",
+   "vd_glass",
+   "vd_gold",
+   "vd_roof",
+   "vd_roof2",
+   "vd_shutter",
+   "vd_stone",
+   "vd_timber",
+   "vd_wall"
+  ]
+ },
+ "CP16_10_townhouse_new_10": {
+  "category": "v5_capital",
+  "tris": 5452,
+  "size": [
+   22.0,
+   20.88,
+   28.0
+  ],
+  "materials": [
+   "vd_cap",
+   "vd_door",
+   "vd_glass",
+   "vd_roof",
+   "vd_roof2",
+   "vd_shutter",
+   "vd_stone",
+   "vd_timber",
+   "vd_wall"
+  ]
+ },
+ "CP16_11_townhouse_new_11": {
+  "category": "v5_capital",
+  "tris": 1038,
+  "size": [
+   22.0,
+   23.0,
+   25.9
+  ],
+  "materials": [
+   "vd_cone",
+   "vd_roof",
+   "vd_sign",
+   "vd_stone",
+   "vd_timber",
+   "vd_wall"
+  ]
+ },
+ "CP16_12_townhouse_new_12": {
+  "category": "v5_capital",
+  "tris": 9112,
+  "size": [
+   22.0,
+   22.0,
+   28.0
+  ],
+  "materials": [
+   "vd_cap",
+   "vd_door",
+   "vd_glass",
+   "vd_roof",
+   "vd_roof2",
+   "vd_shutter",
+   "vd_stone",
+   "vd_timber",
+   "vd_wall"
+  ]
+ },
+ "CP17_01_plaza_features_01": {
+  "category": "v5_capital",
+  "tris": 1244,
+  "size": [
+   28.0,
+   28.0,
+   34.5
+  ],
+  "materials": [
+   "vd_f_bronze",
+   "vd_stone",
+   "vd_trim",
+   "vd_water"
+  ]
+ },
+ "CP17_02_plaza_features_02": {
+  "category": "v5_capital",
+  "tris": 776,
+  "size": [
+   30.0,
+   30.0,
+   34.0
+  ],
+  "materials": [
+   "vd_iron",
+   "vd_roof",
+   "vd_stone",
+   "vd_timber",
+   "vd_trim",
+   "vd_water"
+  ]
+ },
+ "CP18_01_quay_wall_01": {
+  "category": "v5_capital",
+  "tris": 584,
+  "size": [
+   30.8,
+   10.0,
+   8.0
+  ],
+  "materials": [
+   "vd_f_coping",
+   "vd_f_stone_d",
+   "vd_f_stone_l",
+   "vd_iron",
+   "vd_stone",
+   "vd_trim"
+  ]
+ },
+ "CP18_02_quay_wall_02": {
+  "category": "v5_capital",
+  "tris": 904,
+  "size": [
+   30.0,
+   10.0,
+   8.0
+  ],
+  "materials": [
+   "vd_f_coping",
+   "vd_f_stone_d",
+   "vd_f_stone_l",
+   "vd_stone",
+   "vd_trim"
+  ]
+ },
+ "CP18_03_quay_wall_03": {
+  "category": "v5_capital",
+  "tris": 812,
+  "size": [
+   30.8,
+   10.0,
+   8.0
+  ],
+  "materials": [
+   "vd_f_coping",
+   "vd_f_stone_d",
+   "vd_f_stone_l",
+   "vd_stone",
+   "vd_trim"
+  ]
+ },
+ "CP18_04_quay_wall_04": {
+  "category": "v5_capital",
+  "tris": 736,
+  "size": [
+   30.8,
+   10.0,
+   8.0
+  ],
+  "materials": [
+   "vd_f_coping",
+   "vd_f_stone_d",
+   "vd_f_stone_l",
+   "vd_iron",
+   "vd_stone",
+   "vd_timber",
+   "vd_trim"
+  ]
+ }
+}

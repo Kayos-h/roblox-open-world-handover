@@ -1,0 +1,56 @@
+{
+ "E07_01_rusty_prop_01": {
+  "category": "v4_rusty",
+  "tris": 720,
+  "size": [
+   4.48,
+   3.15,
+   15.22
+  ],
+  "materials": [
+   "dirt",
+   "glass_lit",
+   "hole",
+   "iron",
+   "moss",
+   "rust",
+   "tin_b"
+  ]
+ },
+ "E07_02_rusty_prop_02": {
+  "category": "v4_rusty",
+  "tris": 1614,
+  "size": [
+   4.03,
+   2.67,
+   14.05
+  ],
+  "materials": [
+   "dirt",
+   "glass_lit",
+   "hole",
+   "iron",
+   "moss",
+   "rust"
+  ]
+ },
+ "E07_03_rusty_prop_03": {
+  "category": "v4_rusty",
+  "tris": 3604,
+  "size": [
+   4.2,
+   5.18,
+   9.74
+  ],
+  "materials": [
+   "glass_lit",
+   "hole",
+   "iron",
+   "moss",
+   "rust",
+   "stone",
+   "stone_dark",
+   "stone_light"
+  ]
+ }
+}

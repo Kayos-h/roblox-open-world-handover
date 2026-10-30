@@ -1,0 +1,524 @@
+{
+ "we2_ashlar": {
+  "rgb": [
+   206,
+   198,
+   180
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "we2_ashlar_b": {
+  "rgb": [
+   188,
+   180,
+   162
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "we2_plinth": {
+  "rgb": [
+   132,
+   128,
+   120
+  ],
+  "material": "Cobblestone",
+  "glow": false
+ },
+ "we2_trim": {
+  "rgb": [
+   230,
+   224,
+   210
+  ],
+  "material": "Marble",
+  "glow": false
+ },
+ "we2_slate_a": {
+  "rgb": [
+   70,
+   82,
+   108
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "we2_slate_b": {
+  "rgb": [
+   58,
+   68,
+   92
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "we2_plaster": {
+  "rgb": [
+   222,
+   210,
+   188
+  ],
+  "material": "Plaster",
+  "glow": false
+ },
+ "we2_timber": {
+  "rgb": [
+   78,
+   54,
+   37
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "we2_wood": {
+  "rgb": [
+   122,
+   84,
+   52
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "we2_floor": {
+  "rgb": [
+   96,
+   92,
+   86
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "we2_steel": {
+  "rgb": [
+   150,
+   156,
+   164
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "we2_iron": {
+  "rgb": [
+   44,
+   42,
+   40
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "we2_bronze": {
+  "rgb": [
+   120,
+   86,
+   52
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "we2_gold": {
+  "rgb": [
+   214,
+   172,
+   72
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "we2_leather": {
+  "rgb": [
+   96,
+   64,
+   42
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we2_hay": {
+  "rgb": [
+   190,
+   160,
+   92
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we2_rope": {
+  "rgb": [
+   176,
+   150,
+   104
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we2_glass_lit": {
+  "rgb": [
+   246,
+   196,
+   110
+  ],
+  "material": "Glass",
+  "glow": true
+ },
+ "we2_banner_r": {
+  "rgb": [
+   150,
+   36,
+   42
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we2_banner_b": {
+  "rgb": [
+   44,
+   66,
+   128
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we2_banner_g": {
+  "rgb": [
+   196,
+   158,
+   72
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we2_water": {
+  "rgb": [
+   70,
+   110,
+   150
+  ],
+  "material": "Glass",
+  "glow": false
+ },
+ "we2_floor_a": {
+  "rgb": [
+   178,
+   170,
+   154
+  ],
+  "material": "Marble",
+  "glow": false
+ },
+ "we2_floor_b": {
+  "rgb": [
+   96,
+   92,
+   86
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "we2_carpet": {
+  "rgb": [
+   140,
+   28,
+   36
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we2_carpet_t": {
+  "rgb": [
+   198,
+   158,
+   72
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we2_wood_l": {
+  "rgb": [
+   166,
+   126,
+   84
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "we2_wax": {
+  "rgb": [
+   238,
+   228,
+   200
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "we2_stain_r": {
+  "rgb": [
+   190,
+   48,
+   56
+  ],
+  "material": "Glass",
+  "glow": true
+ },
+ "we2_stain_b": {
+  "rgb": [
+   56,
+   92,
+   190
+  ],
+  "material": "Glass",
+  "glow": true
+ },
+ "we2_stain_y": {
+  "rgb": [
+   232,
+   186,
+   60
+  ],
+  "material": "Glass",
+  "glow": true
+ },
+ "we2_stain_g": {
+  "rgb": [
+   60,
+   150,
+   90
+  ],
+  "material": "Glass",
+  "glow": true
+ },
+ "we2_flame": {
+  "rgb": [
+   255,
+   150,
+   40
+  ],
+  "material": "Neon",
+  "glow": true
+ },
+ "we2_flame_c": {
+  "rgb": [
+   255,
+   214,
+   120
+  ],
+  "material": "Neon",
+  "glow": true
+ },
+ "we2_canopy_r": {
+  "rgb": [
+   164,
+   54,
+   48
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we2_canopy_cr": {
+  "rgb": [
+   230,
+   218,
+   188
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we2_canopy_bl": {
+  "rgb": [
+   52,
+   86,
+   140
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we2_canopy_gr": {
+  "rgb": [
+   60,
+   110,
+   72
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we2_canopy_gd": {
+  "rgb": [
+   200,
+   160,
+   72
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we2_cloth_a": {
+  "rgb": [
+   150,
+   46,
+   54
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we2_cloth_b": {
+  "rgb": [
+   48,
+   78,
+   132
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we2_cloth_c": {
+  "rgb": [
+   60,
+   108,
+   78
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we2_cloth_d": {
+  "rgb": [
+   196,
+   170,
+   90
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we2_fruit_a": {
+  "rgb": [
+   186,
+   36,
+   34
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "we2_fruit_b": {
+  "rgb": [
+   232,
+   160,
+   42
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "we2_fruit_c": {
+  "rgb": [
+   120,
+   172,
+   58
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "we2_fruit_d": {
+  "rgb": [
+   150,
+   70,
+   160
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "we2_potion_r": {
+  "rgb": [
+   198,
+   40,
+   70
+  ],
+  "material": "Glass",
+  "glow": true
+ },
+ "we2_potion_b": {
+  "rgb": [
+   60,
+   110,
+   220
+  ],
+  "material": "Glass",
+  "glow": true
+ },
+ "we2_potion_g": {
+  "rgb": [
+   80,
+   200,
+   110
+  ],
+  "material": "Glass",
+  "glow": true
+ },
+ "we2_potion_p": {
+  "rgb": [
+   170,
+   90,
+   220
+  ],
+  "material": "Glass",
+  "glow": true
+ },
+ "we2s_ash": {
+  "rgb": [
+   60,
+   56,
+   52
+  ],
+  "material": "Ground",
+  "glow": false
+ },
+ "we2s_sack": {
+  "rgb": [
+   176,
+   150,
+   104
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we2s_ember": {
+  "rgb": [
+   255,
+   120,
+   36
+  ],
+  "material": "Neon",
+  "glow": true
+ },
+ "we2s_grain": {
+  "rgb": [
+   206,
+   176,
+   108
+  ],
+  "material": "Sand",
+  "glow": false
+ },
+ "we2s_tarp": {
+  "rgb": [
+   150,
+   140,
+   110
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "we2s_mud": {
+  "rgb": [
+   92,
+   74,
+   54
+  ],
+  "material": "Mud",
+  "glow": false
+ },
+ "we2s_bell": {
+  "rgb": [
+   120,
+   86,
+   52
+  ],
+  "material": "Metal",
+  "glow": false
+ }
+}

@@ -1,0 +1,3571 @@
+{
+ "total": 390,
+ "by_priority": {
+  "P1": 140,
+  "P2": 205,
+  "P3": 45
+ },
+ "by_section": {
+  "A": {
+   "total": 20,
+   "built": 0,
+   "P1": 20,
+   "P2": 0,
+   "P3": 0
+  },
+  "B": {
+   "total": 36,
+   "built": 1,
+   "P1": 15,
+   "P2": 21,
+   "P3": 0
+  },
+  "C": {
+   "total": 25,
+   "built": 0,
+   "P1": 4,
+   "P2": 9,
+   "P3": 12
+  },
+  "D": {
+   "total": 97,
+   "built": 97,
+   "P1": 61,
+   "P2": 36,
+   "P3": 0
+  },
+  "E": {
+   "total": 81,
+   "built": 0,
+   "P1": 10,
+   "P2": 59,
+   "P3": 12
+  },
+  "F": {
+   "total": 111,
+   "built": 0,
+   "P1": 18,
+   "P2": 72,
+   "P3": 21
+  },
+  "R": {
+   "total": 20,
+   "built": 0,
+   "P1": 12,
+   "P2": 8,
+   "P3": 0
+  }
+ },
+ "models": [
+  {
+   "id": "A01_01_igloo_01",
+   "section": "A",
+   "row": "A01",
+   "family": "igloo",
+   "priority": "P1",
+   "desc": "Snow-block dome, tunnel entrance with back wall, 3 sizes (14/16/18 studs)",
+   "status": "todo"
+  },
+  {
+   "id": "A01_02_igloo_02",
+   "section": "A",
+   "row": "A01",
+   "family": "igloo",
+   "priority": "P1",
+   "desc": "Snow-block dome, tunnel entrance with back wall, 3 sizes (14/16/18 studs)",
+   "status": "todo"
+  },
+  {
+   "id": "A01_03_igloo_03",
+   "section": "A",
+   "row": "A01",
+   "family": "igloo",
+   "priority": "P1",
+   "desc": "Snow-block dome, tunnel entrance with back wall, 3 sizes (14/16/18 studs)",
+   "status": "todo"
+  },
+  {
+   "id": "A02_01_ice_shanty_01",
+   "section": "A",
+   "row": "A02",
+   "family": "ice_shanty",
+   "priority": "P1",
+   "desc": "Ice-fishing hut 8x9x7, pitched roof with snow, stovepipe, 4 colourways",
+   "status": "todo"
+  },
+  {
+   "id": "A02_02_ice_shanty_02",
+   "section": "A",
+   "row": "A02",
+   "family": "ice_shanty",
+   "priority": "P1",
+   "desc": "Ice-fishing hut 8x9x7, pitched roof with snow, stovepipe, 4 colourways",
+   "status": "todo"
+  },
+  {
+   "id": "A02_03_ice_shanty_03",
+   "section": "A",
+   "row": "A02",
+   "family": "ice_shanty",
+   "priority": "P1",
+   "desc": "Ice-fishing hut 8x9x7, pitched roof with snow, stovepipe, 4 colourways",
+   "status": "todo"
+  },
+  {
+   "id": "A02_04_ice_shanty_04",
+   "section": "A",
+   "row": "A02",
+   "family": "ice_shanty",
+   "priority": "P1",
+   "desc": "Ice-fishing hut 8x9x7, pitched roof with snow, stovepipe, 4 colourways",
+   "status": "todo"
+  },
+  {
+   "id": "A03_01_fishing_hole_01",
+   "section": "A",
+   "row": "A03",
+   "family": "fishing_hole",
+   "priority": "P1",
+   "desc": "Ragged ice rim, cracks, dark water, ~4 studs across",
+   "status": "todo"
+  },
+  {
+   "id": "A03_02_fishing_hole_02",
+   "section": "A",
+   "row": "A03",
+   "family": "fishing_hole",
+   "priority": "P1",
+   "desc": "Ragged ice rim, cracks, dark water, ~4 studs across",
+   "status": "todo"
+  },
+  {
+   "id": "A03_03_fishing_hole_03",
+   "section": "A",
+   "row": "A03",
+   "family": "fishing_hole",
+   "priority": "P1",
+   "desc": "Ragged ice rim, cracks, dark water, ~4 studs across",
+   "status": "todo"
+  },
+  {
+   "id": "A04_01_rusty_hut_01",
+   "section": "A",
+   "row": "A04",
+   "family": "rusty_hut",
+   "priority": "P1",
+   "desc": "Weathered hut 13-15 studs: timber/sandstone/scrap roofs, door, shutters, steps, interior back wall",
+   "status": "todo"
+  },
+  {
+   "id": "A04_02_rusty_hut_02",
+   "section": "A",
+   "row": "A04",
+   "family": "rusty_hut",
+   "priority": "P1",
+   "desc": "Weathered hut 13-15 studs: timber/sandstone/scrap roofs, door, shutters, steps, interior back wall",
+   "status": "todo"
+  },
+  {
+   "id": "A04_03_rusty_hut_03",
+   "section": "A",
+   "row": "A04",
+   "family": "rusty_hut",
+   "priority": "P1",
+   "desc": "Weathered hut 13-15 studs: timber/sandstone/scrap roofs, door, shutters, steps, interior back wall",
+   "status": "todo"
+  },
+  {
+   "id": "A04_04_rusty_hut_04",
+   "section": "A",
+   "row": "A04",
+   "family": "rusty_hut",
+   "priority": "P1",
+   "desc": "Weathered hut 13-15 studs: timber/sandstone/scrap roofs, door, shutters, steps, interior back wall",
+   "status": "todo"
+  },
+  {
+   "id": "A04_05_rusty_hut_05",
+   "section": "A",
+   "row": "A04",
+   "family": "rusty_hut",
+   "priority": "P1",
+   "desc": "Weathered hut 13-15 studs: timber/sandstone/scrap roofs, door, shutters, steps, interior back wall",
+   "status": "todo"
+  },
+  {
+   "id": "A04_06_rusty_hut_06",
+   "section": "A",
+   "row": "A04",
+   "family": "rusty_hut",
+   "priority": "P1",
+   "desc": "Weathered hut 13-15 studs: timber/sandstone/scrap roofs, door, shutters, steps, interior back wall",
+   "status": "todo"
+  },
+  {
+   "id": "A05_01_shell_rusty_church_01",
+   "section": "A",
+   "row": "A05",
+   "family": "shell_rusty_church",
+   "priority": "P1",
+   "desc": "Enterable shell 60x124, hollow nave, door, windows",
+   "status": "todo"
+  },
+  {
+   "id": "A06_01_shell_capital_cathedral_01",
+   "section": "A",
+   "row": "A06",
+   "family": "shell_capital_cathedral",
+   "priority": "P1",
+   "desc": "Enterable shell at (-186,-1628)",
+   "status": "todo"
+  },
+  {
+   "id": "A07_01_shell_harbour_tavern_01",
+   "section": "A",
+   "row": "A07",
+   "family": "shell_harbour_tavern",
+   "priority": "P1",
+   "desc": "Enterable shell at (-428,1764)",
+   "status": "todo"
+  },
+  {
+   "id": "A08_01_shell_alpine_lodge_01",
+   "section": "A",
+   "row": "A08",
+   "family": "shell_alpine_lodge",
+   "priority": "P1",
+   "desc": "Enterable shell at (1585,-880)",
+   "status": "todo"
+  },
+  {
+   "id": "B01_01_skull_hq_01",
+   "section": "B",
+   "row": "B01",
+   "family": "skull_hq",
+   "priority": "P1",
+   "desc": "Separate colour pieces, hollow interior, entrance through the jaw, 220x148x265",
+   "status": "built"
+  },
+  {
+   "id": "B02_01_keep",
+   "section": "B",
+   "row": "B02",
+   "family": "castle",
+   "priority": "P1",
+   "desc": "Keep, round tower, square tower, spire tower, curtain wall straight, curtain wall corner, gatehouse",
+   "status": "todo"
+  },
+  {
+   "id": "B02_02_round_tower",
+   "section": "B",
+   "row": "B02",
+   "family": "castle",
+   "priority": "P1",
+   "desc": "Keep, round tower, square tower, spire tower, curtain wall straight, curtain wall corner, gatehouse",
+   "status": "todo"
+  },
+  {
+   "id": "B02_03_square_tower",
+   "section": "B",
+   "row": "B02",
+   "family": "castle",
+   "priority": "P1",
+   "desc": "Keep, round tower, square tower, spire tower, curtain wall straight, curtain wall corner, gatehouse",
+   "status": "todo"
+  },
+  {
+   "id": "B02_04_spire_tower",
+   "section": "B",
+   "row": "B02",
+   "family": "castle",
+   "priority": "P1",
+   "desc": "Keep, round tower, square tower, spire tower, curtain wall straight, curtain wall corner, gatehouse",
+   "status": "todo"
+  },
+  {
+   "id": "B02_05_curtain_wall",
+   "section": "B",
+   "row": "B02",
+   "family": "castle",
+   "priority": "P1",
+   "desc": "Keep, round tower, square tower, spire tower, curtain wall straight, curtain wall corner, gatehouse",
+   "status": "todo"
+  },
+  {
+   "id": "B02_06_curtain_corner",
+   "section": "B",
+   "row": "B02",
+   "family": "castle",
+   "priority": "P1",
+   "desc": "Keep, round tower, square tower, spire tower, curtain wall straight, curtain wall corner, gatehouse",
+   "status": "todo"
+  },
+  {
+   "id": "B02_07_gatehouse",
+   "section": "B",
+   "row": "B02",
+   "family": "castle",
+   "priority": "P1",
+   "desc": "Keep, round tower, square tower, spire tower, curtain wall straight, curtain wall corner, gatehouse",
+   "status": "todo"
+  },
+  {
+   "id": "B03_01_throne_hall_01",
+   "section": "B",
+   "row": "B03",
+   "family": "throne_hall",
+   "priority": "P2",
+   "desc": "Interior set: throne pillars, banners, stairs",
+   "status": "todo"
+  },
+  {
+   "id": "B04_01_barracks",
+   "section": "B",
+   "row": "B04",
+   "family": "garrison",
+   "priority": "P2",
+   "desc": "Barracks and stables",
+   "status": "todo"
+  },
+  {
+   "id": "B04_02_stables",
+   "section": "B",
+   "row": "B04",
+   "family": "garrison",
+   "priority": "P2",
+   "desc": "Barracks and stables",
+   "status": "todo"
+  },
+  {
+   "id": "B05_01_royal_fountain",
+   "section": "B",
+   "row": "B05",
+   "family": "courtyard",
+   "priority": "P2",
+   "desc": "Royal fountain, knight statue, obelisk, ornate lamp, banner, gazebo, rose arch",
+   "status": "todo"
+  },
+  {
+   "id": "B05_02_knight_statue",
+   "section": "B",
+   "row": "B05",
+   "family": "courtyard",
+   "priority": "P2",
+   "desc": "Royal fountain, knight statue, obelisk, ornate lamp, banner, gazebo, rose arch",
+   "status": "todo"
+  },
+  {
+   "id": "B05_03_obelisk",
+   "section": "B",
+   "row": "B05",
+   "family": "courtyard",
+   "priority": "P2",
+   "desc": "Royal fountain, knight statue, obelisk, ornate lamp, banner, gazebo, rose arch",
+   "status": "todo"
+  },
+  {
+   "id": "B05_04_ornate_lamp",
+   "section": "B",
+   "row": "B05",
+   "family": "courtyard",
+   "priority": "P2",
+   "desc": "Royal fountain, knight statue, obelisk, ornate lamp, banner, gazebo, rose arch",
+   "status": "todo"
+  },
+  {
+   "id": "B05_05_royal_banner",
+   "section": "B",
+   "row": "B05",
+   "family": "courtyard",
+   "priority": "P2",
+   "desc": "Royal fountain, knight statue, obelisk, ornate lamp, banner, gazebo, rose arch",
+   "status": "todo"
+  },
+  {
+   "id": "B05_06_gazebo",
+   "section": "B",
+   "row": "B05",
+   "family": "courtyard",
+   "priority": "P2",
+   "desc": "Royal fountain, knight statue, obelisk, ornate lamp, banner, gazebo, rose arch",
+   "status": "todo"
+  },
+  {
+   "id": "B05_07_rose_arch",
+   "section": "B",
+   "row": "B05",
+   "family": "courtyard",
+   "priority": "P2",
+   "desc": "Royal fountain, knight statue, obelisk, ornate lamp, banner, gazebo, rose arch",
+   "status": "todo"
+  },
+  {
+   "id": "B06_01_stall_fruit",
+   "section": "B",
+   "row": "B06",
+   "family": "castle_stall",
+   "priority": "P2",
+   "desc": "Market stalls: fruit, cloth, potion",
+   "status": "todo"
+  },
+  {
+   "id": "B06_02_stall_cloth",
+   "section": "B",
+   "row": "B06",
+   "family": "castle_stall",
+   "priority": "P2",
+   "desc": "Market stalls: fruit, cloth, potion",
+   "status": "todo"
+  },
+  {
+   "id": "B06_03_stall_potion",
+   "section": "B",
+   "row": "B06",
+   "family": "castle_stall",
+   "priority": "P2",
+   "desc": "Market stalls: fruit, cloth, potion",
+   "status": "todo"
+  },
+  {
+   "id": "B07_01_capital_house_01",
+   "section": "B",
+   "row": "B07",
+   "family": "capital_house",
+   "priority": "P1",
+   "desc": "New townhouse designs, 6+ roof colours, 4 facade variants for the avenue",
+   "status": "todo"
+  },
+  {
+   "id": "B07_02_capital_house_02",
+   "section": "B",
+   "row": "B07",
+   "family": "capital_house",
+   "priority": "P1",
+   "desc": "New townhouse designs, 6+ roof colours, 4 facade variants for the avenue",
+   "status": "todo"
+  },
+  {
+   "id": "B07_03_capital_house_03",
+   "section": "B",
+   "row": "B07",
+   "family": "capital_house",
+   "priority": "P1",
+   "desc": "New townhouse designs, 6+ roof colours, 4 facade variants for the avenue",
+   "status": "todo"
+  },
+  {
+   "id": "B07_04_capital_house_04",
+   "section": "B",
+   "row": "B07",
+   "family": "capital_house",
+   "priority": "P1",
+   "desc": "New townhouse designs, 6+ roof colours, 4 facade variants for the avenue",
+   "status": "todo"
+  },
+  {
+   "id": "B07_05_capital_house_05",
+   "section": "B",
+   "row": "B07",
+   "family": "capital_house",
+   "priority": "P1",
+   "desc": "New townhouse designs, 6+ roof colours, 4 facade variants for the avenue",
+   "status": "todo"
+  },
+  {
+   "id": "B07_06_capital_house_06",
+   "section": "B",
+   "row": "B07",
+   "family": "capital_house",
+   "priority": "P1",
+   "desc": "New townhouse designs, 6+ roof colours, 4 facade variants for the avenue",
+   "status": "todo"
+  },
+  {
+   "id": "B08_01_town1_church_01",
+   "section": "B",
+   "row": "B08",
+   "family": "town1_church",
+   "priority": "P1",
+   "desc": "Gothic church 35x85x75, door and rose window east, not enterable",
+   "status": "todo"
+  },
+  {
+   "id": "B09_01_galleon",
+   "section": "B",
+   "row": "B09",
+   "family": "ship",
+   "priority": "P2",
+   "desc": "Galleon 88x28x60, merchant ship, fishing boat, rowboat, with rigging",
+   "status": "todo"
+  },
+  {
+   "id": "B09_02_merchant_ship",
+   "section": "B",
+   "row": "B09",
+   "family": "ship",
+   "priority": "P2",
+   "desc": "Galleon 88x28x60, merchant ship, fishing boat, rowboat, with rigging",
+   "status": "todo"
+  },
+  {
+   "id": "B09_03_fishing_boat",
+   "section": "B",
+   "row": "B09",
+   "family": "ship",
+   "priority": "P2",
+   "desc": "Galleon 88x28x60, merchant ship, fishing boat, rowboat, with rigging",
+   "status": "todo"
+  },
+  {
+   "id": "B09_04_rowboat",
+   "section": "B",
+   "row": "B09",
+   "family": "ship",
+   "priority": "P2",
+   "desc": "Galleon 88x28x60, merchant ship, fishing boat, rowboat, with rigging",
+   "status": "todo"
+  },
+  {
+   "id": "B10_01_lighthouse",
+   "section": "B",
+   "row": "B10",
+   "family": "harbour_set",
+   "priority": "P2",
+   "desc": "Lighthouse, cargo crane, two warehouses",
+   "status": "todo"
+  },
+  {
+   "id": "B10_02_cargo_crane",
+   "section": "B",
+   "row": "B10",
+   "family": "harbour_set",
+   "priority": "P2",
+   "desc": "Lighthouse, cargo crane, two warehouses",
+   "status": "todo"
+  },
+  {
+   "id": "B10_03_warehouse_a",
+   "section": "B",
+   "row": "B10",
+   "family": "harbour_set",
+   "priority": "P2",
+   "desc": "Lighthouse, cargo crane, two warehouses",
+   "status": "todo"
+  },
+  {
+   "id": "B10_04_warehouse_b",
+   "section": "B",
+   "row": "B10",
+   "family": "harbour_set",
+   "priority": "P2",
+   "desc": "Lighthouse, cargo crane, two warehouses",
+   "status": "todo"
+  },
+  {
+   "id": "C01_01_chalet_01",
+   "section": "C",
+   "row": "C01",
+   "family": "chalet",
+   "priority": "P2",
+   "desc": "Timber and stone chalets with deep snow roofs and icicles",
+   "status": "todo"
+  },
+  {
+   "id": "C01_02_chalet_02",
+   "section": "C",
+   "row": "C01",
+   "family": "chalet",
+   "priority": "P2",
+   "desc": "Timber and stone chalets with deep snow roofs and icicles",
+   "status": "todo"
+  },
+  {
+   "id": "C01_03_chalet_03",
+   "section": "C",
+   "row": "C01",
+   "family": "chalet",
+   "priority": "P2",
+   "desc": "Timber and stone chalets with deep snow roofs and icicles",
+   "status": "todo"
+  },
+  {
+   "id": "C01_04_chalet_04",
+   "section": "C",
+   "row": "C01",
+   "family": "chalet",
+   "priority": "P2",
+   "desc": "Timber and stone chalets with deep snow roofs and icicles",
+   "status": "todo"
+  },
+  {
+   "id": "C01_05_chalet_05",
+   "section": "C",
+   "row": "C01",
+   "family": "chalet",
+   "priority": "P2",
+   "desc": "Timber and stone chalets with deep snow roofs and icicles",
+   "status": "todo"
+  },
+  {
+   "id": "C01_06_chalet_06",
+   "section": "C",
+   "row": "C01",
+   "family": "chalet",
+   "priority": "P2",
+   "desc": "Timber and stone chalets with deep snow roofs and icicles",
+   "status": "todo"
+  },
+  {
+   "id": "C02_01_winter_stall_01",
+   "section": "C",
+   "row": "C02",
+   "family": "winter_stall",
+   "priority": "P2",
+   "desc": "Winter-market stalls with striped awnings and lanterns",
+   "status": "todo"
+  },
+  {
+   "id": "C02_02_winter_stall_02",
+   "section": "C",
+   "row": "C02",
+   "family": "winter_stall",
+   "priority": "P2",
+   "desc": "Winter-market stalls with striped awnings and lanterns",
+   "status": "todo"
+  },
+  {
+   "id": "C02_03_winter_stall_03",
+   "section": "C",
+   "row": "C02",
+   "family": "winter_stall",
+   "priority": "P2",
+   "desc": "Winter-market stalls with striped awnings and lanterns",
+   "status": "todo"
+  },
+  {
+   "id": "C03_01_ski_rack_01",
+   "section": "C",
+   "row": "C03",
+   "family": "ski_rack",
+   "priority": "P3",
+   "desc": "",
+   "status": "todo"
+  },
+  {
+   "id": "C04_01_snowman_01",
+   "section": "C",
+   "row": "C04",
+   "family": "snowman",
+   "priority": "P3",
+   "desc": "Two sizes",
+   "status": "todo"
+  },
+  {
+   "id": "C04_02_snowman_02",
+   "section": "C",
+   "row": "C04",
+   "family": "snowman",
+   "priority": "P3",
+   "desc": "Two sizes",
+   "status": "todo"
+  },
+  {
+   "id": "C05_01_ice_block_01",
+   "section": "C",
+   "row": "C05",
+   "family": "ice_block",
+   "priority": "P3",
+   "desc": "Ice blocks and a sculpture",
+   "status": "todo"
+  },
+  {
+   "id": "C05_02_ice_block_02",
+   "section": "C",
+   "row": "C05",
+   "family": "ice_block",
+   "priority": "P3",
+   "desc": "Ice blocks and a sculpture",
+   "status": "todo"
+  },
+  {
+   "id": "C05_03_ice_block_03",
+   "section": "C",
+   "row": "C05",
+   "family": "ice_block",
+   "priority": "P3",
+   "desc": "Ice blocks and a sculpture",
+   "status": "todo"
+  },
+  {
+   "id": "C06_01_frozen_dock_01",
+   "section": "C",
+   "row": "C06",
+   "family": "frozen_dock",
+   "priority": "P3",
+   "desc": "Lake-edge dock",
+   "status": "todo"
+  },
+  {
+   "id": "C07_01_sled_01",
+   "section": "C",
+   "row": "C07",
+   "family": "sled",
+   "priority": "P3",
+   "desc": "",
+   "status": "todo"
+  },
+  {
+   "id": "C07_02_sled_02",
+   "section": "C",
+   "row": "C07",
+   "family": "sled",
+   "priority": "P3",
+   "desc": "",
+   "status": "todo"
+  },
+  {
+   "id": "C08_01_frozen_boat_01",
+   "section": "C",
+   "row": "C08",
+   "family": "frozen_boat",
+   "priority": "P3",
+   "desc": "Boats stuck in ice",
+   "status": "todo"
+  },
+  {
+   "id": "C08_02_frozen_boat_02",
+   "section": "C",
+   "row": "C08",
+   "family": "frozen_boat",
+   "priority": "P3",
+   "desc": "Boats stuck in ice",
+   "status": "todo"
+  },
+  {
+   "id": "C09_01_frozen_waterfall_01",
+   "section": "C",
+   "row": "C09",
+   "family": "frozen_waterfall",
+   "priority": "P3",
+   "desc": "For the 30-stud step on the ice-lake rim",
+   "status": "todo"
+  },
+  {
+   "id": "C10_01_snow_pine_01",
+   "section": "C",
+   "row": "C10",
+   "family": "snow_pine",
+   "priority": "P1",
+   "desc": "Snow-laden conifers, 4 silhouettes",
+   "status": "todo"
+  },
+  {
+   "id": "C10_02_snow_pine_02",
+   "section": "C",
+   "row": "C10",
+   "family": "snow_pine",
+   "priority": "P1",
+   "desc": "Snow-laden conifers, 4 silhouettes",
+   "status": "todo"
+  },
+  {
+   "id": "C10_03_snow_pine_03",
+   "section": "C",
+   "row": "C10",
+   "family": "snow_pine",
+   "priority": "P1",
+   "desc": "Snow-laden conifers, 4 silhouettes",
+   "status": "todo"
+  },
+  {
+   "id": "C10_04_snow_pine_04",
+   "section": "C",
+   "row": "C10",
+   "family": "snow_pine",
+   "priority": "P1",
+   "desc": "Snow-laden conifers, 4 silhouettes",
+   "status": "todo"
+  },
+  {
+   "id": "D01_01_treehouse_a",
+   "section": "D",
+   "row": "D01",
+   "family": "treehouse",
+   "priority": "P1",
+   "desc": "Big-tree homes with deck, railing, ladder landing (markers), cabin; six layouts",
+   "status": "built"
+  },
+  {
+   "id": "D01_02_treehouse_b",
+   "section": "D",
+   "row": "D01",
+   "family": "treehouse",
+   "priority": "P1",
+   "desc": "Big-tree homes with deck, railing, ladder landing (markers), cabin; six layouts",
+   "status": "built"
+  },
+  {
+   "id": "D01_03_treehouse_c",
+   "section": "D",
+   "row": "D01",
+   "family": "treehouse",
+   "priority": "P1",
+   "desc": "Big-tree homes with deck, railing, ladder landing (markers), cabin; six layouts",
+   "status": "built"
+  },
+  {
+   "id": "D01_04_treehouse_d",
+   "section": "D",
+   "row": "D01",
+   "family": "treehouse",
+   "priority": "P1",
+   "desc": "Big-tree homes with deck, railing, ladder landing (markers), cabin; six layouts",
+   "status": "built"
+  },
+  {
+   "id": "D01_05_treehouse_e",
+   "section": "D",
+   "row": "D01",
+   "family": "treehouse",
+   "priority": "P1",
+   "desc": "Big-tree homes with deck, railing, ladder landing (markers), cabin; six layouts",
+   "status": "built"
+  },
+  {
+   "id": "D01_06_treehouse_f",
+   "section": "D",
+   "row": "D01",
+   "family": "treehouse",
+   "priority": "P1",
+   "desc": "Big-tree homes with deck, railing, ladder landing (markers), cabin; six layouts",
+   "status": "built"
+  },
+  {
+   "id": "D02_01_rope_ladder_short",
+   "section": "D",
+   "row": "D02",
+   "family": "ladder_stair",
+   "priority": "P1",
+   "desc": "Rope ladder short/tall, wooden ladder, trunk spiral stair, switchback stair, landing platform, lift winch",
+   "status": "built"
+  },
+  {
+   "id": "D02_02_rope_ladder_tall",
+   "section": "D",
+   "row": "D02",
+   "family": "ladder_stair",
+   "priority": "P1",
+   "desc": "Rope ladder short/tall, wooden ladder, trunk spiral stair, switchback stair, landing platform, lift winch",
+   "status": "built"
+  },
+  {
+   "id": "D02_03_wood_ladder",
+   "section": "D",
+   "row": "D02",
+   "family": "ladder_stair",
+   "priority": "P1",
+   "desc": "Rope ladder short/tall, wooden ladder, trunk spiral stair, switchback stair, landing platform, lift winch",
+   "status": "built"
+  },
+  {
+   "id": "D02_04_spiral_stair",
+   "section": "D",
+   "row": "D02",
+   "family": "ladder_stair",
+   "priority": "P1",
+   "desc": "Rope ladder short/tall, wooden ladder, trunk spiral stair, switchback stair, landing platform, lift winch",
+   "status": "built"
+  },
+  {
+   "id": "D02_05_switchback_stair",
+   "section": "D",
+   "row": "D02",
+   "family": "ladder_stair",
+   "priority": "P1",
+   "desc": "Rope ladder short/tall, wooden ladder, trunk spiral stair, switchback stair, landing platform, lift winch",
+   "status": "built"
+  },
+  {
+   "id": "D02_06_ladder_landing",
+   "section": "D",
+   "row": "D02",
+   "family": "ladder_stair",
+   "priority": "P1",
+   "desc": "Rope ladder short/tall, wooden ladder, trunk spiral stair, switchback stair, landing platform, lift winch",
+   "status": "built"
+  },
+  {
+   "id": "D02_07_lift_winch",
+   "section": "D",
+   "row": "D02",
+   "family": "ladder_stair",
+   "priority": "P1",
+   "desc": "Rope ladder short/tall, wooden ladder, trunk spiral stair, switchback stair, landing platform, lift winch",
+   "status": "built"
+  },
+  {
+   "id": "D03_01_platform_small",
+   "section": "D",
+   "row": "D03",
+   "family": "platform_walkway",
+   "priority": "P1",
+   "desc": "Platform rings, walkways, rope bridges, anchor post, railing set",
+   "status": "built"
+  },
+  {
+   "id": "D03_02_platform_large",
+   "section": "D",
+   "row": "D03",
+   "family": "platform_walkway",
+   "priority": "P1",
+   "desc": "Platform rings, walkways, rope bridges, anchor post, railing set",
+   "status": "built"
+  },
+  {
+   "id": "D03_03_walkway_straight",
+   "section": "D",
+   "row": "D03",
+   "family": "platform_walkway",
+   "priority": "P1",
+   "desc": "Platform rings, walkways, rope bridges, anchor post, railing set",
+   "status": "built"
+  },
+  {
+   "id": "D03_04_walkway_curved",
+   "section": "D",
+   "row": "D03",
+   "family": "platform_walkway",
+   "priority": "P1",
+   "desc": "Platform rings, walkways, rope bridges, anchor post, railing set",
+   "status": "built"
+  },
+  {
+   "id": "D03_05_rope_bridge_short",
+   "section": "D",
+   "row": "D03",
+   "family": "platform_walkway",
+   "priority": "P1",
+   "desc": "Platform rings, walkways, rope bridges, anchor post, railing set",
+   "status": "built"
+  },
+  {
+   "id": "D03_06_rope_bridge_long",
+   "section": "D",
+   "row": "D03",
+   "family": "platform_walkway",
+   "priority": "P1",
+   "desc": "Platform rings, walkways, rope bridges, anchor post, railing set",
+   "status": "built"
+  },
+  {
+   "id": "D03_07_bridge_anchor",
+   "section": "D",
+   "row": "D03",
+   "family": "platform_walkway",
+   "priority": "P1",
+   "desc": "Platform rings, walkways, rope bridges, anchor post, railing set",
+   "status": "built"
+  },
+  {
+   "id": "D03_08_railing_set",
+   "section": "D",
+   "row": "D03",
+   "family": "platform_walkway",
+   "priority": "P1",
+   "desc": "Platform rings, walkways, rope bridges, anchor post, railing set",
+   "status": "built"
+  },
+  {
+   "id": "D04_01_round_house_a",
+   "section": "D",
+   "row": "D04",
+   "family": "elf_building",
+   "priority": "P1",
+   "desc": "Round houses x3, temple, palace, gate arches x2, market stalls x3, watch post, stone bridges x2, pavilion, moon pool, workshop",
+   "status": "built"
+  },
+  {
+   "id": "D04_02_round_house_b",
+   "section": "D",
+   "row": "D04",
+   "family": "elf_building",
+   "priority": "P1",
+   "desc": "Round houses x3, temple, palace, gate arches x2, market stalls x3, watch post, stone bridges x2, pavilion, moon pool, workshop",
+   "status": "built"
+  },
+  {
+   "id": "D04_03_round_house_c",
+   "section": "D",
+   "row": "D04",
+   "family": "elf_building",
+   "priority": "P1",
+   "desc": "Round houses x3, temple, palace, gate arches x2, market stalls x3, watch post, stone bridges x2, pavilion, moon pool, workshop",
+   "status": "built"
+  },
+  {
+   "id": "D04_04_temple",
+   "section": "D",
+   "row": "D04",
+   "family": "elf_building",
+   "priority": "P1",
+   "desc": "Round houses x3, temple, palace, gate arches x2, market stalls x3, watch post, stone bridges x2, pavilion, moon pool, workshop",
+   "status": "built"
+  },
+  {
+   "id": "D04_05_palace",
+   "section": "D",
+   "row": "D04",
+   "family": "elf_building",
+   "priority": "P1",
+   "desc": "Round houses x3, temple, palace, gate arches x2, market stalls x3, watch post, stone bridges x2, pavilion, moon pool, workshop",
+   "status": "built"
+  },
+  {
+   "id": "D04_06_gate_arch_a",
+   "section": "D",
+   "row": "D04",
+   "family": "elf_building",
+   "priority": "P1",
+   "desc": "Round houses x3, temple, palace, gate arches x2, market stalls x3, watch post, stone bridges x2, pavilion, moon pool, workshop",
+   "status": "built"
+  },
+  {
+   "id": "D04_07_gate_arch_b",
+   "section": "D",
+   "row": "D04",
+   "family": "elf_building",
+   "priority": "P1",
+   "desc": "Round houses x3, temple, palace, gate arches x2, market stalls x3, watch post, stone bridges x2, pavilion, moon pool, workshop",
+   "status": "built"
+  },
+  {
+   "id": "D04_08_stall_a",
+   "section": "D",
+   "row": "D04",
+   "family": "elf_building",
+   "priority": "P1",
+   "desc": "Round houses x3, temple, palace, gate arches x2, market stalls x3, watch post, stone bridges x2, pavilion, moon pool, workshop",
+   "status": "built"
+  },
+  {
+   "id": "D04_09_stall_b",
+   "section": "D",
+   "row": "D04",
+   "family": "elf_building",
+   "priority": "P1",
+   "desc": "Round houses x3, temple, palace, gate arches x2, market stalls x3, watch post, stone bridges x2, pavilion, moon pool, workshop",
+   "status": "built"
+  },
+  {
+   "id": "D04_10_stall_c",
+   "section": "D",
+   "row": "D04",
+   "family": "elf_building",
+   "priority": "P1",
+   "desc": "Round houses x3, temple, palace, gate arches x2, market stalls x3, watch post, stone bridges x2, pavilion, moon pool, workshop",
+   "status": "built"
+  },
+  {
+   "id": "D04_11_watch_post",
+   "section": "D",
+   "row": "D04",
+   "family": "elf_building",
+   "priority": "P1",
+   "desc": "Round houses x3, temple, palace, gate arches x2, market stalls x3, watch post, stone bridges x2, pavilion, moon pool, workshop",
+   "status": "built"
+  },
+  {
+   "id": "D04_12_stone_bridge_a",
+   "section": "D",
+   "row": "D04",
+   "family": "elf_building",
+   "priority": "P1",
+   "desc": "Round houses x3, temple, palace, gate arches x2, market stalls x3, watch post, stone bridges x2, pavilion, moon pool, workshop",
+   "status": "built"
+  },
+  {
+   "id": "D04_13_stone_bridge_b",
+   "section": "D",
+   "row": "D04",
+   "family": "elf_building",
+   "priority": "P1",
+   "desc": "Round houses x3, temple, palace, gate arches x2, market stalls x3, watch post, stone bridges x2, pavilion, moon pool, workshop",
+   "status": "built"
+  },
+  {
+   "id": "D04_14_pavilion",
+   "section": "D",
+   "row": "D04",
+   "family": "elf_building",
+   "priority": "P1",
+   "desc": "Round houses x3, temple, palace, gate arches x2, market stalls x3, watch post, stone bridges x2, pavilion, moon pool, workshop",
+   "status": "built"
+  },
+  {
+   "id": "D04_15_moon_pool",
+   "section": "D",
+   "row": "D04",
+   "family": "elf_building",
+   "priority": "P1",
+   "desc": "Round houses x3, temple, palace, gate arches x2, market stalls x3, watch post, stone bridges x2, pavilion, moon pool, workshop",
+   "status": "built"
+  },
+  {
+   "id": "D04_16_workshop",
+   "section": "D",
+   "row": "D04",
+   "family": "elf_building",
+   "priority": "P1",
+   "desc": "Round houses x3, temple, palace, gate arches x2, market stalls x3, watch post, stone bridges x2, pavilion, moon pool, workshop",
+   "status": "built"
+  },
+  {
+   "id": "D05_01_world_tree_trunk",
+   "section": "D",
+   "row": "D05",
+   "family": "elf_tree",
+   "priority": "P1",
+   "desc": "World tree trunk/roots/canopy, ancient trees x5, canopy clusters x3, stumps x3, logs x2, hollow tree, sapling",
+   "status": "built"
+  },
+  {
+   "id": "D05_02_world_tree_roots",
+   "section": "D",
+   "row": "D05",
+   "family": "elf_tree",
+   "priority": "P1",
+   "desc": "World tree trunk/roots/canopy, ancient trees x5, canopy clusters x3, stumps x3, logs x2, hollow tree, sapling",
+   "status": "built"
+  },
+  {
+   "id": "D05_03_world_tree_canopy",
+   "section": "D",
+   "row": "D05",
+   "family": "elf_tree",
+   "priority": "P1",
+   "desc": "World tree trunk/roots/canopy, ancient trees x5, canopy clusters x3, stumps x3, logs x2, hollow tree, sapling",
+   "status": "built"
+  },
+  {
+   "id": "D05_04_ancient_tree_a",
+   "section": "D",
+   "row": "D05",
+   "family": "elf_tree",
+   "priority": "P1",
+   "desc": "World tree trunk/roots/canopy, ancient trees x5, canopy clusters x3, stumps x3, logs x2, hollow tree, sapling",
+   "status": "built"
+  },
+  {
+   "id": "D05_05_ancient_tree_b",
+   "section": "D",
+   "row": "D05",
+   "family": "elf_tree",
+   "priority": "P1",
+   "desc": "World tree trunk/roots/canopy, ancient trees x5, canopy clusters x3, stumps x3, logs x2, hollow tree, sapling",
+   "status": "built"
+  },
+  {
+   "id": "D05_06_ancient_tree_c",
+   "section": "D",
+   "row": "D05",
+   "family": "elf_tree",
+   "priority": "P1",
+   "desc": "World tree trunk/roots/canopy, ancient trees x5, canopy clusters x3, stumps x3, logs x2, hollow tree, sapling",
+   "status": "built"
+  },
+  {
+   "id": "D05_07_ancient_tree_d",
+   "section": "D",
+   "row": "D05",
+   "family": "elf_tree",
+   "priority": "P1",
+   "desc": "World tree trunk/roots/canopy, ancient trees x5, canopy clusters x3, stumps x3, logs x2, hollow tree, sapling",
+   "status": "built"
+  },
+  {
+   "id": "D05_08_ancient_tree_e",
+   "section": "D",
+   "row": "D05",
+   "family": "elf_tree",
+   "priority": "P1",
+   "desc": "World tree trunk/roots/canopy, ancient trees x5, canopy clusters x3, stumps x3, logs x2, hollow tree, sapling",
+   "status": "built"
+  },
+  {
+   "id": "D05_09_canopy_a",
+   "section": "D",
+   "row": "D05",
+   "family": "elf_tree",
+   "priority": "P1",
+   "desc": "World tree trunk/roots/canopy, ancient trees x5, canopy clusters x3, stumps x3, logs x2, hollow tree, sapling",
+   "status": "built"
+  },
+  {
+   "id": "D05_10_canopy_b",
+   "section": "D",
+   "row": "D05",
+   "family": "elf_tree",
+   "priority": "P1",
+   "desc": "World tree trunk/roots/canopy, ancient trees x5, canopy clusters x3, stumps x3, logs x2, hollow tree, sapling",
+   "status": "built"
+  },
+  {
+   "id": "D05_11_canopy_c",
+   "section": "D",
+   "row": "D05",
+   "family": "elf_tree",
+   "priority": "P1",
+   "desc": "World tree trunk/roots/canopy, ancient trees x5, canopy clusters x3, stumps x3, logs x2, hollow tree, sapling",
+   "status": "built"
+  },
+  {
+   "id": "D05_12_stump_a",
+   "section": "D",
+   "row": "D05",
+   "family": "elf_tree",
+   "priority": "P1",
+   "desc": "World tree trunk/roots/canopy, ancient trees x5, canopy clusters x3, stumps x3, logs x2, hollow tree, sapling",
+   "status": "built"
+  },
+  {
+   "id": "D05_13_stump_b",
+   "section": "D",
+   "row": "D05",
+   "family": "elf_tree",
+   "priority": "P1",
+   "desc": "World tree trunk/roots/canopy, ancient trees x5, canopy clusters x3, stumps x3, logs x2, hollow tree, sapling",
+   "status": "built"
+  },
+  {
+   "id": "D05_14_stump_c",
+   "section": "D",
+   "row": "D05",
+   "family": "elf_tree",
+   "priority": "P1",
+   "desc": "World tree trunk/roots/canopy, ancient trees x5, canopy clusters x3, stumps x3, logs x2, hollow tree, sapling",
+   "status": "built"
+  },
+  {
+   "id": "D05_15_log_a",
+   "section": "D",
+   "row": "D05",
+   "family": "elf_tree",
+   "priority": "P1",
+   "desc": "World tree trunk/roots/canopy, ancient trees x5, canopy clusters x3, stumps x3, logs x2, hollow tree, sapling",
+   "status": "built"
+  },
+  {
+   "id": "D05_16_log_b",
+   "section": "D",
+   "row": "D05",
+   "family": "elf_tree",
+   "priority": "P1",
+   "desc": "World tree trunk/roots/canopy, ancient trees x5, canopy clusters x3, stumps x3, logs x2, hollow tree, sapling",
+   "status": "built"
+  },
+  {
+   "id": "D05_17_hollow_tree",
+   "section": "D",
+   "row": "D05",
+   "family": "elf_tree",
+   "priority": "P1",
+   "desc": "World tree trunk/roots/canopy, ancient trees x5, canopy clusters x3, stumps x3, logs x2, hollow tree, sapling",
+   "status": "built"
+  },
+  {
+   "id": "D05_18_sapling",
+   "section": "D",
+   "row": "D05",
+   "family": "elf_tree",
+   "priority": "P1",
+   "desc": "World tree trunk/roots/canopy, ancient trees x5, canopy clusters x3, stumps x3, logs x2, hollow tree, sapling",
+   "status": "built"
+  },
+  {
+   "id": "D06_01_fern_a",
+   "section": "D",
+   "row": "D06",
+   "family": "elf_plant",
+   "priority": "P2",
+   "desc": "Ferns x3, bushes x3, natural flowers x3, mossy rocks x3, ivy x3, hanging moss x2, mushrooms x2",
+   "status": "built"
+  },
+  {
+   "id": "D06_02_fern_b",
+   "section": "D",
+   "row": "D06",
+   "family": "elf_plant",
+   "priority": "P2",
+   "desc": "Ferns x3, bushes x3, natural flowers x3, mossy rocks x3, ivy x3, hanging moss x2, mushrooms x2",
+   "status": "built"
+  },
+  {
+   "id": "D06_03_fern_c",
+   "section": "D",
+   "row": "D06",
+   "family": "elf_plant",
+   "priority": "P2",
+   "desc": "Ferns x3, bushes x3, natural flowers x3, mossy rocks x3, ivy x3, hanging moss x2, mushrooms x2",
+   "status": "built"
+  },
+  {
+   "id": "D06_04_bush_a",
+   "section": "D",
+   "row": "D06",
+   "family": "elf_plant",
+   "priority": "P2",
+   "desc": "Ferns x3, bushes x3, natural flowers x3, mossy rocks x3, ivy x3, hanging moss x2, mushrooms x2",
+   "status": "built"
+  },
+  {
+   "id": "D06_05_bush_b",
+   "section": "D",
+   "row": "D06",
+   "family": "elf_plant",
+   "priority": "P2",
+   "desc": "Ferns x3, bushes x3, natural flowers x3, mossy rocks x3, ivy x3, hanging moss x2, mushrooms x2",
+   "status": "built"
+  },
+  {
+   "id": "D06_06_bush_c",
+   "section": "D",
+   "row": "D06",
+   "family": "elf_plant",
+   "priority": "P2",
+   "desc": "Ferns x3, bushes x3, natural flowers x3, mossy rocks x3, ivy x3, hanging moss x2, mushrooms x2",
+   "status": "built"
+  },
+  {
+   "id": "D06_07_flower_a",
+   "section": "D",
+   "row": "D06",
+   "family": "elf_plant",
+   "priority": "P2",
+   "desc": "Ferns x3, bushes x3, natural flowers x3, mossy rocks x3, ivy x3, hanging moss x2, mushrooms x2",
+   "status": "built"
+  },
+  {
+   "id": "D06_08_flower_b",
+   "section": "D",
+   "row": "D06",
+   "family": "elf_plant",
+   "priority": "P2",
+   "desc": "Ferns x3, bushes x3, natural flowers x3, mossy rocks x3, ivy x3, hanging moss x2, mushrooms x2",
+   "status": "built"
+  },
+  {
+   "id": "D06_09_flower_c",
+   "section": "D",
+   "row": "D06",
+   "family": "elf_plant",
+   "priority": "P2",
+   "desc": "Ferns x3, bushes x3, natural flowers x3, mossy rocks x3, ivy x3, hanging moss x2, mushrooms x2",
+   "status": "built"
+  },
+  {
+   "id": "D06_10_moss_rock_a",
+   "section": "D",
+   "row": "D06",
+   "family": "elf_plant",
+   "priority": "P2",
+   "desc": "Ferns x3, bushes x3, natural flowers x3, mossy rocks x3, ivy x3, hanging moss x2, mushrooms x2",
+   "status": "built"
+  },
+  {
+   "id": "D06_11_moss_rock_b",
+   "section": "D",
+   "row": "D06",
+   "family": "elf_plant",
+   "priority": "P2",
+   "desc": "Ferns x3, bushes x3, natural flowers x3, mossy rocks x3, ivy x3, hanging moss x2, mushrooms x2",
+   "status": "built"
+  },
+  {
+   "id": "D06_12_moss_rock_c",
+   "section": "D",
+   "row": "D06",
+   "family": "elf_plant",
+   "priority": "P2",
+   "desc": "Ferns x3, bushes x3, natural flowers x3, mossy rocks x3, ivy x3, hanging moss x2, mushrooms x2",
+   "status": "built"
+  },
+  {
+   "id": "D06_13_ivy_a",
+   "section": "D",
+   "row": "D06",
+   "family": "elf_plant",
+   "priority": "P2",
+   "desc": "Ferns x3, bushes x3, natural flowers x3, mossy rocks x3, ivy x3, hanging moss x2, mushrooms x2",
+   "status": "built"
+  },
+  {
+   "id": "D06_14_ivy_b",
+   "section": "D",
+   "row": "D06",
+   "family": "elf_plant",
+   "priority": "P2",
+   "desc": "Ferns x3, bushes x3, natural flowers x3, mossy rocks x3, ivy x3, hanging moss x2, mushrooms x2",
+   "status": "built"
+  },
+  {
+   "id": "D06_15_ivy_c",
+   "section": "D",
+   "row": "D06",
+   "family": "elf_plant",
+   "priority": "P2",
+   "desc": "Ferns x3, bushes x3, natural flowers x3, mossy rocks x3, ivy x3, hanging moss x2, mushrooms x2",
+   "status": "built"
+  },
+  {
+   "id": "D06_16_hanging_moss_a",
+   "section": "D",
+   "row": "D06",
+   "family": "elf_plant",
+   "priority": "P2",
+   "desc": "Ferns x3, bushes x3, natural flowers x3, mossy rocks x3, ivy x3, hanging moss x2, mushrooms x2",
+   "status": "built"
+  },
+  {
+   "id": "D06_17_hanging_moss_b",
+   "section": "D",
+   "row": "D06",
+   "family": "elf_plant",
+   "priority": "P2",
+   "desc": "Ferns x3, bushes x3, natural flowers x3, mossy rocks x3, ivy x3, hanging moss x2, mushrooms x2",
+   "status": "built"
+  },
+  {
+   "id": "D06_18_mushroom_a",
+   "section": "D",
+   "row": "D06",
+   "family": "elf_plant",
+   "priority": "P2",
+   "desc": "Ferns x3, bushes x3, natural flowers x3, mossy rocks x3, ivy x3, hanging moss x2, mushrooms x2",
+   "status": "built"
+  },
+  {
+   "id": "D06_19_mushroom_b",
+   "section": "D",
+   "row": "D06",
+   "family": "elf_plant",
+   "priority": "P2",
+   "desc": "Ferns x3, bushes x3, natural flowers x3, mossy rocks x3, ivy x3, hanging moss x2, mushrooms x2",
+   "status": "built"
+  },
+  {
+   "id": "D07_01_lantern_post_a",
+   "section": "D",
+   "row": "D07",
+   "family": "elf_light",
+   "priority": "P1",
+   "desc": "Warm lanterns only: standing x2, hanging x2, brazier, candle cluster",
+   "status": "built"
+  },
+  {
+   "id": "D07_02_lantern_post_b",
+   "section": "D",
+   "row": "D07",
+   "family": "elf_light",
+   "priority": "P1",
+   "desc": "Warm lanterns only: standing x2, hanging x2, brazier, candle cluster",
+   "status": "built"
+  },
+  {
+   "id": "D07_03_lantern_hang_a",
+   "section": "D",
+   "row": "D07",
+   "family": "elf_light",
+   "priority": "P1",
+   "desc": "Warm lanterns only: standing x2, hanging x2, brazier, candle cluster",
+   "status": "built"
+  },
+  {
+   "id": "D07_04_lantern_hang_b",
+   "section": "D",
+   "row": "D07",
+   "family": "elf_light",
+   "priority": "P1",
+   "desc": "Warm lanterns only: standing x2, hanging x2, brazier, candle cluster",
+   "status": "built"
+  },
+  {
+   "id": "D07_05_brazier",
+   "section": "D",
+   "row": "D07",
+   "family": "elf_light",
+   "priority": "P1",
+   "desc": "Warm lanterns only: standing x2, hanging x2, brazier, candle cluster",
+   "status": "built"
+  },
+  {
+   "id": "D07_06_candle_cluster",
+   "section": "D",
+   "row": "D07",
+   "family": "elf_light",
+   "priority": "P1",
+   "desc": "Warm lanterns only: standing x2, hanging x2, brazier, candle cluster",
+   "status": "built"
+  },
+  {
+   "id": "D08_01_statue_a",
+   "section": "D",
+   "row": "D08",
+   "family": "elf_statue_ruin",
+   "priority": "P2",
+   "desc": "Statues x3, ruined arch x2, standing stones x2, carved markers x2, banners x3",
+   "status": "built"
+  },
+  {
+   "id": "D08_02_statue_b",
+   "section": "D",
+   "row": "D08",
+   "family": "elf_statue_ruin",
+   "priority": "P2",
+   "desc": "Statues x3, ruined arch x2, standing stones x2, carved markers x2, banners x3",
+   "status": "built"
+  },
+  {
+   "id": "D08_03_statue_c",
+   "section": "D",
+   "row": "D08",
+   "family": "elf_statue_ruin",
+   "priority": "P2",
+   "desc": "Statues x3, ruined arch x2, standing stones x2, carved markers x2, banners x3",
+   "status": "built"
+  },
+  {
+   "id": "D08_04_ruin_arch_a",
+   "section": "D",
+   "row": "D08",
+   "family": "elf_statue_ruin",
+   "priority": "P2",
+   "desc": "Statues x3, ruined arch x2, standing stones x2, carved markers x2, banners x3",
+   "status": "built"
+  },
+  {
+   "id": "D08_05_ruin_arch_b",
+   "section": "D",
+   "row": "D08",
+   "family": "elf_statue_ruin",
+   "priority": "P2",
+   "desc": "Statues x3, ruined arch x2, standing stones x2, carved markers x2, banners x3",
+   "status": "built"
+  },
+  {
+   "id": "D08_06_standing_stone_a",
+   "section": "D",
+   "row": "D08",
+   "family": "elf_statue_ruin",
+   "priority": "P2",
+   "desc": "Statues x3, ruined arch x2, standing stones x2, carved markers x2, banners x3",
+   "status": "built"
+  },
+  {
+   "id": "D08_07_standing_stone_b",
+   "section": "D",
+   "row": "D08",
+   "family": "elf_statue_ruin",
+   "priority": "P2",
+   "desc": "Statues x3, ruined arch x2, standing stones x2, carved markers x2, banners x3",
+   "status": "built"
+  },
+  {
+   "id": "D08_08_marker_a",
+   "section": "D",
+   "row": "D08",
+   "family": "elf_statue_ruin",
+   "priority": "P2",
+   "desc": "Statues x3, ruined arch x2, standing stones x2, carved markers x2, banners x3",
+   "status": "built"
+  },
+  {
+   "id": "D08_09_marker_b",
+   "section": "D",
+   "row": "D08",
+   "family": "elf_statue_ruin",
+   "priority": "P2",
+   "desc": "Statues x3, ruined arch x2, standing stones x2, carved markers x2, banners x3",
+   "status": "built"
+  },
+  {
+   "id": "D08_10_banner_a",
+   "section": "D",
+   "row": "D08",
+   "family": "elf_statue_ruin",
+   "priority": "P2",
+   "desc": "Statues x3, ruined arch x2, standing stones x2, carved markers x2, banners x3",
+   "status": "built"
+  },
+  {
+   "id": "D08_11_banner_b",
+   "section": "D",
+   "row": "D08",
+   "family": "elf_statue_ruin",
+   "priority": "P2",
+   "desc": "Statues x3, ruined arch x2, standing stones x2, carved markers x2, banners x3",
+   "status": "built"
+  },
+  {
+   "id": "D08_12_banner_c",
+   "section": "D",
+   "row": "D08",
+   "family": "elf_statue_ruin",
+   "priority": "P2",
+   "desc": "Statues x3, ruined arch x2, standing stones x2, carved markers x2, banners x3",
+   "status": "built"
+  },
+  {
+   "id": "D09_01_waterfall_cliff_a",
+   "section": "D",
+   "row": "D09",
+   "family": "elf_water",
+   "priority": "P2",
+   "desc": "Waterfall cliff x2, stepping stones, small bridges x2",
+   "status": "built"
+  },
+  {
+   "id": "D09_02_waterfall_cliff_b",
+   "section": "D",
+   "row": "D09",
+   "family": "elf_water",
+   "priority": "P2",
+   "desc": "Waterfall cliff x2, stepping stones, small bridges x2",
+   "status": "built"
+  },
+  {
+   "id": "D09_03_stepping_stones",
+   "section": "D",
+   "row": "D09",
+   "family": "elf_water",
+   "priority": "P2",
+   "desc": "Waterfall cliff x2, stepping stones, small bridges x2",
+   "status": "built"
+  },
+  {
+   "id": "D09_04_plank_bridge_a",
+   "section": "D",
+   "row": "D09",
+   "family": "elf_water",
+   "priority": "P2",
+   "desc": "Waterfall cliff x2, stepping stones, small bridges x2",
+   "status": "built"
+  },
+  {
+   "id": "D09_05_plank_bridge_b",
+   "section": "D",
+   "row": "D09",
+   "family": "elf_water",
+   "priority": "P2",
+   "desc": "Waterfall cliff x2, stepping stones, small bridges x2",
+   "status": "built"
+  },
+  {
+   "id": "E01_01_gravestone_01",
+   "section": "E",
+   "row": "E01",
+   "family": "gravestone",
+   "priority": "P2",
+   "desc": "Weathered, tilted, moss",
+   "status": "todo"
+  },
+  {
+   "id": "E01_02_gravestone_02",
+   "section": "E",
+   "row": "E01",
+   "family": "gravestone",
+   "priority": "P2",
+   "desc": "Weathered, tilted, moss",
+   "status": "todo"
+  },
+  {
+   "id": "E01_03_gravestone_03",
+   "section": "E",
+   "row": "E01",
+   "family": "gravestone",
+   "priority": "P2",
+   "desc": "Weathered, tilted, moss",
+   "status": "todo"
+  },
+  {
+   "id": "E01_04_gravestone_04",
+   "section": "E",
+   "row": "E01",
+   "family": "gravestone",
+   "priority": "P2",
+   "desc": "Weathered, tilted, moss",
+   "status": "todo"
+  },
+  {
+   "id": "E01_05_gravestone_05",
+   "section": "E",
+   "row": "E01",
+   "family": "gravestone",
+   "priority": "P2",
+   "desc": "Weathered, tilted, moss",
+   "status": "todo"
+  },
+  {
+   "id": "E01_06_gravestone_06",
+   "section": "E",
+   "row": "E01",
+   "family": "gravestone",
+   "priority": "P2",
+   "desc": "Weathered, tilted, moss",
+   "status": "todo"
+  },
+  {
+   "id": "E01_07_gravestone_07",
+   "section": "E",
+   "row": "E01",
+   "family": "gravestone",
+   "priority": "P2",
+   "desc": "Weathered, tilted, moss",
+   "status": "todo"
+  },
+  {
+   "id": "E01_08_gravestone_08",
+   "section": "E",
+   "row": "E01",
+   "family": "gravestone",
+   "priority": "P2",
+   "desc": "Weathered, tilted, moss",
+   "status": "todo"
+  },
+  {
+   "id": "E02_01_crypt_01",
+   "section": "E",
+   "row": "E02",
+   "family": "crypt",
+   "priority": "P2",
+   "desc": "Mausoleums",
+   "status": "todo"
+  },
+  {
+   "id": "E02_02_crypt_02",
+   "section": "E",
+   "row": "E02",
+   "family": "crypt",
+   "priority": "P2",
+   "desc": "Mausoleums",
+   "status": "todo"
+  },
+  {
+   "id": "E02_03_crypt_03",
+   "section": "E",
+   "row": "E02",
+   "family": "crypt",
+   "priority": "P2",
+   "desc": "Mausoleums",
+   "status": "todo"
+  },
+  {
+   "id": "E03_01_weeping_statue_01",
+   "section": "E",
+   "row": "E03",
+   "family": "weeping_statue",
+   "priority": "P2",
+   "desc": "",
+   "status": "todo"
+  },
+  {
+   "id": "E03_02_weeping_statue_02",
+   "section": "E",
+   "row": "E03",
+   "family": "weeping_statue",
+   "priority": "P2",
+   "desc": "",
+   "status": "todo"
+  },
+  {
+   "id": "E03_03_weeping_statue_03",
+   "section": "E",
+   "row": "E03",
+   "family": "weeping_statue",
+   "priority": "P2",
+   "desc": "",
+   "status": "todo"
+  },
+  {
+   "id": "E04_01_iron_fence_gate_01",
+   "section": "E",
+   "row": "E04",
+   "family": "iron_fence_gate",
+   "priority": "P2",
+   "desc": "Fence section and gate",
+   "status": "todo"
+  },
+  {
+   "id": "E04_02_iron_fence_gate_02",
+   "section": "E",
+   "row": "E04",
+   "family": "iron_fence_gate",
+   "priority": "P2",
+   "desc": "Fence section and gate",
+   "status": "todo"
+  },
+  {
+   "id": "E05_01_dead_tree_01",
+   "section": "E",
+   "row": "E05",
+   "family": "dead_tree",
+   "priority": "P2",
+   "desc": "",
+   "status": "todo"
+  },
+  {
+   "id": "E05_02_dead_tree_02",
+   "section": "E",
+   "row": "E05",
+   "family": "dead_tree",
+   "priority": "P2",
+   "desc": "",
+   "status": "todo"
+  },
+  {
+   "id": "E05_03_dead_tree_03",
+   "section": "E",
+   "row": "E05",
+   "family": "dead_tree",
+   "priority": "P2",
+   "desc": "",
+   "status": "todo"
+  },
+  {
+   "id": "E05_04_dead_tree_04",
+   "section": "E",
+   "row": "E05",
+   "family": "dead_tree",
+   "priority": "P2",
+   "desc": "",
+   "status": "todo"
+  },
+  {
+   "id": "E05_05_dead_tree_05",
+   "section": "E",
+   "row": "E05",
+   "family": "dead_tree",
+   "priority": "P2",
+   "desc": "",
+   "status": "todo"
+  },
+  {
+   "id": "E05_06_dead_tree_06",
+   "section": "E",
+   "row": "E05",
+   "family": "dead_tree",
+   "priority": "P2",
+   "desc": "",
+   "status": "todo"
+  },
+  {
+   "id": "E06_01_rusty_debris_01",
+   "section": "E",
+   "row": "E06",
+   "family": "rusty_debris",
+   "priority": "P2",
+   "desc": "Scrap piles x5, tents x3, collapsed walls x4",
+   "status": "todo"
+  },
+  {
+   "id": "E06_02_rusty_debris_02",
+   "section": "E",
+   "row": "E06",
+   "family": "rusty_debris",
+   "priority": "P2",
+   "desc": "Scrap piles x5, tents x3, collapsed walls x4",
+   "status": "todo"
+  },
+  {
+   "id": "E06_03_rusty_debris_03",
+   "section": "E",
+   "row": "E06",
+   "family": "rusty_debris",
+   "priority": "P2",
+   "desc": "Scrap piles x5, tents x3, collapsed walls x4",
+   "status": "todo"
+  },
+  {
+   "id": "E06_04_rusty_debris_04",
+   "section": "E",
+   "row": "E06",
+   "family": "rusty_debris",
+   "priority": "P2",
+   "desc": "Scrap piles x5, tents x3, collapsed walls x4",
+   "status": "todo"
+  },
+  {
+   "id": "E06_05_rusty_debris_05",
+   "section": "E",
+   "row": "E06",
+   "family": "rusty_debris",
+   "priority": "P2",
+   "desc": "Scrap piles x5, tents x3, collapsed walls x4",
+   "status": "todo"
+  },
+  {
+   "id": "E06_06_rusty_debris_06",
+   "section": "E",
+   "row": "E06",
+   "family": "rusty_debris",
+   "priority": "P2",
+   "desc": "Scrap piles x5, tents x3, collapsed walls x4",
+   "status": "todo"
+  },
+  {
+   "id": "E06_07_rusty_debris_07",
+   "section": "E",
+   "row": "E06",
+   "family": "rusty_debris",
+   "priority": "P2",
+   "desc": "Scrap piles x5, tents x3, collapsed walls x4",
+   "status": "todo"
+  },
+  {
+   "id": "E06_08_rusty_debris_08",
+   "section": "E",
+   "row": "E06",
+   "family": "rusty_debris",
+   "priority": "P2",
+   "desc": "Scrap piles x5, tents x3, collapsed walls x4",
+   "status": "todo"
+  },
+  {
+   "id": "E06_09_rusty_debris_09",
+   "section": "E",
+   "row": "E06",
+   "family": "rusty_debris",
+   "priority": "P2",
+   "desc": "Scrap piles x5, tents x3, collapsed walls x4",
+   "status": "todo"
+  },
+  {
+   "id": "E06_10_rusty_debris_10",
+   "section": "E",
+   "row": "E06",
+   "family": "rusty_debris",
+   "priority": "P2",
+   "desc": "Scrap piles x5, tents x3, collapsed walls x4",
+   "status": "todo"
+  },
+  {
+   "id": "E06_11_rusty_debris_11",
+   "section": "E",
+   "row": "E06",
+   "family": "rusty_debris",
+   "priority": "P2",
+   "desc": "Scrap piles x5, tents x3, collapsed walls x4",
+   "status": "todo"
+  },
+  {
+   "id": "E06_12_rusty_debris_12",
+   "section": "E",
+   "row": "E06",
+   "family": "rusty_debris",
+   "priority": "P2",
+   "desc": "Scrap piles x5, tents x3, collapsed walls x4",
+   "status": "todo"
+  },
+  {
+   "id": "E07_01_rusty_prop_01",
+   "section": "E",
+   "row": "E07",
+   "family": "rusty_prop",
+   "priority": "P3",
+   "desc": "Crooked lamps x3, rusted carts x3, broken barrels x3",
+   "status": "todo"
+  },
+  {
+   "id": "E07_02_rusty_prop_02",
+   "section": "E",
+   "row": "E07",
+   "family": "rusty_prop",
+   "priority": "P3",
+   "desc": "Crooked lamps x3, rusted carts x3, broken barrels x3",
+   "status": "todo"
+  },
+  {
+   "id": "E07_03_rusty_prop_03",
+   "section": "E",
+   "row": "E07",
+   "family": "rusty_prop",
+   "priority": "P3",
+   "desc": "Crooked lamps x3, rusted carts x3, broken barrels x3",
+   "status": "todo"
+  },
+  {
+   "id": "E07_04_rusty_prop_04",
+   "section": "E",
+   "row": "E07",
+   "family": "rusty_prop",
+   "priority": "P3",
+   "desc": "Crooked lamps x3, rusted carts x3, broken barrels x3",
+   "status": "todo"
+  },
+  {
+   "id": "E07_05_rusty_prop_05",
+   "section": "E",
+   "row": "E07",
+   "family": "rusty_prop",
+   "priority": "P3",
+   "desc": "Crooked lamps x3, rusted carts x3, broken barrels x3",
+   "status": "todo"
+  },
+  {
+   "id": "E07_06_rusty_prop_06",
+   "section": "E",
+   "row": "E07",
+   "family": "rusty_prop",
+   "priority": "P3",
+   "desc": "Crooked lamps x3, rusted carts x3, broken barrels x3",
+   "status": "todo"
+  },
+  {
+   "id": "E07_07_rusty_prop_07",
+   "section": "E",
+   "row": "E07",
+   "family": "rusty_prop",
+   "priority": "P3",
+   "desc": "Crooked lamps x3, rusted carts x3, broken barrels x3",
+   "status": "todo"
+  },
+  {
+   "id": "E07_08_rusty_prop_08",
+   "section": "E",
+   "row": "E07",
+   "family": "rusty_prop",
+   "priority": "P3",
+   "desc": "Crooked lamps x3, rusted carts x3, broken barrels x3",
+   "status": "todo"
+  },
+  {
+   "id": "E07_09_rusty_prop_09",
+   "section": "E",
+   "row": "E07",
+   "family": "rusty_prop",
+   "priority": "P3",
+   "desc": "Crooked lamps x3, rusted carts x3, broken barrels x3",
+   "status": "todo"
+  },
+  {
+   "id": "E08_01_barn_01",
+   "section": "E",
+   "row": "E08",
+   "family": "barn",
+   "priority": "P2",
+   "desc": "",
+   "status": "todo"
+  },
+  {
+   "id": "E08_02_barn_02",
+   "section": "E",
+   "row": "E08",
+   "family": "barn",
+   "priority": "P2",
+   "desc": "",
+   "status": "todo"
+  },
+  {
+   "id": "E08_03_barn_03",
+   "section": "E",
+   "row": "E08",
+   "family": "barn",
+   "priority": "P2",
+   "desc": "",
+   "status": "todo"
+  },
+  {
+   "id": "E09_01_windmill_01",
+   "section": "E",
+   "row": "E09",
+   "family": "windmill",
+   "priority": "P2",
+   "desc": "",
+   "status": "todo"
+  },
+  {
+   "id": "E09_02_windmill_02",
+   "section": "E",
+   "row": "E09",
+   "family": "windmill",
+   "priority": "P2",
+   "desc": "",
+   "status": "todo"
+  },
+  {
+   "id": "E10_01_crop_plot_01",
+   "section": "E",
+   "row": "E10",
+   "family": "crop_plot",
+   "priority": "P2",
+   "desc": "Wheat, vegetables, etc.",
+   "status": "todo"
+  },
+  {
+   "id": "E10_02_crop_plot_02",
+   "section": "E",
+   "row": "E10",
+   "family": "crop_plot",
+   "priority": "P2",
+   "desc": "Wheat, vegetables, etc.",
+   "status": "todo"
+  },
+  {
+   "id": "E10_03_crop_plot_03",
+   "section": "E",
+   "row": "E10",
+   "family": "crop_plot",
+   "priority": "P2",
+   "desc": "Wheat, vegetables, etc.",
+   "status": "todo"
+  },
+  {
+   "id": "E10_04_crop_plot_04",
+   "section": "E",
+   "row": "E10",
+   "family": "crop_plot",
+   "priority": "P2",
+   "desc": "Wheat, vegetables, etc.",
+   "status": "todo"
+  },
+  {
+   "id": "E10_05_crop_plot_05",
+   "section": "E",
+   "row": "E10",
+   "family": "crop_plot",
+   "priority": "P2",
+   "desc": "Wheat, vegetables, etc.",
+   "status": "todo"
+  },
+  {
+   "id": "E10_06_crop_plot_06",
+   "section": "E",
+   "row": "E10",
+   "family": "crop_plot",
+   "priority": "P2",
+   "desc": "Wheat, vegetables, etc.",
+   "status": "todo"
+  },
+  {
+   "id": "E11_01_scarecrow_01",
+   "section": "E",
+   "row": "E11",
+   "family": "scarecrow",
+   "priority": "P3",
+   "desc": "",
+   "status": "todo"
+  },
+  {
+   "id": "E11_02_scarecrow_02",
+   "section": "E",
+   "row": "E11",
+   "family": "scarecrow",
+   "priority": "P3",
+   "desc": "",
+   "status": "todo"
+  },
+  {
+   "id": "E11_03_scarecrow_03",
+   "section": "E",
+   "row": "E11",
+   "family": "scarecrow",
+   "priority": "P3",
+   "desc": "",
+   "status": "todo"
+  },
+  {
+   "id": "E12_01_shrine_ruin_01",
+   "section": "E",
+   "row": "E12",
+   "family": "shrine_ruin",
+   "priority": "P2",
+   "desc": "",
+   "status": "todo"
+  },
+  {
+   "id": "E12_02_shrine_ruin_02",
+   "section": "E",
+   "row": "E12",
+   "family": "shrine_ruin",
+   "priority": "P2",
+   "desc": "",
+   "status": "todo"
+  },
+  {
+   "id": "E12_03_shrine_ruin_03",
+   "section": "E",
+   "row": "E12",
+   "family": "shrine_ruin",
+   "priority": "P2",
+   "desc": "",
+   "status": "todo"
+  },
+  {
+   "id": "E12_04_shrine_ruin_04",
+   "section": "E",
+   "row": "E12",
+   "family": "shrine_ruin",
+   "priority": "P2",
+   "desc": "",
+   "status": "todo"
+  },
+  {
+   "id": "E13_01_rock_face_01",
+   "section": "E",
+   "row": "E13",
+   "family": "rock_face",
+   "priority": "P1",
+   "desc": "Large seamless cliff faces for mountains, 3-4 for the tower massif",
+   "status": "todo"
+  },
+  {
+   "id": "E13_02_rock_face_02",
+   "section": "E",
+   "row": "E13",
+   "family": "rock_face",
+   "priority": "P1",
+   "desc": "Large seamless cliff faces for mountains, 3-4 for the tower massif",
+   "status": "todo"
+  },
+  {
+   "id": "E13_03_rock_face_03",
+   "section": "E",
+   "row": "E13",
+   "family": "rock_face",
+   "priority": "P1",
+   "desc": "Large seamless cliff faces for mountains, 3-4 for the tower massif",
+   "status": "todo"
+  },
+  {
+   "id": "E13_04_rock_face_04",
+   "section": "E",
+   "row": "E13",
+   "family": "rock_face",
+   "priority": "P1",
+   "desc": "Large seamless cliff faces for mountains, 3-4 for the tower massif",
+   "status": "todo"
+  },
+  {
+   "id": "E13_05_rock_face_05",
+   "section": "E",
+   "row": "E13",
+   "family": "rock_face",
+   "priority": "P1",
+   "desc": "Large seamless cliff faces for mountains, 3-4 for the tower massif",
+   "status": "todo"
+  },
+  {
+   "id": "E13_06_rock_face_06",
+   "section": "E",
+   "row": "E13",
+   "family": "rock_face",
+   "priority": "P1",
+   "desc": "Large seamless cliff faces for mountains, 3-4 for the tower massif",
+   "status": "todo"
+  },
+  {
+   "id": "E13_07_rock_face_07",
+   "section": "E",
+   "row": "E13",
+   "family": "rock_face",
+   "priority": "P1",
+   "desc": "Large seamless cliff faces for mountains, 3-4 for the tower massif",
+   "status": "todo"
+  },
+  {
+   "id": "E13_08_rock_face_08",
+   "section": "E",
+   "row": "E13",
+   "family": "rock_face",
+   "priority": "P1",
+   "desc": "Large seamless cliff faces for mountains, 3-4 for the tower massif",
+   "status": "todo"
+  },
+  {
+   "id": "E13_09_rock_face_09",
+   "section": "E",
+   "row": "E13",
+   "family": "rock_face",
+   "priority": "P1",
+   "desc": "Large seamless cliff faces for mountains, 3-4 for the tower massif",
+   "status": "todo"
+  },
+  {
+   "id": "E13_10_rock_face_10",
+   "section": "E",
+   "row": "E13",
+   "family": "rock_face",
+   "priority": "P1",
+   "desc": "Large seamless cliff faces for mountains, 3-4 for the tower massif",
+   "status": "todo"
+  },
+  {
+   "id": "E14_01_icelake_rim_wall_01",
+   "section": "E",
+   "row": "E14",
+   "family": "icelake_rim_wall",
+   "priority": "P2",
+   "desc": "30-stud cliff step on the lake rim",
+   "status": "todo"
+  },
+  {
+   "id": "E14_02_icelake_rim_wall_02",
+   "section": "E",
+   "row": "E14",
+   "family": "icelake_rim_wall",
+   "priority": "P2",
+   "desc": "30-stud cliff step on the lake rim",
+   "status": "todo"
+  },
+  {
+   "id": "E14_03_icelake_rim_wall_03",
+   "section": "E",
+   "row": "E14",
+   "family": "icelake_rim_wall",
+   "priority": "P2",
+   "desc": "30-stud cliff step on the lake rim",
+   "status": "todo"
+  },
+  {
+   "id": "E14_04_icelake_rim_wall_04",
+   "section": "E",
+   "row": "E14",
+   "family": "icelake_rim_wall",
+   "priority": "P2",
+   "desc": "30-stud cliff step on the lake rim",
+   "status": "todo"
+  },
+  {
+   "id": "E15_01_boulder_01",
+   "section": "E",
+   "row": "E15",
+   "family": "boulder",
+   "priority": "P2",
+   "desc": "Natural, not overscaled",
+   "status": "todo"
+  },
+  {
+   "id": "E15_02_boulder_02",
+   "section": "E",
+   "row": "E15",
+   "family": "boulder",
+   "priority": "P2",
+   "desc": "Natural, not overscaled",
+   "status": "todo"
+  },
+  {
+   "id": "E15_03_boulder_03",
+   "section": "E",
+   "row": "E15",
+   "family": "boulder",
+   "priority": "P2",
+   "desc": "Natural, not overscaled",
+   "status": "todo"
+  },
+  {
+   "id": "E15_04_boulder_04",
+   "section": "E",
+   "row": "E15",
+   "family": "boulder",
+   "priority": "P2",
+   "desc": "Natural, not overscaled",
+   "status": "todo"
+  },
+  {
+   "id": "E15_05_boulder_05",
+   "section": "E",
+   "row": "E15",
+   "family": "boulder",
+   "priority": "P2",
+   "desc": "Natural, not overscaled",
+   "status": "todo"
+  },
+  {
+   "id": "E15_06_boulder_06",
+   "section": "E",
+   "row": "E15",
+   "family": "boulder",
+   "priority": "P2",
+   "desc": "Natural, not overscaled",
+   "status": "todo"
+  },
+  {
+   "id": "F01_01_tree_heartland_01",
+   "section": "F",
+   "row": "F01",
+   "family": "tree_heartland",
+   "priority": "P1",
+   "desc": "Oaks, beech, groves, fruit tree",
+   "status": "todo"
+  },
+  {
+   "id": "F01_02_tree_heartland_02",
+   "section": "F",
+   "row": "F01",
+   "family": "tree_heartland",
+   "priority": "P1",
+   "desc": "Oaks, beech, groves, fruit tree",
+   "status": "todo"
+  },
+  {
+   "id": "F01_03_tree_heartland_03",
+   "section": "F",
+   "row": "F01",
+   "family": "tree_heartland",
+   "priority": "P1",
+   "desc": "Oaks, beech, groves, fruit tree",
+   "status": "todo"
+  },
+  {
+   "id": "F01_04_tree_heartland_04",
+   "section": "F",
+   "row": "F01",
+   "family": "tree_heartland",
+   "priority": "P1",
+   "desc": "Oaks, beech, groves, fruit tree",
+   "status": "todo"
+  },
+  {
+   "id": "F01_05_tree_heartland_05",
+   "section": "F",
+   "row": "F01",
+   "family": "tree_heartland",
+   "priority": "P1",
+   "desc": "Oaks, beech, groves, fruit tree",
+   "status": "todo"
+  },
+  {
+   "id": "F01_06_tree_heartland_06",
+   "section": "F",
+   "row": "F01",
+   "family": "tree_heartland",
+   "priority": "P1",
+   "desc": "Oaks, beech, groves, fruit tree",
+   "status": "todo"
+  },
+  {
+   "id": "F02_01_tree_alpine_01",
+   "section": "F",
+   "row": "F02",
+   "family": "tree_alpine",
+   "priority": "P1",
+   "desc": "Spruce, bare birch, wind-bent pines",
+   "status": "todo"
+  },
+  {
+   "id": "F02_02_tree_alpine_02",
+   "section": "F",
+   "row": "F02",
+   "family": "tree_alpine",
+   "priority": "P1",
+   "desc": "Spruce, bare birch, wind-bent pines",
+   "status": "todo"
+  },
+  {
+   "id": "F02_03_tree_alpine_03",
+   "section": "F",
+   "row": "F02",
+   "family": "tree_alpine",
+   "priority": "P1",
+   "desc": "Spruce, bare birch, wind-bent pines",
+   "status": "todo"
+  },
+  {
+   "id": "F02_04_tree_alpine_04",
+   "section": "F",
+   "row": "F02",
+   "family": "tree_alpine",
+   "priority": "P1",
+   "desc": "Spruce, bare birch, wind-bent pines",
+   "status": "todo"
+  },
+  {
+   "id": "F02_05_tree_alpine_05",
+   "section": "F",
+   "row": "F02",
+   "family": "tree_alpine",
+   "priority": "P1",
+   "desc": "Spruce, bare birch, wind-bent pines",
+   "status": "todo"
+  },
+  {
+   "id": "F03_01_tree_dry_01",
+   "section": "F",
+   "row": "F03",
+   "family": "tree_dry",
+   "priority": "P1",
+   "desc": "Scrub trees for the frontier",
+   "status": "todo"
+  },
+  {
+   "id": "F03_02_tree_dry_02",
+   "section": "F",
+   "row": "F03",
+   "family": "tree_dry",
+   "priority": "P1",
+   "desc": "Scrub trees for the frontier",
+   "status": "todo"
+  },
+  {
+   "id": "F03_03_tree_dry_03",
+   "section": "F",
+   "row": "F03",
+   "family": "tree_dry",
+   "priority": "P1",
+   "desc": "Scrub trees for the frontier",
+   "status": "todo"
+  },
+  {
+   "id": "F04_01_tree_coastal_01",
+   "section": "F",
+   "row": "F04",
+   "family": "tree_coastal",
+   "priority": "P1",
+   "desc": "Windswept pines",
+   "status": "todo"
+  },
+  {
+   "id": "F04_02_tree_coastal_02",
+   "section": "F",
+   "row": "F04",
+   "family": "tree_coastal",
+   "priority": "P1",
+   "desc": "Windswept pines",
+   "status": "todo"
+  },
+  {
+   "id": "F04_03_tree_coastal_03",
+   "section": "F",
+   "row": "F04",
+   "family": "tree_coastal",
+   "priority": "P1",
+   "desc": "Windswept pines",
+   "status": "todo"
+  },
+  {
+   "id": "F04_04_tree_coastal_04",
+   "section": "F",
+   "row": "F04",
+   "family": "tree_coastal",
+   "priority": "P1",
+   "desc": "Windswept pines",
+   "status": "todo"
+  },
+  {
+   "id": "F05_01_undergrowth_01",
+   "section": "F",
+   "row": "F05",
+   "family": "undergrowth",
+   "priority": "P2",
+   "desc": "Bushes x4, hedge pieces x2, reeds x2, tall grass x2, coastal grass x2",
+   "status": "todo"
+  },
+  {
+   "id": "F05_02_undergrowth_02",
+   "section": "F",
+   "row": "F05",
+   "family": "undergrowth",
+   "priority": "P2",
+   "desc": "Bushes x4, hedge pieces x2, reeds x2, tall grass x2, coastal grass x2",
+   "status": "todo"
+  },
+  {
+   "id": "F05_03_undergrowth_03",
+   "section": "F",
+   "row": "F05",
+   "family": "undergrowth",
+   "priority": "P2",
+   "desc": "Bushes x4, hedge pieces x2, reeds x2, tall grass x2, coastal grass x2",
+   "status": "todo"
+  },
+  {
+   "id": "F05_04_undergrowth_04",
+   "section": "F",
+   "row": "F05",
+   "family": "undergrowth",
+   "priority": "P2",
+   "desc": "Bushes x4, hedge pieces x2, reeds x2, tall grass x2, coastal grass x2",
+   "status": "todo"
+  },
+  {
+   "id": "F05_05_undergrowth_05",
+   "section": "F",
+   "row": "F05",
+   "family": "undergrowth",
+   "priority": "P2",
+   "desc": "Bushes x4, hedge pieces x2, reeds x2, tall grass x2, coastal grass x2",
+   "status": "todo"
+  },
+  {
+   "id": "F05_06_undergrowth_06",
+   "section": "F",
+   "row": "F05",
+   "family": "undergrowth",
+   "priority": "P2",
+   "desc": "Bushes x4, hedge pieces x2, reeds x2, tall grass x2, coastal grass x2",
+   "status": "todo"
+  },
+  {
+   "id": "F05_07_undergrowth_07",
+   "section": "F",
+   "row": "F05",
+   "family": "undergrowth",
+   "priority": "P2",
+   "desc": "Bushes x4, hedge pieces x2, reeds x2, tall grass x2, coastal grass x2",
+   "status": "todo"
+  },
+  {
+   "id": "F05_08_undergrowth_08",
+   "section": "F",
+   "row": "F05",
+   "family": "undergrowth",
+   "priority": "P2",
+   "desc": "Bushes x4, hedge pieces x2, reeds x2, tall grass x2, coastal grass x2",
+   "status": "todo"
+  },
+  {
+   "id": "F05_09_undergrowth_09",
+   "section": "F",
+   "row": "F05",
+   "family": "undergrowth",
+   "priority": "P2",
+   "desc": "Bushes x4, hedge pieces x2, reeds x2, tall grass x2, coastal grass x2",
+   "status": "todo"
+  },
+  {
+   "id": "F05_10_undergrowth_10",
+   "section": "F",
+   "row": "F05",
+   "family": "undergrowth",
+   "priority": "P2",
+   "desc": "Bushes x4, hedge pieces x2, reeds x2, tall grass x2, coastal grass x2",
+   "status": "todo"
+  },
+  {
+   "id": "F05_11_undergrowth_11",
+   "section": "F",
+   "row": "F05",
+   "family": "undergrowth",
+   "priority": "P2",
+   "desc": "Bushes x4, hedge pieces x2, reeds x2, tall grass x2, coastal grass x2",
+   "status": "todo"
+  },
+  {
+   "id": "F05_12_undergrowth_12",
+   "section": "F",
+   "row": "F05",
+   "family": "undergrowth",
+   "priority": "P2",
+   "desc": "Bushes x4, hedge pieces x2, reeds x2, tall grass x2, coastal grass x2",
+   "status": "todo"
+  },
+  {
+   "id": "F06_01_ground_detail_01",
+   "section": "F",
+   "row": "F06",
+   "family": "ground_detail",
+   "priority": "P3",
+   "desc": "Logs x3, stumps x3, roots x2, pebbles x4, mossy rocks x3, flower patches x4, mushroom patches x2",
+   "status": "todo"
+  },
+  {
+   "id": "F06_02_ground_detail_02",
+   "section": "F",
+   "row": "F06",
+   "family": "ground_detail",
+   "priority": "P3",
+   "desc": "Logs x3, stumps x3, roots x2, pebbles x4, mossy rocks x3, flower patches x4, mushroom patches x2",
+   "status": "todo"
+  },
+  {
+   "id": "F06_03_ground_detail_03",
+   "section": "F",
+   "row": "F06",
+   "family": "ground_detail",
+   "priority": "P3",
+   "desc": "Logs x3, stumps x3, roots x2, pebbles x4, mossy rocks x3, flower patches x4, mushroom patches x2",
+   "status": "todo"
+  },
+  {
+   "id": "F06_04_ground_detail_04",
+   "section": "F",
+   "row": "F06",
+   "family": "ground_detail",
+   "priority": "P3",
+   "desc": "Logs x3, stumps x3, roots x2, pebbles x4, mossy rocks x3, flower patches x4, mushroom patches x2",
+   "status": "todo"
+  },
+  {
+   "id": "F06_05_ground_detail_05",
+   "section": "F",
+   "row": "F06",
+   "family": "ground_detail",
+   "priority": "P3",
+   "desc": "Logs x3, stumps x3, roots x2, pebbles x4, mossy rocks x3, flower patches x4, mushroom patches x2",
+   "status": "todo"
+  },
+  {
+   "id": "F06_06_ground_detail_06",
+   "section": "F",
+   "row": "F06",
+   "family": "ground_detail",
+   "priority": "P3",
+   "desc": "Logs x3, stumps x3, roots x2, pebbles x4, mossy rocks x3, flower patches x4, mushroom patches x2",
+   "status": "todo"
+  },
+  {
+   "id": "F06_07_ground_detail_07",
+   "section": "F",
+   "row": "F06",
+   "family": "ground_detail",
+   "priority": "P3",
+   "desc": "Logs x3, stumps x3, roots x2, pebbles x4, mossy rocks x3, flower patches x4, mushroom patches x2",
+   "status": "todo"
+  },
+  {
+   "id": "F06_08_ground_detail_08",
+   "section": "F",
+   "row": "F06",
+   "family": "ground_detail",
+   "priority": "P3",
+   "desc": "Logs x3, stumps x3, roots x2, pebbles x4, mossy rocks x3, flower patches x4, mushroom patches x2",
+   "status": "todo"
+  },
+  {
+   "id": "F06_09_ground_detail_09",
+   "section": "F",
+   "row": "F06",
+   "family": "ground_detail",
+   "priority": "P3",
+   "desc": "Logs x3, stumps x3, roots x2, pebbles x4, mossy rocks x3, flower patches x4, mushroom patches x2",
+   "status": "todo"
+  },
+  {
+   "id": "F06_10_ground_detail_10",
+   "section": "F",
+   "row": "F06",
+   "family": "ground_detail",
+   "priority": "P3",
+   "desc": "Logs x3, stumps x3, roots x2, pebbles x4, mossy rocks x3, flower patches x4, mushroom patches x2",
+   "status": "todo"
+  },
+  {
+   "id": "F06_11_ground_detail_11",
+   "section": "F",
+   "row": "F06",
+   "family": "ground_detail",
+   "priority": "P3",
+   "desc": "Logs x3, stumps x3, roots x2, pebbles x4, mossy rocks x3, flower patches x4, mushroom patches x2",
+   "status": "todo"
+  },
+  {
+   "id": "F06_12_ground_detail_12",
+   "section": "F",
+   "row": "F06",
+   "family": "ground_detail",
+   "priority": "P3",
+   "desc": "Logs x3, stumps x3, roots x2, pebbles x4, mossy rocks x3, flower patches x4, mushroom patches x2",
+   "status": "todo"
+  },
+  {
+   "id": "F06_13_ground_detail_13",
+   "section": "F",
+   "row": "F06",
+   "family": "ground_detail",
+   "priority": "P3",
+   "desc": "Logs x3, stumps x3, roots x2, pebbles x4, mossy rocks x3, flower patches x4, mushroom patches x2",
+   "status": "todo"
+  },
+  {
+   "id": "F06_14_ground_detail_14",
+   "section": "F",
+   "row": "F06",
+   "family": "ground_detail",
+   "priority": "P3",
+   "desc": "Logs x3, stumps x3, roots x2, pebbles x4, mossy rocks x3, flower patches x4, mushroom patches x2",
+   "status": "todo"
+  },
+  {
+   "id": "F06_15_ground_detail_15",
+   "section": "F",
+   "row": "F06",
+   "family": "ground_detail",
+   "priority": "P3",
+   "desc": "Logs x3, stumps x3, roots x2, pebbles x4, mossy rocks x3, flower patches x4, mushroom patches x2",
+   "status": "todo"
+  },
+  {
+   "id": "F06_16_ground_detail_16",
+   "section": "F",
+   "row": "F06",
+   "family": "ground_detail",
+   "priority": "P3",
+   "desc": "Logs x3, stumps x3, roots x2, pebbles x4, mossy rocks x3, flower patches x4, mushroom patches x2",
+   "status": "todo"
+  },
+  {
+   "id": "F06_17_ground_detail_17",
+   "section": "F",
+   "row": "F06",
+   "family": "ground_detail",
+   "priority": "P3",
+   "desc": "Logs x3, stumps x3, roots x2, pebbles x4, mossy rocks x3, flower patches x4, mushroom patches x2",
+   "status": "todo"
+  },
+  {
+   "id": "F06_18_ground_detail_18",
+   "section": "F",
+   "row": "F06",
+   "family": "ground_detail",
+   "priority": "P3",
+   "desc": "Logs x3, stumps x3, roots x2, pebbles x4, mossy rocks x3, flower patches x4, mushroom patches x2",
+   "status": "todo"
+  },
+  {
+   "id": "F06_19_ground_detail_19",
+   "section": "F",
+   "row": "F06",
+   "family": "ground_detail",
+   "priority": "P3",
+   "desc": "Logs x3, stumps x3, roots x2, pebbles x4, mossy rocks x3, flower patches x4, mushroom patches x2",
+   "status": "todo"
+  },
+  {
+   "id": "F06_20_ground_detail_20",
+   "section": "F",
+   "row": "F06",
+   "family": "ground_detail",
+   "priority": "P3",
+   "desc": "Logs x3, stumps x3, roots x2, pebbles x4, mossy rocks x3, flower patches x4, mushroom patches x2",
+   "status": "todo"
+  },
+  {
+   "id": "F06_21_ground_detail_21",
+   "section": "F",
+   "row": "F06",
+   "family": "ground_detail",
+   "priority": "P3",
+   "desc": "Logs x3, stumps x3, roots x2, pebbles x4, mossy rocks x3, flower patches x4, mushroom patches x2",
+   "status": "todo"
+  },
+  {
+   "id": "F07_01_rock_formation_01",
+   "section": "F",
+   "row": "F07",
+   "family": "rock_formation",
+   "priority": "P2",
+   "desc": "Spires x3, sea stacks x3, arches x2, coastal cliffs x3",
+   "status": "todo"
+  },
+  {
+   "id": "F07_02_rock_formation_02",
+   "section": "F",
+   "row": "F07",
+   "family": "rock_formation",
+   "priority": "P2",
+   "desc": "Spires x3, sea stacks x3, arches x2, coastal cliffs x3",
+   "status": "todo"
+  },
+  {
+   "id": "F07_03_rock_formation_03",
+   "section": "F",
+   "row": "F07",
+   "family": "rock_formation",
+   "priority": "P2",
+   "desc": "Spires x3, sea stacks x3, arches x2, coastal cliffs x3",
+   "status": "todo"
+  },
+  {
+   "id": "F07_04_rock_formation_04",
+   "section": "F",
+   "row": "F07",
+   "family": "rock_formation",
+   "priority": "P2",
+   "desc": "Spires x3, sea stacks x3, arches x2, coastal cliffs x3",
+   "status": "todo"
+  },
+  {
+   "id": "F07_05_rock_formation_05",
+   "section": "F",
+   "row": "F07",
+   "family": "rock_formation",
+   "priority": "P2",
+   "desc": "Spires x3, sea stacks x3, arches x2, coastal cliffs x3",
+   "status": "todo"
+  },
+  {
+   "id": "F07_06_rock_formation_06",
+   "section": "F",
+   "row": "F07",
+   "family": "rock_formation",
+   "priority": "P2",
+   "desc": "Spires x3, sea stacks x3, arches x2, coastal cliffs x3",
+   "status": "todo"
+  },
+  {
+   "id": "F07_07_rock_formation_07",
+   "section": "F",
+   "row": "F07",
+   "family": "rock_formation",
+   "priority": "P2",
+   "desc": "Spires x3, sea stacks x3, arches x2, coastal cliffs x3",
+   "status": "todo"
+  },
+  {
+   "id": "F07_08_rock_formation_08",
+   "section": "F",
+   "row": "F07",
+   "family": "rock_formation",
+   "priority": "P2",
+   "desc": "Spires x3, sea stacks x3, arches x2, coastal cliffs x3",
+   "status": "todo"
+  },
+  {
+   "id": "F07_09_rock_formation_09",
+   "section": "F",
+   "row": "F07",
+   "family": "rock_formation",
+   "priority": "P2",
+   "desc": "Spires x3, sea stacks x3, arches x2, coastal cliffs x3",
+   "status": "todo"
+  },
+  {
+   "id": "F07_10_rock_formation_10",
+   "section": "F",
+   "row": "F07",
+   "family": "rock_formation",
+   "priority": "P2",
+   "desc": "Spires x3, sea stacks x3, arches x2, coastal cliffs x3",
+   "status": "todo"
+  },
+  {
+   "id": "F07_11_rock_formation_11",
+   "section": "F",
+   "row": "F07",
+   "family": "rock_formation",
+   "priority": "P2",
+   "desc": "Spires x3, sea stacks x3, arches x2, coastal cliffs x3",
+   "status": "todo"
+  },
+  {
+   "id": "F08_01_road_piece_01",
+   "section": "F",
+   "row": "F08",
+   "family": "road_piece",
+   "priority": "P2",
+   "desc": "Stone bridges x3, wooden bridges x3, ruined bridge, signposts x3, milestones x2, gate arches x2, roadside shrines x3",
+   "status": "todo"
+  },
+  {
+   "id": "F08_02_road_piece_02",
+   "section": "F",
+   "row": "F08",
+   "family": "road_piece",
+   "priority": "P2",
+   "desc": "Stone bridges x3, wooden bridges x3, ruined bridge, signposts x3, milestones x2, gate arches x2, roadside shrines x3",
+   "status": "todo"
+  },
+  {
+   "id": "F08_03_road_piece_03",
+   "section": "F",
+   "row": "F08",
+   "family": "road_piece",
+   "priority": "P2",
+   "desc": "Stone bridges x3, wooden bridges x3, ruined bridge, signposts x3, milestones x2, gate arches x2, roadside shrines x3",
+   "status": "todo"
+  },
+  {
+   "id": "F08_04_road_piece_04",
+   "section": "F",
+   "row": "F08",
+   "family": "road_piece",
+   "priority": "P2",
+   "desc": "Stone bridges x3, wooden bridges x3, ruined bridge, signposts x3, milestones x2, gate arches x2, roadside shrines x3",
+   "status": "todo"
+  },
+  {
+   "id": "F08_05_road_piece_05",
+   "section": "F",
+   "row": "F08",
+   "family": "road_piece",
+   "priority": "P2",
+   "desc": "Stone bridges x3, wooden bridges x3, ruined bridge, signposts x3, milestones x2, gate arches x2, roadside shrines x3",
+   "status": "todo"
+  },
+  {
+   "id": "F08_06_road_piece_06",
+   "section": "F",
+   "row": "F08",
+   "family": "road_piece",
+   "priority": "P2",
+   "desc": "Stone bridges x3, wooden bridges x3, ruined bridge, signposts x3, milestones x2, gate arches x2, roadside shrines x3",
+   "status": "todo"
+  },
+  {
+   "id": "F08_07_road_piece_07",
+   "section": "F",
+   "row": "F08",
+   "family": "road_piece",
+   "priority": "P2",
+   "desc": "Stone bridges x3, wooden bridges x3, ruined bridge, signposts x3, milestones x2, gate arches x2, roadside shrines x3",
+   "status": "todo"
+  },
+  {
+   "id": "F08_08_road_piece_08",
+   "section": "F",
+   "row": "F08",
+   "family": "road_piece",
+   "priority": "P2",
+   "desc": "Stone bridges x3, wooden bridges x3, ruined bridge, signposts x3, milestones x2, gate arches x2, roadside shrines x3",
+   "status": "todo"
+  },
+  {
+   "id": "F08_09_road_piece_09",
+   "section": "F",
+   "row": "F08",
+   "family": "road_piece",
+   "priority": "P2",
+   "desc": "Stone bridges x3, wooden bridges x3, ruined bridge, signposts x3, milestones x2, gate arches x2, roadside shrines x3",
+   "status": "todo"
+  },
+  {
+   "id": "F08_10_road_piece_10",
+   "section": "F",
+   "row": "F08",
+   "family": "road_piece",
+   "priority": "P2",
+   "desc": "Stone bridges x3, wooden bridges x3, ruined bridge, signposts x3, milestones x2, gate arches x2, roadside shrines x3",
+   "status": "todo"
+  },
+  {
+   "id": "F08_11_road_piece_11",
+   "section": "F",
+   "row": "F08",
+   "family": "road_piece",
+   "priority": "P2",
+   "desc": "Stone bridges x3, wooden bridges x3, ruined bridge, signposts x3, milestones x2, gate arches x2, roadside shrines x3",
+   "status": "todo"
+  },
+  {
+   "id": "F08_12_road_piece_12",
+   "section": "F",
+   "row": "F08",
+   "family": "road_piece",
+   "priority": "P2",
+   "desc": "Stone bridges x3, wooden bridges x3, ruined bridge, signposts x3, milestones x2, gate arches x2, roadside shrines x3",
+   "status": "todo"
+  },
+  {
+   "id": "F08_13_road_piece_13",
+   "section": "F",
+   "row": "F08",
+   "family": "road_piece",
+   "priority": "P2",
+   "desc": "Stone bridges x3, wooden bridges x3, ruined bridge, signposts x3, milestones x2, gate arches x2, roadside shrines x3",
+   "status": "todo"
+  },
+  {
+   "id": "F08_14_road_piece_14",
+   "section": "F",
+   "row": "F08",
+   "family": "road_piece",
+   "priority": "P2",
+   "desc": "Stone bridges x3, wooden bridges x3, ruined bridge, signposts x3, milestones x2, gate arches x2, roadside shrines x3",
+   "status": "todo"
+  },
+  {
+   "id": "F08_15_road_piece_15",
+   "section": "F",
+   "row": "F08",
+   "family": "road_piece",
+   "priority": "P2",
+   "desc": "Stone bridges x3, wooden bridges x3, ruined bridge, signposts x3, milestones x2, gate arches x2, roadside shrines x3",
+   "status": "todo"
+  },
+  {
+   "id": "F08_16_road_piece_16",
+   "section": "F",
+   "row": "F08",
+   "family": "road_piece",
+   "priority": "P2",
+   "desc": "Stone bridges x3, wooden bridges x3, ruined bridge, signposts x3, milestones x2, gate arches x2, roadside shrines x3",
+   "status": "todo"
+  },
+  {
+   "id": "F08_17_road_piece_17",
+   "section": "F",
+   "row": "F08",
+   "family": "road_piece",
+   "priority": "P2",
+   "desc": "Stone bridges x3, wooden bridges x3, ruined bridge, signposts x3, milestones x2, gate arches x2, roadside shrines x3",
+   "status": "todo"
+  },
+  {
+   "id": "F09_01_story_prop_01",
+   "section": "F",
+   "row": "F09",
+   "family": "story_prop",
+   "priority": "P2",
+   "desc": "Broken carts x2, camps x3, ruined watchtowers x2, foundations x3, overgrown ruins x3",
+   "status": "todo"
+  },
+  {
+   "id": "F09_02_story_prop_02",
+   "section": "F",
+   "row": "F09",
+   "family": "story_prop",
+   "priority": "P2",
+   "desc": "Broken carts x2, camps x3, ruined watchtowers x2, foundations x3, overgrown ruins x3",
+   "status": "todo"
+  },
+  {
+   "id": "F09_03_story_prop_03",
+   "section": "F",
+   "row": "F09",
+   "family": "story_prop",
+   "priority": "P2",
+   "desc": "Broken carts x2, camps x3, ruined watchtowers x2, foundations x3, overgrown ruins x3",
+   "status": "todo"
+  },
+  {
+   "id": "F09_04_story_prop_04",
+   "section": "F",
+   "row": "F09",
+   "family": "story_prop",
+   "priority": "P2",
+   "desc": "Broken carts x2, camps x3, ruined watchtowers x2, foundations x3, overgrown ruins x3",
+   "status": "todo"
+  },
+  {
+   "id": "F09_05_story_prop_05",
+   "section": "F",
+   "row": "F09",
+   "family": "story_prop",
+   "priority": "P2",
+   "desc": "Broken carts x2, camps x3, ruined watchtowers x2, foundations x3, overgrown ruins x3",
+   "status": "todo"
+  },
+  {
+   "id": "F09_06_story_prop_06",
+   "section": "F",
+   "row": "F09",
+   "family": "story_prop",
+   "priority": "P2",
+   "desc": "Broken carts x2, camps x3, ruined watchtowers x2, foundations x3, overgrown ruins x3",
+   "status": "todo"
+  },
+  {
+   "id": "F09_07_story_prop_07",
+   "section": "F",
+   "row": "F09",
+   "family": "story_prop",
+   "priority": "P2",
+   "desc": "Broken carts x2, camps x3, ruined watchtowers x2, foundations x3, overgrown ruins x3",
+   "status": "todo"
+  },
+  {
+   "id": "F09_08_story_prop_08",
+   "section": "F",
+   "row": "F09",
+   "family": "story_prop",
+   "priority": "P2",
+   "desc": "Broken carts x2, camps x3, ruined watchtowers x2, foundations x3, overgrown ruins x3",
+   "status": "todo"
+  },
+  {
+   "id": "F09_09_story_prop_09",
+   "section": "F",
+   "row": "F09",
+   "family": "story_prop",
+   "priority": "P2",
+   "desc": "Broken carts x2, camps x3, ruined watchtowers x2, foundations x3, overgrown ruins x3",
+   "status": "todo"
+  },
+  {
+   "id": "F09_10_story_prop_10",
+   "section": "F",
+   "row": "F09",
+   "family": "story_prop",
+   "priority": "P2",
+   "desc": "Broken carts x2, camps x3, ruined watchtowers x2, foundations x3, overgrown ruins x3",
+   "status": "todo"
+  },
+  {
+   "id": "F09_11_story_prop_11",
+   "section": "F",
+   "row": "F09",
+   "family": "story_prop",
+   "priority": "P2",
+   "desc": "Broken carts x2, camps x3, ruined watchtowers x2, foundations x3, overgrown ruins x3",
+   "status": "todo"
+  },
+  {
+   "id": "F09_12_story_prop_12",
+   "section": "F",
+   "row": "F09",
+   "family": "story_prop",
+   "priority": "P2",
+   "desc": "Broken carts x2, camps x3, ruined watchtowers x2, foundations x3, overgrown ruins x3",
+   "status": "todo"
+  },
+  {
+   "id": "F09_13_story_prop_13",
+   "section": "F",
+   "row": "F09",
+   "family": "story_prop",
+   "priority": "P2",
+   "desc": "Broken carts x2, camps x3, ruined watchtowers x2, foundations x3, overgrown ruins x3",
+   "status": "todo"
+  },
+  {
+   "id": "F10_01_water_coast_01",
+   "section": "F",
+   "row": "F10",
+   "family": "water_coast",
+   "priority": "P2",
+   "desc": "Lily pads x2, small waterfall pieces x3, docks x2, beach props x3",
+   "status": "todo"
+  },
+  {
+   "id": "F10_02_water_coast_02",
+   "section": "F",
+   "row": "F10",
+   "family": "water_coast",
+   "priority": "P2",
+   "desc": "Lily pads x2, small waterfall pieces x3, docks x2, beach props x3",
+   "status": "todo"
+  },
+  {
+   "id": "F10_03_water_coast_03",
+   "section": "F",
+   "row": "F10",
+   "family": "water_coast",
+   "priority": "P2",
+   "desc": "Lily pads x2, small waterfall pieces x3, docks x2, beach props x3",
+   "status": "todo"
+  },
+  {
+   "id": "F10_04_water_coast_04",
+   "section": "F",
+   "row": "F10",
+   "family": "water_coast",
+   "priority": "P2",
+   "desc": "Lily pads x2, small waterfall pieces x3, docks x2, beach props x3",
+   "status": "todo"
+  },
+  {
+   "id": "F10_05_water_coast_05",
+   "section": "F",
+   "row": "F10",
+   "family": "water_coast",
+   "priority": "P2",
+   "desc": "Lily pads x2, small waterfall pieces x3, docks x2, beach props x3",
+   "status": "todo"
+  },
+  {
+   "id": "F10_06_water_coast_06",
+   "section": "F",
+   "row": "F10",
+   "family": "water_coast",
+   "priority": "P2",
+   "desc": "Lily pads x2, small waterfall pieces x3, docks x2, beach props x3",
+   "status": "todo"
+  },
+  {
+   "id": "F10_07_water_coast_07",
+   "section": "F",
+   "row": "F10",
+   "family": "water_coast",
+   "priority": "P2",
+   "desc": "Lily pads x2, small waterfall pieces x3, docks x2, beach props x3",
+   "status": "todo"
+  },
+  {
+   "id": "F10_08_water_coast_08",
+   "section": "F",
+   "row": "F10",
+   "family": "water_coast",
+   "priority": "P2",
+   "desc": "Lily pads x2, small waterfall pieces x3, docks x2, beach props x3",
+   "status": "todo"
+  },
+  {
+   "id": "F10_09_water_coast_09",
+   "section": "F",
+   "row": "F10",
+   "family": "water_coast",
+   "priority": "P2",
+   "desc": "Lily pads x2, small waterfall pieces x3, docks x2, beach props x3",
+   "status": "todo"
+  },
+  {
+   "id": "F10_10_water_coast_10",
+   "section": "F",
+   "row": "F10",
+   "family": "water_coast",
+   "priority": "P2",
+   "desc": "Lily pads x2, small waterfall pieces x3, docks x2, beach props x3",
+   "status": "todo"
+  },
+  {
+   "id": "F11_01_landmark_trail_01",
+   "section": "F",
+   "row": "F11",
+   "family": "landmark_trail",
+   "priority": "P2",
+   "desc": "Lookouts x2, cave entrances x3, cliff-trail pieces x3, summit tower",
+   "status": "todo"
+  },
+  {
+   "id": "F11_02_landmark_trail_02",
+   "section": "F",
+   "row": "F11",
+   "family": "landmark_trail",
+   "priority": "P2",
+   "desc": "Lookouts x2, cave entrances x3, cliff-trail pieces x3, summit tower",
+   "status": "todo"
+  },
+  {
+   "id": "F11_03_landmark_trail_03",
+   "section": "F",
+   "row": "F11",
+   "family": "landmark_trail",
+   "priority": "P2",
+   "desc": "Lookouts x2, cave entrances x3, cliff-trail pieces x3, summit tower",
+   "status": "todo"
+  },
+  {
+   "id": "F11_04_landmark_trail_04",
+   "section": "F",
+   "row": "F11",
+   "family": "landmark_trail",
+   "priority": "P2",
+   "desc": "Lookouts x2, cave entrances x3, cliff-trail pieces x3, summit tower",
+   "status": "todo"
+  },
+  {
+   "id": "F11_05_landmark_trail_05",
+   "section": "F",
+   "row": "F11",
+   "family": "landmark_trail",
+   "priority": "P2",
+   "desc": "Lookouts x2, cave entrances x3, cliff-trail pieces x3, summit tower",
+   "status": "todo"
+  },
+  {
+   "id": "F11_06_landmark_trail_06",
+   "section": "F",
+   "row": "F11",
+   "family": "landmark_trail",
+   "priority": "P2",
+   "desc": "Lookouts x2, cave entrances x3, cliff-trail pieces x3, summit tower",
+   "status": "todo"
+  },
+  {
+   "id": "F11_07_landmark_trail_07",
+   "section": "F",
+   "row": "F11",
+   "family": "landmark_trail",
+   "priority": "P2",
+   "desc": "Lookouts x2, cave entrances x3, cliff-trail pieces x3, summit tower",
+   "status": "todo"
+  },
+  {
+   "id": "F11_08_landmark_trail_08",
+   "section": "F",
+   "row": "F11",
+   "family": "landmark_trail",
+   "priority": "P2",
+   "desc": "Lookouts x2, cave entrances x3, cliff-trail pieces x3, summit tower",
+   "status": "todo"
+  },
+  {
+   "id": "F11_09_landmark_trail_09",
+   "section": "F",
+   "row": "F11",
+   "family": "landmark_trail",
+   "priority": "P2",
+   "desc": "Lookouts x2, cave entrances x3, cliff-trail pieces x3, summit tower",
+   "status": "todo"
+  },
+  {
+   "id": "R01_01_islet_01",
+   "section": "R",
+   "row": "R01",
+   "family": "islet",
+   "priority": "P1",
+   "desc": "Offshore rock islands topped with trees, as in the reference",
+   "status": "todo"
+  },
+  {
+   "id": "R01_02_islet_02",
+   "section": "R",
+   "row": "R01",
+   "family": "islet",
+   "priority": "P1",
+   "desc": "Offshore rock islands topped with trees, as in the reference",
+   "status": "todo"
+  },
+  {
+   "id": "R01_03_islet_03",
+   "section": "R",
+   "row": "R01",
+   "family": "islet",
+   "priority": "P1",
+   "desc": "Offshore rock islands topped with trees, as in the reference",
+   "status": "todo"
+  },
+  {
+   "id": "R01_04_islet_04",
+   "section": "R",
+   "row": "R01",
+   "family": "islet",
+   "priority": "P1",
+   "desc": "Offshore rock islands topped with trees, as in the reference",
+   "status": "todo"
+  },
+  {
+   "id": "R02_01_snow_peak_01",
+   "section": "R",
+   "row": "R02",
+   "family": "snow_peak",
+   "priority": "P1",
+   "desc": "Jagged snow-covered peaks for the north-east range",
+   "status": "todo"
+  },
+  {
+   "id": "R02_02_snow_peak_02",
+   "section": "R",
+   "row": "R02",
+   "family": "snow_peak",
+   "priority": "P1",
+   "desc": "Jagged snow-covered peaks for the north-east range",
+   "status": "todo"
+  },
+  {
+   "id": "R02_03_snow_peak_03",
+   "section": "R",
+   "row": "R02",
+   "family": "snow_peak",
+   "priority": "P1",
+   "desc": "Jagged snow-covered peaks for the north-east range",
+   "status": "todo"
+  },
+  {
+   "id": "R02_04_snow_peak_04",
+   "section": "R",
+   "row": "R02",
+   "family": "snow_peak",
+   "priority": "P1",
+   "desc": "Jagged snow-covered peaks for the north-east range",
+   "status": "todo"
+  },
+  {
+   "id": "R03_01_badlands_mesa_01",
+   "section": "R",
+   "row": "R03",
+   "family": "badlands_mesa",
+   "priority": "P1",
+   "desc": "Red-brown mesas and rock towers around Rusty Town",
+   "status": "todo"
+  },
+  {
+   "id": "R03_02_badlands_mesa_02",
+   "section": "R",
+   "row": "R03",
+   "family": "badlands_mesa",
+   "priority": "P1",
+   "desc": "Red-brown mesas and rock towers around Rusty Town",
+   "status": "todo"
+  },
+  {
+   "id": "R03_03_badlands_mesa_03",
+   "section": "R",
+   "row": "R03",
+   "family": "badlands_mesa",
+   "priority": "P1",
+   "desc": "Red-brown mesas and rock towers around Rusty Town",
+   "status": "todo"
+  },
+  {
+   "id": "R03_04_badlands_mesa_04",
+   "section": "R",
+   "row": "R03",
+   "family": "badlands_mesa",
+   "priority": "P1",
+   "desc": "Red-brown mesas and rock towers around Rusty Town",
+   "status": "todo"
+  },
+  {
+   "id": "R04_01_sea_cliff_01",
+   "section": "R",
+   "row": "R04",
+   "family": "sea_cliff",
+   "priority": "P2",
+   "desc": "Rocky coast cliff faces",
+   "status": "todo"
+  },
+  {
+   "id": "R04_02_sea_cliff_02",
+   "section": "R",
+   "row": "R04",
+   "family": "sea_cliff",
+   "priority": "P2",
+   "desc": "Rocky coast cliff faces",
+   "status": "todo"
+  },
+  {
+   "id": "R04_03_sea_cliff_03",
+   "section": "R",
+   "row": "R04",
+   "family": "sea_cliff",
+   "priority": "P2",
+   "desc": "Rocky coast cliff faces",
+   "status": "todo"
+  },
+  {
+   "id": "R05_01_waterfall_cliff_large_01",
+   "section": "R",
+   "row": "R05",
+   "family": "waterfall_cliff_large",
+   "priority": "P2",
+   "desc": "Large waterfall cliffs, for the elf valley and rivers",
+   "status": "todo"
+  },
+  {
+   "id": "R05_02_waterfall_cliff_large_02",
+   "section": "R",
+   "row": "R05",
+   "family": "waterfall_cliff_large",
+   "priority": "P2",
+   "desc": "Large waterfall cliffs, for the elf valley and rivers",
+   "status": "todo"
+  },
+  {
+   "id": "R06_01_canyon_wall_01",
+   "section": "R",
+   "row": "R06",
+   "family": "canyon_wall",
+   "priority": "P2",
+   "desc": "Tall rock walls for passes",
+   "status": "todo"
+  },
+  {
+   "id": "R06_02_canyon_wall_02",
+   "section": "R",
+   "row": "R06",
+   "family": "canyon_wall",
+   "priority": "P2",
+   "desc": "Tall rock walls for passes",
+   "status": "todo"
+  },
+  {
+   "id": "R06_03_canyon_wall_03",
+   "section": "R",
+   "row": "R06",
+   "family": "canyon_wall",
+   "priority": "P2",
+   "desc": "Tall rock walls for passes",
+   "status": "todo"
+  }
+ ]
+}

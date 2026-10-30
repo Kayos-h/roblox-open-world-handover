@@ -1,0 +1,668 @@
+{
+ "F07_01_rock_formation_01": {
+  "category": "v4_terrain",
+  "tris": 4722,
+  "size": [
+   17.59,
+   18.6,
+   48.0
+  ],
+  "materials": [
+   "wd_moss",
+   "wd_rock_dark",
+   "wd_rock_grey",
+   "wd_rock_light",
+   "wd_scree"
+  ]
+ },
+ "F07_02_rock_formation_02": {
+  "category": "v4_terrain",
+  "tris": 4722,
+  "size": [
+   26.17,
+   18.07,
+   40.03
+  ],
+  "materials": [
+   "wd_moss",
+   "wd_rock_dark",
+   "wd_rock_grey",
+   "wd_rock_light",
+   "wd_scree"
+  ]
+ },
+ "F07_03_rock_formation_03": {
+  "category": "v4_terrain",
+  "tris": 4878,
+  "size": [
+   18.34,
+   19.83,
+   38.7
+  ],
+  "materials": [
+   "wd_moss",
+   "wd_pine_dark",
+   "wd_rock_dark",
+   "wd_rock_grey",
+   "wd_rock_light",
+   "wd_trunk"
+  ]
+ },
+ "F07_04_rock_formation_04": {
+  "category": "v4_terrain",
+  "tris": 4804,
+  "size": [
+   39.95,
+   35.28,
+   44.22
+  ],
+  "materials": [
+   "wd_rock_dark",
+   "wd_rock_grey",
+   "wk_guano",
+   "wk_kelp",
+   "wk_wet_rock"
+  ]
+ },
+ "F07_05_rock_formation_05": {
+  "category": "v4_terrain",
+  "tris": 4804,
+  "size": [
+   34.73,
+   33.43,
+   50.23
+  ],
+  "materials": [
+   "wd_rock_dark",
+   "wd_rock_grey",
+   "wk_guano",
+   "wk_kelp",
+   "wk_wet_rock"
+  ]
+ },
+ "F07_06_rock_formation_06": {
+  "category": "v4_terrain",
+  "tris": 4804,
+  "size": [
+   41.75,
+   43.56,
+   40.17
+  ],
+  "materials": [
+   "wd_rock_dark",
+   "wd_rock_grey",
+   "wk_guano",
+   "wk_kelp",
+   "wk_wet_rock"
+  ]
+ },
+ "F07_07_rock_formation_07": {
+  "category": "v4_terrain",
+  "tris": 5680,
+  "size": [
+   42.55,
+   18.7,
+   35.88
+  ],
+  "materials": [
+   "wd_moss",
+   "wd_rock_dark",
+   "wd_rock_grey",
+   "wd_rock_light",
+   "wd_scree"
+  ]
+ },
+ "F07_08_rock_formation_08": {
+  "category": "v4_terrain",
+  "tris": 6556,
+  "size": [
+   78.11,
+   32.21,
+   29.57
+  ],
+  "materials": [
+   "wd_moss",
+   "wd_rock_dark",
+   "wd_rock_grey",
+   "wd_rock_light",
+   "wd_scree",
+   "wk_grass_cap"
+  ]
+ },
+ "F07_09_rock_formation_09": {
+  "category": "v4_terrain",
+  "tris": 20224,
+  "size": [
+   60.0,
+   31.47,
+   46.1
+  ],
+  "materials": [
+   "coastal_cliff_01_base",
+   "wd_rock_dark",
+   "wd_rock_grey",
+   "wd_rock_light",
+   "wk_grass_cap",
+   "wk_kelp",
+   "wk_wet_rock"
+  ]
+ },
+ "F07_10_rock_formation_10": {
+  "category": "v4_terrain",
+  "tris": 20224,
+  "size": [
+   60.0,
+   30.35,
+   46.1
+  ],
+  "materials": [
+   "coastal_cliff_02_base",
+   "wd_rock_dark",
+   "wd_rock_grey",
+   "wd_rock_light",
+   "wk_grass_cap",
+   "wk_kelp",
+   "wk_wet_rock"
+  ]
+ },
+ "F07_11_rock_formation_11": {
+  "category": "v4_terrain",
+  "tris": 20224,
+  "size": [
+   60.79,
+   31.23,
+   46.1
+  ],
+  "materials": [
+   "coastal_cliff_03_base",
+   "wd_rock_dark",
+   "wd_rock_grey",
+   "wd_rock_light",
+   "wk_grass_cap",
+   "wk_kelp",
+   "wk_wet_rock"
+  ]
+ },
+ "R04_01_sea_cliff_01": {
+  "category": "v4_terrain",
+  "tris": 19648,
+  "size": [
+   100.0,
+   38.77,
+   55.02
+  ],
+  "materials": [
+   "sea_cliff_01_base",
+   "wd_rock_light",
+   "wk_cave_dark",
+   "wk_chalk",
+   "wk_chalk_dk",
+   "wk_kelp",
+   "wk_wet_rock"
+  ]
+ },
+ "R04_02_sea_cliff_02": {
+  "category": "v4_terrain",
+  "tris": 19648,
+  "size": [
+   100.0,
+   38.27,
+   55.02
+  ],
+  "materials": [
+   "sea_cliff_02_base",
+   "wd_basalt",
+   "wd_basalt_dark",
+   "wd_scree_dark",
+   "wd_slate",
+   "wd_stain",
+   "wk_cave_dark",
+   "wk_kelp",
+   "wk_wet_rock"
+  ]
+ },
+ "R04_03_sea_cliff_03": {
+  "category": "v4_terrain",
+  "tris": 19648,
+  "size": [
+   100.59,
+   39.12,
+   55.03
+  ],
+  "materials": [
+   "sea_cliff_03_base",
+   "wd_sand_band",
+   "wd_sandstone",
+   "wd_sandstone_dk",
+   "wd_sandstone_lt",
+   "wk_cave_dark",
+   "wk_kelp",
+   "wk_wet_rock"
+  ]
+ },
+ "E15_01_boulder_01": {
+  "category": "v4_terrain",
+  "tris": 640,
+  "size": [
+   8.47,
+   6.95,
+   5.62
+  ],
+  "materials": [
+   "wd_granite",
+   "wd_granite_dark",
+   "wd_moss"
+  ]
+ },
+ "E15_02_boulder_02": {
+  "category": "v4_terrain",
+  "tris": 108,
+  "size": [
+   10.01,
+   6.95,
+   5.2
+  ],
+  "materials": [
+   "wd_moss",
+   "wd_slate"
+  ]
+ },
+ "E15_03_boulder_03": {
+  "category": "v4_terrain",
+  "tris": 720,
+  "size": [
+   8.36,
+   6.32,
+   5.02
+  ],
+  "materials": [
+   "wd_moss",
+   "wd_rock_dark",
+   "wd_rock_grey"
+  ]
+ },
+ "E15_04_boulder_04": {
+  "category": "v4_terrain",
+  "tris": 400,
+  "size": [
+   9.27,
+   8.47,
+   4.06
+  ],
+  "materials": [
+   "wd_moss",
+   "wd_rock_dark"
+  ]
+ },
+ "E15_05_boulder_05": {
+  "category": "v4_terrain",
+  "tris": 640,
+  "size": [
+   7.54,
+   5.45,
+   4.37
+  ],
+  "materials": [
+   "wd_granite",
+   "wd_granite_dark",
+   "wd_moss"
+  ]
+ },
+ "E15_06_boulder_06": {
+  "category": "v4_terrain",
+  "tris": 560,
+  "size": [
+   13.37,
+   11.34,
+   2.86
+  ],
+  "materials": [
+   "wd_moss",
+   "wd_rock_dark",
+   "wd_rock_grey"
+  ]
+ },
+ "R06_01_canyon_wall_01": {
+  "category": "v4_terrain",
+  "tris": 21048,
+  "size": [
+   100.0,
+   39.23,
+   90.0
+  ],
+  "materials": [
+   "canyon_wall_01_base",
+   "wd_bl_cream",
+   "wd_bl_dark",
+   "wd_bl_orange",
+   "wd_bl_red",
+   "wd_bl_sand",
+   "wd_bl_talus",
+   "wd_moss"
+  ]
+ },
+ "R06_02_canyon_wall_02": {
+  "category": "v4_terrain",
+  "tris": 21048,
+  "size": [
+   100.0,
+   39.05,
+   90.0
+  ],
+  "materials": [
+   "canyon_wall_02_base",
+   "wd_moss",
+   "wd_rock_light",
+   "wd_scree_grey",
+   "wk_chalk",
+   "wk_chalk_dk"
+  ]
+ },
+ "R06_03_canyon_wall_03": {
+  "category": "v4_terrain",
+  "tris": 21048,
+  "size": [
+   100.0,
+   38.8,
+   90.0
+  ],
+  "materials": [
+   "canyon_wall_03_base",
+   "wd_basalt",
+   "wd_basalt_dark",
+   "wd_moss",
+   "wd_scree_dark",
+   "wd_slate",
+   "wd_stain"
+  ]
+ },
+ "F11_01_landmark_trail_01": {
+  "category": "v4_landmarks",
+  "tris": 1476,
+  "size": [
+   26.4,
+   28.02,
+   9.1
+  ],
+  "materials": [
+   "ev_stone",
+   "wd_moss",
+   "wd_rock_grey",
+   "wd_rock_light"
+  ],
+  "door": [
+   [
+    -1.67,
+    -6.86,
+    0.4
+   ]
+  ]
+ },
+ "F11_02_landmark_trail_02": {
+  "category": "v4_landmarks",
+  "tris": 988,
+  "size": [
+   18.0,
+   14.55,
+   12.62
+  ],
+  "materials": [
+   "wd_moss",
+   "wd_rock_dark",
+   "wk_plank",
+   "wk_plank_dk",
+   "wk_rail",
+   "wk_rail_roof",
+   "wk_timber",
+   "wk_timber_dk"
+  ],
+  "door": [
+   [
+    0.0,
+    2.32,
+    4.8
+   ]
+  ]
+ },
+ "F11_03_landmark_trail_03": {
+  "category": "v4_landmarks",
+  "tris": 2964,
+  "size": [
+   41.2,
+   38.1,
+   16.75
+  ],
+  "materials": [
+   "wd_moss",
+   "wd_rock_dark",
+   "wd_rock_grey",
+   "wd_rock_light",
+   "wk_cave_dark"
+  ],
+  "door": [
+   [
+    2.4,
+    -0.49,
+    1.2
+   ]
+  ]
+ },
+ "F11_04_landmark_trail_04": {
+  "category": "v4_landmarks",
+  "tris": 4480,
+  "size": [
+   28.64,
+   35.24,
+   14.65
+  ],
+  "materials": [
+   "wd_moss",
+   "wd_rock_dark",
+   "wd_rock_grey",
+   "wd_rock_light",
+   "wk_cart",
+   "wk_cart_metal",
+   "wk_cave_dark",
+   "wk_timber",
+   "wk_timber_dk"
+  ],
+  "door": [
+   [
+    1.06,
+    -0.82,
+    1.2
+   ]
+  ]
+ },
+ "F11_05_landmark_trail_05": {
+  "category": "v4_landmarks",
+  "tris": 3592,
+  "size": [
+   28.33,
+   38.0,
+   15.7
+  ],
+  "materials": [
+   "ev_stone",
+   "ev_stone_dark",
+   "wd_moss",
+   "wd_rock_dark",
+   "wd_rock_grey",
+   "wd_rock_light",
+   "wk_cave_dark"
+  ],
+  "door": [
+   [
+    -0.89,
+    -0.08,
+    1.2
+   ]
+  ]
+ },
+ "F11_06_landmark_trail_06": {
+  "category": "v4_landmarks",
+  "tris": 1192,
+  "size": [
+   24.4,
+   12.25,
+   20.0
+  ],
+  "materials": [
+   "ev_stone",
+   "ev_stone_dark",
+   "wd_moss",
+   "wd_rock_dark",
+   "wd_rock_grey",
+   "wd_rock_light"
+  ],
+  "connect": [
+   [
+    -11.95,
+    -2.88,
+    2.3
+   ],
+   [
+    12.05,
+    -2.88,
+    7.25
+   ]
+  ]
+ },
+ "F11_07_landmark_trail_07": {
+  "category": "v4_landmarks",
+  "tris": 628,
+  "size": [
+   26.0,
+   17.0,
+   24.0
+  ],
+  "materials": [
+   "ev_stone",
+   "ev_stone_dark",
+   "wd_moss",
+   "wd_rock_dark",
+   "wd_rock_grey",
+   "wd_rock_light"
+  ],
+  "connect": [
+   [
+    -10.0,
+    -5.0,
+    2.8
+   ],
+   [
+    -10.0,
+    2.0,
+    14.3
+   ]
+  ]
+ },
+ "F11_08_landmark_trail_08": {
+  "category": "v4_landmarks",
+  "tris": 2788,
+  "size": [
+   24.5,
+   10.5,
+   22.0
+  ],
+  "materials": [
+   "wd_moss",
+   "wd_rock_grey",
+   "wk_plank",
+   "wk_plank_dk",
+   "wk_rope",
+   "wk_timber",
+   "wk_timber_dk"
+  ],
+  "connect": [
+   [
+    -12.0,
+    -2.25,
+    10.2
+   ],
+   [
+    12.0,
+    -2.25,
+    10.2
+   ]
+  ]
+ },
+ "F11_09_landmark_trail_09": {
+  "category": "v4_landmarks",
+  "tris": 4694,
+  "size": [
+   39.1,
+   40.11,
+   75.5
+  ],
+  "materials": [
+   "ev_stone",
+   "ev_stone_dark",
+   "wd_moss",
+   "wd_rock_dark",
+   "wd_rock_grey",
+   "wd_rock_light",
+   "wk_brazier_fire",
+   "wk_cart_metal",
+   "wk_cave_dark",
+   "wk_ember",
+   "wk_flag",
+   "wk_timber_dk"
+  ],
+  "door": [
+   [
+    -1.04,
+    -7.98,
+    14.3
+   ]
+  ]
+ },
+ "R05_01_waterfall_cliff_large_01": {
+  "category": "v4_terrain",
+  "tris": 27850,
+  "size": [
+   80.0,
+   51.1,
+   84.2
+  ],
+  "materials": [
+   "foam",
+   "water",
+   "water_fx",
+   "waterfall_cliff_large_01_base",
+   "wd_moss",
+   "wd_oak",
+   "wd_pine",
+   "wd_pine_dark",
+   "wd_rock_dark",
+   "wd_rock_grey",
+   "wd_rock_light",
+   "wd_scree",
+   "wd_trunk"
+  ]
+ },
+ "R05_02_waterfall_cliff_large_02": {
+  "category": "v4_terrain",
+  "tris": 30212,
+  "size": [
+   80.0,
+   54.21,
+   83.01
+  ],
+  "materials": [
+   "foam",
+   "water",
+   "water_fx",
+   "waterfall_cliff_large_02_base",
+   "wd_moss",
+   "wd_oak",
+   "wd_pine",
+   "wd_pine_dark",
+   "wd_rock_dark",
+   "wd_rock_grey",
+   "wd_rock_light",
+   "wd_scree",
+   "wd_trunk"
+  ]
+ }
+}

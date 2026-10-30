@@ -1,0 +1,316 @@
+{
+ "B02_05_curtain_wall": {
+  "category": "v4_castle",
+  "tris": 5724,
+  "size": [
+   41.64,
+   11.9,
+   32.7
+  ],
+  "materials": [
+   "wx3_course",
+   "wx3_floor_a",
+   "wx3_plinth",
+   "wx3_stone",
+   "wx3_stone_d",
+   "wx3_trim"
+  ]
+ },
+ "B02_06_curtain_corner": {
+  "category": "v4_castle",
+  "tris": 14288,
+  "size": [
+   27.16,
+   27.06,
+   39.42
+  ],
+  "materials": [
+   "wx3_course",
+   "wx3_floor_a",
+   "wx3_plinth",
+   "wx3_stone",
+   "wx3_stone_d",
+   "wx3_trim"
+  ]
+ },
+ "B02_03_square_tower": {
+  "category": "v4_castle",
+  "tris": 9592,
+  "size": [
+   24.0,
+   24.0,
+   90.5
+  ],
+  "materials": [
+   "glass_dark",
+   "wx3_ban_b",
+   "wx3_course",
+   "wx3_floor_a",
+   "wx3_plinth",
+   "wx3_slate_d",
+   "wx3_stone",
+   "wx3_trim",
+   "wx3_warm"
+  ]
+ },
+ "B02_02_round_tower": {
+  "category": "v4_castle",
+  "tris": 13994,
+  "size": [
+   24.0,
+   23.87,
+   104.5
+  ],
+  "materials": [
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "timber",
+   "wx3_ban_r",
+   "wx3_course",
+   "wx3_slate_a",
+   "wx3_slate_b",
+   "wx3_stone",
+   "wx3_trim"
+  ]
+ },
+ "B02_04_spire_tower": {
+  "category": "v4_castle",
+  "tris": 13966,
+  "size": [
+   22.6,
+   22.44,
+   121.9
+  ],
+  "materials": [
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "timber",
+   "wx3_ban_b",
+   "wx3_slate_a",
+   "wx3_slate_d",
+   "wx3_trim",
+   "wx3_warm",
+   "wx3_warm_c"
+  ]
+ },
+ "B03_01_throne_hall_01": {
+  "category": "v4_castle",
+  "tris": 12064,
+  "size": [
+   49.8,
+   82.0,
+   40.72
+  ],
+  "materials": [
+   "wx3_ban_b",
+   "wx3_ban_r",
+   "wx3_course",
+   "wx3_floor_a",
+   "wx3_floor_b",
+   "wx3_glass_fg",
+   "wx3_glass_in",
+   "wx3_glass_oc",
+   "wx3_glass_wn",
+   "wx3_plinth",
+   "wx3_slate_a",
+   "wx3_slate_b",
+   "wx3_slate_d",
+   "wx3_stone",
+   "wx3_trim",
+   "wx3_warm_c"
+  ],
+  "door": [
+   [
+    0.0,
+    -40.1,
+    0.32
+   ]
+  ]
+ },
+ "B02_01_keep": {
+  "category": "v4_castle",
+  "tris": 43672,
+  "size": [
+   73.0,
+   82.39,
+   115.9
+  ],
+  "materials": [
+   "brass",
+   "door_paint",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "timber",
+   "wx3_ban_b",
+   "wx3_ban_r",
+   "wx3_course",
+   "wx3_floor_a",
+   "wx3_plinth",
+   "wx3_slate_a",
+   "wx3_slate_b",
+   "wx3_trim",
+   "wx3_warm",
+   "wx3_warm_c"
+  ],
+  "door": [
+   [
+    17.0,
+    -25.49,
+    22.0
+   ]
+  ]
+ },
+ "B02_07_gatehouse": {
+  "category": "v4_castle",
+  "tris": 18604,
+  "size": [
+   58.0,
+   22.4,
+   64.1
+  ],
+  "materials": [
+   "glass_dark",
+   "gold",
+   "hole",
+   "iron",
+   "timber",
+   "wx3_ban_r",
+   "wx3_course",
+   "wx3_floor_a",
+   "wx3_plinth",
+   "wx3_slate_a",
+   "wx3_slate_b",
+   "wx3_slate_d",
+   "wx3_stone",
+   "wx3_trim",
+   "wx3_warm",
+   "wx3_warm_c"
+  ],
+  "door": [
+   [
+    0.0,
+    -10.4,
+    0.2
+   ]
+  ]
+ },
+ "B06_03_stall_potion": {
+  "category": "v4_castle",
+  "tris": 5036,
+  "size": [
+   12.0,
+   9.25,
+   10.1
+  ],
+  "materials": [
+   "we2_canopy_gd",
+   "we2_canopy_gr",
+   "we2_cloth_c",
+   "we2_gold",
+   "we2_iron",
+   "we2_rope",
+   "we2_timber",
+   "we2_wood",
+   "we2_wood_l",
+   "wx3_pot_b",
+   "wx3_pot_g",
+   "wx3_pot_p",
+   "wx3_pot_r"
+  ],
+  "door": [
+   [
+    0.8,
+    -4.07,
+    0.15
+   ]
+  ]
+ },
+ "F08_13_gate_arch_stone": {
+  "category": "v4_roads",
+  "tris": 3506,
+  "size": [
+   24.3,
+   7.0,
+   19.8
+  ],
+  "materials": [
+   "wj_ashlar_d",
+   "wx3r_ban_b",
+   "wx3r_ban_r",
+   "wx3r_glass",
+   "wx3r_gold",
+   "wx3r_iron",
+   "wx3r_stone",
+   "wx3r_trim"
+  ]
+ },
+ "F09_08_story_prop_08": {
+  "category": "v4_story",
+  "tris": 4594,
+  "size": [
+   17.7,
+   13.99,
+   8.8
+  ],
+  "materials": [
+   "leaf",
+   "moss",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "we2s_ash",
+   "wx3s_beam",
+   "wx3s_course",
+   "wx3s_slate",
+   "wx3s_slate2"
+  ]
+ },
+ "F09_10_story_prop_10": {
+  "category": "v4_story",
+  "tris": 5148,
+  "size": [
+   17.2,
+   14.04,
+   7.77
+  ],
+  "materials": [
+   "leaf",
+   "moss",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "we2s_ash",
+   "wx3s_course",
+   "wx3s_slate",
+   "wx3s_slate2"
+  ]
+ },
+ "F09_13_story_prop_13": {
+  "category": "v4_story",
+  "tris": 5848,
+  "size": [
+   13.0,
+   10.93,
+   18.24
+  ],
+  "materials": [
+   "ivy",
+   "leaf",
+   "leaf_dark",
+   "moss",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "we2s_bell",
+   "wx3s_course",
+   "wx3s_slate",
+   "wx3s_slate2"
+  ]
+ }
+}

@@ -1,0 +1,804 @@
+[
+ {
+  "id": "A24_oak_1",
+  "pieces": 4,
+  "max_tris": 3668,
+  "names": [
+   "bark",
+   "leaf",
+   "leaf_dark",
+   "leaf_light"
+  ],
+  "size": [
+   38.09,
+   40.37,
+   38.71
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A25_oak_2",
+  "pieces": 3,
+  "max_tris": 3080,
+  "names": [
+   "bark",
+   "leaf",
+   "leaf_light"
+  ],
+  "size": [
+   30.0,
+   28.45,
+   30.11
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A26_oak_3",
+  "pieces": 4,
+  "max_tris": 2492,
+  "names": [
+   "bark",
+   "birch_leaf",
+   "leaf",
+   "leaf_light"
+  ],
+  "size": [
+   16.57,
+   14.13,
+   22.42
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A27_birch_1",
+  "pieces": 5,
+  "max_tris": 2124,
+  "names": [
+   "birch",
+   "birch_leaf",
+   "iron_dark",
+   "leaf",
+   "leaf_light"
+  ],
+  "size": [
+   20.05,
+   19.84,
+   36.46
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A28_birch_2",
+  "pieces": 5,
+  "max_tris": 2124,
+  "names": [
+   "birch",
+   "birch_leaf",
+   "iron_dark",
+   "leaf",
+   "leaf_light"
+  ],
+  "size": [
+   14.83,
+   16.46,
+   29.42
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A29_pine_1",
+  "pieces": 3,
+  "max_tris": 584,
+  "names": [
+   "bark",
+   "pine",
+   "pine_dark"
+  ],
+  "size": [
+   20.35,
+   21.44,
+   41.94
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A30_pine_2",
+  "pieces": 3,
+  "max_tris": 584,
+  "names": [
+   "bark",
+   "pine",
+   "pine_light"
+  ],
+  "size": [
+   21.07,
+   21.19,
+   31.43
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A31_pine_3",
+  "pieces": 3,
+  "max_tris": 584,
+  "names": [
+   "bark",
+   "pine",
+   "pine_light"
+  ],
+  "size": [
+   12.96,
+   13.52,
+   17.98
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A32_maple_autumn",
+  "pieces": 4,
+  "max_tris": 3640,
+  "names": [
+   "autumn_a",
+   "autumn_b",
+   "autumn_c",
+   "bark"
+  ],
+  "size": [
+   22.74,
+   21.35,
+   29.85
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A33_willow",
+  "pieces": 4,
+  "max_tris": 3760,
+  "names": [
+   "bark",
+   "birch_leaf",
+   "leaf_light",
+   "willow"
+  ],
+  "size": [
+   26.2,
+   26.01,
+   25.39
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A34_fruit_tree",
+  "pieces": 4,
+  "max_tris": 4200,
+  "names": [
+   "bark",
+   "fruit",
+   "leaf",
+   "leaf_light"
+  ],
+  "size": [
+   19.06,
+   15.75,
+   18.12
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A35_dead_tree_1",
+  "pieces": 2,
+  "max_tris": 5240,
+  "names": [
+   "bark",
+   "bark_dead"
+  ],
+  "size": [
+   17.53,
+   18.06,
+   26.95
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A36_dead_tree_2",
+  "pieces": 2,
+  "max_tris": 2040,
+  "names": [
+   "bark",
+   "bark_dead"
+  ],
+  "size": [
+   14.27,
+   9.32,
+   15.39
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A37_sapling",
+  "pieces": 6,
+  "max_tris": 1088,
+  "names": [
+   "bark",
+   "dirt",
+   "leaf",
+   "leaf_light",
+   "rope",
+   "wood_light"
+  ],
+  "size": [
+   5.35,
+   6.42,
+   9.41
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A38_bush_1",
+  "pieces": 3,
+  "max_tris": 960,
+  "names": [
+   "leaf",
+   "leaf_dark",
+   "leaf_light"
+  ],
+  "size": [
+   7.94,
+   8.03,
+   4.41
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A39_bush_2",
+  "pieces": 3,
+  "max_tris": 1600,
+  "names": [
+   "fl_red",
+   "leaf",
+   "leaf_dark"
+  ],
+  "size": [
+   10.87,
+   10.93,
+   6.34
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A40_bush_3",
+  "pieces": 3,
+  "max_tris": 1440,
+  "names": [
+   "fl_white",
+   "leaf",
+   "leaf_light"
+  ],
+  "size": [
+   6.67,
+   6.64,
+   3.69
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A41_hedge_straight",
+  "pieces": 2,
+  "max_tris": 1420,
+  "names": [
+   "leaf",
+   "leaf_dark"
+  ],
+  "size": [
+   12.31,
+   3.74,
+   4.87
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A42_hedge_corner",
+  "pieces": 2,
+  "max_tris": 2620,
+  "names": [
+   "leaf",
+   "leaf_dark"
+  ],
+  "size": [
+   7.82,
+   8.06,
+   4.94
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A43_flowers_red",
+  "pieces": 5,
+  "max_tris": 2520,
+  "names": [
+   "fl_red",
+   "iron_dark",
+   "leaf",
+   "leaf_dark",
+   "leaf_light"
+  ],
+  "size": [
+   5.24,
+   4.57,
+   2.04
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A44_flowers_yellow",
+  "pieces": 5,
+  "max_tris": 3528,
+  "names": [
+   "fl_orange",
+   "fl_yellow",
+   "leaf",
+   "leaf_dark",
+   "leaf_light"
+  ],
+  "size": [
+   4.58,
+   4.26,
+   1.96
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A45_flowers_purple",
+  "pieces": 3,
+  "max_tris": 4752,
+  "names": [
+   "fl_purple",
+   "leaf",
+   "leaf_dark"
+  ],
+  "size": [
+   4.85,
+   4.01,
+   2.24
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A46_flowers_white",
+  "pieces": 5,
+  "max_tris": 4032,
+  "names": [
+   "fl_white",
+   "fl_yellow",
+   "leaf",
+   "leaf_dark",
+   "leaf_light"
+  ],
+  "size": [
+   4.76,
+   4.13,
+   2.01
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A47_flowers_blue",
+  "pieces": 5,
+  "max_tris": 3024,
+  "names": [
+   "fl_blue",
+   "fl_white",
+   "leaf",
+   "leaf_dark",
+   "leaf_light"
+  ],
+  "size": [
+   5.11,
+   4.02,
+   2.04
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A48_planter_box",
+  "pieces": 12,
+  "max_tris": 1672,
+  "names": [
+   "dirt",
+   "fl_blue",
+   "fl_purple",
+   "fl_red",
+   "fl_white",
+   "fl_yellow",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   6.3,
+   2.86,
+   3.33
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A49_tall_grass_1",
+  "pieces": 3,
+  "max_tris": 896,
+  "names": [
+   "leaf",
+   "leaf_dark",
+   "leaf_light"
+  ],
+  "size": [
+   3.25,
+   3.15,
+   2.98
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A50_tall_grass_2",
+  "pieces": 3,
+  "max_tris": 1064,
+  "names": [
+   "grass_dry",
+   "leaf_light",
+   "thatch"
+  ],
+  "size": [
+   4.51,
+   4.08,
+   4.0
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A51_fern",
+  "pieces": 3,
+  "max_tris": 2000,
+  "names": [
+   "leaf",
+   "leaf_dark",
+   "leaf_light"
+  ],
+  "size": [
+   6.6,
+   6.68,
+   1.45
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A52_reeds",
+  "pieces": 4,
+  "max_tris": 1456,
+  "names": [
+   "grass_dry",
+   "leaf",
+   "leaf_dark",
+   "wood_dark"
+  ],
+  "size": [
+   4.53,
+   4.94,
+   5.49
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A53_lily_pads",
+  "pieces": 5,
+  "max_tris": 360,
+  "names": [
+   "fl_pink",
+   "fl_white",
+   "fl_yellow",
+   "leaf",
+   "leaf_dark"
+  ],
+  "size": [
+   5.55,
+   6.9,
+   0.47
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A54_mushroom_cluster",
+  "pieces": 4,
+  "max_tris": 1056,
+  "names": [
+   "fl_red",
+   "fl_white",
+   "moss",
+   "mush_tan"
+  ],
+  "size": [
+   4.22,
+   3.61,
+   2.41
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A55_pebbles",
+  "pieces": 3,
+  "max_tris": 180,
+  "names": [
+   "stone",
+   "stone_dark",
+   "stone_light"
+  ],
+  "size": [
+   3.42,
+   3.97,
+   0.4
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A56_rock_small_1",
+  "pieces": 4,
+  "max_tris": 640,
+  "names": [
+   "leaf",
+   "leaf_dark",
+   "leaf_light",
+   "stone"
+  ],
+  "size": [
+   4.1,
+   3.3,
+   1.73
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A57_rock_small_2",
+  "pieces": 5,
+  "max_tris": 524,
+  "names": [
+   "leaf",
+   "leaf_dark",
+   "leaf_light",
+   "moss",
+   "stone_dark"
+  ],
+  "size": [
+   5.3,
+   3.77,
+   2.27
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A58_rock_medium_1",
+  "pieces": 5,
+  "max_tris": 1287,
+  "names": [
+   "leaf",
+   "leaf_dark",
+   "leaf_light",
+   "moss",
+   "stone"
+  ],
+  "size": [
+   10.19,
+   7.48,
+   4.41
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A59_rock_medium_2",
+  "pieces": 4,
+  "max_tris": 1600,
+  "names": [
+   "leaf",
+   "leaf_dark",
+   "leaf_light",
+   "stone_light"
+  ],
+  "size": [
+   9.27,
+   6.69,
+   3.01
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A60_boulder_1",
+  "pieces": 5,
+  "max_tris": 1269,
+  "names": [
+   "leaf",
+   "leaf_dark",
+   "leaf_light",
+   "moss",
+   "stone"
+  ],
+  "size": [
+   20.56,
+   15.85,
+   8.79
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A61_boulder_2",
+  "pieces": 3,
+  "max_tris": 2282,
+  "names": [
+   "moss",
+   "stone",
+   "stone_dark"
+  ],
+  "size": [
+   12.11,
+   11.44,
+   10.76
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A62_cliff_1",
+  "pieces": 6,
+  "max_tris": 1060,
+  "names": [
+   "cliff_a",
+   "cliff_b",
+   "leaf",
+   "leaf_dark",
+   "leaf_light",
+   "moss"
+  ],
+  "size": [
+   20.72,
+   11.6,
+   19.97
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A63_cliff_2",
+  "pieces": 6,
+  "max_tris": 1810,
+  "names": [
+   "cliff_a",
+   "cliff_b",
+   "leaf",
+   "leaf_dark",
+   "leaf_light",
+   "moss"
+  ],
+  "size": [
+   28.53,
+   13.14,
+   27.51
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A64_cliff_3",
+  "pieces": 6,
+  "max_tris": 720,
+  "names": [
+   "cliff_a",
+   "cliff_b",
+   "leaf",
+   "leaf_dark",
+   "leaf_light",
+   "moss"
+  ],
+  "size": [
+   16.67,
+   10.28,
+   11.91
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A65_rock_arch",
+  "pieces": 3,
+  "max_tris": 636,
+  "names": [
+   "cliff_a",
+   "cliff_b",
+   "moss"
+  ],
+  "size": [
+   30.78,
+   10.09,
+   15.6
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A66_stepping_stones",
+  "pieces": 2,
+  "max_tris": 400,
+  "names": [
+   "stone",
+   "stone_light"
+  ],
+  "size": [
+   7.13,
+   19.93,
+   1.13
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A67_fallen_log",
+  "pieces": 4,
+  "max_tris": 480,
+  "names": [
+   "bark",
+   "moss",
+   "wood",
+   "wood_light"
+  ],
+  "size": [
+   14.37,
+   3.53,
+   2.97
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A68_stump_1",
+  "pieces": 4,
+  "max_tris": 864,
+  "names": [
+   "bark",
+   "moss",
+   "wood",
+   "wood_light"
+  ],
+  "size": [
+   6.39,
+   5.96,
+   3.24
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A69_stump_2",
+  "pieces": 4,
+  "max_tris": 864,
+  "names": [
+   "bark",
+   "moss",
+   "wood",
+   "wood_light"
+  ],
+  "size": [
+   4.08,
+   3.64,
+   2.47
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A70_branch_pile",
+  "pieces": 5,
+  "max_tris": 920,
+  "names": [
+   "autumn_a",
+   "autumn_c",
+   "bark",
+   "bark_dead",
+   "leaf_dark"
+  ],
+  "size": [
+   5.92,
+   5.92,
+   1.71
+  ],
+  "min_z": 0.0
+ }
+]

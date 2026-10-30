@@ -1,0 +1,263 @@
+{
+ "E13_01_rock_face_01": {
+  "category": "v4_terrain",
+  "tris": 20728,
+  "size": [
+   81.5,
+   33.69,
+   60.0
+  ],
+  "materials": [
+   "rock_face_01_base",
+   "wd_granite",
+   "wd_granite_dark",
+   "wd_granite_light",
+   "wd_moss",
+   "wd_scree_grey",
+   "wd_snow"
+  ]
+ },
+ "E13_02_rock_face_02": {
+  "category": "v4_terrain",
+  "tris": 20728,
+  "size": [
+   80.0,
+   31.8,
+   60.0
+  ],
+  "materials": [
+   "rock_face_02_base",
+   "wd_granite",
+   "wd_granite_dark",
+   "wd_granite_light",
+   "wd_moss",
+   "wd_scree_grey",
+   "wd_snow"
+  ]
+ },
+ "E13_03_rock_face_03": {
+  "category": "v4_terrain",
+  "tris": 20728,
+  "size": [
+   80.0,
+   32.17,
+   60.0
+  ],
+  "materials": [
+   "rock_face_03_base",
+   "wd_granite",
+   "wd_granite_dark",
+   "wd_granite_light",
+   "wd_moss",
+   "wd_scree_grey",
+   "wd_snow"
+  ]
+ },
+ "E13_04_rock_face_04": {
+  "category": "v4_terrain",
+  "tris": 20728,
+  "size": [
+   80.0,
+   32.66,
+   60.0
+  ],
+  "materials": [
+   "rock_face_04_base",
+   "wd_granite",
+   "wd_granite_dark",
+   "wd_granite_light",
+   "wd_moss",
+   "wd_scree_grey",
+   "wd_snow"
+  ]
+ },
+ "E13_05_rock_face_05": {
+  "category": "v4_terrain",
+  "tris": 20164,
+  "size": [
+   80.1,
+   33.36,
+   58.0
+  ],
+  "materials": [
+   "rock_face_05_base",
+   "wd_moss",
+   "wd_sand_band",
+   "wd_sandstone",
+   "wd_sandstone_dk",
+   "wd_sandstone_lt",
+   "wd_scree_sand"
+  ]
+ },
+ "E13_06_rock_face_06": {
+  "category": "v4_terrain",
+  "tris": 20168,
+  "size": [
+   80.0,
+   31.63,
+   58.0
+  ],
+  "materials": [
+   "rock_face_06_base",
+   "wd_moss",
+   "wd_sand_band",
+   "wd_sandstone",
+   "wd_sandstone_dk",
+   "wd_sandstone_lt",
+   "wd_scree_sand"
+  ]
+ },
+ "E13_07_rock_face_07": {
+  "category": "v4_terrain",
+  "tris": 20168,
+  "size": [
+   81.92,
+   31.54,
+   58.0
+  ],
+  "materials": [
+   "rock_face_07_base",
+   "wd_moss",
+   "wd_sand_band",
+   "wd_sandstone",
+   "wd_sandstone_dk",
+   "wd_sandstone_lt",
+   "wd_scree_sand"
+  ]
+ },
+ "E13_08_rock_face_08": {
+  "category": "v4_terrain",
+  "tris": 21288,
+  "size": [
+   80.0,
+   32.91,
+   60.0
+  ],
+  "materials": [
+   "rock_face_08_base",
+   "wd_basalt",
+   "wd_basalt_dark",
+   "wd_moss",
+   "wd_scree_dark",
+   "wd_slate",
+   "wd_stain"
+  ]
+ },
+ "E13_09_rock_face_09": {
+  "category": "v4_terrain",
+  "tris": 21288,
+  "size": [
+   82.03,
+   32.68,
+   60.0
+  ],
+  "materials": [
+   "rock_face_09_base",
+   "wd_basalt",
+   "wd_basalt_dark",
+   "wd_moss",
+   "wd_scree_dark",
+   "wd_slate",
+   "wd_stain"
+  ]
+ },
+ "E13_10_rock_face_10": {
+  "category": "v4_terrain",
+  "tris": 21288,
+  "size": [
+   81.54,
+   33.22,
+   60.0
+  ],
+  "materials": [
+   "rock_face_10_base",
+   "wd_basalt",
+   "wd_basalt_dark",
+   "wd_moss",
+   "wd_scree_dark",
+   "wd_slate",
+   "wd_stain"
+  ]
+ },
+ "R01_01_islet_01": {
+  "category": "v4_terrain",
+  "tris": 4894,
+  "size": [
+   40.55,
+   42.93,
+   53.32
+  ],
+  "materials": [
+   "wd_dirt",
+   "wd_grass",
+   "wd_isle_dark",
+   "wd_isle_rock",
+   "wd_pine",
+   "wd_pine_dark",
+   "wd_rock_grey",
+   "wd_scree",
+   "wd_trunk"
+  ]
+ },
+ "R01_02_islet_02": {
+  "category": "v4_terrain",
+  "tris": 5002,
+  "size": [
+   77.47,
+   85.03,
+   36.75
+  ],
+  "materials": [
+   "wd_dirt",
+   "wd_grass",
+   "wd_isle_dark",
+   "wd_isle_rock",
+   "wd_oak",
+   "wd_pine",
+   "wd_pine_dark",
+   "wd_rock_grey",
+   "wd_scree",
+   "wd_trunk"
+  ]
+ },
+ "R01_03_islet_03": {
+  "category": "v4_terrain",
+  "tris": 5362,
+  "size": [
+   56.8,
+   59.92,
+   45.41
+  ],
+  "materials": [
+   "wd_dirt",
+   "wd_grass",
+   "wd_isle_dark",
+   "wd_isle_rock",
+   "wd_pine",
+   "wd_pine_dark",
+   "wd_rock_grey",
+   "wd_scree",
+   "wd_trunk"
+  ]
+ },
+ "R01_04_islet_04": {
+  "category": "v4_terrain",
+  "tris": 5372,
+  "size": [
+   45.65,
+   49.34,
+   38.98
+  ],
+  "materials": [
+   "wd_dirt",
+   "wd_grass",
+   "wd_isle_dark",
+   "wd_isle_rock",
+   "wd_pine",
+   "wd_pine_dark",
+   "wd_rock_grey",
+   "wd_scree",
+   "wd_trunk"
+  ]
+ }
+}

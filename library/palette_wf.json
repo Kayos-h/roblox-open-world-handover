@@ -1,0 +1,128 @@
+{
+ "wf_timber": {
+  "rgb": [
+   96,
+   66,
+   44
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "wf_timber_dark": {
+  "rgb": [
+   64,
+   44,
+   30
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "wf_plank": {
+  "rgb": [
+   140,
+   104,
+   68
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "wf_plank_light": {
+  "rgb": [
+   176,
+   140,
+   96
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "wf_stone": {
+  "rgb": [
+   150,
+   146,
+   140
+  ],
+  "material": "Cobblestone",
+  "glow": false
+ },
+ "wf_stone_dark": {
+  "rgb": [
+   112,
+   108,
+   104
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "wf_shingle_a": {
+  "rgb": [
+   92,
+   72,
+   58
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "wf_shingle_b": {
+  "rgb": [
+   74,
+   58,
+   48
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "wf_shutter_g": {
+  "rgb": [
+   58,
+   96,
+   74
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "wf_shutter_r": {
+  "rgb": [
+   138,
+   58,
+   48
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "wf_shutter_b": {
+  "rgb": [
+   60,
+   86,
+   122
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "wf_glow": {
+  "rgb": [
+   248,
+   196,
+   112
+  ],
+  "material": "Glass",
+  "glow": true
+ },
+ "wf_turf": {
+  "rgb": [
+   96,
+   116,
+   70
+  ],
+  "material": "Grass",
+  "glow": false
+ },
+ "wf_turf_snow": {
+  "rgb": [
+   206,
+   216,
+   210
+  ],
+  "material": "Grass",
+  "glow": false
+ }
+}

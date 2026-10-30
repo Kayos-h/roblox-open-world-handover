@@ -1,0 +1,240 @@
+{
+ "E13_01_rock_face_01": {
+  "category": "v4_terrain",
+  "tris": 17808,
+  "size": [
+   83.0,
+   34.85,
+   64.0
+  ],
+  "materials": [
+   "E13_01_rock_face_01_base",
+   "wx1_granite_dark",
+   "wx1_granite_light",
+   "wx1_granite_mid",
+   "wx1_snow"
+  ]
+ },
+ "E13_02_rock_face_02": {
+  "category": "v4_terrain",
+  "tris": 17808,
+  "size": [
+   83.0,
+   35.15,
+   64.0
+  ],
+  "materials": [
+   "E13_02_rock_face_02_base",
+   "wx1_granite_dark",
+   "wx1_granite_light",
+   "wx1_granite_mid",
+   "wx1_snow"
+  ]
+ },
+ "E13_03_rock_face_03": {
+  "category": "v4_terrain",
+  "tris": 17808,
+  "size": [
+   83.0,
+   35.14,
+   64.0
+  ],
+  "materials": [
+   "E13_03_rock_face_03_base",
+   "wx1_granite_dark",
+   "wx1_granite_light",
+   "wx1_granite_mid",
+   "wx1_snow"
+  ]
+ },
+ "E13_04_rock_face_04": {
+  "category": "v4_terrain",
+  "tris": 17808,
+  "size": [
+   83.0,
+   35.73,
+   64.0
+  ],
+  "materials": [
+   "E13_04_rock_face_04_base",
+   "wx1_granite_dark",
+   "wx1_granite_light",
+   "wx1_granite_mid",
+   "wx1_snow"
+  ]
+ },
+ "E13_05_rock_face_05": {
+  "category": "v4_terrain",
+  "tris": 17808,
+  "size": [
+   83.0,
+   35.03,
+   64.0
+  ],
+  "materials": [
+   "E13_05_rock_face_05_base",
+   "wx1_sand_crack",
+   "wx1_sand_dark",
+   "wx1_sand_light",
+   "wx1_sand_mid",
+   "wx1_sand_red",
+   "wx1_sand_umber"
+  ]
+ },
+ "E13_06_rock_face_06": {
+  "category": "v4_terrain",
+  "tris": 17808,
+  "size": [
+   83.0,
+   35.02,
+   64.0
+  ],
+  "materials": [
+   "E13_06_rock_face_06_base",
+   "wx1_sand_crack",
+   "wx1_sand_dark",
+   "wx1_sand_light",
+   "wx1_sand_mid",
+   "wx1_sand_red",
+   "wx1_sand_umber"
+  ]
+ },
+ "E13_07_rock_face_07": {
+  "category": "v4_terrain",
+  "tris": 17808,
+  "size": [
+   83.0,
+   35.25,
+   64.0
+  ],
+  "materials": [
+   "E13_07_rock_face_07_base",
+   "wx1_sand_crack",
+   "wx1_sand_dark",
+   "wx1_sand_light",
+   "wx1_sand_mid",
+   "wx1_sand_red",
+   "wx1_sand_umber"
+  ]
+ },
+ "E13_08_rock_face_08": {
+  "category": "v4_terrain",
+  "tris": 17808,
+  "size": [
+   83.0,
+   35.53,
+   64.0
+  ],
+  "materials": [
+   "E13_08_rock_face_08_base",
+   "wx1_slate_dark",
+   "wx1_slate_light",
+   "wx1_slate_mid",
+   "wx1_snow"
+  ]
+ },
+ "E13_09_rock_face_09": {
+  "category": "v4_terrain",
+  "tris": 17808,
+  "size": [
+   83.0,
+   35.88,
+   64.0
+  ],
+  "materials": [
+   "E13_09_rock_face_09_base",
+   "wx1_slate_dark",
+   "wx1_slate_light",
+   "wx1_slate_mid",
+   "wx1_snow"
+  ]
+ },
+ "E13_10_rock_face_10": {
+  "category": "v4_terrain",
+  "tris": 17808,
+  "size": [
+   83.0,
+   34.67,
+   64.0
+  ],
+  "materials": [
+   "E13_10_rock_face_10_base",
+   "wx1_slate_dark",
+   "wx1_slate_light",
+   "wx1_slate_mid",
+   "wx1_snow"
+  ]
+ },
+ "E14_01_icelake_rim_wall_01": {
+  "category": "v4_alpine",
+  "tris": 17808,
+  "size": [
+   60.0,
+   24.69,
+   30.0
+  ],
+  "materials": [
+   "E14_01_icelake_rim_wall_01_base",
+   "wx1_ice_band",
+   "wx1_ice_pale",
+   "wx1_rim_snow",
+   "wx1_rimrock_dark",
+   "wx1_rimrock_light",
+   "wx1_rimrock_mid"
+  ]
+ },
+ "E14_02_icelake_rim_wall_02": {
+  "category": "v4_alpine",
+  "tris": 17808,
+  "size": [
+   60.0,
+   24.92,
+   30.0
+  ],
+  "materials": [
+   "E14_02_icelake_rim_wall_02_base",
+   "wx1_ice_band",
+   "wx1_ice_pale",
+   "wx1_rim_snow",
+   "wx1_rimrock_dark",
+   "wx1_rimrock_light",
+   "wx1_rimrock_mid"
+  ]
+ },
+ "E14_03_icelake_rim_wall_03": {
+  "category": "v4_alpine",
+  "tris": 17808,
+  "size": [
+   60.0,
+   23.73,
+   30.0
+  ],
+  "materials": [
+   "E14_03_icelake_rim_wall_03_base",
+   "wx1_ice_band",
+   "wx1_ice_pale",
+   "wx1_rim_snow",
+   "wx1_rimrock_dark",
+   "wx1_rimrock_light",
+   "wx1_rimrock_mid"
+  ]
+ },
+ "E14_04_icelake_rim_wall_04": {
+  "category": "v4_alpine",
+  "tris": 17808,
+  "size": [
+   60.0,
+   24.09,
+   30.0
+  ],
+  "materials": [
+   "E14_04_icelake_rim_wall_04_base",
+   "wx1_ice_band",
+   "wx1_ice_pale",
+   "wx1_rim_snow",
+   "wx1_rimrock_dark",
+   "wx1_rimrock_light",
+   "wx1_rimrock_mid"
+  ]
+ }
+}

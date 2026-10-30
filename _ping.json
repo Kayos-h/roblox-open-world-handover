@@ -1,0 +1,1 @@
+{"code":"local ws = workspace\nlocal pm = ws:FindFirstChild('Phase1Map')\nlocal n = 0\nif pm then n = #pm:GetChildren() end\nreturn string.format('place=%d name=%s phase1map=%s children=%d descendants=%d', game.PlaceId, game.Name, tostring(pm ~= nil), n, #ws:GetDescendants())"}

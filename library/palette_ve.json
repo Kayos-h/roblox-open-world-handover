@@ -1,0 +1,461 @@
+{
+ "ve_wood": {
+  "rgb": [
+   140,
+   104,
+   70
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "ve_bark": {
+  "rgb": [
+   176,
+   150,
+   112
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "ve_moss": {
+  "rgb": [
+   86,
+   130,
+   70
+  ],
+  "material": "Grass",
+  "glow": false
+ },
+ "ve_leaf1": {
+  "rgb": [
+   70,
+   120,
+   60
+  ],
+  "material": "Grass",
+  "glow": false
+ },
+ "ve_leaf2": {
+  "rgb": [
+   104,
+   150,
+   80
+  ],
+  "material": "Grass",
+  "glow": false
+ },
+ "ve_stone": {
+  "rgb": [
+   150,
+   140,
+   120
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "ve_shingle": {
+  "rgb": [
+   80,
+   120,
+   100
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "ve_rope": {
+  "rgb": [
+   176,
+   150,
+   104
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "ve_lantern": {
+  "rgb": [
+   236,
+   206,
+   150
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "ve_dark": {
+  "rgb": [
+   38,
+   42,
+   40
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "ve_water": {
+  "rgb": [
+   96,
+   150,
+   180
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "ve_plank": {
+  "rgb": [
+   156,
+   120,
+   82
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "ve_cloth": {
+  "rgb": [
+   196,
+   170,
+   120
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "ve_red": {
+  "rgb": [
+   150,
+   70,
+   60
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "ve_foam": {
+  "rgb": [
+   236,
+   244,
+   248
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "ve_shroom": {
+  "rgb": [
+   176,
+   80,
+   64
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "ve_cream": {
+  "rgb": [
+   234,
+   224,
+   196
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "ve_t1_dstone": {
+  "rgb": [
+   70,
+   70,
+   78
+  ],
+  "material": "Granite",
+  "glow": false
+ },
+ "ve_t1_stone": {
+  "rgb": [
+   128,
+   124,
+   120
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "ve_t1_iron": {
+  "rgb": [
+   58,
+   58,
+   64
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "ve_t1_bone": {
+  "rgb": [
+   226,
+   218,
+   200
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "ve_t1_wood": {
+  "rgb": [
+   118,
+   86,
+   56
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "ve_t1_plank": {
+  "rgb": [
+   150,
+   112,
+   76
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "ve_t1_cloth": {
+  "rgb": [
+   150,
+   50,
+   50
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "ve_t1_coal": {
+  "rgb": [
+   46,
+   34,
+   30
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "ve_t1_brass": {
+  "rgb": [
+   190,
+   154,
+   84
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "ve_t1_dark": {
+  "rgb": [
+   30,
+   30,
+   34
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "ve_t1_rope": {
+  "rgb": [
+   176,
+   150,
+   104
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "ve_t1_cream": {
+  "rgb": [
+   232,
+   222,
+   196
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "ve_t1_green": {
+  "rgb": [
+   70,
+   100,
+   70
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "ve_t1_blue": {
+  "rgb": [
+   60,
+   84,
+   120
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "ve_f_water": {
+  "rgb": [
+   150,
+   176,
+   190
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "ve_f_water_dp": {
+  "rgb": [
+   120,
+   150,
+   168
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "ve_f_foam": {
+  "rgb": [
+   224,
+   230,
+   232
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "ve_f_rock_a": {
+  "rgb": [
+   120,
+   116,
+   112
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "ve_f_rock_b": {
+  "rgb": [
+   98,
+   94,
+   90
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "ve_f_rock_c": {
+  "rgb": [
+   140,
+   136,
+   130
+  ],
+  "material": "Rock",
+  "glow": false
+ },
+ "ve_f_rock_base": {
+  "rgb": [
+   80,
+   77,
+   74
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "ve_f_barkdk": {
+  "rgb": [
+   110,
+   86,
+   62
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "ve_f_barkmid": {
+  "rgb": [
+   150,
+   120,
+   86
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "ve_f_moss": {
+  "rgb": [
+   96,
+   124,
+   72
+  ],
+  "material": "Grass",
+  "glow": false
+ },
+ "ve_f_deckwood": {
+  "rgb": [
+   156,
+   124,
+   86
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "ve_f_niche": {
+  "rgb": [
+   40,
+   36,
+   34
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "ve_f_bone": {
+  "rgb": [
+   226,
+   218,
+   200
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "ve_f_cloth_r": {
+  "rgb": [
+   150,
+   60,
+   54
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "ve_f_cloth_b": {
+  "rgb": [
+   60,
+   84,
+   120
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "ve_f_iron_m": {
+  "rgb": [
+   92,
+   88,
+   86
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "ve_f_bronze": {
+  "rgb": [
+   128,
+   96,
+   62
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "ve_f_coal2": {
+  "rgb": [
+   76,
+   52,
+   42
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "ve_f_ash": {
+  "rgb": [
+   128,
+   120,
+   110
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "ve_f_sack": {
+  "rgb": [
+   190,
+   168,
+   124
+  ],
+  "material": "Fabric",
+  "glow": false
+ }
+}

@@ -1,0 +1,403 @@
+{
+ "B02_02_round_tower": {
+  "category": "v4_castle",
+  "tris": 36582,
+  "size": [
+   24.0,
+   23.87,
+   104.5
+  ],
+  "materials": [
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "timber",
+   "wb_ashlar",
+   "wb_ashlar_b",
+   "wb_ashlar_c",
+   "wb_banner_gold",
+   "wb_slate_a",
+   "wb_slate_b",
+   "wb_trim"
+  ]
+ },
+ "B02_04_spire_tower": {
+  "category": "v4_castle",
+  "tris": 33190,
+  "size": [
+   18.2,
+   18.2,
+   121.9
+  ],
+  "materials": [
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "timber",
+   "wb_ashlar_b",
+   "wb_ashlar_c",
+   "wb_ashlar_warm",
+   "wb_banner_blue",
+   "wb_slate_a",
+   "wb_slate_dark",
+   "wb_trim"
+  ]
+ },
+ "B02_05_curtain_wall": {
+  "category": "v4_castle",
+  "tris": 24080,
+  "size": [
+   40.0,
+   11.9,
+   31.42
+  ],
+  "materials": [
+   "glass_dark",
+   "iron",
+   "wb_ashlar",
+   "wb_ashlar_b",
+   "wb_ashlar_c",
+   "wb_banner_blue",
+   "wb_banner_gold",
+   "wb_floor",
+   "wb_plinth",
+   "wb_trim"
+  ]
+ },
+ "B02_06_curtain_corner": {
+  "category": "v4_castle",
+  "tris": 21372,
+  "size": [
+   27.0,
+   26.9,
+   45.7
+  ],
+  "materials": [
+   "glass_dark",
+   "iron",
+   "wb_ashlar",
+   "wb_ashlar_b",
+   "wb_ashlar_c",
+   "wb_banner_red",
+   "wb_floor",
+   "wb_plinth",
+   "wb_trim"
+  ]
+ },
+ "B02_03_square_tower": {
+  "category": "v4_castle",
+  "tris": 62304,
+  "size": [
+   24.6,
+   24.6,
+   90.5
+  ],
+  "materials": [
+   "glass_dark",
+   "iron",
+   "wb_ashlar",
+   "wb_ashlar_b",
+   "wb_ashlar_c",
+   "wb_banner_gold",
+   "wb_floor",
+   "wb_plinth",
+   "wb_trim"
+  ]
+ },
+ "B02_01_keep": {
+  "category": "v4_castle",
+  "tris": 51820,
+  "size": [
+   73.0,
+   82.5,
+   115.9
+  ],
+  "materials": [
+   "brass",
+   "door_paint",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "timber",
+   "wb_ashlar",
+   "wb_ashlar_b",
+   "wb_ashlar_c",
+   "wb_ashlar_warm",
+   "wb_banner_blue",
+   "wb_banner_gold",
+   "wb_banner_red",
+   "wb_floor",
+   "wb_plinth",
+   "wb_slate_a",
+   "wb_slate_b",
+   "wb_trim"
+  ],
+  "door": [
+   [
+    17.0,
+    -25.55,
+    22.0
+   ]
+  ]
+ },
+ "B02_07_gatehouse": {
+  "category": "v4_castle",
+  "tris": 57708,
+  "size": [
+   58.0,
+   22.6,
+   64.1
+  ],
+  "materials": [
+   "glass_dark",
+   "gold",
+   "hole",
+   "iron",
+   "timber",
+   "wb_ashlar",
+   "wb_ashlar_b",
+   "wb_ashlar_c",
+   "wb_ashlar_warm",
+   "wb_banner_blue",
+   "wb_banner_gold",
+   "wb_banner_red",
+   "wb_floor",
+   "wb_plinth",
+   "wb_portc",
+   "wb_slate_a",
+   "wb_slate_b",
+   "wb_trim"
+  ],
+  "door": [
+   [
+    0.0,
+    -10.3,
+    0.2
+   ]
+  ]
+ },
+ "B07_01_capital_house_01": {
+  "category": "v4_capital",
+  "tris": 27316,
+  "size": [
+   17.54,
+   18.15,
+   39.92
+  ],
+  "materials": [
+   "ashlar",
+   "brass",
+   "brick",
+   "castle_trim",
+   "dirt",
+   "door_paint",
+   "fl_blue",
+   "fl_white",
+   "glass_dark",
+   "glass_lit",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "shutter_b",
+   "stone",
+   "stone_dark",
+   "terracotta",
+   "tile_b",
+   "timber",
+   "wb_plaster_warm",
+   "wb_slate_blue",
+   "wood",
+   "wood_paint"
+  ]
+ },
+ "B07_02_capital_house_02": {
+  "category": "v4_capital",
+  "tris": 10164,
+  "size": [
+   24.2,
+   18.98,
+   32.95
+  ],
+  "materials": [
+   "ashlar",
+   "castle_trim",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "hole",
+   "iron",
+   "shutter_r",
+   "stone_dark",
+   "terracotta",
+   "timber",
+   "wb_plaster_rose",
+   "wb_terra",
+   "wb_terra_b",
+   "wood_dark",
+   "wood_paint"
+  ]
+ },
+ "B07_03_capital_house_03": {
+  "category": "v4_capital",
+  "tris": 31154,
+  "size": [
+   23.58,
+   25.34,
+   41.0
+  ],
+  "materials": [
+   "ashlar",
+   "ashlar_dark",
+   "brass",
+   "brick",
+   "dirt",
+   "door_paint",
+   "fabric_green",
+   "fl_red",
+   "fl_white",
+   "glass_dark",
+   "glass_lit",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "shutter_g",
+   "stone",
+   "stone_dark",
+   "terracotta",
+   "timber",
+   "wb_copper",
+   "wb_copper_dk",
+   "wb_plaster_warm",
+   "wood",
+   "wood_paint"
+  ]
+ },
+ "B07_04_capital_house_04": {
+  "category": "v4_capital",
+  "tris": 11466,
+  "size": [
+   20.42,
+   20.35,
+   35.6
+  ],
+  "materials": [
+   "ashlar",
+   "ashlar_dark",
+   "brass",
+   "brick",
+   "castle_trim",
+   "door_paint",
+   "glass_dark",
+   "glass_lit",
+   "iron",
+   "shutter_b",
+   "stone",
+   "stone_dark",
+   "terracotta",
+   "timber",
+   "wb_slate_grey",
+   "wood_paint"
+  ]
+ },
+ "B07_05_capital_house_05": {
+  "category": "v4_capital",
+  "tris": 25358,
+  "size": [
+   20.0,
+   19.0,
+   32.7
+  ],
+  "materials": [
+   "brass",
+   "bread",
+   "brick",
+   "dirt",
+   "door_paint",
+   "fabric_blue",
+   "fabric_green",
+   "fl_pink",
+   "fl_red",
+   "fl_white",
+   "fl_yellow",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "shutter_r",
+   "stone",
+   "stone_dark",
+   "terracotta",
+   "timber",
+   "wb_awning_a",
+   "wb_awning_b",
+   "wb_brownshingle",
+   "wb_brownshingle_b",
+   "wb_plaster_warm",
+   "wood",
+   "wood_dark",
+   "wood_paint"
+  ]
+ },
+ "B07_06_capital_house_06": {
+  "category": "v4_capital",
+  "tris": 23528,
+  "size": [
+   16.7,
+   17.82,
+   51.0
+  ],
+  "materials": [
+   "ashlar",
+   "brass",
+   "brick",
+   "castle_trim",
+   "door_paint",
+   "glass_dark",
+   "glass_lit",
+   "gold",
+   "iron",
+   "shutter_b",
+   "stone",
+   "stone_dark",
+   "timber",
+   "wb_bell",
+   "wb_clock",
+   "wb_clock_face",
+   "wb_clock_hand",
+   "wb_slate_purple",
+   "wb_slate_purple_b",
+   "wood_dark",
+   "wood_paint"
+  ]
+ },
+ "B08_01_town1_church_01": {
+  "category": "v4_town1",
+  "tris": 48224,
+  "size": [
+   46.47,
+   90.9,
+   83.4
+  ],
+  "materials": [
+   "ev_stone_dark",
+   "glass_dark",
+   "iron",
+   "iron_dark",
+   "stained_b",
+   "stained_g",
+   "stained_r",
+   "stained_y",
+   "stone",
+   "stone_dark",
+   "tile_grey",
+   "timber",
+   "wb_slate_dark",
+   "wood_dark"
+  ]
+ }
+}

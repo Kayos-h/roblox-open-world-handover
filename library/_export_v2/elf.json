@@ -1,0 +1,732 @@
+[
+ {
+  "id": "F01_world_tree",
+  "pieces": 15,
+  "max_tris": 11736,
+  "names": [
+   "elf_bark",
+   "elf_bark_b",
+   "elf_stone",
+   "elf_wood_1",
+   "elf_wood_2",
+   "elf_wood_dark",
+   "glow_cyan",
+   "glow_gold",
+   "glow_green",
+   "gold",
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "jleaf_d",
+   "leaf_dark"
+  ],
+  "size": [
+   169.04,
+   186.55,
+   192.89
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F02_treehouse_1",
+  "pieces": 14,
+  "max_tris": 5092,
+  "names": [
+   "elf_bark",
+   "elf_bark_b",
+   "elf_roof",
+   "elf_roof_b",
+   "elf_wood",
+   "elf_wood_dark",
+   "glow_cyan",
+   "glow_gold",
+   "gold",
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "jleaf_d",
+   "leaf_dark"
+  ],
+  "size": [
+   43.76,
+   41.36,
+   48.98
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F03_treehouse_2",
+  "pieces": 14,
+  "max_tris": 9272,
+  "names": [
+   "elf_bark",
+   "elf_bark_b",
+   "elf_roof",
+   "elf_roof_b",
+   "elf_wood",
+   "elf_wood_dark",
+   "glow_cyan",
+   "glow_gold",
+   "gold",
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "jleaf_d",
+   "leaf_dark"
+  ],
+  "size": [
+   46.36,
+   48.67,
+   55.87
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F04_treehouse_3",
+  "pieces": 14,
+  "max_tris": 12692,
+  "names": [
+   "elf_bark",
+   "elf_bark_b",
+   "elf_roof",
+   "elf_roof_b",
+   "elf_wood",
+   "elf_wood_dark",
+   "glow_cyan",
+   "glow_gold",
+   "gold",
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "jleaf_d",
+   "leaf_dark"
+  ],
+  "size": [
+   58.34,
+   58.31,
+   65.18
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F05_treehouse_4",
+  "pieces": 14,
+  "max_tris": 6004,
+  "names": [
+   "elf_bark",
+   "elf_bark_b",
+   "elf_roof",
+   "elf_roof_b",
+   "elf_wood",
+   "elf_wood_dark",
+   "glow_cyan",
+   "glow_gold",
+   "gold",
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "jleaf_d",
+   "leaf_dark"
+  ],
+  "size": [
+   35.39,
+   41.33,
+   41.69
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F06_platform_ring",
+  "pieces": 9,
+  "max_tris": 8756,
+  "names": [
+   "elf_wood",
+   "elf_wood_dark",
+   "glow_cyan",
+   "gold",
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "jleaf_d",
+   "leaf_dark"
+  ],
+  "size": [
+   28.53,
+   28.53,
+   12.15
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F07_rope_bridge_short",
+  "pieces": 8,
+  "max_tris": 1752,
+  "names": [
+   "elf_wood",
+   "elf_wood_dark",
+   "gold",
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "jleaf_d",
+   "rope"
+  ],
+  "size": [
+   16.76,
+   4.96,
+   4.7
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F08_rope_bridge_long",
+  "pieces": 7,
+  "max_tris": 1752,
+  "names": [
+   "elf_wood",
+   "elf_wood_dark",
+   "gold",
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "rope"
+  ],
+  "size": [
+   48.76,
+   4.96,
+   8.9
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F09_spiral_stair",
+  "pieces": 4,
+  "max_tris": 3392,
+  "names": [
+   "elf_wood",
+   "elf_wood_dark",
+   "glow_cyan",
+   "gold"
+  ],
+  "size": [
+   18.0,
+   18.0,
+   33.37
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F10_elf_palace",
+  "pieces": 15,
+  "max_tris": 12036,
+  "names": [
+   "elf_roof",
+   "elf_roof_b",
+   "elf_stone",
+   "elf_stone_dark",
+   "elf_wood_dark",
+   "glass_dark",
+   "glow_cyan",
+   "gold_1",
+   "gold_2",
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "jleaf_d",
+   "leaf_dark",
+   "moon_water"
+  ],
+  "size": [
+   52.0,
+   53.8,
+   51.63
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F11_moon_pool",
+  "pieces": 10,
+  "max_tris": 2208,
+  "names": [
+   "elf_stone",
+   "elf_stone_dark",
+   "fl_pink",
+   "fl_white",
+   "glow_cyan",
+   "glow_gold",
+   "gold",
+   "jleaf_a",
+   "jleaf_c",
+   "moon_water"
+  ],
+  "size": [
+   28.27,
+   26.95,
+   10.76
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F12_carved_arch",
+  "pieces": 10,
+  "max_tris": 1516,
+  "names": [
+   "elf_bark",
+   "elf_bark_b",
+   "elf_stone",
+   "glow_cyan",
+   "gold",
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "jleaf_d",
+   "leaf_dark"
+  ],
+  "size": [
+   22.04,
+   6.78,
+   21.68
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F13_elf_statue",
+  "pieces": 8,
+  "max_tris": 1916,
+  "names": [
+   "elf_stone",
+   "elf_wood",
+   "fl_white",
+   "gold",
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "jleaf_d"
+  ],
+  "size": [
+   9.28,
+   8.04,
+   16.45
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F14_jungle_tree_1",
+  "pieces": 7,
+  "max_tris": 3872,
+  "names": [
+   "elf_bark",
+   "elf_bark_b",
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "jleaf_d",
+   "leaf_dark"
+  ],
+  "size": [
+   73.34,
+   73.82,
+   81.94
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F15_jungle_tree_2",
+  "pieces": 7,
+  "max_tris": 4228,
+  "names": [
+   "elf_bark",
+   "elf_bark_b",
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "jleaf_d",
+   "leaf_dark"
+  ],
+  "size": [
+   59.76,
+   55.25,
+   51.94
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F16_jungle_palm",
+  "pieces": 6,
+  "max_tris": 3480,
+  "names": [
+   "elf_bark",
+   "elf_bark_b",
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "jleaf_d"
+  ],
+  "size": [
+   22.09,
+   22.06,
+   36.54
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F17_root_arch",
+  "pieces": 9,
+  "max_tris": 1024,
+  "names": [
+   "cliff_a",
+   "elf_bark",
+   "elf_bark_b",
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "jleaf_d",
+   "leaf_dark",
+   "moss_bright"
+  ],
+  "size": [
+   32.48,
+   10.92,
+   20.84
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F18_hanging_vines_1",
+  "pieces": 7,
+  "max_tris": 1024,
+  "names": [
+   "elf_bark",
+   "glow_pink",
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "jleaf_d",
+   "leaf_dark"
+  ],
+  "size": [
+   7.24,
+   2.76,
+   12.52
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F19_hanging_vines_2",
+  "pieces": 7,
+  "max_tris": 1116,
+  "names": [
+   "elf_bark",
+   "glow_pink",
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "jleaf_d",
+   "leaf_dark"
+  ],
+  "size": [
+   7.36,
+   2.52,
+   23.18
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F20_hanging_moss",
+  "pieces": 4,
+  "max_tris": 1408,
+  "names": [
+   "birch_leaf",
+   "elf_bark",
+   "grass_dry",
+   "moss"
+  ],
+  "size": [
+   8.12,
+   1.3,
+   7.89
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F21_giant_fern",
+  "pieces": 4,
+  "max_tris": 3632,
+  "names": [
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "jleaf_d"
+  ],
+  "size": [
+   17.04,
+   16.32,
+   4.54
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F22_giant_leaf_plant",
+  "pieces": 4,
+  "max_tris": 1040,
+  "names": [
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "jleaf_d"
+  ],
+  "size": [
+   13.45,
+   14.77,
+   8.47
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F23_glow_mushroom_1",
+  "pieces": 4,
+  "max_tris": 1264,
+  "names": [
+   "fl_white",
+   "glow_cyan",
+   "moss_bright",
+   "teal"
+  ],
+  "size": [
+   6.2,
+   4.86,
+   7.4
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F24_glow_mushroom_2",
+  "pieces": 4,
+  "max_tris": 948,
+  "names": [
+   "fl_purple",
+   "fl_white",
+   "glow_pink",
+   "moss_bright"
+  ],
+  "size": [
+   7.1,
+   5.46,
+   10.74
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F25_glow_flower_1",
+  "pieces": 6,
+  "max_tris": 1080,
+  "names": [
+   "glow_cyan",
+   "glow_gold",
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "jleaf_d"
+  ],
+  "size": [
+   3.86,
+   3.35,
+   5.11
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F26_glow_flower_2",
+  "pieces": 6,
+  "max_tris": 864,
+  "names": [
+   "glow_gold",
+   "glow_pink",
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "jleaf_d"
+  ],
+  "size": [
+   3.86,
+   3.35,
+   6.73
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F27_elf_hanging_lantern",
+  "pieces": 2,
+  "max_tris": 876,
+  "names": [
+   "glow_cyan",
+   "gold"
+  ],
+  "size": [
+   1.75,
+   1.75,
+   6.5
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F28_elf_standing_lantern",
+  "pieces": 7,
+  "max_tris": 660,
+  "names": [
+   "elf_stone",
+   "elf_wood",
+   "glow_cyan",
+   "gold",
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c"
+  ],
+  "size": [
+   3.96,
+   1.9,
+   9.91
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F29_lotus",
+  "pieces": 5,
+  "max_tris": 368,
+  "names": [
+   "fl_pink",
+   "fl_white",
+   "glow_gold",
+   "jleaf_a",
+   "jleaf_c"
+  ],
+  "size": [
+   9.0,
+   6.8,
+   2.5
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F30_ruins_1",
+  "pieces": 8,
+  "max_tris": 1248,
+  "names": [
+   "elf_stone",
+   "elf_stone_dark",
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "jleaf_d",
+   "leaf_dark",
+   "moss_bright"
+  ],
+  "size": [
+   29.49,
+   9.22,
+   15.4
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F31_ruins_2",
+  "pieces": 8,
+  "max_tris": 1288,
+  "names": [
+   "elf_stone",
+   "elf_stone_dark",
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "jleaf_d",
+   "leaf_dark",
+   "moss_bright"
+  ],
+  "size": [
+   28.88,
+   9.88,
+   15.4
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F32_waterfall_cliff",
+  "pieces": 12,
+  "max_tris": 1541,
+  "names": [
+   "cliff_a",
+   "cliff_b",
+   "foam",
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "jleaf_d",
+   "leaf_dark",
+   "moon_water",
+   "moss_bright",
+   "stone",
+   "water_fx"
+  ],
+  "size": [
+   43.46,
+   27.17,
+   32.22
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F33_elf_bench",
+  "pieces": 3,
+  "max_tris": 1256,
+  "names": [
+   "elf_stone",
+   "elf_wood",
+   "gold"
+  ],
+  "size": [
+   8.03,
+   2.6,
+   4.81
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F34_crystal_cluster",
+  "pieces": 5,
+  "max_tris": 217,
+  "names": [
+   "cliff_b",
+   "glow_cyan",
+   "magic",
+   "magic_purple",
+   "moss_bright"
+  ],
+  "size": [
+   7.3,
+   6.85,
+   9.74
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "F35_vine_pillar",
+  "pieces": 8,
+  "max_tris": 1264,
+  "names": [
+   "elf_stone",
+   "glow_pink",
+   "gold",
+   "jleaf_a",
+   "jleaf_b",
+   "jleaf_c",
+   "jleaf_d",
+   "leaf_dark"
+  ],
+  "size": [
+   4.07,
+   4.06,
+   18.0
+  ],
+  "min_z": 0.0
+ }
+]

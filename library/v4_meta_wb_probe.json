@@ -1,0 +1,16 @@
+{
+ "ZZ_01_toy": {
+  "category": "v4_test",
+  "tris": 336,
+  "size": [
+   6.0,
+   6.0,
+   10.8
+  ],
+  "materials": [
+   "gold",
+   "stone",
+   "zz_test_key"
+  ]
+ }
+}

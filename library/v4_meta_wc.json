@@ -1,0 +1,595 @@
+{
+ "F01_01_tree_heartland_01": {
+  "category": "v4_trees",
+  "tris": 12684,
+  "size": [
+   42.76,
+   44.66,
+   39.24
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_moss",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "wc_bark_warm",
+   "wc_oak_a",
+   "wc_oak_b",
+   "wc_oak_c",
+   "wc_oak_d"
+  ]
+ },
+ "F01_02_tree_heartland_02": {
+  "category": "v4_trees",
+  "tris": 12768,
+  "size": [
+   29.02,
+   29.96,
+   39.07
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_moss",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "wc_bark_pale",
+   "wc_beech_a",
+   "wc_beech_b",
+   "wc_beech_c",
+   "wc_oak_a"
+  ]
+ },
+ "F01_03_tree_heartland_03": {
+  "category": "v4_trees",
+  "tris": 18204,
+  "size": [
+   35.59,
+   36.33,
+   34.38
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "wc_bark_warm",
+   "wc_beech_a",
+   "wc_beech_b",
+   "wc_beech_c",
+   "wc_oak_a",
+   "wc_oak_b",
+   "wc_oak_c",
+   "wc_oak_d"
+  ]
+ },
+ "F01_04_tree_heartland_04": {
+  "category": "v4_trees",
+  "tris": 11392,
+  "size": [
+   21.52,
+   20.26,
+   18.38
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "fruit",
+   "wc_apple_a",
+   "wc_apple_b",
+   "wc_apple_y",
+   "wc_bark_warm",
+   "wc_oak_c"
+  ]
+ },
+ "F01_05_tree_heartland_05": {
+  "category": "v4_trees",
+  "tris": 11784,
+  "size": [
+   36.74,
+   36.17,
+   45.76
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_moss",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "wc_bark_grey",
+   "wc_beech_a",
+   "wc_beech_b",
+   "wc_beech_c",
+   "wc_oak_a"
+  ]
+ },
+ "F01_06_tree_heartland_06": {
+  "category": "v4_trees",
+  "tris": 11324,
+  "size": [
+   24.62,
+   25.73,
+   28.78
+  ],
+  "materials": [
+   "autumn_a",
+   "autumn_b",
+   "autumn_c",
+   "ev_fern",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "fl_red",
+   "wc_bark_pale",
+   "wc_oak_c"
+  ]
+ },
+ "F02_01_tree_alpine_01": {
+  "category": "v4_trees",
+  "tris": 17620,
+  "size": [
+   28.18,
+   29.06,
+   41.58
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_moss",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "wc_bark_warm",
+   "wc_pine_a",
+   "wc_pine_b",
+   "wc_pine_c"
+  ]
+ },
+ "F02_02_tree_alpine_02": {
+  "category": "v4_trees",
+  "tris": 18424,
+  "size": [
+   26.88,
+   26.76,
+   46.9
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_moss",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "wc_bark_grey",
+   "wc_fir_a",
+   "wc_fir_b",
+   "wc_fir_c"
+  ]
+ },
+ "F02_03_tree_alpine_03": {
+  "category": "v4_trees",
+  "tris": 12940,
+  "size": [
+   17.23,
+   17.01,
+   30.19
+  ],
+  "materials": [
+   "bark_dead",
+   "birch",
+   "ev_fern",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "snow"
+  ]
+ },
+ "F02_04_tree_alpine_04": {
+  "category": "v4_trees",
+  "tris": 10732,
+  "size": [
+   16.63,
+   13.57,
+   22.57
+  ],
+  "materials": [
+   "cliff_b",
+   "ev_fern",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "wc_bark_warm",
+   "wc_pine_a",
+   "wc_pine_b",
+   "wc_pine_c"
+  ]
+ },
+ "F02_05_tree_alpine_05": {
+  "category": "v4_trees",
+  "tris": 12644,
+  "size": [
+   18.68,
+   17.75,
+   17.38
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "wc_bark_warm",
+   "wc_pine_a",
+   "wc_pine_b",
+   "wc_pine_c"
+  ]
+ },
+ "F03_01_tree_dry_01": {
+  "category": "v4_trees",
+  "tris": 6296,
+  "size": [
+   29.97,
+   28.89,
+   19.65
+  ],
+  "materials": [
+   "bark_dead",
+   "ev_fern",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "wc_bark_grey",
+   "wc_dry_a",
+   "wc_dry_b",
+   "wc_dry_c"
+  ]
+ },
+ "F03_02_tree_dry_02": {
+  "category": "v4_trees",
+  "tris": 7816,
+  "size": [
+   16.89,
+   20.18,
+   17.41
+  ],
+  "materials": [
+   "bark_dead",
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_moss",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "wc_bark_warm",
+   "wc_dry_a",
+   "wc_dry_b",
+   "wc_dry_c"
+  ]
+ },
+ "F03_03_tree_dry_03": {
+  "category": "v4_trees",
+  "tris": 8228,
+  "size": [
+   19.76,
+   18.76,
+   22.46
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "wc_bark_grey",
+   "wc_dry_b",
+   "wc_olive_a",
+   "wc_olive_b"
+  ]
+ },
+ "F04_01_tree_coastal_01": {
+  "category": "v4_trees",
+  "tris": 7008,
+  "size": [
+   24.48,
+   15.01,
+   32.7
+  ],
+  "materials": [
+   "cliff_a",
+   "ev_fern",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "wc_bark_warm",
+   "wc_pine_a",
+   "wc_pine_b",
+   "wc_pine_c"
+  ]
+ },
+ "F04_02_tree_coastal_02": {
+  "category": "v4_trees",
+  "tris": 8360,
+  "size": [
+   24.03,
+   19.56,
+   30.41
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "wc_bark_warm",
+   "wc_pine_a",
+   "wc_pine_b",
+   "wc_pine_c"
+  ]
+ },
+ "F04_03_tree_coastal_03": {
+  "category": "v4_trees",
+  "tris": 6008,
+  "size": [
+   21.78,
+   20.58,
+   16.55
+  ],
+  "materials": [
+   "cliff_a",
+   "ev_fern",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "wc_bark_warm",
+   "wc_pine_a",
+   "wc_pine_b",
+   "wc_pine_c"
+  ]
+ },
+ "F04_04_tree_coastal_04": {
+  "category": "v4_trees",
+  "tris": 7272,
+  "size": [
+   9.69,
+   11.04,
+   37.26
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "wc_bark_warm",
+   "wc_cyp_a",
+   "wc_cyp_b",
+   "wc_pine_b"
+  ]
+ },
+ "C10_01_snow_pine_01": {
+  "category": "v4_alpine",
+  "tris": 19272,
+  "size": [
+   26.89,
+   28.77,
+   45.64
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_moss",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "snow",
+   "wc_bark_warm",
+   "wc_fir_a",
+   "wc_fir_b",
+   "wc_fir_c"
+  ]
+ },
+ "C10_02_snow_pine_02": {
+  "category": "v4_alpine",
+  "tris": 18276,
+  "size": [
+   33.25,
+   33.72,
+   41.32
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_moss",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "snow",
+   "wc_bark_warm",
+   "wc_pine_a",
+   "wc_pine_b",
+   "wc_pine_c"
+  ]
+ },
+ "C10_03_snow_pine_03": {
+  "category": "v4_alpine",
+  "tris": 10228,
+  "size": [
+   23.46,
+   24.0,
+   32.54
+  ],
+  "materials": [
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_moss",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "ice",
+   "snow",
+   "wc_bark_warm",
+   "wc_dead_a",
+   "wc_pine_a",
+   "wc_pine_b",
+   "wc_pine_c"
+  ]
+ },
+ "C10_04_snow_pine_04": {
+  "category": "v4_alpine",
+  "tris": 7364,
+  "size": [
+   19.52,
+   17.12,
+   22.23
+  ],
+  "materials": [
+   "snow",
+   "wc_bark_warm",
+   "wc_pine_a",
+   "wc_pine_b",
+   "wc_pine_c"
+  ]
+ },
+ "E05_01_dead_tree_01": {
+  "category": "v4_nature",
+  "tris": 8072,
+  "size": [
+   19.95,
+   14.58,
+   29.18
+  ],
+  "materials": [
+   "bark_dead",
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_moss",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark"
+  ]
+ },
+ "E05_02_dead_tree_02": {
+  "category": "v4_nature",
+  "tris": 7088,
+  "size": [
+   12.15,
+   13.14,
+   22.41
+  ],
+  "materials": [
+   "bark_dead",
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_moss",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "wc_dead_b"
+  ]
+ },
+ "E05_03_dead_tree_03": {
+  "category": "v4_nature",
+  "tris": 6980,
+  "size": [
+   19.32,
+   13.95,
+   23.64
+  ],
+  "materials": [
+   "bark_dead",
+   "ev_fern",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "wc_char"
+  ]
+ },
+ "E05_04_dead_tree_04": {
+  "category": "v4_nature",
+  "tris": 11964,
+  "size": [
+   16.13,
+   15.6,
+   36.41
+  ],
+  "materials": [
+   "bark_dead",
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_moss",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark"
+  ]
+ },
+ "E05_05_dead_tree_05": {
+  "category": "v4_nature",
+  "tris": 6372,
+  "size": [
+   17.81,
+   15.54,
+   12.27
+  ],
+  "materials": [
+   "bark_dead",
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "moss",
+   "wc_char"
+  ]
+ },
+ "E05_06_dead_tree_06": {
+  "category": "v4_nature",
+  "tris": 7376,
+  "size": [
+   15.97,
+   17.15,
+   17.6
+  ],
+  "materials": [
+   "bark_dead",
+   "ev_fern",
+   "ev_leaf_a",
+   "ev_leaf_b",
+   "ev_leaf_c",
+   "ev_moss",
+   "ev_shroom_brown",
+   "ev_shroom_cream",
+   "ev_stone_dark",
+   "rope",
+   "wc_char",
+   "wc_grey_wd"
+  ]
+ }
+}

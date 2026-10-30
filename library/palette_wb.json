@@ -1,0 +1,317 @@
+{
+ "wb_ashlar": {
+  "rgb": [
+   206,
+   198,
+   180
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "wb_ashlar_b": {
+  "rgb": [
+   190,
+   182,
+   164
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "wb_ashlar_c": {
+  "rgb": [
+   176,
+   166,
+   148
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "wb_ashlar_warm": {
+  "rgb": [
+   214,
+   202,
+   176
+  ],
+  "material": "Sandstone",
+  "glow": false
+ },
+ "wb_ashlar_stain": {
+  "rgb": [
+   150,
+   146,
+   132
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "wb_plinth": {
+  "rgb": [
+   132,
+   128,
+   120
+  ],
+  "material": "Cobblestone",
+  "glow": false
+ },
+ "wb_trim": {
+  "rgb": [
+   230,
+   224,
+   210
+  ],
+  "material": "Marble",
+  "glow": false
+ },
+ "wb_slate_a": {
+  "rgb": [
+   70,
+   82,
+   108
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "wb_slate_b": {
+  "rgb": [
+   58,
+   68,
+   92
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "wb_slate_dark": {
+  "rgb": [
+   44,
+   52,
+   70
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "wb_lead": {
+  "rgb": [
+   96,
+   104,
+   112
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "wb_banner_red": {
+  "rgb": [
+   150,
+   36,
+   42
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "wb_banner_gold": {
+  "rgb": [
+   196,
+   158,
+   72
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "wb_banner_blue": {
+  "rgb": [
+   44,
+   66,
+   128
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "wb_portc": {
+  "rgb": [
+   54,
+   50,
+   46
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "wb_floor": {
+  "rgb": [
+   150,
+   142,
+   128
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "wb_slate_blue": {
+  "rgb": [
+   64,
+   80,
+   112
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "wb_terra": {
+  "rgb": [
+   178,
+   92,
+   56
+  ],
+  "material": "Brick",
+  "glow": false
+ },
+ "wb_terra_b": {
+  "rgb": [
+   156,
+   78,
+   50
+  ],
+  "material": "Brick",
+  "glow": false
+ },
+ "wb_copper": {
+  "rgb": [
+   96,
+   150,
+   128
+  ],
+  "material": "CorrodedMetal",
+  "glow": false
+ },
+ "wb_copper_dk": {
+  "rgb": [
+   72,
+   122,
+   104
+  ],
+  "material": "CorrodedMetal",
+  "glow": false
+ },
+ "wb_slate_grey": {
+  "rgb": [
+   88,
+   92,
+   100
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "wb_brownshingle": {
+  "rgb": [
+   120,
+   86,
+   56
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "wb_brownshingle_b": {
+  "rgb": [
+   102,
+   72,
+   48
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "wb_slate_purple": {
+  "rgb": [
+   96,
+   78,
+   116
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "wb_slate_purple_b": {
+  "rgb": [
+   80,
+   64,
+   100
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "wb_plaster_warm": {
+  "rgb": [
+   228,
+   206,
+   168
+  ],
+  "material": "Plaster",
+  "glow": false
+ },
+ "wb_plaster_rose": {
+  "rgb": [
+   226,
+   196,
+   182
+  ],
+  "material": "Plaster",
+  "glow": false
+ },
+ "wb_awning_a": {
+  "rgb": [
+   178,
+   60,
+   56
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "wb_awning_b": {
+  "rgb": [
+   224,
+   216,
+   196
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "wb_clock": {
+  "rgb": [
+   234,
+   224,
+   198
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "wb_bell": {
+  "rgb": [
+   150,
+   110,
+   58
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "wb_stone_c": {
+  "rgb": [
+   176,
+   168,
+   150
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "wb_clock_face": {
+  "rgb": [
+   40,
+   44,
+   56
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "wb_clock_hand": {
+  "rgb": [
+   232,
+   206,
+   120
+  ],
+  "material": "Metal",
+  "glow": false
+ }
+}

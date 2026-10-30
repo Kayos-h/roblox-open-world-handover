@@ -1,0 +1,233 @@
+{
+ "B05_01_royal_fountain": {
+  "category": "v4_castle",
+  "tris": 4916,
+  "size": [
+   25.0,
+   25.0,
+   18.7
+  ],
+  "materials": [
+   "water",
+   "water_fx",
+   "we_ashlar",
+   "we_gold",
+   "we_plinth",
+   "we_trim"
+  ]
+ },
+ "B05_02_knight_statue": {
+  "category": "v4_castle",
+  "tris": 2812,
+  "size": [
+   6.4,
+   6.4,
+   21.8
+  ],
+  "materials": [
+   "we_ashlar",
+   "we_banner_red",
+   "we_bronze",
+   "we_gold",
+   "we_iron",
+   "we_plinth",
+   "we_steel",
+   "we_trim"
+  ]
+ },
+ "B05_03_obelisk": {
+  "category": "v4_castle",
+  "tris": 788,
+  "size": [
+   8.0,
+   8.0,
+   32.4
+  ],
+  "materials": [
+   "we_ashlar",
+   "we_gold",
+   "we_trim"
+  ]
+ },
+ "B05_04_ornate_lamp": {
+  "category": "v4_castle",
+  "tris": 1928,
+  "size": [
+   2.6,
+   2.6,
+   15.2
+  ],
+  "materials": [
+   "we_ashlar",
+   "we_glass_lit",
+   "we_gold",
+   "we_iron",
+   "we_plinth"
+  ]
+ },
+ "B05_05_royal_banner": {
+  "category": "v4_castle",
+  "tris": 704,
+  "size": [
+   6.4,
+   10.76,
+   26.0
+  ],
+  "materials": [
+   "we_ashlar",
+   "we_banner_red",
+   "we_gold",
+   "we_plinth",
+   "we_timber"
+  ]
+ },
+ "B05_06_gazebo": {
+  "category": "v4_castle",
+  "tris": 6436,
+  "size": [
+   19.77,
+   19.77,
+   28.8
+  ],
+  "materials": [
+   "timber",
+   "we_ashlar",
+   "we_floor_a",
+   "we_gold",
+   "we_iron",
+   "we_slate_a",
+   "we_slate_b",
+   "we_trim"
+  ]
+ },
+ "B05_07_rose_arch": {
+  "category": "v4_castle",
+  "tris": 8728,
+  "size": [
+   9.76,
+   1.4,
+   11.95
+  ],
+  "materials": [
+   "fl_pink",
+   "fl_red",
+   "leaf",
+   "leaf_dark",
+   "we_ashlar",
+   "we_fruit_b",
+   "we_iron"
+  ]
+ },
+ "B04_02_stables": {
+  "category": "v4_castle",
+  "tris": 3156,
+  "size": [
+   43.0,
+   25.3,
+   18.98
+  ],
+  "materials": [
+   "water",
+   "we_ashlar",
+   "we_floor_b",
+   "we_glass_lit",
+   "we_hay",
+   "we_iron",
+   "we_plinth",
+   "we_rope",
+   "we_slate_a",
+   "we_slate_b",
+   "we_timber",
+   "we_wood"
+  ],
+  "door": [
+   [
+    0.0,
+    -7.73,
+    0.15
+   ]
+  ]
+ },
+ "B04_01_barracks": {
+  "category": "v4_castle",
+  "tris": 25982,
+  "size": [
+   43.2,
+   29.9,
+   28.1
+  ],
+  "materials": [
+   "brass",
+   "glass_dark",
+   "glass_lit",
+   "iron",
+   "stone_dark",
+   "terracotta",
+   "timber",
+   "we_ashlar",
+   "we_ashlar_b",
+   "we_banner_blue",
+   "we_banner_gold",
+   "we_banner_red",
+   "we_bronze",
+   "we_floor_b",
+   "we_glass_lit",
+   "we_gold",
+   "we_hay",
+   "we_leather",
+   "we_plaster",
+   "we_plinth",
+   "we_rope",
+   "we_steel",
+   "we_timber",
+   "we_trim",
+   "we_wood"
+  ],
+  "door": [
+   [
+    -14.0,
+    -9.55,
+    2.5
+   ]
+  ]
+ },
+ "B03_01_throne_hall_01": {
+  "category": "v4_castle",
+  "tris": 48208,
+  "size": [
+   73.55,
+   80.6,
+   30.23
+  ],
+  "materials": [
+   "we_ashlar",
+   "we_banner_blue",
+   "we_banner_gold",
+   "we_banner_red",
+   "we_bronze",
+   "we_carpet",
+   "we_carpet_trim",
+   "we_flame",
+   "we_flame_core",
+   "we_floor_a",
+   "we_floor_b",
+   "we_gold",
+   "we_iron",
+   "we_plinth",
+   "we_stained_b",
+   "we_stained_g",
+   "we_stained_r",
+   "we_stained_y",
+   "we_trim",
+   "we_wax",
+   "we_wood"
+  ],
+  "door": [
+   [
+    0.77,
+    -40.1,
+    0.32
+   ]
+  ]
+ }
+}

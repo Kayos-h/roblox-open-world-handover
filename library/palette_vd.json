@@ -1,0 +1,236 @@
+{
+ "vd_wall": {
+  "rgb": [
+   232,
+   214,
+   188
+  ],
+  "material": "Concrete",
+  "glow": false
+ },
+ "vd_timber": {
+  "rgb": [
+   112,
+   80,
+   60
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "vd_roof": {
+  "rgb": [
+   198,
+   88,
+   52
+  ],
+  "material": "Brick",
+  "glow": false
+ },
+ "vd_roof2": {
+  "rgb": [
+   176,
+   72,
+   46
+  ],
+  "material": "Brick",
+  "glow": false
+ },
+ "vd_cap": {
+  "rgb": [
+   140,
+   62,
+   48
+  ],
+  "material": "Brick",
+  "glow": false
+ },
+ "vd_stone": {
+  "rgb": [
+   150,
+   142,
+   158
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "vd_cone": {
+  "rgb": [
+   120,
+   44,
+   52
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "vd_deck": {
+  "rgb": [
+   150,
+   88,
+   70
+  ],
+  "material": "Brick",
+  "glow": false
+ },
+ "vd_trim": {
+  "rgb": [
+   232,
+   226,
+   230
+  ],
+  "material": "Limestone",
+  "glow": false
+ },
+ "vd_glass": {
+  "rgb": [
+   86,
+   104,
+   128
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "vd_shutter": {
+  "rgb": [
+   70,
+   100,
+   94
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "vd_door": {
+  "rgb": [
+   92,
+   62,
+   46
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "vd_iron": {
+  "rgb": [
+   58,
+   58,
+   66
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "vd_sign": {
+  "rgb": [
+   184,
+   142,
+   72
+  ],
+  "material": "WoodPlanks",
+  "glow": false
+ },
+ "vd_gold": {
+  "rgb": [
+   204,
+   168,
+   88
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "vd_dark": {
+  "rgb": [
+   40,
+   36,
+   42
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "vd_flag": {
+  "rgb": [
+   168,
+   52,
+   52
+  ],
+  "material": "Fabric",
+  "glow": false
+ },
+ "vd_grass": {
+  "rgb": [
+   96,
+   142,
+   70
+  ],
+  "material": "Grass",
+  "glow": false
+ },
+ "vd_water": {
+  "rgb": [
+   70,
+   120,
+   160
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ },
+ "vd_copper": {
+  "rgb": [
+   96,
+   150,
+   128
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "vd_f_stone_d": {
+  "rgb": [
+   126,
+   120,
+   134
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "vd_f_stone_l": {
+  "rgb": [
+   168,
+   160,
+   174
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "vd_f_coping": {
+  "rgb": [
+   150,
+   142,
+   158
+  ],
+  "material": "Slate",
+  "glow": false
+ },
+ "vd_f_brown": {
+  "rgb": [
+   120,
+   86,
+   58
+  ],
+  "material": "Wood",
+  "glow": false
+ },
+ "vd_f_bronze": {
+  "rgb": [
+   128,
+   96,
+   62
+  ],
+  "material": "Metal",
+  "glow": false
+ },
+ "vd_f_bronze_d": {
+  "rgb": [
+   92,
+   70,
+   50
+  ],
+  "material": "Metal",
+  "glow": false
+ }
+}

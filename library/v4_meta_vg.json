@@ -1,0 +1,1103 @@
+{
+ "HL01_01_ice_spire_01": {
+  "category": "v5_himalaya",
+  "tris": 588,
+  "size": [
+   24.0,
+   24.0,
+   70.74
+  ],
+  "materials": [
+   "vg_ice",
+   "vg_ice2",
+   "vg_iceW",
+   "vg_snow"
+  ]
+ },
+ "HL01_02_ice_spire_02": {
+  "category": "v5_himalaya",
+  "tris": 648,
+  "size": [
+   24.0,
+   24.0,
+   75.11
+  ],
+  "materials": [
+   "vg_ice",
+   "vg_ice2",
+   "vg_iceW",
+   "vg_snow"
+  ]
+ },
+ "HL01_03_ice_spire_03": {
+  "category": "v5_himalaya",
+  "tris": 708,
+  "size": [
+   24.0,
+   24.0,
+   70.0
+  ],
+  "materials": [
+   "vg_ice",
+   "vg_ice2",
+   "vg_iceW",
+   "vg_snow"
+  ]
+ },
+ "HL01_04_ice_spire_04": {
+  "category": "v5_himalaya",
+  "tris": 552,
+  "size": [
+   24.0,
+   24.0,
+   68.84
+  ],
+  "materials": [
+   "vg_f_ice",
+   "vg_f_icelo",
+   "vg_f_snow"
+  ]
+ },
+ "HL02_01_ice_arch_01": {
+  "category": "v5_himalaya",
+  "tris": 864,
+  "size": [
+   50.0,
+   14.0,
+   40.0
+  ],
+  "materials": [
+   "vg_ice",
+   "vg_ice2",
+   "vg_iceW",
+   "vg_snow"
+  ]
+ },
+ "HL02_02_ice_arch_02": {
+  "category": "v5_himalaya",
+  "tris": 1176,
+  "size": [
+   50.0,
+   14.0,
+   40.0
+  ],
+  "materials": [
+   "vg_f_ice",
+   "vg_f_icelo",
+   "vg_f_snow"
+  ]
+ },
+ "HL03_01_glacier_tongue_01": {
+  "category": "v5_himalaya",
+  "tris": 876,
+  "size": [
+   90.0,
+   54.78,
+   24.0
+  ],
+  "materials": [
+   "vg_f_cliff3",
+   "vg_f_ice",
+   "vg_f_recess",
+   "vg_f_rklit",
+   "vg_f_rkmid",
+   "vg_f_snow",
+   "vg_f_snowc"
+  ]
+ },
+ "HL03_02_glacier_tongue_02": {
+  "category": "v5_himalaya",
+  "tris": 720,
+  "size": [
+   90.0,
+   50.0,
+   24.0
+  ],
+  "materials": [
+   "vg_f_cliff3",
+   "vg_f_ice",
+   "vg_f_icelo",
+   "vg_f_recess",
+   "vg_f_rklit",
+   "vg_f_rkmid",
+   "vg_f_snow",
+   "vg_f_snowc",
+   "vg_ice",
+   "vg_ice2",
+   "vg_iceW"
+  ]
+ },
+ "HL03_03_glacier_tongue_03": {
+  "category": "v5_himalaya",
+  "tris": 972,
+  "size": [
+   90.0,
+   54.78,
+   24.0
+  ],
+  "materials": [
+   "vg_f_cliff3",
+   "vg_f_ice",
+   "vg_f_recess",
+   "vg_f_rklit",
+   "vg_f_rkmid",
+   "vg_f_snow",
+   "vg_f_snowc"
+  ]
+ },
+ "HL04_01_ice_cave_mouth_01": {
+  "category": "v5_himalaya",
+  "tris": 788,
+  "size": [
+   40.0,
+   30.0,
+   28.41
+  ],
+  "materials": [
+   "vg_ice",
+   "vg_ice2",
+   "vg_iceW",
+   "vg_shadow",
+   "vg_snow"
+  ]
+ },
+ "HL04_02_ice_cave_mouth_02": {
+  "category": "v5_himalaya",
+  "tris": 520,
+  "size": [
+   40.0,
+   30.0,
+   27.73
+  ],
+  "materials": [
+   "vg_f_ice",
+   "vg_f_icelo",
+   "vg_f_snow",
+   "vg_f_snowc",
+   "vg_f_void"
+  ]
+ },
+ "HL05_01_mountain_shrine": {
+  "category": "v5_himalaya",
+  "tris": 816,
+  "size": [
+   24.0,
+   24.0,
+   24.0
+  ],
+  "materials": [
+   "vg_cloth",
+   "vg_dark",
+   "vg_gold",
+   "vg_ice2",
+   "vg_leaf",
+   "vg_rock",
+   "vg_rock2",
+   "vg_roof",
+   "vg_shadow",
+   "vg_snow",
+   "vg_stoneM",
+   "vg_timber",
+   "vg_trim"
+  ]
+ },
+ "HL06_01_snow_watchtower": {
+  "category": "v5_himalaya",
+  "tris": 2654,
+  "size": [
+   20.0,
+   20.0,
+   50.0
+  ],
+  "materials": [
+   "vg_dark",
+   "vg_iron",
+   "vg_rock",
+   "vg_rock2",
+   "vg_roof",
+   "vg_shadow",
+   "vg_snow",
+   "vg_timber",
+   "vg_trim",
+   "vg_wall"
+  ]
+ },
+ "HL07_01_mine_entrance_01": {
+  "category": "v5_himalaya",
+  "tris": 860,
+  "size": [
+   31.15,
+   24.0,
+   24.0
+  ],
+  "materials": [
+   "vg_f_cliff1",
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_cliff4",
+   "vg_f_lichen",
+   "vg_f_recess",
+   "vg_iron",
+   "vg_timber"
+  ]
+ },
+ "HL07_02_mine_entrance_02": {
+  "category": "v5_himalaya",
+  "tris": 592,
+  "size": [
+   31.11,
+   24.0,
+   24.0
+  ],
+  "materials": [
+   "vg_f_rkdark",
+   "vg_f_rklit",
+   "vg_f_rkmid",
+   "vg_f_void",
+   "vg_iron",
+   "vg_timber"
+  ]
+ },
+ "SP01_01_snow_spire_cluster_01": {
+  "category": "v5_himalaya",
+  "tris": 1644,
+  "size": [
+   60.0,
+   60.0,
+   161.46
+  ],
+  "materials": [
+   "vg_f_rkdark",
+   "vg_f_rklit",
+   "vg_f_rkmid",
+   "vg_f_snow",
+   "vg_f_snowc"
+  ]
+ },
+ "SP01_02_snow_spire_cluster_02": {
+  "category": "v5_himalaya",
+  "tris": 1776,
+  "size": [
+   60.0,
+   60.0,
+   165.79
+  ],
+  "materials": [
+   "vg_f_rkdark",
+   "vg_f_rklit",
+   "vg_f_rkmid",
+   "vg_f_snow",
+   "vg_f_snowc"
+  ]
+ },
+ "SP01_03_snow_spire_cluster_03": {
+  "category": "v5_himalaya",
+  "tris": 1644,
+  "size": [
+   60.0,
+   60.0,
+   162.82
+  ],
+  "materials": [
+   "vg_f_rkdark",
+   "vg_f_rklit",
+   "vg_f_rkmid",
+   "vg_f_snow",
+   "vg_f_snowc"
+  ]
+ },
+ "SP01_04_snow_spire_cluster_04": {
+  "category": "v5_himalaya",
+  "tris": 1908,
+  "size": [
+   60.0,
+   60.0,
+   168.45
+  ],
+  "materials": [
+   "vg_f_rkdark",
+   "vg_f_rklit",
+   "vg_f_rkmid",
+   "vg_f_snow",
+   "vg_f_snowc"
+  ]
+ },
+ "SP01_05_snow_spire_cluster_05": {
+  "category": "v5_himalaya",
+  "tris": 1776,
+  "size": [
+   60.0,
+   60.0,
+   160.8
+  ],
+  "materials": [
+   "vg_f_rkdark",
+   "vg_f_rklit",
+   "vg_f_rkmid",
+   "vg_f_snow",
+   "vg_f_snowc"
+  ]
+ },
+ "SP01_06_snow_spire_cluster_06": {
+  "category": "v5_himalaya",
+  "tris": 1644,
+  "size": [
+   60.0,
+   60.0,
+   163.81
+  ],
+  "materials": [
+   "vg_f_rkdark",
+   "vg_f_rklit",
+   "vg_f_rkmid",
+   "vg_f_snow",
+   "vg_f_snowc"
+  ]
+ },
+ "LM04_01_fortress_rampart_step_01": {
+  "category": "v5_landmarks",
+  "tris": 5528,
+  "size": [
+   60.0,
+   20.0,
+   34.0
+  ],
+  "materials": [
+   "vg_gold",
+   "vg_rock",
+   "vg_rock2",
+   "vg_roof",
+   "vg_shadow",
+   "vg_snow",
+   "vg_timber",
+   "vg_trim",
+   "vg_wall"
+  ]
+ },
+ "LM04_02_fortress_rampart_step_02": {
+  "category": "v5_landmarks",
+  "tris": 4140,
+  "size": [
+   60.0,
+   20.0,
+   34.0
+  ],
+  "materials": [
+   "vg_f_cliff1",
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_snow",
+   "vg_f_trim",
+   "vg_f_void",
+   "vg_f_wall",
+   "vg_timber"
+  ]
+ },
+ "LM04_03_fortress_rampart_step_03": {
+  "category": "v5_landmarks",
+  "tris": 6024,
+  "size": [
+   60.0,
+   20.0,
+   34.0
+  ],
+  "materials": [
+   "vg_f_cliff1",
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_froof",
+   "vg_f_gold",
+   "vg_f_snow",
+   "vg_f_trim",
+   "vg_f_void",
+   "vg_f_wall",
+   "vg_timber"
+  ]
+ },
+ "LM05_01_fortress_cliff_tower_01": {
+  "category": "v5_landmarks",
+  "tris": 2996,
+  "size": [
+   34.0,
+   34.0,
+   87.69
+  ],
+  "materials": [
+   "vg_cloth",
+   "vg_f_cliff1",
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_cliff4",
+   "vg_gold",
+   "vg_roof",
+   "vg_shadow",
+   "vg_snow",
+   "vg_timber",
+   "vg_trim",
+   "vg_wall"
+  ]
+ },
+ "LM05_02_fortress_cliff_tower_02": {
+  "category": "v5_landmarks",
+  "tris": 3308,
+  "size": [
+   34.0,
+   34.0,
+   80.0
+  ],
+  "materials": [
+   "vg_f_cliff1",
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_cliff4",
+   "vg_f_cloth",
+   "vg_f_froof",
+   "vg_f_gold",
+   "vg_f_lichen",
+   "vg_f_moss",
+   "vg_f_snow",
+   "vg_f_trim",
+   "vg_f_void",
+   "vg_f_wall",
+   "vg_timber"
+  ]
+ },
+ "LM06_01_fortress_tunnel_gate": {
+  "category": "v5_landmarks",
+  "tris": 1200,
+  "size": [
+   60.0,
+   57.69,
+   51.1
+  ],
+  "materials": [
+   "vg_f_cliff1",
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_cliff4",
+   "vg_f_moss",
+   "vg_f_recess",
+   "vg_f_tread",
+   "vg_f_wall",
+   "vg_timber"
+  ]
+ },
+ "LM07_01_carved_stair_switchback_01": {
+  "category": "v5_landmarks",
+  "tris": 3760,
+  "size": [
+   50.0,
+   62.36,
+   62.41
+  ],
+  "materials": [
+   "vg_f_cliff1",
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_cliff4",
+   "vg_f_lichen",
+   "vg_f_stair_hi",
+   "vg_f_stair_mid"
+  ]
+ },
+ "LM07_02_carved_stair_switchback_02": {
+  "category": "v5_landmarks",
+  "tris": 3760,
+  "size": [
+   50.0,
+   61.22,
+   61.61
+  ],
+  "materials": [
+   "vg_f_cliff1",
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_cliff4",
+   "vg_f_lichen",
+   "vg_f_stair_hi",
+   "vg_f_stair_mid"
+  ]
+ },
+ "LM08_01_mountain_span_bridge": {
+  "category": "v5_landmarks",
+  "tris": 5532,
+  "size": [
+   90.0,
+   16.0,
+   24.0
+  ],
+  "materials": [
+   "vg_f_cliff1",
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_cliff4",
+   "vg_f_wall",
+   "vg_stoneM"
+  ],
+  "end_a": [
+   [
+    -31.23,
+    -0.6,
+    17.73
+   ]
+  ],
+  "end_b": [
+   [
+    33.16,
+    -0.6,
+    17.73
+   ]
+  ],
+  "deck": [
+   [
+    0.97,
+    -0.6,
+    20.23
+   ]
+  ]
+ },
+ "FR01_01_giant_tree_01": {
+  "category": "v5_forest",
+  "tris": 5964,
+  "size": [
+   92.09,
+   93.06,
+   170.73
+  ],
+  "materials": [
+   "vg_bark",
+   "vg_ivy",
+   "vg_leaf",
+   "vg_leafd",
+   "vg_moss"
+  ]
+ },
+ "FR01_02_giant_tree_02": {
+  "category": "v5_forest",
+  "tris": 4028,
+  "size": [
+   92.5,
+   91.15,
+   164.33
+  ],
+  "materials": [
+   "vg_f_moss",
+   "vg_f_moss2",
+   "vg_f_tbark",
+   "vg_f_tleaf",
+   "vg_f_tleaf2",
+   "vg_f_tleafd"
+  ]
+ },
+ "FR01_03_giant_tree_03": {
+  "category": "v5_forest",
+  "tris": 4760,
+  "size": [
+   90.0,
+   90.0,
+   169.72
+  ],
+  "materials": [
+   "vg_f_moss",
+   "vg_f_moss2",
+   "vg_f_tbark",
+   "vg_f_tleaf",
+   "vg_f_tleaf2",
+   "vg_f_tleafd"
+  ]
+ },
+ "FR01_04_giant_tree_04": {
+  "category": "v5_forest",
+  "tris": 3228,
+  "size": [
+   98.24,
+   91.72,
+   160.69
+  ],
+  "materials": [
+   "vg_bark",
+   "vg_ivy",
+   "vg_leaf",
+   "vg_leafd",
+   "vg_moss"
+  ]
+ },
+ "FR02_01_forest_ruin_01": {
+  "category": "v5_forest",
+  "tris": 1128,
+  "size": [
+   40.0,
+   30.0,
+   34.0
+  ],
+  "materials": [
+   "vg_f_cliff1",
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_cliff4",
+   "vg_ivy",
+   "vg_moss"
+  ]
+ },
+ "FR02_02_forest_ruin_02": {
+  "category": "v5_forest",
+  "tris": 1136,
+  "size": [
+   40.0,
+   30.0,
+   34.0
+  ],
+  "materials": [
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_cliff4",
+   "vg_ivy",
+   "vg_moss"
+  ]
+ },
+ "FR02_03_forest_ruin_03": {
+  "category": "v5_forest",
+  "tris": 876,
+  "size": [
+   41.12,
+   30.0,
+   34.0
+  ],
+  "materials": [
+   "vg_f_cliff1",
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_ivy",
+   "vg_moss"
+  ]
+ },
+ "FR02_04_forest_ruin_04": {
+  "category": "v5_forest",
+  "tris": 2172,
+  "size": [
+   42.62,
+   30.91,
+   34.11
+  ],
+  "materials": [
+   "vg_f_cliff1",
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_cliff4",
+   "vg_f_moss",
+   "vg_f_moss2"
+  ]
+ },
+ "FR02_05_forest_ruin_05": {
+  "category": "v5_forest",
+  "tris": 1052,
+  "size": [
+   40.0,
+   30.0,
+   34.0
+  ],
+  "materials": [
+   "vg_f_cliff1",
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_cliff4",
+   "vg_f_crk1",
+   "vg_f_moss",
+   "vg_f_moss2",
+   "vg_f_trim",
+   "vg_f_wall"
+  ]
+ },
+ "FR02_06_forest_ruin_06": {
+  "category": "v5_forest",
+  "tris": 940,
+  "size": [
+   40.0,
+   30.0,
+   34.0
+  ],
+  "materials": [
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_cliff4",
+   "vg_f_moss",
+   "vg_f_moss2",
+   "vg_f_trim",
+   "vg_f_wall"
+  ]
+ },
+ "FR03_01_cave_mouth_01": {
+  "category": "v5_forest",
+  "tris": 648,
+  "size": [
+   40.0,
+   31.61,
+   30.0
+  ],
+  "materials": [
+   "vg_f_cliff1",
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_cliff4",
+   "vg_f_crk3",
+   "vg_f_moss",
+   "vg_f_moss2",
+   "vg_f_void"
+  ]
+ },
+ "FR03_02_cave_mouth_02": {
+  "category": "v5_forest",
+  "tris": 648,
+  "size": [
+   40.0,
+   32.36,
+   30.0
+  ],
+  "materials": [
+   "vg_f_cliff1",
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_cliff4",
+   "vg_f_crk3",
+   "vg_f_moss",
+   "vg_f_moss2",
+   "vg_f_void"
+  ]
+ },
+ "FR03_03_cave_mouth_03": {
+  "category": "v5_forest",
+  "tris": 672,
+  "size": [
+   40.0,
+   31.31,
+   30.0
+  ],
+  "materials": [
+   "vg_f_cliff1",
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_cliff4",
+   "vg_f_crk3",
+   "vg_f_moss",
+   "vg_f_moss2",
+   "vg_f_void"
+  ]
+ },
+ "FR03_04_cave_mouth_04": {
+  "category": "v5_forest",
+  "tris": 624,
+  "size": [
+   40.0,
+   31.7,
+   30.0
+  ],
+  "materials": [
+   "vg_f_cliff1",
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_cliff4",
+   "vg_f_crk3",
+   "vg_f_moss",
+   "vg_f_moss2",
+   "vg_f_void"
+  ]
+ },
+ "FR03_05_cave_mouth_05": {
+  "category": "v5_forest",
+  "tris": 648,
+  "size": [
+   40.0,
+   31.23,
+   30.0
+  ],
+  "materials": [
+   "vg_f_cliff1",
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_cliff4",
+   "vg_f_crk3",
+   "vg_f_moss",
+   "vg_f_moss2",
+   "vg_f_void"
+  ]
+ },
+ "FR03_06_cave_mouth_06": {
+  "category": "v5_forest",
+  "tris": 672,
+  "size": [
+   40.0,
+   32.46,
+   30.0
+  ],
+  "materials": [
+   "vg_f_cliff1",
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_cliff4",
+   "vg_f_crk3",
+   "vg_f_moss",
+   "vg_f_moss2",
+   "vg_f_void"
+  ]
+ },
+ "VG04_01_tree_birch_01": {
+  "category": "v5_forest",
+  "tris": 1818,
+  "size": [
+   14.0,
+   14.0,
+   33.0
+  ],
+  "materials": [
+   "vg_f_bbark",
+   "vg_f_bgold",
+   "vg_f_bleaf",
+   "vg_f_bleaf2",
+   "vg_f_blent"
+  ]
+ },
+ "VG04_02_tree_birch_02": {
+  "category": "v5_forest",
+  "tris": 1818,
+  "size": [
+   14.0,
+   14.0,
+   34.43
+  ],
+  "materials": [
+   "vg_f_bbark",
+   "vg_f_bgold",
+   "vg_f_bleaf",
+   "vg_f_bleaf2",
+   "vg_f_blent"
+  ]
+ },
+ "VG04_03_tree_birch_03": {
+  "category": "v5_forest",
+  "tris": 2088,
+  "size": [
+   14.0,
+   14.0,
+   33.11
+  ],
+  "materials": [
+   "vg_f_bbark",
+   "vg_f_bgold",
+   "vg_f_bleaf",
+   "vg_f_bleaf2",
+   "vg_f_blent"
+  ]
+ },
+ "LM23_01_gorge_wall_01": {
+  "category": "v5_forest",
+  "tris": 3456,
+  "size": [
+   95.5,
+   30.0,
+   78.65
+  ],
+  "materials": [
+   "vg_f_cliff1",
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_cliff4",
+   "vg_f_moss",
+   "vg_f_moss2"
+  ]
+ },
+ "LM23_02_gorge_wall_02": {
+  "category": "v5_forest",
+  "tris": 3444,
+  "size": [
+   95.26,
+   30.0,
+   81.27
+  ],
+  "materials": [
+   "vg_bark",
+   "vg_dark",
+   "vg_ivy",
+   "vg_moss",
+   "vg_rock",
+   "vg_rock2"
+  ]
+ },
+ "LM23_03_gorge_wall_03": {
+  "category": "v5_forest",
+  "tris": 3720,
+  "size": [
+   95.29,
+   30.0,
+   84.57
+  ],
+  "materials": [
+   "vg_f_chute",
+   "vg_f_chuted",
+   "vg_f_cliff1",
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_cliff4",
+   "vg_f_foam2",
+   "vg_f_moss",
+   "vg_f_moss2",
+   "vg_f_recess"
+  ]
+ },
+ "LM24_01_fall_pool_rock_01": {
+  "category": "v5_forest",
+  "tris": 468,
+  "size": [
+   30.0,
+   30.0,
+   17.45
+  ],
+  "materials": [
+   "vg_f_cliff1",
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_cliff4",
+   "vg_moss",
+   "vg_water"
+  ]
+ },
+ "LM24_02_fall_pool_rock_02": {
+  "category": "v5_forest",
+  "tris": 852,
+  "size": [
+   31.23,
+   30.0,
+   16.0
+  ],
+  "materials": [
+   "vg_f_chuted",
+   "vg_f_cliff1",
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_cliff4",
+   "vg_f_moss",
+   "vg_f_moss2"
+  ]
+ },
+ "LM24_03_fall_pool_rock_03": {
+  "category": "v5_forest",
+  "tris": 768,
+  "size": [
+   31.17,
+   32.97,
+   16.99
+  ],
+  "materials": [
+   "vg_f_chuted",
+   "vg_f_cliff1",
+   "vg_f_cliff2",
+   "vg_f_cliff3",
+   "vg_f_cliff4",
+   "vg_f_moss",
+   "vg_f_moss2"
+  ]
+ },
+ "VG05_01_tree_cypress_swamp_01": {
+  "category": "v5_forest",
+  "tris": 1724,
+  "size": [
+   21.82,
+   23.39,
+   41.05
+  ],
+  "materials": [
+   "vg_bark",
+   "vg_leafd",
+   "vg_moss",
+   "vg_mud"
+  ]
+ },
+ "VG05_02_tree_cypress_swamp_02": {
+  "category": "v5_forest",
+  "tris": 1592,
+  "size": [
+   22.0,
+   22.0,
+   38.27
+  ],
+  "materials": [
+   "vg_f_cbark",
+   "vg_f_cleaf",
+   "vg_f_cleaf2",
+   "vg_f_cmoss"
+  ]
+ },
+ "VG05_03_tree_cypress_swamp_03": {
+  "category": "v5_forest",
+  "tris": 1248,
+  "size": [
+   22.0,
+   22.0,
+   38.35
+  ],
+  "materials": [
+   "vg_f_cbark",
+   "vg_f_cleaf",
+   "vg_f_cleaf2",
+   "vg_f_cmoss"
+  ]
+ },
+ "VG06_01_marsh_hummock_01": {
+  "category": "v5_forest",
+  "tris": 872,
+  "size": [
+   16.79,
+   16.0,
+   6.0
+  ],
+  "materials": [
+   "vg_f_hgrass",
+   "vg_f_hgrass2",
+   "vg_f_hmud",
+   "vg_f_hreed"
+  ]
+ },
+ "VG06_02_marsh_hummock_02": {
+  "category": "v5_forest",
+  "tris": 1028,
+  "size": [
+   16.84,
+   17.1,
+   6.0
+  ],
+  "materials": [
+   "vg_f_hgrass",
+   "vg_f_hgrass2",
+   "vg_f_hmud",
+   "vg_f_hreed"
+  ]
+ },
+ "VG07_01_boardwalk_01": {
+  "category": "v5_forest",
+  "tris": 664,
+  "size": [
+   30.0,
+   6.0,
+   4.0
+  ],
+  "materials": [
+   "vg_bark",
+   "vg_plank",
+   "vg_timber"
+  ]
+ },
+ "VG07_02_boardwalk_02": {
+  "category": "v5_forest",
+  "tris": 1064,
+  "size": [
+   30.0,
+   5.8,
+   4.0
+  ],
+  "materials": [
+   "vg_bark",
+   "vg_plank",
+   "vg_rope",
+   "vg_timber"
+  ]
+ }
+}

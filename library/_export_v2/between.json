@@ -1,0 +1,309 @@
+[
+ {
+  "id": "H01_roadside_shrine",
+  "pieces": 21,
+  "max_tris": 1280,
+  "names": [
+   "bronze",
+   "fl_purple",
+   "fl_red",
+   "fl_white",
+   "fl_yellow",
+   "flame",
+   "fruit",
+   "glass_lit",
+   "glow_gold",
+   "gold",
+   "hole",
+   "iron",
+   "leaf",
+   "moss",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "tile_red_a",
+   "tile_red_b",
+   "timber",
+   "wax"
+  ],
+  "size": [
+   6.6,
+   5.68,
+   8.5
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "H02_abandoned_watchtower",
+  "pieces": 8,
+  "max_tris": 724,
+  "names": [
+   "grass_dry",
+   "ivy",
+   "leaf",
+   "leaf_dark",
+   "roof_old",
+   "roof_old_b",
+   "wood_grey",
+   "wood_old"
+  ],
+  "size": [
+   9.84,
+   11.62,
+   25.68
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "H03_ruins_1",
+  "pieces": 9,
+  "max_tris": 1676,
+  "names": [
+   "grass_dry",
+   "ivy",
+   "leaf",
+   "leaf_dark",
+   "leaf_light",
+   "moss",
+   "stone",
+   "stone_dark",
+   "stone_light"
+  ],
+  "size": [
+   29.5,
+   7.87,
+   15.38
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "H04_ruins_2",
+  "pieces": 9,
+  "max_tris": 3162,
+  "names": [
+   "cob_c",
+   "fl_blue",
+   "fl_purple",
+   "fl_white",
+   "fl_yellow",
+   "leaf",
+   "moss",
+   "stone",
+   "stone_light"
+  ],
+  "size": [
+   22.15,
+   25.52,
+   12.46
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "H05_traveller_campsite",
+  "pieces": 19,
+  "max_tris": 416,
+  "names": [
+   "bark",
+   "canvas",
+   "canvas_b",
+   "fabric_green",
+   "fabric_red",
+   "flame",
+   "flame_core",
+   "glass_lit",
+   "grass_dry",
+   "grout",
+   "hole",
+   "iron",
+   "leaf",
+   "rope",
+   "rope_dark",
+   "stone",
+   "stone_dark",
+   "wood",
+   "wood_light"
+  ],
+  "size": [
+   18.57,
+   10.99,
+   4.81
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "H06_wagon_wreck",
+  "pieces": 10,
+  "max_tris": 1438,
+  "names": [
+   "canvas_b",
+   "grass_dry",
+   "leaf",
+   "leaf_light",
+   "rust",
+   "wood",
+   "wood_dark",
+   "wood_grey",
+   "wood_light",
+   "wood_old"
+  ],
+  "size": [
+   19.08,
+   12.88,
+   5.78
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "H07_wheat_crop_rows",
+  "pieces": 7,
+  "max_tris": 11420,
+  "names": [
+   "autumn_c",
+   "birch_leaf",
+   "dirt",
+   "fl_red",
+   "grass_dry",
+   "leaf",
+   "rope"
+  ],
+  "size": [
+   16.13,
+   12.62,
+   4.47
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "H08_vegetable_crop_rows",
+  "pieces": 10,
+  "max_tris": 6156,
+  "names": [
+   "dirt",
+   "fl_orange",
+   "fl_purple",
+   "iron",
+   "leaf",
+   "leaf_dark",
+   "leaf_light",
+   "wicker",
+   "wood",
+   "wood_light"
+  ],
+  "size": [
+   19.59,
+   11.29,
+   5.01
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "H09_scarecrow",
+  "pieces": 11,
+  "max_tris": 408,
+  "names": [
+   "canvas",
+   "fabric_blue",
+   "fabric_green",
+   "fabric_red",
+   "grass_dry",
+   "paper",
+   "rope",
+   "tar",
+   "thatch",
+   "tin_b",
+   "wood_grey"
+  ],
+  "size": [
+   7.23,
+   4.0,
+   9.81
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "H10_working_windmill",
+  "pieces": 18,
+  "max_tris": 3280,
+  "names": [
+   "brass",
+   "canvas",
+   "door_paint",
+   "fabric_cream",
+   "glass_dark",
+   "gold",
+   "iron",
+   "sail",
+   "sail_b",
+   "shutter_g",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "tile_red_a",
+   "timber",
+   "wood",
+   "wood_dark",
+   "wood_paint"
+  ],
+  "size": [
+   26.43,
+   22.74,
+   35.93
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "H11_standing_stone_circle",
+  "pieces": 12,
+  "max_tris": 1188,
+  "names": [
+   "birch_leaf",
+   "cliff_a",
+   "fl_purple",
+   "fl_white",
+   "fl_yellow",
+   "grass_dry",
+   "leaf",
+   "leaf_light",
+   "magic",
+   "moss",
+   "stone",
+   "stone_light"
+  ],
+  "size": [
+   27.95,
+   26.2,
+   8.21
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "H12_region_entrance_arch",
+  "pieces": 17,
+  "max_tris": 9996,
+  "names": [
+   "ashlar",
+   "ashlar_dark",
+   "castle",
+   "castle_trim",
+   "dirt",
+   "fabric_blue",
+   "fabric_red",
+   "fl_red",
+   "fl_white",
+   "fl_yellow",
+   "glass_lit",
+   "gold",
+   "iron",
+   "leaf",
+   "shutter_b",
+   "stone",
+   "wood_dark"
+  ],
+  "size": [
+   29.2,
+   5.2,
+   23.33
+  ],
+  "min_z": 0.0
+ }
+]

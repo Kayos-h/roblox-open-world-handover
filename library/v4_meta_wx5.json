@@ -1,0 +1,299 @@
+{
+ "R06_01_canyon_wall_01": {
+  "category": "v4_terrain",
+  "tris": 21048,
+  "size": [
+   100.0,
+   39.23,
+   90.0
+  ],
+  "materials": [
+   "canyon_wall_01_base",
+   "wd_bl_cream",
+   "wd_bl_dark",
+   "wd_bl_orange",
+   "wd_bl_red",
+   "wd_bl_sand",
+   "wd_bl_talus",
+   "wd_moss"
+  ]
+ },
+ "R06_02_canyon_wall_02": {
+  "category": "v4_terrain",
+  "tris": 21048,
+  "size": [
+   100.0,
+   39.05,
+   90.0
+  ],
+  "materials": [
+   "canyon_wall_02_base",
+   "wd_moss",
+   "wx5m_wd_rock_light",
+   "wx5m_wd_scree_grey",
+   "wx5m_wk_chalk",
+   "wx5m_wk_chalk_dk"
+  ]
+ },
+ "R06_03_canyon_wall_03": {
+  "category": "v4_terrain",
+  "tris": 21048,
+  "size": [
+   100.0,
+   38.8,
+   90.0
+  ],
+  "materials": [
+   "canyon_wall_03_base",
+   "wd_moss",
+   "wx5m_wd_basalt",
+   "wx5m_wd_basalt_dark",
+   "wx5m_wd_scree_dark",
+   "wx5m_wd_slate",
+   "wx5m_wd_stain"
+  ]
+ },
+ "R04_01_sea_cliff_01": {
+  "category": "v4_terrain",
+  "tris": 19648,
+  "size": [
+   100.0,
+   38.77,
+   55.02
+  ],
+  "materials": [
+   "sea_cliff_01_base",
+   "wk_cave_dark",
+   "wk_kelp",
+   "wk_wet_rock",
+   "wx5m_wd_rock_light",
+   "wx5m_wk_chalk",
+   "wx5m_wk_chalk_dk"
+  ]
+ },
+ "R04_02_sea_cliff_02": {
+  "category": "v4_terrain",
+  "tris": 19648,
+  "size": [
+   100.0,
+   38.27,
+   55.02
+  ],
+  "materials": [
+   "sea_cliff_02_base",
+   "wk_kelp",
+   "wk_wet_rock",
+   "wx5m_wx5_slate",
+   "wx5m_wx5_slate_dk",
+   "wx5m_wx5_slate_lt",
+   "wx5m_wx5_slate_stain"
+  ]
+ },
+ "R04_03_sea_cliff_03": {
+  "category": "v4_terrain",
+  "tris": 19648,
+  "size": [
+   100.59,
+   39.12,
+   55.03
+  ],
+  "materials": [
+   "sea_cliff_03_base",
+   "wd_sand_band",
+   "wd_sandstone",
+   "wd_sandstone_dk",
+   "wd_sandstone_lt",
+   "wk_cave_dark",
+   "wk_kelp",
+   "wk_wet_rock"
+  ]
+ },
+ "F07_09_rock_formation_09": {
+  "category": "v4_terrain",
+  "tris": 20224,
+  "size": [
+   60.0,
+   31.47,
+   46.1
+  ],
+  "materials": [
+   "coastal_cliff_01_base",
+   "wk_grass_cap",
+   "wk_kelp",
+   "wk_wet_rock",
+   "wx5m_wd_rock_dark",
+   "wx5m_wd_rock_grey",
+   "wx5m_wd_rock_light"
+  ]
+ },
+ "F07_10_rock_formation_10": {
+  "category": "v4_terrain",
+  "tris": 20224,
+  "size": [
+   60.0,
+   30.35,
+   46.1
+  ],
+  "materials": [
+   "coastal_cliff_02_base",
+   "wk_grass_cap",
+   "wk_kelp",
+   "wk_wet_rock",
+   "wx5m_wd_rock_dark",
+   "wx5m_wd_rock_grey",
+   "wx5m_wd_rock_light"
+  ]
+ },
+ "F07_11_rock_formation_11": {
+  "category": "v4_terrain",
+  "tris": 20224,
+  "size": [
+   60.79,
+   31.23,
+   46.1
+  ],
+  "materials": [
+   "coastal_cliff_03_base",
+   "wk_grass_cap",
+   "wk_kelp",
+   "wk_wet_rock",
+   "wx5m_wd_rock_dark",
+   "wx5m_wd_rock_grey",
+   "wx5m_wd_rock_light"
+  ]
+ },
+ "R03_01_badlands_mesa_01": {
+  "category": "v4_terrain",
+  "tris": 5982,
+  "size": [
+   103.17,
+   93.38,
+   52.3
+  ],
+  "materials": [
+   "wd2_bl_cream",
+   "wd2_bl_orange",
+   "wd2_bl_red",
+   "wd2_bl_sand",
+   "wd2_bl_talus",
+   "wd2_dry",
+   "wd2_peak"
+  ]
+ },
+ "R03_02_badlands_mesa_02": {
+  "category": "v4_terrain",
+  "tris": 5982,
+  "size": [
+   57.96,
+   56.14,
+   78.3
+  ],
+  "materials": [
+   "wd2_bl_cream",
+   "wd2_bl_orange",
+   "wd2_bl_red",
+   "wd2_bl_sand",
+   "wd2_bl_talus",
+   "wd2_dry",
+   "wd2_peak"
+  ]
+ },
+ "R03_03_badlands_mesa_03": {
+  "category": "v4_terrain",
+  "tris": 5214,
+  "size": [
+   75.69,
+   79.88,
+   70.3
+  ],
+  "materials": [
+   "wd2_bl_cream",
+   "wd2_bl_orange",
+   "wd2_bl_red",
+   "wd2_bl_sand",
+   "wd2_bl_talus",
+   "wd2_dry",
+   "wd2_peak"
+  ]
+ },
+ "R03_04_badlands_mesa_04": {
+  "category": "v4_terrain",
+  "tris": 6148,
+  "size": [
+   94.06,
+   89.29,
+   56.0
+  ],
+  "materials": [
+   "wd2_bl_cream",
+   "wd2_bl_orange",
+   "wd2_bl_red",
+   "wd2_bl_sand",
+   "wd2_bl_talus",
+   "wd2_dry",
+   "wd2_peak"
+  ]
+ },
+ "E15_02_boulder_02": {
+  "category": "v4_terrain",
+  "tris": 320,
+  "size": [
+   11.11,
+   7.74,
+   5.2
+  ],
+  "materials": [
+   "wx5_gran",
+   "wx5_gran_dk",
+   "wx5_moss"
+  ]
+ },
+ "R05_01_waterfall_cliff_large_01": {
+  "category": "v4_terrain",
+  "tris": 27850,
+  "size": [
+   80.0,
+   51.1,
+   84.2
+  ],
+  "materials": [
+   "foam",
+   "water",
+   "water_fx",
+   "waterfall_cliff_large_01_base",
+   "wd_moss",
+   "wd_oak",
+   "wd_pine",
+   "wd_pine_dark",
+   "wd_scree",
+   "wd_trunk",
+   "wx5m_wd_rock_dark",
+   "wx5m_wd_rock_grey",
+   "wx5m_wd_rock_light"
+  ]
+ },
+ "R05_02_waterfall_cliff_large_02": {
+  "category": "v4_terrain",
+  "tris": 30212,
+  "size": [
+   80.0,
+   54.21,
+   83.01
+  ],
+  "materials": [
+   "foam",
+   "water",
+   "water_fx",
+   "waterfall_cliff_large_02_base",
+   "wd_moss",
+   "wd_oak",
+   "wd_pine",
+   "wd_pine_dark",
+   "wd_scree",
+   "wd_trunk",
+   "wx5m_wd_rock_dark",
+   "wx5m_wd_rock_grey",
+   "wx5m_wd_rock_light"
+  ]
+ }
+}

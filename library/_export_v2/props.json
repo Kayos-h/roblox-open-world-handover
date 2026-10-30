@@ -1,0 +1,714 @@
+[
+ {
+  "id": "A100_fence_picket",
+  "pieces": 1,
+  "max_tris": 728,
+  "names": [
+   "wood_paint"
+  ],
+  "size": [
+   12.5,
+   0.61,
+   4.6
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A101_fence_rail",
+  "pieces": 3,
+  "max_tris": 324,
+  "names": [
+   "bark",
+   "wood",
+   "wood_dark"
+  ],
+  "size": [
+   12.58,
+   0.65,
+   4.0
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A102_stone_wall_low",
+  "pieces": 5,
+  "max_tris": 1408,
+  "names": [
+   "cob_a",
+   "cob_b",
+   "moss",
+   "stone",
+   "stone_light"
+  ],
+  "size": [
+   12.43,
+   2.17,
+   3.63
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A103_fence_iron",
+  "pieces": 2,
+  "max_tris": 8554,
+  "names": [
+   "iron",
+   "stone_light"
+  ],
+  "size": [
+   13.6,
+   1.6,
+   6.65
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A104_wooden_gate",
+  "pieces": 4,
+  "max_tris": 888,
+  "names": [
+   "iron",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   11.2,
+   0.8,
+   6.5
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A105_market_stall_fruit",
+  "pieces": 10,
+  "max_tris": 1624,
+  "names": [
+   "fabric_cream",
+   "fabric_red",
+   "fl_orange",
+   "fl_yellow",
+   "fruit",
+   "iron",
+   "leaf_light",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   15.87,
+   5.44,
+   8.06
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A106_market_stall_cloth",
+  "pieces": 9,
+  "max_tris": 1624,
+  "names": [
+   "fabric_blue",
+   "fabric_cream",
+   "fabric_green",
+   "fabric_red",
+   "fl_purple",
+   "iron",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   15.87,
+   5.49,
+   8.06
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A107_market_stall_potion",
+  "pieces": 10,
+  "max_tris": 2076,
+  "names": [
+   "fabric_green",
+   "fl_purple",
+   "gold",
+   "iron",
+   "potion_blue",
+   "potion_green",
+   "potion_red",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   15.87,
+   5.44,
+   8.06
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A108_awning",
+  "pieces": 3,
+  "max_tris": 6124,
+  "names": [
+   "fabric_cream",
+   "fabric_red",
+   "iron"
+  ],
+  "size": [
+   10.4,
+   3.79,
+   2.75
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A109_fountain_small",
+  "pieces": 5,
+  "max_tris": 2064,
+  "names": [
+   "foam",
+   "stone",
+   "stone_light",
+   "water",
+   "water_fx"
+  ],
+  "size": [
+   7.58,
+   7.58,
+   6.6
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A110_waterfall_rocks",
+  "pieces": 6,
+  "max_tris": 3200,
+  "names": [
+   "cliff_a",
+   "cliff_b",
+   "foam",
+   "stone",
+   "stone_dark",
+   "water_fx"
+  ],
+  "size": [
+   20.5,
+   14.8,
+   19.18
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A111_pond_edge",
+  "pieces": 11,
+  "max_tris": 1396,
+  "names": [
+   "dirt",
+   "fl_pink",
+   "leaf",
+   "leaf_dark",
+   "leaf_light",
+   "moss",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "water",
+   "wood_dark"
+  ],
+  "size": [
+   23.31,
+   14.37,
+   4.95
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A71_barrel",
+  "pieces": 4,
+  "max_tris": 576,
+  "names": [
+   "iron",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   3.02,
+   3.02,
+   4.02
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A72_barrel_open",
+  "pieces": 6,
+  "max_tris": 2520,
+  "names": [
+   "fl_yellow",
+   "fruit",
+   "iron",
+   "leaf_light",
+   "wood",
+   "wood_dark"
+  ],
+  "size": [
+   3.02,
+   3.02,
+   4.67
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A73_crate_small",
+  "pieces": 3,
+  "max_tris": 396,
+  "names": [
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   3.12,
+   3.2,
+   3.0
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A74_crate_large",
+  "pieces": 4,
+  "max_tris": 440,
+  "names": [
+   "iron_dark",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   5.12,
+   4.22,
+   4.0
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A75_crate_stack",
+  "pieces": 4,
+  "max_tris": 1632,
+  "names": [
+   "iron",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   10.47,
+   6.51,
+   7.0
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A76_sack",
+  "pieces": 2,
+  "max_tris": 288,
+  "names": [
+   "fabric_cream",
+   "rope"
+  ],
+  "size": [
+   2.47,
+   2.57,
+   2.62
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A77_sack_pile",
+  "pieces": 3,
+  "max_tris": 1656,
+  "names": [
+   "fabric_cream",
+   "rope",
+   "thatch"
+  ],
+  "size": [
+   6.51,
+   5.76,
+   4.44
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A78_hay_bale",
+  "pieces": 2,
+  "max_tris": 1348,
+  "names": [
+   "rope_dark",
+   "thatch"
+  ],
+  "size": [
+   5.74,
+   5.81,
+   2.86
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A79_hand_cart",
+  "pieces": 4,
+  "max_tris": 992,
+  "names": [
+   "iron",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   10.22,
+   4.86,
+   4.1
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A80_wagon",
+  "pieces": 4,
+  "max_tris": 3108,
+  "names": [
+   "iron",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   18.3,
+   6.56,
+   6.87
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A81_wheelbarrow",
+  "pieces": 4,
+  "max_tris": 604,
+  "names": [
+   "iron",
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   7.98,
+   2.6,
+   3.05
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A82_bench_wood",
+  "pieces": 3,
+  "max_tris": 5102,
+  "names": [
+   "iron",
+   "wood",
+   "wood_light"
+  ],
+  "size": [
+   8.0,
+   2.91,
+   4.11
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A83_bench_stone",
+  "pieces": 2,
+  "max_tris": 168,
+  "names": [
+   "stone",
+   "stone_light"
+  ],
+  "size": [
+   8.0,
+   2.4,
+   2.2
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A84_table",
+  "pieces": 3,
+  "max_tris": 688,
+  "names": [
+   "wood",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   8.0,
+   3.96,
+   3.0
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A85_chair",
+  "pieces": 3,
+  "max_tris": 280,
+  "names": [
+   "fabric_red",
+   "wood",
+   "wood_dark"
+  ],
+  "size": [
+   1.95,
+   1.95,
+   4.4
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A86_stool",
+  "pieces": 2,
+  "max_tris": 236,
+  "names": [
+   "wood",
+   "wood_dark"
+  ],
+  "size": [
+   1.9,
+   1.9,
+   2.01
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A87_bucket",
+  "pieces": 5,
+  "max_tris": 332,
+  "names": [
+   "iron",
+   "rope",
+   "water",
+   "wood",
+   "wood_dark"
+  ],
+  "size": [
+   1.58,
+   1.52,
+   2.41
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A88_clay_pot_1",
+  "pieces": 2,
+  "max_tris": 856,
+  "names": [
+   "terracotta",
+   "terracotta_dark"
+  ],
+  "size": [
+   2.38,
+   2.38,
+   3.55
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A89_clay_pot_2",
+  "pieces": 2,
+  "max_tris": 288,
+  "names": [
+   "terracotta",
+   "terracotta_dark"
+  ],
+  "size": [
+   2.5,
+   2.5,
+   2.1
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A90_firewood_stack",
+  "pieces": 4,
+  "max_tris": 1824,
+  "names": [
+   "bark",
+   "roof_red",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   3.71,
+   9.73,
+   4.99
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A91_ladder",
+  "pieces": 2,
+  "max_tris": 280,
+  "names": [
+   "wood",
+   "wood_dark"
+  ],
+  "size": [
+   1.82,
+   0.22,
+   12.0
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A92_laundry_line",
+  "pieces": 7,
+  "max_tris": 1312,
+  "names": [
+   "fabric_blue",
+   "fabric_cream",
+   "fabric_green",
+   "fabric_red",
+   "rope",
+   "wood_dark",
+   "wood_light"
+  ],
+  "size": [
+   16.35,
+   2.01,
+   8.0
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A93_notice_board",
+  "pieces": 6,
+  "max_tris": 444,
+  "names": [
+   "fabric_cream",
+   "fl_red",
+   "paper",
+   "roof_red",
+   "wood",
+   "wood_dark"
+  ],
+  "size": [
+   7.2,
+   1.8,
+   9.7
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A94_shop_sign",
+  "pieces": 3,
+  "max_tris": 2696,
+  "names": [
+   "fabric_blue",
+   "iron",
+   "wood_light"
+  ],
+  "size": [
+   0.6,
+   3.68,
+   3.0
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A95_flag_pole",
+  "pieces": 4,
+  "max_tris": 656,
+  "names": [
+   "fabric_red",
+   "gold",
+   "stone_light",
+   "wood_dark"
+  ],
+  "size": [
+   9.45,
+   2.4,
+   22.4
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A96_wall_banner",
+  "pieces": 2,
+  "max_tris": 472,
+  "names": [
+   "fabric_red",
+   "gold"
+  ],
+  "size": [
+   5.02,
+   0.44,
+   9.32
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A97_water_trough",
+  "pieces": 5,
+  "max_tris": 444,
+  "names": [
+   "iron",
+   "stone",
+   "stone_dark",
+   "stone_light",
+   "water"
+  ],
+  "size": [
+   9.57,
+   2.71,
+   4.77
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A98_well",
+  "pieces": 10,
+  "max_tris": 1098,
+  "names": [
+   "cob_a",
+   "iron",
+   "roof_dark",
+   "roof_red",
+   "rope",
+   "stone",
+   "stone_light",
+   "water_dark",
+   "wood",
+   "wood_dark"
+  ],
+  "size": [
+   8.4,
+   7.3,
+   9.94
+  ],
+  "min_z": 0.0
+ },
+ {
+  "id": "A99_anvil",
+  "pieces": 5,
+  "max_tris": 580,
+  "names": [
+   "iron",
+   "iron_dark",
+   "steel",
+   "wood",
+   "wood_dark"
+  ],
+  "size": [
+   5.2,
+   3.75,
+   4.05
+  ],
+  "min_z": 0.0
+ }
+]

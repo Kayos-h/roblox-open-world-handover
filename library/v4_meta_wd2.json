@@ -1,0 +1,307 @@
+{
+ "E13_01_rock_face_01": {
+  "category": "v4_terrain",
+  "tris": 2900,
+  "size": [
+   83.18,
+   35.55,
+   63.68
+  ],
+  "materials": [
+   "wd2_granite",
+   "wd2_granite_dk",
+   "wd2_granite_lt",
+   "wd2_moss",
+   "wd2_snow"
+  ]
+ },
+ "E13_02_rock_face_02": {
+  "category": "v4_terrain",
+  "tris": 2804,
+  "size": [
+   82.68,
+   36.94,
+   63.71
+  ],
+  "materials": [
+   "wd2_granite",
+   "wd2_granite_dk",
+   "wd2_granite_lt",
+   "wd2_moss",
+   "wd2_snow"
+  ]
+ },
+ "E13_03_rock_face_03": {
+  "category": "v4_terrain",
+  "tris": 2852,
+  "size": [
+   84.1,
+   35.26,
+   63.53
+  ],
+  "materials": [
+   "wd2_granite",
+   "wd2_granite_dk",
+   "wd2_granite_lt",
+   "wd2_moss",
+   "wd2_snow"
+  ]
+ },
+ "E13_04_rock_face_04": {
+  "category": "v4_terrain",
+  "tris": 2900,
+  "size": [
+   84.59,
+   36.0,
+   63.68
+  ],
+  "materials": [
+   "wd2_granite",
+   "wd2_granite_dk",
+   "wd2_granite_lt",
+   "wd2_moss",
+   "wd2_snow"
+  ]
+ },
+ "E13_05_rock_face_05": {
+  "category": "v4_terrain",
+  "tris": 2900,
+  "size": [
+   84.06,
+   35.58,
+   63.34
+  ],
+  "materials": [
+   "wd2_sand",
+   "wd2_sand_dk",
+   "wd2_sand_lt"
+  ]
+ },
+ "E13_06_rock_face_06": {
+  "category": "v4_terrain",
+  "tris": 2804,
+  "size": [
+   81.59,
+   38.08,
+   63.74
+  ],
+  "materials": [
+   "wd2_sand",
+   "wd2_sand_dk",
+   "wd2_sand_lt"
+  ]
+ },
+ "E13_07_rock_face_07": {
+  "category": "v4_terrain",
+  "tris": 2804,
+  "size": [
+   83.82,
+   37.3,
+   63.61
+  ],
+  "materials": [
+   "wd2_sand",
+   "wd2_sand_dk",
+   "wd2_sand_lt"
+  ]
+ },
+ "E13_08_rock_face_08": {
+  "category": "v4_terrain",
+  "tris": 2900,
+  "size": [
+   83.68,
+   35.82,
+   63.65
+  ],
+  "materials": [
+   "wd2_basalt",
+   "wd2_basalt_dk",
+   "wd2_basalt_lt",
+   "wd2_moss"
+  ]
+ },
+ "E13_09_rock_face_09": {
+  "category": "v4_terrain",
+  "tris": 2900,
+  "size": [
+   81.09,
+   34.93,
+   63.01
+  ],
+  "materials": [
+   "wd2_basalt",
+   "wd2_basalt_dk",
+   "wd2_basalt_lt",
+   "wd2_moss"
+  ]
+ },
+ "E13_10_rock_face_10": {
+  "category": "v4_terrain",
+  "tris": 2756,
+  "size": [
+   84.03,
+   34.96,
+   63.83
+  ],
+  "materials": [
+   "wd2_basalt",
+   "wd2_basalt_dk",
+   "wd2_basalt_lt"
+  ]
+ },
+ "R01_01_islet_01": {
+  "category": "v4_terrain",
+  "tris": 4532,
+  "size": [
+   72.56,
+   73.13,
+   57.3
+  ],
+  "materials": [
+   "wd2_dirt",
+   "wd2_grass",
+   "wd2_isle",
+   "wd2_isle_dk",
+   "wd_pine",
+   "wd_trunk"
+  ]
+ },
+ "R01_04_islet_04": {
+  "category": "v4_terrain",
+  "tris": 1416,
+  "size": [
+   37.52,
+   12.7,
+   37.76
+  ],
+  "materials": [
+   "wd2_dirt",
+   "wd2_grass",
+   "wd2_isle",
+   "wd2_isle_dk",
+   "wd_pine",
+   "wd_trunk"
+  ]
+ },
+ "R02_01_snow_peak_01": {
+  "category": "v4_terrain",
+  "tris": 29240,
+  "size": [
+   120.45,
+   119.5,
+   176.5
+  ],
+  "materials": [
+   "wd2_peak",
+   "wd2_peak_dk",
+   "wd2_peak_snow"
+  ]
+ },
+ "R02_02_snow_peak_02": {
+  "category": "v4_terrain",
+  "tris": 29720,
+  "size": [
+   129.43,
+   128.66,
+   162.59
+  ],
+  "materials": [
+   "wd2_peak",
+   "wd2_peak_dk",
+   "wd2_peak_snow"
+  ]
+ },
+ "R02_03_snow_peak_03": {
+  "category": "v4_terrain",
+  "tris": 31688,
+  "size": [
+   134.34,
+   147.77,
+   152.43
+  ],
+  "materials": [
+   "wd2_peak",
+   "wd2_peak_dk",
+   "wd2_peak_snow"
+  ]
+ },
+ "R02_04_snow_peak_04": {
+  "category": "v4_terrain",
+  "tris": 33896,
+  "size": [
+   147.93,
+   133.02,
+   148.32
+  ],
+  "materials": [
+   "wd2_ice",
+   "wd2_peak",
+   "wd2_peak_dk",
+   "wd2_peak_snow"
+  ]
+ },
+ "R03_01_badlands_mesa_01": {
+  "category": "v4_terrain",
+  "tris": 14152,
+  "size": [
+   100.79,
+   104.65,
+   54.77
+  ],
+  "materials": [
+   "wd2_bl_cream",
+   "wd2_bl_orange",
+   "wd2_bl_red",
+   "wd2_bl_sand",
+   "wd2_bl_talus"
+  ]
+ },
+ "R03_02_badlands_mesa_02": {
+  "category": "v4_terrain",
+  "tris": 9904,
+  "size": [
+   60.58,
+   61.12,
+   80.38
+  ],
+  "materials": [
+   "wd2_bl_cream",
+   "wd2_bl_orange",
+   "wd2_bl_red",
+   "wd2_bl_sand",
+   "wd2_bl_talus"
+  ]
+ },
+ "R03_04_badlands_mesa_04": {
+  "category": "v4_terrain",
+  "tris": 14172,
+  "size": [
+   100.47,
+   101.43,
+   59.0
+  ],
+  "materials": [
+   "wd2_bl_cream",
+   "wd2_bl_orange",
+   "wd2_bl_red",
+   "wd2_bl_sand",
+   "wd2_bl_talus"
+  ]
+ },
+ "R03_03_badlands_mesa_03": {
+  "category": "v4_terrain",
+  "tris": 10744,
+  "size": [
+   84.11,
+   65.55,
+   72.2
+  ],
+  "materials": [
+   "wd2_bl_cream",
+   "wd2_bl_orange",
+   "wd2_bl_red",
+   "wd2_bl_sand",
+   "wd2_bl_talus"
+  ]
+ }
+}

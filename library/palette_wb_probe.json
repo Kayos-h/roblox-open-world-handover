@@ -1,0 +1,11 @@
+{
+ "zz_test_key": {
+  "rgb": [
+   200,
+   60,
+   60
+  ],
+  "material": "SmoothPlastic",
+  "glow": false
+ }
+}

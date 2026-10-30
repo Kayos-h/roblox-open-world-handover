@@ -1,0 +1,422 @@
+{
+ "E02_01_crypt_01": {
+  "category": "v4_graveyard",
+  "tris": 2864,
+  "size": [
+   20.0,
+   16.5,
+   13.01
+  ],
+  "materials": [
+   "wg2_iron",
+   "wg2_iron_rust",
+   "wg2_moss",
+   "wg_dirt",
+   "wg_granite",
+   "wg_granite_d",
+   "wg_ivy",
+   "wg_marble",
+   "wg_marble_d",
+   "wg_moss",
+   "wg_stone",
+   "wg_stone_d"
+  ]
+ },
+ "E02_02_crypt_02": {
+  "category": "v4_graveyard",
+  "tris": 6494,
+  "size": [
+   18.0,
+   18.0,
+   15.49
+  ],
+  "materials": [
+   "wg2_iron",
+   "wg2_iron_rust",
+   "wg_dirt",
+   "wg_granite",
+   "wg_granite_d",
+   "wg_ivy",
+   "wg_marble",
+   "wg_marble_d",
+   "wg_moss",
+   "wg_stone",
+   "wg_stone_d"
+  ]
+ },
+ "E02_03_crypt_03": {
+  "category": "v4_graveyard",
+  "tris": 3320,
+  "size": [
+   18.0,
+   16.5,
+   11.65
+  ],
+  "materials": [
+   "wg2_iron",
+   "wg2_iron_rust",
+   "wg2_moss",
+   "wg_dirt",
+   "wg_granite",
+   "wg_granite_d",
+   "wg_ivy",
+   "wg_moss",
+   "wg_stone",
+   "wg_stone_d"
+  ]
+ },
+ "E03_01_weeping_statue_01": {
+  "category": "v4_graveyard",
+  "tris": 1746,
+  "size": [
+   5.0,
+   5.0,
+   10.24
+  ],
+  "materials": [
+   "wg2_moss",
+   "wg_dirt",
+   "wg_granite",
+   "wg_granite_d",
+   "wg_marble",
+   "wg_marble_d"
+  ]
+ },
+ "E03_02_weeping_statue_02": {
+  "category": "v4_graveyard",
+  "tris": 3846,
+  "size": [
+   5.4,
+   5.4,
+   10.44
+  ],
+  "materials": [
+   "wg2_moss",
+   "wg_dirt",
+   "wg_granite",
+   "wg_granite_d",
+   "wg_marble",
+   "wg_marble_d"
+  ]
+ },
+ "E03_03_weeping_statue_03": {
+  "category": "v4_graveyard",
+  "tris": 2110,
+  "size": [
+   4.6,
+   4.6,
+   10.04
+  ],
+  "materials": [
+   "wg2_moss",
+   "wg_dirt",
+   "wg_granite",
+   "wg_granite_d",
+   "wg_marble",
+   "wg_marble_d"
+  ]
+ },
+ "E04_01_iron_fence_gate_01": {
+  "category": "v4_graveyard",
+  "tris": 1190,
+  "size": [
+   13.0,
+   2.4,
+   5.94
+  ],
+  "materials": [
+   "wg2_iron",
+   "wg2_iron_rust",
+   "wg_dirt",
+   "wg_lichen",
+   "wg_stone",
+   "wg_stone_d"
+  ]
+ },
+ "E04_02_iron_fence_gate_02": {
+  "category": "v4_graveyard",
+  "tris": 2568,
+  "size": [
+   13.0,
+   3.0,
+   11.76
+  ],
+  "materials": [
+   "wg2_glass_lit",
+   "wg2_iron",
+   "wg_dirt",
+   "wg_stone",
+   "wg_stone_d"
+  ]
+ },
+ "E06_01_rusty_debris_01": {
+  "category": "v4_rusty",
+  "tris": 2920,
+  "size": [
+   10.0,
+   8.0,
+   4.04
+  ],
+  "materials": [
+   "tin",
+   "tin_b",
+   "wg2_cog",
+   "wg2_dirt",
+   "wg2_sheet",
+   "wg2_sheet_b"
+  ]
+ },
+ "E06_02_rusty_debris_02": {
+  "category": "v4_rusty",
+  "tris": 1868,
+  "size": [
+   10.0,
+   8.35,
+   2.75
+  ],
+  "materials": [
+   "tin_b",
+   "wg2_barrel",
+   "wg2_barrel_b",
+   "wg2_cog",
+   "wg2_dirt"
+  ]
+ },
+ "E06_03_rusty_debris_03": {
+  "category": "v4_rusty",
+  "tris": 2692,
+  "size": [
+   9.0,
+   8.0,
+   3.37
+  ],
+  "materials": [
+   "wg2_cog",
+   "wg2_dirt",
+   "wg2_plank_d"
+  ]
+ },
+ "E06_04_rusty_debris_04": {
+  "category": "v4_rusty",
+  "tris": 1308,
+  "size": [
+   9.0,
+   8.0,
+   2.99
+  ],
+  "materials": [
+   "wg2_barrel",
+   "wg2_dirt",
+   "wg2_plank",
+   "wg2_plank_d",
+   "wg2_rope",
+   "wg2_sheet_b",
+   "wg2_tarp"
+  ]
+ },
+ "E06_05_rusty_debris_05": {
+  "category": "v4_rusty",
+  "tris": 1268,
+  "size": [
+   11.0,
+   8.0,
+   4.29
+  ],
+  "materials": [
+   "tin_b",
+   "wg2_barrel_b",
+   "wg2_cog",
+   "wg2_dirt",
+   "wg2_plank",
+   "wg2_plank_d"
+  ]
+ },
+ "E06_06_rusty_debris_06": {
+  "category": "v4_rusty",
+  "tris": 1240,
+  "size": [
+   9.0,
+   8.0,
+   3.52
+  ],
+  "materials": [
+   "wg2_bedroll",
+   "wg2_canvas",
+   "wg2_canvas_p",
+   "wg2_dirt",
+   "wg2_plank_d",
+   "wg2_rope",
+   "wg2_tarp_b"
+  ]
+ },
+ "E06_07_rusty_debris_07": {
+  "category": "v4_rusty",
+  "tris": 810,
+  "size": [
+   10.39,
+   10.44,
+   4.03
+  ],
+  "materials": [
+   "wg2_bedroll",
+   "wg2_canvas",
+   "wg2_canvas_p",
+   "wg2_dirt",
+   "wg2_plank_d",
+   "wg2_rope",
+   "wg2_tarp_b"
+  ]
+ },
+ "E06_08_rusty_debris_08": {
+  "category": "v4_rusty",
+  "tris": 1002,
+  "size": [
+   10.0,
+   8.36,
+   3.64
+  ],
+  "materials": [
+   "stone_dark",
+   "wg2_bedroll",
+   "wg2_dirt",
+   "wg2_ember",
+   "wg2_plank_d",
+   "wg2_pot",
+   "wg2_rope",
+   "wg2_tarp",
+   "wg2_tarp_b"
+  ]
+ },
+ "E06_09_rusty_debris_09": {
+  "category": "v4_rusty",
+  "tris": 1484,
+  "size": [
+   12.0,
+   6.0,
+   5.08
+  ],
+  "materials": [
+   "wg2_moss",
+   "wg2_sand",
+   "wg2_sand_d"
+  ]
+ },
+ "E06_10_rusty_debris_10": {
+  "category": "v4_rusty",
+  "tris": 1832,
+  "size": [
+   12.0,
+   6.0,
+   5.57
+  ],
+  "materials": [
+   "wg2_moss",
+   "wg2_sand",
+   "wg2_sand_d"
+  ]
+ },
+ "E06_11_rusty_debris_11": {
+  "category": "v4_rusty",
+  "tris": 1056,
+  "size": [
+   12.0,
+   6.0,
+   4.58
+  ],
+  "materials": [
+   "wg2_beam",
+   "wg2_dirt",
+   "wg2_plank_d",
+   "wg2_plaster"
+  ]
+ },
+ "E06_12_rusty_debris_12": {
+  "category": "v4_rusty",
+  "tris": 2684,
+  "size": [
+   9.0,
+   7.0,
+   6.01
+  ],
+  "materials": [
+   "wg2_ash",
+   "wg2_beam",
+   "wg2_brick",
+   "wg2_brick_d",
+   "wg2_dirt",
+   "wg2_ember",
+   "wg2_soot"
+  ]
+ },
+ "E12_01_shrine_ruin_01": {
+  "category": "v4_world",
+  "tris": 5912,
+  "size": [
+   16.8,
+   16.8,
+   6.17
+  ],
+  "materials": [
+   "wg2w_moss",
+   "wg_moss",
+   "wg_stone",
+   "wg_stone_d"
+  ]
+ },
+ "E12_02_shrine_ruin_02": {
+  "category": "v4_world",
+  "tris": 2972,
+  "size": [
+   16.0,
+   8.5,
+   11.18
+  ],
+  "materials": [
+   "wax",
+   "wg2w_flame",
+   "wg2w_moss",
+   "wg2w_offer",
+   "wg_dirt",
+   "wg_ivy",
+   "wg_moss",
+   "wg_stone",
+   "wg_stone_d"
+  ]
+ },
+ "E12_03_shrine_ruin_03": {
+  "category": "v4_world",
+  "tris": 3770,
+  "size": [
+   16.0,
+   8.95,
+   10.92
+  ],
+  "materials": [
+   "wg2w_moss",
+   "wg_marble",
+   "wg_marble_d",
+   "wg_moss",
+   "wg_stone",
+   "wg_stone_d"
+  ]
+ },
+ "E12_04_shrine_ruin_04": {
+  "category": "v4_world",
+  "tris": 3954,
+  "size": [
+   16.0,
+   8.7,
+   11.05
+  ],
+  "materials": [
+   "wg2w_bowl",
+   "wg2w_flame",
+   "wg2w_moss",
+   "wg_dirt",
+   "wg_ivy",
+   "wg_moss",
+   "wg_stone",
+   "wg_stone_d"
+  ]
+ }
+}

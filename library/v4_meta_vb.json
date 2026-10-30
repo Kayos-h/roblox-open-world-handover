@@ -1,0 +1,358 @@
+{
+ "WT02_01_wizard_tower_interior": {
+  "category": "v5_wizard",
+  "tris": 43788,
+  "size": [
+   100.23,
+   100.23,
+   287.51
+  ],
+  "materials": [
+   "vb_brass",
+   "vb_granite",
+   "vb_indigo",
+   "vb_limestone",
+   "vb_timber",
+   "vb_white"
+  ]
+ },
+ "WT05_01_wizard_round_map_table": {
+  "category": "v5_wizard",
+  "tris": 20314,
+  "size": [
+   47.6,
+   47.6,
+   11.42
+  ],
+  "materials": [
+   "vb_brass",
+   "vb_copper",
+   "vb_granite",
+   "vb_indigo",
+   "vb_limestone",
+   "vb_map0",
+   "vb_map1",
+   "vb_map2",
+   "vb_map3",
+   "vb_map4",
+   "vb_map5",
+   "vb_map6",
+   "vb_map7",
+   "vb_ochre",
+   "vb_ring",
+   "vb_timber",
+   "vb_white"
+  ]
+ },
+ "WT06_01_wizard_floor_medallion": {
+  "category": "v5_wizard",
+  "tris": 4844,
+  "size": [
+   80.0,
+   80.0,
+   1.0
+  ],
+  "materials": [
+   "vb_brass",
+   "vb_granite",
+   "vb_indigo",
+   "vb_limestone",
+   "vb_ochre",
+   "vb_timber",
+   "vb_white"
+  ]
+ },
+ "WT03_01_wizard_bookshelf_curved_01": {
+  "category": "v5_wizard",
+  "tris": 5352,
+  "size": [
+   25.66,
+   6.0,
+   28.0
+  ],
+  "materials": [
+   "vb_bk_brown",
+   "vb_bk_green",
+   "vb_bk_navy",
+   "vb_bk_red",
+   "vb_bk_slate",
+   "vb_brass",
+   "vb_f_frame",
+   "vb_f_peg",
+   "vb_f_plank_a",
+   "vb_f_plank_b",
+   "vb_granite",
+   "vb_limestone",
+   "vb_ochre",
+   "vb_timber"
+  ]
+ },
+ "WT03_02_wizard_bookshelf_curved_02": {
+  "category": "v5_wizard",
+  "tris": 5820,
+  "size": [
+   22.58,
+   6.0,
+   28.08
+  ],
+  "materials": [
+   "vb_bk_brown",
+   "vb_bk_green",
+   "vb_bk_navy",
+   "vb_bk_red",
+   "vb_bk_slate",
+   "vb_brass",
+   "vb_granite",
+   "vb_limestone",
+   "vb_ochre",
+   "vb_parchment",
+   "vb_timber"
+  ]
+ },
+ "WT03_03_wizard_bookshelf_curved_03": {
+  "category": "v5_wizard",
+  "tris": 4372,
+  "size": [
+   24.0,
+   6.0,
+   28.08
+  ],
+  "materials": [
+   "vb_bk_brown",
+   "vb_bk_green",
+   "vb_bk_navy",
+   "vb_bk_red",
+   "vb_bk_slate",
+   "vb_brass",
+   "vb_granite",
+   "vb_limestone",
+   "vb_ochre",
+   "vb_timber"
+  ]
+ },
+ "WT04_01_wizard_bookshelf_straight_01": {
+  "category": "v5_wizard",
+  "tris": 2196,
+  "size": [
+   14.7,
+   5.0,
+   26.04
+  ],
+  "materials": [
+   "vb_bk_brown",
+   "vb_bk_green",
+   "vb_bk_navy",
+   "vb_bk_red",
+   "vb_bk_slate",
+   "vb_granite",
+   "vb_limestone",
+   "vb_ochre",
+   "vb_timber"
+  ]
+ },
+ "WT04_02_wizard_bookshelf_straight_02": {
+  "category": "v5_wizard",
+  "tris": 3536,
+  "size": [
+   14.7,
+   5.0,
+   26.0
+  ],
+  "materials": [
+   "vb_bk_brown",
+   "vb_bk_green",
+   "vb_bk_navy",
+   "vb_bk_red",
+   "vb_bk_slate",
+   "vb_brass",
+   "vb_granite",
+   "vb_limestone",
+   "vb_ochre",
+   "vb_timber"
+  ]
+ },
+ "WT07_01_wizard_lab_set_01": {
+  "category": "v5_wizard",
+  "tris": 3192,
+  "size": [
+   17.6,
+   12.9,
+   14.05
+  ],
+  "materials": [
+   "vb_brass",
+   "vb_copper",
+   "vb_glass",
+   "vb_ochre",
+   "vb_parchment",
+   "vb_timber",
+   "vb_white"
+  ]
+ },
+ "WT07_02_wizard_lab_set_02": {
+  "category": "v5_wizard",
+  "tris": 2620,
+  "size": [
+   17.0,
+   12.17,
+   13.0
+  ],
+  "materials": [
+   "vb_brass",
+   "vb_copper",
+   "vb_glass",
+   "vb_ochre",
+   "vb_parchment",
+   "vb_timber",
+   "vb_white"
+  ]
+ },
+ "WT07_03_wizard_lab_set_03": {
+  "category": "v5_wizard",
+  "tris": 2564,
+  "size": [
+   16.0,
+   12.85,
+   13.0
+  ],
+  "materials": [
+   "vb_bk_red",
+   "vb_brass",
+   "vb_copper",
+   "vb_glass",
+   "vb_granite",
+   "vb_ochre",
+   "vb_timber",
+   "vb_white"
+  ]
+ },
+ "WT07_04_wizard_lab_set_04": {
+  "category": "v5_wizard",
+  "tris": 2212,
+  "size": [
+   18.58,
+   11.76,
+   15.42
+  ],
+  "materials": [
+   "vb_brass",
+   "vb_copper",
+   "vb_granite",
+   "vb_indigo",
+   "vb_ochre",
+   "vb_timber",
+   "vb_white"
+  ]
+ },
+ "WT08_01_wizard_study_set_01": {
+  "category": "v5_wizard",
+  "tris": 2180,
+  "size": [
+   17.5,
+   13.34,
+   12.44
+  ],
+  "materials": [
+   "vb_bk_brown",
+   "vb_bk_green",
+   "vb_bk_navy",
+   "vb_bk_red",
+   "vb_bk_slate",
+   "vb_brass",
+   "vb_granite",
+   "vb_indigo",
+   "vb_ochre",
+   "vb_parchment",
+   "vb_timber",
+   "vb_wax",
+   "vb_white"
+  ]
+ },
+ "WT08_02_wizard_study_set_02": {
+  "category": "v5_wizard",
+  "tris": 3692,
+  "size": [
+   18.0,
+   13.62,
+   12.2
+  ],
+  "materials": [
+   "vb_bk_navy",
+   "vb_brass",
+   "vb_f_drape",
+   "vb_f_drape_d",
+   "vb_f_pillow",
+   "vb_f_quilt",
+   "vb_f_quilt_d",
+   "vb_f_rug",
+   "vb_f_rug_trim",
+   "vb_f_sheet",
+   "vb_f_wood",
+   "vb_timber",
+   "vb_wax"
+  ]
+ },
+ "WT08_03_wizard_study_set_03": {
+  "category": "v5_wizard",
+  "tris": 1560,
+  "size": [
+   17.2,
+   14.95,
+   10.9
+  ],
+  "materials": [
+   "vb_brass",
+   "vb_copper",
+   "vb_granite",
+   "vb_indigo",
+   "vb_ochre",
+   "vb_parchment",
+   "vb_timber"
+  ]
+ },
+ "WT09_01_wizard_chandelier_ring_01": {
+  "category": "v5_wizard",
+  "tris": 1756,
+  "size": [
+   19.84,
+   19.84,
+   7.12
+  ],
+  "materials": [
+   "vb_brass",
+   "vb_glass",
+   "vb_timber",
+   "vb_wax"
+  ]
+ },
+ "WT09_02_wizard_chandelier_ring_02": {
+  "category": "v5_wizard",
+  "tris": 3176,
+  "size": [
+   20.04,
+   19.76,
+   7.92
+  ],
+  "materials": [
+   "vb_brass",
+   "vb_glass",
+   "vb_timber",
+   "vb_wax"
+  ]
+ },
+ "WT10_01_wizard_observatory_telescope": {
+  "category": "v5_wizard",
+  "tris": 996,
+  "size": [
+   13.0,
+   13.93,
+   26.79
+  ],
+  "materials": [
+   "vb_brass",
+   "vb_copper",
+   "vb_granite",
+   "vb_limestone"
+  ]
+ }
+}

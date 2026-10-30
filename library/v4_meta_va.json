@@ -1,0 +1,194 @@
+{
+ "WT01_01_wizard_tower_shell": {
+  "category": "v5_wizard",
+  "tris": 42636,
+  "size": [
+   119.2,
+   119.2,
+   300.09
+  ],
+  "materials": [
+   "va_brass",
+   "va_copper",
+   "va_granite",
+   "va_indigo",
+   "va_limestone",
+   "va_ochre",
+   "va_parchment",
+   "va_timber",
+   "va_white"
+  ]
+ },
+ "WT12_01_wizard_door_porch": {
+  "category": "v5_wizard",
+  "tris": 2488,
+  "size": [
+   40.8,
+   26.4,
+   39.0
+  ],
+  "materials": [
+   "va_brass",
+   "va_copper",
+   "va_doorl",
+   "va_doorr",
+   "va_granite",
+   "va_indigo",
+   "va_limestone",
+   "va_ochre",
+   "va_parchment",
+   "va_timber"
+  ],
+  "hinge_l": [
+   [
+    -5.5,
+    10.3,
+    7.9
+   ]
+  ],
+  "hinge_r": [
+   [
+    5.5,
+    10.3,
+    7.9
+   ]
+  ],
+  "door": [
+   [
+    0.0,
+    7.5,
+    1.7
+   ]
+  ]
+ },
+ "WT11_01_wizard_armillary_crown": {
+  "category": "v5_wizard",
+  "tris": 3188,
+  "size": [
+   70.5,
+   70.5,
+   49.99
+  ],
+  "materials": [
+   "va_brass",
+   "va_copper",
+   "va_white"
+  ]
+ },
+ "WT13_01_plateau_terrace_set_01": {
+  "category": "v5_wizard",
+  "tris": 2936,
+  "size": [
+   31.6,
+   30.0,
+   10.39
+  ],
+  "materials": [
+   "va_f_moss",
+   "va_f_stone_a",
+   "va_f_stone_d",
+   "va_f_stone_l",
+   "va_f_stone_m",
+   "va_f_throat",
+   "va_f_tread",
+   "va_f_trim"
+  ]
+ },
+ "WT13_02_plateau_terrace_set_02": {
+  "category": "v5_wizard",
+  "tris": 2656,
+  "size": [
+   30.0,
+   30.0,
+   10.45
+  ],
+  "materials": [
+   "va_f_joint",
+   "va_f_moss",
+   "va_f_stone_a",
+   "va_f_stone_d",
+   "va_f_stone_l",
+   "va_f_stone_m",
+   "va_f_tread",
+   "va_f_trim"
+  ]
+ },
+ "WT13_03_plateau_terrace_set_03": {
+  "category": "v5_wizard",
+  "tris": 5288,
+  "size": [
+   28.8,
+   30.9,
+   10.0
+  ],
+  "materials": [
+   "va_f_moss",
+   "va_f_stone_a",
+   "va_f_stone_d",
+   "va_f_stone_l",
+   "va_f_stone_m",
+   "va_f_tread",
+   "va_f_trim"
+  ]
+ },
+ "WT13_04_plateau_terrace_set_04": {
+  "category": "v5_wizard",
+  "tris": 3204,
+  "size": [
+   27.72,
+   27.72,
+   10.0
+  ],
+  "materials": [
+   "va_brass",
+   "va_copper",
+   "va_f_moss",
+   "va_f_stone_d",
+   "va_f_stone_l",
+   "va_f_stone_m",
+   "va_f_trim",
+   "va_f_wood",
+   "va_indigo",
+   "va_ochre",
+   "va_timber"
+  ]
+ },
+ "WT13_05_plateau_terrace_set_05": {
+  "category": "v5_wizard",
+  "tris": 2980,
+  "size": [
+   31.6,
+   32.55,
+   10.03
+  ],
+  "materials": [
+   "va_f_joint",
+   "va_f_moss",
+   "va_f_stone_a",
+   "va_f_stone_d",
+   "va_f_stone_l",
+   "va_f_stone_m",
+   "va_f_tread",
+   "va_f_trim"
+  ]
+ },
+ "WT13_06_plateau_terrace_set_06": {
+  "category": "v5_wizard",
+  "tris": 3696,
+  "size": [
+   29.2,
+   29.2,
+   9.95
+  ],
+  "materials": [
+   "va_f_bronze",
+   "va_f_joint",
+   "va_f_stone_a",
+   "va_f_stone_d",
+   "va_f_stone_l",
+   "va_f_stone_m",
+   "va_f_throat",
+   "va_f_trim"
+  ]
+ }
+}

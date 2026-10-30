@@ -1,0 +1,1 @@
+{"code":"local t=workspace:FindFirstChild('SpawnTown'); local n=0; if t then for _,d in ipairs(t:GetDescendants()) do if d:IsA('BasePart') then n+=1 end end end; return 'place='..game.Name..' id='..game.PlaceId..' SpawnTown='..tostring(t~=nil)..' parts='..n..' running='..tostring(game:GetService('RunService'):IsRunning())"}

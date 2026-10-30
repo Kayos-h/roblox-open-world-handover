@@ -1,0 +1,643 @@
+{
+ "EV01_01_elf_house_new_01": {
+  "category": "v5_elf",
+  "tris": 4204,
+  "size": [
+   26.0,
+   26.0,
+   30.0
+  ],
+  "materials": [
+   "ve_bark",
+   "ve_dark",
+   "ve_lantern",
+   "ve_leaf2",
+   "ve_moss",
+   "ve_plank",
+   "ve_shingle",
+   "ve_stone",
+   "ve_wood"
+  ]
+ },
+ "EV01_03_elf_house_new_03": {
+  "category": "v5_elf",
+  "tris": 2460,
+  "size": [
+   26.0,
+   26.0,
+   30.0
+  ],
+  "materials": [
+   "ve_bark",
+   "ve_cloth",
+   "ve_cream",
+   "ve_dark",
+   "ve_lantern",
+   "ve_leaf2",
+   "ve_moss",
+   "ve_plank",
+   "ve_shingle",
+   "ve_shroom",
+   "ve_stone",
+   "ve_wood"
+  ]
+ },
+ "EV01_04_elf_house_new_04": {
+  "category": "v5_elf",
+  "tris": 2264,
+  "size": [
+   26.0,
+   26.0,
+   30.0
+  ],
+  "materials": [
+   "ve_bark",
+   "ve_cream",
+   "ve_dark",
+   "ve_lantern",
+   "ve_leaf1",
+   "ve_leaf2",
+   "ve_moss",
+   "ve_plank",
+   "ve_shingle",
+   "ve_shroom",
+   "ve_wood"
+  ]
+ },
+ "EV01_05_elf_house_new_05": {
+  "category": "v5_elf",
+  "tris": 1552,
+  "size": [
+   26.0,
+   26.0,
+   30.0
+  ],
+  "materials": [
+   "ve_bark",
+   "ve_dark",
+   "ve_lantern",
+   "ve_leaf2",
+   "ve_moss",
+   "ve_plank",
+   "ve_shingle",
+   "ve_wood"
+  ]
+ },
+ "EV01_07_elf_house_new_07": {
+  "category": "v5_elf",
+  "tris": 2324,
+  "size": [
+   26.32,
+   26.0,
+   30.0
+  ],
+  "materials": [
+   "ve_bark",
+   "ve_dark",
+   "ve_lantern",
+   "ve_leaf2",
+   "ve_moss",
+   "ve_plank",
+   "ve_red",
+   "ve_shingle",
+   "ve_stone",
+   "ve_wood"
+  ]
+ },
+ "EV02_01_canopy_cluster_01": {
+  "category": "v5_elf",
+  "tris": 9920,
+  "size": [
+   70.0,
+   70.0,
+   40.0
+  ],
+  "materials": [
+   "ve_bark",
+   "ve_dark",
+   "ve_lantern",
+   "ve_leaf2",
+   "ve_moss",
+   "ve_plank",
+   "ve_rope",
+   "ve_shingle",
+   "ve_wood"
+  ],
+  "ladder_bottom": [
+   [
+    -34.68,
+    8.54,
+    0.77
+   ]
+  ],
+  "ladder_top": [
+   [
+    -34.68,
+    8.54,
+    10.66
+   ]
+  ]
+ },
+ "EV02_02_canopy_cluster_02": {
+  "category": "v5_elf",
+  "tris": 12096,
+  "size": [
+   70.0,
+   63.4,
+   43.62
+  ],
+  "materials": [
+   "ve_bark",
+   "ve_dark",
+   "ve_lantern",
+   "ve_leaf2",
+   "ve_moss",
+   "ve_plank",
+   "ve_red",
+   "ve_rope",
+   "ve_wood"
+  ],
+  "ladder_bottom": [
+   [
+    -32.61,
+    1.22,
+    0.85
+   ]
+  ],
+  "ladder_top": [
+   [
+    -32.61,
+    1.22,
+    11.82
+   ]
+  ]
+ },
+ "EV02_03_canopy_cluster_03": {
+  "category": "v5_elf",
+  "tris": 4596,
+  "size": [
+   65.0,
+   70.0,
+   40.0
+  ],
+  "materials": [
+   "ve_bark",
+   "ve_dark",
+   "ve_lantern",
+   "ve_leaf2",
+   "ve_moss",
+   "ve_plank",
+   "ve_shingle",
+   "ve_wood"
+  ],
+  "ladder_bottom": [
+   [
+    -17.81,
+    -32.56,
+    0.74
+   ]
+  ],
+  "ladder_top": [
+   [
+    -17.81,
+    -32.56,
+    15.81
+   ]
+  ]
+ },
+ "RW02_01_rework_world_tree_roots": {
+  "category": "v5_elf",
+  "tris": 16492,
+  "size": [
+   198.0,
+   187.0,
+   32.0
+  ],
+  "materials": [
+   "ve_bark",
+   "ve_cream",
+   "ve_f_barkdk",
+   "ve_f_barkmid",
+   "ve_moss",
+   "ve_shroom",
+   "ve_wood"
+  ]
+ },
+ "EV03_01_elf_path_piece_01": {
+  "category": "v5_elf",
+  "tris": 1132,
+  "size": [
+   19.8,
+   20.0,
+   6.53
+  ],
+  "materials": [
+   "ve_f_barkdk",
+   "ve_f_barkmid",
+   "ve_f_moss",
+   "ve_plank",
+   "ve_stone"
+  ]
+ },
+ "EV03_02_elf_path_piece_02": {
+  "category": "v5_elf",
+  "tris": 1052,
+  "size": [
+   20.0,
+   18.5,
+   6.45
+  ],
+  "materials": [
+   "ve_bark",
+   "ve_lantern",
+   "ve_moss",
+   "ve_stone",
+   "ve_wood"
+  ]
+ },
+ "EV03_03_elf_path_piece_03": {
+  "category": "v5_elf",
+  "tris": 1668,
+  "size": [
+   20.0,
+   20.0,
+   5.62
+  ],
+  "materials": [
+   "ve_f_barkdk",
+   "ve_f_deckwood",
+   "ve_f_niche",
+   "ve_leaf1",
+   "ve_leaf2",
+   "ve_moss",
+   "ve_plank",
+   "ve_stone",
+   "ve_wood"
+  ]
+ },
+ "EV03_04_elf_path_piece_04": {
+  "category": "v5_elf",
+  "tris": 1312,
+  "size": [
+   20.0,
+   20.0,
+   6.26
+  ],
+  "materials": [
+   "ve_f_barkdk",
+   "ve_f_barkmid",
+   "ve_f_deckwood",
+   "ve_moss"
+  ]
+ },
+ "EV03_05_elf_path_piece_05": {
+  "category": "v5_elf",
+  "tris": 488,
+  "size": [
+   20.0,
+   20.14,
+   6.0
+  ],
+  "materials": [
+   "ve_bark",
+   "ve_f_barkdk",
+   "ve_f_barkmid",
+   "ve_moss",
+   "ve_stone"
+  ]
+ },
+ "EV03_06_elf_path_piece_06": {
+  "category": "v5_elf",
+  "tris": 1626,
+  "size": [
+   19.6,
+   19.6,
+   6.0
+  ],
+  "materials": [
+   "ve_cream",
+   "ve_f_cloth_r",
+   "ve_leaf1",
+   "ve_leaf2",
+   "ve_moss",
+   "ve_stone",
+   "ve_wood"
+  ]
+ },
+ "LM01_01_world_tree_trunk_door": {
+  "category": "v5_elf",
+  "tris": 2404,
+  "size": [
+   36.0,
+   36.0,
+   50.0
+  ],
+  "materials": [
+   "ve_bark",
+   "ve_f_barkdk",
+   "ve_f_barkmid",
+   "ve_f_niche",
+   "ve_moss",
+   "ve_plank",
+   "ve_stone"
+  ]
+ },
+ "LM02_01_world_tree_falls": {
+  "category": "v5_elf",
+  "tris": 5228,
+  "size": [
+   80.0,
+   40.0,
+   110.0
+  ],
+  "materials": [
+   "ve_f_barkdk",
+   "ve_f_barkmid",
+   "ve_f_foam",
+   "ve_f_moss",
+   "ve_f_rock_a",
+   "ve_f_rock_b",
+   "ve_f_rock_base",
+   "ve_f_rock_c",
+   "ve_f_water",
+   "ve_f_water_dp",
+   "ve_leaf1",
+   "ve_leaf2",
+   "ve_moss"
+  ]
+ },
+ "TW01_01_town1_hero_statue": {
+  "category": "v5_town1",
+  "tris": 2030,
+  "size": [
+   14.0,
+   14.0,
+   37.85
+  ],
+  "materials": [
+   "ve_t1_bone",
+   "ve_t1_brass",
+   "ve_t1_dark",
+   "ve_t1_dstone",
+   "ve_t1_stone",
+   "ve_t1_wood"
+  ]
+ },
+ "TW02_01_street_life_01": {
+  "category": "v5_town1",
+  "tris": 864,
+  "size": [
+   12.0,
+   10.2,
+   10.0
+  ],
+  "materials": [
+   "ve_f_sack",
+   "ve_t1_iron",
+   "ve_t1_plank",
+   "ve_t1_wood"
+  ]
+ },
+ "TW02_02_street_life_02": {
+  "category": "v5_town1",
+  "tris": 628,
+  "size": [
+   12.0,
+   10.0,
+   10.0
+  ],
+  "materials": [
+   "ve_t1_cream",
+   "ve_t1_iron",
+   "ve_t1_plank",
+   "ve_t1_wood"
+  ]
+ },
+ "TW02_03_street_life_03": {
+  "category": "v5_town1",
+  "tris": 948,
+  "size": [
+   12.48,
+   9.01,
+   10.0
+  ],
+  "materials": [
+   "ve_f_sack",
+   "ve_t1_cloth",
+   "ve_t1_cream",
+   "ve_t1_green",
+   "ve_t1_iron",
+   "ve_t1_plank",
+   "ve_t1_wood"
+  ]
+ },
+ "TW02_04_street_life_04": {
+  "category": "v5_town1",
+  "tris": 674,
+  "size": [
+   12.0,
+   10.0,
+   10.0
+  ],
+  "materials": [
+   "ve_t1_cream",
+   "ve_t1_plank",
+   "ve_t1_wood"
+  ]
+ },
+ "TW02_05_street_life_05": {
+  "category": "v5_town1",
+  "tris": 1944,
+  "size": [
+   12.0,
+   10.0,
+   10.0
+  ],
+  "materials": [
+   "ve_t1_iron",
+   "ve_t1_plank",
+   "ve_t1_wood"
+  ]
+ },
+ "TW02_06_street_life_06": {
+  "category": "v5_town1",
+  "tris": 620,
+  "size": [
+   12.0,
+   10.0,
+   10.0
+  ],
+  "materials": [
+   "ve_t1_dark",
+   "ve_t1_dstone",
+   "ve_t1_iron",
+   "ve_t1_plank",
+   "ve_t1_rope",
+   "ve_t1_stone",
+   "ve_t1_wood"
+  ]
+ },
+ "TW02_07_street_life_07": {
+  "category": "v5_town1",
+  "tris": 368,
+  "size": [
+   12.0,
+   10.0,
+   10.2
+  ],
+  "materials": [
+   "ve_f_iron_m",
+   "ve_t1_cream",
+   "ve_t1_dstone",
+   "ve_t1_iron",
+   "ve_t1_plank",
+   "ve_t1_stone",
+   "ve_t1_wood"
+  ]
+ },
+ "TW02_08_street_life_08": {
+  "category": "v5_town1",
+  "tris": 212,
+  "size": [
+   12.0,
+   10.0,
+   10.0
+  ],
+  "materials": [
+   "ve_t1_dstone",
+   "ve_t1_iron",
+   "ve_t1_plank",
+   "ve_t1_stone"
+  ]
+ },
+ "TW03_01_skull_avenue_set_01": {
+  "category": "v5_town1",
+  "tris": 736,
+  "size": [
+   14.0,
+   14.0,
+   14.0
+  ],
+  "materials": [
+   "ve_f_coal2",
+   "ve_f_iron_m",
+   "ve_t1_bone",
+   "ve_t1_dstone"
+  ]
+ },
+ "TW03_02_skull_avenue_set_02": {
+  "category": "v5_town1",
+  "tris": 684,
+  "size": [
+   14.0,
+   14.0,
+   14.0
+  ],
+  "materials": [
+   "ve_f_ash",
+   "ve_f_bronze",
+   "ve_f_coal2",
+   "ve_f_iron_m",
+   "ve_t1_dstone",
+   "ve_t1_stone"
+  ]
+ },
+ "TW03_03_skull_avenue_set_03": {
+  "category": "v5_town1",
+  "tris": 332,
+  "size": [
+   14.0,
+   14.0,
+   14.0
+  ],
+  "materials": [
+   "ve_t1_bone",
+   "ve_t1_brass",
+   "ve_t1_cloth",
+   "ve_t1_dstone",
+   "ve_t1_iron",
+   "ve_t1_rope",
+   "ve_t1_wood"
+  ]
+ },
+ "TW03_04_skull_avenue_set_04": {
+  "category": "v5_town1",
+  "tris": 364,
+  "size": [
+   14.0,
+   14.0,
+   14.0
+  ],
+  "materials": [
+   "ve_t1_bone",
+   "ve_t1_dark",
+   "ve_t1_dstone",
+   "ve_t1_green",
+   "ve_t1_iron",
+   "ve_t1_wood"
+  ]
+ },
+ "EV01_02_elf_house_new_02": {
+  "category": "v5_elf",
+  "tris": 1648,
+  "size": [
+   27.67,
+   26.0,
+   30.0
+  ],
+  "materials": [
+   "ve_dark",
+   "ve_lantern",
+   "ve_moss",
+   "ve_plank",
+   "ve_shingle",
+   "ve_stone",
+   "ve_wood"
+  ]
+ },
+ "EV01_06_elf_house_new_06": {
+  "category": "v5_elf",
+  "tris": 976,
+  "size": [
+   26.0,
+   26.0,
+   30.0
+  ],
+  "materials": [
+   "ve_cloth",
+   "ve_dark",
+   "ve_foam",
+   "ve_lantern",
+   "ve_moss",
+   "ve_plank",
+   "ve_shingle",
+   "ve_stone",
+   "ve_water",
+   "ve_wood"
+  ]
+ },
+ "EV01_08_elf_house_new_08": {
+  "category": "v5_elf",
+  "tris": 1452,
+  "size": [
+   26.0,
+   26.0,
+   30.0
+  ],
+  "materials": [
+   "ve_bark",
+   "ve_cloth",
+   "ve_cream",
+   "ve_dark",
+   "ve_lantern",
+   "ve_leaf1",
+   "ve_moss",
+   "ve_plank",
+   "ve_red",
+   "ve_shingle",
+   "ve_shroom",
+   "ve_stone",
+   "ve_wood"
+  ]
+ }
+}
