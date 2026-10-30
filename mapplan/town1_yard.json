@@ -1,0 +1,131 @@
+﻿{
+    "terrain":  [
+
+                ],
+    "placements":  [
+                       {
+                           "model":  "A95_flag_pole",
+                           "x":  180,
+                           "z":  -320,
+                           "rot":  0,
+                           "group":  "TrainingYard"
+                       },
+                       {
+                           "model":  "A95_flag_pole",
+                           "x":  260,
+                           "z":  -320,
+                           "rot":  0,
+                           "group":  "TrainingYard"
+                       },
+                       {
+                           "model":  "A21_brazier",
+                           "x":  174,
+                           "z":  -318,
+                           "rot":  0,
+                           "group":  "TrainingYard"
+                       },
+                       {
+                           "model":  "A21_brazier",
+                           "x":  174,
+                           "z":  -262,
+                           "rot":  0,
+                           "group":  "TrainingYard"
+                       },
+                       {
+                           "model":  "A21_brazier",
+                           "x":  266,
+                           "z":  -318,
+                           "rot":  0,
+                           "group":  "TrainingYard"
+                       },
+                       {
+                           "model":  "A21_brazier",
+                           "x":  266,
+                           "z":  -262,
+                           "rot":  0,
+                           "group":  "TrainingYard"
+                       },
+                       {
+                           "model":  "A93_notice_board",
+                           "x":  220,
+                           "z":  -321,
+                           "rot":  0,
+                           "group":  "TrainingYard"
+                       },
+                       {
+                           "model":  "A78_hay_bale",
+                           "x":  176,
+                           "z":  -302,
+                           "rot":  0,
+                           "group":  "TrainingYard"
+                       },
+                       {
+                           "model":  "A78_hay_bale",
+                           "x":  176,
+                           "z":  -295,
+                           "rot":  15,
+                           "group":  "TrainingYard"
+                       },
+                       {
+                           "model":  "A78_hay_bale",
+                           "x":  176,
+                           "z":  -288,
+                           "rot":  30,
+                           "group":  "TrainingYard"
+                       },
+                       {
+                           "model":  "A78_hay_bale",
+                           "x":  176,
+                           "z":  -281,
+                           "rot":  45,
+                           "group":  "TrainingYard"
+                       },
+                       {
+                           "model":  "A74_crate_large",
+                           "x":  264,
+                           "z":  -300,
+                           "rot":  0,
+                           "group":  "TrainingYard"
+                       },
+                       {
+                           "model":  "A74_crate_large",
+                           "x":  264,
+                           "z":  -294,
+                           "rot":  10,
+                           "group":  "TrainingYard",
+                           "skip":  true
+                       },
+                       {
+                           "model":  "A74_crate_large",
+                           "x":  264,
+                           "z":  -288,
+                           "rot":  20,
+                           "group":  "TrainingYard",
+                           "skip":  true
+                       },
+                       {
+                           "model":  "A73_crate_small",
+                           "x":  264,
+                           "z":  -280,
+                           "rot":  30,
+                           "group":  "TrainingYard",
+                           "skip":  true
+                       },
+                       {
+                           "model":  "A99_anvil",
+                           "x":  258,
+                           "z":  -266,
+                           "rot":  200,
+                           "group":  "TrainingYard"
+                       },
+                       {
+                           "model":  "A79_hand_cart",
+                           "x":  184,
+                           "z":  -264,
+                           "rot":  80,
+                           "group":  "TrainingYard",
+                           "skip":  true
+                       }
+                   ],
+    "area":  "town1_yard"
+}

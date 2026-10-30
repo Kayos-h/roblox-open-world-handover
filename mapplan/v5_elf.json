@@ -1,0 +1,19 @@
+{"area":"v5_elf","note":"Second house ring, canopy villages around the world tree, path pieces, moss and tree-side details. No glow. Groups: ElfHouses, ElfCanopy, ElfPaths.","placements":[
+{"model":"EV01_01_elf_house_new_01","x":-1313.3,"z":-320.2,"rot":246.0,"group":"ElfHouses","note":"clear plants inside the footprint first","cr":17},
+{"model":"EV01_02_elf_house_new_02","x":-1391.4,"z":-189.2,"rot":215.0,"group":"ElfHouses","note":"clear plants inside the footprint first","cr":17},
+{"model":"EV01_03_elf_house_new_03","x":-1615.2,"z":-116.8,"rot":170.0,"group":"ElfHouses","note":"clear plants inside the footprint first","cr":17},
+{"model":"EV01_04_elf_house_new_04","x":-1798.4,"z":-303.2,"rot":118.0,"group":"ElfHouses","note":"clear plants inside the footprint first","cr":17},
+{"model":"EV01_05_elf_house_new_05","x":-1841.2,"z":-516.0,"rot":73.0,"group":"ElfHouses","note":"clear plants inside the footprint first","cr":17},
+{"model":"EV01_06_elf_house_new_06","x":-1521.2,"z":-745.6,"rot":353.0,"group":"ElfHouses","note":"clear plants inside the footprint first","cr":17},
+{"model":"EV01_07_elf_house_new_07","x":-1347.2,"z":-596.2,"rot":308.0,"group":"ElfHouses","note":"clear plants inside the footprint first","cr":17},
+{"model":"EV01_08_elf_house_new_08","x":-1300.4,"z":-568.0,"rot":298.0,"group":"ElfHouses","note":"clear plants inside the footprint first","cr":17},
+{"model":"EV02_01_canopy_cluster_01","x":-1486.7,"z":-403.3,"rot":250.0,"group":"ElfCanopy","y_offset":100.0,"note":"canopy village, ladders to the ground"},
+{"model":"EV02_02_canopy_cluster_02","x":-1619.8,"z":-379.9,"rot":130.0,"group":"ElfCanopy","y_offset":120.0,"note":"canopy village, ladders to the ground"},
+{"model":"EV02_03_canopy_cluster_03","x":-1573.5,"z":-506.8,"rot":10.0,"group":"ElfCanopy","y_offset":140.0,"note":"canopy village, ladders to the ground"},
+{"model":"EV03_01_elf_path_piece_01","x":-1500.0,"z":-430.0,"rot":90.0,"group":"ElfPaths","cr":14},
+{"model":"EV03_02_elf_path_piece_02","x":-1462.0,"z":-482.0,"rot":90.0,"group":"ElfPaths","cr":14},
+{"model":"EV03_03_elf_path_piece_03","x":-1722.7,"z":-551.5,"rot":60.0,"group":"ElfPaths","cr":14},
+{"model":"EV03_04_elf_path_piece_04","x":-1520.0,"z":-560.0,"rot":0.0,"group":"ElfPaths","cr":14},
+{"model":"EV03_05_elf_path_piece_05","x":-1470.0,"z":-520.0,"rot":0.0,"group":"ElfPaths","cr":14},
+{"model":"EV03_06_elf_path_piece_06","x":-1538.5,"z":-609.4,"rot":0.0,"group":"ElfPaths","cr":14}
+]}

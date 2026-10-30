@@ -1,0 +1,1 @@
+﻿{"message":"Playtest stop signal sent.","outputCount":1,"success":true,"output":[{"message":"ContentId: rbxassetid://203785492 failed due to: Asset type does not match requested type","timestamp":1793227250.0012436,"messageType":"MessageWarning"}]}

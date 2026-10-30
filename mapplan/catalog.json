@@ -1,0 +1,5873 @@
+﻿[
+    {
+        "id":  "E01_chalet_1",
+        "folder":  "alpine",
+        "size_x":  24.43,
+        "height":  25.23,
+        "size_z":  19.55,
+        "pieces":  [
+                       "bark",
+                       "brass",
+                       "dirt",
+                       "fl_pink",
+                       "fl_red",
+                       "glass",
+                       "glass_dark",
+                       "glass_lit",
+                       "hole",
+                       "iron",
+                       "leaf",
+                       "leaf_dark",
+                       "roof_old",
+                       "roof_old_b",
+                       "shutter_g",
+                       "snow",
+                       "stone",
+                       "stone_dark",
+                       "stone_light",
+                       "terracotta",
+                       "timber",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "E02_chalet_2",
+        "folder":  "alpine",
+        "size_x":  20.48,
+        "height":  31.6,
+        "size_z":  18.2,
+        "pieces":  [
+                       "bark",
+                       "brass",
+                       "dirt",
+                       "fl_purple",
+                       "fl_white",
+                       "glass",
+                       "glass_dark",
+                       "glass_lit",
+                       "hole",
+                       "iron",
+                       "leaf",
+                       "leaf_dark",
+                       "roof_old",
+                       "roof_old_b",
+                       "shutter_b",
+                       "snow",
+                       "stone",
+                       "stone_dark",
+                       "stone_light",
+                       "terracotta",
+                       "timber",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "E03_chalet_3",
+        "folder":  "alpine",
+        "size_x":  28.39,
+        "height":  25.76,
+        "size_z":  20.55,
+        "pieces":  [
+                       "bark",
+                       "brass",
+                       "dirt",
+                       "fl_red",
+                       "fl_yellow",
+                       "glass",
+                       "glass_dark",
+                       "glass_lit",
+                       "hole",
+                       "iron",
+                       "leaf",
+                       "leaf_dark",
+                       "roof_old",
+                       "roof_old_b",
+                       "shutter_r",
+                       "snow",
+                       "stone",
+                       "stone_dark",
+                       "stone_light",
+                       "terracotta",
+                       "timber",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "E04_chalet_4",
+        "folder":  "alpine",
+        "size_x":  18.54,
+        "height":  21.71,
+        "size_z":  16.2,
+        "pieces":  [
+                       "bark",
+                       "brass",
+                       "dirt",
+                       "fl_pink",
+                       "fl_white",
+                       "glass",
+                       "glass_dark",
+                       "glass_lit",
+                       "hole",
+                       "iron",
+                       "leaf",
+                       "leaf_dark",
+                       "roof_old",
+                       "roof_old_b",
+                       "shutter_g",
+                       "snow",
+                       "stone",
+                       "stone_dark",
+                       "stone_light",
+                       "terracotta",
+                       "timber",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "E05_lodge",
+        "folder":  "alpine",
+        "size_x":  32.41,
+        "height":  34.55,
+        "size_z":  24.11,
+        "pieces":  [
+                       "bark",
+                       "brass",
+                       "dirt",
+                       "fl_pink",
+                       "fl_red",
+                       "fl_white",
+                       "glass",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "hole",
+                       "iron",
+                       "leaf",
+                       "leaf_dark",
+                       "roof_old",
+                       "roof_old_b",
+                       "shutter_r",
+                       "snow",
+                       "stone",
+                       "stone_dark",
+                       "stone_light",
+                       "terracotta",
+                       "timber",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "E06_stone_chapel",
+        "folder":  "alpine",
+        "size_x":  15.39,
+        "height":  31.62,
+        "size_z":  27.15,
+        "pieces":  [
+                       "brass",
+                       "glass",
+                       "glass_dark",
+                       "gold",
+                       "hole",
+                       "iron",
+                       "iron_dark",
+                       "marble",
+                       "patina",
+                       "plaster",
+                       "roof_old",
+                       "roof_old_b",
+                       "snow",
+                       "stained_b",
+                       "stained_y",
+                       "stone",
+                       "stone_light",
+                       "timber",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "E07_sawmill",
+        "folder":  "alpine",
+        "size_x":  45.8,
+        "height":  23.71,
+        "size_z":  21.8,
+        "pieces":  [
+                       "bark",
+                       "brass",
+                       "dirt",
+                       "fl_red",
+                       "glass",
+                       "glass_dark",
+                       "glass_lit",
+                       "hole",
+                       "iron",
+                       "iron_dark",
+                       "leaf",
+                       "leaf_dark",
+                       "roof_old",
+                       "roof_old_b",
+                       "shutter_g",
+                       "snow",
+                       "steel",
+                       "stone",
+                       "stone_dark",
+                       "stone_light",
+                       "terracotta",
+                       "timber",
+                       "water",
+                       "water_fx",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "E08_barn",
+        "folder":  "alpine",
+        "size_x":  40.0,
+        "height":  22.87,
+        "size_z":  20.48,
+        "pieces":  [
+                       "dirt",
+                       "glass",
+                       "glass_dark",
+                       "roof_old",
+                       "roof_old_b",
+                       "snow",
+                       "stone",
+                       "stone_dark",
+                       "stone_light",
+                       "thatch",
+                       "timber",
+                       "wood",
+                       "wood_dark",
+                       "wood_rot"
+                   ]
+    },
+    {
+        "id":  "E09_goat_pen",
+        "folder":  "alpine",
+        "size_x":  22.58,
+        "height":  8.67,
+        "size_z":  18.02,
+        "pieces":  [
+                       "roof_old",
+                       "snow",
+                       "thatch",
+                       "water",
+                       "wood",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "E10_watchtower",
+        "folder":  "alpine",
+        "size_x":  10.18,
+        "height":  30.62,
+        "size_z":  10.78,
+        "pieces":  [
+                       "bark",
+                       "glass",
+                       "glass_lit",
+                       "iron",
+                       "roof_old",
+                       "snow",
+                       "stone",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "E11_covered_bridge",
+        "folder":  "alpine",
+        "size_x":  40.0,
+        "height":  18.35,
+        "size_z":  12.26,
+        "pieces":  [
+                       "glass",
+                       "roof_old",
+                       "roof_old_b",
+                       "snow",
+                       "stone",
+                       "timber",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "E12_snowy_pine_1",
+        "folder":  "alpine",
+        "size_x":  21.81,
+        "height":  40.01,
+        "size_z":  22.54,
+        "pieces":  [
+                       "bark",
+                       "pine",
+                       "pine_dark",
+                       "snow"
+                   ]
+    },
+    {
+        "id":  "E13_snowy_pine_2",
+        "folder":  "alpine",
+        "size_x":  21.44,
+        "height":  29.39,
+        "size_z":  21.85,
+        "pieces":  [
+                       "bark",
+                       "pine",
+                       "pine_dark",
+                       "snow"
+                   ]
+    },
+    {
+        "id":  "E14_snowy_pine_3",
+        "folder":  "alpine",
+        "size_x":  12.23,
+        "height":  15.81,
+        "size_z":  12.1,
+        "pieces":  [
+                       "bark",
+                       "pine_light",
+                       "snow"
+                   ]
+    },
+    {
+        "id":  "E15_snowy_rock_1",
+        "folder":  "alpine",
+        "size_x":  10.8,
+        "height":  4.99,
+        "size_z":  7.94,
+        "pieces":  [
+                       "cliff_a",
+                       "cliff_b",
+                       "snow"
+                   ]
+    },
+    {
+        "id":  "E16_snowy_rock_2",
+        "folder":  "alpine",
+        "size_x":  8.98,
+        "height":  12.1,
+        "size_z":  7.08,
+        "pieces":  [
+                       "cliff_a",
+                       "cliff_b",
+                       "snow"
+                   ]
+    },
+    {
+        "id":  "E17_snowy_bush",
+        "folder":  "alpine",
+        "size_x":  8.0,
+        "height":  4.36,
+        "size_z":  7.98,
+        "pieces":  [
+                       "leaf_dark",
+                       "pine",
+                       "pine_dark",
+                       "snow"
+                   ]
+    },
+    {
+        "id":  "E18_edelweiss",
+        "folder":  "alpine",
+        "size_x":  1.24,
+        "height":  1.36,
+        "size_z":  1.08,
+        "pieces":  [
+                       "birch_leaf",
+                       "fl_white",
+                       "fl_yellow",
+                       "leaf_light"
+                   ]
+    },
+    {
+        "id":  "E19_gentian",
+        "folder":  "alpine",
+        "size_x":  1.29,
+        "height":  1.18,
+        "size_z":  1.21,
+        "pieces":  [
+                       "fl_blue",
+                       "leaf"
+                   ]
+    },
+    {
+        "id":  "E20_terrace_wall",
+        "folder":  "alpine",
+        "size_x":  21.28,
+        "height":  5.84,
+        "size_z":  3.54,
+        "pieces":  [
+                       "cliff_a",
+                       "grass_dry",
+                       "snow",
+                       "stone",
+                       "stone_dark",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "E21_log_fence",
+        "folder":  "alpine",
+        "size_x":  21.08,
+        "height":  4.42,
+        "size_z":  4.06,
+        "pieces":  [
+                       "bark",
+                       "snow",
+                       "wood"
+                   ]
+    },
+    {
+        "id":  "E22_sled",
+        "folder":  "alpine",
+        "size_x":  8.63,
+        "height":  1.75,
+        "size_z":  2.6,
+        "pieces":  [
+                       "iron",
+                       "rope",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "E23_cheese_cart",
+        "folder":  "alpine",
+        "size_x":  9.62,
+        "height":  5.18,
+        "size_z":  4.36,
+        "pieces":  [
+                       "fabric_red",
+                       "fl_yellow",
+                       "iron",
+                       "steel",
+                       "wood",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "E24_beehive",
+        "folder":  "alpine",
+        "size_x":  8.8,
+        "height":  7.91,
+        "size_z":  4.31,
+        "pieces":  [
+                       "hole",
+                       "roof_old",
+                       "snow",
+                       "thatch",
+                       "wicker",
+                       "wood",
+                       "wood_dark",
+                       "wood_light",
+                       "wood_paint"
+                   ]
+    },
+    {
+        "id":  "E25_snow_drift",
+        "folder":  "alpine",
+        "size_x":  16.1,
+        "height":  4.01,
+        "size_z":  7.89,
+        "pieces":  [
+                       "snow"
+                   ]
+    },
+    {
+        "id":  "E26_icicle_cluster",
+        "folder":  "alpine",
+        "size_x":  8.0,
+        "height":  2.83,
+        "size_z":  1.2,
+        "pieces":  [
+                       "glass",
+                       "snow"
+                   ]
+    },
+    {
+        "id":  "H01_roadside_shrine",
+        "folder":  "between",
+        "size_x":  6.6,
+        "height":  8.5,
+        "size_z":  5.68,
+        "pieces":  [
+                       "bronze",
+                       "fl_purple",
+                       "fl_red",
+                       "fl_white",
+                       "fl_yellow",
+                       "flame",
+                       "fruit",
+                       "glass_lit",
+                       "glow_gold",
+                       "gold",
+                       "hole",
+                       "iron",
+                       "leaf",
+                       "moss",
+                       "stone",
+                       "stone_dark",
+                       "stone_light",
+                       "tile_red_a",
+                       "tile_red_b",
+                       "timber",
+                       "wax"
+                   ]
+    },
+    {
+        "id":  "H02_abandoned_watchtower",
+        "folder":  "between",
+        "size_x":  9.84,
+        "height":  25.68,
+        "size_z":  11.62,
+        "pieces":  [
+                       "grass_dry",
+                       "ivy",
+                       "leaf",
+                       "leaf_dark",
+                       "roof_old",
+                       "roof_old_b",
+                       "wood_grey",
+                       "wood_old"
+                   ]
+    },
+    {
+        "id":  "H03_ruins_1",
+        "folder":  "between",
+        "size_x":  29.5,
+        "height":  15.38,
+        "size_z":  7.87,
+        "pieces":  [
+                       "grass_dry",
+                       "ivy",
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light",
+                       "moss",
+                       "stone",
+                       "stone_dark",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "H04_ruins_2",
+        "folder":  "between",
+        "size_x":  22.15,
+        "height":  12.46,
+        "size_z":  25.52,
+        "pieces":  [
+                       "cob_c",
+                       "fl_blue",
+                       "fl_purple",
+                       "fl_white",
+                       "fl_yellow",
+                       "leaf",
+                       "moss",
+                       "stone",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "H05_traveller_campsite",
+        "folder":  "between",
+        "size_x":  18.57,
+        "height":  4.81,
+        "size_z":  10.99,
+        "pieces":  [
+                       "bark",
+                       "canvas",
+                       "canvas_b",
+                       "fabric_green",
+                       "fabric_red",
+                       "flame",
+                       "flame_core",
+                       "glass_lit",
+                       "grass_dry",
+                       "grout",
+                       "hole",
+                       "iron",
+                       "leaf",
+                       "rope",
+                       "rope_dark",
+                       "stone",
+                       "stone_dark",
+                       "wood",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "H06_wagon_wreck",
+        "folder":  "between",
+        "size_x":  19.08,
+        "height":  5.78,
+        "size_z":  12.88,
+        "pieces":  [
+                       "canvas_b",
+                       "grass_dry",
+                       "leaf",
+                       "leaf_light",
+                       "rust",
+                       "wood",
+                       "wood_dark",
+                       "wood_grey",
+                       "wood_light",
+                       "wood_old"
+                   ]
+    },
+    {
+        "id":  "H07_wheat_crop_rows",
+        "folder":  "between",
+        "size_x":  16.13,
+        "height":  4.47,
+        "size_z":  12.62,
+        "pieces":  [
+                       "autumn_c",
+                       "birch_leaf",
+                       "dirt",
+                       "fl_red",
+                       "grass_dry",
+                       "leaf",
+                       "rope"
+                   ]
+    },
+    {
+        "id":  "H08_vegetable_crop_rows",
+        "folder":  "between",
+        "size_x":  19.59,
+        "height":  5.01,
+        "size_z":  11.29,
+        "pieces":  [
+                       "dirt",
+                       "fl_orange",
+                       "fl_purple",
+                       "iron",
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light",
+                       "wicker",
+                       "wood",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "H09_scarecrow",
+        "folder":  "between",
+        "size_x":  7.23,
+        "height":  9.81,
+        "size_z":  4.0,
+        "pieces":  [
+                       "canvas",
+                       "fabric_blue",
+                       "fabric_green",
+                       "fabric_red",
+                       "grass_dry",
+                       "paper",
+                       "rope",
+                       "tar",
+                       "thatch",
+                       "tin_b",
+                       "wood_grey"
+                   ]
+    },
+    {
+        "id":  "H10_working_windmill",
+        "folder":  "between",
+        "size_x":  26.43,
+        "height":  35.93,
+        "size_z":  22.74,
+        "pieces":  [
+                       "brass",
+                       "canvas",
+                       "door_paint",
+                       "fabric_cream",
+                       "glass_dark",
+                       "gold",
+                       "iron",
+                       "sail",
+                       "sail_b",
+                       "shutter_g",
+                       "stone",
+                       "stone_dark",
+                       "stone_light",
+                       "tile_red_a",
+                       "timber",
+                       "wood",
+                       "wood_dark",
+                       "wood_paint"
+                   ]
+    },
+    {
+        "id":  "H11_standing_stone_circle",
+        "folder":  "between",
+        "size_x":  27.95,
+        "height":  8.21,
+        "size_z":  26.2,
+        "pieces":  [
+                       "birch_leaf",
+                       "cliff_a",
+                       "fl_purple",
+                       "fl_white",
+                       "fl_yellow",
+                       "grass_dry",
+                       "leaf",
+                       "leaf_light",
+                       "magic",
+                       "moss",
+                       "stone",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "H12_region_entrance_arch",
+        "folder":  "between",
+        "size_x":  29.2,
+        "height":  23.33,
+        "size_z":  5.2,
+        "pieces":  [
+                       "ashlar",
+                       "ashlar_dark",
+                       "castle",
+                       "castle_trim",
+                       "dirt",
+                       "fabric_blue",
+                       "fabric_red",
+                       "fl_red",
+                       "fl_white",
+                       "fl_yellow",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "leaf",
+                       "shutter_b",
+                       "stone",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "C01_city_wall_straight",
+        "folder":  "capital",
+        "size_x":  40.0,
+        "height":  30.92,
+        "size_z":  13.59,
+        "pieces":  [
+                       "ashlar",
+                       "ashlar_dark",
+                       "castle",
+                       "castle_trim",
+                       "glass_dark",
+                       "glass_lit",
+                       "iron",
+                       "stone_dark"
+                   ]
+    },
+    {
+        "id":  "C02_city_wall_corner",
+        "folder":  "capital",
+        "size_x":  31.1,
+        "height":  30.92,
+        "size_z":  31.1,
+        "pieces":  [
+                       "ashlar",
+                       "ashlar_dark",
+                       "castle",
+                       "castle_trim",
+                       "glass_dark",
+                       "glass_lit",
+                       "iron",
+                       "stone_dark"
+                   ]
+    },
+    {
+        "id":  "C03_city_wall_tower",
+        "folder":  "capital",
+        "size_x":  22.4,
+        "height":  71.0,
+        "size_z":  22.4,
+        "pieces":  [
+                       "ashlar",
+                       "ashlar_dark",
+                       "brass",
+                       "castle",
+                       "castle_trim",
+                       "door_paint",
+                       "fabric_red",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "stone_dark",
+                       "tile_a",
+                       "tile_b",
+                       "timber"
+                   ]
+    },
+    {
+        "id":  "C04_grand_gate",
+        "folder":  "capital",
+        "size_x":  52.4,
+        "height":  71.0,
+        "size_z":  21.7,
+        "pieces":  [
+                       "ashlar",
+                       "ashlar_dark",
+                       "castle",
+                       "castle_trim",
+                       "fabric_red",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "iron_dark",
+                       "stone_dark",
+                       "tile_a",
+                       "tile_b",
+                       "timber",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "C05_townhouse_1",
+        "folder":  "capital",
+        "size_x":  20.0,
+        "height":  33.8,
+        "size_z":  21.55,
+        "pieces":  [
+                       "ashlar",
+                       "ashlar_dark",
+                       "brass",
+                       "brick",
+                       "dirt",
+                       "door_paint",
+                       "fl_red",
+                       "fl_white",
+                       "glass_dark",
+                       "glass_lit",
+                       "iron",
+                       "leaf",
+                       "leaf_dark",
+                       "plaster",
+                       "shutter_g",
+                       "stone",
+                       "stone_dark",
+                       "terracotta",
+                       "tile_a",
+                       "tile_b",
+                       "timber",
+                       "wood",
+                       "wood_paint"
+                   ]
+    },
+    {
+        "id":  "C06_townhouse_2",
+        "folder":  "capital",
+        "size_x":  16.55,
+        "height":  38.06,
+        "size_z":  18.8,
+        "pieces":  [
+                       "ashlar_dark",
+                       "brass",
+                       "brick",
+                       "castle_trim",
+                       "dirt",
+                       "door_paint",
+                       "fl_pink",
+                       "fl_yellow",
+                       "glass_dark",
+                       "glass_lit",
+                       "iron",
+                       "leaf",
+                       "leaf_dark",
+                       "plaster_b",
+                       "shutter_b",
+                       "stone",
+                       "stone_dark",
+                       "terracotta",
+                       "tile_red_a",
+                       "tile_red_b",
+                       "timber",
+                       "wood",
+                       "wood_paint"
+                   ]
+    },
+    {
+        "id":  "C07_townhouse_3",
+        "folder":  "capital",
+        "size_x":  23.0,
+        "height":  33.38,
+        "size_z":  20.53,
+        "pieces":  [
+                       "ashlar",
+                       "ashlar_dark",
+                       "brass",
+                       "brick",
+                       "dirt",
+                       "door_paint",
+                       "fabric_blue",
+                       "fabric_red",
+                       "fl_orange",
+                       "fl_yellow",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "leaf",
+                       "leaf_dark",
+                       "plaster_c",
+                       "shutter_r",
+                       "stone",
+                       "stone_dark",
+                       "terracotta",
+                       "tile_b",
+                       "tile_grey",
+                       "timber",
+                       "wood",
+                       "wood_dark",
+                       "wood_paint"
+                   ]
+    },
+    {
+        "id":  "C08_townhouse_4",
+        "folder":  "capital",
+        "size_x":  18.53,
+        "height":  32.53,
+        "size_z":  19.8,
+        "pieces":  [
+                       "ashlar",
+                       "brass",
+                       "brick",
+                       "castle_trim",
+                       "dirt",
+                       "door_paint",
+                       "fl_purple",
+                       "fl_white",
+                       "glass_dark",
+                       "glass_lit",
+                       "iron",
+                       "leaf",
+                       "leaf_dark",
+                       "shutter_g",
+                       "stone",
+                       "stone_dark",
+                       "terracotta",
+                       "tile_a",
+                       "tile_b",
+                       "timber",
+                       "wood",
+                       "wood_paint"
+                   ]
+    },
+    {
+        "id":  "C09_corner_house",
+        "folder":  "capital",
+        "size_x":  25.78,
+        "height":  43.0,
+        "size_z":  26.18,
+        "pieces":  [
+                       "ashlar",
+                       "ashlar_dark",
+                       "brass",
+                       "brick",
+                       "dirt",
+                       "door_paint",
+                       "fabric_blue",
+                       "fabric_green",
+                       "fabric_red",
+                       "fl_pink",
+                       "fl_red",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "leaf",
+                       "leaf_dark",
+                       "plaster_d",
+                       "shutter_b",
+                       "shutter_g",
+                       "stone",
+                       "stone_dark",
+                       "terracotta",
+                       "tile_red_a",
+                       "tile_red_b",
+                       "timber",
+                       "wood",
+                       "wood_dark",
+                       "wood_paint"
+                   ]
+    },
+    {
+        "id":  "C10_terrace_row",
+        "folder":  "capital",
+        "size_x":  45.55,
+        "height":  37.12,
+        "size_z":  19.2,
+        "pieces":  [
+                       "ashlar",
+                       "ashlar_dark_1",
+                       "ashlar_dark_2",
+                       "brass",
+                       "brick",
+                       "dirt",
+                       "door_paint",
+                       "fl_pink",
+                       "fl_red",
+                       "fl_white",
+                       "glass_dark",
+                       "glass_lit",
+                       "iron",
+                       "leaf",
+                       "leaf_dark",
+                       "plaster",
+                       "plaster_b",
+                       "plaster_c",
+                       "plaster_d",
+                       "shutter_b",
+                       "shutter_g",
+                       "shutter_r",
+                       "stone",
+                       "stone_dark",
+                       "terracotta",
+                       "tile_a",
+                       "tile_b",
+                       "tile_grey",
+                       "tile_red_a",
+                       "tile_red_b",
+                       "timber",
+                       "wood",
+                       "wood_paint_1",
+                       "wood_paint_2"
+                   ]
+    },
+    {
+        "id":  "C11_market_hall",
+        "folder":  "capital",
+        "size_x":  34.6,
+        "height":  38.51,
+        "size_z":  22.7,
+        "pieces":  [
+                       "ashlar",
+                       "brass",
+                       "castle_trim",
+                       "cob_a",
+                       "cob_b",
+                       "cob_c",
+                       "fabric_green",
+                       "fabric_red",
+                       "fl_orange",
+                       "fl_yellow",
+                       "fruit",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "grout",
+                       "iron",
+                       "leaf_light",
+                       "plaster",
+                       "stone_dark",
+                       "stone_light",
+                       "tile_red_a",
+                       "tile_red_b",
+                       "timber",
+                       "wood",
+                       "wood_dark",
+                       "wood_light",
+                       "wood_paint"
+                   ]
+    },
+    {
+        "id":  "C12_bakery",
+        "folder":  "capital",
+        "size_x":  17.56,
+        "height":  26.1,
+        "size_z":  19.0,
+        "pieces":  [
+                       "ashlar",
+                       "ashlar_dark",
+                       "brass",
+                       "bread",
+                       "bread_dark",
+                       "brick",
+                       "dirt",
+                       "door_paint",
+                       "fabric_blue",
+                       "fabric_cream",
+                       "fl_red",
+                       "fl_yellow",
+                       "glass_dark",
+                       "glass_lit",
+                       "iron",
+                       "leaf",
+                       "leaf_dark",
+                       "plaster_d",
+                       "shutter_g",
+                       "stone",
+                       "stone_dark",
+                       "terracotta",
+                       "tile_red_a",
+                       "tile_red_b",
+                       "timber",
+                       "wicker",
+                       "wood",
+                       "wood_dark",
+                       "wood_light",
+                       "wood_paint"
+                   ]
+    },
+    {
+        "id":  "C13_potion_shop",
+        "folder":  "capital",
+        "size_x":  15.55,
+        "height":  32.52,
+        "size_z":  19.05,
+        "pieces":  [
+                       "ashlar",
+                       "ashlar_dark",
+                       "brass",
+                       "brick",
+                       "dirt",
+                       "door_paint",
+                       "fabric_blue",
+                       "fabric_green",
+                       "fl_blue",
+                       "fl_purple",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "iron_dark",
+                       "leaf",
+                       "leaf_dark",
+                       "magic",
+                       "magic_purple",
+                       "plaster_purple",
+                       "potion_blue",
+                       "potion_green",
+                       "potion_red",
+                       "shutter_b",
+                       "stone",
+                       "stone_dark",
+                       "terracotta",
+                       "tile_b",
+                       "tile_grey",
+                       "timber",
+                       "wood",
+                       "wood_dark",
+                       "wood_light",
+                       "wood_paint"
+                   ]
+    },
+    {
+        "id":  "C14_magic_tool_shop",
+        "folder":  "capital",
+        "size_x":  18.0,
+        "height":  32.96,
+        "size_z":  20.07,
+        "pieces":  [
+                       "ashlar",
+                       "ashlar_dark",
+                       "bark",
+                       "brass",
+                       "brick",
+                       "dirt",
+                       "door_paint",
+                       "fabric_green",
+                       "fabric_red",
+                       "fl_blue",
+                       "fl_white",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "leaf",
+                       "leaf_dark",
+                       "magic",
+                       "magic_purple",
+                       "plaster_b",
+                       "shutter_b",
+                       "stone",
+                       "stone_dark",
+                       "terracotta",
+                       "tile_a",
+                       "tile_b",
+                       "timber",
+                       "wood",
+                       "wood_dark",
+                       "wood_light",
+                       "wood_paint"
+                   ]
+    },
+    {
+        "id":  "C15_clock_tower",
+        "folder":  "capital",
+        "size_x":  13.41,
+        "height":  82.5,
+        "size_z":  14.13,
+        "pieces":  [
+                       "ashlar",
+                       "ashlar_dark",
+                       "brass",
+                       "bronze",
+                       "castle",
+                       "castle_trim_1",
+                       "castle_trim_2",
+                       "door_paint",
+                       "fabric_red",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "iron_dark",
+                       "marble",
+                       "stone",
+                       "stone_dark",
+                       "tile_a",
+                       "tile_b",
+                       "timber"
+                   ]
+    },
+    {
+        "id":  "C16_cathedral",
+        "folder":  "capital",
+        "size_x":  50.8,
+        "height":  92.3,
+        "size_z":  79.5,
+        "pieces":  [
+                       "ashlar",
+                       "ashlar_dark",
+                       "brass",
+                       "castle",
+                       "castle_trim_1",
+                       "castle_trim_2",
+                       "castle_trim_3",
+                       "castle_trim_4",
+                       "door_paint",
+                       "glass_dark",
+                       "gold",
+                       "iron",
+                       "iron_dark",
+                       "stained_b",
+                       "stained_g",
+                       "stained_r",
+                       "stained_y",
+                       "tile_a",
+                       "tile_b",
+                       "timber"
+                   ]
+    },
+    {
+        "id":  "C17_knights_hq",
+        "folder":  "capital",
+        "size_x":  47.74,
+        "height":  46.25,
+        "size_z":  41.67,
+        "pieces":  [
+                       "ashlar",
+                       "ashlar_dark",
+                       "brass",
+                       "castle",
+                       "castle_trim_1",
+                       "castle_trim_2",
+                       "castle_trim_3",
+                       "castle_trim_4",
+                       "door_paint",
+                       "fabric_blue",
+                       "fabric_cream",
+                       "fabric_green",
+                       "fabric_red",
+                       "fl_orange",
+                       "fl_purple",
+                       "fl_white",
+                       "fl_yellow",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "iron_dark",
+                       "patina",
+                       "timber"
+                   ]
+    },
+    {
+        "id":  "C18_guild_hall",
+        "folder":  "capital",
+        "size_x":  40.6,
+        "height":  51.5,
+        "size_z":  23.48,
+        "pieces":  [
+                       "ashlar",
+                       "ashlar_dark",
+                       "brass",
+                       "castle_trim_1",
+                       "castle_trim_2",
+                       "door_paint",
+                       "fabric_blue",
+                       "fabric_green",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "iron_dark",
+                       "marble",
+                       "patina",
+                       "plaster_rose",
+                       "shutter_r",
+                       "stone_dark",
+                       "tile_b",
+                       "tile_grey",
+                       "timber",
+                       "wood_paint_1",
+                       "wood_paint_2"
+                   ]
+    },
+    {
+        "id":  "C19_royal_library",
+        "folder":  "capital",
+        "size_x":  45.6,
+        "height":  53.52,
+        "size_z":  40.5,
+        "pieces":  [
+                       "ashlar",
+                       "brass",
+                       "castle_1",
+                       "castle_2",
+                       "castle_trim",
+                       "door_paint",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "magic",
+                       "tile_a",
+                       "timber"
+                   ]
+    },
+    {
+        "id":  "C20_magic_academy",
+        "folder":  "capital",
+        "size_x":  49.21,
+        "height":  70.96,
+        "size_z":  35.41,
+        "pieces":  [
+                       "ashlar_dark",
+                       "brass",
+                       "castle",
+                       "castle_trim_1",
+                       "castle_trim_2",
+                       "castle_trim_3",
+                       "castle_trim_4",
+                       "door_paint",
+                       "glass_dark",
+                       "gold",
+                       "iron",
+                       "iron_dark",
+                       "magic",
+                       "magic_purple",
+                       "patina",
+                       "stained_b",
+                       "stained_y",
+                       "tile_a",
+                       "tile_b",
+                       "timber"
+                   ]
+    },
+    {
+        "id":  "C21_plaza_fountain",
+        "folder":  "capital",
+        "size_x":  26.79,
+        "height":  19.4,
+        "size_z":  26.79,
+        "pieces":  [
+                       "ashlar_dark",
+                       "castle",
+                       "castle_trim",
+                       "foam",
+                       "gold",
+                       "magic",
+                       "water",
+                       "water_fx"
+                   ]
+    },
+    {
+        "id":  "C22_knight_statue",
+        "folder":  "capital",
+        "size_x":  7.6,
+        "height":  20.6,
+        "size_z":  7.6,
+        "pieces":  [
+                       "ashlar_dark",
+                       "bronze",
+                       "castle",
+                       "gold",
+                       "iron_dark",
+                       "marble",
+                       "patina",
+                       "steel"
+                   ]
+    },
+    {
+        "id":  "C23_obelisk",
+        "folder":  "capital",
+        "size_x":  8.0,
+        "height":  32.4,
+        "size_z":  8.0,
+        "pieces":  [
+                       "ashlar_dark",
+                       "castle",
+                       "castle_trim",
+                       "gold",
+                       "marble"
+                   ]
+    },
+    {
+        "id":  "C24_street_archway",
+        "folder":  "capital",
+        "size_x":  27.2,
+        "height":  34.4,
+        "size_z":  9.6,
+        "pieces":  [
+                       "ashlar_dark",
+                       "castle",
+                       "castle_trim",
+                       "fabric_red",
+                       "glass_dark",
+                       "gold",
+                       "iron",
+                       "marble"
+                   ]
+    },
+    {
+        "id":  "C25_window_flower_box",
+        "folder":  "capital",
+        "size_x":  6.11,
+        "height":  2.07,
+        "size_z":  1.16,
+        "pieces":  [
+                       "dirt",
+                       "fl_pink",
+                       "fl_red",
+                       "fl_white",
+                       "fl_yellow",
+                       "iron",
+                       "leaf",
+                       "leaf_dark",
+                       "wood"
+                   ]
+    },
+    {
+        "id":  "C26_vendor_cart",
+        "folder":  "capital",
+        "size_x":  9.82,
+        "height":  7.95,
+        "size_z":  4.26,
+        "pieces":  [
+                       "brass",
+                       "fabric_cream",
+                       "fabric_red",
+                       "fl_orange",
+                       "fl_yellow",
+                       "fruit",
+                       "iron",
+                       "leaf_light",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "C27_canal_wall",
+        "folder":  "capital",
+        "size_x":  24.16,
+        "height":  12.58,
+        "size_z":  4.5,
+        "pieces":  [
+                       "ashlar",
+                       "ashlar_dark",
+                       "castle_trim",
+                       "iron",
+                       "iron_dark",
+                       "moss",
+                       "stone",
+                       "stone_dark"
+                   ]
+    },
+    {
+        "id":  "C28_canal_bridge",
+        "folder":  "capital",
+        "size_x":  12.3,
+        "height":  18.26,
+        "size_z":  31.4,
+        "pieces":  [
+                       "ashlar",
+                       "castle",
+                       "castle_trim",
+                       "cob_a",
+                       "cob_b",
+                       "cob_c",
+                       "glass_lit",
+                       "iron"
+                   ]
+    },
+    {
+        "id":  "C29_canal_stairs",
+        "folder":  "capital",
+        "size_x":  25.6,
+        "height":  11.68,
+        "size_z":  9.55,
+        "pieces":  [
+                       "ashlar",
+                       "ashlar_dark",
+                       "castle",
+                       "castle_trim",
+                       "iron",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "C30_plaza_paving",
+        "folder":  "capital",
+        "size_x":  32.0,
+        "height":  0.8,
+        "size_z":  32.0,
+        "pieces":  [
+                       "ashlar",
+                       "ashlar_dark",
+                       "castle_trim",
+                       "cob_a",
+                       "cob_c",
+                       "fabric_red",
+                       "gold",
+                       "grout",
+                       "marble",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "C31_bunting",
+        "folder":  "capital",
+        "size_x":  40.5,
+        "height":  5.99,
+        "size_z":  0.6,
+        "pieces":  [
+                       "fabric_blue",
+                       "fabric_cream",
+                       "fabric_green",
+                       "fabric_red",
+                       "fl_pink",
+                       "fl_yellow",
+                       "iron",
+                       "rope"
+                   ]
+    },
+    {
+        "id":  "K01_main_keep",
+        "folder":  "castle",
+        "size_x":  55.5,
+        "height":  100.7,
+        "size_z":  45.98,
+        "pieces":  [
+                       "ashlar",
+                       "brass",
+                       "castle_1",
+                       "castle_2",
+                       "castle_trim_1",
+                       "castle_trim_2",
+                       "castle_trim_3",
+                       "castle_trim_4",
+                       "castle_trim_5",
+                       "castle_trim_6",
+                       "castle_trim_7",
+                       "castle_trim_8",
+                       "door_paint",
+                       "fabric_blue",
+                       "fabric_red",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "iron_dark",
+                       "marble",
+                       "stained_b",
+                       "stained_r",
+                       "stained_y",
+                       "tile_a",
+                       "tile_b",
+                       "timber"
+                   ]
+    },
+    {
+        "id":  "K02_castle_round_tower",
+        "folder":  "castle",
+        "size_x":  20.4,
+        "height":  87.0,
+        "size_z":  20.4,
+        "pieces":  [
+                       "ashlar",
+                       "brass",
+                       "castle",
+                       "castle_trim",
+                       "door_paint",
+                       "fabric_blue",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "tile_a",
+                       "tile_b",
+                       "timber"
+                   ]
+    },
+    {
+        "id":  "K03_castle_square_tower",
+        "folder":  "castle",
+        "size_x":  20.36,
+        "height":  78.5,
+        "size_z":  20.36,
+        "pieces":  [
+                       "ashlar",
+                       "brass",
+                       "castle",
+                       "castle_trim_1",
+                       "castle_trim_2",
+                       "door_paint",
+                       "fabric_blue",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "iron_dark",
+                       "stained_b",
+                       "stone",
+                       "tile_a",
+                       "tile_b",
+                       "timber"
+                   ]
+    },
+    {
+        "id":  "K04_spire_tower",
+        "folder":  "castle",
+        "size_x":  15.2,
+        "height":  109.5,
+        "size_z":  15.4,
+        "pieces":  [
+                       "brass",
+                       "castle",
+                       "castle_trim_1",
+                       "castle_trim_2",
+                       "door_paint",
+                       "fabric_red",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "stone",
+                       "tile_a",
+                       "tile_b",
+                       "timber"
+                   ]
+    },
+    {
+        "id":  "K05_curtain_wall_straight",
+        "folder":  "castle",
+        "size_x":  40.0,
+        "height":  30.92,
+        "size_z":  13.59,
+        "pieces":  [
+                       "ashlar",
+                       "castle",
+                       "castle_trim",
+                       "glass_dark",
+                       "glass_lit",
+                       "iron",
+                       "stone_dark"
+                   ]
+    },
+    {
+        "id":  "K06_curtain_wall_corner",
+        "folder":  "castle",
+        "size_x":  32.08,
+        "height":  50.82,
+        "size_z":  32.08,
+        "pieces":  [
+                       "ashlar",
+                       "castle",
+                       "castle_trim",
+                       "fabric_blue",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "stone_dark",
+                       "tile_a",
+                       "tile_b",
+                       "timber"
+                   ]
+    },
+    {
+        "id":  "K07_wall_stairs",
+        "folder":  "castle",
+        "size_x":  44.35,
+        "height":  29.75,
+        "size_z":  7.8,
+        "pieces":  [
+                       "castle",
+                       "castle_trim",
+                       "glass_dark",
+                       "glass_lit",
+                       "iron"
+                   ]
+    },
+    {
+        "id":  "K08_gatehouse",
+        "folder":  "castle",
+        "size_x":  49.56,
+        "height":  70.5,
+        "size_z":  20.0,
+        "pieces":  [
+                       "ashlar",
+                       "castle",
+                       "castle_trim_1",
+                       "castle_trim_2",
+                       "fabric_blue",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "iron_dark",
+                       "stained_b",
+                       "stone_dark",
+                       "tile_a",
+                       "tile_b",
+                       "timber",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "K09_drawbridge",
+        "folder":  "castle",
+        "size_x":  13.8,
+        "height":  20.49,
+        "size_z":  26.7,
+        "pieces":  [
+                       "iron",
+                       "iron_dark",
+                       "wood",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "K10_moat_bridge",
+        "folder":  "castle",
+        "size_x":  20.8,
+        "height":  21.35,
+        "size_z":  64.4,
+        "pieces":  [
+                       "ashlar",
+                       "castle",
+                       "castle_trim_1",
+                       "castle_trim_2",
+                       "cob_a",
+                       "cob_b",
+                       "cob_c",
+                       "gold",
+                       "grout",
+                       "magic",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "K11_throne",
+        "folder":  "castle",
+        "size_x":  14.0,
+        "height":  17.6,
+        "size_z":  11.0,
+        "pieces":  [
+                       "carpet",
+                       "castle_trim",
+                       "gold",
+                       "magic",
+                       "marble",
+                       "velvet"
+                   ]
+    },
+    {
+        "id":  "K12_throne_pillar",
+        "folder":  "castle",
+        "size_x":  6.6,
+        "height":  30.0,
+        "size_z":  6.6,
+        "pieces":  [
+                       "castle_trim",
+                       "gold",
+                       "marble"
+                   ]
+    },
+    {
+        "id":  "K13_chandelier",
+        "folder":  "castle",
+        "size_x":  7.79,
+        "height":  13.05,
+        "size_z":  7.79,
+        "pieces":  [
+                       "flame",
+                       "glass",
+                       "gold",
+                       "magic",
+                       "wax"
+                   ]
+    },
+    {
+        "id":  "K14_red_carpet",
+        "folder":  "castle",
+        "size_x":  10.0,
+        "height":  0.17,
+        "size_z":  61.5,
+        "pieces":  [
+                       "carpet",
+                       "gold",
+                       "velvet"
+                   ]
+    },
+    {
+        "id":  "K15_stained_window",
+        "folder":  "castle",
+        "size_x":  9.0,
+        "height":  21.64,
+        "size_z":  2.4,
+        "pieces":  [
+                       "castle_trim",
+                       "gold",
+                       "iron_dark",
+                       "stained_b",
+                       "stained_g",
+                       "stained_r",
+                       "stained_y"
+                   ]
+    },
+    {
+        "id":  "K16_tapestry_1",
+        "folder":  "castle",
+        "size_x":  9.5,
+        "height":  15.85,
+        "size_z":  0.8,
+        "pieces":  [
+                       "fabric_blue",
+                       "fabric_cream",
+                       "gold",
+                       "iron"
+                   ]
+    },
+    {
+        "id":  "K17_tapestry_2",
+        "folder":  "castle",
+        "size_x":  9.5,
+        "height":  15.85,
+        "size_z":  0.83,
+        "pieces":  [
+                       "fabric_green",
+                       "fabric_red",
+                       "gold",
+                       "iron",
+                       "steel"
+                   ]
+    },
+    {
+        "id":  "K18_grand_staircase",
+        "folder":  "castle",
+        "size_x":  20.7,
+        "height":  17.15,
+        "size_z":  30.95,
+        "pieces":  [
+                       "carpet",
+                       "castle_trim",
+                       "gold",
+                       "marble"
+                   ]
+    },
+    {
+        "id":  "K19_royal_desk",
+        "folder":  "castle",
+        "size_x":  8.0,
+        "height":  5.22,
+        "size_z":  3.78,
+        "pieces":  [
+                       "book_a",
+                       "book_b",
+                       "book_d",
+                       "fabric_cream",
+                       "fabric_green",
+                       "flame",
+                       "gold",
+                       "iron_dark",
+                       "paper",
+                       "wax",
+                       "wood",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "K20_bookshelf",
+        "folder":  "castle",
+        "size_x":  8.6,
+        "height":  14.15,
+        "size_z":  2.4,
+        "pieces":  [
+                       "book_a",
+                       "book_b",
+                       "book_c",
+                       "book_d",
+                       "brass",
+                       "fabric_blue",
+                       "fabric_red",
+                       "gold",
+                       "paper",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "K21_magic_orb",
+        "folder":  "castle",
+        "size_x":  3.96,
+        "height":  7.72,
+        "size_z":  3.6,
+        "pieces":  [
+                       "gold",
+                       "magic",
+                       "magic_purple",
+                       "marble"
+                   ]
+    },
+    {
+        "id":  "K22_candelabra",
+        "folder":  "castle",
+        "size_x":  3.79,
+        "height":  9.07,
+        "size_z":  2.55,
+        "pieces":  [
+                       "flame",
+                       "gold",
+                       "wax"
+                   ]
+    },
+    {
+        "id":  "K23_royal_fountain",
+        "folder":  "castle",
+        "size_x":  23.6,
+        "height":  17.83,
+        "size_z":  23.6,
+        "pieces":  [
+                       "ashlar",
+                       "castle_trim",
+                       "foam",
+                       "gold",
+                       "leaf",
+                       "magic",
+                       "marble",
+                       "water",
+                       "water_fx"
+                   ]
+    },
+    {
+        "id":  "K24_wizard_king_statue",
+        "folder":  "castle",
+        "size_x":  8.0,
+        "height":  20.6,
+        "size_z":  8.0,
+        "pieces":  [
+                       "ashlar_dark",
+                       "bronze",
+                       "castle",
+                       "fabric_red",
+                       "gold",
+                       "magic",
+                       "marble",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "K25_topiary_ball",
+        "folder":  "castle",
+        "size_x":  4.75,
+        "height":  10.59,
+        "size_z":  4.76,
+        "pieces":  [
+                       "bark",
+                       "castle_trim",
+                       "dirt",
+                       "leaf_dark"
+                   ]
+    },
+    {
+        "id":  "K26_topiary_cone",
+        "folder":  "castle",
+        "size_x":  4.4,
+        "height":  9.1,
+        "size_z":  4.4,
+        "pieces":  [
+                       "castle_trim",
+                       "dirt",
+                       "leaf_dark"
+                   ]
+    },
+    {
+        "id":  "K27_topiary_spiral",
+        "folder":  "castle",
+        "size_x":  4.71,
+        "height":  13.0,
+        "size_z":  4.61,
+        "pieces":  [
+                       "bark",
+                       "castle_trim",
+                       "dirt",
+                       "leaf_dark"
+                   ]
+    },
+    {
+        "id":  "K28_maze_hedge_straight",
+        "folder":  "castle",
+        "size_x":  16.38,
+        "height":  9.61,
+        "size_z":  3.59,
+        "pieces":  [
+                       "bark",
+                       "leaf",
+                       "leaf_dark"
+                   ]
+    },
+    {
+        "id":  "K29_maze_hedge_corner",
+        "folder":  "castle",
+        "size_x":  10.86,
+        "height":  9.76,
+        "size_z":  11.24,
+        "pieces":  [
+                       "bark",
+                       "leaf",
+                       "leaf_dark"
+                   ]
+    },
+    {
+        "id":  "K30_gazebo",
+        "folder":  "castle",
+        "size_x":  17.66,
+        "height":  25.2,
+        "size_z":  20.03,
+        "pieces":  [
+                       "castle_trim",
+                       "gold",
+                       "iron",
+                       "magic",
+                       "marble",
+                       "tile_a"
+                   ]
+    },
+    {
+        "id":  "K31_rose_arch",
+        "folder":  "castle",
+        "size_x":  9.4,
+        "height":  11.45,
+        "size_z":  3.49,
+        "pieces":  [
+                       "fl_pink",
+                       "fl_red",
+                       "fl_white",
+                       "iron",
+                       "leaf",
+                       "leaf_dark"
+                   ]
+    },
+    {
+        "id":  "K32_ornate_planter",
+        "folder":  "castle",
+        "size_x":  5.48,
+        "height":  6.1,
+        "size_z":  4.8,
+        "pieces":  [
+                       "castle_trim",
+                       "fl_pink",
+                       "fl_purple",
+                       "fl_white",
+                       "fl_yellow",
+                       "gold",
+                       "leaf",
+                       "leaf_dark",
+                       "marble"
+                   ]
+    },
+    {
+        "id":  "K33_ornate_bench",
+        "folder":  "castle",
+        "size_x":  8.0,
+        "height":  4.91,
+        "size_z":  2.99,
+        "pieces":  [
+                       "gold",
+                       "iron",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "K34_ornate_lamp",
+        "folder":  "castle",
+        "size_x":  4.6,
+        "height":  14.4,
+        "size_z":  5.31,
+        "pieces":  [
+                       "glass_lit",
+                       "gold",
+                       "iron_dark"
+                   ]
+    },
+    {
+        "id":  "K35_royal_banner",
+        "folder":  "castle",
+        "size_x":  6.3,
+        "height":  20.4,
+        "size_z":  2.8,
+        "pieces":  [
+                       "castle_trim",
+                       "fabric_blue",
+                       "gold",
+                       "iron_dark"
+                   ]
+    },
+    {
+        "id":  "K36_tower_flag",
+        "folder":  "castle",
+        "size_x":  9.52,
+        "height":  14.6,
+        "size_z":  0.95,
+        "pieces":  [
+                       "fabric_blue",
+                       "gold",
+                       "iron_dark"
+                   ]
+    },
+    {
+        "id":  "K37_mansion_1",
+        "folder":  "castle",
+        "size_x":  35.6,
+        "height":  35.5,
+        "size_z":  28.78,
+        "pieces":  [
+                       "ashlar",
+                       "brass",
+                       "brick",
+                       "castle",
+                       "castle_trim_1",
+                       "castle_trim_2",
+                       "castle_trim_3",
+                       "castle_trim_4",
+                       "door_paint",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "marble",
+                       "stone_dark",
+                       "terracotta",
+                       "tile_a",
+                       "tile_b",
+                       "timber"
+                   ]
+    },
+    {
+        "id":  "K38_mansion_2",
+        "folder":  "castle",
+        "size_x":  53.76,
+        "height":  50.5,
+        "size_z":  31.94,
+        "pieces":  [
+                       "ashlar",
+                       "brass",
+                       "brick",
+                       "castle_trim_1",
+                       "castle_trim_2",
+                       "castle_trim_3",
+                       "castle_trim_4",
+                       "castle_trim_5",
+                       "castle_trim_6",
+                       "castle_trim_7",
+                       "castle_trim_8",
+                       "door_paint",
+                       "fabric_green",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "marble",
+                       "stone_dark",
+                       "terracotta",
+                       "tile_b",
+                       "tile_grey",
+                       "timber"
+                   ]
+    },
+    {
+        "id":  "K39_mansion_3",
+        "folder":  "castle",
+        "size_x":  33.42,
+        "height":  52.5,
+        "size_z":  25.82,
+        "pieces":  [
+                       "ashlar",
+                       "brass",
+                       "brick",
+                       "castle_trim",
+                       "dirt",
+                       "door_paint",
+                       "fabric_red",
+                       "fl_pink",
+                       "fl_red",
+                       "fl_white",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "leaf",
+                       "leaf_dark",
+                       "plaster_d",
+                       "shutter_g",
+                       "stone",
+                       "stone_dark",
+                       "terracotta",
+                       "tile_red_a",
+                       "tile_red_b",
+                       "timber",
+                       "wood",
+                       "wood_paint_1",
+                       "wood_paint_2"
+                   ]
+    },
+    {
+        "id":  "K40_barracks",
+        "folder":  "castle",
+        "size_x":  41.6,
+        "height":  28.35,
+        "size_z":  23.38,
+        "pieces":  [
+                       "ashlar",
+                       "ashlar_dark",
+                       "brass",
+                       "castle_trim_1",
+                       "castle_trim_2",
+                       "castle_trim_3",
+                       "castle_trim_4",
+                       "door_paint",
+                       "fabric_cream",
+                       "fabric_red",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "shutter_r",
+                       "steel",
+                       "stone",
+                       "stone_dark",
+                       "terracotta",
+                       "tile_red_a",
+                       "tile_red_b",
+                       "timber",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "K41_stables",
+        "folder":  "castle",
+        "size_x":  41.0,
+        "height":  17.58,
+        "size_z":  20.38,
+        "pieces":  [
+                       "ashlar",
+                       "glass_dark",
+                       "iron",
+                       "plaster",
+                       "rope",
+                       "rope_dark",
+                       "thatch",
+                       "tile_red_a",
+                       "tile_red_b",
+                       "timber",
+                       "water",
+                       "wood",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "K42_sentry_box",
+        "folder":  "castle",
+        "size_x":  6.36,
+        "height":  16.4,
+        "size_z":  5.6,
+        "pieces":  [
+                       "ashlar",
+                       "fabric_blue",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "tile_a",
+                       "wood",
+                       "wood_paint"
+                   ]
+    },
+    {
+        "id":  "K43_royal_carriage",
+        "folder":  "castle",
+        "size_x":  20.53,
+        "height":  10.75,
+        "size_z":  6.76,
+        "pieces":  [
+                       "fabric_blue",
+                       "fabric_red",
+                       "glass",
+                       "glass_lit",
+                       "gold",
+                       "iron_dark",
+                       "wood",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "K44_monument_column",
+        "folder":  "castle",
+        "size_x":  10.0,
+        "height":  49.2,
+        "size_z":  10.0,
+        "pieces":  [
+                       "ashlar_dark",
+                       "bronze",
+                       "castle",
+                       "castle_trim",
+                       "gold",
+                       "marble"
+                   ]
+    },
+    {
+        "id":  "F01_world_tree",
+        "folder":  "elf",
+        "size_x":  169.04,
+        "height":  192.89,
+        "size_z":  186.55,
+        "pieces":  [
+                       "elf_bark",
+                       "elf_bark_b",
+                       "elf_stone",
+                       "elf_wood_1",
+                       "elf_wood_2",
+                       "elf_wood_dark",
+                       "glow_cyan",
+                       "glow_gold",
+                       "glow_green",
+                       "gold",
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "jleaf_d",
+                       "leaf_dark"
+                   ]
+    },
+    {
+        "id":  "F02_treehouse_1",
+        "folder":  "elf",
+        "size_x":  43.76,
+        "height":  48.98,
+        "size_z":  41.36,
+        "pieces":  [
+                       "elf_bark",
+                       "elf_bark_b",
+                       "elf_roof",
+                       "elf_roof_b",
+                       "elf_wood",
+                       "elf_wood_dark",
+                       "glow_cyan",
+                       "glow_gold",
+                       "gold",
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "jleaf_d",
+                       "leaf_dark"
+                   ]
+    },
+    {
+        "id":  "F03_treehouse_2",
+        "folder":  "elf",
+        "size_x":  46.36,
+        "height":  55.87,
+        "size_z":  48.67,
+        "pieces":  [
+                       "elf_bark",
+                       "elf_bark_b",
+                       "elf_roof",
+                       "elf_roof_b",
+                       "elf_wood",
+                       "elf_wood_dark",
+                       "glow_cyan",
+                       "glow_gold",
+                       "gold",
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "jleaf_d",
+                       "leaf_dark"
+                   ]
+    },
+    {
+        "id":  "F04_treehouse_3",
+        "folder":  "elf",
+        "size_x":  58.34,
+        "height":  65.18,
+        "size_z":  58.31,
+        "pieces":  [
+                       "elf_bark",
+                       "elf_bark_b",
+                       "elf_roof",
+                       "elf_roof_b",
+                       "elf_wood",
+                       "elf_wood_dark",
+                       "glow_cyan",
+                       "glow_gold",
+                       "gold",
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "jleaf_d",
+                       "leaf_dark"
+                   ]
+    },
+    {
+        "id":  "F05_treehouse_4",
+        "folder":  "elf",
+        "size_x":  35.39,
+        "height":  41.69,
+        "size_z":  41.33,
+        "pieces":  [
+                       "elf_bark",
+                       "elf_bark_b",
+                       "elf_roof",
+                       "elf_roof_b",
+                       "elf_wood",
+                       "elf_wood_dark",
+                       "glow_cyan",
+                       "glow_gold",
+                       "gold",
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "jleaf_d",
+                       "leaf_dark"
+                   ]
+    },
+    {
+        "id":  "F06_platform_ring",
+        "folder":  "elf",
+        "size_x":  28.53,
+        "height":  12.15,
+        "size_z":  28.53,
+        "pieces":  [
+                       "elf_wood",
+                       "elf_wood_dark",
+                       "glow_cyan",
+                       "gold",
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "jleaf_d",
+                       "leaf_dark"
+                   ]
+    },
+    {
+        "id":  "F07_rope_bridge_short",
+        "folder":  "elf",
+        "size_x":  16.76,
+        "height":  4.7,
+        "size_z":  4.96,
+        "pieces":  [
+                       "elf_wood",
+                       "elf_wood_dark",
+                       "gold",
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "jleaf_d",
+                       "rope"
+                   ]
+    },
+    {
+        "id":  "F08_rope_bridge_long",
+        "folder":  "elf",
+        "size_x":  48.76,
+        "height":  8.9,
+        "size_z":  4.96,
+        "pieces":  [
+                       "elf_wood",
+                       "elf_wood_dark",
+                       "gold",
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "rope"
+                   ]
+    },
+    {
+        "id":  "F09_spiral_stair",
+        "folder":  "elf",
+        "size_x":  18.0,
+        "height":  33.37,
+        "size_z":  18.0,
+        "pieces":  [
+                       "elf_wood",
+                       "elf_wood_dark",
+                       "glow_cyan",
+                       "gold"
+                   ]
+    },
+    {
+        "id":  "F10_elf_palace",
+        "folder":  "elf",
+        "size_x":  52.0,
+        "height":  51.63,
+        "size_z":  53.8,
+        "pieces":  [
+                       "elf_roof",
+                       "elf_roof_b",
+                       "elf_stone",
+                       "elf_stone_dark",
+                       "elf_wood_dark",
+                       "glass_dark",
+                       "glow_cyan",
+                       "gold_1",
+                       "gold_2",
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "jleaf_d",
+                       "leaf_dark",
+                       "moon_water"
+                   ]
+    },
+    {
+        "id":  "F11_moon_pool",
+        "folder":  "elf",
+        "size_x":  28.27,
+        "height":  10.76,
+        "size_z":  26.95,
+        "pieces":  [
+                       "elf_stone",
+                       "elf_stone_dark",
+                       "fl_pink",
+                       "fl_white",
+                       "glow_cyan",
+                       "glow_gold",
+                       "gold",
+                       "jleaf_a",
+                       "jleaf_c",
+                       "moon_water"
+                   ]
+    },
+    {
+        "id":  "F12_carved_arch",
+        "folder":  "elf",
+        "size_x":  22.04,
+        "height":  21.68,
+        "size_z":  6.78,
+        "pieces":  [
+                       "elf_bark",
+                       "elf_bark_b",
+                       "elf_stone",
+                       "glow_cyan",
+                       "gold",
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "jleaf_d",
+                       "leaf_dark"
+                   ]
+    },
+    {
+        "id":  "F13_elf_statue",
+        "folder":  "elf",
+        "size_x":  9.28,
+        "height":  16.45,
+        "size_z":  8.04,
+        "pieces":  [
+                       "elf_stone",
+                       "elf_wood",
+                       "fl_white",
+                       "gold",
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "jleaf_d"
+                   ]
+    },
+    {
+        "id":  "F14_jungle_tree_1",
+        "folder":  "elf",
+        "size_x":  73.34,
+        "height":  81.94,
+        "size_z":  73.82,
+        "pieces":  [
+                       "elf_bark",
+                       "elf_bark_b",
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "jleaf_d",
+                       "leaf_dark"
+                   ]
+    },
+    {
+        "id":  "F15_jungle_tree_2",
+        "folder":  "elf",
+        "size_x":  59.76,
+        "height":  51.94,
+        "size_z":  55.25,
+        "pieces":  [
+                       "elf_bark",
+                       "elf_bark_b",
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "jleaf_d",
+                       "leaf_dark"
+                   ]
+    },
+    {
+        "id":  "F16_jungle_palm",
+        "folder":  "elf",
+        "size_x":  22.09,
+        "height":  36.54,
+        "size_z":  22.06,
+        "pieces":  [
+                       "elf_bark",
+                       "elf_bark_b",
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "jleaf_d"
+                   ]
+    },
+    {
+        "id":  "F17_root_arch",
+        "folder":  "elf",
+        "size_x":  32.48,
+        "height":  20.84,
+        "size_z":  10.92,
+        "pieces":  [
+                       "cliff_a",
+                       "elf_bark",
+                       "elf_bark_b",
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "jleaf_d",
+                       "leaf_dark",
+                       "moss_bright"
+                   ]
+    },
+    {
+        "id":  "F18_hanging_vines_1",
+        "folder":  "elf",
+        "size_x":  7.24,
+        "height":  12.52,
+        "size_z":  2.76,
+        "pieces":  [
+                       "elf_bark",
+                       "glow_pink",
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "jleaf_d",
+                       "leaf_dark"
+                   ]
+    },
+    {
+        "id":  "F19_hanging_vines_2",
+        "folder":  "elf",
+        "size_x":  7.36,
+        "height":  23.18,
+        "size_z":  2.52,
+        "pieces":  [
+                       "elf_bark",
+                       "glow_pink",
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "jleaf_d",
+                       "leaf_dark"
+                   ]
+    },
+    {
+        "id":  "F20_hanging_moss",
+        "folder":  "elf",
+        "size_x":  8.12,
+        "height":  7.89,
+        "size_z":  1.3,
+        "pieces":  [
+                       "birch_leaf",
+                       "elf_bark",
+                       "grass_dry",
+                       "moss"
+                   ]
+    },
+    {
+        "id":  "F21_giant_fern",
+        "folder":  "elf",
+        "size_x":  17.04,
+        "height":  4.54,
+        "size_z":  16.32,
+        "pieces":  [
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "jleaf_d"
+                   ]
+    },
+    {
+        "id":  "F22_giant_leaf_plant",
+        "folder":  "elf",
+        "size_x":  13.45,
+        "height":  8.47,
+        "size_z":  14.77,
+        "pieces":  [
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "jleaf_d"
+                   ]
+    },
+    {
+        "id":  "F23_glow_mushroom_1",
+        "folder":  "elf",
+        "size_x":  6.2,
+        "height":  7.4,
+        "size_z":  4.86,
+        "pieces":  [
+                       "fl_white",
+                       "glow_cyan",
+                       "moss_bright",
+                       "teal"
+                   ]
+    },
+    {
+        "id":  "F24_glow_mushroom_2",
+        "folder":  "elf",
+        "size_x":  7.1,
+        "height":  10.74,
+        "size_z":  5.46,
+        "pieces":  [
+                       "fl_purple",
+                       "fl_white",
+                       "glow_pink",
+                       "moss_bright"
+                   ]
+    },
+    {
+        "id":  "F25_glow_flower_1",
+        "folder":  "elf",
+        "size_x":  3.86,
+        "height":  5.11,
+        "size_z":  3.35,
+        "pieces":  [
+                       "glow_cyan",
+                       "glow_gold",
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "jleaf_d"
+                   ]
+    },
+    {
+        "id":  "F26_glow_flower_2",
+        "folder":  "elf",
+        "size_x":  3.86,
+        "height":  6.73,
+        "size_z":  3.35,
+        "pieces":  [
+                       "glow_gold",
+                       "glow_pink",
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "jleaf_d"
+                   ]
+    },
+    {
+        "id":  "F27_elf_hanging_lantern",
+        "folder":  "elf",
+        "size_x":  1.75,
+        "height":  6.5,
+        "size_z":  1.75,
+        "pieces":  [
+                       "glow_cyan",
+                       "gold"
+                   ]
+    },
+    {
+        "id":  "F28_elf_standing_lantern",
+        "folder":  "elf",
+        "size_x":  3.96,
+        "height":  9.91,
+        "size_z":  1.9,
+        "pieces":  [
+                       "elf_stone",
+                       "elf_wood",
+                       "glow_cyan",
+                       "gold",
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c"
+                   ]
+    },
+    {
+        "id":  "F29_lotus",
+        "folder":  "elf",
+        "size_x":  9.0,
+        "height":  2.5,
+        "size_z":  6.8,
+        "pieces":  [
+                       "fl_pink",
+                       "fl_white",
+                       "glow_gold",
+                       "jleaf_a",
+                       "jleaf_c"
+                   ]
+    },
+    {
+        "id":  "F30_ruins_1",
+        "folder":  "elf",
+        "size_x":  29.49,
+        "height":  15.4,
+        "size_z":  9.22,
+        "pieces":  [
+                       "elf_stone",
+                       "elf_stone_dark",
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "jleaf_d",
+                       "leaf_dark",
+                       "moss_bright"
+                   ]
+    },
+    {
+        "id":  "F31_ruins_2",
+        "folder":  "elf",
+        "size_x":  28.88,
+        "height":  15.4,
+        "size_z":  9.88,
+        "pieces":  [
+                       "elf_stone",
+                       "elf_stone_dark",
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "jleaf_d",
+                       "leaf_dark",
+                       "moss_bright"
+                   ]
+    },
+    {
+        "id":  "F32_waterfall_cliff",
+        "folder":  "elf",
+        "size_x":  43.46,
+        "height":  32.22,
+        "size_z":  27.17,
+        "pieces":  [
+                       "cliff_a",
+                       "cliff_b",
+                       "foam",
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "jleaf_d",
+                       "leaf_dark",
+                       "moon_water",
+                       "moss_bright",
+                       "stone",
+                       "water_fx"
+                   ]
+    },
+    {
+        "id":  "F33_elf_bench",
+        "folder":  "elf",
+        "size_x":  8.03,
+        "height":  4.81,
+        "size_z":  2.6,
+        "pieces":  [
+                       "elf_stone",
+                       "elf_wood",
+                       "gold"
+                   ]
+    },
+    {
+        "id":  "F34_crystal_cluster",
+        "folder":  "elf",
+        "size_x":  7.3,
+        "height":  9.74,
+        "size_z":  6.85,
+        "pieces":  [
+                       "cliff_b",
+                       "glow_cyan",
+                       "magic",
+                       "magic_purple",
+                       "moss_bright"
+                   ]
+    },
+    {
+        "id":  "F35_vine_pillar",
+        "folder":  "elf",
+        "size_x":  4.07,
+        "height":  18.0,
+        "size_z":  4.06,
+        "pieces":  [
+                       "elf_stone",
+                       "glow_pink",
+                       "gold",
+                       "jleaf_a",
+                       "jleaf_b",
+                       "jleaf_c",
+                       "jleaf_d",
+                       "leaf_dark"
+                   ]
+    },
+    {
+        "id":  "G01_pier_straight",
+        "folder":  "harbour",
+        "size_x":  13.4,
+        "height":  9.68,
+        "size_z":  24.0,
+        "pieces":  [
+                       "algae",
+                       "barnacle",
+                       "dock",
+                       "dock_b",
+                       "iron",
+                       "piling",
+                       "rope",
+                       "rope_dark",
+                       "tar"
+                   ]
+    },
+    {
+        "id":  "G02_pier_corner",
+        "folder":  "harbour",
+        "size_x":  12.3,
+        "height":  16.24,
+        "size_z":  12.4,
+        "pieces":  [
+                       "algae",
+                       "barnacle",
+                       "dock",
+                       "dock_b",
+                       "glass_lit",
+                       "iron",
+                       "piling",
+                       "tar"
+                   ]
+    },
+    {
+        "id":  "G03_pier_end",
+        "folder":  "harbour",
+        "size_x":  12.22,
+        "height":  16.64,
+        "size_z":  15.51,
+        "pieces":  [
+                       "algae",
+                       "barnacle",
+                       "dock",
+                       "dock_b",
+                       "glass_lit",
+                       "iron",
+                       "piling",
+                       "rope",
+                       "rope_dark",
+                       "tar",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "G04_pier_stairs",
+        "folder":  "harbour",
+        "size_x":  11.0,
+        "height":  11.32,
+        "size_z":  17.77,
+        "pieces":  [
+                       "algae",
+                       "barnacle",
+                       "dock",
+                       "dock_b",
+                       "hull_dark",
+                       "iron",
+                       "piling",
+                       "tar"
+                   ]
+    },
+    {
+        "id":  "G05_piling_cluster",
+        "folder":  "harbour",
+        "size_x":  7.56,
+        "height":  12.75,
+        "size_z":  4.68,
+        "pieces":  [
+                       "algae",
+                       "barnacle",
+                       "piling",
+                       "rope",
+                       "rust",
+                       "tar",
+                       "whitewash"
+                   ]
+    },
+    {
+        "id":  "G06_galleon",
+        "folder":  "harbour",
+        "size_x":  88.0,
+        "height":  60.88,
+        "size_z":  28.02,
+        "pieces":  [
+                       "brass",
+                       "dock",
+                       "door_paint",
+                       "fabric_blue",
+                       "fabric_red",
+                       "glass_lit",
+                       "gold",
+                       "hull",
+                       "hull_dark",
+                       "hull_red",
+                       "iron",
+                       "rope",
+                       "rope_dark",
+                       "sail",
+                       "sail_b",
+                       "tar",
+                       "timber",
+                       "wood",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "G07_merchant_ship",
+        "folder":  "harbour",
+        "size_x":  61.49,
+        "height":  41.69,
+        "size_z":  20.03,
+        "pieces":  [
+                       "brass",
+                       "canvas",
+                       "dock",
+                       "fabric_green",
+                       "glass_lit",
+                       "gold",
+                       "hull",
+                       "hull_blue",
+                       "hull_dark",
+                       "hull_white",
+                       "iron",
+                       "rope",
+                       "rope_dark",
+                       "sail",
+                       "sail_b",
+                       "tar",
+                       "tile_red_a",
+                       "tile_red_b",
+                       "timber",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "G08_fishing_boat_1",
+        "folder":  "harbour",
+        "size_x":  18.26,
+        "height":  18.85,
+        "size_z":  6.48,
+        "pieces":  [
+                       "brass",
+                       "dock_b",
+                       "fish",
+                       "fl_orange",
+                       "glass_dark",
+                       "hull",
+                       "hull_dark",
+                       "hull_red",
+                       "hull_white",
+                       "iron",
+                       "net",
+                       "roof_red",
+                       "rope",
+                       "rope_dark",
+                       "sail_b",
+                       "stone_dark",
+                       "tar",
+                       "terracotta",
+                       "wicker",
+                       "wood",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "G09_fishing_boat_2",
+        "folder":  "harbour",
+        "size_x":  16.26,
+        "height":  16.71,
+        "size_z":  5.8,
+        "pieces":  [
+                       "dock_b",
+                       "fish",
+                       "fl_orange",
+                       "hull",
+                       "hull_dark",
+                       "hull_green",
+                       "hull_white",
+                       "net",
+                       "rope",
+                       "rope_dark",
+                       "sail_red",
+                       "tar",
+                       "wicker",
+                       "wood",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "G10_rowboat",
+        "folder":  "harbour",
+        "size_x":  11.65,
+        "height":  2.48,
+        "size_z":  11.1,
+        "pieces":  [
+                       "hull",
+                       "hull_blue",
+                       "hull_dark",
+                       "iron",
+                       "rope",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "G11_lighthouse",
+        "folder":  "harbour",
+        "size_x":  27.78,
+        "height":  45.75,
+        "size_z":  27.2,
+        "pieces":  [
+                       "algae",
+                       "brass",
+                       "cliff_a",
+                       "cliff_b",
+                       "dirt",
+                       "fl_red",
+                       "glass_dark",
+                       "glass_lit",
+                       "glow",
+                       "gold",
+                       "iron",
+                       "leaf",
+                       "leaf_dark",
+                       "lh_red",
+                       "lh_white",
+                       "shutter_g",
+                       "stone",
+                       "stone_dark",
+                       "stone_light",
+                       "terracotta",
+                       "tile_red_a",
+                       "tile_red_b",
+                       "timber",
+                       "whitewash",
+                       "wood",
+                       "wood_paint"
+                   ]
+    },
+    {
+        "id":  "G12_warehouse_1",
+        "folder":  "harbour",
+        "size_x":  24.0,
+        "height":  21.26,
+        "size_z":  20.14,
+        "pieces":  [
+                       "brass",
+                       "canvas",
+                       "door_paint",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "rope",
+                       "shutter_b",
+                       "stone",
+                       "stone_dark",
+                       "stone_light",
+                       "tile_a",
+                       "tile_grey",
+                       "timber",
+                       "wood",
+                       "wood_dark",
+                       "wood_light",
+                       "wood_old",
+                       "wood_paint"
+                   ]
+    },
+    {
+        "id":  "G13_warehouse_2",
+        "folder":  "harbour",
+        "size_x":  33.85,
+        "height":  21.35,
+        "size_z":  21.25,
+        "pieces":  [
+                       "brass",
+                       "brick",
+                       "canvas",
+                       "canvas_b",
+                       "door_paint",
+                       "glass_dark",
+                       "glass_lit",
+                       "hole",
+                       "iron",
+                       "net",
+                       "rope",
+                       "shutter_g",
+                       "stone_dark",
+                       "stone_light",
+                       "tile_red_a",
+                       "tile_red_b",
+                       "timber",
+                       "wood",
+                       "wood_dark",
+                       "wood_light",
+                       "wood_paint"
+                   ]
+    },
+    {
+        "id":  "G14_harbour_master",
+        "folder":  "harbour",
+        "size_x":  22.63,
+        "height":  27.42,
+        "size_z":  15.0,
+        "pieces":  [
+                       "ashlar",
+                       "brass",
+                       "brick",
+                       "castle_trim",
+                       "dirt",
+                       "door_paint",
+                       "fabric_blue",
+                       "fabric_green",
+                       "fabric_red",
+                       "fl_blue",
+                       "fl_white",
+                       "fl_yellow",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "leaf",
+                       "leaf_dark",
+                       "paper",
+                       "patina",
+                       "rope",
+                       "shutter_b",
+                       "stone",
+                       "stone_dark",
+                       "stone_light",
+                       "tar",
+                       "terracotta",
+                       "tile_a",
+                       "tile_b",
+                       "timber",
+                       "whitewash",
+                       "wood",
+                       "wood_dark",
+                       "wood_paint"
+                   ]
+    },
+    {
+        "id":  "G15_fish_market_stall",
+        "folder":  "harbour",
+        "size_x":  12.38,
+        "height":  7.56,
+        "size_z":  5.45,
+        "pieces":  [
+                       "brass",
+                       "fabric_blue",
+                       "fabric_cream",
+                       "fish",
+                       "fish_b",
+                       "ice",
+                       "iron",
+                       "rope",
+                       "tar",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "G16_cargo_crane",
+        "folder":  "harbour",
+        "size_x":  22.13,
+        "height":  21.4,
+        "size_z":  10.0,
+        "pieces":  [
+                       "iron",
+                       "net",
+                       "rope",
+                       "stone",
+                       "timber",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "G17_net_rack",
+        "folder":  "harbour",
+        "size_x":  14.43,
+        "height":  7.22,
+        "size_z":  3.8,
+        "pieces":  [
+                       "fl_orange",
+                       "net",
+                       "rope",
+                       "wicker",
+                       "wood",
+                       "wood_grey",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "G18_rope_coil",
+        "folder":  "harbour",
+        "size_x":  8.62,
+        "height":  2.38,
+        "size_z":  4.23,
+        "pieces":  [
+                       "rope",
+                       "rope_dark"
+                   ]
+    },
+    {
+        "id":  "G19_anchor",
+        "folder":  "harbour",
+        "size_x":  6.82,
+        "height":  8.61,
+        "size_z":  4.8,
+        "pieces":  [
+                       "iron",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "G20_buoy",
+        "folder":  "harbour",
+        "size_x":  4.38,
+        "height":  10.54,
+        "size_z":  4.38,
+        "pieces":  [
+                       "algae",
+                       "brass",
+                       "glow",
+                       "iron",
+                       "lh_red",
+                       "lh_white",
+                       "rope_dark"
+                   ]
+    },
+    {
+        "id":  "G21_lobster_trap",
+        "folder":  "harbour",
+        "size_x":  7.11,
+        "height":  1.5,
+        "size_z":  3.47,
+        "pieces":  [
+                       "fabric_red",
+                       "fl_yellow",
+                       "net",
+                       "rope",
+                       "stone_dark",
+                       "wood_grey",
+                       "wood_old"
+                   ]
+    },
+    {
+        "id":  "G22_cannon",
+        "folder":  "harbour",
+        "size_x":  5.63,
+        "height":  2.7,
+        "size_z":  5.61,
+        "pieces":  [
+                       "iron",
+                       "rope_dark",
+                       "tar",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "G23_harbour_fort",
+        "folder":  "harbour",
+        "size_x":  46.47,
+        "height":  33.0,
+        "size_z":  40.45,
+        "pieces":  [
+                       "algae",
+                       "brass",
+                       "cob_a",
+                       "door_paint",
+                       "fabric_red",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "stone_1",
+                       "stone_2",
+                       "stone_dark",
+                       "stone_light",
+                       "tar",
+                       "tile_a",
+                       "tile_grey",
+                       "timber",
+                       "wood",
+                       "wood_dark",
+                       "wood_paint"
+                   ]
+    },
+    {
+        "id":  "G24_harbour_house_1",
+        "folder":  "harbour",
+        "size_x":  18.36,
+        "height":  21.51,
+        "size_z":  13.53,
+        "pieces":  [
+                       "brass",
+                       "brick",
+                       "dirt",
+                       "door_paint",
+                       "fish",
+                       "fl_blue",
+                       "fl_orange",
+                       "fl_white",
+                       "glass_dark",
+                       "glass_lit",
+                       "iron",
+                       "leaf",
+                       "leaf_dark",
+                       "net",
+                       "rope",
+                       "shutter_b",
+                       "stone",
+                       "stone_dark",
+                       "stone_light",
+                       "terracotta",
+                       "tile_red_a",
+                       "tile_red_b",
+                       "timber",
+                       "whitewash",
+                       "wood",
+                       "wood_grey",
+                       "wood_light",
+                       "wood_old",
+                       "wood_paint"
+                   ]
+    },
+    {
+        "id":  "G25_harbour_house_2",
+        "folder":  "harbour",
+        "size_x":  12.54,
+        "height":  26.88,
+        "size_z":  15.4,
+        "pieces":  [
+                       "brass",
+                       "brick",
+                       "dirt",
+                       "door_paint",
+                       "fl_red",
+                       "fl_yellow",
+                       "glass_dark",
+                       "glass_lit",
+                       "iron",
+                       "leaf",
+                       "leaf_dark",
+                       "plaster_c",
+                       "shutter_g",
+                       "shutter_r",
+                       "stone",
+                       "stone_dark",
+                       "terracotta",
+                       "tile_a",
+                       "tile_grey",
+                       "timber",
+                       "wood",
+                       "wood_dark",
+                       "wood_paint"
+                   ]
+    },
+    {
+        "id":  "G26_harbour_house_3",
+        "folder":  "harbour",
+        "size_x":  11.6,
+        "height":  19.56,
+        "size_z":  13.27,
+        "pieces":  [
+                       "algae",
+                       "barnacle",
+                       "brass",
+                       "dock",
+                       "dock_b",
+                       "fl_orange",
+                       "glass_dark",
+                       "glass_lit",
+                       "iron",
+                       "net",
+                       "piling",
+                       "roof_old",
+                       "roof_old_b",
+                       "rope",
+                       "shutter_b",
+                       "tar",
+                       "timber",
+                       "wood_grey",
+                       "wood_old",
+                       "wood_paint"
+                   ]
+    },
+    {
+        "id":  "G27_harbour_tavern",
+        "folder":  "harbour",
+        "size_x":  23.11,
+        "height":  25.37,
+        "size_z":  23.14,
+        "pieces":  [
+                       "brass",
+                       "brick",
+                       "dirt",
+                       "dock",
+                       "dock_b",
+                       "door_paint",
+                       "fabric_blue",
+                       "fabric_green",
+                       "fl_red",
+                       "fl_white",
+                       "glass_dark",
+                       "glass_lit",
+                       "gold",
+                       "iron",
+                       "leaf",
+                       "leaf_dark",
+                       "plaster_d",
+                       "shutter_g",
+                       "shutter_r",
+                       "stone",
+                       "stone_dark",
+                       "terracotta",
+                       "tile_red_a",
+                       "tile_red_b",
+                       "timber",
+                       "wax",
+                       "wood",
+                       "wood_dark",
+                       "wood_light",
+                       "wood_paint"
+                   ]
+    },
+    {
+        "id":  "G28_seawall",
+        "folder":  "harbour",
+        "size_x":  24.05,
+        "height":  12.6,
+        "size_z":  7.28,
+        "pieces":  [
+                       "algae",
+                       "barnacle",
+                       "cliff_a",
+                       "iron",
+                       "rust",
+                       "stone",
+                       "stone_dark",
+                       "stone_light",
+                       "tar"
+                   ]
+    },
+    {
+        "id":  "G29_breakwater",
+        "folder":  "harbour",
+        "size_x":  36.28,
+        "height":  13.76,
+        "size_z":  16.51,
+        "pieces":  [
+                       "algae",
+                       "cliff_a",
+                       "cliff_b",
+                       "iron",
+                       "lh_red",
+                       "lh_white",
+                       "piling",
+                       "potion_red",
+                       "stone",
+                       "stone_dark",
+                       "stone_light",
+                       "whitewash"
+                   ]
+    },
+    {
+        "id":  "G30_ship_bell",
+        "folder":  "harbour",
+        "size_x":  5.6,
+        "height":  8.33,
+        "size_z":  3.18,
+        "pieces":  [
+                       "brass",
+                       "iron",
+                       "roof_old",
+                       "roof_old_b",
+                       "rope",
+                       "rope_dark",
+                       "timber"
+                   ]
+    },
+    {
+        "id":  "G31_mooring_bollard",
+        "folder":  "harbour",
+        "size_x":  8.16,
+        "height":  2.56,
+        "size_z":  2.54,
+        "pieces":  [
+                       "iron",
+                       "rope",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "G32_gangplank",
+        "folder":  "harbour",
+        "size_x":  15.06,
+        "height":  3.61,
+        "size_z":  2.72,
+        "pieces":  [
+                       "dock",
+                       "dock_b",
+                       "iron",
+                       "piling",
+                       "rope",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "G33_cargo_pallet",
+        "folder":  "harbour",
+        "size_x":  5.43,
+        "height":  7.5,
+        "size_z":  4.9,
+        "pieces":  [
+                       "canvas",
+                       "canvas_b",
+                       "iron",
+                       "rope",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A15_lamp_iron_city",
+        "folder":  "lighting",
+        "size_x":  2.89,
+        "height":  18.6,
+        "size_z":  2.86,
+        "pieces":  [
+                       "brass",
+                       "glass_lit",
+                       "glow",
+                       "iron"
+                   ]
+    },
+    {
+        "id":  "A16_lamp_iron_double",
+        "folder":  "lighting",
+        "size_x":  10.06,
+        "height":  18.7,
+        "size_z":  2.86,
+        "pieces":  [
+                       "brass",
+                       "glass_lit",
+                       "glow",
+                       "iron"
+                   ]
+    },
+    {
+        "id":  "A17_lamp_wood_rustic",
+        "folder":  "lighting",
+        "size_x":  6.11,
+        "height":  14.9,
+        "size_z":  3.15,
+        "pieces":  [
+                       "brass",
+                       "glass_lit",
+                       "glow",
+                       "iron",
+                       "stone",
+                       "stone_dark",
+                       "wood",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "A18_wall_lantern",
+        "folder":  "lighting",
+        "size_x":  1.4,
+        "height":  4.87,
+        "size_z":  2.68,
+        "pieces":  [
+                       "brass",
+                       "glass_lit",
+                       "glow",
+                       "iron"
+                   ]
+    },
+    {
+        "id":  "A19_hanging_lantern",
+        "folder":  "lighting",
+        "size_x":  2.04,
+        "height":  6.11,
+        "size_z":  2.04,
+        "pieces":  [
+                       "brass",
+                       "glass_lit",
+                       "glow",
+                       "iron"
+                   ]
+    },
+    {
+        "id":  "A20_wall_torch",
+        "folder":  "lighting",
+        "size_x":  0.9,
+        "height":  3.35,
+        "size_z":  1.25,
+        "pieces":  [
+                       "flame",
+                       "flame_core",
+                       "iron_dark",
+                       "rope",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "A21_brazier",
+        "folder":  "lighting",
+        "size_x":  4.32,
+        "height":  6.4,
+        "size_z":  4.18,
+        "pieces":  [
+                       "brass",
+                       "flame",
+                       "flame_core",
+                       "iron",
+                       "iron_dark"
+                   ]
+    },
+    {
+        "id":  "A22_campfire",
+        "folder":  "lighting",
+        "size_x":  5.15,
+        "height":  2.92,
+        "size_z":  4.91,
+        "pieces":  [
+                       "bark",
+                       "flame",
+                       "flame_core",
+                       "iron_dark",
+                       "stone",
+                       "stone_dark",
+                       "stone_light",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A23_candle_cluster",
+        "folder":  "lighting",
+        "size_x":  2.8,
+        "height":  3.59,
+        "size_z":  2.8,
+        "pieces":  [
+                       "flame",
+                       "iron_dark",
+                       "wax"
+                   ]
+    },
+    {
+        "id":  "A24_oak_1",
+        "folder":  "nature",
+        "size_x":  38.09,
+        "height":  38.71,
+        "size_z":  40.37,
+        "pieces":  [
+                       "bark",
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light"
+                   ]
+    },
+    {
+        "id":  "A25_oak_2",
+        "folder":  "nature",
+        "size_x":  30.0,
+        "height":  30.11,
+        "size_z":  28.45,
+        "pieces":  [
+                       "bark",
+                       "leaf",
+                       "leaf_light"
+                   ]
+    },
+    {
+        "id":  "A26_oak_3",
+        "folder":  "nature",
+        "size_x":  16.57,
+        "height":  22.42,
+        "size_z":  14.13,
+        "pieces":  [
+                       "bark",
+                       "birch_leaf",
+                       "leaf",
+                       "leaf_light"
+                   ]
+    },
+    {
+        "id":  "A27_birch_1",
+        "folder":  "nature",
+        "size_x":  20.05,
+        "height":  36.46,
+        "size_z":  19.84,
+        "pieces":  [
+                       "birch",
+                       "birch_leaf",
+                       "iron_dark",
+                       "leaf",
+                       "leaf_light"
+                   ]
+    },
+    {
+        "id":  "A28_birch_2",
+        "folder":  "nature",
+        "size_x":  14.83,
+        "height":  29.42,
+        "size_z":  16.46,
+        "pieces":  [
+                       "birch",
+                       "birch_leaf",
+                       "iron_dark",
+                       "leaf",
+                       "leaf_light"
+                   ]
+    },
+    {
+        "id":  "A29_pine_1",
+        "folder":  "nature",
+        "size_x":  20.35,
+        "height":  41.94,
+        "size_z":  21.44,
+        "pieces":  [
+                       "bark",
+                       "pine",
+                       "pine_dark"
+                   ]
+    },
+    {
+        "id":  "A30_pine_2",
+        "folder":  "nature",
+        "size_x":  21.07,
+        "height":  31.43,
+        "size_z":  21.19,
+        "pieces":  [
+                       "bark",
+                       "pine",
+                       "pine_light"
+                   ]
+    },
+    {
+        "id":  "A31_pine_3",
+        "folder":  "nature",
+        "size_x":  12.96,
+        "height":  17.98,
+        "size_z":  13.52,
+        "pieces":  [
+                       "bark",
+                       "pine",
+                       "pine_light"
+                   ]
+    },
+    {
+        "id":  "A32_maple_autumn",
+        "folder":  "nature",
+        "size_x":  22.74,
+        "height":  29.85,
+        "size_z":  21.35,
+        "pieces":  [
+                       "autumn_a",
+                       "autumn_b",
+                       "autumn_c",
+                       "bark"
+                   ]
+    },
+    {
+        "id":  "A33_willow",
+        "folder":  "nature",
+        "size_x":  26.2,
+        "height":  25.39,
+        "size_z":  26.01,
+        "pieces":  [
+                       "bark",
+                       "birch_leaf",
+                       "leaf_light",
+                       "willow"
+                   ]
+    },
+    {
+        "id":  "A34_fruit_tree",
+        "folder":  "nature",
+        "size_x":  19.06,
+        "height":  18.12,
+        "size_z":  15.75,
+        "pieces":  [
+                       "bark",
+                       "fruit",
+                       "leaf",
+                       "leaf_light"
+                   ]
+    },
+    {
+        "id":  "A35_dead_tree_1",
+        "folder":  "nature",
+        "size_x":  17.53,
+        "height":  26.95,
+        "size_z":  18.06,
+        "pieces":  [
+                       "bark",
+                       "bark_dead"
+                   ]
+    },
+    {
+        "id":  "A36_dead_tree_2",
+        "folder":  "nature",
+        "size_x":  14.27,
+        "height":  15.39,
+        "size_z":  9.32,
+        "pieces":  [
+                       "bark",
+                       "bark_dead"
+                   ]
+    },
+    {
+        "id":  "A37_sapling",
+        "folder":  "nature",
+        "size_x":  5.35,
+        "height":  9.41,
+        "size_z":  6.42,
+        "pieces":  [
+                       "bark",
+                       "dirt",
+                       "leaf",
+                       "leaf_light",
+                       "rope",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A38_bush_1",
+        "folder":  "nature",
+        "size_x":  7.94,
+        "height":  4.41,
+        "size_z":  8.03,
+        "pieces":  [
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light"
+                   ]
+    },
+    {
+        "id":  "A39_bush_2",
+        "folder":  "nature",
+        "size_x":  10.87,
+        "height":  6.34,
+        "size_z":  10.93,
+        "pieces":  [
+                       "fl_red",
+                       "leaf",
+                       "leaf_dark"
+                   ]
+    },
+    {
+        "id":  "A40_bush_3",
+        "folder":  "nature",
+        "size_x":  6.67,
+        "height":  3.69,
+        "size_z":  6.64,
+        "pieces":  [
+                       "fl_white",
+                       "leaf",
+                       "leaf_light"
+                   ]
+    },
+    {
+        "id":  "A41_hedge_straight",
+        "folder":  "nature",
+        "size_x":  12.31,
+        "height":  4.87,
+        "size_z":  3.74,
+        "pieces":  [
+                       "leaf",
+                       "leaf_dark"
+                   ]
+    },
+    {
+        "id":  "A42_hedge_corner",
+        "folder":  "nature",
+        "size_x":  7.82,
+        "height":  4.94,
+        "size_z":  8.06,
+        "pieces":  [
+                       "leaf",
+                       "leaf_dark"
+                   ]
+    },
+    {
+        "id":  "A43_flowers_red",
+        "folder":  "nature",
+        "size_x":  5.24,
+        "height":  2.04,
+        "size_z":  4.57,
+        "pieces":  [
+                       "fl_red",
+                       "iron_dark",
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light"
+                   ]
+    },
+    {
+        "id":  "A44_flowers_yellow",
+        "folder":  "nature",
+        "size_x":  4.58,
+        "height":  1.96,
+        "size_z":  4.26,
+        "pieces":  [
+                       "fl_orange",
+                       "fl_yellow",
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light"
+                   ]
+    },
+    {
+        "id":  "A45_flowers_purple",
+        "folder":  "nature",
+        "size_x":  4.85,
+        "height":  2.24,
+        "size_z":  4.01,
+        "pieces":  [
+                       "fl_purple",
+                       "leaf",
+                       "leaf_dark"
+                   ]
+    },
+    {
+        "id":  "A46_flowers_white",
+        "folder":  "nature",
+        "size_x":  4.76,
+        "height":  2.01,
+        "size_z":  4.13,
+        "pieces":  [
+                       "fl_white",
+                       "fl_yellow",
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light"
+                   ]
+    },
+    {
+        "id":  "A47_flowers_blue",
+        "folder":  "nature",
+        "size_x":  5.11,
+        "height":  2.04,
+        "size_z":  4.02,
+        "pieces":  [
+                       "fl_blue",
+                       "fl_white",
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light"
+                   ]
+    },
+    {
+        "id":  "A48_planter_box",
+        "folder":  "nature",
+        "size_x":  6.3,
+        "height":  3.33,
+        "size_z":  2.86,
+        "pieces":  [
+                       "dirt",
+                       "fl_blue",
+                       "fl_purple",
+                       "fl_red",
+                       "fl_white",
+                       "fl_yellow",
+                       "iron",
+                       "leaf",
+                       "leaf_dark",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A49_tall_grass_1",
+        "folder":  "nature",
+        "size_x":  3.25,
+        "height":  2.98,
+        "size_z":  3.15,
+        "pieces":  [
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light"
+                   ]
+    },
+    {
+        "id":  "A50_tall_grass_2",
+        "folder":  "nature",
+        "size_x":  4.51,
+        "height":  4.0,
+        "size_z":  4.08,
+        "pieces":  [
+                       "grass_dry",
+                       "leaf_light",
+                       "thatch"
+                   ]
+    },
+    {
+        "id":  "A51_fern",
+        "folder":  "nature",
+        "size_x":  6.6,
+        "height":  1.45,
+        "size_z":  6.68,
+        "pieces":  [
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light"
+                   ]
+    },
+    {
+        "id":  "A52_reeds",
+        "folder":  "nature",
+        "size_x":  4.53,
+        "height":  5.49,
+        "size_z":  4.94,
+        "pieces":  [
+                       "grass_dry",
+                       "leaf",
+                       "leaf_dark",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "A53_lily_pads",
+        "folder":  "nature",
+        "size_x":  5.55,
+        "height":  0.47,
+        "size_z":  6.9,
+        "pieces":  [
+                       "fl_pink",
+                       "fl_white",
+                       "fl_yellow",
+                       "leaf",
+                       "leaf_dark"
+                   ]
+    },
+    {
+        "id":  "A54_mushroom_cluster",
+        "folder":  "nature",
+        "size_x":  4.22,
+        "height":  2.41,
+        "size_z":  3.61,
+        "pieces":  [
+                       "fl_red",
+                       "fl_white",
+                       "moss",
+                       "mush_tan"
+                   ]
+    },
+    {
+        "id":  "A55_pebbles",
+        "folder":  "nature",
+        "size_x":  3.42,
+        "height":  0.4,
+        "size_z":  3.97,
+        "pieces":  [
+                       "stone",
+                       "stone_dark",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "A56_rock_small_1",
+        "folder":  "nature",
+        "size_x":  4.1,
+        "height":  1.73,
+        "size_z":  3.3,
+        "pieces":  [
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light",
+                       "stone"
+                   ]
+    },
+    {
+        "id":  "A57_rock_small_2",
+        "folder":  "nature",
+        "size_x":  5.3,
+        "height":  2.27,
+        "size_z":  3.77,
+        "pieces":  [
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light",
+                       "moss",
+                       "stone_dark"
+                   ]
+    },
+    {
+        "id":  "A58_rock_medium_1",
+        "folder":  "nature",
+        "size_x":  10.19,
+        "height":  4.41,
+        "size_z":  7.48,
+        "pieces":  [
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light",
+                       "moss",
+                       "stone"
+                   ]
+    },
+    {
+        "id":  "A59_rock_medium_2",
+        "folder":  "nature",
+        "size_x":  9.27,
+        "height":  3.01,
+        "size_z":  6.69,
+        "pieces":  [
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "A60_boulder_1",
+        "folder":  "nature",
+        "size_x":  20.56,
+        "height":  8.79,
+        "size_z":  15.85,
+        "pieces":  [
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light",
+                       "moss",
+                       "stone"
+                   ]
+    },
+    {
+        "id":  "A61_boulder_2",
+        "folder":  "nature",
+        "size_x":  12.11,
+        "height":  10.76,
+        "size_z":  11.44,
+        "pieces":  [
+                       "moss",
+                       "stone",
+                       "stone_dark"
+                   ]
+    },
+    {
+        "id":  "A62_cliff_1",
+        "folder":  "nature",
+        "size_x":  20.72,
+        "height":  19.97,
+        "size_z":  11.6,
+        "pieces":  [
+                       "cliff_a",
+                       "cliff_b",
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light",
+                       "moss"
+                   ]
+    },
+    {
+        "id":  "A63_cliff_2",
+        "folder":  "nature",
+        "size_x":  28.53,
+        "height":  27.51,
+        "size_z":  13.14,
+        "pieces":  [
+                       "cliff_a",
+                       "cliff_b",
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light",
+                       "moss"
+                   ]
+    },
+    {
+        "id":  "A64_cliff_3",
+        "folder":  "nature",
+        "size_x":  16.67,
+        "height":  11.91,
+        "size_z":  10.28,
+        "pieces":  [
+                       "cliff_a",
+                       "cliff_b",
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light",
+                       "moss"
+                   ]
+    },
+    {
+        "id":  "A65_rock_arch",
+        "folder":  "nature",
+        "size_x":  30.78,
+        "height":  15.6,
+        "size_z":  10.09,
+        "pieces":  [
+                       "cliff_a",
+                       "cliff_b",
+                       "moss"
+                   ]
+    },
+    {
+        "id":  "A66_stepping_stones",
+        "folder":  "nature",
+        "size_x":  7.13,
+        "height":  1.13,
+        "size_z":  19.93,
+        "pieces":  [
+                       "stone",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "A67_fallen_log",
+        "folder":  "nature",
+        "size_x":  14.37,
+        "height":  2.97,
+        "size_z":  3.53,
+        "pieces":  [
+                       "bark",
+                       "moss",
+                       "wood",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A68_stump_1",
+        "folder":  "nature",
+        "size_x":  6.39,
+        "height":  3.24,
+        "size_z":  5.96,
+        "pieces":  [
+                       "bark",
+                       "moss",
+                       "wood",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A69_stump_2",
+        "folder":  "nature",
+        "size_x":  4.08,
+        "height":  2.47,
+        "size_z":  3.64,
+        "pieces":  [
+                       "bark",
+                       "moss",
+                       "wood",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A70_branch_pile",
+        "folder":  "nature",
+        "size_x":  5.92,
+        "height":  1.71,
+        "size_z":  5.92,
+        "pieces":  [
+                       "autumn_a",
+                       "autumn_c",
+                       "bark",
+                       "bark_dead",
+                       "leaf_dark"
+                   ]
+    },
+    {
+        "id":  "A100_fence_picket",
+        "folder":  "props",
+        "size_x":  12.5,
+        "height":  4.6,
+        "size_z":  0.61,
+        "pieces":  [
+                       "wood_paint"
+                   ]
+    },
+    {
+        "id":  "A101_fence_rail",
+        "folder":  "props",
+        "size_x":  12.58,
+        "height":  4.0,
+        "size_z":  0.65,
+        "pieces":  [
+                       "bark",
+                       "wood",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "A102_stone_wall_low",
+        "folder":  "props",
+        "size_x":  12.43,
+        "height":  3.63,
+        "size_z":  2.17,
+        "pieces":  [
+                       "cob_a",
+                       "cob_b",
+                       "moss",
+                       "stone",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "A103_fence_iron",
+        "folder":  "props",
+        "size_x":  13.6,
+        "height":  6.65,
+        "size_z":  1.6,
+        "pieces":  [
+                       "iron",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "A104_wooden_gate",
+        "folder":  "props",
+        "size_x":  11.2,
+        "height":  6.5,
+        "size_z":  0.8,
+        "pieces":  [
+                       "iron",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A105_market_stall_fruit",
+        "folder":  "props",
+        "size_x":  15.87,
+        "height":  8.06,
+        "size_z":  5.44,
+        "pieces":  [
+                       "fabric_cream",
+                       "fabric_red",
+                       "fl_orange",
+                       "fl_yellow",
+                       "fruit",
+                       "iron",
+                       "leaf_light",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A106_market_stall_cloth",
+        "folder":  "props",
+        "size_x":  15.87,
+        "height":  8.06,
+        "size_z":  5.49,
+        "pieces":  [
+                       "fabric_blue",
+                       "fabric_cream",
+                       "fabric_green",
+                       "fabric_red",
+                       "fl_purple",
+                       "iron",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A107_market_stall_potion",
+        "folder":  "props",
+        "size_x":  15.87,
+        "height":  8.06,
+        "size_z":  5.44,
+        "pieces":  [
+                       "fabric_green",
+                       "fl_purple",
+                       "gold",
+                       "iron",
+                       "potion_blue",
+                       "potion_green",
+                       "potion_red",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A108_awning",
+        "folder":  "props",
+        "size_x":  10.4,
+        "height":  2.75,
+        "size_z":  3.79,
+        "pieces":  [
+                       "fabric_cream",
+                       "fabric_red",
+                       "iron"
+                   ]
+    },
+    {
+        "id":  "A109_fountain_small",
+        "folder":  "props",
+        "size_x":  7.58,
+        "height":  6.6,
+        "size_z":  7.58,
+        "pieces":  [
+                       "foam",
+                       "stone",
+                       "stone_light",
+                       "water",
+                       "water_fx"
+                   ]
+    },
+    {
+        "id":  "A110_waterfall_rocks",
+        "folder":  "props",
+        "size_x":  20.5,
+        "height":  19.18,
+        "size_z":  14.8,
+        "pieces":  [
+                       "cliff_a",
+                       "cliff_b",
+                       "foam",
+                       "stone",
+                       "stone_dark",
+                       "water_fx"
+                   ]
+    },
+    {
+        "id":  "A111_pond_edge",
+        "folder":  "props",
+        "size_x":  23.31,
+        "height":  4.95,
+        "size_z":  14.37,
+        "pieces":  [
+                       "dirt",
+                       "fl_pink",
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light",
+                       "moss",
+                       "stone",
+                       "stone_dark",
+                       "stone_light",
+                       "water",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "A71_barrel",
+        "folder":  "props",
+        "size_x":  3.02,
+        "height":  4.02,
+        "size_z":  3.02,
+        "pieces":  [
+                       "iron",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A72_barrel_open",
+        "folder":  "props",
+        "size_x":  3.02,
+        "height":  4.67,
+        "size_z":  3.02,
+        "pieces":  [
+                       "fl_yellow",
+                       "fruit",
+                       "iron",
+                       "leaf_light",
+                       "wood",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "A73_crate_small",
+        "folder":  "props",
+        "size_x":  3.12,
+        "height":  3.0,
+        "size_z":  3.2,
+        "pieces":  [
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A74_crate_large",
+        "folder":  "props",
+        "size_x":  5.12,
+        "height":  4.0,
+        "size_z":  4.22,
+        "pieces":  [
+                       "iron_dark",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A75_crate_stack",
+        "folder":  "props",
+        "size_x":  10.47,
+        "height":  7.0,
+        "size_z":  6.51,
+        "pieces":  [
+                       "iron",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A76_sack",
+        "folder":  "props",
+        "size_x":  2.47,
+        "height":  2.62,
+        "size_z":  2.57,
+        "pieces":  [
+                       "fabric_cream",
+                       "rope"
+                   ]
+    },
+    {
+        "id":  "A77_sack_pile",
+        "folder":  "props",
+        "size_x":  6.51,
+        "height":  4.44,
+        "size_z":  5.76,
+        "pieces":  [
+                       "fabric_cream",
+                       "rope",
+                       "thatch"
+                   ]
+    },
+    {
+        "id":  "A78_hay_bale",
+        "folder":  "props",
+        "size_x":  5.74,
+        "height":  2.86,
+        "size_z":  5.81,
+        "pieces":  [
+                       "rope_dark",
+                       "thatch"
+                   ]
+    },
+    {
+        "id":  "A79_hand_cart",
+        "folder":  "props",
+        "size_x":  10.22,
+        "height":  4.1,
+        "size_z":  4.86,
+        "pieces":  [
+                       "iron",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A80_wagon",
+        "folder":  "props",
+        "size_x":  18.3,
+        "height":  6.87,
+        "size_z":  6.56,
+        "pieces":  [
+                       "iron",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A81_wheelbarrow",
+        "folder":  "props",
+        "size_x":  7.98,
+        "height":  3.05,
+        "size_z":  2.6,
+        "pieces":  [
+                       "iron",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A82_bench_wood",
+        "folder":  "props",
+        "size_x":  8.0,
+        "height":  4.11,
+        "size_z":  2.91,
+        "pieces":  [
+                       "iron",
+                       "wood",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A83_bench_stone",
+        "folder":  "props",
+        "size_x":  8.0,
+        "height":  2.2,
+        "size_z":  2.4,
+        "pieces":  [
+                       "stone",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "A84_table",
+        "folder":  "props",
+        "size_x":  8.0,
+        "height":  3.0,
+        "size_z":  3.96,
+        "pieces":  [
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A85_chair",
+        "folder":  "props",
+        "size_x":  1.95,
+        "height":  4.4,
+        "size_z":  1.95,
+        "pieces":  [
+                       "fabric_red",
+                       "wood",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "A86_stool",
+        "folder":  "props",
+        "size_x":  1.9,
+        "height":  2.01,
+        "size_z":  1.9,
+        "pieces":  [
+                       "wood",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "A87_bucket",
+        "folder":  "props",
+        "size_x":  1.58,
+        "height":  2.41,
+        "size_z":  1.52,
+        "pieces":  [
+                       "iron",
+                       "rope",
+                       "water",
+                       "wood",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "A88_clay_pot_1",
+        "folder":  "props",
+        "size_x":  2.38,
+        "height":  3.55,
+        "size_z":  2.38,
+        "pieces":  [
+                       "terracotta",
+                       "terracotta_dark"
+                   ]
+    },
+    {
+        "id":  "A89_clay_pot_2",
+        "folder":  "props",
+        "size_x":  2.5,
+        "height":  2.1,
+        "size_z":  2.5,
+        "pieces":  [
+                       "terracotta",
+                       "terracotta_dark"
+                   ]
+    },
+    {
+        "id":  "A90_firewood_stack",
+        "folder":  "props",
+        "size_x":  3.71,
+        "height":  4.99,
+        "size_z":  9.73,
+        "pieces":  [
+                       "bark",
+                       "roof_red",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A91_ladder",
+        "folder":  "props",
+        "size_x":  1.82,
+        "height":  12.0,
+        "size_z":  0.22,
+        "pieces":  [
+                       "wood",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "A92_laundry_line",
+        "folder":  "props",
+        "size_x":  16.35,
+        "height":  8.0,
+        "size_z":  2.01,
+        "pieces":  [
+                       "fabric_blue",
+                       "fabric_cream",
+                       "fabric_green",
+                       "fabric_red",
+                       "rope",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A93_notice_board",
+        "folder":  "props",
+        "size_x":  7.2,
+        "height":  9.7,
+        "size_z":  1.8,
+        "pieces":  [
+                       "fabric_cream",
+                       "fl_red",
+                       "paper",
+                       "roof_red",
+                       "wood",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "A94_shop_sign",
+        "folder":  "props",
+        "size_x":  0.6,
+        "height":  3.0,
+        "size_z":  3.68,
+        "pieces":  [
+                       "fabric_blue",
+                       "iron",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A95_flag_pole",
+        "folder":  "props",
+        "size_x":  9.45,
+        "height":  22.4,
+        "size_z":  2.4,
+        "pieces":  [
+                       "fabric_red",
+                       "gold",
+                       "stone_light",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "A96_wall_banner",
+        "folder":  "props",
+        "size_x":  5.02,
+        "height":  9.32,
+        "size_z":  0.44,
+        "pieces":  [
+                       "fabric_red",
+                       "gold"
+                   ]
+    },
+    {
+        "id":  "A97_water_trough",
+        "folder":  "props",
+        "size_x":  9.57,
+        "height":  4.77,
+        "size_z":  2.71,
+        "pieces":  [
+                       "iron",
+                       "stone",
+                       "stone_dark",
+                       "stone_light",
+                       "water"
+                   ]
+    },
+    {
+        "id":  "A98_well",
+        "folder":  "props",
+        "size_x":  8.4,
+        "height":  9.94,
+        "size_z":  7.3,
+        "pieces":  [
+                       "cob_a",
+                       "iron",
+                       "roof_dark",
+                       "roof_red",
+                       "rope",
+                       "stone",
+                       "stone_light",
+                       "water_dark",
+                       "wood",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "A99_anvil",
+        "folder":  "props",
+        "size_x":  5.2,
+        "height":  4.05,
+        "size_z":  3.75,
+        "pieces":  [
+                       "iron",
+                       "iron_dark",
+                       "steel",
+                       "wood",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "A01_road_straight",
+        "folder":  "roads",
+        "size_x":  24.0,
+        "height":  0.73,
+        "size_z":  24.0,
+        "pieces":  [
+                       "cob_a",
+                       "cob_b",
+                       "cob_c",
+                       "cob_d",
+                       "grout"
+                   ]
+    },
+    {
+        "id":  "A02_road_curve",
+        "folder":  "roads",
+        "size_x":  30.0,
+        "height":  0.73,
+        "size_z":  30.0,
+        "pieces":  [
+                       "cob_a",
+                       "cob_b",
+                       "cob_c",
+                       "cob_d",
+                       "grout"
+                   ]
+    },
+    {
+        "id":  "A03_road_tjunction",
+        "folder":  "roads",
+        "size_x":  24.36,
+        "height":  1.26,
+        "size_z":  24.03,
+        "pieces":  [
+                       "cob_a",
+                       "cob_b",
+                       "cob_c",
+                       "cob_d",
+                       "grout",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "A04_road_crossroads",
+        "folder":  "roads",
+        "size_x":  24.56,
+        "height":  0.83,
+        "size_z":  24.55,
+        "pieces":  [
+                       "cob_a",
+                       "cob_b",
+                       "cob_c",
+                       "cob_d",
+                       "grout",
+                       "stone_dark",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "A05_road_end_fade",
+        "folder":  "roads",
+        "size_x":  25.11,
+        "height":  1.44,
+        "size_z":  24.17,
+        "pieces":  [
+                       "cob_a",
+                       "cob_b",
+                       "cob_c",
+                       "cob_d",
+                       "dirt",
+                       "grout",
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light"
+                   ]
+    },
+    {
+        "id":  "A06_path_dirt_straight",
+        "folder":  "roads",
+        "size_x":  14.16,
+        "height":  1.06,
+        "size_z":  24.26,
+        "pieces":  [
+                       "dirt",
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light",
+                       "stone",
+                       "stone_dark",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "A07_path_dirt_curve",
+        "folder":  "roads",
+        "size_x":  20.72,
+        "height":  1.12,
+        "size_z":  20.68,
+        "pieces":  [
+                       "dirt",
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light",
+                       "stone",
+                       "stone_dark",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "A08_stairs_3",
+        "folder":  "roads",
+        "size_x":  15.2,
+        "height":  3.9,
+        "size_z":  7.53,
+        "pieces":  [
+                       "stone",
+                       "stone_dark",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "A09_stairs_6",
+        "folder":  "roads",
+        "size_x":  15.2,
+        "height":  6.9,
+        "size_z":  13.54,
+        "pieces":  [
+                       "stone",
+                       "stone_dark",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "A10_curb_stones",
+        "folder":  "roads",
+        "size_x":  23.96,
+        "height":  1.3,
+        "size_z":  2.18,
+        "pieces":  [
+                       "stone",
+                       "stone_dark",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "A11_bridge_footbridge",
+        "folder":  "roads",
+        "size_x":  7.5,
+        "height":  6.47,
+        "size_z":  21.6,
+        "pieces":  [
+                       "stone",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A12_bridge_stone_arch",
+        "folder":  "roads",
+        "size_x":  64.66,
+        "height":  17.48,
+        "size_z":  21.76,
+        "pieces":  [
+                       "cob_a",
+                       "cob_b",
+                       "cob_c",
+                       "cob_d",
+                       "stone",
+                       "stone_dark",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "A13_signpost",
+        "folder":  "roads",
+        "size_x":  8.76,
+        "height":  12.2,
+        "size_z":  6.55,
+        "pieces":  [
+                       "roof_red",
+                       "stone",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "A14_milestone",
+        "folder":  "roads",
+        "size_x":  3.52,
+        "height":  3.34,
+        "size_z":  2.17,
+        "pieces":  [
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light",
+                       "moss",
+                       "stone",
+                       "stone_dark",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "D01_church",
+        "folder":  "rusty",
+        "size_x":  26.6,
+        "height":  65.6,
+        "size_z":  57.6,
+        "pieces":  [
+                       "brass",
+                       "bronze",
+                       "door_paint",
+                       "gold",
+                       "hole",
+                       "iron",
+                       "iron_dark",
+                       "ivy",
+                       "leaf_dark",
+                       "roof_dark",
+                       "roof_red",
+                       "sandstone",
+                       "sandstone_dark",
+                       "sandstone_trim_1",
+                       "sandstone_trim_2",
+                       "stained_b",
+                       "stained_g",
+                       "stained_r",
+                       "stained_y",
+                       "timber"
+                   ]
+    },
+    {
+        "id":  "D02_church_bell",
+        "folder":  "rusty",
+        "size_x":  9.35,
+        "height":  8.75,
+        "size_z":  5.5,
+        "pieces":  [
+                       "bronze",
+                       "iron",
+                       "iron_dark",
+                       "rope",
+                       "timber"
+                   ]
+    },
+    {
+        "id":  "D03_church_rose_window",
+        "folder":  "rusty",
+        "size_x":  13.7,
+        "height":  13.7,
+        "size_z":  2.15,
+        "pieces":  [
+                       "sandstone",
+                       "sandstone_trim",
+                       "stained_b",
+                       "stained_g",
+                       "stained_r",
+                       "stained_y"
+                   ]
+    },
+    {
+        "id":  "D04_church_tall_window",
+        "folder":  "rusty",
+        "size_x":  10.0,
+        "height":  22.39,
+        "size_z":  2.2,
+        "pieces":  [
+                       "iron_dark",
+                       "sandstone",
+                       "sandstone_trim",
+                       "stained_b",
+                       "stained_g",
+                       "stained_r",
+                       "stained_y"
+                   ]
+    },
+    {
+        "id":  "D05_pew",
+        "folder":  "rusty",
+        "size_x":  12.29,
+        "height":  5.2,
+        "size_z":  3.9,
+        "pieces":  [
+                       "velvet",
+                       "wood",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "D06_altar",
+        "folder":  "rusty",
+        "size_x":  12.0,
+        "height":  9.1,
+        "size_z":  6.0,
+        "pieces":  [
+                       "book_a",
+                       "fabric_cream",
+                       "fabric_red",
+                       "flame",
+                       "gold",
+                       "marble",
+                       "paper",
+                       "sandstone_trim",
+                       "wax"
+                   ]
+    },
+    {
+        "id":  "D07_pulpit",
+        "folder":  "rusty",
+        "size_x":  7.95,
+        "height":  19.5,
+        "size_z":  8.66,
+        "pieces":  [
+                       "gold",
+                       "paper",
+                       "sandstone_trim",
+                       "wood",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "D08_pipe_organ",
+        "folder":  "rusty",
+        "size_x":  16.6,
+        "height":  31.04,
+        "size_z":  9.9,
+        "pieces":  [
+                       "fabric_cream",
+                       "gold",
+                       "hole",
+                       "iron_dark",
+                       "paper",
+                       "steel",
+                       "tin_b",
+                       "wood",
+                       "wood_dark",
+                       "wood_light"
+                   ]
+    },
+    {
+        "id":  "D09_candle_stand",
+        "folder":  "rusty",
+        "size_x":  5.33,
+        "height":  5.65,
+        "size_z":  4.72,
+        "pieces":  [
+                       "brass",
+                       "flame",
+                       "glass_lit",
+                       "iron_dark",
+                       "wax"
+                   ]
+    },
+    {
+        "id":  "D10_church_pillar",
+        "folder":  "rusty",
+        "size_x":  7.07,
+        "height":  25.88,
+        "size_z":  7.07,
+        "pieces":  [
+                       "sandstone",
+                       "sandstone_dark",
+                       "sandstone_trim"
+                   ]
+    },
+    {
+        "id":  "D11_church_door",
+        "folder":  "rusty",
+        "size_x":  10.0,
+        "height":  14.12,
+        "size_z":  2.85,
+        "pieces":  [
+                       "iron",
+                       "iron_dark",
+                       "sandstone",
+                       "sandstone_dark",
+                       "sandstone_trim",
+                       "timber",
+                       "wood_dark"
+                   ]
+    },
+    {
+        "id":  "D12_gravestone_1",
+        "folder":  "rusty",
+        "size_x":  2.56,
+        "height":  4.09,
+        "size_z":  4.65,
+        "pieces":  [
+                       "dirt",
+                       "fl_white",
+                       "moss",
+                       "stone",
+                       "stone_dark"
+                   ]
+    },
+    {
+        "id":  "D13_gravestone_2",
+        "folder":  "rusty",
+        "size_x":  3.31,
+        "height":  4.62,
+        "size_z":  4.68,
+        "pieces":  [
+                       "dirt",
+                       "fl_white",
+                       "fl_yellow",
+                       "rope",
+                       "stone",
+                       "stone_dark",
+                       "wood_grey"
+                   ]
+    },
+    {
+        "id":  "D14_gravestone_3",
+        "folder":  "rusty",
+        "size_x":  1.8,
+        "height":  6.0,
+        "size_z":  1.8,
+        "pieces":  [
+                       "moss",
+                       "stone",
+                       "stone_dark",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "D15_gravestone_4",
+        "folder":  "rusty",
+        "size_x":  2.74,
+        "height":  2.97,
+        "size_z":  4.52,
+        "pieces":  [
+                       "dirt",
+                       "ivy",
+                       "leaf_dark",
+                       "moss",
+                       "stone_dark"
+                   ]
+    },
+    {
+        "id":  "D16_stone_cross",
+        "folder":  "rusty",
+        "size_x":  4.2,
+        "height":  10.8,
+        "size_z":  4.0,
+        "pieces":  [
+                       "moss",
+                       "stone",
+                       "stone_dark",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "D17_mausoleum",
+        "folder":  "rusty",
+        "size_x":  15.0,
+        "height":  14.96,
+        "size_z":  20.4,
+        "pieces":  [
+                       "hole",
+                       "iron_dark",
+                       "ivy",
+                       "leaf_dark",
+                       "moss",
+                       "stone",
+                       "stone_dark",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "D18_graveyard_gate",
+        "folder":  "rusty",
+        "size_x":  14.4,
+        "height":  11.8,
+        "size_z":  2.4,
+        "pieces":  [
+                       "iron_dark",
+                       "moss",
+                       "stone",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "D19_weeping_statue",
+        "folder":  "rusty",
+        "size_x":  6.4,
+        "height":  12.24,
+        "size_z":  6.4,
+        "pieces":  [
+                       "ashlar_dark",
+                       "bronze",
+                       "castle",
+                       "gold",
+                       "ivy",
+                       "leaf_dark",
+                       "marble",
+                       "moss",
+                       "stone",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "D20_rundown_house_1",
+        "folder":  "rusty",
+        "size_x":  18.0,
+        "height":  25.39,
+        "size_z":  16.82,
+        "pieces":  [
+                       "brass",
+                       "brick",
+                       "door_paint",
+                       "glass_dark",
+                       "glass_lit",
+                       "hole",
+                       "iron",
+                       "ivy",
+                       "leaf_dark",
+                       "plaster_dirty",
+                       "roof_old",
+                       "roof_old_b",
+                       "stone",
+                       "stone_dark",
+                       "terracotta",
+                       "timber",
+                       "tin",
+                       "wood_grey",
+                       "wood_old",
+                       "wood_rot"
+                   ]
+    },
+    {
+        "id":  "D21_rundown_house_2",
+        "folder":  "rusty",
+        "size_x":  17.56,
+        "height":  31.22,
+        "size_z":  15.82,
+        "pieces":  [
+                       "brass",
+                       "brick",
+                       "door_paint",
+                       "glass_dark",
+                       "glass_lit",
+                       "hole",
+                       "iron",
+                       "ivy",
+                       "leaf_dark",
+                       "plaster_stain",
+                       "roof_old",
+                       "roof_old_b",
+                       "stone",
+                       "stone_dark",
+                       "terracotta",
+                       "timber",
+                       "tin",
+                       "wood_grey",
+                       "wood_old",
+                       "wood_rot"
+                   ]
+    },
+    {
+        "id":  "D22_rundown_house_3",
+        "folder":  "rusty",
+        "size_x":  22.0,
+        "height":  25.21,
+        "size_z":  16.82,
+        "pieces":  [
+                       "brass",
+                       "brick",
+                       "door_paint",
+                       "glass_dark",
+                       "glass_lit",
+                       "hole",
+                       "iron",
+                       "ivy",
+                       "leaf_dark",
+                       "roof_old",
+                       "roof_old_b",
+                       "stone",
+                       "stone_dark",
+                       "terracotta",
+                       "timber",
+                       "tin",
+                       "wood_grey",
+                       "wood_old",
+                       "wood_rot"
+                   ]
+    },
+    {
+        "id":  "D23_rundown_house_4",
+        "folder":  "rusty",
+        "size_x":  14.0,
+        "height":  24.5,
+        "size_z":  14.82,
+        "pieces":  [
+                       "brass",
+                       "brick",
+                       "door_paint",
+                       "glass_dark",
+                       "glass_lit",
+                       "hole",
+                       "iron",
+                       "ivy",
+                       "leaf_dark",
+                       "plaster_dirty",
+                       "roof_old",
+                       "roof_old_b",
+                       "stone",
+                       "stone_dark",
+                       "terracotta",
+                       "timber",
+                       "tin_b",
+                       "wood_grey",
+                       "wood_old",
+                       "wood_rot"
+                   ]
+    },
+    {
+        "id":  "D24_collapsed_ruin",
+        "folder":  "rusty",
+        "size_x":  20.38,
+        "height":  12.23,
+        "size_z":  15.45,
+        "pieces":  [
+                       "hole",
+                       "ivy",
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light",
+                       "roof_old",
+                       "roof_old_b",
+                       "stone",
+                       "stone_dark",
+                       "stone_light",
+                       "wood_rot"
+                   ]
+    },
+    {
+        "id":  "D25_rundown_tavern",
+        "folder":  "rusty",
+        "size_x":  24.0,
+        "height":  27.05,
+        "size_z":  22.27,
+        "pieces":  [
+                       "brass",
+                       "brick",
+                       "door_paint",
+                       "glass_dark",
+                       "glass_lit",
+                       "hole",
+                       "iron",
+                       "plaster_dirty",
+                       "roof_old",
+                       "roof_old_b",
+                       "rust",
+                       "stone",
+                       "stone_dark",
+                       "terracotta",
+                       "timber",
+                       "tin",
+                       "tin_b",
+                       "wood",
+                       "wood_dark",
+                       "wood_grey",
+                       "wood_light",
+                       "wood_old",
+                       "wood_rot"
+                   ]
+    },
+    {
+        "id":  "D26_blacksmith_shed",
+        "folder":  "rusty",
+        "size_x":  16.22,
+        "height":  14.3,
+        "size_z":  11.39,
+        "pieces":  [
+                       "brick",
+                       "dirt",
+                       "flame",
+                       "glow",
+                       "hole",
+                       "iron",
+                       "iron_dark",
+                       "rust",
+                       "steel",
+                       "stone",
+                       "stone_dark",
+                       "stone_light",
+                       "tin",
+                       "tin_b",
+                       "wood",
+                       "wood_dark",
+                       "wood_old",
+                       "wood_rot"
+                   ]
+    },
+    {
+        "id":  "D27_broken_windmill",
+        "folder":  "rusty",
+        "size_x":  21.75,
+        "height":  38.49,
+        "size_z":  16.79,
+        "pieces":  [
+                       "canvas",
+                       "canvas_b",
+                       "glass_dark",
+                       "hole",
+                       "stone",
+                       "stone_dark",
+                       "stone_light",
+                       "wood_grey",
+                       "wood_old",
+                       "wood_rot"
+                   ]
+    },
+    {
+        "id":  "D28_rusty_water_tower",
+        "folder":  "rusty",
+        "size_x":  11.3,
+        "height":  27.53,
+        "size_z":  11.17,
+        "pieces":  [
+                       "rust",
+                       "stone",
+                       "tin",
+                       "tin_b",
+                       "water",
+                       "water_fx",
+                       "wood_old",
+                       "wood_rot"
+                   ]
+    },
+    {
+        "id":  "D29_patched_tent",
+        "folder":  "rusty",
+        "size_x":  13.95,
+        "height":  6.5,
+        "size_z":  10.22,
+        "pieces":  [
+                       "canvas",
+                       "canvas_b",
+                       "fabric_blue",
+                       "fabric_green",
+                       "fabric_red",
+                       "hole",
+                       "rope",
+                       "wood_grey",
+                       "wood_old",
+                       "wood_rot"
+                   ]
+    },
+    {
+        "id":  "D30_scrap_pile",
+        "folder":  "rusty",
+        "size_x":  10.11,
+        "height":  6.49,
+        "size_z":  9.33,
+        "pieces":  [
+                       "dirt",
+                       "iron",
+                       "rust",
+                       "tin",
+                       "tin_b",
+                       "wood",
+                       "wood_old",
+                       "wood_rot"
+                   ]
+    },
+    {
+        "id":  "D31_rusted_cart",
+        "folder":  "rusty",
+        "size_x":  10.11,
+        "height":  4.68,
+        "size_z":  6.26,
+        "pieces":  [
+                       "iron",
+                       "rust",
+                       "wood",
+                       "wood_grey",
+                       "wood_old",
+                       "wood_rot"
+                   ]
+    },
+    {
+        "id":  "D32_broken_barrel",
+        "folder":  "rusty",
+        "size_x":  6.63,
+        "height":  4.02,
+        "size_z":  5.77,
+        "pieces":  [
+                       "bark",
+                       "fruit",
+                       "rust",
+                       "wood",
+                       "wood_old"
+                   ]
+    },
+    {
+        "id":  "D33_broken_fence",
+        "folder":  "rusty",
+        "size_x":  16.57,
+        "height":  4.25,
+        "size_z":  2.4,
+        "pieces":  [
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light",
+                       "wood_grey",
+                       "wood_old"
+                   ]
+    },
+    {
+        "id":  "D34_boarded_shack",
+        "folder":  "rusty",
+        "size_x":  10.46,
+        "height":  11.82,
+        "size_z":  9.67,
+        "pieces":  [
+                       "hole",
+                       "ivy",
+                       "leaf_dark",
+                       "rust",
+                       "tin_b",
+                       "wood_grey",
+                       "wood_old",
+                       "wood_rot"
+                   ]
+    },
+    {
+        "id":  "D35_collapsed_wall",
+        "folder":  "rusty",
+        "size_x":  20.39,
+        "height":  7.97,
+        "size_z":  6.3,
+        "pieces":  [
+                       "ivy",
+                       "leaf",
+                       "leaf_dark",
+                       "leaf_light",
+                       "stone",
+                       "stone_dark",
+                       "stone_light"
+                   ]
+    },
+    {
+        "id":  "D36_old_well_pump",
+        "folder":  "rusty",
+        "size_x":  10.74,
+        "height":  8.31,
+        "size_z":  7.16,
+        "pieces":  [
+                       "roof_old",
+                       "roof_old_b",
+                       "rust",
+                       "stone",
+                       "stone_dark",
+                       "stone_light",
+                       "tin_b",
+                       "water_dark",
+                       "wood_rot"
+                   ]
+    },
+    {
+        "id":  "D37_crooked_lamp",
+        "folder":  "rusty",
+        "size_x":  5.02,
+        "height":  15.3,
+        "size_z":  1.85,
+        "pieces":  [
+                       "glass_lit",
+                       "hole",
+                       "ivy",
+                       "leaf_dark",
+                       "rust"
+                   ]
+    },
+    {
+        "id":  "T01_demon_skull_hq",
+        "folder":  "town1",
+        "size_x":  220.35,
+        "height":  264.98,
+        "size_z":  147.75,
+        "pieces":  [
+                       "default_1",
+                       "default_2",
+                       "default_3",
+                       "default_4"
+                   ]
+    }
+]

@@ -1,0 +1,1044 @@
+﻿{
+    "area":  "town1",
+    "terrain":  [
+                    {
+                        "op":  "paint",
+                        "cx":  0,
+                        "cz":  0,
+                        "r":  120,
+                        "material":  "LeafyGrass"
+                    },
+                    {
+                        "op":  "paint",
+                        "cx":  -250,
+                        "cz":  -30,
+                        "r":  110,
+                        "material":  "LeafyGrass"
+                    },
+                    {
+                        "op":  "paint",
+                        "cx":  250,
+                        "cz":  60,
+                        "r":  110,
+                        "material":  "LeafyGrass"
+                    },
+                    {
+                        "op":  "paint",
+                        "cx":  -290,
+                        "cz":  300,
+                        "r":  80,
+                        "material":  "LeafyGrass"
+                    },
+                    {
+                        "op":  "paint",
+                        "cx":  0,
+                        "cz":  -470,
+                        "r":  120,
+                        "material":  "Grass"
+                    }
+                ],
+    "placements":  [
+                       {
+                           "model":  "A21_brazier",
+                           "x":  -34,
+                           "z":  -470,
+                           "rot":  0,
+                           "group":  "SkullHQ_Forecourt"
+                       },
+                       {
+                           "model":  "A15_lamp_iron_city",
+                           "x":  -22,
+                           "z":  -440,
+                           "rot":  0,
+                           "group":  "SkullHQ_Forecourt"
+                       },
+                       {
+                           "model":  "A21_brazier",
+                           "x":  34,
+                           "z":  -470,
+                           "rot":  0,
+                           "group":  "SkullHQ_Forecourt"
+                       },
+                       {
+                           "model":  "A15_lamp_iron_city",
+                           "x":  22,
+                           "z":  -440,
+                           "rot":  0,
+                           "group":  "SkullHQ_Forecourt"
+                       },
+                       {
+                           "model":  "A95_flag_pole",
+                           "x":  -40,
+                           "z":  -455,
+                           "rot":  0,
+                           "group":  "SkullHQ_Forecourt"
+                       },
+                       {
+                           "model":  "A95_flag_pole",
+                           "x":  40,
+                           "z":  -455,
+                           "rot":  0,
+                           "group":  "SkullHQ_Forecourt"
+                       },
+                       {
+                           "model":  "D01_church",
+                           "x":  -300,
+                           "z":  300,
+                           "rot":  90,
+                           "group":  "Church"
+                       },
+                       {
+                           "model":  "A08_stairs_3",
+                           "x":  -265.2,
+                           "z":  300,
+                           "rot":  270,
+                           "group":  "Church"
+                       },
+                       {
+                           "model":  "A82_bench_wood",
+                           "x":  -252.2,
+                           "z":  288,
+                           "rot":  90,
+                           "group":  "Church_Square"
+                       },
+                       {
+                           "model":  "A82_bench_wood",
+                           "x":  -252.2,
+                           "z":  312,
+                           "rot":  270,
+                           "group":  "Church_Square"
+                       },
+                       {
+                           "model":  "A46_flowers_white",
+                           "x":  -262.2,
+                           "z":  282,
+                           "rot":  0,
+                           "group":  "Church_Square"
+                       },
+                       {
+                           "model":  "A46_flowers_white",
+                           "x":  -262.2,
+                           "z":  318,
+                           "rot":  0,
+                           "group":  "Church_Square"
+                       },
+                       {
+                           "model":  "D16_stone_cross",
+                           "x":  -300,
+                           "z":  278,
+                           "rot":  0,
+                           "group":  "Church_Yard"
+                       },
+                       {
+                           "model":  "D12_gravestone_1",
+                           "x":  -308,
+                           "z":  280,
+                           "rot":  0,
+                           "group":  "Church_Yard"
+                       },
+                       {
+                           "model":  "D14_gravestone_3",
+                           "x":  -292,
+                           "z":  279,
+                           "rot":  0,
+                           "group":  "Church_Yard"
+                       },
+                       {
+                           "model":  "A82_bench_wood",
+                           "x":  -238.0,
+                           "z":  315.0,
+                           "rot":  90,
+                           "group":  "MageGarden"
+                       },
+                       {
+                           "model":  "A44_flowers_yellow",
+                           "x":  85.6,
+                           "z":  27.8,
+                           "rot":  36,
+                           "group":  "Plaza_Edge"
+                       },
+                       {
+                           "model":  "A82_bench_wood",
+                           "x":  72.8,
+                           "z":  52.9,
+                           "rot":  216,
+                           "group":  "Plaza_Edge"
+                       },
+                       {
+                           "model":  "A46_flowers_white",
+                           "x":  52.9,
+                           "z":  72.8,
+                           "rot":  80,
+                           "group":  "Plaza_Edge"
+                       },
+                       {
+                           "model":  "A47_flowers_blue",
+                           "x":  27.8,
+                           "z":  85.6,
+                           "rot":  216,
+                           "group":  "Plaza_Edge"
+                       },
+                       {
+                           "model":  "A39_bush_2",
+                           "x":  -27.8,
+                           "z":  85.6,
+                           "rot":  200,
+                           "group":  "Plaza_Edge"
+                       },
+                       {
+                           "model":  "A82_bench_wood",
+                           "x":  -52.9,
+                           "z":  72.8,
+                           "rot":  306,
+                           "group":  "Plaza_Edge"
+                       },
+                       {
+                           "model":  "A43_flowers_red",
+                           "x":  -72.8,
+                           "z":  52.9,
+                           "rot":  282,
+                           "group":  "Plaza_Edge"
+                       },
+                       {
+                           "model":  "A44_flowers_yellow",
+                           "x":  -85.6,
+                           "z":  27.8,
+                           "rot":  197,
+                           "group":  "Plaza_Edge"
+                       },
+                       {
+                           "model":  "A46_flowers_white",
+                           "x":  -85.6,
+                           "z":  -27.8,
+                           "rot":  262,
+                           "group":  "Plaza_Edge"
+                       },
+                       {
+                           "model":  "A82_bench_wood",
+                           "x":  -72.8,
+                           "z":  -52.9,
+                           "rot":  36,
+                           "group":  "Plaza_Edge"
+                       },
+                       {
+                           "model":  "A38_bush_1",
+                           "x":  -52.9,
+                           "z":  -72.8,
+                           "rot":  276,
+                           "group":  "Plaza_Edge"
+                       },
+                       {
+                           "model":  "A39_bush_2",
+                           "x":  -27.8,
+                           "z":  -85.6,
+                           "rot":  270,
+                           "group":  "Plaza_Edge"
+                       },
+                       {
+                           "model":  "A43_flowers_red",
+                           "x":  27.8,
+                           "z":  -85.6,
+                           "rot":  211,
+                           "group":  "Plaza_Edge"
+                       },
+                       {
+                           "model":  "A82_bench_wood",
+                           "x":  52.9,
+                           "z":  -72.8,
+                           "rot":  126,
+                           "group":  "Plaza_Edge"
+                       },
+                       {
+                           "model":  "A45_flowers_purple",
+                           "x":  72.8,
+                           "z":  -52.9,
+                           "rot":  86,
+                           "group":  "Plaza_Edge"
+                       },
+                       {
+                           "model":  "A15_lamp_iron_city",
+                           "x":  18,
+                           "z":  90,
+                           "rot":  0,
+                           "group":  "Avenue_S"
+                       },
+                       {
+                           "model":  "A15_lamp_iron_city",
+                           "x":  -18,
+                           "z":  130,
+                           "rot":  0,
+                           "group":  "Avenue_S"
+                       },
+                       {
+                           "model":  "A15_lamp_iron_city",
+                           "x":  18,
+                           "z":  170,
+                           "rot":  0,
+                           "group":  "Avenue_S"
+                       },
+                       {
+                           "model":  "A15_lamp_iron_city",
+                           "x":  18,
+                           "z":  -60,
+                           "rot":  0,
+                           "group":  "Avenue_N"
+                       },
+                       {
+                           "model":  "A15_lamp_iron_city",
+                           "x":  -18,
+                           "z":  -100,
+                           "rot":  0,
+                           "group":  "Avenue_N"
+                       },
+                       {
+                           "model":  "A15_lamp_iron_city",
+                           "x":  18,
+                           "z":  -140,
+                           "rot":  0,
+                           "group":  "Avenue_N"
+                       },
+                       {
+                           "model":  "A15_lamp_iron_city",
+                           "x":  80,
+                           "z":  -15,
+                           "rot":  0,
+                           "group":  "Road_E"
+                       },
+                       {
+                           "model":  "A15_lamp_iron_city",
+                           "x":  125,
+                           "z":  15,
+                           "rot":  0,
+                           "group":  "Road_E"
+                       },
+                       {
+                           "model":  "A15_lamp_iron_city",
+                           "x":  170,
+                           "z":  -15,
+                           "rot":  0,
+                           "group":  "Road_E"
+                       },
+                       {
+                           "model":  "A15_lamp_iron_city",
+                           "x":  215,
+                           "z":  15,
+                           "rot":  0,
+                           "group":  "Road_E"
+                       },
+                       {
+                           "model":  "A15_lamp_iron_city",
+                           "x":  260,
+                           "z":  -15,
+                           "rot":  0,
+                           "group":  "Road_E"
+                       },
+                       {
+                           "model":  "A15_lamp_iron_city",
+                           "x":  305,
+                           "z":  15,
+                           "rot":  0,
+                           "group":  "Road_E"
+                       },
+                       {
+                           "model":  "A15_lamp_iron_city",
+                           "x":  350,
+                           "z":  -15,
+                           "rot":  0,
+                           "group":  "Road_E"
+                       },
+                       {
+                           "model":  "A15_lamp_iron_city",
+                           "x":  395,
+                           "z":  15,
+                           "rot":  0,
+                           "group":  "Road_E"
+                       },
+                       {
+                           "model":  "A15_lamp_iron_city",
+                           "x":  -80,
+                           "z":  -15,
+                           "rot":  0,
+                           "group":  "Road_W"
+                       },
+                       {
+                           "model":  "A15_lamp_iron_city",
+                           "x":  -125,
+                           "z":  15,
+                           "rot":  0,
+                           "group":  "Road_W"
+                       },
+                       {
+                           "model":  "A15_lamp_iron_city",
+                           "x":  -170,
+                           "z":  -15,
+                           "rot":  0,
+                           "group":  "Road_W"
+                       },
+                       {
+                           "model":  "A15_lamp_iron_city",
+                           "x":  -260,
+                           "z":  -15,
+                           "rot":  0,
+                           "group":  "Road_W"
+                       },
+                       {
+                           "model":  "A15_lamp_iron_city",
+                           "x":  -305,
+                           "z":  -15,
+                           "rot":  0,
+                           "group":  "Road_W"
+                       },
+                       {
+                           "model":  "A15_lamp_iron_city",
+                           "x":  -350,
+                           "z":  -15,
+                           "rot":  0,
+                           "group":  "Road_W"
+                       },
+                       {
+                           "model":  "A15_lamp_iron_city",
+                           "x":  -395,
+                           "z":  15,
+                           "rot":  0,
+                           "group":  "Road_W",
+                           "skip":  true
+                       },
+                       {
+                           "model":  "A34_fruit_tree",
+                           "x":  148.1,
+                           "z":  157.1,
+                           "rot":  125,
+                           "group":  "Edge_Nature",
+                           "scale":  1.2
+                       },
+                       {
+                           "model":  "A39_bush_2",
+                           "x":  -114.7,
+                           "z":  -91.4,
+                           "rot":  260,
+                           "group":  "Edge_Nature",
+                           "scale":  0.92
+                       },
+                       {
+                           "model":  "A28_birch_2",
+                           "x":  -380.2,
+                           "z":  182.9,
+                           "rot":  32,
+                           "group":  "Edge_Nature",
+                           "scale":  1.17
+                       },
+                       {
+                           "model":  "A46_flowers_white",
+                           "x":  43.6,
+                           "z":  311.1,
+                           "rot":  143,
+                           "group":  "Edge_Nature",
+                           "scale":  1.0
+                       },
+                       {
+                           "model":  "A54_mushroom_cluster",
+                           "x":  275.6,
+                           "z":  62.5,
+                           "rot":  186,
+                           "group":  "Edge_Nature",
+                           "scale":  0.91
+                       },
+                       {
+                           "model":  "A31_pine_3",
+                           "x":  173.8,
+                           "z":  -47.9,
+                           "rot":  305,
+                           "group":  "Edge_Nature",
+                           "scale":  0.94
+                       },
+                       {
+                           "model":  "A46_flowers_white",
+                           "x":  -392.6,
+                           "z":  -277.1,
+                           "rot":  289,
+                           "group":  "Edge_Nature",
+                           "scale":  1.09
+                       },
+                       {
+                           "model":  "A46_flowers_white",
+                           "x":  -112.1,
+                           "z":  -236.1,
+                           "rot":  184,
+                           "group":  "Edge_Nature",
+                           "scale":  1.07
+                       },
+                       {
+                           "model":  "A54_mushroom_cluster",
+                           "x":  -321.3,
+                           "z":  165.3,
+                           "rot":  93,
+                           "group":  "Edge_Nature",
+                           "scale":  1.08
+                       },
+                       {
+                           "model":  "A39_bush_2",
+                           "x":  -253.6,
+                           "z":  -50.9,
+                           "rot":  233,
+                           "group":  "Edge_Nature",
+                           "scale":  1.08
+                       },
+                       {
+                           "model":  "A39_bush_2",
+                           "x":  -399.8,
+                           "z":  76.1,
+                           "rot":  219,
+                           "group":  "Edge_Nature",
+                           "scale":  0.94
+                       },
+                       {
+                           "model":  "A58_rock_medium_1",
+                           "x":  -303.3,
+                           "z":  -363.4,
+                           "rot":  240,
+                           "group":  "Edge_Nature",
+                           "scale":  1.03
+                       },
+                       {
+                           "model":  "A46_flowers_white",
+                           "x":  -276.2,
+                           "z":  -143.0,
+                           "rot":  248,
+                           "group":  "Edge_Nature",
+                           "scale":  1.09
+                       },
+                       {
+                           "model":  "A58_rock_medium_1",
+                           "x":  -295.0,
+                           "z":  90.5,
+                           "rot":  30,
+                           "group":  "Edge_Nature",
+                           "scale":  1.03
+                       },
+                       {
+                           "model":  "A40_bush_3",
+                           "x":  332.0,
+                           "z":  -149.1,
+                           "rot":  187,
+                           "group":  "Edge_Nature",
+                           "scale":  0.94
+                       },
+                       {
+                           "model":  "A38_bush_1",
+                           "x":  -388.7,
+                           "z":  -313.0,
+                           "rot":  300,
+                           "group":  "Edge_Nature",
+                           "scale":  1.03
+                       },
+                       {
+                           "model":  "A40_bush_3",
+                           "x":  -139.2,
+                           "z":  -300.5,
+                           "rot":  55,
+                           "group":  "Edge_Nature",
+                           "scale":  1.0
+                       },
+                       {
+                           "model":  "A39_bush_2",
+                           "x":  -53.1,
+                           "z":  -124.1,
+                           "rot":  197,
+                           "group":  "Edge_Nature",
+                           "scale":  0.91
+                       },
+                       {
+                           "model":  "A38_bush_1",
+                           "x":  117.8,
+                           "z":  -257.8,
+                           "rot":  162,
+                           "group":  "Edge_Nature",
+                           "scale":  1.05
+                       },
+                       {
+                           "model":  "A40_bush_3",
+                           "x":  -249.2,
+                           "z":  183.0,
+                           "rot":  232,
+                           "group":  "Edge_Nature",
+                           "scale":  0.94
+                       },
+                       {
+                           "model":  "A34_fruit_tree",
+                           "x":  -337.1,
+                           "z":  -150.0,
+                           "rot":  167,
+                           "group":  "Edge_Nature",
+                           "scale":  1.2
+                       },
+                       {
+                           "model":  "A32_maple_autumn",
+                           "x":  252.0,
+                           "z":  -164.1,
+                           "rot":  173,
+                           "group":  "Edge_Nature",
+                           "scale":  0.94
+                       },
+                       {
+                           "model":  "A26_oak_3",
+                           "x":  252.9,
+                           "z":  295.3,
+                           "rot":  316,
+                           "group":  "Edge_Nature",
+                           "scale":  1.09
+                       },
+                       {
+                           "model":  "A34_fruit_tree",
+                           "x":  50.3,
+                           "z":  149.7,
+                           "rot":  34,
+                           "group":  "Edge_Nature",
+                           "scale":  1.03
+                       },
+                       {
+                           "model":  "A34_fruit_tree",
+                           "x":  -149.2,
+                           "z":  82.2,
+                           "rot":  58,
+                           "group":  "Edge_Nature",
+                           "scale":  0.98
+                       },
+                       {
+                           "model":  "A58_rock_medium_1",
+                           "x":  -388.9,
+                           "z":  310.5,
+                           "rot":  149,
+                           "group":  "Edge_Nature",
+                           "scale":  0.9
+                       },
+                       {
+                           "model":  "A38_bush_1",
+                           "x":  286.0,
+                           "z":  -141.7,
+                           "rot":  332,
+                           "group":  "Edge_Nature",
+                           "scale":  0.96
+                       },
+                       {
+                           "model":  "A54_mushroom_cluster",
+                           "x":  383.3,
+                           "z":  320.3,
+                           "rot":  245,
+                           "group":  "Edge_Nature",
+                           "scale":  1.08
+                       },
+                       {
+                           "model":  "A56_rock_small_1",
+                           "x":  68.5,
+                           "z":  -383.4,
+                           "rot":  201,
+                           "group":  "Edge_Nature",
+                           "scale":  1.04
+                       },
+                       {
+                           "model":  "A40_bush_3",
+                           "x":  378.6,
+                           "z":  -152.2,
+                           "rot":  128,
+                           "group":  "Edge_Nature",
+                           "scale":  0.98
+                       },
+                       {
+                           "model":  "A31_pine_3",
+                           "x":  -208.6,
+                           "z":  -54.8,
+                           "rot":  66,
+                           "group":  "Edge_Nature",
+                           "scale":  0.91,
+                           "skip":  true
+                       },
+                       {
+                           "model":  "A58_rock_medium_1",
+                           "x":  173.8,
+                           "z":  43.9,
+                           "rot":  283,
+                           "group":  "Edge_Nature",
+                           "scale":  0.95
+                       },
+                       {
+                           "model":  "A43_flowers_red",
+                           "x":  -386.7,
+                           "z":  43.7,
+                           "rot":  49,
+                           "group":  "Edge_Nature",
+                           "scale":  1.03
+                       },
+                       {
+                           "model":  "A32_maple_autumn",
+                           "x":  -328.4,
+                           "z":  -253.0,
+                           "rot":  295,
+                           "group":  "Edge_Nature",
+                           "scale":  1.0
+                       },
+                       {
+                           "model":  "A31_pine_3",
+                           "x":  102.3,
+                           "z":  -200.9,
+                           "rot":  244,
+                           "group":  "Edge_Nature",
+                           "scale":  1.16
+                       },
+                       {
+                           "model":  "A25_oak_2",
+                           "x":  111.3,
+                           "z":  -331.0,
+                           "rot":  95,
+                           "group":  "Edge_Nature",
+                           "scale":  1.11
+                       },
+                       {
+                           "model":  "A58_rock_medium_1",
+                           "x":  -286.5,
+                           "z":  -80.8,
+                           "rot":  14,
+                           "group":  "Edge_Nature",
+                           "scale":  1.02
+                       },
+                       {
+                           "model":  "A56_rock_small_1",
+                           "x":  -157.9,
+                           "z":  36.3,
+                           "rot":  45,
+                           "group":  "Edge_Nature",
+                           "scale":  1.1
+                       },
+                       {
+                           "model":  "A39_bush_2",
+                           "x":  181.3,
+                           "z":  -87.4,
+                           "rot":  125,
+                           "group":  "Edge_Nature",
+                           "scale":  1.08,
+                           "skip":  true
+                       },
+                       {
+                           "model":  "A28_birch_2",
+                           "x":  285.8,
+                           "z":  -69.5,
+                           "rot":  79,
+                           "group":  "Edge_Nature",
+                           "scale":  1.11
+                       },
+                       {
+                           "model":  "A40_bush_3",
+                           "x":  -94.7,
+                           "z":  -273.4,
+                           "rot":  155,
+                           "group":  "Edge_Nature",
+                           "scale":  0.97
+                       },
+                       {
+                           "model":  "A58_rock_medium_1",
+                           "x":  -305.7,
+                           "z":  -181.5,
+                           "rot":  52,
+                           "group":  "Edge_Nature",
+                           "scale":  1.03
+                       },
+                       {
+                           "model":  "A43_flowers_red",
+                           "x":  106.6,
+                           "z":  -72.5,
+                           "rot":  242,
+                           "group":  "Edge_Nature",
+                           "scale":  0.97
+                       },
+                       {
+                           "model":  "A45_flowers_purple",
+                           "x":  -198.3,
+                           "z":  -126.1,
+                           "rot":  299,
+                           "group":  "Edge_Nature",
+                           "scale":  1.06
+                       },
+                       {
+                           "model":  "A43_flowers_red",
+                           "x":  109.0,
+                           "z":  141.8,
+                           "rot":  6,
+                           "group":  "Edge_Nature",
+                           "scale":  0.94
+                       },
+                       {
+                           "model":  "A39_bush_2",
+                           "x":  -34.3,
+                           "z":  -172.9,
+                           "rot":  200,
+                           "group":  "Edge_Nature",
+                           "scale":  0.94
+                       },
+                       {
+                           "model":  "A28_birch_2",
+                           "x":  138.5,
+                           "z":  178.5,
+                           "rot":  256,
+                           "group":  "Edge_Nature",
+                           "scale":  1.1
+                       },
+                       {
+                           "model":  "A28_birch_2",
+                           "x":  47.3,
+                           "z":  -311.4,
+                           "rot":  16,
+                           "group":  "Edge_Nature",
+                           "scale":  1.07
+                       },
+                       {
+                           "model":  "A46_flowers_white",
+                           "x":  10.7,
+                           "z":  -210.3,
+                           "rot":  236,
+                           "group":  "Edge_Nature",
+                           "scale":  0.97
+                       },
+                       {
+                           "model":  "A58_rock_medium_1",
+                           "x":  -8.0,
+                           "z":  -382.1,
+                           "rot":  301,
+                           "group":  "Edge_Nature",
+                           "scale":  0.99
+                       },
+                       {
+                           "model":  "A39_bush_2",
+                           "x":  25.8,
+                           "z":  303.6,
+                           "rot":  307,
+                           "group":  "Edge_Nature",
+                           "scale":  1.09
+                       },
+                       {
+                           "model":  "A32_maple_autumn",
+                           "x":  128.4,
+                           "z":  -104.7,
+                           "rot":  310,
+                           "group":  "Edge_Nature",
+                           "scale":  0.95
+                       },
+                       {
+                           "model":  "A46_flowers_white",
+                           "x":  233.3,
+                           "z":  -178.0,
+                           "rot":  49,
+                           "group":  "Edge_Nature",
+                           "scale":  1.04
+                       },
+                       {
+                           "model":  "A54_mushroom_cluster",
+                           "x":  285.4,
+                           "z":  -101.7,
+                           "rot":  221,
+                           "group":  "Edge_Nature",
+                           "scale":  1.01
+                       },
+                       {
+                           "model":  "A40_bush_3",
+                           "x":  -278.4,
+                           "z":  52.1,
+                           "rot":  47,
+                           "group":  "Edge_Nature",
+                           "scale":  1.06,
+                           "skip":  true
+                       },
+                       {
+                           "model":  "A54_mushroom_cluster",
+                           "x":  143.9,
+                           "z":  -60.6,
+                           "rot":  344,
+                           "group":  "Edge_Nature",
+                           "scale":  0.96
+                       },
+                       {
+                           "model":  "A25_oak_2",
+                           "x":  -23.3,
+                           "z":  -352.3,
+                           "rot":  251,
+                           "group":  "Edge_Nature",
+                           "scale":  1.15
+                       },
+                       {
+                           "model":  "A39_bush_2",
+                           "x":  -137.0,
+                           "z":  -377.0,
+                           "rot":  152,
+                           "group":  "Edge_Nature",
+                           "scale":  0.99
+                       },
+                       {
+                           "model":  "A43_flowers_red",
+                           "x":  393.5,
+                           "z":  -54.0,
+                           "rot":  253,
+                           "group":  "Edge_Nature",
+                           "scale":  1.09
+                       },
+                       {
+                           "model":  "A45_flowers_purple",
+                           "x":  -307.9,
+                           "z":  -233.1,
+                           "rot":  10,
+                           "group":  "Edge_Nature",
+                           "scale":  1.09
+                       },
+                       {
+                           "model":  "A46_flowers_white",
+                           "x":  -139.0,
+                           "z":  -191.0,
+                           "rot":  168,
+                           "group":  "Edge_Nature",
+                           "scale":  1.01
+                       },
+                       {
+                           "model":  "A46_flowers_white",
+                           "x":  -91.0,
+                           "z":  129.3,
+                           "rot":  220,
+                           "group":  "Edge_Nature",
+                           "scale":  1.01
+                       },
+                       {
+                           "model":  "A38_bush_1",
+                           "x":  70.7,
+                           "z":  84.3,
+                           "rot":  179,
+                           "group":  "Edge_Nature",
+                           "scale":  0.94
+                       },
+                       {
+                           "model":  "A56_rock_small_1",
+                           "x":  -266.9,
+                           "z":  34.9,
+                           "rot":  211,
+                           "group":  "Edge_Nature",
+                           "scale":  1.01
+                       },
+                       {
+                           "model":  "A31_pine_3",
+                           "x":  359.4,
+                           "z":  117.0,
+                           "rot":  234,
+                           "group":  "Edge_Nature",
+                           "scale":  1.19
+                       },
+                       {
+                           "model":  "A58_rock_medium_1",
+                           "x":  -362.4,
+                           "z":  -325.3,
+                           "rot":  73,
+                           "group":  "Edge_Nature",
+                           "scale":  0.96
+                       },
+                       {
+                           "model":  "A46_flowers_white",
+                           "x":  -357.4,
+                           "z":  -111.3,
+                           "rot":  31,
+                           "group":  "Edge_Nature",
+                           "scale":  0.91
+                       },
+                       {
+                           "model":  "A31_pine_3",
+                           "x":  -47.1,
+                           "z":  110.5,
+                           "rot":  201,
+                           "group":  "Edge_Nature",
+                           "scale":  1.05
+                       },
+                       {
+                           "model":  "A40_bush_3",
+                           "x":  -130.3,
+                           "z":  -171.3,
+                           "rot":  168,
+                           "group":  "Edge_Nature",
+                           "scale":  0.9
+                       },
+                       {
+                           "model":  "A38_bush_1",
+                           "x":  354.1,
+                           "z":  -331.8,
+                           "rot":  234,
+                           "group":  "Edge_Nature",
+                           "scale":  0.95
+                       },
+                       {
+                           "model":  "A48_planter_box",
+                           "x":  166,
+                           "z":  -98,
+                           "rot":  0,
+                           "group":  "Market_Edge",
+                           "skip":  true
+                       },
+                       {
+                           "model":  "A48_planter_box",
+                           "x":  276,
+                           "z":  -98,
+                           "rot":  0,
+                           "group":  "Market_Edge",
+                           "skip":  true
+                       },
+                       {
+                           "model":  "A48_planter_box",
+                           "x":  166,
+                           "z":  98,
+                           "rot":  0,
+                           "group":  "Market_Edge",
+                           "skip":  true
+                       },
+                       {
+                           "model":  "A48_planter_box",
+                           "x":  276,
+                           "z":  98,
+                           "rot":  0,
+                           "group":  "Market_Edge",
+                           "skip":  true
+                       },
+                       {
+                           "model":  "A48_planter_box",
+                           "x":  150,
+                           "z":  30,
+                           "rot":  0,
+                           "group":  "Market_Edge"
+                       },
+                       {
+                           "model":  "A48_planter_box",
+                           "x":  294,
+                           "z":  30,
+                           "rot":  0,
+                           "group":  "Market_Edge"
+                       }
+                   ],
+    "archive":  [
+                    "SpawnTown.MageTower",
+                    "SpawnTown.Nature",
+                    "SpawnTown.*/Tree",
+                    "SpawnTown.*/Bush",
+                    "SpawnTown.*/Flowers",
+                    "SpawnTown.Market.TentL",
+                    "SpawnTown.Market.TentR",
+                    "SpawnTown.Crafts.TrainingYard.*Tent*",
+                    "SpawnTown.Crafts.TrainingYard.*Torch*",
+                    "SpawnTown.Crafts.TrainingYard.*Flag*",
+                    "SpawnTown.Crafts.TrainingYard.*Training Dummy*",
+                    "SpawnTown.Crafts.TrainingYard.*Target*",
+                    "SpawnTown.Crafts.TrainingYard.*weapon rack*",
+                    "SpawnTown.Crafts.TrainingYard.*Weapon Rack*",
+                    "SpawnTown.Crafts.TrainingYard.*Crate_01*"
+                ],
+    "spawn":  {
+                  "x":  -258.2,
+                  "z":  300,
+                  "rot":  270
+              },
+    "skull":  {
+                  "x":  0,
+                  "z":  -575,
+                  "rot":  0,
+                  "base_drop":  75
+              }
+}

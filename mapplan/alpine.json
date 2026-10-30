@@ -1,0 +1,2291 @@
+﻿{
+    "area":  "alpine",
+    "terrain":  [
+                    {
+                        "op":  "plateau",
+                        "cx":  2500,
+                        "cz":  -500,
+                        "rx":  360,
+                        "rz":  360,
+                        "top_y":  74,
+                        "slope":  90,
+                        "material":  "Grass"
+                    },
+                    {
+                        "op":  "hill",
+                        "cx":  2260,
+                        "cz":  -520,
+                        "r":  150,
+                        "h":  -6,
+                        "material":  "LeafyGrass"
+                    },
+                    {
+                        "op":  "hill",
+                        "cx":  2320,
+                        "cz":  -360,
+                        "r":  130,
+                        "h":  -4,
+                        "material":  "LeafyGrass"
+                    },
+                    {
+                        "op":  "hill",
+                        "cx":  2760,
+                        "cz":  -560,
+                        "r":  180,
+                        "h":  20,
+                        "material":  "Snow"
+                    },
+                    {
+                        "op":  "hill",
+                        "cx":  2700,
+                        "cz":  -760,
+                        "r":  170,
+                        "h":  24,
+                        "material":  "Snow"
+                    },
+                    {
+                        "op":  "hill",
+                        "cx":  2560,
+                        "cz":  -780,
+                        "r":  150,
+                        "h":  14,
+                        "material":  "Glacier"
+                    },
+                    {
+                        "op":  "hill",
+                        "cx":  2780,
+                        "cz":  -740,
+                        "r":  90,
+                        "h":  22,
+                        "material":  "Snow"
+                    },
+                    {
+                        "op":  "hill",
+                        "cx":  2600,
+                        "cz":  -250,
+                        "r":  80,
+                        "h":  10,
+                        "material":  "Rock"
+                    },
+                    {
+                        "op":  "hill",
+                        "cx":  2820,
+                        "cz":  -300,
+                        "r":  70,
+                        "h":  12,
+                        "material":  "Rock"
+                    },
+                    {
+                        "op":  "water",
+                        "x0":  2396,
+                        "z0":  -830,
+                        "x1":  2420,
+                        "z1":  -230,
+                        "y":  66,
+                        "depth":  5
+                    },
+                    {
+                        "op":  "water",
+                        "x0":  2372,
+                        "z0":  -470,
+                        "x1":  2432,
+                        "z1":  -410,
+                        "y":  66,
+                        "depth":  5
+                    },
+                    {
+                        "op":  "paint",
+                        "cx":  2408,
+                        "cz":  -500,
+                        "r":  40,
+                        "material":  "Mud"
+                    },
+                    {
+                        "op":  "ramp",
+                        "x0":  2150,
+                        "z0":  -500,
+                        "y0":  70,
+                        "x1":  2380,
+                        "z1":  -500,
+                        "y1":  72,
+                        "width":  24,
+                        "material":  "Cobblestone"
+                    },
+                    {
+                        "op":  "ramp",
+                        "x0":  2380,
+                        "z0":  -500,
+                        "y0":  72,
+                        "x1":  2560,
+                        "z1":  -500,
+                        "y1":  78,
+                        "width":  22,
+                        "material":  "Cobblestone"
+                    },
+                    {
+                        "op":  "ramp",
+                        "x0":  2560,
+                        "z0":  -500,
+                        "y0":  78,
+                        "x1":  2700,
+                        "z1":  -500,
+                        "y1":  84,
+                        "width":  22,
+                        "material":  "Cobblestone"
+                    },
+                    {
+                        "op":  "flatten",
+                        "x0":  2680,
+                        "z0":  -560,
+                        "x1":  2770,
+                        "z1":  -440,
+                        "y":  86,
+                        "material":  "Cobblestone"
+                    },
+                    {
+                        "op":  "flatten",
+                        "x0":  2470,
+                        "z0":  -620,
+                        "x1":  2540,
+                        "z1":  -560,
+                        "y":  80,
+                        "material":  "Snow"
+                    },
+                    {
+                        "op":  "flatten",
+                        "x0":  2560,
+                        "z0":  -640,
+                        "x1":  2640,
+                        "z1":  -575,
+                        "y":  83,
+                        "material":  "Snow"
+                    },
+                    {
+                        "op":  "flatten",
+                        "x0":  2470,
+                        "z0":  -440,
+                        "x1":  2540,
+                        "z1":  -380,
+                        "y":  76,
+                        "material":  "Grass"
+                    },
+                    {
+                        "op":  "flatten",
+                        "x0":  2560,
+                        "z0":  -430,
+                        "x1":  2640,
+                        "z1":  -370,
+                        "y":  80,
+                        "material":  "Grass"
+                    },
+                    {
+                        "op":  "flatten",
+                        "x0":  2640,
+                        "z0":  -640,
+                        "x1":  2720,
+                        "z1":  -575,
+                        "y":  85,
+                        "material":  "Cobblestone"
+                    },
+                    {
+                        "op":  "flatten",
+                        "x0":  2250,
+                        "z0":  -360,
+                        "x1":  2340,
+                        "z1":  -250,
+                        "y":  66,
+                        "material":  "Grass"
+                    },
+                    {
+                        "op":  "flatten",
+                        "x0":  2760,
+                        "z0":  -540,
+                        "x1":  2820,
+                        "z1":  -460,
+                        "y":  88,
+                        "material":  "Snow"
+                    },
+                    {
+                        "op":  "ramp",
+                        "x0":  2725,
+                        "z0":  -560,
+                        "y0":  86,
+                        "x1":  2780,
+                        "z1":  -720,
+                        "y1":  94,
+                        "width":  8,
+                        "material":  "Ground"
+                    },
+                    {
+                        "op":  "paint",
+                        "cx":  2720,
+                        "cz":  -680,
+                        "r":  150,
+                        "material":  "Snow"
+                    },
+                    {
+                        "op":  "paint",
+                        "cx":  2560,
+                        "cz":  -760,
+                        "r":  120,
+                        "material":  "Snow"
+                    },
+                    {
+                        "op":  "paint",
+                        "cx":  2280,
+                        "cz":  -480,
+                        "r":  130,
+                        "material":  "LeafyGrass"
+                    },
+                    {
+                        "op":  "paint",
+                        "cx":  2300,
+                        "cz":  -320,
+                        "r":  110,
+                        "material":  "Grass"
+                    }
+                ],
+    "placements":  [
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  2192,
+                           "z":  -500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  2216,
+                           "z":  -500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  2240,
+                           "z":  -500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  2264,
+                           "z":  -500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  2288,
+                           "z":  -500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  2312,
+                           "z":  -500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  2336,
+                           "z":  -500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  2360,
+                           "z":  -500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  2384,
+                           "z":  -500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  2408,
+                           "z":  -500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  2432,
+                           "z":  -500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  2456,
+                           "z":  -500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  2480,
+                           "z":  -500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  2504,
+                           "z":  -500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  2528,
+                           "z":  -500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  2552,
+                           "z":  -500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  2576,
+                           "z":  -500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  2600,
+                           "z":  -500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  2624,
+                           "z":  -500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  2648,
+                           "z":  -500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A05_road_end_fade",
+                           "x":  2688,
+                           "z":  -500,
+                           "rot":  90,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A06_path_dirt_straight",
+                           "x":  2300,
+                           "z":  -452,
+                           "rot":  0,
+                           "group":  "MeadowPath"
+                       },
+                       {
+                           "model":  "A06_path_dirt_straight",
+                           "x":  2300,
+                           "z":  -428,
+                           "rot":  0,
+                           "group":  "MeadowPath"
+                       },
+                       {
+                           "model":  "A07_path_dirt_curve",
+                           "x":  2300,
+                           "z":  -404,
+                           "rot":  180,
+                           "group":  "MeadowPath"
+                       },
+                       {
+                           "model":  "E11_covered_bridge",
+                           "x":  2408,
+                           "z":  -500,
+                           "rot":  90,
+                           "group":  "Stream"
+                       },
+                       {
+                           "model":  "E07_sawmill",
+                           "x":  2350,
+                           "z":  -440,
+                           "rot":  90,
+                           "group":  "Sawmill"
+                       },
+                       {
+                           "model":  "A90_firewood_stack",
+                           "x":  2322,
+                           "z":  -470,
+                           "rot":  0,
+                           "group":  "Sawmill"
+                       },
+                       {
+                           "model":  "A74_crate_large",
+                           "x":  2330,
+                           "z":  -412,
+                           "rot":  20,
+                           "group":  "Sawmill"
+                       },
+                       {
+                           "model":  "A67_fallen_log",
+                           "x":  2372,
+                           "z":  -408,
+                           "rot":  30,
+                           "group":  "Sawmill"
+                       },
+                       {
+                           "model":  "A73_crate_small",
+                           "x":  2336,
+                           "z":  -406,
+                           "rot":  0,
+                           "group":  "Sawmill"
+                       },
+                       {
+                           "model":  "E06_stone_chapel",
+                           "x":  2790,
+                           "z":  -500,
+                           "rot":  270,
+                           "group":  "Chapel"
+                       },
+                       {
+                           "model":  "A23_candle_cluster",
+                           "x":  2793,
+                           "z":  -493,
+                           "rot":  0,
+                           "group":  "ChapelInterior",
+                           "y_offset":  2.0
+                       },
+                       {
+                           "model":  "A23_candle_cluster",
+                           "x":  2793,
+                           "z":  -507,
+                           "rot":  0,
+                           "group":  "ChapelInterior",
+                           "y_offset":  2.0
+                       },
+                       {
+                           "model":  "A82_bench_wood",
+                           "x":  2788,
+                           "z":  -495,
+                           "rot":  90,
+                           "group":  "ChapelInterior"
+                       },
+                       {
+                           "model":  "A82_bench_wood",
+                           "x":  2788,
+                           "z":  -505,
+                           "rot":  90,
+                           "group":  "ChapelInterior"
+                       },
+                       {
+                           "model":  "A17_lamp_wood_rustic",
+                           "x":  2772,
+                           "z":  -488,
+                           "rot":  0,
+                           "group":  "Chapel"
+                       },
+                       {
+                           "model":  "A17_lamp_wood_rustic",
+                           "x":  2772,
+                           "z":  -512,
+                           "rot":  0,
+                           "group":  "Chapel"
+                       },
+                       {
+                           "model":  "E26_icicle_cluster",
+                           "x":  2790,
+                           "z":  -486,
+                           "rot":  0,
+                           "group":  "Chapel",
+                           "y_offset":  14
+                       },
+                       {
+                           "model":  "A98_well",
+                           "x":  2725,
+                           "z":  -500,
+                           "rot":  0,
+                           "group":  "Square"
+                       },
+                       {
+                           "model":  "A82_bench_wood",
+                           "x":  2710,
+                           "z":  -470,
+                           "rot":  0,
+                           "group":  "Square"
+                       },
+                       {
+                           "model":  "A82_bench_wood",
+                           "x":  2710,
+                           "z":  -530,
+                           "rot":  180,
+                           "group":  "Square"
+                       },
+                       {
+                           "model":  "E23_cheese_cart",
+                           "x":  2742,
+                           "z":  -470,
+                           "rot":  200,
+                           "group":  "Square"
+                       },
+                       {
+                           "model":  "A105_market_stall_fruit",
+                           "x":  2708,
+                           "z":  -520,
+                           "rot":  90,
+                           "group":  "Square"
+                       },
+                       {
+                           "model":  "A13_signpost",
+                           "x":  2700,
+                           "z":  -500,
+                           "rot":  270,
+                           "group":  "Square"
+                       },
+                       {
+                           "model":  "A21_brazier",
+                           "x":  2740,
+                           "z":  -530,
+                           "rot":  0,
+                           "group":  "Square"
+                       },
+                       {
+                           "model":  "E05_lodge",
+                           "x":  2680,
+                           "z":  -600,
+                           "rot":  0,
+                           "group":  "Lodge"
+                       },
+                       {
+                           "model":  "A84_table",
+                           "x":  2672,
+                           "z":  -600,
+                           "rot":  0,
+                           "group":  "LodgeInterior"
+                       },
+                       {
+                           "model":  "A85_chair",
+                           "x":  2672,
+                           "z":  -594,
+                           "rot":  180,
+                           "group":  "LodgeInterior"
+                       },
+                       {
+                           "model":  "A85_chair",
+                           "x":  2672,
+                           "z":  -606,
+                           "rot":  0,
+                           "group":  "LodgeInterior"
+                       },
+                       {
+                           "model":  "A86_stool",
+                           "x":  2684,
+                           "z":  -598,
+                           "rot":  0,
+                           "group":  "LodgeInterior"
+                       },
+                       {
+                           "model":  "A90_firewood_stack",
+                           "x":  2690,
+                           "z":  -606,
+                           "rot":  90,
+                           "group":  "LodgeInterior"
+                       },
+                       {
+                           "model":  "A19_hanging_lantern",
+                           "x":  2680,
+                           "z":  -600,
+                           "rot":  0,
+                           "group":  "LodgeInterior",
+                           "y_offset":  8
+                       },
+                       {
+                           "model":  "A71_barrel",
+                           "x":  2662,
+                           "z":  -582,
+                           "rot":  0,
+                           "group":  "Lodge"
+                       },
+                       {
+                           "model":  "A72_barrel_open",
+                           "x":  2666,
+                           "z":  -580,
+                           "rot":  0,
+                           "group":  "Lodge"
+                       },
+                       {
+                           "model":  "A94_shop_sign",
+                           "x":  2696,
+                           "z":  -586,
+                           "rot":  90,
+                           "group":  "Lodge",
+                           "y_offset":  5
+                       },
+                       {
+                           "model":  "A19_hanging_lantern",
+                           "x":  2696,
+                           "z":  -590,
+                           "rot":  90,
+                           "group":  "Lodge",
+                           "y_offset":  6
+                       },
+                       {
+                           "model":  "E01_chalet_1",
+                           "x":  2505,
+                           "z":  -590,
+                           "rot":  0,
+                           "group":  "ChaletsNorth"
+                       },
+                       {
+                           "model":  "E03_chalet_3",
+                           "x":  2600,
+                           "z":  -605,
+                           "rot":  0,
+                           "group":  "ChaletsNorth"
+                       },
+                       {
+                           "model":  "E02_chalet_2",
+                           "x":  2505,
+                           "z":  -410,
+                           "rot":  180,
+                           "group":  "ChaletsSouth"
+                       },
+                       {
+                           "model":  "E04_chalet_4",
+                           "x":  2600,
+                           "z":  -400,
+                           "rot":  180,
+                           "group":  "ChaletsSouth"
+                       },
+                       {
+                           "model":  "E20_terrace_wall",
+                           "x":  2472.0,
+                           "z":  -567,
+                           "rot":  0,
+                           "group":  "Terraces"
+                       },
+                       {
+                           "model":  "E20_terrace_wall",
+                           "x":  2493.0,
+                           "z":  -567,
+                           "rot":  0,
+                           "group":  "Terraces"
+                       },
+                       {
+                           "model":  "E20_terrace_wall",
+                           "x":  2514.0,
+                           "z":  -567,
+                           "rot":  0,
+                           "group":  "Terraces"
+                       },
+                       {
+                           "model":  "E20_terrace_wall",
+                           "x":  2472.0,
+                           "z":  -433,
+                           "rot":  180,
+                           "group":  "Terraces"
+                       },
+                       {
+                           "model":  "E20_terrace_wall",
+                           "x":  2493.0,
+                           "z":  -433,
+                           "rot":  180,
+                           "group":  "Terraces"
+                       },
+                       {
+                           "model":  "E20_terrace_wall",
+                           "x":  2514.0,
+                           "z":  -433,
+                           "rot":  180,
+                           "group":  "Terraces"
+                       },
+                       {
+                           "model":  "E25_snow_drift",
+                           "x":  2488,
+                           "z":  -575,
+                           "rot":  20,
+                           "group":  "ChaletsNorth"
+                       },
+                       {
+                           "model":  "E25_snow_drift",
+                           "x":  2616,
+                           "z":  -590,
+                           "rot":  60,
+                           "group":  "ChaletsNorth"
+                       },
+                       {
+                           "model":  "E26_icicle_cluster",
+                           "x":  2505,
+                           "z":  -577,
+                           "rot":  0,
+                           "group":  "ChaletsNorth",
+                           "y_offset":  13
+                       },
+                       {
+                           "model":  "E26_icicle_cluster",
+                           "x":  2600,
+                           "z":  -592,
+                           "rot":  0,
+                           "group":  "ChaletsNorth",
+                           "y_offset":  13
+                       },
+                       {
+                           "model":  "A48_planter_box",
+                           "x":  2520,
+                           "z":  -578,
+                           "rot":  0,
+                           "group":  "ChaletsNorth"
+                       },
+                       {
+                           "model":  "A90_firewood_stack",
+                           "x":  2486,
+                           "z":  -600,
+                           "rot":  0,
+                           "group":  "ChaletsNorth"
+                       },
+                       {
+                           "model":  "E22_sled",
+                           "x":  2522,
+                           "z":  -418,
+                           "rot":  100,
+                           "group":  "ChaletsSouth"
+                       },
+                       {
+                           "model":  "E25_snow_drift",
+                           "x":  2488,
+                           "z":  -425,
+                           "rot":  10,
+                           "group":  "ChaletsSouth"
+                       },
+                       {
+                           "model":  "A48_planter_box",
+                           "x":  2520,
+                           "z":  -422,
+                           "rot":  180,
+                           "group":  "ChaletsSouth"
+                       },
+                       {
+                           "model":  "A88_clay_pot_1",
+                           "x":  2616,
+                           "z":  -414,
+                           "rot":  0,
+                           "group":  "ChaletsSouth"
+                       },
+                       {
+                           "model":  "E08_barn",
+                           "x":  2300,
+                           "z":  -300,
+                           "rot":  90,
+                           "group":  "Farm"
+                       },
+                       {
+                           "model":  "E09_goat_pen",
+                           "x":  2300,
+                           "z":  -250,
+                           "rot":  0,
+                           "group":  "Farm"
+                       },
+                       {
+                           "model":  "A78_hay_bale",
+                           "x":  2270,
+                           "z":  -285,
+                           "rot":  0,
+                           "group":  "Farm"
+                       },
+                       {
+                           "model":  "A78_hay_bale",
+                           "x":  2276,
+                           "z":  -282,
+                           "rot":  40,
+                           "group":  "Farm"
+                       },
+                       {
+                           "model":  "A97_water_trough",
+                           "x":  2318,
+                           "z":  -258,
+                           "rot":  90,
+                           "group":  "Farm"
+                       },
+                       {
+                           "model":  "A101_fence_rail",
+                           "x":  2262,
+                           "z":  -230,
+                           "rot":  90,
+                           "group":  "Farm"
+                       },
+                       {
+                           "model":  "A101_fence_rail",
+                           "x":  2262,
+                           "z":  -251,
+                           "rot":  90,
+                           "group":  "Farm"
+                       },
+                       {
+                           "model":  "A101_fence_rail",
+                           "x":  2338,
+                           "z":  -230,
+                           "rot":  90,
+                           "group":  "Farm"
+                       },
+                       {
+                           "model":  "A79_hand_cart",
+                           "x":  2270,
+                           "z":  -320,
+                           "rot":  300,
+                           "group":  "Farm"
+                       },
+                       {
+                           "model":  "E10_watchtower",
+                           "x":  2780,
+                           "z":  -720,
+                           "rot":  180,
+                           "group":  "Watchtower"
+                       },
+                       {
+                           "model":  "A21_brazier",
+                           "x":  2766,
+                           "z":  -706,
+                           "rot":  0,
+                           "group":  "Watchtower"
+                       },
+                       {
+                           "model":  "E15_snowy_rock_1",
+                           "x":  2800,
+                           "z":  -706,
+                           "rot":  40,
+                           "group":  "Watchtower"
+                       },
+                       {
+                           "model":  "E16_snowy_rock_2",
+                           "x":  2762,
+                           "z":  -735,
+                           "rot":  120,
+                           "group":  "Watchtower"
+                       },
+                       {
+                           "model":  "E21_log_fence",
+                           "x":  2210.0,
+                           "z":  -210,
+                           "rot":  0,
+                           "group":  "MeadowFence"
+                       },
+                       {
+                           "model":  "E21_log_fence",
+                           "x":  2230.8,
+                           "z":  -210,
+                           "rot":  0,
+                           "group":  "MeadowFence"
+                       },
+                       {
+                           "model":  "E21_log_fence",
+                           "x":  2251.6,
+                           "z":  -210,
+                           "rot":  0,
+                           "group":  "MeadowFence"
+                       },
+                       {
+                           "model":  "E21_log_fence",
+                           "x":  2272.4,
+                           "z":  -210,
+                           "rot":  0,
+                           "group":  "MeadowFence"
+                       },
+                       {
+                           "model":  "E21_log_fence",
+                           "x":  2293.2,
+                           "z":  -210,
+                           "rot":  0,
+                           "group":  "MeadowFence"
+                       },
+                       {
+                           "model":  "E21_log_fence",
+                           "x":  2210.0,
+                           "z":  -560,
+                           "rot":  180,
+                           "group":  "MeadowFence"
+                       },
+                       {
+                           "model":  "E21_log_fence",
+                           "x":  2230.8,
+                           "z":  -560,
+                           "rot":  180,
+                           "group":  "MeadowFence"
+                       },
+                       {
+                           "model":  "E21_log_fence",
+                           "x":  2251.6,
+                           "z":  -560,
+                           "rot":  180,
+                           "group":  "MeadowFence"
+                       },
+                       {
+                           "model":  "E21_log_fence",
+                           "x":  2272.4,
+                           "z":  -560,
+                           "rot":  180,
+                           "group":  "MeadowFence"
+                       },
+                       {
+                           "model":  "E21_log_fence",
+                           "x":  2200,
+                           "z":  -560.0,
+                           "rot":  0,
+                           "group":  "MeadowFence"
+                       },
+                       {
+                           "model":  "E21_log_fence",
+                           "x":  2200,
+                           "z":  -539.2,
+                           "rot":  270,
+                           "group":  "MeadowFence"
+                       },
+                       {
+                           "model":  "E21_log_fence",
+                           "x":  2200,
+                           "z":  -518.4,
+                           "rot":  270,
+                           "group":  "MeadowFence"
+                       },
+                       {
+                           "model":  "A17_lamp_wood_rustic",
+                           "x":  2176,
+                           "z":  -484,
+                           "rot":  0,
+                           "group":  "Gate"
+                       },
+                       {
+                           "model":  "A17_lamp_wood_rustic",
+                           "x":  2176,
+                           "z":  -516,
+                           "rot":  0,
+                           "group":  "Gate"
+                       },
+                       {
+                           "model":  "A14_milestone",
+                           "x":  2174,
+                           "z":  -522,
+                           "rot":  0,
+                           "group":  "Gate"
+                       },
+                       {
+                           "model":  "E25_snow_drift",
+                           "x":  2176,
+                           "z":  -524,
+                           "rot":  0,
+                           "group":  "Gate"
+                       },
+                       {
+                           "model":  "A17_lamp_wood_rustic",
+                           "x":  2210,
+                           "z":  -515,
+                           "rot":  0,
+                           "group":  "StreetLights"
+                       },
+                       {
+                           "model":  "A17_lamp_wood_rustic",
+                           "x":  2250,
+                           "z":  -485,
+                           "rot":  0,
+                           "group":  "StreetLights"
+                       },
+                       {
+                           "model":  "A17_lamp_wood_rustic",
+                           "x":  2300,
+                           "z":  -515,
+                           "rot":  0,
+                           "group":  "StreetLights"
+                       },
+                       {
+                           "model":  "A17_lamp_wood_rustic",
+                           "x":  2350,
+                           "z":  -485,
+                           "rot":  0,
+                           "group":  "StreetLights"
+                       },
+                       {
+                           "model":  "A17_lamp_wood_rustic",
+                           "x":  2500,
+                           "z":  -515,
+                           "rot":  0,
+                           "group":  "StreetLights"
+                       },
+                       {
+                           "model":  "A17_lamp_wood_rustic",
+                           "x":  2540,
+                           "z":  -485,
+                           "rot":  0,
+                           "group":  "StreetLights"
+                       },
+                       {
+                           "model":  "A17_lamp_wood_rustic",
+                           "x":  2580,
+                           "z":  -515,
+                           "rot":  0,
+                           "group":  "StreetLights"
+                       },
+                       {
+                           "model":  "A17_lamp_wood_rustic",
+                           "x":  2620,
+                           "z":  -485,
+                           "rot":  0,
+                           "group":  "StreetLights"
+                       },
+                       {
+                           "model":  "A17_lamp_wood_rustic",
+                           "x":  2660,
+                           "z":  -515,
+                           "rot":  0,
+                           "group":  "StreetLights"
+                       },
+                       {
+                           "model":  "E24_beehive",
+                           "x":  2240,
+                           "z":  -360,
+                           "rot":  20,
+                           "group":  "Apiary"
+                       },
+                       {
+                           "model":  "E24_beehive",
+                           "x":  2250,
+                           "z":  -366,
+                           "rot":  60,
+                           "group":  "Apiary"
+                       },
+                       {
+                           "model":  "E24_beehive",
+                           "x":  2246,
+                           "z":  -352,
+                           "rot":  340,
+                           "group":  "Apiary"
+                       },
+                       {
+                           "model":  "E12_snowy_pine_1",
+                           "x":  2720.9,
+                           "z":  -681.8,
+                           "rot":  26,
+                           "group":  "PineGroveNE",
+                           "scale":  1.08
+                       },
+                       {
+                           "model":  "E12_snowy_pine_1",
+                           "x":  2675.2,
+                           "z":  -734.9,
+                           "rot":  182,
+                           "group":  "PineGroveNE",
+                           "scale":  0.87
+                       },
+                       {
+                           "model":  "E12_snowy_pine_1",
+                           "x":  2810.4,
+                           "z":  -703.1,
+                           "rot":  32,
+                           "group":  "PineGroveNE",
+                           "scale":  0.87
+                       },
+                       {
+                           "model":  "E12_snowy_pine_1",
+                           "x":  2651.0,
+                           "z":  -674.3,
+                           "rot":  80,
+                           "group":  "PineGroveNE",
+                           "scale":  0.89
+                       },
+                       {
+                           "model":  "E12_snowy_pine_1",
+                           "x":  2665.4,
+                           "z":  -796.9,
+                           "rot":  142,
+                           "group":  "PineGroveNE",
+                           "scale":  1.05
+                       },
+                       {
+                           "model":  "E12_snowy_pine_1",
+                           "x":  2704.3,
+                           "z":  -627.3,
+                           "rot":  209,
+                           "group":  "PineGroveNE",
+                           "scale":  0.91
+                       },
+                       {
+                           "model":  "E12_snowy_pine_1",
+                           "x":  2696.9,
+                           "z":  -771.4,
+                           "rot":  22,
+                           "group":  "PineGroveNE",
+                           "scale":  1.04
+                       },
+                       {
+                           "model":  "E13_snowy_pine_2",
+                           "x":  2750.7,
+                           "z":  -760.1,
+                           "rot":  153,
+                           "group":  "PineGroveNE",
+                           "scale":  1.09
+                       },
+                       {
+                           "model":  "E13_snowy_pine_2",
+                           "x":  2609.1,
+                           "z":  -728.6,
+                           "rot":  176,
+                           "group":  "PineGroveNE",
+                           "scale":  0.9
+                       },
+                       {
+                           "model":  "E13_snowy_pine_2",
+                           "x":  2795.1,
+                           "z":  -756.1,
+                           "rot":  206,
+                           "group":  "PineGroveNE",
+                           "scale":  1.12
+                       },
+                       {
+                           "model":  "E13_snowy_pine_2",
+                           "x":  2747.7,
+                           "z":  -827.4,
+                           "rot":  213,
+                           "group":  "PineGroveNE",
+                           "scale":  1.09
+                       },
+                       {
+                           "model":  "E13_snowy_pine_2",
+                           "x":  2628.9,
+                           "z":  -819.0,
+                           "rot":  340,
+                           "group":  "PineGroveNE",
+                           "scale":  1.14
+                       },
+                       {
+                           "model":  "E13_snowy_pine_2",
+                           "x":  2603.5,
+                           "z":  -764.2,
+                           "rot":  252,
+                           "group":  "PineGroveNE",
+                           "scale":  0.87
+                       },
+                       {
+                           "model":  "E13_snowy_pine_2",
+                           "x":  2652.2,
+                           "z":  -768.3,
+                           "rot":  21,
+                           "group":  "PineGroveNE",
+                           "scale":  0.89
+                       },
+                       {
+                           "model":  "E13_snowy_pine_2",
+                           "x":  2704.9,
+                           "z":  -822.9,
+                           "rot":  140,
+                           "group":  "PineGroveNE",
+                           "scale":  0.94
+                       },
+                       {
+                           "model":  "E14_snowy_pine_3",
+                           "x":  2777.7,
+                           "z":  -658.5,
+                           "rot":  197,
+                           "group":  "PineGroveNE",
+                           "scale":  1.01
+                       },
+                       {
+                           "model":  "E14_snowy_pine_3",
+                           "x":  2749.7,
+                           "z":  -582.9,
+                           "rot":  318,
+                           "group":  "PineGroveNE",
+                           "scale":  0.98
+                       },
+                       {
+                           "model":  "E14_snowy_pine_3",
+                           "x":  2793.7,
+                           "z":  -649.2,
+                           "rot":  83,
+                           "group":  "PineGroveNE",
+                           "scale":  0.91
+                       },
+                       {
+                           "model":  "E14_snowy_pine_3",
+                           "x":  2766.6,
+                           "z":  -577.7,
+                           "rot":  94,
+                           "group":  "PineGroveNE",
+                           "scale":  1.06
+                       },
+                       {
+                           "model":  "E14_snowy_pine_3",
+                           "x":  2818.2,
+                           "z":  -638.5,
+                           "rot":  203,
+                           "group":  "PineGroveNE",
+                           "scale":  0.98
+                       },
+                       {
+                           "model":  "E14_snowy_pine_3",
+                           "x":  2689.6,
+                           "z":  -646.9,
+                           "rot":  19,
+                           "group":  "PineGroveNE",
+                           "scale":  1.09
+                       },
+                       {
+                           "model":  "E12_snowy_pine_1",
+                           "x":  2515.7,
+                           "z":  -754.4,
+                           "rot":  228,
+                           "group":  "PineGroveN",
+                           "scale":  0.89
+                       },
+                       {
+                           "model":  "E12_snowy_pine_1",
+                           "x":  2581.6,
+                           "z":  -781.1,
+                           "rot":  58,
+                           "group":  "PineGroveN",
+                           "scale":  0.92
+                       },
+                       {
+                           "model":  "E12_snowy_pine_1",
+                           "x":  2548.9,
+                           "z":  -772.6,
+                           "rot":  54,
+                           "group":  "PineGroveN",
+                           "scale":  0.85
+                       },
+                       {
+                           "model":  "E12_snowy_pine_1",
+                           "x":  2621.4,
+                           "z":  -792.7,
+                           "rot":  30,
+                           "group":  "PineGroveN",
+                           "scale":  1.02
+                       },
+                       {
+                           "model":  "E12_snowy_pine_1",
+                           "x":  2577.2,
+                           "z":  -821.8,
+                           "rot":  342,
+                           "group":  "PineGroveN",
+                           "scale":  0.86
+                       },
+                       {
+                           "model":  "E13_snowy_pine_2",
+                           "x":  2466.1,
+                           "z":  -806.1,
+                           "rot":  9,
+                           "group":  "PineGroveN",
+                           "scale":  1.04
+                       },
+                       {
+                           "model":  "E13_snowy_pine_2",
+                           "x":  2513.7,
+                           "z":  -720.1,
+                           "rot":  306,
+                           "group":  "PineGroveN",
+                           "scale":  1.19
+                       },
+                       {
+                           "model":  "E13_snowy_pine_2",
+                           "x":  2460.1,
+                           "z":  -730.0,
+                           "rot":  142,
+                           "group":  "PineGroveN",
+                           "scale":  1.19
+                       },
+                       {
+                           "model":  "E13_snowy_pine_2",
+                           "x":  2428.7,
+                           "z":  -749.1,
+                           "rot":  61,
+                           "group":  "PineGroveN",
+                           "scale":  1.1
+                       },
+                       {
+                           "model":  "E13_snowy_pine_2",
+                           "x":  2558.3,
+                           "z":  -737.0,
+                           "rot":  164,
+                           "group":  "PineGroveN",
+                           "scale":  0.97
+                       },
+                       {
+                           "model":  "E13_snowy_pine_2",
+                           "x":  2434.4,
+                           "z":  -800.7,
+                           "rot":  6,
+                           "group":  "PineGroveN",
+                           "scale":  1.03
+                       },
+                       {
+                           "model":  "E14_snowy_pine_3",
+                           "x":  2800.1,
+                           "z":  -552.1,
+                           "rot":  287,
+                           "group":  "PineGroveE",
+                           "scale":  0.85
+                       },
+                       {
+                           "model":  "E14_snowy_pine_3",
+                           "x":  2814.2,
+                           "z":  -596.8,
+                           "rot":  186,
+                           "group":  "PineGroveE",
+                           "scale":  0.96
+                       },
+                       {
+                           "model":  "E14_snowy_pine_3",
+                           "x":  2796.8,
+                           "z":  -569.2,
+                           "rot":  278,
+                           "group":  "PineGroveE",
+                           "scale":  0.95
+                       },
+                       {
+                           "model":  "E14_snowy_pine_3",
+                           "x":  2771.9,
+                           "z":  -553.3,
+                           "rot":  315,
+                           "group":  "PineGroveE",
+                           "scale":  1.09
+                       },
+                       {
+                           "model":  "A31_pine_3",
+                           "x":  2282.9,
+                           "z":  -696.3,
+                           "rot":  339,
+                           "group":  "MeadowTreesW",
+                           "scale":  1.05
+                       },
+                       {
+                           "model":  "A31_pine_3",
+                           "x":  2257.9,
+                           "z":  -708.1,
+                           "rot":  159,
+                           "group":  "MeadowTreesW",
+                           "scale":  0.89
+                       },
+                       {
+                           "model":  "A31_pine_3",
+                           "x":  2279.6,
+                           "z":  -660.6,
+                           "rot":  241,
+                           "group":  "MeadowTreesW",
+                           "scale":  0.88
+                       },
+                       {
+                           "model":  "A31_pine_3",
+                           "x":  2258.0,
+                           "z":  -763.3,
+                           "rot":  257,
+                           "group":  "MeadowTreesW",
+                           "scale":  0.9
+                       },
+                       {
+                           "model":  "A31_pine_3",
+                           "x":  2221.8,
+                           "z":  -708.8,
+                           "rot":  348,
+                           "group":  "MeadowTreesW",
+                           "scale":  1.16
+                       },
+                       {
+                           "model":  "A30_pine_2",
+                           "x":  2244.8,
+                           "z":  -683.3,
+                           "rot":  175,
+                           "group":  "MeadowTreesW",
+                           "scale":  0.99
+                       },
+                       {
+                           "model":  "A30_pine_2",
+                           "x":  2302.8,
+                           "z":  -764.6,
+                           "rot":  155,
+                           "group":  "MeadowTreesW",
+                           "scale":  0.91
+                       },
+                       {
+                           "model":  "A30_pine_2",
+                           "x":  2183.6,
+                           "z":  -764.6,
+                           "rot":  114,
+                           "group":  "MeadowTreesW",
+                           "scale":  0.92
+                       },
+                       {
+                           "model":  "A30_pine_2",
+                           "x":  2228.1,
+                           "z":  -771.0,
+                           "rot":  158,
+                           "group":  "MeadowTreesW",
+                           "scale":  1.04
+                       },
+                       {
+                           "model":  "E15_snowy_rock_1",
+                           "x":  2718.6,
+                           "z":  -762.2,
+                           "rot":  184,
+                           "group":  "Rocks",
+                           "scale":  1.07
+                       },
+                       {
+                           "model":  "E15_snowy_rock_1",
+                           "x":  2759.5,
+                           "z":  -723.2,
+                           "rot":  349,
+                           "group":  "Rocks",
+                           "scale":  1.13
+                       },
+                       {
+                           "model":  "E15_snowy_rock_1",
+                           "x":  2698.9,
+                           "z":  -732.2,
+                           "rot":  280,
+                           "group":  "Rocks",
+                           "scale":  0.86
+                       },
+                       {
+                           "model":  "E15_snowy_rock_1",
+                           "x":  2644.5,
+                           "z":  -727.2,
+                           "rot":  328,
+                           "group":  "Rocks",
+                           "scale":  1.0
+                       },
+                       {
+                           "model":  "E15_snowy_rock_1",
+                           "x":  2675.6,
+                           "z":  -825.4,
+                           "rot":  330,
+                           "group":  "Rocks",
+                           "scale":  0.9
+                       },
+                       {
+                           "model":  "E15_snowy_rock_1",
+                           "x":  2559.3,
+                           "z":  -813.1,
+                           "rot":  20,
+                           "group":  "Rocks",
+                           "scale":  0.88
+                       },
+                       {
+                           "model":  "E16_snowy_rock_2",
+                           "x":  2757.8,
+                           "z":  -674.3,
+                           "rot":  337,
+                           "group":  "Rocks",
+                           "scale":  0.88
+                       },
+                       {
+                           "model":  "E16_snowy_rock_2",
+                           "x":  2729.8,
+                           "z":  -605.0,
+                           "rot":  333,
+                           "group":  "Rocks",
+                           "scale":  1.04
+                       },
+                       {
+                           "model":  "E16_snowy_rock_2",
+                           "x":  2782.2,
+                           "z":  -590.3,
+                           "rot":  18,
+                           "group":  "Rocks",
+                           "scale":  0.91
+                       },
+                       {
+                           "model":  "E16_snowy_rock_2",
+                           "x":  2780.0,
+                           "z":  -608.9,
+                           "rot":  198,
+                           "group":  "Rocks",
+                           "scale":  1.11
+                       },
+                       {
+                           "model":  "E16_snowy_rock_2",
+                           "x":  2722.3,
+                           "z":  -593.8,
+                           "rot":  141,
+                           "group":  "Rocks",
+                           "scale":  1.14
+                       },
+                       {
+                           "model":  "E15_snowy_rock_1",
+                           "x":  2770.3,
+                           "z":  -302.1,
+                           "rot":  123,
+                           "group":  "Rocks",
+                           "scale":  1.19
+                       },
+                       {
+                           "model":  "E15_snowy_rock_1",
+                           "x":  2794.9,
+                           "z":  -328.8,
+                           "rot":  19,
+                           "group":  "Rocks",
+                           "scale":  0.97
+                       },
+                       {
+                           "model":  "E15_snowy_rock_1",
+                           "x":  2818.3,
+                           "z":  -330.3,
+                           "rot":  30,
+                           "group":  "Rocks",
+                           "scale":  0.91
+                       },
+                       {
+                           "model":  "E15_snowy_rock_1",
+                           "x":  2804.7,
+                           "z":  -328.0,
+                           "rot":  105,
+                           "group":  "Rocks",
+                           "scale":  0.93
+                       },
+                       {
+                           "model":  "A58_rock_medium_1",
+                           "x":  2569.3,
+                           "z":  -222.0,
+                           "rot":  94,
+                           "group":  "Rocks",
+                           "scale":  1.01
+                       },
+                       {
+                           "model":  "A58_rock_medium_1",
+                           "x":  2676.6,
+                           "z":  -248.8,
+                           "rot":  88,
+                           "group":  "Rocks",
+                           "scale":  1.04
+                       },
+                       {
+                           "model":  "A58_rock_medium_1",
+                           "x":  2643.5,
+                           "z":  -239.5,
+                           "rot":  0,
+                           "group":  "Rocks",
+                           "scale":  0.97
+                       },
+                       {
+                           "model":  "A58_rock_medium_1",
+                           "x":  2559.4,
+                           "z":  -192.7,
+                           "rot":  72,
+                           "group":  "Rocks",
+                           "scale":  1.03
+                       },
+                       {
+                           "model":  "A57_rock_small_2",
+                           "x":  2291.6,
+                           "z":  -220.3,
+                           "rot":  32,
+                           "group":  "Rocks",
+                           "scale":  0.94
+                       },
+                       {
+                           "model":  "A57_rock_small_2",
+                           "x":  2280.2,
+                           "z":  -205.5,
+                           "rot":  109,
+                           "group":  "Rocks",
+                           "scale":  0.86
+                       },
+                       {
+                           "model":  "A57_rock_small_2",
+                           "x":  2197.8,
+                           "z":  -239.0,
+                           "rot":  257,
+                           "group":  "Rocks",
+                           "scale":  1.08
+                       },
+                       {
+                           "model":  "A57_rock_small_2",
+                           "x":  2354.3,
+                           "z":  -271.6,
+                           "rot":  354,
+                           "group":  "Rocks",
+                           "scale":  0.96
+                       },
+                       {
+                           "model":  "A57_rock_small_2",
+                           "x":  2284.4,
+                           "z":  -239.7,
+                           "rot":  321,
+                           "group":  "Rocks",
+                           "scale":  1.14
+                       },
+                       {
+                           "model":  "A57_rock_small_2",
+                           "x":  2228.4,
+                           "z":  -293.7,
+                           "rot":  50,
+                           "group":  "Rocks",
+                           "scale":  1.13
+                       },
+                       {
+                           "model":  "E17_snowy_bush",
+                           "x":  2642.7,
+                           "z":  -671.6,
+                           "rot":  289,
+                           "group":  "Bushes",
+                           "scale":  1.14
+                       },
+                       {
+                           "model":  "E17_snowy_bush",
+                           "x":  2758.8,
+                           "z":  -734.6,
+                           "rot":  245,
+                           "group":  "Bushes",
+                           "scale":  1.16
+                       },
+                       {
+                           "model":  "E17_snowy_bush",
+                           "x":  2701.6,
+                           "z":  -709.4,
+                           "rot":  47,
+                           "group":  "Bushes",
+                           "scale":  0.86
+                       },
+                       {
+                           "model":  "E17_snowy_bush",
+                           "x":  2697.2,
+                           "z":  -632.6,
+                           "rot":  201,
+                           "group":  "Bushes",
+                           "scale":  1.14
+                       },
+                       {
+                           "model":  "E17_snowy_bush",
+                           "x":  2659.5,
+                           "z":  -722.6,
+                           "rot":  176,
+                           "group":  "Bushes",
+                           "scale":  1.09
+                       },
+                       {
+                           "model":  "E17_snowy_bush",
+                           "x":  2818.2,
+                           "z":  -658.0,
+                           "rot":  181,
+                           "group":  "Bushes",
+                           "scale":  1.11
+                       },
+                       {
+                           "model":  "E17_snowy_bush",
+                           "x":  2632.9,
+                           "z":  -679.6,
+                           "rot":  265,
+                           "group":  "Bushes",
+                           "scale":  0.87
+                       },
+                       {
+                           "model":  "E17_snowy_bush",
+                           "x":  2719.6,
+                           "z":  -630.0,
+                           "rot":  262,
+                           "group":  "Bushes",
+                           "scale":  0.94
+                       },
+                       {
+                           "model":  "E17_snowy_bush",
+                           "x":  2561.5,
+                           "z":  -545.6,
+                           "rot":  177,
+                           "group":  "Bushes",
+                           "scale":  1.19
+                       },
+                       {
+                           "model":  "E17_snowy_bush",
+                           "x":  2493.9,
+                           "z":  -578.1,
+                           "rot":  276,
+                           "group":  "Bushes",
+                           "scale":  1.09
+                       },
+                       {
+                           "model":  "E17_snowy_bush",
+                           "x":  2486.5,
+                           "z":  -668.4,
+                           "rot":  53,
+                           "group":  "Bushes",
+                           "scale":  0.88
+                       },
+                       {
+                           "model":  "E17_snowy_bush",
+                           "x":  2538.1,
+                           "z":  -542.4,
+                           "rot":  204,
+                           "group":  "Bushes",
+                           "scale":  0.96
+                       },
+                       {
+                           "model":  "E17_snowy_bush",
+                           "x":  2562.1,
+                           "z":  -618.3,
+                           "rot":  241,
+                           "group":  "Bushes",
+                           "scale":  0.94
+                       },
+                       {
+                           "model":  "E17_snowy_bush",
+                           "x":  2513.7,
+                           "z":  -689.2,
+                           "rot":  185,
+                           "group":  "Bushes",
+                           "scale":  0.95
+                       },
+                       {
+                           "model":  "A38_bush_1",
+                           "x":  2206.7,
+                           "z":  -403.5,
+                           "rot":  321,
+                           "group":  "Bushes",
+                           "scale":  0.89
+                       },
+                       {
+                           "model":  "A38_bush_1",
+                           "x":  2314.1,
+                           "z":  -316.7,
+                           "rot":  6,
+                           "group":  "Bushes",
+                           "scale":  1.18
+                       },
+                       {
+                           "model":  "A38_bush_1",
+                           "x":  2183.7,
+                           "z":  -394.6,
+                           "rot":  161,
+                           "group":  "Bushes",
+                           "scale":  1.19
+                       },
+                       {
+                           "model":  "A38_bush_1",
+                           "x":  2274.1,
+                           "z":  -370.0,
+                           "rot":  75,
+                           "group":  "Bushes",
+                           "scale":  1.18
+                       },
+                       {
+                           "model":  "A38_bush_1",
+                           "x":  2243.9,
+                           "z":  -440.3,
+                           "rot":  342,
+                           "group":  "Bushes",
+                           "scale":  1.03
+                       },
+                       {
+                           "model":  "A38_bush_1",
+                           "x":  2347.0,
+                           "z":  -346.3,
+                           "rot":  319,
+                           "group":  "Bushes",
+                           "scale":  1.03
+                       },
+                       {
+                           "model":  "E18_edelweiss",
+                           "x":  2261.9,
+                           "z":  -539.9,
+                           "rot":  175,
+                           "group":  "Flowers",
+                           "scale":  1.08
+                       },
+                       {
+                           "model":  "E18_edelweiss",
+                           "x":  2287.7,
+                           "z":  -478.8,
+                           "rot":  162,
+                           "group":  "Flowers",
+                           "scale":  1.0
+                       },
+                       {
+                           "model":  "E18_edelweiss",
+                           "x":  2264.4,
+                           "z":  -433.8,
+                           "rot":  113,
+                           "group":  "Flowers",
+                           "scale":  0.97
+                       },
+                       {
+                           "model":  "E18_edelweiss",
+                           "x":  2282.9,
+                           "z":  -484.6,
+                           "rot":  302,
+                           "group":  "Flowers",
+                           "scale":  1.05
+                       },
+                       {
+                           "model":  "E18_edelweiss",
+                           "x":  2371.2,
+                           "z":  -394.3,
+                           "rot":  324,
+                           "group":  "Flowers",
+                           "scale":  1.04
+                       },
+                       {
+                           "model":  "E18_edelweiss",
+                           "x":  2260.4,
+                           "z":  -403.2,
+                           "rot":  359,
+                           "group":  "Flowers",
+                           "scale":  0.98
+                       },
+                       {
+                           "model":  "E18_edelweiss",
+                           "x":  2213.9,
+                           "z":  -521.5,
+                           "rot":  99,
+                           "group":  "Flowers",
+                           "scale":  0.99
+                       },
+                       {
+                           "model":  "E18_edelweiss",
+                           "x":  2319.6,
+                           "z":  -467.6,
+                           "rot":  102,
+                           "group":  "Flowers",
+                           "scale":  1.07
+                       },
+                       {
+                           "model":  "E18_edelweiss",
+                           "x":  2270.8,
+                           "z":  -387.5,
+                           "rot":  134,
+                           "group":  "Flowers",
+                           "scale":  0.94
+                       },
+                       {
+                           "model":  "E18_edelweiss",
+                           "x":  2319.2,
+                           "z":  -575.5,
+                           "rot":  338,
+                           "group":  "Flowers",
+                           "scale":  1.08
+                       },
+                       {
+                           "model":  "E18_edelweiss",
+                           "x":  2175.0,
+                           "z":  -513.6,
+                           "rot":  263,
+                           "group":  "Flowers",
+                           "scale":  0.91
+                       },
+                       {
+                           "model":  "E18_edelweiss",
+                           "x":  2172.5,
+                           "z":  -445.7,
+                           "rot":  103,
+                           "group":  "Flowers",
+                           "scale":  1.03
+                       },
+                       {
+                           "model":  "E18_edelweiss",
+                           "x":  2342.2,
+                           "z":  -415.9,
+                           "rot":  107,
+                           "group":  "Flowers",
+                           "scale":  0.97
+                       },
+                       {
+                           "model":  "E18_edelweiss",
+                           "x":  2271.2,
+                           "z":  -608.1,
+                           "rot":  236,
+                           "group":  "Flowers",
+                           "scale":  0.95
+                       },
+                       {
+                           "model":  "E19_gentian",
+                           "x":  2271.9,
+                           "z":  -274.9,
+                           "rot":  60,
+                           "group":  "Flowers",
+                           "scale":  0.98
+                       },
+                       {
+                           "model":  "E19_gentian",
+                           "x":  2328.8,
+                           "z":  -313.5,
+                           "rot":  178,
+                           "group":  "Flowers",
+                           "scale":  1.08
+                       },
+                       {
+                           "model":  "E19_gentian",
+                           "x":  2321.4,
+                           "z":  -247.8,
+                           "rot":  161,
+                           "group":  "Flowers",
+                           "scale":  1.1
+                       },
+                       {
+                           "model":  "E19_gentian",
+                           "x":  2333.7,
+                           "z":  -319.5,
+                           "rot":  123,
+                           "group":  "Flowers",
+                           "scale":  0.92
+                       },
+                       {
+                           "model":  "E19_gentian",
+                           "x":  2349.3,
+                           "z":  -328.2,
+                           "rot":  205,
+                           "group":  "Flowers",
+                           "scale":  0.95
+                       },
+                       {
+                           "model":  "E19_gentian",
+                           "x":  2378.9,
+                           "z":  -427.6,
+                           "rot":  148,
+                           "group":  "Flowers",
+                           "scale":  0.98
+                       },
+                       {
+                           "model":  "E19_gentian",
+                           "x":  2227.2,
+                           "z":  -371.1,
+                           "rot":  22,
+                           "group":  "Flowers",
+                           "scale":  0.97
+                       },
+                       {
+                           "model":  "E19_gentian",
+                           "x":  2279.7,
+                           "z":  -243.7,
+                           "rot":  181,
+                           "group":  "Flowers",
+                           "scale":  0.93
+                       },
+                       {
+                           "model":  "E19_gentian",
+                           "x":  2223.5,
+                           "z":  -441.1,
+                           "rot":  97,
+                           "group":  "Flowers",
+                           "scale":  0.94
+                       },
+                       {
+                           "model":  "E19_gentian",
+                           "x":  2300.7,
+                           "z":  -284.1,
+                           "rot":  343,
+                           "group":  "Flowers",
+                           "scale":  0.99
+                       },
+                       {
+                           "model":  "E19_gentian",
+                           "x":  2365.1,
+                           "z":  -451.2,
+                           "rot":  11,
+                           "group":  "Flowers",
+                           "scale":  0.9
+                       },
+                       {
+                           "model":  "E19_gentian",
+                           "x":  2271.4,
+                           "z":  -469.9,
+                           "rot":  211,
+                           "group":  "Flowers",
+                           "scale":  0.99
+                       },
+                       {
+                           "model":  "E19_gentian",
+                           "x":  2375.1,
+                           "z":  -359.9,
+                           "rot":  297,
+                           "group":  "Flowers",
+                           "scale":  1.09
+                       },
+                       {
+                           "model":  "E19_gentian",
+                           "x":  2372.8,
+                           "z":  -453.3,
+                           "rot":  39,
+                           "group":  "Flowers",
+                           "scale":  0.95
+                       },
+                       {
+                           "model":  "E18_edelweiss",
+                           "x":  2596.8,
+                           "z":  -246.3,
+                           "rot":  338,
+                           "group":  "Flowers",
+                           "scale":  1.04
+                       },
+                       {
+                           "model":  "E18_edelweiss",
+                           "x":  2547.2,
+                           "z":  -371.3,
+                           "rot":  164,
+                           "group":  "Flowers",
+                           "scale":  1.05
+                       },
+                       {
+                           "model":  "E18_edelweiss",
+                           "x":  2543.0,
+                           "z":  -305.7,
+                           "rot":  83,
+                           "group":  "Flowers",
+                           "scale":  1.06
+                       },
+                       {
+                           "model":  "E18_edelweiss",
+                           "x":  2623.3,
+                           "z":  -334.9,
+                           "rot":  46,
+                           "group":  "Flowers",
+                           "scale":  0.96
+                       },
+                       {
+                           "model":  "E18_edelweiss",
+                           "x":  2559.2,
+                           "z":  -228.2,
+                           "rot":  40,
+                           "group":  "Flowers",
+                           "scale":  1.04
+                       },
+                       {
+                           "model":  "E18_edelweiss",
+                           "x":  2618.9,
+                           "z":  -272.1,
+                           "rot":  139,
+                           "group":  "Flowers",
+                           "scale":  1.02
+                       },
+                       {
+                           "model":  "E18_edelweiss",
+                           "x":  2571.5,
+                           "z":  -231.2,
+                           "rot":  108,
+                           "group":  "Flowers",
+                           "scale":  0.9
+                       },
+                       {
+                           "model":  "E18_edelweiss",
+                           "x":  2474.5,
+                           "z":  -278.5,
+                           "rot":  318,
+                           "group":  "Flowers",
+                           "scale":  1.03
+                       },
+                       {
+                           "model":  "E19_gentian",
+                           "x":  2196.9,
+                           "z":  -553.3,
+                           "rot":  345,
+                           "group":  "Flowers",
+                           "scale":  0.95
+                       },
+                       {
+                           "model":  "E19_gentian",
+                           "x":  2226.0,
+                           "z":  -607.9,
+                           "rot":  179,
+                           "group":  "Flowers",
+                           "scale":  0.9
+                       },
+                       {
+                           "model":  "E19_gentian",
+                           "x":  2213.3,
+                           "z":  -611.9,
+                           "rot":  240,
+                           "group":  "Flowers",
+                           "scale":  0.95
+                       },
+                       {
+                           "model":  "E19_gentian",
+                           "x":  2278.2,
+                           "z":  -579.4,
+                           "rot":  121,
+                           "group":  "Flowers",
+                           "scale":  0.91
+                       },
+                       {
+                           "model":  "E19_gentian",
+                           "x":  2174.7,
+                           "z":  -524.4,
+                           "rot":  286,
+                           "group":  "Flowers",
+                           "scale":  0.94
+                       },
+                       {
+                           "model":  "E19_gentian",
+                           "x":  2235.6,
+                           "z":  -623.8,
+                           "rot":  349,
+                           "group":  "Flowers",
+                           "scale":  0.94
+                       },
+                       {
+                           "model":  "E19_gentian",
+                           "x":  2209.2,
+                           "z":  -484.6,
+                           "rot":  79,
+                           "group":  "Flowers",
+                           "scale":  0.95
+                       },
+                       {
+                           "model":  "E19_gentian",
+                           "x":  2243.2,
+                           "z":  -608.8,
+                           "rot":  178,
+                           "group":  "Flowers",
+                           "scale":  1.09
+                       },
+                       {
+                           "model":  "A46_flowers_white",
+                           "x":  2336.3,
+                           "z":  -460.7,
+                           "rot":  239,
+                           "group":  "Flowers",
+                           "scale":  1.0
+                       },
+                       {
+                           "model":  "A46_flowers_white",
+                           "x":  2287.4,
+                           "z":  -474.2,
+                           "rot":  51,
+                           "group":  "Flowers",
+                           "scale":  1.19
+                       },
+                       {
+                           "model":  "A46_flowers_white",
+                           "x":  2253.2,
+                           "z":  -447.0,
+                           "rot":  263,
+                           "group":  "Flowers",
+                           "scale":  1.16
+                       },
+                       {
+                           "model":  "A46_flowers_white",
+                           "x":  2301.5,
+                           "z":  -465.9,
+                           "rot":  268,
+                           "group":  "Flowers",
+                           "scale":  1.18
+                       },
+                       {
+                           "model":  "A46_flowers_white",
+                           "x":  2280.2,
+                           "z":  -462.0,
+                           "rot":  60,
+                           "group":  "Flowers",
+                           "scale":  0.97
+                       },
+                       {
+                           "model":  "A49_tall_grass_1",
+                           "x":  2368.8,
+                           "z":  -298.8,
+                           "rot":  343,
+                           "group":  "Grass",
+                           "scale":  0.97
+                       },
+                       {
+                           "model":  "A49_tall_grass_1",
+                           "x":  2391.0,
+                           "z":  -210.5,
+                           "rot":  128,
+                           "group":  "Grass",
+                           "scale":  0.92
+                       },
+                       {
+                           "model":  "A49_tall_grass_1",
+                           "x":  2351.2,
+                           "z":  -406.1,
+                           "rot":  17,
+                           "group":  "Grass",
+                           "scale":  1.0
+                       },
+                       {
+                           "model":  "A49_tall_grass_1",
+                           "x":  2221.7,
+                           "z":  -286.8,
+                           "rot":  69,
+                           "group":  "Grass",
+                           "scale":  1.17
+                       },
+                       {
+                           "model":  "A49_tall_grass_1",
+                           "x":  2219.0,
+                           "z":  -207.3,
+                           "rot":  147,
+                           "group":  "Grass",
+                           "scale":  0.86
+                       },
+                       {
+                           "model":  "A49_tall_grass_1",
+                           "x":  2343.1,
+                           "z":  -405.3,
+                           "rot":  12,
+                           "group":  "Grass",
+                           "scale":  0.86
+                       },
+                       {
+                           "model":  "A49_tall_grass_1",
+                           "x":  2295.0,
+                           "z":  -187.7,
+                           "rot":  122,
+                           "group":  "Grass",
+                           "scale":  1.16
+                       },
+                       {
+                           "model":  "A49_tall_grass_1",
+                           "x":  2282.2,
+                           "z":  -174.0,
+                           "rot":  94,
+                           "group":  "Grass",
+                           "scale":  1.07
+                       },
+                       {
+                           "model":  "A49_tall_grass_1",
+                           "x":  2284.8,
+                           "z":  -371.5,
+                           "rot":  1,
+                           "group":  "Grass",
+                           "scale":  0.95
+                       },
+                       {
+                           "model":  "A49_tall_grass_1",
+                           "x":  2304.4,
+                           "z":  -424.4,
+                           "rot":  339,
+                           "group":  "Grass",
+                           "scale":  1.07
+                       },
+                       {
+                           "model":  "E25_snow_drift",
+                           "x":  2680,
+                           "z":  -636,
+                           "rot":  70,
+                           "group":  "SquareSnow"
+                       },
+                       {
+                           "model":  "E25_snow_drift",
+                           "x":  2700,
+                           "z":  -440,
+                           "rot":  0,
+                           "group":  "SquareSnow"
+                       },
+                       {
+                           "model":  "E26_icicle_cluster",
+                           "x":  2680,
+                           "z":  -582,
+                           "rot":  0,
+                           "group":  "Lodge",
+                           "y_offset":  20
+                       }
+                   ]
+}

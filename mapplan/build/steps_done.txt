@@ -1,0 +1,10 @@
+﻿
+town1:terrain
+town1_extra:terrain
+roads:terrain
+capital:terrain
+alpine:terrain
+rusty:terrain
+capital_t2:terrain
+elf:terrain
+harbour:terrain

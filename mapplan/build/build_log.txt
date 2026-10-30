@@ -1,0 +1,1003 @@
+﻿21:53:35 [town1/place] items 0-5: {"placed":0,"errs":[],"failed":0,"skipped":6}
+21:53:35 [town1/place] done; waiting for upload: 0
+22:00:11 [roads/terrain] op 22 water band 1/1 step 8: ok cells=2300
+RUNNER started 22:00:39 steps: roads:terrain,capital:terrain,alpine:terrain,rusty:terrain,capital:place,alpine:place,rusty:place,roads:place
+RUNNER stopped at roads:terrain,capital:terrain,alpine:terrain,rusty:terrain,capital:place,alpine:place,rusty:place,roads:place (exit 1) 22:00:39
+RUNNER started 22:01:51 steps: roads:terrain capital:terrain alpine:terrain rusty:terrain capital:place alpine:place rusty:place roads:place
+22:03:06 [roads/terrain] op 0 plateau band 1/6 step 24: ok cells=1694
+22:04:53 [roads/terrain] op 0 plateau band 2/6 step 24: ok cells=2718
+22:04:57 [roads/terrain] op 0 plateau band 3/6 step 24: ok cells=2380
+22:05:00 [roads/terrain] op 0 plateau band 4/6 step 24: ok cells=2372
+22:05:05 [roads/terrain] op 0 plateau band 5/6 step 24: ok cells=2888
+22:05:08 [roads/terrain] op 0 plateau band 6/6 step 24: ok cells=1590
+22:05:12 [roads/terrain] op 1 plateau band 1/5 step 28: ok cells=2156
+22:05:19 [roads/terrain] op 1 plateau band 2/5 step 28: ok cells=3450
+22:05:31 [roads/terrain] op 1 plateau band 3/5 step 28: ok cells=3369
+22:05:45 [roads/terrain] op 1 plateau band 4/5 step 28: ok cells=3196
+22:05:54 [roads/terrain] op 1 plateau band 5/5 step 28: ok cells=1716
+22:05:57 [roads/terrain] op 2 ramp band 1/5 step 8: ok cells=0
+22:05:59 [roads/terrain] op 2 ramp band 2/5 step 8: ok cells=2040
+22:06:03 [roads/terrain] op 2 ramp band 3/5 step 8: ok cells=3570
+22:06:05 [roads/terrain] op 2 ramp band 4/5 step 8: ok cells=1734
+22:06:08 [roads/terrain] op 2 ramp band 5/5 step 8: ok cells=0
+22:06:11 [roads/terrain] op 3 plateau band 1/5 step 20: ok cells=1275
+22:06:15 [roads/terrain] op 3 plateau band 2/5 step 20: ok cells=2733
+22:06:18 [roads/terrain] op 3 plateau band 3/5 step 20: ok cells=2928
+22:06:21 [roads/terrain] op 3 plateau band 4/5 step 20: ok cells=2875
+22:06:24 [roads/terrain] op 3 plateau band 5/5 step 20: ok cells=2019
+22:06:26 [roads/terrain] op 4 plateau band 1/6 step 12: ok cells=236
+22:06:29 [roads/terrain] op 4 plateau band 2/6 step 12: ok cells=2757
+22:06:32 [roads/terrain] op 4 plateau band 3/6 step 12: ok cells=3341
+22:06:35 [roads/terrain] op 4 plateau band 4/6 step 12: ok cells=3329
+22:06:38 [roads/terrain] op 4 plateau band 5/6 step 12: ok cells=2883
+22:06:41 [roads/terrain] op 4 plateau band 6/6 step 12: ok cells=1577
+22:06:44 [roads/terrain] op 5 hill band 1/2 step 8: ok cells=1881
+22:06:47 [roads/terrain] op 5 hill band 2/2 step 8: ok cells=1881
+22:06:50 [roads/terrain] op 6 hill band 1/2 step 8: ok cells=1615
+22:06:54 [roads/terrain] op 6 hill band 2/2 step 8: ok cells=1622
+22:06:56 [roads/terrain] op 7 plateau band 1/6 step 20: ok cells=2152
+22:07:01 [roads/terrain] op 7 plateau band 2/6 step 20: ok cells=3558
+22:07:05 [roads/terrain] op 7 plateau band 3/6 step 20: ok cells=3439
+22:07:09 [roads/terrain] op 7 plateau band 4/6 step 20: ok cells=3264
+22:07:13 [roads/terrain] op 7 plateau band 5/6 step 20: ok cells=3055
+22:07:16 [roads/terrain] op 7 plateau band 6/6 step 20: ok cells=1654
+22:07:18 [roads/terrain] op 8 paint band 1/6 step 12: ok cells=1903
+22:07:21 [roads/terrain] op 8 paint band 2/6 step 12: ok cells=3211
+22:07:24 [roads/terrain] op 8 paint band 3/6 step 12: ok cells=3676
+22:07:27 [roads/terrain] op 8 paint band 4/6 step 12: ok cells=3682
+22:07:30 [roads/terrain] op 8 paint band 5/6 step 12: ok cells=3230
+22:07:33 [roads/terrain] op 8 paint band 6/6 step 12: ok cells=1970
+22:07:37 [roads/terrain] op 9 plateau band 1/6 step 20: ok cells=2156
+22:07:42 [roads/terrain] op 9 plateau band 2/6 step 20: ok cells=3580
+22:07:48 [roads/terrain] op 9 plateau band 3/6 step 20: ok cells=4013
+22:07:55 [roads/terrain] op 9 plateau band 4/6 step 20: ok cells=4013
+22:08:02 [roads/terrain] op 9 plateau band 5/6 step 20: ok cells=3580
+22:08:07 [roads/terrain] op 9 plateau band 6/6 step 20: ok cells=2156
+22:08:09 [roads/terrain] op 10 paint band 1/6 step 12: ok cells=1938
+22:08:12 [roads/terrain] op 10 paint band 2/6 step 12: ok cells=3219
+22:08:15 [roads/terrain] op 10 paint band 3/6 step 12: ok cells=3679
+22:08:18 [roads/terrain] op 10 paint band 4/6 step 12: ok cells=3679
+22:08:21 [roads/terrain] op 10 paint band 5/6 step 12: ok cells=3219
+22:08:24 [roads/terrain] op 10 paint band 6/6 step 12: ok cells=1938
+22:08:28 [roads/terrain] op 11 plateau band 1/6 step 20: ok cells=2098
+22:08:32 [roads/terrain] op 11 plateau band 2/6 step 20: ok cells=3558
+22:08:37 [roads/terrain] op 11 plateau band 3/6 step 20: ok cells=3864
+22:08:42 [roads/terrain] op 11 plateau band 4/6 step 20: ok cells=3862
+22:08:45 [roads/terrain] op 11 plateau band 5/6 step 20: ok cells=3414
+22:08:48 [roads/terrain] op 11 plateau band 6/6 step 20: ok cells=1654
+22:08:51 [roads/terrain] op 12 ramp band 1/5 step 16: ok cells=0
+22:08:54 [roads/terrain] op 12 ramp band 2/5 step 16: ok cells=1177
+22:08:57 [roads/terrain] op 12 ramp band 3/5 step 16: ok cells=3424
+22:09:00 [roads/terrain] op 12 ramp band 4/5 step 16: ok cells=963
+22:09:02 [roads/terrain] op 12 ramp band 5/5 step 16: ok cells=0
+22:09:05 [roads/terrain] op 13 water band 1/1 step 32: ok cells=2800
+22:09:08 [roads/terrain] op 14 paint band 1/7 step 20: ok cells=1778
+22:09:11 [roads/terrain] op 14 paint band 2/7 step 20: ok cells=3004
+22:09:14 [roads/terrain] op 14 paint band 3/7 step 20: ok cells=3439
+22:09:17 [roads/terrain] op 14 paint band 4/7 step 20: ok cells=2932
+22:09:20 [roads/terrain] op 14 paint band 5/7 step 20: ok cells=2020
+22:09:23 [roads/terrain] op 14 paint band 6/7 step 20: ok cells=0
+22:09:26 [roads/terrain] op 14 paint band 7/7 step 20: ok cells=0
+22:09:28 [roads/terrain] op 15 water band 1/2 step 8: ok cells=2394
+22:09:31 [roads/terrain] op 15 water band 2/2 step 8: ok cells=2337
+22:09:35 [roads/terrain] op 16 water band 1/2 step 8: ok cells=2444
+22:09:38 [roads/terrain] op 16 water band 2/2 step 8: ok cells=2496
+22:09:41 [roads/terrain] op 17 water band 1/2 step 8: ok cells=2016
+22:09:44 [roads/terrain] op 17 water band 2/2 step 8: ok cells=1974
+22:09:47 [roads/terrain] op 18 water band 1/1 step 8: ok cells=3115
+22:09:50 [roads/terrain] op 19 water band 1/1 step 8: ok cells=2848
+22:09:53 [roads/terrain] op 20 water band 1/1 step 8: ok cells=1958
+22:09:56 [roads/terrain] op 21 water band 1/1 step 8: ok cells=1246
+22:09:59 [roads/terrain] op 22 water band 1/1 step 8: ok cells=2300
+22:10:02 [roads/terrain] op 23 paint band 1/2 step 8: ok cells=1669
+22:10:05 [roads/terrain] op 23 paint band 2/2 step 8: ok cells=1651
+22:10:08 [roads/terrain] op 24 hill band 1/2 step 8: ok cells=2746
+22:10:11 [roads/terrain] op 24 hill band 2/2 step 8: ok cells=2746
+22:10:14 [roads/terrain] op 25 hill band 1/2 step 8: ok cells=2735
+22:10:17 [roads/terrain] op 25 hill band 2/2 step 8: ok cells=2735
+22:10:20 [roads/terrain] op 26 hill band 1/2 step 8: ok cells=2735
+22:10:23 [roads/terrain] op 26 hill band 2/2 step 8: ok cells=2735
+22:10:27 [roads/terrain] op 27 hill band 1/2 step 8: ok cells=2776
+22:10:30 [roads/terrain] op 27 hill band 2/2 step 8: ok cells=2726
+22:10:33 [roads/terrain] op 28 hill band 1/2 step 8: ok cells=2768
+22:10:36 [roads/terrain] op 28 hill band 2/2 step 8: ok cells=2728
+22:10:39 [roads/terrain] op 29 hill band 1/2 step 8: ok cells=2712
+22:10:42 [roads/terrain] op 29 hill band 2/2 step 8: ok cells=2758
+22:10:45 [roads/terrain] op 30 hill band 1/2 step 8: ok cells=2703
+22:10:48 [roads/terrain] op 30 hill band 2/2 step 8: ok cells=2786
+22:10:51 [roads/terrain] op 31 hill band 1/2 step 8: ok cells=2776
+22:10:54 [roads/terrain] op 31 hill band 2/2 step 8: ok cells=2726
+22:10:57 [roads/terrain] op 32 hill band 1/2 step 8: ok cells=1095
+22:11:00 [roads/terrain] op 32 hill band 2/2 step 8: ok cells=1095
+22:11:03 [roads/terrain] op 33 hill band 1/2 step 8: ok cells=2746
+22:11:06 [roads/terrain] op 33 hill band 2/2 step 8: ok cells=2746
+22:11:09 [roads/terrain] op 34 hill band 1/2 step 8: ok cells=2735
+22:11:12 [roads/terrain] op 34 hill band 2/2 step 8: ok cells=2735
+22:11:15 [roads/terrain] op 35 hill band 1/2 step 8: ok cells=2735
+22:11:18 [roads/terrain] op 35 hill band 2/2 step 8: ok cells=2735
+22:11:22 [roads/terrain] op 36 hill band 1/2 step 8: ok cells=2735
+22:11:25 [roads/terrain] op 36 hill band 2/2 step 8: ok cells=2735
+22:11:36 [town1/place] items 0-24: {"placed":19,"errs":[],"failed":0,"skipped":6}
+22:11:37 [roads/terrain] op 37 paint band 1/2 step 8: ok cells=2962
+22:11:41 [town1/place] items 25-49: {"placed":24,"errs":[],"failed":0,"skipped":1}
+22:11:41 [roads/terrain] op 37 paint band 2/2 step 8: ok cells=3049
+22:11:51 [town1/place] items 50-74: {"placed":2,"errs":[],"failed":0,"skipped":23}
+22:11:51 [roads/terrain] op 38 ramp band 1/1 step 4: ok cells=320
+22:11:55 [town1/place] items 75-99: {"placed":25,"errs":[],"failed":0,"skipped":0}
+22:11:55 [roads/terrain] op 39 ramp band 1/1 step 4: ok cells=940
+22:11:59 [town1/place] items 100-124: {"placed":3,"errs":[],"failed":0,"skipped":22}
+22:11:59 [roads/terrain] op 40 ramp band 1/1 step 4: ok cells=940
+22:12:01 [town1/place] items 125-127: {"placed":3,"errs":[],"failed":0,"skipped":0}
+22:12:01 [town1/place] done; waiting for upload: 0; skipped in protected zones: 0
+22:12:02 [roads/terrain] op 41 ramp band 1/1 step 4: ok cells=620
+22:12:04 [roads/terrain] op 42 ramp band 1/1 step 4: ok cells=645
+22:12:07 [roads/terrain] op 43 ramp band 1/1 step 4: ok cells=1303
+22:12:10 [roads/terrain] op 44 ramp band 1/2 step 4: ok cells=623
+22:12:12 [roads/terrain] op 44 ramp band 2/2 step 4: ok cells=623
+22:12:15 [roads/terrain] op 45 ramp band 1/1 step 4: ok cells=884
+22:12:18 [roads/terrain] op 46 ramp band 1/1 step 4: ok cells=861
+22:12:21 [roads/terrain] op 47 ramp band 1/1 step 4: ok cells=940
+22:12:24 [roads/terrain] op 48 ramp band 1/2 step 4: ok cells=655
+22:12:27 [roads/terrain] op 48 ramp band 2/2 step 4: ok cells=690
+22:12:30 [roads/terrain] op 49 ramp band 1/2 step 4: ok cells=623
+22:12:33 [roads/terrain] op 49 ramp band 2/2 step 4: ok cells=623
+22:12:36 [roads/terrain] op 50 ramp band 1/1 step 4: ok cells=934
+22:12:39 [roads/terrain] op 51 ramp band 1/2 step 4: ok cells=223
+22:12:40 [town1/terrain] op 0 paint band 1/1 step 4: ok cells=1387
+22:12:42 [roads/terrain] op 51 ramp band 2/2 step 4: ok cells=617
+22:12:43 [town1/terrain] op 1 paint band 1/1 step 4: ok cells=2007
+22:12:46 [roads/terrain] op 52 ramp band 1/3 step 4: ok cells=553
+22:12:46 [town1/terrain] op 2 paint band 1/1 step 4: ok cells=924
+22:12:49 [roads/terrain] op 52 ramp band 2/3 step 4: ok cells=587
+22:12:49 [town1/terrain] op 3 paint band 1/1 step 4: ok cells=1083
+22:12:52 [roads/terrain] op 52 ramp band 3/3 step 4: ok cells=534
+22:12:52 [town1/terrain] op 4 paint band 1/1 step 4: ok cells=1667
+22:12:55 [roads/terrain] op 53 ramp band 1/2 step 4: ok cells=822
+22:12:58 [roads/terrain] op 53 ramp band 2/2 step 4: ok cells=814
+22:13:01 [roads/terrain] op 54 ramp band 1/2 step 4: ok cells=665
+22:13:04 [roads/terrain] op 54 ramp band 2/2 step 4: ok cells=658
+22:13:07 [roads/terrain] op 55 ramp band 1/2 step 4: ok cells=380
+22:13:10 [roads/terrain] op 55 ramp band 2/2 step 4: ok cells=552
+22:13:13 [roads/terrain] op 56 ramp band 1/4 step 4: ok cells=406
+22:13:16 [roads/terrain] op 56 ramp band 2/4 step 4: ok cells=453
+22:13:19 [roads/terrain] op 56 ramp band 3/4 step 4: ok cells=456
+22:13:22 [roads/terrain] op 56 ramp band 4/4 step 4: ok cells=397
+22:13:25 [roads/terrain] op 57 ramp band 1/4 step 4: ok cells=376
+22:13:27 [roads/terrain] op 57 ramp band 2/4 step 4: ok cells=431
+22:13:30 [roads/terrain] op 57 ramp band 3/4 step 4: ok cells=430
+22:13:32 [roads/terrain] op 57 ramp band 4/4 step 4: ok cells=385
+22:13:35 [roads/terrain] op 58 ramp band 1/2 step 4: ok cells=628
+22:13:37 [roads/terrain] op 58 ramp band 2/2 step 4: ok cells=605
+22:13:40 [roads/terrain] op 59 ramp band 1/5 step 4: ok cells=413
+22:13:42 [roads/terrain] op 59 ramp band 2/5 step 4: ok cells=618
+22:13:45 [roads/terrain] op 59 ramp band 3/5 step 4: ok cells=618
+22:13:49 [roads/terrain] op 59 ramp band 4/5 step 4: ok cells=618
+22:13:51 [roads/terrain] op 59 ramp band 5/5 step 4: ok cells=395
+22:13:54 [roads/terrain] op 60 ramp band 1/5 step 4: ok cells=365
+22:13:56 [roads/terrain] op 60 ramp band 2/5 step 4: ok cells=412
+22:13:59 [roads/terrain] op 60 ramp band 3/5 step 4: ok cells=413
+22:14:01 [roads/terrain] op 60 ramp band 4/5 step 4: ok cells=411
+22:14:04 [roads/terrain] op 60 ramp band 5/5 step 4: ok cells=306
+22:14:07 [roads/terrain] op 61 ramp band 1/2 step 4: ok cells=507
+22:14:10 [roads/terrain] op 61 ramp band 2/2 step 4: ok cells=507
+22:14:12 [roads/terrain] op 62 ramp band 1/2 step 4: ok cells=909
+22:14:15 [roads/terrain] op 62 ramp band 2/2 step 4: ok cells=843
+22:14:18 [roads/terrain] op 63 ramp band 1/2 step 4: ok cells=895
+22:14:21 [roads/terrain] op 63 ramp band 2/2 step 4: ok cells=893
+22:14:23 [town1_extra/terrain] op 0 ramp band 1/1 step 4: ok cells=406
+22:14:24 [roads/terrain] op 64 ramp band 1/2 step 4: ok cells=733
+22:14:27 [town1_extra/place] items 0-5: {"placed":1,"errs":[],"failed":0,"skipped":4}
+22:14:27 [town1_extra/place] done; waiting for upload: 1; skipped in protected zones: 0
+22:14:27 [roads/terrain] op 64 ramp band 2/2 step 4: ok cells=746
+22:14:30 [roads/terrain] op 65 ramp band 1/2 step 4: ok cells=662
+22:14:33 [roads/terrain] op 65 ramp band 2/2 step 4: ok cells=667
+22:14:35 [roads/terrain] op 66 ramp band 1/2 step 4: ok cells=665
+22:14:38 [roads/terrain] op 66 ramp band 2/2 step 4: ok cells=658
+22:14:41 [roads/terrain] op 67 ramp band 1/4 step 4: ok cells=418
+22:14:44 [roads/terrain] op 67 ramp band 2/4 step 4: ok cells=490
+22:14:47 [roads/terrain] op 67 ramp band 3/4 step 4: ok cells=490
+22:14:50 [roads/terrain] op 67 ramp band 4/4 step 4: ok cells=418
+22:14:53 [roads/terrain] op 68 ramp band 1/4 step 4: ok cells=480
+22:14:56 [roads/terrain] op 68 ramp band 2/4 step 4: ok cells=608
+22:14:58 [roads/terrain] op 68 ramp band 3/4 step 4: ok cells=609
+22:15:01 [roads/terrain] op 68 ramp band 4/4 step 4: ok cells=452
+22:15:03 [roads/terrain] op 69 ramp band 1/1 step 4: ok cells=1427
+22:15:06 [roads/terrain] op 70 ramp band 1/1 step 4: ok cells=1427
+22:15:10 [roads/terrain] op 71 ramp band 1/6 step 4: ok cells=338
+22:15:12 [roads/terrain] op 71 ramp band 2/6 step 4: ok cells=387
+22:15:15 [roads/terrain] op 71 ramp band 3/6 step 4: ok cells=387
+22:15:18 [roads/terrain] op 71 ramp band 4/6 step 4: ok cells=387
+22:15:21 [roads/terrain] op 71 ramp band 5/6 step 4: ok cells=387
+22:15:24 [roads/terrain] op 71 ramp band 6/6 step 4: ok cells=338
+22:15:27 [roads/terrain] op 72 ramp band 1/6 step 4: ok cells=401
+22:15:30 [roads/terrain] op 72 ramp band 2/6 step 4: ok cells=432
+22:15:32 [roads/terrain] op 72 ramp band 3/6 step 4: ok cells=432
+22:15:35 [roads/terrain] op 72 ramp band 4/6 step 4: ok cells=432
+22:15:37 [roads/terrain] op 72 ramp band 5/6 step 4: ok cells=432
+22:15:40 [roads/terrain] op 72 ramp band 6/6 step 4: ok cells=353
+22:15:43 [roads/terrain] op 73 ramp band 1/5 step 4: ok cells=475
+22:15:46 [roads/terrain] op 73 ramp band 2/5 step 4: ok cells=505
+22:15:48 [roads/terrain] op 73 ramp band 3/5 step 4: ok cells=505
+22:15:51 [roads/terrain] op 73 ramp band 4/5 step 4: ok cells=506
+22:15:54 [roads/terrain] op 73 ramp band 5/5 step 4: ok cells=439
+22:15:56 [roads/terrain] op 74 ramp band 1/3 step 4: ok cells=668
+22:15:59 [roads/terrain] op 74 ramp band 2/3 step 4: ok cells=699
+22:16:02 [fixpass] town1: kept=128 duplicatesRemoved=498 resnapped=42
+22:16:02 [roads/terrain] op 74 ramp band 3/3 step 4: ok cells=679
+22:16:05 [fixpass] town1_extra: kept=5 duplicatesRemoved=1 resnapped=1
+22:16:06 [roads/terrain] op 75 ramp band 1/3 step 4: ok cells=507
+22:16:09 [roads/terrain] op 75 ramp band 2/3 step 4: ok cells=552
+22:16:12 [roads/terrain] op 75 ramp band 3/3 step 4: ok cells=499
+22:16:14 [roads/terrain] op 76 ramp band 1/5 step 4: ok cells=367
+22:16:17 [roads/terrain] op 76 ramp band 2/5 step 4: ok cells=420
+22:16:19 [roads/terrain] op 76 ramp band 3/5 step 4: ok cells=420
+22:16:22 [roads/terrain] op 76 ramp band 4/5 step 4: ok cells=420
+22:16:24 [roads/terrain] op 76 ramp band 5/5 step 4: ok cells=322
+22:16:27 [roads/terrain] op 77 ramp band 1/1 step 4: ok cells=1711
+22:16:29 [roads/terrain] op 78 ramp band 1/1 step 4: ok cells=1711
+22:16:33 [capital/terrain] op 0 plateau band 1/7 step 12: ok cells=1730
+22:16:36 [capital/terrain] op 0 plateau band 2/7 step 12: ok cells=2886
+22:16:39 [capital/terrain] op 0 plateau band 3/7 step 12: ok cells=3374
+22:16:42 [capital/terrain] op 0 plateau band 4/7 step 12: ok cells=3518
+22:16:45 [capital/terrain] op 0 plateau band 5/7 step 12: ok cells=3346
+22:16:48 [capital/terrain] op 0 plateau band 6/7 step 12: ok cells=2824
+22:16:51 [capital/terrain] op 0 plateau band 7/7 step 12: ok cells=1516
+22:16:54 [capital/terrain] op 1 hill band 1/2 step 8: ok cells=2282
+22:16:57 [capital/terrain] op 1 hill band 2/2 step 8: ok cells=2282
+22:17:00 [capital/terrain] op 2 hill band 1/1 step 8: ok cells=1436
+22:17:03 [capital/terrain] op 3 flatten band 1/1 step 8: ok cells=1848
+22:17:06 [capital/terrain] op 4 flatten band 1/1 step 8: ok cells=2640
+22:17:09 [capital/terrain] op 5 flatten band 1/1 step 8: ok cells=2128
+22:17:12 [capital/terrain] op 6 flatten band 1/1 step 8: ok cells=1170
+22:17:15 [capital/terrain] op 7 flatten band 1/1 step 8: ok cells=3648
+22:17:18 [capital/terrain] op 8 flatten band 1/1 step 8: ok cells=3572
+22:17:21 [capital/terrain] op 9 ramp band 1/1 step 4: ok cells=1206
+22:17:24 [capital/terrain] op 10 ramp band 1/1 step 4: ok cells=1206
+22:17:26 [capital/terrain] op 11 ramp band 1/1 step 4: ok cells=1026
+22:17:29 [capital/terrain] op 12 ramp band 1/1 step 4: ok cells=432
+22:17:32 [capital/terrain] op 13 ramp band 1/1 step 4: ok cells=1264
+22:17:34 [capital/terrain] op 14 water band 1/1 step 8: ok cells=270
+22:17:37 [capital/terrain] op 15 water band 1/1 step 8: ok cells=186
+22:17:39 [capital/terrain] op 16 paint band 1/1 step 4: ok cells=14
+22:17:42 [capital/terrain] op 17 paint band 1/1 step 4: ok cells=14
+22:17:44 [capital/terrain] op 18 paint band 1/2 step 4: ok cells=2202
+22:17:47 [capital/terrain] op 18 paint band 2/2 step 4: ok cells=2202
+22:17:51 [alpine/terrain] op 0 plateau band 1/4 step 8: ok cells=2005
+22:17:54 [alpine/terrain] op 0 plateau band 2/4 step 8: ok cells=3135
+22:17:57 [alpine/terrain] op 0 plateau band 3/4 step 8: ok cells=3085
+22:18:00 [alpine/terrain] op 0 plateau band 4/4 step 8: ok cells=1716
+22:18:03 [alpine/terrain] op 1 hill band 1/1 step 8: ok cells=0
+22:18:05 [alpine/terrain] op 2 hill band 1/1 step 8: ok cells=0
+22:18:08 [alpine/terrain] op 3 hill band 1/1 step 8: ok cells=1216
+22:18:11 [alpine/terrain] op 4 hill band 1/1 step 8: ok cells=1102
+22:18:14 [alpine/terrain] op 5 hill band 1/1 step 8: ok cells=784
+22:18:16 [alpine/terrain] op 6 hill band 1/1 step 8: ok cells=301
+22:18:19 [alpine/terrain] op 7 hill band 1/1 step 8: ok cells=212
+22:18:21 [alpine/terrain] op 8 hill band 1/1 step 8: ok cells=177
+22:18:24 [alpine/terrain] op 9 water band 1/1 step 8: ok cells=300
+22:18:27 [alpine/terrain] op 10 water band 1/1 step 8: ok cells=64
+22:18:30 [alpine/terrain] op 11 paint band 1/1 step 4: ok cells=316
+22:18:32 [alpine/terrain] op 12 ramp band 1/1 step 4: ok cells=780
+22:18:35 [alpine/terrain] op 13 ramp band 1/1 step 4: ok cells=564
+22:18:37 [alpine/terrain] op 14 ramp band 1/1 step 4: ok cells=444
+22:18:40 [alpine/terrain] op 15 flatten band 1/1 step 8: ok cells=165
+22:18:42 [alpine/terrain] op 16 flatten band 1/1 step 8: ok cells=72
+22:18:45 [alpine/terrain] op 17 flatten band 1/1 step 8: ok cells=80
+22:18:47 [alpine/terrain] op 18 flatten band 1/1 step 8: ok cells=72
+22:18:50 [alpine/terrain] op 19 flatten band 1/1 step 8: ok cells=80
+22:18:53 [alpine/terrain] op 20 flatten band 1/1 step 8: ok cells=80
+22:18:55 [alpine/terrain] op 21 flatten band 1/1 step 8: ok cells=168
+22:18:58 [alpine/terrain] op 22 flatten band 1/1 step 8: ok cells=80
+22:19:00 [alpine/terrain] op 23 ramp band 1/1 step 4: ok cells=306
+22:19:03 [alpine/terrain] op 24 paint band 1/2 step 4: ok cells=1602
+22:19:06 [alpine/terrain] op 24 paint band 2/2 step 4: ok cells=1983
+22:19:08 [alpine/terrain] op 25 paint band 1/1 step 4: ok cells=369
+22:19:11 [alpine/terrain] op 26 paint band 1/2 step 4: ok cells=1330
+22:19:13 [alpine/terrain] op 26 paint band 2/2 step 4: ok cells=1650
+22:19:16 [alpine/terrain] op 27 paint band 1/1 step 4: ok cells=2348
+22:19:19 [rusty/terrain] op 0 plateau band 1/3 step 8: ok cells=1816
+22:19:22 [rusty/terrain] op 0 plateau band 2/3 step 8: ok cells=2644
+22:19:25 [rusty/terrain] op 0 plateau band 3/3 step 8: ok cells=1900
+22:19:29 [rusty/terrain] op 1 paint band 1/2 step 4: ok cells=2508
+22:19:32 [rusty/terrain] op 1 paint band 2/2 step 4: ok cells=2508
+22:19:35 [rusty/terrain] op 2 paint band 1/2 step 4: ok cells=2202
+22:19:38 [rusty/terrain] op 2 paint band 2/2 step 4: ok cells=2202
+22:19:41 [rusty/terrain] op 3 paint band 1/1 step 4: ok cells=2828
+22:19:44 [rusty/terrain] op 4 paint band 1/1 step 4: ok cells=952
+22:19:46 [rusty/terrain] op 5 paint band 1/1 step 4: ok cells=1576
+22:19:49 [rusty/terrain] op 6 ramp band 1/1 step 4: ok cells=1077
+22:19:52 [rusty/terrain] op 7 ramp band 1/1 step 4: ok cells=1169
+22:19:54 [rusty/terrain] op 8 hill band 1/1 step 8: ok cells=341
+22:19:57 [rusty/terrain] op 9 paint band 1/1 step 4: ok cells=1772
+22:20:00 [rusty/terrain] op 10 flatten band 1/1 step 8: ok cells=224
+22:20:01 [capital_t2/terrain] op 0 plateau band 1/7 step 12: ok cells=1700
+22:20:02 [rusty/terrain] op 11 paint band 1/1 step 4: ok cells=958
+22:20:04 [capital_t2/terrain] op 0 plateau band 2/7 step 12: ok cells=2982
+22:20:05 [rusty/terrain] op 12 flatten band 1/1 step 8: ok cells=18
+22:20:07 [capital_t2/terrain] op 0 plateau band 3/7 step 12: ok cells=3508
+22:20:11 [capital/place] items 0-29: {"placed":23,"errs":[],"failed":0,"skipped":7}
+22:20:11 [capital_t2/terrain] op 0 plateau band 4/7 step 12: ok cells=3670
+22:20:16 [capital/place] items 30-59: {"placed":19,"errs":[],"failed":0,"skipped":11}
+22:20:17 [capital_t2/terrain] op 0 plateau band 5/7 step 12: ok cells=3512
+22:20:21 [capital/place] items 60-89: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:20:21 [capital_t2/terrain] op 0 plateau band 6/7 step 12: ok cells=2992
+22:20:24 [capital/place] items 90-119: {"placed":2,"errs":[],"failed":0,"skipped":28}
+22:20:25 [capital_t2/terrain] op 0 plateau band 7/7 step 12: ok cells=1738
+22:20:32 [capital/place] items 120-149: {"placed":1,"errs":[],"failed":0,"skipped":29}
+22:20:32 [capital_t2/terrain] op 1 hill band 1/5 step 16: ok cells=1538
+22:20:40 [capital/place] items 150-179: {"placed":1,"errs":[],"failed":0,"skipped":28}
+22:20:41 [capital_t2/terrain] op 1 hill band 2/5 step 16: ok cells=3044
+22:20:45 [capital/place] items 180-209: {"placed":22,"errs":[],"failed":0,"skipped":8}
+22:20:46 [capital_t2/terrain] op 1 hill band 3/5 step 16: ok cells=3378
+22:20:48 [capital/place] items 210-239: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:20:50 [capital_t2/terrain] op 1 hill band 4/5 step 16: ok cells=3026
+22:20:56 [capital/place] items 240-269: {"placed":2,"errs":[],"failed":0,"skipped":28}
+22:20:57 [capital_t2/terrain] op 1 hill band 5/5 step 16: ok cells=1472
+22:21:04 [capital/place] items 270-299: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:21:05 [capital_t2/terrain] op 2 hill band 1/2 step 8: ok cells=2282
+22:21:09 [capital/place] items 300-329: {"placed":1,"errs":[],"failed":0,"skipped":29}
+22:21:10 [capital_t2/terrain] op 2 hill band 2/2 step 8: ok cells=2282
+22:21:18 [capital/place] items 330-359: {"placed":1,"errs":[],"failed":0,"skipped":29}
+22:21:19 [capital_t2/terrain] op 3 hill band 1/1 step 8: ok cells=1436
+22:21:26 [capital/place] items 360-389: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:21:27 [capital_t2/terrain] op 4 flatten band 1/1 step 8: ok cells=1848
+22:21:35 [capital/place] items 390-419: {"placed":1,"errs":[],"failed":0,"skipped":29}
+22:21:35 [capital_t2/terrain] op 5 flatten band 1/1 step 8: ok cells=2640
+22:21:42 [capital/place] items 420-449: {"placed":4,"errs":[],"failed":0,"skipped":26}
+22:21:43 [capital_t2/terrain] op 6 flatten band 1/1 step 8: ok cells=2128
+22:21:46 [capital/place] items 450-479: {"placed":11,"errs":[],"failed":0,"skipped":19}
+22:21:46 [capital_t2/terrain] op 7 flatten band 1/1 step 8: ok cells=1170
+22:21:48 [capital/place] items 480-489: {"placed":10,"errs":[],"failed":0,"skipped":0}
+22:21:48 [capital/place] done; waiting for upload: 1; skipped in protected zones: 0
+22:21:49 [capital_t2/terrain] op 8 flatten band 1/1 step 8: ok cells=3648
+22:21:55 [alpine/place] items 0-29: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:21:56 [capital_t2/terrain] op 9 flatten band 1/1 step 8: ok cells=3572
+22:22:02 [alpine/place] items 30-59: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:22:03 [capital_t2/terrain] op 10 ramp band 1/1 step 4: ok cells=1206
+22:22:09 [alpine/place] items 60-89: {"placed":2,"errs":[],"failed":0,"skipped":28}
+22:22:10 [capital_t2/terrain] op 11 ramp band 1/1 step 4: ok cells=1206
+22:22:14 [alpine/place] items 90-119: {"placed":1,"errs":[],"failed":0,"skipped":29}
+22:22:15 [capital_t2/terrain] op 12 ramp band 1/1 step 4: ok cells=1026
+22:22:19 [alpine/place] items 120-149: {"placed":21,"errs":[],"failed":0,"skipped":9}
+22:22:19 [capital_t2/terrain] op 13 ramp band 1/1 step 4: ok cells=432
+22:22:21 [alpine/place] items 150-179: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:22:22 [capital_t2/terrain] op 14 ramp band 1/1 step 4: ok cells=1264
+22:22:29 [alpine/place] items 180-209: {"placed":2,"errs":[],"failed":0,"skipped":28}
+22:22:29 [capital_t2/terrain] op 15 water band 1/1 step 8: ok cells=270
+22:22:35 [alpine/place] items 210-239: {"placed":24,"errs":[],"failed":0,"skipped":6}
+22:22:36 [capital_t2/terrain] op 16 water band 1/1 step 8: ok cells=186
+22:22:38 [alpine/place] items 240-268: {"placed":29,"errs":[],"failed":0,"skipped":0}
+22:22:38 [alpine/place] done; waiting for upload: 0; skipped in protected zones: 0
+22:22:38 [capital_t2/terrain] op 17 paint band 1/1 step 4: ok cells=32
+22:22:44 [rusty/place] items 0-29: {"placed":6,"errs":[],"failed":0,"skipped":24}
+22:22:44 [capital_t2/terrain] op 18 paint band 1/1 step 4: ok cells=32
+22:22:51 [rusty/place] items 30-59: {"placed":4,"errs":[],"failed":0,"skipped":26}
+22:22:51 [capital_t2/terrain] op 19 paint band 1/2 step 4: ok cells=2202
+22:22:59 [rusty/place] items 60-89: {"placed":3,"errs":[],"failed":0,"skipped":27}
+22:23:00 [capital_t2/terrain] op 19 paint band 2/2 step 4: ok cells=2202
+22:23:06 [rusty/place] items 90-119: {"placed":1,"errs":[],"failed":0,"skipped":29}
+22:23:19 [rusty/place] items 120-149: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:23:28 [rusty/place] items 150-179: {"placed":6,"errs":[],"failed":0,"skipped":24}
+22:23:31 [rusty/place] items 180-186: {"placed":7,"errs":[],"failed":0,"skipped":0}
+22:23:31 [rusty/place] done; waiting for upload: 0; skipped in protected zones: 0
+22:23:35 [roads/place] items 0-29: {"placed":0,"errs":[],"failed":0,"skipped":28}
+22:23:36 [fixpass] capital: kept=489 duplicatesRemoved=0 resnapped=393
+22:23:39 [roads/place] items 30-59: {"placed":28,"errs":[],"failed":0,"skipped":2}
+22:23:40 [fixpass] alpine: kept=269 duplicatesRemoved=0 resnapped=28
+22:23:44 [roads/place] items 60-89: {"placed":7,"errs":[],"failed":0,"skipped":22}
+22:23:47 [roads/place] items 90-119: {"placed":0,"errs":[],"failed":0,"skipped":4}
+22:23:51 [roads/place] items 120-149: {"placed":16,"errs":[],"failed":0,"skipped":0}
+22:23:54 [roads/place] items 150-179: {"placed":13,"errs":[],"failed":0,"skipped":0}
+22:23:57 [roads/place] items 180-209: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:23:57 [fixpass] capital: kept=489 duplicatesRemoved=0 resnapped=27
+22:24:00 [roads/place] items 210-239: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:24:03 [roads/place] items 240-269: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:24:06 [roads/place] items 270-299: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:24:09 [roads/place] items 300-329: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:24:12 [roads/place] items 330-359: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:24:15 [roads/place] items 360-389: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:24:18 [roads/place] items 390-419: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:24:21 [roads/place] items 420-449: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:24:24 [roads/place] items 450-479: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:24:27 [roads/place] items 480-509: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:24:29 [roads/place] items 510-539: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:24:32 [roads/place] items 540-569: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:24:35 [roads/place] items 570-599: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:24:37 [roads/place] items 600-629: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:24:40 [roads/place] items 630-659: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:24:43 [roads/place] items 660-689: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:24:46 [roads/place] items 690-719: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:24:49 [roads/place] items 720-749: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:24:51 [roads/place] items 750-779: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:24:54 [roads/place] items 780-809: {"placed":24,"errs":[],"failed":0,"skipped":0}
+22:24:57 [roads/place] items 810-839: {"placed":23,"errs":[],"failed":0,"skipped":0}
+22:25:00 [roads/place] items 840-869: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:25:03 [roads/place] items 870-899: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:25:11 [roads/place] items 900-929: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:25:24 [roads/place] items 930-959: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:25:37 [roads/place] items 960-989: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:25:38 [capital/place] items 0-39: {"placed":34,"errs":[],"failed":0,"skipped":6}
+22:25:50 [roads/place] items 990-1019: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:25:51 [capital/place] items 40-79: {"placed":33,"errs":[],"failed":0,"skipped":7}
+22:26:02 [roads/place] items 1020-1049: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:26:03 [capital/place] items 80-119: {"placed":0,"errs":[],"failed":0,"skipped":40}
+22:26:14 [roads/place] items 1050-1079: {"placed":0,"errs":[],"failed":0,"skipped":28}
+22:26:15 [capital/place] items 120-159: {"placed":0,"errs":[],"failed":0,"skipped":39}
+22:26:19 [roads/place] items 1080-1109: {"placed":2,"errs":[],"failed":0,"skipped":21}
+22:26:19 [capital/place] items 160-199: {"placed":16,"errs":[],"failed":0,"skipped":24}
+22:26:25 [roads/place] items 1110-1139: {"placed":1,"errs":[],"failed":0,"skipped":27}
+22:26:25 [capital/place] items 200-239: {"placed":40,"errs":[],"failed":0,"skipped":0}
+22:26:30 [roads/place] items 1140-1169: {"placed":2,"errs":[],"failed":0,"skipped":25}
+22:26:31 [capital/place] items 240-279: {"placed":0,"errs":[],"failed":0,"skipped":40}
+22:26:38 [roads/place] items 1170-1199: {"placed":0,"errs":[],"failed":0,"skipped":29}
+22:26:39 [capital/place] items 280-319: {"placed":12,"errs":[],"failed":0,"skipped":28}
+22:26:46 [roads/place] items 1200-1229: {"placed":0,"errs":[],"failed":0,"skipped":28}
+22:26:47 [capital/place] items 320-359: {"placed":27,"errs":[],"failed":0,"skipped":13}
+22:26:51 [roads/place] items 1230-1259: {"placed":6,"errs":[],"failed":0,"skipped":15}
+22:26:52 [capital/place] items 360-399: {"placed":0,"errs":[],"failed":0,"skipped":40}
+22:26:54 [roads/place] items 1260-1289: {"placed":27,"errs":[],"failed":0,"skipped":2}
+22:26:55 [capital/place] items 400-439: {"placed":0,"errs":[],"failed":0,"skipped":40}
+22:26:57 [roads/place] items 1290-1319: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:26:58 [capital/place] items 440-479: {"placed":0,"errs":[],"failed":0,"skipped":40}
+22:27:01 [roads/place] items 1320-1333: {"placed":14,"errs":[],"failed":0,"skipped":0}
+22:27:01 [roads/place] done; waiting for upload: 54; skipped in protected zones: 46
+RUNNER finished 22:27:01
+22:27:01 [capital/place] items 480-489: {"placed":0,"errs":[],"failed":0,"skipped":10}
+22:27:01 [capital/place] done; waiting for upload: 1; skipped in protected zones: 0
+22:27:04 [alpine/place] items 0-39: {"placed":0,"errs":[],"failed":0,"skipped":40}
+22:27:07 [alpine/place] items 40-79: {"placed":0,"errs":[],"failed":0,"skipped":40}
+22:27:10 [alpine/place] items 80-119: {"placed":11,"errs":[],"failed":0,"skipped":29}
+22:27:13 [alpine/place] items 120-159: {"placed":0,"errs":[],"failed":0,"skipped":40}
+22:27:15 [alpine/place] items 160-199: {"placed":0,"errs":[],"failed":0,"skipped":40}
+22:27:18 [alpine/place] items 200-239: {"placed":0,"errs":[],"failed":0,"skipped":40}
+22:27:21 [alpine/place] items 240-268: {"placed":0,"errs":[],"failed":0,"skipped":29}
+22:27:21 [alpine/place] done; waiting for upload: 0; skipped in protected zones: 0
+22:27:24 [rusty/place] items 0-39: {"placed":0,"errs":[],"failed":0,"skipped":40}
+22:27:27 [rusty/place] items 40-79: {"placed":9,"errs":[],"failed":0,"skipped":31}
+22:27:30 [rusty/place] items 80-119: {"placed":1,"errs":[],"failed":0,"skipped":39}
+22:27:33 [rusty/place] items 120-159: {"placed":0,"errs":[],"failed":0,"skipped":40}
+22:27:36 [rusty/place] items 160-186: {"placed":0,"errs":[],"failed":0,"skipped":27}
+22:27:36 [rusty/place] done; waiting for upload: 0; skipped in protected zones: 0
+22:28:15 [capital/place] items 0-39: {"placed":1,"errs":[],"failed":0,"skipped":39}
+22:28:18 [capital/place] items 40-79: {"placed":34,"errs":[],"failed":0,"skipped":6}
+22:28:21 [capital/place] items 80-119: {"placed":0,"errs":[],"failed":0,"skipped":40}
+22:28:23 [capital/place] items 120-159: {"placed":0,"errs":[],"failed":0,"skipped":39}
+22:28:26 [capital/place] items 160-199: {"placed":0,"errs":[],"failed":0,"skipped":40}
+22:28:28 [capital/place] items 200-239: {"placed":0,"errs":[],"failed":0,"skipped":40}
+22:28:31 [capital/place] items 240-279: {"placed":0,"errs":[],"failed":0,"skipped":40}
+22:28:34 [capital/place] items 280-319: {"placed":0,"errs":[],"failed":0,"skipped":40}
+22:28:37 [capital/place] items 320-359: {"placed":0,"errs":[],"failed":0,"skipped":40}
+22:28:40 [capital/place] items 360-399: {"placed":0,"errs":[],"failed":0,"skipped":40}
+22:28:42 [capital/place] items 400-439: {"placed":0,"errs":[],"failed":0,"skipped":40}
+22:28:45 [capital/place] items 440-479: {"placed":0,"errs":[],"failed":0,"skipped":40}
+22:28:48 [capital/place] items 480-489: {"placed":0,"errs":[],"failed":0,"skipped":10}
+22:28:48 [capital/place] done; waiting for upload: 1; skipped in protected zones: 0
+22:29:42 [fixpass] capital: kept=489 duplicatesRemoved=0 resnapped=71
+22:29:45 [fixpass] alpine: kept=269 duplicatesRemoved=0 resnapped=20
+22:29:49 [fixpass] rusty: kept=187 duplicatesRemoved=0 resnapped=44
+22:29:52 [fixpass] town1: kept=128 duplicatesRemoved=0 resnapped=3
+22:30:07 [fixpass] capital: kept=489 duplicatesRemoved=0 resnapped=37
+22:30:11 [fixpass] alpine: kept=269 duplicatesRemoved=0 resnapped=9
+22:30:14 [fixpass] rusty: kept=187 duplicatesRemoved=0 resnapped=26
+22:30:18 [fixpass] town1: kept=128 duplicatesRemoved=0 resnapped=1
+RUNNER started 22:30:38 steps: elf:terrain harbour:terrain elf:place harbour:place roads:place capital:place town1_extra:place
+22:30:41 [elf/terrain] op 0 plateau band 1/5 step 8: ok cells=1886
+22:30:44 [elf/terrain] op 0 plateau band 2/5 step 8: ok cells=3066
+22:30:47 [elf/terrain] op 0 plateau band 3/5 step 8: ok cells=3360
+22:30:50 [elf/terrain] op 0 plateau band 4/5 step 8: ok cells=3066
+22:30:53 [elf/terrain] op 0 plateau band 5/5 step 8: ok cells=1886
+22:30:56 [elf/terrain] op 1 paint band 1/3 step 8: ok cells=2640
+22:30:59 [elf/terrain] op 1 paint band 2/3 step 8: ok cells=3800
+22:31:02 [elf/terrain] op 1 paint band 3/3 step 8: ok cells=2640
+22:31:05 [elf/terrain] op 2 hill band 1/1 step 8: ok cells=880
+22:31:08 [elf/terrain] op 3 hill band 1/1 step 8: ok cells=880
+22:31:11 [elf/terrain] op 4 hill band 1/1 step 8: ok cells=457
+22:31:14 [elf/terrain] op 5 hill band 1/1 step 8: ok cells=528
+22:31:16 [elf/terrain] op 6 hill band 1/1 step 8: ok cells=528
+22:31:19 [elf/terrain] op 7 flatten band 1/1 step 8: ok cells=24
+22:31:22 [elf/terrain] op 8 ramp band 1/1 step 4: ok cells=169
+22:31:25 [elf/terrain] op 9 flatten band 1/1 step 8: ok cells=120
+22:31:27 [elf/terrain] op 10 water band 1/1 step 8: ok cells=100
+22:31:30 [elf/terrain] op 11 water band 1/1 step 8: ok cells=96
+22:31:32 [elf/terrain] op 12 paint band 1/1 step 4: ok cells=958
+22:31:35 [elf/terrain] op 13 paint band 1/1 step 4: ok cells=1976
+22:31:38 [harbour/terrain] op 0 plateau band 1/3 step 8: ok cells=2332
+22:31:41 [harbour/terrain] op 0 plateau band 2/3 step 8: ok cells=3344
+22:31:44 [harbour/terrain] op 0 plateau band 3/3 step 8: ok cells=2220
+22:31:47 [harbour/terrain] op 1 ramp band 1/2 step 8: ok cells=1768
+22:31:50 [harbour/terrain] op 1 ramp band 2/2 step 8: ok cells=1768
+22:31:53 [harbour/terrain] op 2 flatten band 1/1 step 8: ok cells=820
+22:31:56 [harbour/terrain] op 3 water band 1/1 step 8: ok cells=2208
+22:31:59 [harbour/terrain] op 4 ramp band 1/1 step 8: ok cells=806
+22:32:02 [harbour/terrain] op 5 paint band 1/1 step 4: ok cells=2054
+22:32:05 [harbour/terrain] op 6 hill band 1/1 step 8: ok cells=874
+22:32:08 [harbour/terrain] op 7 paint band 1/2 step 4: ok cells=1987
+22:32:10 [harbour/terrain] op 7 paint band 2/2 step 4: ok cells=2202
+22:32:13 [harbour/terrain] op 8 hill band 1/1 step 8: ok cells=162
+22:32:16 [harbour/terrain] op 9 flatten band 1/1 step 8: ok cells=252
+22:32:19 [harbour/terrain] op 10 paint band 1/5 step 4: ok cells=1886
+22:32:22 [harbour/terrain] op 10 paint band 2/5 step 4: ok cells=3066
+22:32:25 [harbour/terrain] op 10 paint band 3/5 step 4: ok cells=3360
+22:32:28 [harbour/terrain] op 10 paint band 4/5 step 4: ok cells=3066
+22:32:31 [harbour/terrain] op 10 paint band 5/5 step 4: ok cells=1408
+22:32:38 [elf/place] items 0-29: {"placed":4,"errs":[],"failed":0,"skipped":26}
+22:32:43 [elf/place] items 30-59: {"placed":7,"errs":[],"failed":0,"skipped":23}
+22:32:49 [elf/place] items 60-89: {"placed":1,"errs":[],"failed":0,"skipped":29}
+22:32:54 [elf/place] items 90-119: {"placed":13,"errs":[],"failed":0,"skipped":17}
+22:32:57 [elf/place] items 120-149: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:33:00 [elf/place] items 150-179: {"placed":27,"errs":[],"failed":0,"skipped":3}
+22:33:03 [elf/place] items 180-209: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:33:05 [elf/place] items 210-239: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:33:08 [elf/place] items 240-269: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:33:10 [elf/place] items 270-299: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:33:13 [elf/place] items 300-329: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:33:16 [elf/place] items 330-359: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:33:18 [elf/place] items 360-389: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:33:21 [elf/place] items 390-419: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:33:23 [elf/place] items 420-449: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:33:27 [elf/place] items 450-479: {"placed":11,"errs":[],"failed":0,"skipped":19}
+22:33:30 [elf/place] items 480-500: {"placed":21,"errs":[],"failed":0,"skipped":0}
+22:33:30 [elf/place] done; waiting for upload: 0; skipped in protected zones: 0
+22:33:37 [harbour/place] items 0-29: {"placed":15,"errs":[],"failed":0,"skipped":15}
+22:33:43 [harbour/place] items 30-59: {"placed":2,"errs":[],"failed":0,"skipped":28}
+22:33:52 [harbour/place] items 60-89: {"placed":3,"errs":[],"failed":0,"skipped":27}
+22:33:56 [harbour/place] items 90-119: {"placed":27,"errs":[],"failed":0,"skipped":3}
+22:33:58 [harbour/place] items 120-149: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:33:59 [capital_interior/place] items 0-20: {"placed":21,"errs":[],"failed":0,"skipped":0}
+22:33:59 [capital_interior/place] done; waiting for upload: 0; skipped in protected zones: 0
+22:34:03 [harbour/place] items 150-179: {"placed":19,"errs":[],"failed":0,"skipped":11}
+22:34:03 [fixpass] capital_interior: kept=21 duplicatesRemoved=0 resnapped=18
+22:34:08 [harbour/place] items 180-209: {"placed":6,"errs":[],"failed":0,"skipped":24}
+22:34:11 [harbour/place] items 210-239: {"placed":22,"errs":[],"failed":0,"skipped":8}
+22:34:15 [harbour/place] items 240-269: {"placed":25,"errs":[],"failed":0,"skipped":5}
+22:34:18 [harbour/place] items 270-299: {"placed":30,"errs":[],"failed":0,"skipped":0}
+22:34:21 [harbour/place] items 300-300: {"placed":1,"errs":[],"failed":0,"skipped":0}
+22:34:21 [harbour/place] done; waiting for upload: 0; skipped in protected zones: 0
+22:34:24 [roads/place] items 0-29: {"placed":0,"errs":[],"failed":0,"skipped":28}
+22:34:27 [roads/place] items 30-59: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:34:29 [roads/place] items 60-89: {"placed":0,"errs":[],"failed":0,"skipped":29}
+22:34:37 [roads/place] items 90-119: {"placed":1,"errs":[],"failed":0,"skipped":28}
+22:34:42 [roads/place] items 120-149: {"placed":2,"errs":[],"failed":0,"skipped":28}
+22:34:45 [roads/place] items 150-179: {"placed":15,"errs":[],"failed":0,"skipped":13}
+22:34:48 [roads/place] items 180-209: {"placed":2,"errs":[],"failed":0,"skipped":28}
+22:34:50 [roads/place] items 210-239: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:34:53 [roads/place] items 240-269: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:34:56 [roads/place] items 270-299: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:34:59 [roads/place] items 300-329: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:35:02 [roads/place] items 330-359: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:35:05 [roads/place] items 360-389: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:35:08 [roads/place] items 390-419: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:35:10 [roads/place] items 420-449: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:35:13 [roads/place] items 450-479: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:35:16 [roads/place] items 480-509: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:35:18 [roads/place] items 510-539: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:35:21 [roads/place] items 540-569: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:35:24 [roads/place] items 570-599: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:35:26 [roads/place] items 600-629: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:35:29 [roads/place] items 630-659: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:35:32 [roads/place] items 660-689: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:35:34 [roads/place] items 690-719: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:35:37 [roads/place] items 720-749: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:35:39 [roads/place] items 750-779: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:35:42 [roads/place] items 780-809: {"placed":0,"errs":[],"failed":0,"skipped":24}
+22:35:45 [roads/place] items 810-839: {"placed":0,"errs":[],"failed":0,"skipped":23}
+22:35:48 [roads/place] items 840-869: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:35:51 [roads/place] items 870-899: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:35:54 [roads/place] items 900-929: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:35:57 [roads/place] items 930-959: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:35:59 [roads/place] items 960-989: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:36:02 [roads/place] items 990-1019: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:36:05 [roads/place] items 1020-1049: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:36:07 [roads/place] items 1050-1079: {"placed":0,"errs":[],"failed":0,"skipped":28}
+22:36:10 [roads/place] items 1080-1109: {"placed":0,"errs":[],"failed":0,"skipped":23}
+22:36:12 [roads/place] items 1110-1139: {"placed":0,"errs":[],"failed":0,"skipped":28}
+22:36:15 [roads/place] items 1140-1169: {"placed":0,"errs":[],"failed":0,"skipped":27}
+22:36:17 [roads/place] items 1170-1199: {"placed":0,"errs":[],"failed":0,"skipped":29}
+22:36:20 [roads/place] items 1200-1229: {"placed":0,"errs":[],"failed":0,"skipped":28}
+22:36:23 [roads/place] items 1230-1259: {"placed":0,"errs":[],"failed":0,"skipped":21}
+22:36:26 [roads/place] items 1260-1289: {"placed":0,"errs":[],"failed":0,"skipped":29}
+22:36:29 [roads/place] items 1290-1319: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:36:32 [roads/place] items 1320-1333: {"placed":0,"errs":[],"failed":0,"skipped":14}
+22:36:32 [roads/place] done; waiting for upload: 0; skipped in protected zones: 46
+22:36:35 [capital/place] items 0-29: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:36:38 [capital/place] items 30-59: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:36:41 [capital/place] items 60-89: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:36:44 [capital/place] items 90-119: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:36:46 [capital/place] items 120-149: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:36:49 [capital/place] items 150-179: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:36:52 [capital/place] items 180-209: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:36:55 [capital/place] items 210-239: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:36:58 [capital/place] items 240-269: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:37:00 [capital/place] items 270-299: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:37:03 [capital/place] items 300-329: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:37:05 [capital/place] items 330-359: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:37:08 [capital/place] items 360-389: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:37:11 [capital/place] items 390-419: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:37:13 [capital/place] items 420-449: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:37:16 [capital/place] items 450-479: {"placed":0,"errs":[],"failed":0,"skipped":30}
+22:37:19 [capital/place] items 480-489: {"placed":0,"errs":[],"failed":0,"skipped":10}
+22:37:19 [capital/place] done; waiting for upload: 0; skipped in protected zones: 0
+22:37:23 [town1_extra/place] items 0-5: {"placed":0,"errs":[],"failed":0,"skipped":6}
+22:37:23 [town1_extra/place] done; waiting for upload: 0; skipped in protected zones: 0
+RUNNER finished 22:37:23
+22:38:45 [fixpass] roads: kept=1288 duplicatesRemoved=0 resnapped=86
+22:38:49 [fixpass] elf: kept=501 duplicatesRemoved=0 resnapped=31
+22:38:52 [fixpass] harbour: kept=301 duplicatesRemoved=0 resnapped=31
+22:38:56 [fixpass] capital: kept=490 duplicatesRemoved=0 resnapped=0
+22:38:59 [fixpass] alpine: kept=269 duplicatesRemoved=0 resnapped=0
+22:39:03 [fixpass] rusty: kept=187 duplicatesRemoved=0 resnapped=0
+22:39:07 [fixpass] town1: kept=128 duplicatesRemoved=0 resnapped=0
+22:39:10 [fixpass] town1_extra: kept=6 duplicatesRemoved=0 resnapped=0
+22:39:13 [fixpass] capital_interior: kept=21 duplicatesRemoved=0 resnapped=0
+22:50:18 [town1_yard/place] items 0-16: {"placed":17,"errs":[],"failed":0,"skipped":0}
+22:50:18 [town1_yard/place] done; waiting for upload: 0; skipped in protected zones: 0
+22:50:22 [fixpass] town1_yard: kept=17 duplicatesRemoved=0 resnapped=3
+03:10:49 [facetest/place] items 0-3: {"placed":4,"errs":[],"failed":0,"skipped":0}
+03:10:49 [facetest/place] done; waiting for upload: 0; skipped in protected zones: 0
+03:20:02 [v2_capital/place] items 0-59: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:20:05 [v2_capital/place] items 60-119: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:20:08 [v2_capital/place] items 120-179: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:20:11 [v2_capital/place] items 180-239: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:20:15 [v2_capital/place] items 240-299: {"placed":57,"errs":[],"failed":0,"skipped":3}
+03:20:17 [v2_capital/place] items 300-359: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:20:20 [v2_capital/place] items 360-419: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:20:24 [v2_capital/place] items 420-479: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:20:27 [v2_capital/place] items 480-539: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:20:30 [v2_capital/place] items 540-599: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:20:33 [v2_capital/place] items 600-659: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:20:36 [v2_capital/place] items 660-719: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:20:39 [v2_capital/place] items 720-779: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:20:42 [v2_capital/place] items 780-839: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:20:45 [v2_capital/place] items 840-899: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:20:48 [v2_capital/place] items 900-959: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:20:51 [v2_capital/place] items 960-1019: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:20:54 [v2_capital/place] items 1020-1079: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:20:57 [v2_capital/place] items 1080-1139: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:21:00 [v2_capital/place] items 1140-1199: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:21:03 [v2_capital/place] items 1200-1259: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:21:06 [v2_capital/place] items 1260-1319: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:21:09 [v2_capital/place] items 1320-1379: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:21:12 [v2_capital/place] items 1380-1439: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:21:15 [v2_capital/place] items 1440-1499: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:21:19 [v2_capital/place] items 1500-1559: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:21:22 [v2_capital/place] items 1560-1619: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:21:25 [v2_capital/place] items 1620-1679: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:21:28 [v2_capital/place] items 1680-1739: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:21:31 [v2_capital/place] items 1740-1799: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:21:34 [v2_capital/place] items 1800-1859: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:21:37 [v2_capital/place] items 1860-1919: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:21:40 [v2_capital/place] items 1920-1979: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:21:43 [v2_capital/place] items 1980-2010: {"placed":31,"errs":[],"failed":0,"skipped":0}
+03:21:43 [v2_capital/place] done; waiting for upload: 0; skipped in protected zones: 0
+03:23:07 [v2_rusty/place] items 0-59: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:23:10 [v2_rusty/place] items 60-119: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:23:13 [v2_rusty/place] items 120-179: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:23:16 [v2_rusty/place] items 180-239: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:23:19 [v2_rusty/place] items 240-299: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:23:22 [v2_rusty/place] items 300-359: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:23:25 [v2_rusty/place] items 360-398: {"placed":39,"errs":[],"failed":0,"skipped":0}
+03:23:25 [v2_rusty/place] done; waiting for upload: 0; skipped in protected zones: 0
+03:23:28 [v2_harbour/place] items 0-59: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:23:31 [v2_harbour/place] items 60-119: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:23:34 [v2_harbour/place] items 120-179: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:23:37 [v2_harbour/place] items 180-239: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:23:40 [v2_harbour/place] items 240-299: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:23:43 [v2_harbour/place] items 300-359: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:23:46 [v2_harbour/place] items 360-419: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:23:49 [v2_harbour/place] items 420-479: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:23:53 [v2_harbour/place] items 480-539: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:23:56 [v2_harbour/place] items 540-599: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:23:59 [v2_harbour/place] items 600-654: {"placed":55,"errs":[],"failed":0,"skipped":0}
+03:23:59 [v2_harbour/place] done; waiting for upload: 0; skipped in protected zones: 0
+03:24:02 [v2_elf/place] items 0-59: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:24:05 [v2_elf/place] items 60-119: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:24:08 [v2_elf/place] items 120-179: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:24:11 [v2_elf/place] items 180-239: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:24:14 [v2_elf/place] items 240-299: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:24:16 [v2_elf/place] items 300-359: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:24:20 [v2_elf/place] items 360-419: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:24:22 [v2_elf/place] items 420-479: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:24:25 [v2_elf/place] items 480-539: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:24:28 [v2_elf/place] items 540-599: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:24:31 [v2_elf/place] items 600-659: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:24:34 [v2_elf/place] items 660-719: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:24:37 [v2_elf/place] items 720-779: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:24:40 [v2_elf/place] items 780-839: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:24:43 [v2_elf/place] items 840-899: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:24:46 [v2_elf/place] items 900-959: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:24:49 [v2_elf/place] items 960-968: {"placed":9,"errs":[],"failed":0,"skipped":0}
+03:24:49 [v2_elf/place] done; waiting for upload: 0; skipped in protected zones: 0
+03:24:52 [v2_alpine/place] items 0-59: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:24:55 [v2_alpine/place] items 60-119: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:24:58 [v2_alpine/place] items 120-179: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:25:01 [v2_alpine/place] items 180-239: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:25:04 [v2_alpine/place] items 240-299: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:25:07 [v2_alpine/place] items 300-304: {"placed":5,"errs":[],"failed":0,"skipped":0}
+03:25:07 [v2_alpine/place] done; waiting for upload: 0; skipped in protected zones: 0
+03:38:06 [v2_interiors/place] items 0-59: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:38:09 [v2_interiors/place] items 60-119: {"placed":60,"errs":[],"failed":0,"skipped":0}
+03:38:12 [v2_interiors/place] items 120-168: {"placed":49,"errs":[],"failed":0,"skipped":0}
+03:38:12 [v2_interiors/place] done; waiting for upload: 0; skipped in protected zones: 0
+03:48:33 [v2_country/place] items 0-79: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:48:37 [v2_country/place] items 80-159: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:48:40 [v2_country/place] items 160-239: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:48:43 [v2_country/place] items 240-319: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:48:46 [v2_country/place] items 320-399: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:48:49 [v2_country/place] items 400-479: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:48:52 [v2_country/place] items 480-559: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:48:55 [v2_country/place] items 560-639: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:48:58 [v2_country/place] items 640-719: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:49:01 [v2_country/place] items 720-799: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:49:04 [v2_country/place] items 800-879: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:49:07 [v2_country/place] items 880-959: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:49:10 [v2_country/place] items 960-1039: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:49:13 [v2_country/place] items 1040-1119: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:49:16 [v2_country/place] items 1120-1199: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:49:19 [v2_country/place] items 1200-1279: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:49:22 [v2_country/place] items 1280-1359: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:49:26 [v2_country/place] items 1360-1439: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:49:29 [v2_country/place] items 1440-1519: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:49:32 [v2_country/place] items 1520-1599: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:49:35 [v2_country/place] items 1600-1679: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:49:38 [v2_country/place] items 1680-1759: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:49:41 [v2_country/place] items 1760-1839: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:49:44 [v2_country/place] items 1840-1919: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:49:47 [v2_country/place] items 1920-1999: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:49:50 [v2_country/place] items 2000-2079: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:49:53 [v2_country/place] items 2080-2159: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:49:56 [v2_country/place] items 2160-2239: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:49:59 [v2_country/place] items 2240-2319: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:50:02 [v2_country/place] items 2320-2399: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:50:05 [v2_country/place] items 2400-2479: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:50:08 [v2_country/place] items 2480-2559: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:50:11 [v2_country/place] items 2560-2639: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:50:14 [v2_country/place] items 2640-2719: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:50:17 [v2_country/place] items 2720-2799: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:50:21 [v2_country/place] items 2800-2879: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:50:24 [v2_country/place] items 2880-2959: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:50:27 [v2_country/place] items 2960-3039: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:50:30 [v2_country/place] items 3040-3119: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:50:33 [v2_country/place] items 3120-3199: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:50:36 [v2_country/place] items 3200-3279: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:50:39 [v2_country/place] items 3280-3359: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:50:42 [v2_country/place] items 3360-3439: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:50:45 [v2_country/place] items 3440-3519: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:50:48 [v2_country/place] items 3520-3599: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:50:51 [v2_country/place] items 3600-3679: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:50:54 [v2_country/place] items 3680-3759: {"placed":80,"errs":[],"failed":0,"skipped":0}
+03:50:57 [v2_country/place] items 3760-3799: {"placed":40,"errs":[],"failed":0,"skipped":0}
+03:50:57 [v2_country/place] done; waiting for upload: 0; skipped in protected zones: 0
+05:18:51 [v3_capital/place] items 0-69: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:18:54 [v3_capital/place] items 70-139: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:18:57 [v3_capital/place] items 140-209: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:19:00 [v3_capital/place] items 210-279: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:19:03 [v3_capital/place] items 280-349: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:19:06 [v3_capital/place] items 350-419: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:19:09 [v3_capital/place] items 420-489: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:19:12 [v3_capital/place] items 490-559: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:19:15 [v3_capital/place] items 560-629: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:19:18 [v3_capital/place] items 630-699: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:19:21 [v3_capital/place] items 700-769: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:19:25 [v3_capital/place] items 770-839: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:19:28 [v3_capital/place] items 840-909: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:19:31 [v3_capital/place] items 910-979: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:19:34 [v3_capital/place] items 980-1049: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:19:37 [v3_capital/place] items 1050-1119: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:19:40 [v3_capital/place] items 1120-1189: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:19:43 [v3_capital/place] items 1190-1259: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:19:46 [v3_capital/place] items 1260-1329: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:19:49 [v3_capital/place] items 1330-1348: {"placed":19,"errs":[],"failed":0,"skipped":0}
+05:19:49 [v3_capital/place] done; waiting for upload: 0; skipped in protected zones: 0
+05:19:52 [v3_rusty/place] items 0-69: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:19:55 [v3_rusty/place] items 70-139: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:19:58 [v3_rusty/place] items 140-209: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:20:01 [v3_rusty/place] items 210-279: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:20:04 [v3_rusty/place] items 280-282: {"placed":3,"errs":[],"failed":0,"skipped":0}
+05:20:04 [v3_rusty/place] done; waiting for upload: 0; skipped in protected zones: 0
+05:20:07 [v3_harbour/place] items 0-69: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:20:10 [v3_harbour/place] items 70-139: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:20:14 [v3_harbour/place] items 140-209: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:20:17 [v3_harbour/place] items 210-279: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:20:20 [v3_harbour/place] items 280-349: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:20:23 [v3_harbour/place] items 350-419: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:20:26 [v3_harbour/place] items 420-473: {"placed":54,"errs":[],"failed":0,"skipped":0}
+05:20:26 [v3_harbour/place] done; waiting for upload: 0; skipped in protected zones: 0
+05:20:29 [v3_elf/place] items 0-69: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:20:32 [v3_elf/place] items 70-139: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:20:35 [v3_elf/place] items 140-209: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:20:38 [v3_elf/place] items 210-279: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:20:41 [v3_elf/place] items 280-349: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:20:44 [v3_elf/place] items 350-419: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:20:47 [v3_elf/place] items 420-489: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:20:50 [v3_elf/place] items 490-559: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:20:53 [v3_elf/place] items 560-629: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:20:56 [v3_elf/place] items 630-699: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:20:59 [v3_elf/place] items 700-769: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:21:02 [v3_elf/place] items 770-839: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:21:06 [v3_elf/place] items 840-909: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:21:09 [v3_elf/place] items 910-979: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:21:11 [v3_elf/place] items 980-1049: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:21:14 [v3_elf/place] items 1050-1119: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:21:17 [v3_elf/place] items 1120-1126: {"placed":7,"errs":[],"failed":0,"skipped":0}
+05:21:17 [v3_elf/place] done; waiting for upload: 0; skipped in protected zones: 0
+05:21:20 [v3_alpine/place] items 0-69: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:21:23 [v3_alpine/place] items 70-139: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:21:26 [v3_alpine/place] items 140-209: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:21:29 [v3_alpine/place] items 210-279: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:21:32 [v3_alpine/place] items 280-349: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:21:36 [v3_alpine/place] items 350-419: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:21:39 [v3_alpine/place] items 420-482: {"placed":63,"errs":[],"failed":0,"skipped":0}
+05:21:39 [v3_alpine/place] done; waiting for upload: 0; skipped in protected zones: 0
+05:25:28 [v3_interiors/place] items 0-69: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:25:31 [v3_interiors/place] items 70-139: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:25:34 [v3_interiors/place] items 140-192: {"placed":53,"errs":[],"failed":0,"skipped":0}
+05:25:34 [v3_interiors/place] done; waiting for upload: 0; skipped in protected zones: 0
+05:26:16 [v3_interiors/place] items 0-69: {"placed":0,"errs":[],"failed":0,"skipped":70}
+05:26:19 [v3_interiors/place] items 70-139: {"placed":0,"errs":[],"failed":0,"skipped":70}
+05:26:22 [v3_interiors/place] items 140-192: {"placed":0,"errs":[],"failed":0,"skipped":53}
+05:26:22 [v3_interiors/place] done; waiting for upload: 0; skipped in protected zones: 0
+05:28:05 [v3_country/place] items 0-79: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:28:08 [v3_country/place] items 80-159: {"placed":72,"errs":[],"failed":0,"skipped":0}
+05:28:11 [v3_country/place] items 160-239: {"placed":53,"errs":[],"failed":0,"skipped":0}
+05:28:14 [v3_country/place] items 240-319: {"placed":71,"errs":[],"failed":0,"skipped":0}
+05:28:17 [v3_country/place] items 320-399: {"placed":79,"errs":[],"failed":0,"skipped":0}
+05:28:20 [v3_country/place] items 400-479: {"placed":75,"errs":[],"failed":0,"skipped":0}
+05:28:23 [v3_country/place] items 480-559: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:28:26 [v3_country/place] items 560-639: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:28:29 [v3_country/place] items 640-719: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:28:32 [v3_country/place] items 720-799: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:28:35 [v3_country/place] items 800-879: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:28:38 [v3_country/place] items 880-959: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:28:42 [v3_country/place] items 960-1039: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:28:45 [v3_country/place] items 1040-1119: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:28:48 [v3_country/place] items 1120-1199: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:28:51 [v3_country/place] items 1200-1279: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:28:54 [v3_country/place] items 1280-1359: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:28:57 [v3_country/place] items 1360-1439: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:29:00 [v3_country/place] items 1440-1519: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:29:03 [v3_country/place] items 1520-1599: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:29:06 [v3_country/place] items 1600-1679: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:29:09 [v3_country/place] items 1680-1759: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:29:12 [v3_country/place] items 1760-1839: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:29:15 [v3_country/place] items 1840-1919: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:29:18 [v3_country/place] items 1920-1999: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:29:21 [v3_country/place] items 2000-2079: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:29:24 [v3_country/place] items 2080-2159: {"placed":71,"errs":[],"failed":0,"skipped":0}
+05:29:27 [v3_country/place] items 2160-2239: {"placed":64,"errs":[],"failed":0,"skipped":0}
+05:29:30 [v3_country/place] items 2240-2319: {"placed":74,"errs":[],"failed":0,"skipped":0}
+05:29:33 [v3_country/place] items 2320-2399: {"placed":72,"errs":[],"failed":0,"skipped":0}
+05:29:37 [v3_country/place] items 2400-2479: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:29:40 [v3_country/place] items 2480-2559: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:29:43 [v3_country/place] items 2560-2639: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:29:46 [v3_country/place] items 2640-2719: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:29:49 [v3_country/place] items 2720-2799: {"placed":80,"errs":[],"failed":0,"skipped":0}
+05:29:52 [v3_country/place] items 2800-2844: {"placed":45,"errs":[],"failed":0,"skipped":0}
+05:29:52 [v3_country/place] done; waiting for upload: 0; skipped in protected zones: 89
+05:30:19 [v3_country/place] items 0-79: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:30:22 [v3_country/place] items 80-159: {"placed":8,"errs":[],"failed":0,"skipped":72}
+05:30:25 [v3_country/place] items 160-239: {"placed":27,"errs":[],"failed":0,"skipped":53}
+05:30:28 [v3_country/place] items 240-319: {"placed":9,"errs":[],"failed":0,"skipped":71}
+05:30:31 [v3_country/place] items 320-399: {"placed":1,"errs":[],"failed":0,"skipped":79}
+05:30:34 [v3_country/place] items 400-479: {"placed":5,"errs":[],"failed":0,"skipped":75}
+05:30:37 [v3_country/place] items 480-559: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:30:40 [v3_country/place] items 560-639: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:30:43 [v3_country/place] items 640-719: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:30:46 [v3_country/place] items 720-799: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:30:50 [v3_country/place] items 800-879: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:30:53 [v3_country/place] items 880-959: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:30:56 [v3_country/place] items 960-1039: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:30:59 [v3_country/place] items 1040-1119: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:31:02 [v3_country/place] items 1120-1199: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:31:05 [v3_country/place] items 1200-1279: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:31:08 [v3_country/place] items 1280-1359: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:31:11 [v3_country/place] items 1360-1439: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:31:14 [v3_country/place] items 1440-1519: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:31:17 [v3_country/place] items 1520-1599: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:31:20 [v3_country/place] items 1600-1679: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:31:23 [v3_country/place] items 1680-1759: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:31:26 [v3_country/place] items 1760-1839: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:31:29 [v3_country/place] items 1840-1919: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:31:32 [v3_country/place] items 1920-1999: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:31:35 [v3_country/place] items 2000-2079: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:31:38 [v3_country/place] items 2080-2159: {"placed":9,"errs":[],"failed":0,"skipped":71}
+05:31:42 [v3_country/place] items 2160-2239: {"placed":16,"errs":[],"failed":0,"skipped":64}
+05:31:45 [v3_country/place] items 2240-2319: {"placed":6,"errs":[],"failed":0,"skipped":74}
+05:31:48 [v3_country/place] items 2320-2399: {"placed":8,"errs":[],"failed":0,"skipped":72}
+05:31:51 [v3_country/place] items 2400-2479: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:31:54 [v3_country/place] items 2480-2559: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:31:57 [v3_country/place] items 2560-2639: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:32:00 [v3_country/place] items 2640-2719: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:32:03 [v3_country/place] items 2720-2799: {"placed":0,"errs":[],"failed":0,"skipped":80}
+05:32:06 [v3_country/place] items 2800-2844: {"placed":0,"errs":[],"failed":0,"skipped":45}
+05:32:06 [v3_country/place] done; waiting for upload: 0; skipped in protected zones: 0
+05:36:37 [town1_graveyard/place] items 0-69: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:36:40 [town1_graveyard/place] items 70-139: {"placed":70,"errs":[],"failed":0,"skipped":0}
+05:36:43 [town1_graveyard/place] items 140-145: {"placed":6,"errs":[],"failed":0,"skipped":0}
+05:36:43 [town1_graveyard/place] done; waiting for upload: 0; skipped in protected zones: 0
+06:51:17 [town1_gy2/place] items 0-69: {"placed":70,"errs":[],"failed":0,"skipped":0}
+06:51:20 [town1_gy2/place] items 70-73: {"placed":4,"errs":[],"failed":0,"skipped":0}
+06:51:20 [town1_gy2/place] done; waiting for upload: 0; skipped in protected zones: 0
+06:51:23 [v3f_castle/place] items 0-69: {"placed":70,"errs":[],"failed":0,"skipped":0}
+06:51:27 [v3f_castle/place] items 70-127: {"placed":56,"errs":[],"failed":0,"skipped":2}
+06:51:27 [v3f_castle/place] done; waiting for upload: 0; skipped in protected zones: 0
+06:51:36 [v3f_se/place] items 0-69: {"placed":70,"errs":[],"failed":0,"skipped":0}
+06:51:39 [v3f_se/place] items 70-137: {"placed":68,"errs":[],"failed":0,"skipped":0}
+06:51:39 [v3f_se/place] done; waiting for upload: 0; skipped in protected zones: 0
+06:51:42 [v3f_alpine/place] items 0-69: {"placed":70,"errs":[],"failed":0,"skipped":0}
+06:51:45 [v3f_alpine/place] items 70-94: {"placed":25,"errs":[],"failed":0,"skipped":0}
+06:51:45 [v3f_alpine/place] done; waiting for upload: 0; skipped in protected zones: 0
+06:51:48 [v3f_harbour/place] items 0-69: {"placed":70,"errs":[],"failed":0,"skipped":0}
+06:51:48 [v3f_harbour/place] done; waiting for upload: 0; skipped in protected zones: 0
+06:51:52 [v3f_rusty/place] items 0-33: {"placed":34,"errs":[],"failed":0,"skipped":0}
+06:51:52 [v3f_rusty/place] done; waiting for upload: 0; skipped in protected zones: 0
+06:51:55 [v3f_elf/place] items 0-69: {"placed":70,"errs":[],"failed":0,"skipped":0}
+06:51:58 [v3f_elf/place] items 70-139: {"placed":70,"errs":[],"failed":0,"skipped":0}
+06:52:01 [v3f_elf/place] items 140-209: {"placed":70,"errs":[],"failed":0,"skipped":0}
+06:52:04 [v3f_elf/place] items 210-279: {"placed":70,"errs":[],"failed":0,"skipped":0}
+06:52:07 [v3f_elf/place] items 280-349: {"placed":70,"errs":[],"failed":0,"skipped":0}
+06:52:10 [v3f_elf/place] items 350-362: {"placed":13,"errs":[],"failed":0,"skipped":0}
+06:52:10 [v3f_elf/place] done; waiting for upload: 0; skipped in protected zones: 0
+06:52:13 [v3f_country/place] items 0-69: {"placed":70,"errs":[],"failed":0,"skipped":0}
+06:52:16 [v3f_country/place] items 70-139: {"placed":70,"errs":[],"failed":0,"skipped":0}
+06:52:19 [v3f_country/place] items 140-181: {"placed":42,"errs":[],"failed":0,"skipped":0}
+06:52:19 [v3f_country/place] done; waiting for upload: 0; skipped in protected zones: 0
+01:57:12 [v4_forest] progress 120/13611 placed 101 failed 0 (5s)
+01:57:20 [v4_forest] progress 1320/13611 placed 1141 failed 0 (13s)
+01:57:25 [v4_forest] progress 2520/13611 placed 2341 failed 0 (18s)
+01:57:30 [v4_forest] progress 3720/13611 placed 3541 failed 0 (23s)
+01:57:36 [v4_forest] progress 4920/13611 placed 4741 failed 0 (28s)
+01:57:41 [v4_forest] progress 6120/13611 placed 5941 failed 0 (33s)
+01:57:46 [v4_forest] progress 7320/13611 placed 7141 failed 0 (38s)
+01:57:51 [v4_forest] progress 8520/13611 placed 8341 failed 0 (43s)
+01:57:56 [v4_forest] progress 9720/13611 placed 9541 failed 0 (49s)
+01:58:07 [v4_forest] progress 10920/13611 placed 10225 failed 0 (59s)
+01:58:12 [v4_forest] progress 12120/13611 placed 11318 failed 0 (65s)
+01:58:17 [v4_forest] progress 13320/13611 placed 12518 failed 0 (70s)
+01:58:19 [v4_forest] done; sent 13611 placed 12809 failed 0; waiting for upload: 0 (); skipped in Town 1 zone: 0
+01:58:25 [v4_rocks] progress 120/3706 placed 41 failed 0 (6s)
+01:58:32 [v4_rocks] progress 1320/3706 placed 1072 failed 0 (13s)
+01:58:37 [v4_rocks] progress 2520/3706 placed 2272 failed 0 (18s)
+01:58:42 [v4_rocks] progress 3706/3706 placed 3458 failed 0 (23s)
+01:58:42 [v4_rocks] done; sent 3706 placed 3458 failed 0; waiting for upload: 0 (); skipped in Town 1 zone: 0
+01:58:47 [v4_shore] progress 120/757 placed 28 failed 0 (5s)
+01:58:52 [v4_shore] done; sent 757 placed 595 failed 0; waiting for upload: 0 (); skipped in Town 1 zone: 0
+01:59:00 [v4_pieces] progress 71/71 placed 2 failed 0 (7s)
+01:59:00 [v4_pieces] done; sent 71 placed 2 failed 0; waiting for upload: 0 (); skipped in Town 1 zone: 0
+01:59:07 [v4_under] progress 120/11407 placed 19 failed 0 (6s)
+01:59:13 [v4_under] progress 1320/11407 placed 1170 failed 0 (13s)
+01:59:18 [v4_under] progress 2520/11407 placed 2370 failed 0 (18s)
+01:59:24 [v4_under] progress 3720/11407 placed 3570 failed 0 (23s)
+01:59:31 [v4_under] progress 4920/11407 placed 4715 failed 0 (30s)
+01:59:36 [v4_under] progress 6120/11407 placed 5883 failed 0 (36s)
+01:59:41 [v4_under] progress 7320/11407 placed 7083 failed 0 (41s)
+01:59:47 [v4_under] progress 8520/11407 placed 8197 failed 0 (47s)
+01:59:52 [v4_under] progress 9720/11407 placed 9397 failed 0 (52s)
+01:59:57 [v4_under] progress 10920/11407 placed 10597 failed 0 (57s)
+02:00:00 [v4_under] done; sent 11407 placed 11084 failed 0; waiting for upload: 0 (); skipped in Town 1 zone: 0
+02:14:43 [v4_elf] progress 100/1072 placed 4 failed 0 (21s)
+02:14:55 [v4_elf] progress 1072/1072 placed 783 failed 0 (33s)
+02:14:55 [v4_elf] done; sent 1072 placed 783 failed 0; waiting for upload: 0 (); skipped in Town 1 zone: 0
+04:09:44 [v4_pieces] progress 40/53 placed 4 failed 0 (5s)
+04:09:46 [v4_pieces] done; sent 53 placed 8 failed 0; waiting for upload: 0 (); skipped in Town 1 zone: 0
+04:13:55 [v4_pieces2] progress 30/67 placed 2 failed 0 (6s)
+04:13:56 [v4_pieces2] done; sent 67 placed 39 failed 0; waiting for upload: 0 (); skipped in Town 1 zone: 0
+04:15:56 [v4_huts] progress 60/106 placed 4 failed 0 (7s)
+04:16:00 [v4_huts] done; sent 106 placed 14 failed 0; waiting for upload: 0 (); skipped in Town 1 zone: 0
+04:28:05 [v4_dress_castle] progress 60/206 placed 18 failed 0 (7s)
+04:28:16 [v4_dress_castle] done; sent 206 placed 31 failed 0; waiting for upload: 0 (); skipped in Town 1 zone: 0
+04:28:20 [v4_dress_capital] progress 60/370 placed 0 failed 0 (4s)
+04:28:24 [v4_dress_capital] done; sent 370 placed 220 failed 0; waiting for upload: 0 (); skipped in Town 1 zone: 0
+04:28:29 [v4_dress_harbour] progress 60/166 placed 59 failed 0 (4s)
+04:28:31 [v4_dress_harbour] done; sent 166 placed 134 failed 0; waiting for upload: 0 (); skipped in Town 1 zone: 0
+04:28:38 [v4_dress_rusty] progress 60/190 placed 1 failed 0 (6s)
+04:28:40 [v4_dress_rusty] done; sent 190 placed 89 failed 0; waiting for upload: 0 (); skipped in Town 1 zone: 0
+04:28:47 [v4_dress_alpine] progress 40/40 placed 4 failed 0 (6s)
+04:28:47 [v4_dress_alpine] done; sent 40 placed 4 failed 0; waiting for upload: 0 (); skipped in Town 1 zone: 0
+04:28:54 [v4_dress_elf] progress 60/137 placed 13 failed 0 (6s)
+04:28:59 [v4_dress_elf] done; sent 137 placed 40 failed 0; waiting for upload: 0 (); skipped in Town 1 zone: 0
+04:29:02 [town1_dress] progress 60/74 placed 55 failed 0 (3s)
+04:29:03 [town1_dress] done; sent 74 placed 69 failed 0; waiting for upload: 0 (); skipped in Town 1 zone: 0
+05:12:35 [v4_dress_elf2] progress 80/323 placed 70 failed 0 (4s)
+05:12:39 [v4_dress_elf2] done; sent 323 placed 207 failed 0; waiting for upload: 0 (); skipped in Town 1 zone: 0
+06:02:13 [v4_dress_elf3] progress 15/15 placed 8 failed 0 (4s)
+06:02:13 [v4_dress_elf3] done; sent 15 placed 8 failed 0; waiting for upload: 0 (); skipped in Town 1 zone: 0

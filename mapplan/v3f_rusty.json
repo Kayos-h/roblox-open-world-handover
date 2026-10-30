@@ -1,0 +1,278 @@
+{
+"area": "v3f_rusty",
+"terrain": [],
+"placements": [
+{
+"model": "D30_scrap_pile",
+"x": 1242.6,
+"z": 1100.2,
+"rot": 16.1,
+"group": "Debris3",
+"scale": 0.937
+},
+{
+"model": "D30_scrap_pile",
+"x": 1203.93,
+"z": 1070.54,
+"rot": 123.9,
+"group": "Debris3",
+"scale": 0.961
+},
+{
+"model": "D30_scrap_pile",
+"x": 1332.21,
+"z": 1149.8,
+"rot": 273.7,
+"group": "Debris3",
+"scale": 1.009
+},
+{
+"model": "D30_scrap_pile",
+"x": 1234.86,
+"z": 1128.89,
+"rot": 142.6,
+"group": "Debris3",
+"scale": 1.079
+},
+{
+"model": "D30_scrap_pile",
+"x": 1189.99,
+"z": 1102.98,
+"rot": 154.3,
+"group": "Debris3",
+"scale": 1.093
+},
+{
+"model": "D30_scrap_pile",
+"x": 1307.46,
+"z": 1189.38,
+"rot": 330.4,
+"group": "Debris3",
+"scale": 0.922
+},
+{
+"model": "D30_scrap_pile",
+"x": 1220.2,
+"z": 1073.39,
+"rot": 211.7,
+"group": "Debris3",
+"scale": 1.118
+},
+{
+"model": "D30_scrap_pile",
+"x": 1255.53,
+"z": 1094.51,
+"rot": 333.8,
+"group": "Debris3",
+"scale": 0.96
+},
+{
+"model": "D30_scrap_pile",
+"x": 1197.12,
+"z": 1116.02,
+"rot": 241.4,
+"group": "Debris3",
+"scale": 1.095
+},
+{
+"model": "D30_scrap_pile",
+"x": 1174.22,
+"z": 1102.1,
+"rot": 227.8,
+"group": "Debris3",
+"scale": 1.105
+},
+{
+"model": "D32_broken_barrel",
+"x": 1220.91,
+"z": 1126.9,
+"rot": 281.2,
+"group": "Debris3",
+"scale": 1.037
+},
+{
+"model": "D32_broken_barrel",
+"x": 1330.81,
+"z": 1163.44,
+"rot": 251.0,
+"group": "Debris3",
+"scale": 1.027
+},
+{
+"model": "D32_broken_barrel",
+"x": 1201.85,
+"z": 1105.66,
+"rot": 104.7,
+"group": "Debris3",
+"scale": 0.905
+},
+{
+"model": "D32_broken_barrel",
+"x": 1182.0,
+"z": 1090.85,
+"rot": 199.4,
+"group": "Debris3",
+"scale": 1.027
+},
+{
+"model": "D35_collapsed_wall",
+"x": 1066.15,
+"z": 966.28,
+"rot": 117.5,
+"group": "Debris3",
+"scale": 1.004
+},
+{
+"model": "D35_collapsed_wall",
+"x": 1014.36,
+"z": 1017.07,
+"rot": 125.8,
+"group": "Debris3",
+"scale": 0.949
+},
+{
+"model": "D35_collapsed_wall",
+"x": 1082.63,
+"z": 1058.91,
+"rot": 9.7,
+"group": "Debris3",
+"scale": 0.944
+},
+{
+"model": "D35_collapsed_wall",
+"x": 1279.92,
+"z": 1101.79,
+"rot": 147.4,
+"group": "Debris3",
+"scale": 0.961
+},
+{
+"model": "D35_collapsed_wall",
+"x": 1152.71,
+"z": 1095.64,
+"rot": 308.9,
+"group": "Debris3",
+"scale": 0.997
+},
+{
+"model": "D29_patched_tent",
+"x": 1121.44,
+"z": 1080.58,
+"rot": 102.3,
+"group": "Debris3",
+"scale": 1.055
+},
+{
+"model": "D29_patched_tent",
+"x": 1320.78,
+"z": 1130.44,
+"rot": 112.2,
+"group": "Debris3",
+"scale": 1.021
+},
+{
+"model": "D29_patched_tent",
+"x": 1242.74,
+"z": 1166.61,
+"rot": 29.7,
+"group": "Debris3",
+"scale": 1.064
+},
+{
+"model": "D29_patched_tent",
+"x": 1271.49,
+"z": 1185.07,
+"rot": 214.0,
+"group": "Debris3",
+"scale": 1.037
+},
+{
+"model": "D29_patched_tent",
+"x": 1139.77,
+"z": 1006.84,
+"rot": 123.8,
+"group": "Debris3",
+"scale": 0.904
+},
+{
+"model": "D29_patched_tent",
+"x": 1202.95,
+"z": 1042.16,
+"rot": 150.0,
+"group": "Debris3",
+"scale": 1.133
+},
+{
+"model": "D29_patched_tent",
+"x": 1104.25,
+"z": 984.24,
+"rot": 344.6,
+"group": "Debris3",
+"scale": 0.993
+},
+{
+"model": "A35_dead_tree_1",
+"x": 1302.76,
+"z": 1107.18,
+"rot": 3.7,
+"group": "Debris3",
+"scale": 1.136
+},
+{
+"model": "A35_dead_tree_1",
+"x": 1052.11,
+"z": 1050.17,
+"rot": 24.9,
+"group": "Debris3",
+"scale": 1.099
+},
+{
+"model": "A36_dead_tree_2",
+"x": 1212.8,
+"z": 1059.79,
+"rot": 313.7,
+"group": "Debris3",
+"scale": 1.072
+},
+{
+"model": "A36_dead_tree_2",
+"x": 1155.08,
+"z": 1015.03,
+"rot": 186.6,
+"group": "Debris3",
+"scale": 0.973
+},
+{
+"model": "A70_branch_pile",
+"x": 1231.49,
+"z": 1142.66,
+"rot": 163.3,
+"group": "Debris3",
+"scale": 1.103
+},
+{
+"model": "A58_rock_medium_1",
+"x": 1029.46,
+"z": 1026.2,
+"rot": 225.9,
+"group": "Debris3",
+"scale": 0.901
+},
+{
+"model": "A58_rock_medium_1",
+"x": 1185.66,
+"z": 1037.94,
+"rot": 172.5,
+"group": "Debris3",
+"scale": 0.918
+},
+{
+"model": "A58_rock_medium_1",
+"x": 1098.78,
+"z": 1066.68,
+"rot": 110.0,
+"group": "Debris3",
+"scale": 0.973
+}
+]
+}

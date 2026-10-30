@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<roblox version="4">
+  <Item class="Script" referent="0">
+    <Properties>
+      <string name="Name">VesperHeadlessRunner</string>
+      <string name="Source"><![CDATA[--!nonstrict
+print("VESPER_PROBE_ALIVE")
+local canIO = io and io.open ~= nil
+print("VESPER_PROBE_IO " .. tostring(canIO))
+if canIO then
+	local f = io.open("C:/Users/Nitro/Desktop/roblox_game/_probe_io.txt", "w")
+	if f then f:write("io works from plugin") f:close() print("VESPER_PROBE_FILE_OK") else print("VESPER_PROBE_FILE_FAIL") end
+end
+print("VESPER_PROBE_PLUGIN_OBJ " .. tostring(plugin ~= nil))
+if plugin then
+	local ok, err = pcall(function()
+		plugin:RegisterUninstallationCallback(function() end)
+	end)
+	print("VESPER_PROBE_PLUGINAPI " .. tostring(ok) .. " " .. tostring(err))
+end
+local ok2, err2 = pcall(function() game:Save() end)
+print("VESPER_PROBE_SAVE " .. tostring(ok2) .. " " .. tostring(err2))
+print("VESPER_PROBE_DONE")
+]]></string>
+    </Properties>
+  </Item>
+</roblox>

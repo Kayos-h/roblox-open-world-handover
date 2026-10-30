@@ -1,0 +1,190 @@
+﻿{
+    "area":  "capital_t2",
+    "terrain":  [
+                    {
+                        "op":  "plateau",
+                        "cx":  0,
+                        "cz":  -2500,
+                        "rx":  840,
+                        "rz":  840,
+                        "top_y":  22,
+                        "slope":  120,
+                        "material":  "Grass"
+                    },
+                    {
+                        "op":  "hill",
+                        "cx":  0,
+                        "cz":  -2750,
+                        "r":  1060,
+                        "h":  132,
+                        "material":  "Grass"
+                    },
+                    {
+                        "op":  "hill",
+                        "cx":  0,
+                        "cz":  -3080,
+                        "r":  320,
+                        "h":  150,
+                        "material":  "Grass"
+                    },
+                    {
+                        "op":  "hill",
+                        "cx":  0,
+                        "cz":  -3080,
+                        "r":  180,
+                        "h":  150,
+                        "material":  "Rock"
+                    },
+                    {
+                        "op":  "flatten",
+                        "x0":  -260,
+                        "z0":  -1760,
+                        "x1":  260,
+                        "z1":  -1980,
+                        "y":  24,
+                        "material":  "Cobblestone"
+                    },
+                    {
+                        "op":  "flatten",
+                        "x0":  -320,
+                        "z0":  -1980,
+                        "x1":  320,
+                        "z1":  -2240,
+                        "y":  42,
+                        "material":  "Cobblestone"
+                    },
+                    {
+                        "op":  "flatten",
+                        "x0":  -300,
+                        "z0":  -2240,
+                        "x1":  300,
+                        "z1":  -2460,
+                        "y":  62,
+                        "material":  "Pavement"
+                    },
+                    {
+                        "op":  "flatten",
+                        "x0":  -360,
+                        "z0":  -2460,
+                        "x1":  360,
+                        "z1":  -2560,
+                        "y":  76,
+                        "material":  "Cobblestone"
+                    },
+                    {
+                        "op":  "flatten",
+                        "x0":  -380,
+                        "z0":  -2560,
+                        "x1":  380,
+                        "z1":  -2860,
+                        "y":  104,
+                        "material":  "Pavement"
+                    },
+                    {
+                        "op":  "flatten",
+                        "x0":  -300,
+                        "z0":  -2860,
+                        "x1":  300,
+                        "z1":  -3230,
+                        "y":  150,
+                        "material":  "Cobblestone"
+                    },
+                    {
+                        "op":  "ramp",
+                        "x0":  0,
+                        "z0":  -1720,
+                        "y0":  20,
+                        "x1":  0,
+                        "z1":  -1980,
+                        "y1":  42,
+                        "width":  34,
+                        "material":  "Cobblestone"
+                    },
+                    {
+                        "op":  "ramp",
+                        "x0":  0,
+                        "z0":  -1980,
+                        "y0":  42,
+                        "x1":  0,
+                        "z1":  -2240,
+                        "y1":  62,
+                        "width":  34,
+                        "material":  "Cobblestone"
+                    },
+                    {
+                        "op":  "ramp",
+                        "x0":  0,
+                        "z0":  -2240,
+                        "y0":  62,
+                        "x1":  0,
+                        "z1":  -2460,
+                        "y1":  76,
+                        "width":  34,
+                        "material":  "Cobblestone"
+                    },
+                    {
+                        "op":  "ramp",
+                        "x0":  0,
+                        "z0":  -2460,
+                        "y0":  76,
+                        "x1":  0,
+                        "z1":  -2560,
+                        "y1":  104,
+                        "width":  30,
+                        "material":  "Cobblestone"
+                    },
+                    {
+                        "op":  "ramp",
+                        "x0":  0,
+                        "z0":  -2560,
+                        "y0":  104,
+                        "x1":  0,
+                        "z1":  -2860,
+                        "y1":  150,
+                        "width":  30,
+                        "material":  "Cobblestone"
+                    },
+                    {
+                        "op":  "water",
+                        "x0":  -360,
+                        "z0":  -2520,
+                        "x1":  360,
+                        "z1":  -2495,
+                        "y":  70,
+                        "depth":  8
+                    },
+                    {
+                        "op":  "water",
+                        "x0":  -250,
+                        "z0":  -2880,
+                        "x1":  250,
+                        "z1":  -2860,
+                        "y":  138,
+                        "depth":  10
+                    },
+                    {
+                        "op":  "paint",
+                        "cx":  -300,
+                        "cz":  -2700,
+                        "r":  90,
+                        "material":  "LeafyGrass"
+                    },
+                    {
+                        "op":  "paint",
+                        "cx":  300,
+                        "cz":  -2700,
+                        "r":  90,
+                        "material":  "LeafyGrass"
+                    },
+                    {
+                        "op":  "paint",
+                        "cx":  0,
+                        "cz":  -3080,
+                        "r":  150,
+                        "material":  "LeafyGrass"
+                    }
+                ],
+    "placements":  [
+
+                   ]
+}

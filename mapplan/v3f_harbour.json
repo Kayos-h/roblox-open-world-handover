@@ -1,0 +1,566 @@
+{
+"area": "v3f_harbour",
+"terrain": [],
+"placements": [
+{
+"model": "G17_net_rack",
+"x": -438.6,
+"z": 1778.91,
+"rot": 126.8,
+"group": "Quay2",
+"scale": 1.044
+},
+{
+"model": "G17_net_rack",
+"x": -449.22,
+"z": 1786.75,
+"rot": 186.4,
+"group": "Quay2",
+"scale": 1.075
+},
+{
+"model": "G18_rope_coil",
+"x": -419.43,
+"z": 1791.54,
+"rot": 331.4,
+"group": "Quay2",
+"scale": 0.972
+},
+{
+"model": "G18_rope_coil",
+"x": -180.11,
+"z": 1787.7,
+"rot": 42.3,
+"group": "Quay2",
+"scale": 1.026
+},
+{
+"model": "G18_rope_coil",
+"x": -407.6,
+"z": 1790.94,
+"rot": 19.6,
+"group": "Quay2",
+"scale": 1.061
+},
+{
+"model": "G18_rope_coil",
+"x": -224.36,
+"z": 1779.22,
+"rot": 277.3,
+"group": "Quay2",
+"scale": 0.971
+},
+{
+"model": "G18_rope_coil",
+"x": -420.16,
+"z": 1779.44,
+"rot": 94.2,
+"group": "Quay2",
+"scale": 1.093
+},
+{
+"model": "G18_rope_coil",
+"x": -408.59,
+"z": 1780.93,
+"rot": 304.9,
+"group": "Quay2",
+"scale": 1.023
+},
+{
+"model": "G18_rope_coil",
+"x": -473.98,
+"z": 1781.41,
+"rot": 347.0,
+"group": "Quay2",
+"scale": 1.085
+},
+{
+"model": "G18_rope_coil",
+"x": -479.0,
+"z": 1787.63,
+"rot": 173.3,
+"group": "Quay2",
+"scale": 1.011
+},
+{
+"model": "G21_lobster_trap",
+"x": -285.43,
+"z": 1780.99,
+"rot": 291.5,
+"group": "Quay2",
+"scale": 1.032
+},
+{
+"model": "G21_lobster_trap",
+"x": -486.99,
+"z": 1785.36,
+"rot": 244.3,
+"group": "Quay2",
+"scale": 0.991
+},
+{
+"model": "G21_lobster_trap",
+"x": -523.59,
+"z": 1778.63,
+"rot": 33.9,
+"group": "Quay2",
+"scale": 0.967
+},
+{
+"model": "G21_lobster_trap",
+"x": -370.61,
+"z": 1782.22,
+"rot": 321.3,
+"group": "Quay2",
+"scale": 0.957
+},
+{
+"model": "G21_lobster_trap",
+"x": -520.3,
+"z": 1793.89,
+"rot": 166.2,
+"group": "Quay2",
+"scale": 1.012
+},
+{
+"model": "G21_lobster_trap",
+"x": -558.94,
+"z": 1822.41,
+"rot": 170.9,
+"group": "Quay2",
+"scale": 1.098
+},
+{
+"model": "G21_lobster_trap",
+"x": -356.32,
+"z": 1789.17,
+"rot": 67.9,
+"group": "Quay2",
+"scale": 1.086
+},
+{
+"model": "G21_lobster_trap",
+"x": -222.19,
+"z": 1791.45,
+"rot": 257.2,
+"group": "Quay2",
+"scale": 1.083
+},
+{
+"model": "G33_cargo_pallet",
+"x": -283.07,
+"z": 1791.17,
+"rot": 325.7,
+"group": "Quay2",
+"scale": 1.093
+},
+{
+"model": "G33_cargo_pallet",
+"x": -481.09,
+"z": 1794.2,
+"rot": 356.8,
+"group": "Quay2",
+"scale": 0.961
+},
+{
+"model": "A71_barrel",
+"x": -345.89,
+"z": 1790.11,
+"rot": 329.1,
+"group": "Quay2",
+"scale": 0.965
+},
+{
+"model": "A71_barrel",
+"x": -491.67,
+"z": 1823.49,
+"rot": 221.5,
+"group": "Quay2",
+"scale": 0.981
+},
+{
+"model": "A71_barrel",
+"x": -470.96,
+"z": 1822.84,
+"rot": 359.2,
+"group": "Quay2",
+"scale": 0.959
+},
+{
+"model": "A71_barrel",
+"x": -341.84,
+"z": 1785.65,
+"rot": 146.3,
+"group": "Quay2",
+"scale": 1.003
+},
+{
+"model": "A71_barrel",
+"x": -225.61,
+"z": 1823.6,
+"rot": 108.2,
+"group": "Quay2",
+"scale": 0.972
+},
+{
+"model": "A71_barrel",
+"x": -412.26,
+"z": 1821.11,
+"rot": 181.4,
+"group": "Quay2",
+"scale": 0.987
+},
+{
+"model": "A71_barrel",
+"x": -463.24,
+"z": 1791.33,
+"rot": 276.3,
+"group": "Quay2",
+"scale": 0.994
+},
+{
+"model": "A71_barrel",
+"x": -218.31,
+"z": 1783.25,
+"rot": 283.5,
+"group": "Quay2",
+"scale": 1.069
+},
+{
+"model": "A71_barrel",
+"x": -589.25,
+"z": 1793.65,
+"rot": 82.7,
+"group": "Quay2",
+"scale": 1.082
+},
+{
+"model": "A71_barrel",
+"x": -174.68,
+"z": 1821.22,
+"rot": 42.7,
+"group": "Quay2",
+"scale": 1.004
+},
+{
+"model": "A71_barrel",
+"x": -507.57,
+"z": 1825.19,
+"rot": 268.8,
+"group": "Quay2",
+"scale": 0.981
+},
+{
+"model": "A71_barrel",
+"x": -351.37,
+"z": 1792.16,
+"rot": 203.2,
+"group": "Quay2",
+"scale": 1.007
+},
+{
+"model": "A71_barrel",
+"x": -318.13,
+"z": 1793.42,
+"rot": 195.1,
+"group": "Quay2",
+"scale": 0.952
+},
+{
+"model": "A71_barrel",
+"x": -378.26,
+"z": 1789.47,
+"rot": 194.7,
+"group": "Quay2",
+"scale": 1.06
+},
+{
+"model": "A73_crate_small",
+"x": -341.27,
+"z": 1779.28,
+"rot": 172.6,
+"group": "Quay2",
+"scale": 0.986
+},
+{
+"model": "A73_crate_small",
+"x": -550.6,
+"z": 1793.74,
+"rot": 13.4,
+"group": "Quay2",
+"scale": 0.971
+},
+{
+"model": "A73_crate_small",
+"x": -535.43,
+"z": 1823.46,
+"rot": 81.6,
+"group": "Quay2",
+"scale": 0.975
+},
+{
+"model": "A73_crate_small",
+"x": -425.61,
+"z": 1784.83,
+"rot": 17.1,
+"group": "Quay2",
+"scale": 1.069
+},
+{
+"model": "A73_crate_small",
+"x": -453.44,
+"z": 1794.05,
+"rot": 133.0,
+"group": "Quay2",
+"scale": 1.024
+},
+{
+"model": "A73_crate_small",
+"x": -604.58,
+"z": 1824.39,
+"rot": 353.2,
+"group": "Quay2",
+"scale": 1.01
+},
+{
+"model": "A73_crate_small",
+"x": -283.33,
+"z": 1822.88,
+"rot": 315.6,
+"group": "Quay2",
+"scale": 0.953
+},
+{
+"model": "A73_crate_small",
+"x": -429.5,
+"z": 1780.32,
+"rot": 212.2,
+"group": "Quay2",
+"scale": 0.995
+},
+{
+"model": "A73_crate_small",
+"x": -439.02,
+"z": 1791.91,
+"rot": 254.5,
+"group": "Quay2",
+"scale": 0.96
+},
+{
+"model": "A73_crate_small",
+"x": -299.88,
+"z": 1822.82,
+"rot": 257.1,
+"group": "Quay2",
+"scale": 1.049
+},
+{
+"model": "A73_crate_small",
+"x": -320.75,
+"z": 1781.35,
+"rot": 16.2,
+"group": "Quay2",
+"scale": 1.019
+},
+{
+"model": "A73_crate_small",
+"x": -336.86,
+"z": 1789.28,
+"rot": 160.8,
+"group": "Quay2",
+"scale": 0.958
+},
+{
+"model": "A77_sack_pile",
+"x": -326.55,
+"z": 1791.98,
+"rot": 232.0,
+"group": "Quay2",
+"scale": 1.078
+},
+{
+"model": "A87_bucket",
+"x": -368.61,
+"z": 1822.79,
+"rot": 334.4,
+"group": "Quay2",
+"scale": 1.058
+},
+{
+"model": "A87_bucket",
+"x": -402.26,
+"z": 1784.92,
+"rot": 317.5,
+"group": "Quay2",
+"scale": 1.07
+},
+{
+"model": "A87_bucket",
+"x": -268.91,
+"z": 1823.1,
+"rot": 35.5,
+"group": "Quay2",
+"scale": 0.977
+},
+{
+"model": "A87_bucket",
+"x": -625.94,
+"z": 1785.02,
+"rot": 209.7,
+"group": "Quay2",
+"scale": 1.092
+},
+{
+"model": "A87_bucket",
+"x": -306.45,
+"z": 1795.48,
+"rot": 346.3,
+"group": "Quay2",
+"scale": 0.978
+},
+{
+"model": "A87_bucket",
+"x": -564.16,
+"z": 1795.63,
+"rot": 73.9,
+"group": "Quay2",
+"scale": 0.965
+},
+{
+"model": "A87_bucket",
+"x": -591.53,
+"z": 1782.76,
+"rot": 170.3,
+"group": "Quay2",
+"scale": 1.007
+},
+{
+"model": "A87_bucket",
+"x": -550.17,
+"z": 1789.39,
+"rot": 327.0,
+"group": "Quay2",
+"scale": 0.968
+},
+{
+"model": "G09_fishing_boat_2",
+"x": -602.8,
+"z": 1889.27,
+"rot": 46.2,
+"group": "Boats2",
+"scale": 0.989
+},
+{
+"model": "G08_fishing_boat_1",
+"x": -162.52,
+"z": 1874.14,
+"rot": 27.3,
+"group": "Boats2",
+"scale": 1.019
+},
+{
+"model": "G09_fishing_boat_2",
+"x": -214.1,
+"z": 1880.25,
+"rot": 236.4,
+"group": "Boats2",
+"scale": 1.019
+},
+{
+"model": "G10_rowboat",
+"x": -313.04,
+"z": 1883.47,
+"rot": 217.9,
+"group": "Boats2",
+"scale": 1.034
+},
+{
+"model": "G10_rowboat",
+"x": -479.08,
+"z": 1861.84,
+"rot": 209.7,
+"group": "Boats2",
+"scale": 0.977
+},
+{
+"model": "G10_rowboat",
+"x": -492.77,
+"z": 1891.08,
+"rot": 55.7,
+"group": "Boats2",
+"scale": 0.965
+},
+{
+"model": "G10_rowboat",
+"x": -189.6,
+"z": 1883.48,
+"rot": 134.7,
+"group": "Boats2",
+"scale": 0.951
+},
+{
+"model": "G10_rowboat",
+"x": -429.8,
+"z": 1883.13,
+"rot": 204.8,
+"group": "Boats2",
+"scale": 1.093
+},
+{
+"model": "G20_buoy",
+"x": -628.12,
+"z": 1872.31,
+"rot": 325.3,
+"group": "Boats2",
+"scale": 1.074
+},
+{
+"model": "G20_buoy",
+"x": -299.38,
+"z": 1862.12,
+"rot": 289.9,
+"group": "Boats2",
+"scale": 1.044
+},
+{
+"model": "G20_buoy",
+"x": -567.41,
+"z": 1866.99,
+"rot": 283.8,
+"group": "Boats2",
+"scale": 1.018
+},
+{
+"model": "G20_buoy",
+"x": -469.18,
+"z": 1894.24,
+"rot": 115.6,
+"group": "Boats2",
+"scale": 1.072
+},
+{
+"model": "G20_buoy",
+"x": -637.57,
+"z": 1888.59,
+"rot": 231.2,
+"group": "Boats2",
+"scale": 1.023
+},
+{
+"model": "G20_buoy",
+"x": -621.25,
+"z": 1851.04,
+"rot": 268.5,
+"group": "Boats2",
+"scale": 1.069
+},
+{
+"model": "G20_buoy",
+"x": -205.26,
+"z": 1853.07,
+"rot": 105.9,
+"group": "Boats2",
+"scale": 1.058
+}
+]
+}

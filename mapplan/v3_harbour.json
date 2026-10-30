@@ -1,0 +1,3514 @@
+{
+"area": "v3_harbour",
+"terrain": [],
+"placements": [
+{
+"model": "A109_fountain_small",
+"x": -390,
+"z": 1597,
+"rot": 0,
+"group": "Square"
+},
+{
+"model": "A82_bench_wood",
+"x": -374.0,
+"z": 1597.0,
+"rot": 270.0,
+"group": "Square"
+},
+{
+"model": "A82_bench_wood",
+"x": -382.0,
+"z": 1607.39,
+"rot": 210.0,
+"group": "Square"
+},
+{
+"model": "A82_bench_wood",
+"x": -398.0,
+"z": 1607.39,
+"rot": 150.0,
+"group": "Square"
+},
+{
+"model": "A82_bench_wood",
+"x": -406.0,
+"z": 1597.0,
+"rot": 90.0,
+"group": "Square"
+},
+{
+"model": "A82_bench_wood",
+"x": -398.0,
+"z": 1586.61,
+"rot": 30.0,
+"group": "Square"
+},
+{
+"model": "A82_bench_wood",
+"x": -382.0,
+"z": 1586.61,
+"rot": 330.0,
+"group": "Square"
+},
+{
+"model": "G14_harbour_master",
+"x": -352,
+"z": 1772,
+"rot": 270,
+"group": "Waterfront"
+},
+{
+"model": "G12_warehouse_1",
+"x": -610,
+"z": 1780,
+"rot": 0,
+"group": "Waterfront"
+},
+{
+"model": "G13_warehouse_2",
+"x": -570,
+"z": 1780,
+"rot": 0,
+"group": "Waterfront"
+},
+{
+"model": "G12_warehouse_1",
+"x": -505,
+"z": 1780,
+"rot": 0,
+"group": "Waterfront"
+},
+{
+"model": "G12_warehouse_1",
+"x": -305,
+"z": 1780,
+"rot": 0,
+"group": "Waterfront"
+},
+{
+"model": "G12_warehouse_1",
+"x": -265,
+"z": 1780,
+"rot": 0,
+"group": "Waterfront"
+},
+{
+"model": "G12_warehouse_1",
+"x": -200,
+"z": 1780,
+"rot": 0,
+"group": "Waterfront"
+},
+{
+"model": "G12_warehouse_1",
+"x": -160,
+"z": 1780,
+"rot": 0,
+"group": "Waterfront"
+},
+{
+"model": "G28_seawall",
+"x": -618.57,
+"z": 1832.0,
+"rot": 0.0,
+"group": "Waterfront",
+"y_offset": -8.5
+},
+{
+"model": "G28_seawall",
+"x": -595.71,
+"z": 1832.0,
+"rot": 0.0,
+"group": "Waterfront",
+"y_offset": -8.5
+},
+{
+"model": "G28_seawall",
+"x": -572.86,
+"z": 1832.0,
+"rot": 0.0,
+"group": "Waterfront",
+"y_offset": -8.5
+},
+{
+"model": "G28_seawall",
+"x": -550.0,
+"z": 1832.0,
+"rot": 0.0,
+"group": "Waterfront",
+"y_offset": -8.5
+},
+{
+"model": "G28_seawall",
+"x": -527.14,
+"z": 1832.0,
+"rot": 0.0,
+"group": "Waterfront",
+"y_offset": -8.5
+},
+{
+"model": "G28_seawall",
+"x": -504.29,
+"z": 1832.0,
+"rot": 0.0,
+"group": "Waterfront",
+"y_offset": -8.5
+},
+{
+"model": "G28_seawall",
+"x": -481.43,
+"z": 1832.0,
+"rot": 0.0,
+"group": "Waterfront",
+"y_offset": -8.5
+},
+{
+"model": "G28_seawall",
+"x": -458.57,
+"z": 1832.0,
+"rot": 0.0,
+"group": "Waterfront",
+"y_offset": -8.5
+},
+{
+"model": "G28_seawall",
+"x": -435.71,
+"z": 1832.0,
+"rot": 0.0,
+"group": "Waterfront",
+"y_offset": -8.5
+},
+{
+"model": "G28_seawall",
+"x": -412.86,
+"z": 1832.0,
+"rot": 0.0,
+"group": "Waterfront",
+"y_offset": -8.5
+},
+{
+"model": "G28_seawall",
+"x": -390.0,
+"z": 1832.0,
+"rot": 0.0,
+"group": "Waterfront",
+"y_offset": -8.5
+},
+{
+"model": "G28_seawall",
+"x": -367.14,
+"z": 1832.0,
+"rot": 0.0,
+"group": "Waterfront",
+"y_offset": -8.5
+},
+{
+"model": "G28_seawall",
+"x": -344.29,
+"z": 1832.0,
+"rot": 0.0,
+"group": "Waterfront",
+"y_offset": -8.5
+},
+{
+"model": "G28_seawall",
+"x": -321.43,
+"z": 1832.0,
+"rot": 0.0,
+"group": "Waterfront",
+"y_offset": -8.5
+},
+{
+"model": "G28_seawall",
+"x": -298.57,
+"z": 1832.0,
+"rot": 0.0,
+"group": "Waterfront",
+"y_offset": -8.5
+},
+{
+"model": "G28_seawall",
+"x": -275.71,
+"z": 1832.0,
+"rot": 0.0,
+"group": "Waterfront",
+"y_offset": -8.5
+},
+{
+"model": "G28_seawall",
+"x": -252.86,
+"z": 1832.0,
+"rot": 0.0,
+"group": "Waterfront",
+"y_offset": -8.5
+},
+{
+"model": "G28_seawall",
+"x": -230.0,
+"z": 1832.0,
+"rot": 0.0,
+"group": "Waterfront",
+"y_offset": -8.5
+},
+{
+"model": "G28_seawall",
+"x": -207.14,
+"z": 1832.0,
+"rot": 0.0,
+"group": "Waterfront",
+"y_offset": -8.5
+},
+{
+"model": "G28_seawall",
+"x": -184.29,
+"z": 1832.0,
+"rot": 0.0,
+"group": "Waterfront",
+"y_offset": -8.5
+},
+{
+"model": "G28_seawall",
+"x": -161.43,
+"z": 1832.0,
+"rot": 0.0,
+"group": "Waterfront",
+"y_offset": -8.5
+},
+{
+"model": "G01_pier_straight",
+"x": -530,
+"z": 1850,
+"rot": 0,
+"group": "Piers",
+"y_offset": -5.0
+},
+{
+"model": "G01_pier_straight",
+"x": -530,
+"z": 1874,
+"rot": 0,
+"group": "Piers",
+"y_offset": -5.0
+},
+{
+"model": "G01_pier_straight",
+"x": -530,
+"z": 1898,
+"rot": 0,
+"group": "Piers",
+"y_offset": -5.0
+},
+{
+"model": "G03_pier_end",
+"x": -530,
+"z": 1924,
+"rot": 0,
+"group": "Piers",
+"y_offset": -5.0
+},
+{
+"model": "G31_mooring_bollard",
+"x": -525,
+"z": 1854,
+"rot": 90,
+"group": "Piers",
+"y_offset": 4.7
+},
+{
+"model": "G31_mooring_bollard",
+"x": -525,
+"z": 1902,
+"rot": 90,
+"group": "Piers",
+"y_offset": 4.7
+},
+{
+"model": "G01_pier_straight",
+"x": -390,
+"z": 1850,
+"rot": 0,
+"group": "Piers",
+"y_offset": -5.0
+},
+{
+"model": "G01_pier_straight",
+"x": -390,
+"z": 1874,
+"rot": 0,
+"group": "Piers",
+"y_offset": -5.0
+},
+{
+"model": "G01_pier_straight",
+"x": -390,
+"z": 1898,
+"rot": 0,
+"group": "Piers",
+"y_offset": -5.0
+},
+{
+"model": "G03_pier_end",
+"x": -390,
+"z": 1924,
+"rot": 0,
+"group": "Piers",
+"y_offset": -5.0
+},
+{
+"model": "G31_mooring_bollard",
+"x": -385,
+"z": 1854,
+"rot": 90,
+"group": "Piers",
+"y_offset": 4.7
+},
+{
+"model": "G31_mooring_bollard",
+"x": -385,
+"z": 1902,
+"rot": 90,
+"group": "Piers",
+"y_offset": 4.7
+},
+{
+"model": "G01_pier_straight",
+"x": -250,
+"z": 1850,
+"rot": 0,
+"group": "Piers",
+"y_offset": -5.0
+},
+{
+"model": "G01_pier_straight",
+"x": -250,
+"z": 1874,
+"rot": 0,
+"group": "Piers",
+"y_offset": -5.0
+},
+{
+"model": "G01_pier_straight",
+"x": -250,
+"z": 1898,
+"rot": 0,
+"group": "Piers",
+"y_offset": -5.0
+},
+{
+"model": "G03_pier_end",
+"x": -250,
+"z": 1924,
+"rot": 0,
+"group": "Piers",
+"y_offset": -5.0
+},
+{
+"model": "G31_mooring_bollard",
+"x": -245,
+"z": 1854,
+"rot": 90,
+"group": "Piers",
+"y_offset": 4.7
+},
+{
+"model": "G31_mooring_bollard",
+"x": -245,
+"z": 1902,
+"rot": 90,
+"group": "Piers",
+"y_offset": 4.7
+},
+{
+"model": "G06_galleon",
+"x": -367,
+"z": 1892,
+"rot": 90,
+"group": "Ships",
+"y_offset": -7.0
+},
+{
+"model": "G07_merchant_ship",
+"x": -271,
+"z": 1890,
+"rot": 270,
+"group": "Ships",
+"y_offset": -6.0
+},
+{
+"model": "G08_fishing_boat_1",
+"x": -509,
+"z": 1868,
+"rot": 90,
+"group": "Ships",
+"y_offset": -2.5
+},
+{
+"model": "G09_fishing_boat_2",
+"x": -551,
+"z": 1898,
+"rot": 270,
+"group": "Ships",
+"y_offset": -2.5
+},
+{
+"model": "G10_rowboat",
+"x": -460,
+"z": 1850,
+"rot": 26.1,
+"group": "Ships",
+"y_offset": -0.6
+},
+{
+"model": "G10_rowboat",
+"x": -320,
+"z": 1855,
+"rot": 147.6,
+"group": "Ships",
+"y_offset": -0.6
+},
+{
+"model": "G10_rowboat",
+"x": -180,
+"z": 1848,
+"rot": 356.5,
+"group": "Ships",
+"y_offset": -0.6
+},
+{
+"model": "G10_rowboat",
+"x": -600,
+"z": 1850,
+"rot": 83.1,
+"group": "Ships",
+"y_offset": -0.6
+},
+{
+"model": "G20_buoy",
+"x": -460,
+"z": 1960,
+"rot": 0,
+"group": "Ships",
+"y_offset": -2.0
+},
+{
+"model": "G20_buoy",
+"x": -300,
+"z": 1975,
+"rot": 0,
+"group": "Ships",
+"y_offset": -2.0
+},
+{
+"model": "G20_buoy",
+"x": -580,
+"z": 1950,
+"rot": 0,
+"group": "Ships",
+"y_offset": -2.0
+},
+{
+"model": "G20_buoy",
+"x": -200,
+"z": 1945,
+"rot": 0,
+"group": "Ships",
+"y_offset": -2.0
+},
+{
+"model": "G16_cargo_crane",
+"x": -325,
+"z": 1818,
+"rot": 180,
+"group": "Waterfront"
+},
+{
+"model": "G16_cargo_crane",
+"x": -455,
+"z": 1818,
+"rot": 180,
+"group": "Waterfront"
+},
+{
+"model": "G17_net_rack",
+"x": -600,
+"z": 1816,
+"rot": 0,
+"group": "Waterfront"
+},
+{
+"model": "G17_net_rack",
+"x": -560,
+"z": 1816,
+"rot": 0,
+"group": "Waterfront"
+},
+{
+"model": "G17_net_rack",
+"x": -490,
+"z": 1816,
+"rot": 0,
+"group": "Waterfront"
+},
+{
+"model": "G17_net_rack",
+"x": -300,
+"z": 1816,
+"rot": 0,
+"group": "Waterfront"
+},
+{
+"model": "G15_fish_market_stall",
+"x": -235,
+"z": 1816,
+"rot": 0,
+"group": "Waterfront"
+},
+{
+"model": "G17_net_rack",
+"x": -190,
+"z": 1816,
+"rot": 0,
+"group": "Waterfront"
+},
+{
+"model": "G33_cargo_pallet",
+"x": -615.05,
+"z": 1822.22,
+"rot": 302.2,
+"group": "Waterfront"
+},
+{
+"model": "G21_lobster_trap",
+"x": -595.03,
+"z": 1823.69,
+"rot": 237.4,
+"group": "Waterfront"
+},
+{
+"model": "G19_anchor",
+"x": -568.49,
+"z": 1821.34,
+"rot": 136.1,
+"group": "Waterfront"
+},
+{
+"model": "G18_rope_coil",
+"x": -545.14,
+"z": 1823.04,
+"rot": 340.7,
+"group": "Waterfront"
+},
+{
+"model": "G19_anchor",
+"x": -521.45,
+"z": 1821.5,
+"rot": 236.0,
+"group": "Waterfront"
+},
+{
+"model": "G33_cargo_pallet",
+"x": -498.83,
+"z": 1822.16,
+"rot": 335.7,
+"group": "Waterfront"
+},
+{
+"model": "G33_cargo_pallet",
+"x": -477.6,
+"z": 1820.71,
+"rot": 157.0,
+"group": "Waterfront"
+},
+{
+"model": "G18_rope_coil",
+"x": -421.83,
+"z": 1821.87,
+"rot": 305.7,
+"group": "Waterfront"
+},
+{
+"model": "A71_barrel",
+"x": -395.29,
+"z": 1820.49,
+"rot": 60.4,
+"group": "Waterfront"
+},
+{
+"model": "G33_cargo_pallet",
+"x": -377.25,
+"z": 1823.79,
+"rot": 173.4,
+"group": "Waterfront"
+},
+{
+"model": "G21_lobster_trap",
+"x": -350.34,
+"z": 1824.63,
+"rot": 179.1,
+"group": "Waterfront"
+},
+{
+"model": "A71_barrel",
+"x": -306.17,
+"z": 1820.46,
+"rot": 103.2,
+"group": "Waterfront"
+},
+{
+"model": "A74_crate_large",
+"x": -277.38,
+"z": 1820.45,
+"rot": 298.0,
+"group": "Waterfront"
+},
+{
+"model": "A74_crate_large",
+"x": -258.83,
+"z": 1823.87,
+"rot": 259.3,
+"group": "Waterfront"
+},
+{
+"model": "A71_barrel",
+"x": -230.38,
+"z": 1824.49,
+"rot": 116.0,
+"group": "Waterfront"
+},
+{
+"model": "G18_rope_coil",
+"x": -209.51,
+"z": 1820.44,
+"rot": 1.7,
+"group": "Waterfront"
+},
+{
+"model": "G19_anchor",
+"x": -181.82,
+"z": 1823.58,
+"rot": 124.1,
+"group": "Waterfront"
+},
+{
+"model": "G11_lighthouse",
+"x": -75,
+"z": 1880,
+"rot": 200,
+"group": "Headlands"
+},
+{
+"model": "G23_harbour_fort",
+"x": -700,
+"z": 1870,
+"rot": 160,
+"group": "Headlands"
+},
+{
+"model": "G22_cannon",
+"x": -715,
+"z": 1905,
+"rot": 170,
+"group": "Headlands"
+},
+{
+"model": "G22_cannon",
+"x": -685,
+"z": 1910,
+"rot": 170,
+"group": "Headlands"
+},
+{
+"model": "G22_cannon",
+"x": -728,
+"z": 1890,
+"rot": 170,
+"group": "Headlands"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -408.7,
+"z": 1406.27,
+"rot": 90.0,
+"group": "MainStreet"
+},
+{
+"model": "G27_harbour_tavern",
+"x": -412.57,
+"z": 1427.05,
+"rot": 90.0,
+"group": "MainStreet"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -407.76,
+"z": 1450.38,
+"rot": 90.0,
+"group": "MainStreet"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -408.7,
+"z": 1467.81,
+"rot": 90.0,
+"group": "MainStreet"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -407.63,
+"z": 1482.68,
+"rot": 90.0,
+"group": "MainStreet"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -407.76,
+"z": 1499.77,
+"rot": 90.0,
+"group": "MainStreet"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -408.7,
+"z": 1537.57,
+"rot": 90.0,
+"group": "MainStreet"
+},
+{
+"model": "G27_harbour_tavern",
+"x": -412.57,
+"z": 1557.25,
+"rot": 90.0,
+"group": "MainStreet"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -407.63,
+"z": 1632.24,
+"rot": 90.0,
+"group": "MainStreet"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -407.76,
+"z": 1670.55,
+"rot": 90.0,
+"group": "MainStreet"
+},
+{
+"model": "G27_harbour_tavern",
+"x": -412.57,
+"z": 1692.81,
+"rot": 90.0,
+"group": "MainStreet"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -408.7,
+"z": 1714.0,
+"rot": 90.0,
+"group": "MainStreet"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -407.76,
+"z": 1732.3,
+"rot": 90.0,
+"group": "MainStreet"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -630.82,
+"z": 1535.77,
+"rot": 180.0,
+"group": "Street_1520"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -613.14,
+"z": 1536.7,
+"rot": 180.0,
+"group": "Street_1520"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -598.91,
+"z": 1535.63,
+"rot": 180.0,
+"group": "Street_1520"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -580.66,
+"z": 1535.77,
+"rot": 180.0,
+"group": "Street_1520"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -561.24,
+"z": 1536.7,
+"rot": 180.0,
+"group": "Street_1520"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -520.84,
+"z": 1535.63,
+"rot": 180.0,
+"group": "Street_1520"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -502.58,
+"z": 1535.77,
+"rot": 180.0,
+"group": "Street_1520"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -484.91,
+"z": 1536.7,
+"rot": 180.0,
+"group": "Street_1520"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -469.5,
+"z": 1535.63,
+"rot": 180.0,
+"group": "Street_1520"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -450.65,
+"z": 1535.77,
+"rot": 180.0,
+"group": "Street_1520"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -432.14,
+"z": 1536.7,
+"rot": 180.0,
+"group": "Street_1520"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -372.66,
+"z": 1535.63,
+"rot": 180.0,
+"group": "Street_1520"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -354.21,
+"z": 1535.77,
+"rot": 180.0,
+"group": "Street_1520"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -336.02,
+"z": 1536.7,
+"rot": 180.0,
+"group": "Street_1520"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -320.52,
+"z": 1535.63,
+"rot": 180.0,
+"group": "Street_1520"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -302.31,
+"z": 1535.77,
+"rot": 180.0,
+"group": "Street_1520"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -283.88,
+"z": 1536.7,
+"rot": 180.0,
+"group": "Street_1520"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -268.73,
+"z": 1535.63,
+"rot": 180.0,
+"group": "Street_1520"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -226.32,
+"z": 1535.77,
+"rot": 180.0,
+"group": "Street_1520"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -207.67,
+"z": 1536.7,
+"rot": 180.0,
+"group": "Street_1520"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -193.08,
+"z": 1535.63,
+"rot": 180.0,
+"group": "Street_1520"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -174.22,
+"z": 1535.77,
+"rot": 180.0,
+"group": "Street_1520"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -156.06,
+"z": 1536.7,
+"rot": 180.0,
+"group": "Street_1520"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -634.2,
+"z": 1665.63,
+"rot": 180.0,
+"group": "Street_1650"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -615.88,
+"z": 1665.77,
+"rot": 180.0,
+"group": "Street_1650"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -598.34,
+"z": 1666.7,
+"rot": 180.0,
+"group": "Street_1650"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -583.39,
+"z": 1665.63,
+"rot": 180.0,
+"group": "Street_1650"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -565.91,
+"z": 1665.77,
+"rot": 180.0,
+"group": "Street_1650"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -522.13,
+"z": 1666.7,
+"rot": 180.0,
+"group": "Street_1650"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -507.86,
+"z": 1665.63,
+"rot": 180.0,
+"group": "Street_1650"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -488.88,
+"z": 1665.77,
+"rot": 180.0,
+"group": "Street_1650"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -470.52,
+"z": 1666.7,
+"rot": 180.0,
+"group": "Street_1650"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -456.05,
+"z": 1665.63,
+"rot": 180.0,
+"group": "Street_1650"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -438.74,
+"z": 1665.77,
+"rot": 180.0,
+"group": "Street_1650"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -370.59,
+"z": 1666.7,
+"rot": 180.0,
+"group": "Street_1650"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -355.55,
+"z": 1665.63,
+"rot": 180.0,
+"group": "Street_1650"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -338.57,
+"z": 1665.77,
+"rot": 180.0,
+"group": "Street_1650"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -319.55,
+"z": 1666.7,
+"rot": 180.0,
+"group": "Street_1650"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -304.68,
+"z": 1665.63,
+"rot": 180.0,
+"group": "Street_1650"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -286.43,
+"z": 1665.77,
+"rot": 180.0,
+"group": "Street_1650"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -267.09,
+"z": 1666.7,
+"rot": 180.0,
+"group": "Street_1650"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -227.48,
+"z": 1665.63,
+"rot": 180.0,
+"group": "Street_1650"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -210.12,
+"z": 1665.77,
+"rot": 180.0,
+"group": "Street_1650"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -192.62,
+"z": 1666.7,
+"rot": 180.0,
+"group": "Street_1650"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -177.64,
+"z": 1665.63,
+"rot": 180.0,
+"group": "Street_1650"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -160.31,
+"z": 1665.77,
+"rot": 180.0,
+"group": "Street_1650"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -551.76,
+"z": 1479.18,
+"rot": 90.0,
+"group": "Lanes"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -552.7,
+"z": 1498.15,
+"rot": 90.0,
+"group": "Lanes"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -551.63,
+"z": 1554.4,
+"rot": 90.0,
+"group": "Lanes"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -551.76,
+"z": 1572.89,
+"rot": 90.0,
+"group": "Lanes"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -552.7,
+"z": 1590.98,
+"rot": 90.0,
+"group": "Lanes"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -551.63,
+"z": 1605.32,
+"rot": 90.0,
+"group": "Lanes"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -551.76,
+"z": 1624.39,
+"rot": 90.0,
+"group": "Lanes"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -552.7,
+"z": 1679.71,
+"rot": 90.0,
+"group": "Lanes"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -551.63,
+"z": 1694.75,
+"rot": 90.0,
+"group": "Lanes"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -551.76,
+"z": 1711.77,
+"rot": 90.0,
+"group": "Lanes"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -552.7,
+"z": 1729.85,
+"rot": 90.0,
+"group": "Lanes"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -551.63,
+"z": 1745.02,
+"rot": 90.0,
+"group": "Lanes"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -258.7,
+"z": 1476.27,
+"rot": 90.0,
+"group": "Lanes"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -257.76,
+"z": 1495.96,
+"rot": 90.0,
+"group": "Lanes"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -257.63,
+"z": 1550.54,
+"rot": 90.0,
+"group": "Lanes"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -258.7,
+"z": 1566.18,
+"rot": 90.0,
+"group": "Lanes"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -257.76,
+"z": 1585.77,
+"rot": 90.0,
+"group": "Lanes"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -257.63,
+"z": 1605.57,
+"rot": 90.0,
+"group": "Lanes"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -258.7,
+"z": 1621.67,
+"rot": 90.0,
+"group": "Lanes"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -257.76,
+"z": 1687.01,
+"rot": 90.0,
+"group": "Lanes"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -257.63,
+"z": 1704.25,
+"rot": 90.0,
+"group": "Lanes"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -258.7,
+"z": 1719.41,
+"rot": 90.0,
+"group": "Lanes"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -257.76,
+"z": 1738.59,
+"rot": 90.0,
+"group": "Lanes"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -371.3,
+"z": 1406.27,
+"rot": 270.0,
+"group": "MainStreet"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -372.24,
+"z": 1424.89,
+"rot": 270.0,
+"group": "MainStreet"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -372.37,
+"z": 1443.05,
+"rot": 270.0,
+"group": "MainStreet"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -371.3,
+"z": 1458.59,
+"rot": 270.0,
+"group": "MainStreet"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -372.24,
+"z": 1477.05,
+"rot": 270.0,
+"group": "MainStreet"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -372.37,
+"z": 1493.85,
+"rot": 270.0,
+"group": "MainStreet"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -371.3,
+"z": 1553.28,
+"rot": 270.0,
+"group": "MainStreet"
+},
+{
+"model": "G27_harbour_tavern",
+"x": -367.43,
+"z": 1687.84,
+"rot": 270.0,
+"group": "MainStreet"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -372.37,
+"z": 1707.99,
+"rot": 270.0,
+"group": "MainStreet"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -371.3,
+"z": 1721.96,
+"rot": 270.0,
+"group": "MainStreet"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -372.24,
+"z": 1740.43,
+"rot": 270.0,
+"group": "MainStreet"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -633.73,
+"z": 1503.3,
+"rot": 0.0,
+"group": "Street_1520"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -618.38,
+"z": 1504.37,
+"rot": 0.0,
+"group": "Street_1520"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -600.78,
+"z": 1504.23,
+"rot": 0.0,
+"group": "Street_1520"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -582.8,
+"z": 1503.3,
+"rot": 0.0,
+"group": "Street_1520"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -568.3,
+"z": 1504.37,
+"rot": 0.0,
+"group": "Street_1520"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -519.44,
+"z": 1504.23,
+"rot": 0.0,
+"group": "Street_1520"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -500.45,
+"z": 1503.3,
+"rot": 0.0,
+"group": "Street_1520"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -485.98,
+"z": 1504.37,
+"rot": 0.0,
+"group": "Street_1520"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -468.58,
+"z": 1504.23,
+"rot": 0.0,
+"group": "Street_1520"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -450.58,
+"z": 1503.3,
+"rot": 0.0,
+"group": "Street_1520"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -435.0,
+"z": 1504.37,
+"rot": 0.0,
+"group": "Street_1520"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -351.76,
+"z": 1504.23,
+"rot": 0.0,
+"group": "Street_1520"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -332.82,
+"z": 1503.3,
+"rot": 0.0,
+"group": "Street_1520"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -317.43,
+"z": 1504.37,
+"rot": 0.0,
+"group": "Street_1520"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -299.62,
+"z": 1504.23,
+"rot": 0.0,
+"group": "Street_1520"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -280.66,
+"z": 1503.3,
+"rot": 0.0,
+"group": "Street_1520"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -229.95,
+"z": 1504.37,
+"rot": 0.0,
+"group": "Street_1520"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -211.84,
+"z": 1504.23,
+"rot": 0.0,
+"group": "Street_1520"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -193.76,
+"z": 1503.3,
+"rot": 0.0,
+"group": "Street_1520"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -179.08,
+"z": 1504.37,
+"rot": 0.0,
+"group": "Street_1520"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -161.33,
+"z": 1504.23,
+"rot": 0.0,
+"group": "Street_1520"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -630.82,
+"z": 1634.23,
+"rot": 0.0,
+"group": "Street_1650"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -613.02,
+"z": 1633.3,
+"rot": 0.0,
+"group": "Street_1650"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -598.34,
+"z": 1634.37,
+"rot": 0.0,
+"group": "Street_1650"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -580.04,
+"z": 1634.23,
+"rot": 0.0,
+"group": "Street_1650"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -522.35,
+"z": 1633.3,
+"rot": 0.0,
+"group": "Street_1650"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -506.88,
+"z": 1634.37,
+"rot": 0.0,
+"group": "Street_1650"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -489.0,
+"z": 1634.23,
+"rot": 0.0,
+"group": "Street_1650"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -470.85,
+"z": 1633.3,
+"rot": 0.0,
+"group": "Street_1650"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -456.0,
+"z": 1634.37,
+"rot": 0.0,
+"group": "Street_1650"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -437.9,
+"z": 1634.23,
+"rot": 0.0,
+"group": "Street_1650"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -369.59,
+"z": 1633.3,
+"rot": 0.0,
+"group": "Street_1650"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -354.56,
+"z": 1634.37,
+"rot": 0.0,
+"group": "Street_1650"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -336.56,
+"z": 1634.23,
+"rot": 0.0,
+"group": "Street_1650"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -318.89,
+"z": 1633.3,
+"rot": 0.0,
+"group": "Street_1650"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -303.32,
+"z": 1634.37,
+"rot": 0.0,
+"group": "Street_1650"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -284.48,
+"z": 1634.23,
+"rot": 0.0,
+"group": "Street_1650"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -225.89,
+"z": 1633.3,
+"rot": 0.0,
+"group": "Street_1650"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -210.69,
+"z": 1634.37,
+"rot": 0.0,
+"group": "Street_1650"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -192.98,
+"z": 1634.23,
+"rot": 0.0,
+"group": "Street_1650"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -175.53,
+"z": 1633.3,
+"rot": 0.0,
+"group": "Street_1650"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -161.07,
+"z": 1634.37,
+"rot": 0.0,
+"group": "Street_1650"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -521.3,
+"z": 1476.27,
+"rot": 270.0,
+"group": "Lanes"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -522.37,
+"z": 1553.06,
+"rot": 270.0,
+"group": "Lanes"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -522.24,
+"z": 1572.9,
+"rot": 270.0,
+"group": "Lanes"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -521.3,
+"z": 1591.25,
+"rot": 270.0,
+"group": "Lanes"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -522.37,
+"z": 1608.16,
+"rot": 270.0,
+"group": "Lanes"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -522.24,
+"z": 1685.94,
+"rot": 270.0,
+"group": "Lanes"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -521.3,
+"z": 1704.57,
+"rot": 270.0,
+"group": "Lanes"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -522.37,
+"z": 1719.83,
+"rot": 270.0,
+"group": "Lanes"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -522.24,
+"z": 1738.64,
+"rot": 270.0,
+"group": "Lanes"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -227.3,
+"z": 1476.27,
+"rot": 270.0,
+"group": "Lanes"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -228.24,
+"z": 1555.77,
+"rot": 270.0,
+"group": "Lanes"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -228.37,
+"z": 1573.69,
+"rot": 270.0,
+"group": "Lanes"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -227.3,
+"z": 1588.87,
+"rot": 270.0,
+"group": "Lanes"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -228.24,
+"z": 1606.56,
+"rot": 270.0,
+"group": "Lanes"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -228.37,
+"z": 1681.51,
+"rot": 270.0,
+"group": "Lanes"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -227.3,
+"z": 1696.03,
+"rot": 270.0,
+"group": "Lanes"
+},
+{
+"model": "G24_harbour_house_1",
+"x": -228.24,
+"z": 1715.32,
+"rot": 270.0,
+"group": "Lanes"
+},
+{
+"model": "G26_harbour_house_3",
+"x": -228.37,
+"z": 1734.79,
+"rot": 270.0,
+"group": "Lanes"
+},
+{
+"model": "G25_harbour_house_2",
+"x": -227.3,
+"z": 1749.28,
+"rot": 270.0,
+"group": "Lanes"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -397.3,
+"z": 1406.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -382.7,
+"z": 1444.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -397.3,
+"z": 1482.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -382.7,
+"z": 1520.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -397.3,
+"z": 1558.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -382.7,
+"z": 1596.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -397.3,
+"z": 1634.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -382.7,
+"z": 1672.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -397.3,
+"z": 1710.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -382.7,
+"z": 1748.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -397.3,
+"z": 1786.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -626.0,
+"z": 1527.3,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -588.0,
+"z": 1512.7,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -550.0,
+"z": 1527.3,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -512.0,
+"z": 1512.7,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -474.0,
+"z": 1527.3,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -436.0,
+"z": 1512.7,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -398.0,
+"z": 1527.3,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -360.0,
+"z": 1512.7,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -322.0,
+"z": 1527.3,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -284.0,
+"z": 1512.7,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -246.0,
+"z": 1527.3,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -208.0,
+"z": 1512.7,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -170.0,
+"z": 1527.3,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -626.0,
+"z": 1657.3,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -588.0,
+"z": 1642.7,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -550.0,
+"z": 1657.3,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -512.0,
+"z": 1642.7,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -474.0,
+"z": 1657.3,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -436.0,
+"z": 1642.7,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -398.0,
+"z": 1657.3,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -360.0,
+"z": 1642.7,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -322.0,
+"z": 1657.3,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -284.0,
+"z": 1642.7,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -246.0,
+"z": 1657.3,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -208.0,
+"z": 1642.7,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -170.0,
+"z": 1657.3,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -529.7,
+"z": 1522.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -544.3,
+"z": 1636.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -529.7,
+"z": 1750.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -544.3,
+"z": 1788.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -250.3,
+"z": 1484.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -235.7,
+"z": 1522.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -250.3,
+"z": 1636.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -235.7,
+"z": 1674.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -250.3,
+"z": 1788.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A25_oak_2",
+"x": -303.93,
+"z": 1710.01,
+"rot": 213.3,
+"group": "Gardens",
+"scale": 1.004
+},
+{
+"model": "A34_fruit_tree",
+"x": -460.16,
+"z": 1471.83,
+"rot": 96.9,
+"group": "Gardens",
+"scale": 0.935
+},
+{
+"model": "A28_birch_2",
+"x": -223.54,
+"z": 1405.07,
+"rot": 331.8,
+"group": "Gardens",
+"scale": 0.926
+},
+{
+"model": "A27_birch_1",
+"x": -431.8,
+"z": 1380.13,
+"rot": 354.4,
+"group": "Gardens",
+"scale": 0.982
+},
+{
+"model": "A25_oak_2",
+"x": -188.85,
+"z": 1415.16,
+"rot": 138.1,
+"group": "Gardens",
+"scale": 1.09
+},
+{
+"model": "A24_oak_1",
+"x": -478.89,
+"z": 1701.65,
+"rot": 113.9,
+"group": "Gardens",
+"scale": 0.877
+},
+{
+"model": "A34_fruit_tree",
+"x": -434.16,
+"z": 1721.98,
+"rot": 250.9,
+"group": "Gardens",
+"scale": 0.822
+},
+{
+"model": "A25_oak_2",
+"x": -109.35,
+"z": 1479.54,
+"rot": 323.0,
+"group": "Gardens",
+"scale": 1.074
+},
+{
+"model": "A26_oak_3",
+"x": -582.59,
+"z": 1684.93,
+"rot": 100.2,
+"group": "Gardens",
+"scale": 0.819
+},
+{
+"model": "A25_oak_2",
+"x": -474.23,
+"z": 1394.25,
+"rot": 233.1,
+"group": "Gardens"
+},
+{
+"model": "A28_birch_2",
+"x": -98.23,
+"z": 1587.22,
+"rot": 15.7,
+"group": "Gardens",
+"scale": 0.828
+},
+{
+"model": "A28_birch_2",
+"x": -686.99,
+"z": 1562.76,
+"rot": 93.6,
+"group": "Gardens",
+"scale": 0.807
+},
+{
+"model": "A28_birch_2",
+"x": -285.93,
+"z": 1375.55,
+"rot": 168.0,
+"group": "Gardens",
+"scale": 1.086
+},
+{
+"model": "A25_oak_2",
+"x": -675.26,
+"z": 1503.33,
+"rot": 125.3,
+"group": "Gardens",
+"scale": 1.007
+},
+{
+"model": "A25_oak_2",
+"x": -198.76,
+"z": 1460.66,
+"rot": 189.0,
+"group": "Gardens",
+"scale": 1.041
+},
+{
+"model": "A24_oak_1",
+"x": -646.48,
+"z": 1599.73,
+"rot": 214.9,
+"group": "Gardens",
+"scale": 0.765
+},
+{
+"model": "A34_fruit_tree",
+"x": -599.99,
+"z": 1562.99,
+"rot": 175.6,
+"group": "Gardens",
+"scale": 0.821
+},
+{
+"model": "A26_oak_3",
+"x": -628.12,
+"z": 1728.11,
+"rot": 145.3,
+"group": "Gardens",
+"scale": 0.867
+},
+{
+"model": "A34_fruit_tree",
+"x": -626.78,
+"z": 1468.2,
+"rot": 245.4,
+"group": "Gardens",
+"scale": 1.004
+},
+{
+"model": "A26_oak_3",
+"x": -655.73,
+"z": 1455.3,
+"rot": 30.4,
+"group": "Gardens",
+"scale": 0.976
+},
+{
+"model": "A27_birch_1",
+"x": -342.65,
+"z": 1453.98,
+"rot": 38.2,
+"group": "Gardens",
+"scale": 0.88
+},
+{
+"model": "A27_birch_1",
+"x": -151.42,
+"z": 1738.56,
+"rot": 166.6,
+"group": "Gardens",
+"scale": 0.914
+},
+{
+"model": "A28_birch_2",
+"x": -480.95,
+"z": 1763.74,
+"rot": 355.6,
+"group": "Gardens",
+"scale": 0.935
+},
+{
+"model": "A28_birch_2",
+"x": -591.64,
+"z": 1476.03,
+"rot": 154.4,
+"group": "Gardens",
+"scale": 0.772
+},
+{
+"model": "A28_birch_2",
+"x": -623.53,
+"z": 1573.79,
+"rot": 56.6,
+"group": "Gardens",
+"scale": 1.04
+},
+{
+"model": "A25_oak_2",
+"x": -659.77,
+"z": 1689.4,
+"rot": 293.5,
+"group": "Gardens",
+"scale": 0.919
+},
+{
+"model": "A25_oak_2",
+"x": -324.66,
+"z": 1568.92,
+"rot": 79.3,
+"group": "Gardens",
+"scale": 0.844
+},
+{
+"model": "A34_fruit_tree",
+"x": -285.31,
+"z": 1605.64,
+"rot": 66.7,
+"group": "Gardens",
+"scale": 0.842
+},
+{
+"model": "A27_birch_1",
+"x": -331.36,
+"z": 1737.29,
+"rot": 246.5,
+"group": "Gardens",
+"scale": 0.986
+},
+{
+"model": "A32_maple_autumn",
+"x": -122.66,
+"z": 1542.06,
+"rot": 237.3,
+"group": "Gardens",
+"scale": 0.958
+},
+{
+"model": "A39_bush_2",
+"x": -429.54,
+"z": 1404.32,
+"rot": 325.7,
+"group": "Gardens",
+"scale": 1.21
+},
+{
+"model": "A39_bush_2",
+"x": -126.94,
+"z": 1684.85,
+"rot": 287.6,
+"group": "Gardens",
+"scale": 1.024
+},
+{
+"model": "A38_bush_1",
+"x": -118.57,
+"z": 1643.74,
+"rot": 258.5,
+"group": "Gardens",
+"scale": 1.082
+},
+{
+"model": "A40_bush_3",
+"x": -211.08,
+"z": 1593.73,
+"rot": 166.4,
+"group": "Gardens",
+"scale": 1.078
+},
+{
+"model": "A39_bush_2",
+"x": -570.37,
+"z": 1451.37,
+"rot": 275.4,
+"group": "Gardens",
+"scale": 1.169
+},
+{
+"model": "A40_bush_3",
+"x": -263.59,
+"z": 1399.46,
+"rot": 266.9,
+"group": "Gardens",
+"scale": 1.126
+},
+{
+"model": "A39_bush_2",
+"x": -519.36,
+"z": 1438.18,
+"rot": 317.2,
+"group": "Gardens",
+"scale": 0.805
+},
+{
+"model": "A40_bush_3",
+"x": -147.64,
+"z": 1692.23,
+"rot": 283.1,
+"group": "Gardens",
+"scale": 1.096
+},
+{
+"model": "A39_bush_2",
+"x": -296.72,
+"z": 1422.3,
+"rot": 109.1,
+"group": "Gardens",
+"scale": 0.875
+},
+{
+"model": "A40_bush_3",
+"x": -479.66,
+"z": 1427.59,
+"rot": 265.4,
+"group": "Gardens",
+"scale": 0.912
+},
+{
+"model": "A38_bush_1",
+"x": -298.23,
+"z": 1449.34,
+"rot": 304.3,
+"group": "Gardens",
+"scale": 1.181
+},
+{
+"model": "A40_bush_3",
+"x": -263.28,
+"z": 1459.21,
+"rot": 97.5,
+"group": "Gardens",
+"scale": 0.876
+},
+{
+"model": "A38_bush_1",
+"x": -537.54,
+"z": 1402.29,
+"rot": 38.4,
+"group": "Gardens",
+"scale": 1.206
+},
+{
+"model": "A40_bush_3",
+"x": -442.76,
+"z": 1610.6,
+"rot": 72.5,
+"group": "Gardens",
+"scale": 1.121
+},
+{
+"model": "A38_bush_1",
+"x": -459.62,
+"z": 1771.47,
+"rot": 60.0,
+"group": "Gardens",
+"scale": 0.83
+},
+{
+"model": "A38_bush_1",
+"x": -546.31,
+"z": 1443.01,
+"rot": 353.7,
+"group": "Gardens",
+"scale": 0.947
+},
+{
+"model": "A40_bush_3",
+"x": -688.73,
+"z": 1623.33,
+"rot": 260.4,
+"group": "Gardens",
+"scale": 1.202
+},
+{
+"model": "A39_bush_2",
+"x": -208.04,
+"z": 1576.41,
+"rot": 28.3,
+"group": "Gardens",
+"scale": 0.938
+},
+{
+"model": "A39_bush_2",
+"x": -484.57,
+"z": 1611.48,
+"rot": 93.5,
+"group": "Gardens",
+"scale": 0.971
+},
+{
+"model": "A38_bush_1",
+"x": -645.11,
+"z": 1735.88,
+"rot": 218.0,
+"group": "Gardens",
+"scale": 1.041
+},
+{
+"model": "A38_bush_1",
+"x": -130.39,
+"z": 1583.33,
+"rot": 231.1,
+"group": "Gardens",
+"scale": 0.898
+},
+{
+"model": "A40_bush_3",
+"x": -666.29,
+"z": 1584.72,
+"rot": 93.5,
+"group": "Gardens",
+"scale": 0.92
+},
+{
+"model": "A38_bush_1",
+"x": -483.66,
+"z": 1468.51,
+"rot": 6.6,
+"group": "Gardens",
+"scale": 0.804
+},
+{
+"model": "A38_bush_1",
+"x": -188.66,
+"z": 1483.96,
+"rot": 2.4,
+"group": "Gardens",
+"scale": 0.954
+},
+{
+"model": "A38_bush_1",
+"x": -578.11,
+"z": 1604.32,
+"rot": 107.9,
+"group": "Gardens",
+"scale": 0.86
+},
+{
+"model": "A40_bush_3",
+"x": -298.31,
+"z": 1390.84,
+"rot": 21.5,
+"group": "Gardens",
+"scale": 0.836
+},
+{
+"model": "A38_bush_1",
+"x": -575.15,
+"z": 1593.03,
+"rot": 259.7,
+"group": "Gardens",
+"scale": 1.011
+},
+{
+"model": "A38_bush_1",
+"x": -317.49,
+"z": 1413.04,
+"rot": 158.7,
+"group": "Gardens",
+"scale": 1.2
+},
+{
+"model": "A40_bush_3",
+"x": -471.68,
+"z": 1736.12,
+"rot": 219.3,
+"group": "Gardens",
+"scale": 1.294
+},
+{
+"model": "A39_bush_2",
+"x": -685.9,
+"z": 1547.0,
+"rot": 333.3,
+"group": "Gardens",
+"scale": 1.035
+},
+{
+"model": "A38_bush_1",
+"x": -342.21,
+"z": 1604.72,
+"rot": 230.0,
+"group": "Gardens",
+"scale": 1.196
+},
+{
+"model": "A38_bush_1",
+"x": -602.91,
+"z": 1430.24,
+"rot": 352.1,
+"group": "Gardens",
+"scale": 0.94
+},
+{
+"model": "A40_bush_3",
+"x": -130.36,
+"z": 1454.86,
+"rot": 128.1,
+"group": "Gardens",
+"scale": 1.157
+},
+{
+"model": "A40_bush_3",
+"x": -688.73,
+"z": 1682.3,
+"rot": 347.9,
+"group": "Gardens",
+"scale": 1.128
+},
+{
+"model": "A38_bush_1",
+"x": -613.42,
+"z": 1595.1,
+"rot": 18.0,
+"group": "Gardens",
+"scale": 1.273
+},
+{
+"model": "A39_bush_2",
+"x": -448.24,
+"z": 1429.8,
+"rot": 59.8,
+"group": "Gardens",
+"scale": 1.163
+},
+{
+"model": "A38_bush_1",
+"x": -276.78,
+"z": 1728.08,
+"rot": 267.9,
+"group": "Gardens",
+"scale": 1.031
+},
+{
+"model": "A40_bush_3",
+"x": -479.75,
+"z": 1490.34,
+"rot": 21.8,
+"group": "Gardens",
+"scale": 1.214
+},
+{
+"model": "A38_bush_1",
+"x": -571.59,
+"z": 1716.84,
+"rot": 236.7,
+"group": "Gardens",
+"scale": 0.83
+},
+{
+"model": "A40_bush_3",
+"x": -279.32,
+"z": 1560.56,
+"rot": 261.9,
+"group": "Gardens",
+"scale": 1.291
+},
+{
+"model": "A38_bush_1",
+"x": -646.34,
+"z": 1552.88,
+"rot": 160.4,
+"group": "Gardens",
+"scale": 0.864
+},
+{
+"model": "A40_bush_3",
+"x": -353.06,
+"z": 1401.65,
+"rot": 64.4,
+"group": "Gardens",
+"scale": 0.922
+},
+{
+"model": "A38_bush_1",
+"x": -95.94,
+"z": 1563.12,
+"rot": 64.8,
+"group": "Gardens",
+"scale": 0.979
+},
+{
+"model": "A39_bush_2",
+"x": -491.19,
+"z": 1423.92,
+"rot": 167.3,
+"group": "Gardens",
+"scale": 1.061
+},
+{
+"model": "A38_bush_1",
+"x": -161.32,
+"z": 1470.68,
+"rot": 309.3,
+"group": "Gardens",
+"scale": 1.208
+},
+{
+"model": "A38_bush_1",
+"x": -504.92,
+"z": 1482.88,
+"rot": 314.1,
+"group": "Gardens",
+"scale": 1.197
+},
+{
+"model": "A40_bush_3",
+"x": -323.39,
+"z": 1478.59,
+"rot": 65.5,
+"group": "Gardens",
+"scale": 1.047
+},
+{
+"model": "A39_bush_2",
+"x": -119.68,
+"z": 1667.84,
+"rot": 4.5,
+"group": "Gardens",
+"scale": 1.083
+},
+{
+"model": "A39_bush_2",
+"x": -569.66,
+"z": 1418.02,
+"rot": 131.2,
+"group": "Gardens",
+"scale": 0.918
+},
+{
+"model": "A38_bush_1",
+"x": -316.63,
+"z": 1394.15,
+"rot": 35.0,
+"group": "Gardens",
+"scale": 1.044
+},
+{
+"model": "A39_bush_2",
+"x": -137.62,
+"z": 1571.92,
+"rot": 45.7,
+"group": "Gardens",
+"scale": 0.996
+},
+{
+"model": "A39_bush_2",
+"x": -596.02,
+"z": 1757.89,
+"rot": 194.3,
+"group": "Gardens",
+"scale": 0.943
+},
+{
+"model": "A38_bush_1",
+"x": -163.42,
+"z": 1706.18,
+"rot": 279.4,
+"group": "Gardens",
+"scale": 1.16
+},
+{
+"model": "A38_bush_1",
+"x": -238.51,
+"z": 1383.96,
+"rot": 189.1,
+"group": "Gardens",
+"scale": 0.933
+},
+{
+"model": "A38_bush_1",
+"x": -638.3,
+"z": 1710.54,
+"rot": 131.1,
+"group": "Gardens",
+"scale": 0.903
+},
+{
+"model": "A38_bush_1",
+"x": -351.07,
+"z": 1380.49,
+"rot": 285.4,
+"group": "Gardens",
+"scale": 1.051
+},
+{
+"model": "A40_bush_3",
+"x": -260.88,
+"z": 1415.2,
+"rot": 339.5,
+"group": "Gardens",
+"scale": 1.144
+},
+{
+"model": "A38_bush_1",
+"x": -170.63,
+"z": 1438.56,
+"rot": 121.7,
+"group": "Gardens",
+"scale": 0.969
+},
+{
+"model": "A39_bush_2",
+"x": -326.85,
+"z": 1764.76,
+"rot": 346.6,
+"group": "Gardens",
+"scale": 1.225
+},
+{
+"model": "A40_bush_3",
+"x": -547.96,
+"z": 1413.43,
+"rot": 92.1,
+"group": "Gardens",
+"scale": 1.094
+},
+{
+"model": "A45_flowers_purple",
+"x": -462.28,
+"z": 1454.06,
+"rot": 333.9,
+"group": "Gardens",
+"scale": 0.95
+},
+{
+"model": "A45_flowers_purple",
+"x": -571.69,
+"z": 1472.01,
+"rot": 90.3,
+"group": "Gardens",
+"scale": 0.929
+},
+{
+"model": "A44_flowers_yellow",
+"x": -502.65,
+"z": 1430.78,
+"rot": 346.4,
+"group": "Gardens",
+"scale": 1.237
+},
+{
+"model": "A45_flowers_purple",
+"x": -296.62,
+"z": 1463.06,
+"rot": 257.1,
+"group": "Gardens",
+"scale": 1.159
+},
+{
+"model": "A43_flowers_red",
+"x": -447.44,
+"z": 1380.14,
+"rot": 279.1,
+"group": "Gardens",
+"scale": 1.279
+},
+{
+"model": "A43_flowers_red",
+"x": -142.59,
+"z": 1441.38,
+"rot": 307.2,
+"group": "Gardens",
+"scale": 1.098
+},
+{
+"model": "A45_flowers_purple",
+"x": -154.06,
+"z": 1548.95,
+"rot": 72.6,
+"group": "Gardens",
+"scale": 0.908
+},
+{
+"model": "A44_flowers_yellow",
+"x": -528.49,
+"z": 1463.53,
+"rot": 261.4,
+"group": "Gardens",
+"scale": 1.23
+},
+{
+"model": "A44_flowers_yellow",
+"x": -687.57,
+"z": 1655.57,
+"rot": 103.1,
+"group": "Gardens",
+"scale": 1.143
+},
+{
+"model": "A46_flowers_white",
+"x": -331.01,
+"z": 1783.03,
+"rot": 304.8,
+"group": "Gardens",
+"scale": 1.184
+},
+{
+"model": "A45_flowers_purple",
+"x": -306.49,
+"z": 1431.99,
+"rot": 91.8,
+"group": "Gardens",
+"scale": 1.025
+},
+{
+"model": "A44_flowers_yellow",
+"x": -99.94,
+"z": 1523.81,
+"rot": 324.7,
+"group": "Gardens",
+"scale": 1.231
+},
+{
+"model": "A46_flowers_white",
+"x": -161.14,
+"z": 1550.06,
+"rot": 179.8,
+"group": "Gardens",
+"scale": 1.217
+},
+{
+"model": "A43_flowers_red",
+"x": -229.92,
+"z": 1768.72,
+"rot": 62.9,
+"group": "Gardens",
+"scale": 1.252
+},
+{
+"model": "A45_flowers_purple",
+"x": -575.86,
+"z": 1546.5,
+"rot": 126.0,
+"group": "Gardens",
+"scale": 0.946
+},
+{
+"model": "A46_flowers_white",
+"x": -320.69,
+"z": 1750.94,
+"rot": 87.0,
+"group": "Gardens",
+"scale": 1.039
+},
+{
+"model": "A47_flowers_blue",
+"x": -689.12,
+"z": 1592.99,
+"rot": 261.3,
+"group": "Gardens",
+"scale": 0.941
+},
+{
+"model": "A44_flowers_yellow",
+"x": -503.65,
+"z": 1615.05,
+"rot": 330.5,
+"group": "Gardens",
+"scale": 0.992
+},
+{
+"model": "A46_flowers_white",
+"x": -658.11,
+"z": 1483.38,
+"rot": 108.2,
+"group": "Gardens",
+"scale": 0.94
+},
+{
+"model": "A45_flowers_purple",
+"x": -316.73,
+"z": 1437.44,
+"rot": 169.0,
+"group": "Gardens",
+"scale": 0.928
+},
+{
+"model": "A46_flowers_white",
+"x": -321.2,
+"z": 1377.68,
+"rot": 90.9,
+"group": "Gardens",
+"scale": 0.952
+},
+{
+"model": "A44_flowers_yellow",
+"x": -273.15,
+"z": 1419.61,
+"rot": 36.6,
+"group": "Gardens",
+"scale": 1.039
+},
+{
+"model": "A45_flowers_purple",
+"x": -233.02,
+"z": 1420.07,
+"rot": 358.8,
+"group": "Gardens",
+"scale": 1.257
+},
+{
+"model": "A46_flowers_white",
+"x": -509.46,
+"z": 1448.21,
+"rot": 340.9,
+"group": "Gardens",
+"scale": 1.166
+},
+{
+"model": "A46_flowers_white",
+"x": -671.78,
+"z": 1656.63,
+"rot": 145.8,
+"group": "Gardens",
+"scale": 1.237
+},
+{
+"model": "A43_flowers_red",
+"x": -180.15,
+"z": 1579.02,
+"rot": 257.2,
+"group": "Gardens",
+"scale": 0.946
+},
+{
+"model": "A44_flowers_yellow",
+"x": -590.27,
+"z": 1589.28,
+"rot": 154.4,
+"group": "Gardens",
+"scale": 1.139
+},
+{
+"model": "A44_flowers_yellow",
+"x": -144.2,
+"z": 1494.86,
+"rot": 63.9,
+"group": "Gardens",
+"scale": 1.066
+},
+{
+"model": "A45_flowers_purple",
+"x": -473.41,
+"z": 1467.44,
+"rot": 50.1,
+"group": "Gardens",
+"scale": 1.241
+},
+{
+"model": "A46_flowers_white",
+"x": -489.14,
+"z": 1560.76,
+"rot": 112.3,
+"group": "Gardens",
+"scale": 0.983
+},
+{
+"model": "A45_flowers_purple",
+"x": -148.92,
+"z": 1709.88,
+"rot": 231.5,
+"group": "Gardens",
+"scale": 0.951
+},
+{
+"model": "A47_flowers_blue",
+"x": -251.99,
+"z": 1409.36,
+"rot": 10.7,
+"group": "Gardens",
+"scale": 1.131
+},
+{
+"model": "A45_flowers_purple",
+"x": -510.99,
+"z": 1763.76,
+"rot": 305.9,
+"group": "Gardens",
+"scale": 1.018
+},
+{
+"model": "A44_flowers_yellow",
+"x": -452.54,
+"z": 1401.05,
+"rot": 322.0,
+"group": "Gardens",
+"scale": 1.099
+},
+{
+"model": "A47_flowers_blue",
+"x": -426.86,
+"z": 1617.24,
+"rot": 233.8,
+"group": "Gardens",
+"scale": 1.082
+},
+{
+"model": "A43_flowers_red",
+"x": -353.04,
+"z": 1595.49,
+"rot": 171.3,
+"group": "Gardens",
+"scale": 1.066
+},
+{
+"model": "A44_flowers_yellow",
+"x": -571.8,
+"z": 1683.86,
+"rot": 46.9,
+"group": "Gardens",
+"scale": 1.148
+},
+{
+"model": "A44_flowers_yellow",
+"x": -363.38,
+"z": 1382.39,
+"rot": 0.2,
+"group": "Gardens",
+"scale": 1.071
+},
+{
+"model": "A44_flowers_yellow",
+"x": -458.26,
+"z": 1553.3,
+"rot": 203.6,
+"group": "Gardens",
+"scale": 1.213
+},
+{
+"model": "A45_flowers_purple",
+"x": -616.25,
+"z": 1721.14,
+"rot": 256.9,
+"group": "Gardens",
+"scale": 1.214
+},
+{
+"model": "A45_flowers_purple",
+"x": -163.73,
+"z": 1422.86,
+"rot": 315.1,
+"group": "Gardens",
+"scale": 1.013
+},
+{
+"model": "A43_flowers_red",
+"x": -303.11,
+"z": 1756.82,
+"rot": 183.2,
+"group": "Gardens",
+"scale": 0.911
+},
+{
+"model": "A46_flowers_white",
+"x": -307.89,
+"z": 1443.32,
+"rot": 296.5,
+"group": "Gardens",
+"scale": 0.962
+},
+{
+"model": "A43_flowers_red",
+"x": -488.73,
+"z": 1750.74,
+"rot": 256.3,
+"group": "Gardens",
+"scale": 1.074
+},
+{
+"model": "A45_flowers_purple",
+"x": -160.02,
+"z": 1610.02,
+"rot": 298.7,
+"group": "Gardens",
+"scale": 1.125
+},
+{
+"model": "A43_flowers_red",
+"x": -207.33,
+"z": 1759.96,
+"rot": 326.2,
+"group": "Gardens",
+"scale": 1.127
+},
+{
+"model": "A43_flowers_red",
+"x": -179.31,
+"z": 1492.2,
+"rot": 149.4,
+"group": "Gardens",
+"scale": 0.997
+},
+{
+"model": "A45_flowers_purple",
+"x": -103.44,
+"z": 1669.45,
+"rot": 312.3,
+"group": "Gardens",
+"scale": 1.012
+},
+{
+"model": "A45_flowers_purple",
+"x": -538.0,
+"z": 1426.24,
+"rot": 17.5,
+"group": "Gardens",
+"scale": 1.075
+},
+{
+"model": "A46_flowers_white",
+"x": -447.05,
+"z": 1459.09,
+"rot": 174.7,
+"group": "Gardens",
+"scale": 1.121
+},
+{
+"model": "G17_net_rack",
+"x": -410.22,
+"z": 1378.84,
+"rot": 160.8,
+"group": "Gardens"
+},
+{
+"model": "A92_laundry_line",
+"x": -612.84,
+"z": 1551.65,
+"rot": 192.4,
+"group": "Gardens"
+},
+{
+"model": "A98_well",
+"x": -337.56,
+"z": 1699.9,
+"rot": 195.2,
+"group": "Gardens"
+},
+{
+"model": "A82_bench_wood",
+"x": -329.26,
+"z": 1445.32,
+"rot": 230.2,
+"group": "Gardens"
+},
+{
+"model": "G17_net_rack",
+"x": -282.12,
+"z": 1396.19,
+"rot": 262.9,
+"group": "Gardens"
+},
+{
+"model": "G17_net_rack",
+"x": -579.05,
+"z": 1743.99,
+"rot": 330.4,
+"group": "Gardens"
+},
+{
+"model": "A98_well",
+"x": -180.32,
+"z": 1743.03,
+"rot": 172.1,
+"group": "Gardens"
+},
+{
+"model": "A92_laundry_line",
+"x": -320.22,
+"z": 1600.89,
+"rot": 211.7,
+"group": "Gardens"
+},
+{
+"model": "A82_bench_wood",
+"x": -327.36,
+"z": 1391.83,
+"rot": 289.4,
+"group": "Gardens"
+},
+{
+"model": "A82_bench_wood",
+"x": -585.37,
+"z": 1701.08,
+"rot": 69.3,
+"group": "Gardens"
+},
+{
+"model": "G17_net_rack",
+"x": -484.4,
+"z": 1585.43,
+"rot": 294.1,
+"group": "Gardens"
+},
+{
+"model": "A82_bench_wood",
+"x": -265.57,
+"z": 1763.07,
+"rot": 144.5,
+"group": "Gardens"
+},
+{
+"model": "A92_laundry_line",
+"x": -601.92,
+"z": 1728.71,
+"rot": 119.5,
+"group": "Gardens"
+},
+{
+"model": "A82_bench_wood",
+"x": -664.72,
+"z": 1468.76,
+"rot": 262.1,
+"group": "Gardens"
+},
+{
+"model": "A72_barrel_open",
+"x": -519.65,
+"z": 1401.7,
+"rot": 125.8,
+"group": "Gardens"
+},
+{
+"model": "A72_barrel_open",
+"x": -297.12,
+"z": 1554.26,
+"rot": 96.1,
+"group": "Gardens"
+},
+{
+"model": "A74_crate_large",
+"x": -476.2,
+"z": 1571.0,
+"rot": 35.0,
+"group": "Gardens"
+},
+{
+"model": "A74_crate_large",
+"x": -436.88,
+"z": 1581.31,
+"rot": 11.1,
+"group": "Gardens"
+},
+{
+"model": "A72_barrel_open",
+"x": -653.34,
+"z": 1539.34,
+"rot": 347.1,
+"group": "Gardens"
+},
+{
+"model": "A71_barrel",
+"x": -578.77,
+"z": 1729.26,
+"rot": 104.3,
+"group": "Gardens"
+},
+{
+"model": "A76_sack",
+"x": -438.97,
+"z": 1463.1,
+"rot": 124.4,
+"group": "Gardens"
+},
+{
+"model": "A74_crate_large",
+"x": -460.57,
+"z": 1601.27,
+"rot": 24.3,
+"group": "Gardens"
+},
+{
+"model": "A77_sack_pile",
+"x": -167.84,
+"z": 1490.43,
+"rot": 46.1,
+"group": "Gardens"
+},
+{
+"model": "A74_crate_large",
+"x": -358.62,
+"z": 1438.0,
+"rot": 145.6,
+"group": "Gardens"
+},
+{
+"model": "A72_barrel_open",
+"x": -685.1,
+"z": 1582.39,
+"rot": 263.2,
+"group": "Gardens"
+},
+{
+"model": "A72_barrel_open",
+"x": -184.25,
+"z": 1725.11,
+"rot": 303.1,
+"group": "Gardens"
+},
+{
+"model": "A71_barrel",
+"x": -585.13,
+"z": 1620.57,
+"rot": 273.5,
+"group": "Gardens"
+},
+{
+"model": "A72_barrel_open",
+"x": -294.44,
+"z": 1399.85,
+"rot": 180.0,
+"group": "Gardens"
+},
+{
+"model": "A73_crate_small",
+"x": -688.62,
+"z": 1632.56,
+"rot": 82.9,
+"group": "Gardens"
+},
+{
+"model": "A77_sack_pile",
+"x": -313.01,
+"z": 1606.46,
+"rot": 19.5,
+"group": "Gardens"
+},
+{
+"model": "A73_crate_small",
+"x": -132.89,
+"z": 1722.3,
+"rot": 90.9,
+"group": "Gardens"
+},
+{
+"model": "A75_crate_stack",
+"x": -634.54,
+"z": 1436.1,
+"rot": 331.5,
+"group": "Gardens"
+},
+{
+"model": "A76_sack",
+"x": -671.88,
+"z": 1548.36,
+"rot": 341.7,
+"group": "Gardens"
+},
+{
+"model": "A76_sack",
+"x": -519.66,
+"z": 1409.17,
+"rot": 62.8,
+"group": "Gardens"
+},
+{
+"model": "A76_sack",
+"x": -139.44,
+"z": 1720.87,
+"rot": 5.7,
+"group": "Gardens"
+},
+{
+"model": "A72_barrel_open",
+"x": -562.57,
+"z": 1634.83,
+"rot": 5.6,
+"group": "Gardens"
+},
+{
+"model": "A72_barrel_open",
+"x": -637.77,
+"z": 1458.36,
+"rot": 224.3,
+"group": "Gardens"
+},
+{
+"model": "A73_crate_small",
+"x": -280.02,
+"z": 1708.3,
+"rot": 170.0,
+"group": "Gardens"
+}
+]
+}

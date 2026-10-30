@@ -1,0 +1,6 @@
+{"area":"facetest","terrain":[],"placements":[
+{"model":"C05_townhouse_1","x":300,"z":-1100,"rot":0,"group":"T"},
+{"model":"G27_harbour_tavern","x":345,"z":-1100,"rot":0,"group":"T"},
+{"model":"D20_rundown_house_1","x":390,"z":-1100,"rot":0,"group":"T"},
+{"model":"E05_lodge","x":440,"z":-1100,"rot":0,"group":"T"}
+]}

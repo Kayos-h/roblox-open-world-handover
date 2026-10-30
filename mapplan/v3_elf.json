@@ -1,0 +1,8930 @@
+{
+"area": "v3_elf",
+"terrain": [],
+"placements": [
+{
+"model": "F01_world_tree",
+"x": -1560,
+"z": -430,
+"rot": 90,
+"group": "WorldTree"
+},
+{
+"model": "F10_elf_palace",
+"x": -1510,
+"z": -735,
+"rot": 0,
+"group": "Palace"
+},
+{
+"model": "F13_elf_statue",
+"x": -1530,
+"z": -700,
+"rot": 0,
+"group": "Palace"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1532,
+"z": -690,
+"rot": 0,
+"group": "Palace"
+},
+{
+"model": "F13_elf_statue",
+"x": -1490,
+"z": -700,
+"rot": 0,
+"group": "Palace"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1508,
+"z": -690,
+"rot": 0,
+"group": "Palace"
+},
+{
+"model": "F11_moon_pool",
+"x": -1560,
+"z": -150,
+"rot": 0,
+"group": "MoonPool"
+},
+{
+"model": "F02_treehouse_1",
+"x": -1776.13,
+"z": -503.53,
+"rot": 71.2,
+"group": "Treehouses"
+},
+{
+"model": "F04_treehouse_3",
+"x": -1445.0,
+"z": -616.2,
+"rot": 328.3,
+"group": "Treehouses"
+},
+{
+"model": "F05_treehouse_4",
+"x": -1343.87,
+"z": -356.47,
+"rot": 251.2,
+"group": "Treehouses"
+},
+{
+"model": "F03_treehouse_2",
+"x": -1776.13,
+"z": -356.47,
+"rot": 108.8,
+"group": "Treehouses"
+},
+{
+"model": "F06_platform_ring",
+"x": -1500,
+"z": -526,
+"rot": 0,
+"group": "WorldTree",
+"y_offset": 24
+},
+{
+"model": "F09_spiral_stair",
+"x": -1468,
+"z": -490,
+"rot": 0,
+"group": "WorldTree"
+},
+{
+"model": "F12_carved_arch",
+"x": -1306,
+"z": -405,
+"rot": 90,
+"group": "GatePath"
+},
+{
+"model": "F17_root_arch",
+"x": -1390,
+"z": -412,
+"rot": 90,
+"group": "GatePath"
+},
+{
+"model": "F13_elf_statue",
+"x": -1330,
+"z": -392,
+"rot": 90,
+"group": "GatePath"
+},
+{
+"model": "F13_elf_statue",
+"x": -1330,
+"z": -420,
+"rot": 90,
+"group": "GatePath"
+},
+{
+"model": "F13_elf_statue",
+"x": -1420,
+"z": -404,
+"rot": 90,
+"group": "GatePath"
+},
+{
+"model": "F13_elf_statue",
+"x": -1420,
+"z": -436,
+"rot": 90,
+"group": "GatePath"
+},
+{
+"model": "F35_vine_pillar",
+"x": -1461.01,
+"z": -331.01,
+"rot": 0,
+"group": "WorldTree"
+},
+{
+"model": "F35_vine_pillar",
+"x": -1658.99,
+"z": -331.01,
+"rot": 0,
+"group": "WorldTree"
+},
+{
+"model": "F35_vine_pillar",
+"x": -1658.99,
+"z": -528.99,
+"rot": 0,
+"group": "WorldTree"
+},
+{
+"model": "F35_vine_pillar",
+"x": -1461.01,
+"z": -528.99,
+"rot": 0,
+"group": "WorldTree"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1299.56,
+"z": -409.82,
+"rot": 355.4,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1324.35,
+"z": -401.41,
+"rot": 175.0,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1347.32,
+"z": -413.9,
+"rot": 354.7,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1372.22,
+"z": -405.81,
+"rot": 174.2,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1420.08,
+"z": -411.72,
+"rot": 171.6,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1553.35,
+"z": -560.84,
+"rot": 258.8,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1559.0,
+"z": -586.4,
+"rot": 79.0,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1544.1,
+"z": -607.91,
+"rot": 258.5,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1548.95,
+"z": -633.61,
+"rot": 76.0,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1532.2,
+"z": -653.82,
+"rot": 252.5,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1533.68,
+"z": -679.84,
+"rot": 68.0,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1566.85,
+"z": -299.36,
+"rot": 77.1,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1562.3,
+"z": -273.72,
+"rot": 257.3,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1577.1,
+"z": -252.19,
+"rot": 80.3,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1568.63,
+"z": -227.81,
+"rot": 274.1,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1576.37,
+"z": -202.76,
+"rot": 99.3,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1561.61,
+"z": -181.11,
+"rot": 281.9,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1692.55,
+"z": -434.24,
+"rot": 6.7,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1715.18,
+"z": -421.2,
+"rot": 186.7,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1740.3,
+"z": -428.46,
+"rot": 7.7,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1762.15,
+"z": -414.21,
+"rot": 192.2,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1787.89,
+"z": -419.0,
+"rot": 13.8,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1808.58,
+"z": -402.97,
+"rot": 194.7,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1834.41,
+"z": -406.85,
+"rot": 14.7,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1649.82,
+"z": -524.74,
+"rot": 326.6,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1675.65,
+"z": -529.03,
+"rot": 147.4,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1688.82,
+"z": -551.94,
+"rot": 322.2,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1699.88,
+"z": -570.75,
+"rot": 60.5,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1674.52,
+"z": -579.0,
+"rot": 210.9,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1659.39,
+"z": -600.29,
+"rot": 31.8,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1475.89,
+"z": -334.65,
+"rot": 111.6,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1457.47,
+"z": -316.11,
+"rot": 291.4,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1458.3,
+"z": -289.97,
+"rot": 111.8,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1439.55,
+"z": -271.83,
+"rot": 293.9,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1437.59,
+"z": -245.86,
+"rot": 120.9,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1655.18,
+"z": -341.39,
+"rot": 48.9,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1663.07,
+"z": -316.44,
+"rot": 229.0,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1686.67,
+"z": -305.16,
+"rot": 48.9,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1694.71,
+"z": -280.26,
+"rot": 228.3,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1718.48,
+"z": -269.38,
+"rot": 47.6,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1727.3,
+"z": -244.79,
+"rot": 226.4,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1751.63,
+"z": -235.03,
+"rot": 44.7,
+"group": "Lanterns"
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1761.48,
+"z": -210.8,
+"rot": 224.1,
+"group": "Lanterns"
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1317.28,
+"z": -413.89,
+"rot": 43.3,
+"group": "GlowPath",
+"scale": 0.885
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1353.58,
+"z": -400.52,
+"rot": 185.3,
+"group": "GlowPath",
+"scale": 1.018
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1358.97,
+"z": -417.99,
+"rot": 148.3,
+"group": "GlowPath",
+"scale": 1.038
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1367.61,
+"z": -401.14,
+"rot": 351.2,
+"group": "GlowPath",
+"scale": 0.925
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1381.47,
+"z": -403.69,
+"rot": 71.6,
+"group": "GlowPath",
+"scale": 0.911
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1548.77,
+"z": -564.07,
+"rot": 135.1,
+"group": "GlowPath",
+"scale": 0.917
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1564.08,
+"z": -574.13,
+"rot": 82.0,
+"group": "GlowPath",
+"scale": 1.232
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1548.03,
+"z": -578.16,
+"rot": 77.3,
+"group": "GlowPath",
+"scale": 0.839
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1545.26,
+"z": -591.82,
+"rot": 256.2,
+"group": "GlowPath",
+"scale": 0.903
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1539.3,
+"z": -670.05,
+"rot": 92.6,
+"group": "GlowPath",
+"scale": 0.98
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1555.63,
+"z": -285.34,
+"rot": 84.1,
+"group": "GlowPath",
+"scale": 1.131
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1573.59,
+"z": -282.41,
+"rot": 18.0,
+"group": "GlowPath",
+"scale": 0.8
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1577.34,
+"z": -268.91,
+"rot": 221.1,
+"group": "GlowPath",
+"scale": 1.171
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1563.99,
+"z": -219.12,
+"rot": 201.0,
+"group": "GlowPath",
+"scale": 1.348
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1562.46,
+"z": -206.04,
+"rot": 289.0,
+"group": "GlowPath",
+"scale": 1.317
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1561.6,
+"z": -192.36,
+"rot": 1.9,
+"group": "GlowPath",
+"scale": 1.033
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1557.44,
+"z": -178.93,
+"rot": 292.8,
+"group": "GlowPath",
+"scale": 0.817
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1696.69,
+"z": -435.59,
+"rot": 264.9,
+"group": "GlowPath",
+"scale": 0.837
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1702.03,
+"z": -420.19,
+"rot": 1.7,
+"group": "GlowPath",
+"scale": 1.059
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1710.86,
+"z": -435.74,
+"rot": 7.8,
+"group": "GlowPath",
+"scale": 0.911
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1715.76,
+"z": -417.55,
+"rot": 148.7,
+"group": "GlowPath",
+"scale": 0.89
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1743.35,
+"z": -415.48,
+"rot": 178.6,
+"group": "GlowPath",
+"scale": 0.825
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1752.99,
+"z": -430.61,
+"rot": 175.0,
+"group": "GlowPath",
+"scale": 1.1
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1783.43,
+"z": -405.06,
+"rot": 266.0,
+"group": "GlowPath",
+"scale": 0.933
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1794.61,
+"z": -421.21,
+"rot": 51.1,
+"group": "GlowPath",
+"scale": 0.928
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1797.14,
+"z": -402.71,
+"rot": 327.9,
+"group": "GlowPath",
+"scale": 0.918
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1808.3,
+"z": -417.67,
+"rot": 211.0,
+"group": "GlowPath",
+"scale": 0.973
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1821.44,
+"z": -412.42,
+"rot": 245.4,
+"group": "GlowPath",
+"scale": 1.03
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1824.06,
+"z": -395.19,
+"rot": 154.4,
+"group": "GlowPath",
+"scale": 0.915
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1651.33,
+"z": -529.72,
+"rot": 6.9,
+"group": "GlowPath",
+"scale": 1.076
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1666.92,
+"z": -518.55,
+"rot": 81.4,
+"group": "GlowPath",
+"scale": 1.267
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1675.16,
+"z": -543.45,
+"rot": 291.7,
+"group": "GlowPath",
+"scale": 1.004
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1688.97,
+"z": -537.08,
+"rot": 118.1,
+"group": "GlowPath",
+"scale": 0.844
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1682.04,
+"z": -589.6,
+"rot": 113.8,
+"group": "GlowPath",
+"scale": 0.854
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1668.54,
+"z": -580.7,
+"rot": 162.3,
+"group": "GlowPath",
+"scale": 0.816
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1670.44,
+"z": -597.5,
+"rot": 262.8,
+"group": "GlowPath",
+"scale": 1.102
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1655.24,
+"z": -586.03,
+"rot": 102.7,
+"group": "GlowPath",
+"scale": 0.975
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1471.79,
+"z": -316.93,
+"rot": 200.1,
+"group": "GlowPath",
+"scale": 0.873
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1462.04,
+"z": -290.63,
+"rot": 131.5,
+"group": "GlowPath",
+"scale": 0.913
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1444.03,
+"z": -290.29,
+"rot": 202.2,
+"group": "GlowPath",
+"scale": 0.986
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1456.35,
+"z": -277.73,
+"rot": 213.4,
+"group": "GlowPath",
+"scale": 0.932
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1432.31,
+"z": -265.19,
+"rot": 256.2,
+"group": "GlowPath",
+"scale": 0.821
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1425.97,
+"z": -253.98,
+"rot": 160.6,
+"group": "GlowPath",
+"scale": 1.031
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1438.05,
+"z": -238.59,
+"rot": 159.5,
+"group": "GlowPath",
+"scale": 0.943
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1660.83,
+"z": -340.97,
+"rot": 256.2,
+"group": "GlowPath",
+"scale": 1.267
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1651.67,
+"z": -323.77,
+"rot": 294.1,
+"group": "GlowPath",
+"scale": 1.052
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1668.66,
+"z": -329.24,
+"rot": 11.2,
+"group": "GlowPath",
+"scale": 0.807
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1661.01,
+"z": -313.33,
+"rot": 226.6,
+"group": "GlowPath",
+"scale": 1.323
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1678.96,
+"z": -319.64,
+"rot": 330.9,
+"group": "GlowPath",
+"scale": 1.094
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1671.17,
+"z": -303.59,
+"rot": 289.1,
+"group": "GlowPath",
+"scale": 1.198
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1680.08,
+"z": -292.74,
+"rot": 30.3,
+"group": "GlowPath",
+"scale": 1.131
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1689.43,
+"z": -282.32,
+"rot": 163.4,
+"group": "GlowPath",
+"scale": 0.987
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1706.91,
+"z": -288.46,
+"rot": 308.5,
+"group": "GlowPath",
+"scale": 1.215
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1715.25,
+"z": -277.14,
+"rot": 327.1,
+"group": "GlowPath",
+"scale": 1.152
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1707.2,
+"z": -260.43,
+"rot": 263.3,
+"group": "GlowPath",
+"scale": 0.809
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1724.52,
+"z": -266.77,
+"rot": 151.0,
+"group": "GlowPath",
+"scale": 1.073
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1718.89,
+"z": -251.97,
+"rot": 225.3,
+"group": "GlowPath",
+"scale": 1.027
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1737.53,
+"z": -230.87,
+"rot": 241.5,
+"group": "GlowPath",
+"scale": 0.979
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1756.6,
+"z": -210.12,
+"rot": 59.8,
+"group": "GlowPath",
+"scale": 0.838
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1766.84,
+"z": -200.52,
+"rot": 184.7,
+"group": "GlowPath",
+"scale": 1.167
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1432.23,
+"z": -410.29,
+"rot": 245.4,
+"group": "GlowPath",
+"scale": 0.988
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1434.84,
+"z": -394.86,
+"rot": 238.0,
+"group": "GlowPath",
+"scale": 0.821
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1452.95,
+"z": -393.38,
+"rot": 185.3,
+"group": "GlowPath",
+"scale": 1.016
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1439.73,
+"z": -381.73,
+"rot": 98.9,
+"group": "GlowPath",
+"scale": 0.994
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1455.93,
+"z": -381.19,
+"rot": 74.3,
+"group": "GlowPath",
+"scale": 0.852
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1445.5,
+"z": -367.08,
+"rot": 48.5,
+"group": "GlowPath",
+"scale": 1.253
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1452.73,
+"z": -355.09,
+"rot": 241.1,
+"group": "GlowPath",
+"scale": 1.3
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1485.44,
+"z": -323.58,
+"rot": 189.6,
+"group": "GlowPath",
+"scale": 1.172
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1500.98,
+"z": -333.06,
+"rot": 86.7,
+"group": "GlowPath",
+"scale": 1.086
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1498.5,
+"z": -314.69,
+"rot": 341.1,
+"group": "GlowPath",
+"scale": 1.013
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1511.5,
+"z": -326.66,
+"rot": 255.7,
+"group": "GlowPath",
+"scale": 1.156
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1511.44,
+"z": -309.32,
+"rot": 307.9,
+"group": "GlowPath",
+"scale": 1.308
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1526.29,
+"z": -304.04,
+"rot": 121.0,
+"group": "GlowPath",
+"scale": 0.928
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1536.59,
+"z": -318.81,
+"rot": 206.6,
+"group": "GlowPath",
+"scale": 1.249
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1539.93,
+"z": -300.88,
+"rot": 110.1,
+"group": "GlowPath",
+"scale": 1.237
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1575.02,
+"z": -317.07,
+"rot": 218.0,
+"group": "GlowPath",
+"scale": 1.235
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1598.82,
+"z": -306.09,
+"rot": 232.5,
+"group": "GlowPath",
+"scale": 0.923
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1612.51,
+"z": -313.79,
+"rot": 159.8,
+"group": "GlowPath",
+"scale": 1.068
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1612.74,
+"z": -330.49,
+"rot": 359.4,
+"group": "GlowPath",
+"scale": 1.223
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1627.44,
+"z": -318.8,
+"rot": 19.1,
+"group": "GlowPath",
+"scale": 1.265
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1638.96,
+"z": -326.76,
+"rot": 263.2,
+"group": "GlowPath",
+"scale": 1.149
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1660.26,
+"z": -347.39,
+"rot": 132.1,
+"group": "GlowPath",
+"scale": 1.24
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1670.06,
+"z": -359.75,
+"rot": 63.4,
+"group": "GlowPath",
+"scale": 1.053
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1664.28,
+"z": -385.27,
+"rot": 237.4,
+"group": "GlowPath",
+"scale": 1.306
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1682.35,
+"z": -386.76,
+"rot": 275.8,
+"group": "GlowPath",
+"scale": 1.041
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1687.46,
+"z": -399.82,
+"rot": 205.4,
+"group": "GlowPath",
+"scale": 0.825
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1672.14,
+"z": -410.35,
+"rot": 173.3,
+"group": "GlowPath",
+"scale": 1.293
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1688.31,
+"z": -415.69,
+"rot": 184.7,
+"group": "GlowPath",
+"scale": 1.299
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1672.58,
+"z": -436.48,
+"rot": 287.4,
+"group": "GlowPath",
+"scale": 0.983
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1671.51,
+"z": -450.44,
+"rot": 287.7,
+"group": "GlowPath",
+"scale": 0.933
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1685.9,
+"z": -460.57,
+"rot": 247.6,
+"group": "GlowPath",
+"scale": 0.999
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1669.82,
+"z": -462.71,
+"rot": 106.2,
+"group": "GlowPath",
+"scale": 0.807
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1681.48,
+"z": -473.86,
+"rot": 267.6,
+"group": "GlowPath",
+"scale": 0.916
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1663.95,
+"z": -475.52,
+"rot": 328.0,
+"group": "GlowPath",
+"scale": 1.127
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1676.35,
+"z": -488.7,
+"rot": 314.2,
+"group": "GlowPath",
+"scale": 0.993
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1637.78,
+"z": -533.07,
+"rot": 225.8,
+"group": "GlowPath",
+"scale": 0.968
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1622.72,
+"z": -524.25,
+"rot": 16.8,
+"group": "GlowPath",
+"scale": 0.963
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1626.73,
+"z": -541.68,
+"rot": 329.6,
+"group": "GlowPath",
+"scale": 1.342
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1599.14,
+"z": -535.49,
+"rot": 242.2,
+"group": "GlowPath",
+"scale": 0.863
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1587.81,
+"z": -539.87,
+"rot": 114.1,
+"group": "GlowPath",
+"scale": 1.054
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1574.12,
+"z": -542.8,
+"rot": 353.2,
+"group": "GlowPath",
+"scale": 1.271
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1568.86,
+"z": -559.22,
+"rot": 315.2,
+"group": "GlowPath",
+"scale": 0.969
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1535.85,
+"z": -540.58,
+"rot": 7.8,
+"group": "GlowPath",
+"scale": 1.03
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1524.43,
+"z": -536.61,
+"rot": 31.7,
+"group": "GlowPath",
+"scale": 1.188
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1510.95,
+"z": -549.7,
+"rot": 251.2,
+"group": "GlowPath",
+"scale": 0.877
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1497.94,
+"z": -544.49,
+"rot": 232.6,
+"group": "GlowPath",
+"scale": 1.194
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1473.16,
+"z": -528.05,
+"rot": 285.8,
+"group": "GlowPath",
+"scale": 1.054
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1462.46,
+"z": -516.32,
+"rot": 331.6,
+"group": "GlowPath",
+"scale": 1.269
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1446.89,
+"z": -491.13,
+"rot": 8.6,
+"group": "GlowPath",
+"scale": 0.874
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1438.82,
+"z": -477.67,
+"rot": 273.5,
+"group": "GlowPath",
+"scale": 1.028
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1453.04,
+"z": -465.69,
+"rot": 234.8,
+"group": "GlowPath",
+"scale": 1.083
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1435.97,
+"z": -463.88,
+"rot": 325.6,
+"group": "GlowPath",
+"scale": 0.847
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1429.32,
+"z": -435.08,
+"rot": 142.3,
+"group": "GlowPath",
+"scale": 1.171
+},
+{
+"model": "F32_waterfall_cliff",
+"x": -1690,
+"z": -712,
+"rot": 30,
+"group": "Lake"
+},
+{
+"model": "A110_waterfall_rocks",
+"x": -1600,
+"z": -690,
+"rot": 330,
+"group": "Lake"
+},
+{
+"model": "F29_lotus",
+"x": -1694.1,
+"z": -642.29,
+"rot": 313.9,
+"group": "Lake"
+},
+{
+"model": "F29_lotus",
+"x": -1613.76,
+"z": -637.08,
+"rot": 32.2,
+"group": "Lake"
+},
+{
+"model": "F29_lotus",
+"x": -1637.24,
+"z": -623.14,
+"rot": 212.1,
+"group": "Lake"
+},
+{
+"model": "F29_lotus",
+"x": -1696.65,
+"z": -614.08,
+"rot": 280.9,
+"group": "Lake"
+},
+{
+"model": "F29_lotus",
+"x": -1656.11,
+"z": -667.88,
+"rot": 354.2,
+"group": "Lake"
+},
+{
+"model": "F29_lotus",
+"x": -1694.46,
+"z": -660.95,
+"rot": 340.7,
+"group": "Lake"
+},
+{
+"model": "F29_lotus",
+"x": -1655.69,
+"z": -664.79,
+"rot": 215.6,
+"group": "Lake"
+},
+{
+"model": "F29_lotus",
+"x": -1662.15,
+"z": -659.77,
+"rot": 213.6,
+"group": "Lake"
+},
+{
+"model": "F29_lotus",
+"x": -1642.91,
+"z": -668.81,
+"rot": 289.4,
+"group": "Lake"
+},
+{
+"model": "F29_lotus",
+"x": -1622.87,
+"z": -611.97,
+"rot": 51.5,
+"group": "Lake"
+},
+{
+"model": "A66_stepping_stones",
+"x": -1800,
+"z": -505,
+"rot": 30,
+"group": "River"
+},
+{
+"model": "A66_stepping_stones",
+"x": -1890,
+"z": -444,
+"rot": 30,
+"group": "River"
+},
+{
+"model": "F31_ruins_2",
+"x": -1450,
+"z": -700,
+"rot": 20,
+"group": "Ruins"
+},
+{
+"model": "F31_ruins_2",
+"x": -1830,
+"z": -600,
+"rot": 0,
+"group": "Ruins"
+},
+{
+"model": "F31_ruins_2",
+"x": -1880,
+"z": -260,
+"rot": 60,
+"group": "Ruins"
+},
+{
+"model": "F31_ruins_2",
+"x": -1300,
+"z": -230,
+"rot": 200,
+"group": "Ruins"
+},
+{
+"model": "F31_ruins_2",
+"x": -1700,
+"z": -130,
+"rot": 120,
+"group": "Ruins"
+},
+{
+"model": "F33_elf_bench",
+"x": -1630,
+"z": -300,
+"rot": 151.7,
+"group": "WorldTree"
+},
+{
+"model": "F33_elf_bench",
+"x": -1660,
+"z": -540,
+"rot": 42.3,
+"group": "WorldTree"
+},
+{
+"model": "F33_elf_bench",
+"x": -1460,
+"z": -545,
+"rot": 319.0,
+"group": "WorldTree"
+},
+{
+"model": "F34_crystal_cluster",
+"x": -1665.56,
+"z": -175.2,
+"rot": 306.9,
+"group": "Crystals",
+"scale": 1.515
+},
+{
+"model": "F34_crystal_cluster",
+"x": -1515.07,
+"z": -636.57,
+"rot": 250.2,
+"group": "Crystals",
+"scale": 0.955
+},
+{
+"model": "F34_crystal_cluster",
+"x": -1626.15,
+"z": -242.38,
+"rot": 292.9,
+"group": "Crystals",
+"scale": 0.954
+},
+{
+"model": "F34_crystal_cluster",
+"x": -1587.5,
+"z": -178.74,
+"rot": 155.7,
+"group": "Crystals",
+"scale": 1.432
+},
+{
+"model": "F34_crystal_cluster",
+"x": -1502.15,
+"z": -627.74,
+"rot": 215.4,
+"group": "Crystals",
+"scale": 0.941
+},
+{
+"model": "F34_crystal_cluster",
+"x": -1694.0,
+"z": -674.96,
+"rot": 255.0,
+"group": "Crystals",
+"scale": 1.222
+},
+{
+"model": "F34_crystal_cluster",
+"x": -1340.63,
+"z": -450.99,
+"rot": 193.7,
+"group": "Crystals",
+"scale": 1.509
+},
+{
+"model": "F34_crystal_cluster",
+"x": -1470.59,
+"z": -248.99,
+"rot": 150.9,
+"group": "Crystals",
+"scale": 1.544
+},
+{
+"model": "F34_crystal_cluster",
+"x": -1500.91,
+"z": -268.8,
+"rot": 110.8,
+"group": "Crystals",
+"scale": 0.856
+},
+{
+"model": "F34_crystal_cluster",
+"x": -1554.1,
+"z": -253.36,
+"rot": 269.4,
+"group": "Crystals",
+"scale": 1.424
+},
+{
+"model": "F34_crystal_cluster",
+"x": -1785.38,
+"z": -393.95,
+"rot": 334.6,
+"group": "Crystals",
+"scale": 1.279
+},
+{
+"model": "F14_jungle_tree_1",
+"x": -1363.32,
+"z": -723.34,
+"rot": 197.6,
+"group": "Jungle",
+"scale": 0.991
+},
+{
+"model": "F15_jungle_tree_2",
+"x": -1384.51,
+"z": -285.75,
+"rot": 179.9,
+"group": "Jungle",
+"scale": 0.989
+},
+{
+"model": "F14_jungle_tree_1",
+"x": -1246.73,
+"z": -528.71,
+"rot": 86.3,
+"group": "Jungle",
+"scale": 0.872
+},
+{
+"model": "F14_jungle_tree_1",
+"x": -1805.28,
+"z": -679.91,
+"rot": 41.9,
+"group": "Jungle",
+"scale": 0.779
+},
+{
+"model": "F15_jungle_tree_2",
+"x": -1268.37,
+"z": -454.04,
+"rot": 265.2,
+"group": "Jungle",
+"scale": 0.875
+},
+{
+"model": "F14_jungle_tree_1",
+"x": -1396.61,
+"z": -139.99,
+"rot": 66.9,
+"group": "Jungle",
+"scale": 1.096
+},
+{
+"model": "F14_jungle_tree_1",
+"x": -1320.81,
+"z": -585.36,
+"rot": 170.3,
+"group": "Jungle",
+"scale": 0.772
+},
+{
+"model": "F15_jungle_tree_2",
+"x": -1831.57,
+"z": -194.42,
+"rot": 235.0,
+"group": "Jungle",
+"scale": 1.013
+},
+{
+"model": "F14_jungle_tree_1",
+"x": -1714.81,
+"z": -73.15,
+"rot": 148.4,
+"group": "Jungle",
+"scale": 1.075
+},
+{
+"model": "F14_jungle_tree_1",
+"x": -1864.93,
+"z": -514.65,
+"rot": 72.2,
+"group": "Jungle",
+"scale": 1.043
+},
+{
+"model": "F14_jungle_tree_1",
+"x": -1243.79,
+"z": -254.25,
+"rot": 35.3,
+"group": "Jungle",
+"scale": 0.884
+},
+{
+"model": "F15_jungle_tree_2",
+"x": -1730.4,
+"z": -591.14,
+"rot": 321.6,
+"group": "Jungle",
+"scale": 1.018
+},
+{
+"model": "F15_jungle_tree_2",
+"x": -1486.08,
+"z": -89.22,
+"rot": 132.0,
+"group": "Jungle",
+"scale": 0.968
+},
+{
+"model": "F15_jungle_tree_2",
+"x": -1245.33,
+"z": -150.63,
+"rot": 244.3,
+"group": "Jungle",
+"scale": 1.013
+},
+{
+"model": "F14_jungle_tree_1",
+"x": -1238.41,
+"z": -357.41,
+"rot": 298.8,
+"group": "Jungle",
+"scale": 0.827
+},
+{
+"model": "F15_jungle_tree_2",
+"x": -1626.15,
+"z": -727.14,
+"rot": 44.5,
+"group": "Jungle",
+"scale": 0.986
+},
+{
+"model": "F15_jungle_tree_2",
+"x": -1852.08,
+"z": -308.21,
+"rot": 150.2,
+"group": "Jungle",
+"scale": 1.052
+},
+{
+"model": "F15_jungle_tree_2",
+"x": -1236.56,
+"z": -642.97,
+"rot": 240.0,
+"group": "Jungle",
+"scale": 0.805
+},
+{
+"model": "F15_jungle_tree_2",
+"x": -1703.1,
+"z": -354.28,
+"rot": 288.1,
+"group": "Jungle",
+"scale": 0.793
+},
+{
+"model": "F15_jungle_tree_2",
+"x": -1316.42,
+"z": -170.29,
+"rot": 16.6,
+"group": "Jungle",
+"scale": 0.838
+},
+{
+"model": "F15_jungle_tree_2",
+"x": -1577.86,
+"z": -96.94,
+"rot": 349.0,
+"group": "Jungle",
+"scale": 1.012
+},
+{
+"model": "F15_jungle_tree_2",
+"x": -1304.74,
+"z": -663.95,
+"rot": 131.2,
+"group": "Jungle",
+"scale": 0.958
+},
+{
+"model": "F15_jungle_tree_2",
+"x": -1895.95,
+"z": -628.25,
+"rot": 170.2,
+"group": "Jungle",
+"scale": 0.818
+},
+{
+"model": "F15_jungle_tree_2",
+"x": -1664.93,
+"z": -241.76,
+"rot": 66.1,
+"group": "Jungle",
+"scale": 0.927
+},
+{
+"model": "F15_jungle_tree_2",
+"x": -1784.25,
+"z": -284.22,
+"rot": 196.0,
+"group": "Jungle",
+"scale": 0.784
+},
+{
+"model": "F15_jungle_tree_2",
+"x": -1785.17,
+"z": -89.09,
+"rot": 234.9,
+"group": "Jungle",
+"scale": 0.761
+},
+{
+"model": "F15_jungle_tree_2",
+"x": -1851.75,
+"z": -125.62,
+"rot": 152.3,
+"group": "Jungle",
+"scale": 1.034
+},
+{
+"model": "F15_jungle_tree_2",
+"x": -1722.48,
+"z": -479.68,
+"rot": 75.4,
+"group": "Jungle",
+"scale": 0.793
+},
+{
+"model": "F15_jungle_tree_2",
+"x": -1373.25,
+"z": -477.11,
+"rot": 53.9,
+"group": "Jungle",
+"scale": 0.828
+},
+{
+"model": "F15_jungle_tree_2",
+"x": -1298.87,
+"z": -311.61,
+"rot": 256.9,
+"group": "Jungle",
+"scale": 0.836
+},
+{
+"model": "F15_jungle_tree_2",
+"x": -1725.14,
+"z": -177.45,
+"rot": 189.8,
+"group": "Jungle",
+"scale": 0.882
+},
+{
+"model": "A33_willow",
+"x": -1817.55,
+"z": -464.92,
+"rot": 159.3,
+"group": "Jungle",
+"scale": 1.167
+},
+{
+"model": "F16_jungle_palm",
+"x": -1850.3,
+"z": -414.64,
+"rot": 308.1,
+"group": "Jungle",
+"scale": 0.977
+},
+{
+"model": "F16_jungle_palm",
+"x": -1370.58,
+"z": -608.82,
+"rot": 220.4,
+"group": "Jungle",
+"scale": 1.123
+},
+{
+"model": "A24_oak_1",
+"x": -1656.47,
+"z": -133.42,
+"rot": 260.5,
+"group": "Jungle",
+"scale": 1.195
+},
+{
+"model": "F16_jungle_palm",
+"x": -1634.11,
+"z": -201.03,
+"rot": 115.4,
+"group": "Jungle",
+"scale": 0.996
+},
+{
+"model": "F16_jungle_palm",
+"x": -1816.85,
+"z": -565.17,
+"rot": 37.9,
+"group": "Jungle",
+"scale": 1.236
+},
+{
+"model": "F16_jungle_palm",
+"x": -1771.63,
+"z": -151.51,
+"rot": 25.8,
+"group": "Jungle",
+"scale": 0.97
+},
+{
+"model": "A24_oak_1",
+"x": -1338.71,
+"z": -77.59,
+"rot": 9.7,
+"group": "Jungle",
+"scale": 0.937
+},
+{
+"model": "F16_jungle_palm",
+"x": -1704.51,
+"z": -516.86,
+"rot": 11.2,
+"group": "Jungle",
+"scale": 0.875
+},
+{
+"model": "F16_jungle_palm",
+"x": -1412.92,
+"z": -668.28,
+"rot": 322.6,
+"group": "Jungle",
+"scale": 1.083
+},
+{
+"model": "F16_jungle_palm",
+"x": -1719.48,
+"z": -676.36,
+"rot": 170.9,
+"group": "Jungle",
+"scale": 0.877
+},
+{
+"model": "F16_jungle_palm",
+"x": -1374.39,
+"z": -218.15,
+"rot": 180.3,
+"group": "Jungle",
+"scale": 0.936
+},
+{
+"model": "F16_jungle_palm",
+"x": -1896.46,
+"z": -178.35,
+"rot": 48.4,
+"group": "Jungle",
+"scale": 1.168
+},
+{
+"model": "F16_jungle_palm",
+"x": -1638.97,
+"z": -90.14,
+"rot": 13.6,
+"group": "Jungle",
+"scale": 1.102
+},
+{
+"model": "F16_jungle_palm",
+"x": -1754.54,
+"z": -718.09,
+"rot": 29.3,
+"group": "Jungle",
+"scale": 1.071
+},
+{
+"model": "F16_jungle_palm",
+"x": -1785.05,
+"z": -442.01,
+"rot": 151.5,
+"group": "Jungle",
+"scale": 1.237
+},
+{
+"model": "F16_jungle_palm",
+"x": -1320.86,
+"z": -271.12,
+"rot": 242.0,
+"group": "Jungle",
+"scale": 1.088
+},
+{
+"model": "F16_jungle_palm",
+"x": -1229.05,
+"z": -580.25,
+"rot": 197.3,
+"group": "Jungle",
+"scale": 1.227
+},
+{
+"model": "F16_jungle_palm",
+"x": -1893.87,
+"z": -386.95,
+"rot": 169.7,
+"group": "Jungle",
+"scale": 0.955
+},
+{
+"model": "F16_jungle_palm",
+"x": -1492.54,
+"z": -235.42,
+"rot": 237.8,
+"group": "Jungle",
+"scale": 0.991
+},
+{
+"model": "F16_jungle_palm",
+"x": -1375.62,
+"z": -651.87,
+"rot": 320.4,
+"group": "Jungle",
+"scale": 1.108
+},
+{
+"model": "A33_willow",
+"x": -1322.8,
+"z": -525.52,
+"rot": 209.1,
+"group": "Jungle",
+"scale": 1.17
+},
+{
+"model": "F16_jungle_palm",
+"x": -1766.11,
+"z": -653.91,
+"rot": 75.1,
+"group": "Jungle",
+"scale": 0.846
+},
+{
+"model": "F16_jungle_palm",
+"x": -1786.93,
+"z": -180.16,
+"rot": 160.7,
+"group": "Jungle",
+"scale": 0.839
+},
+{
+"model": "A33_willow",
+"x": -1400.19,
+"z": -342.87,
+"rot": 273.3,
+"group": "Jungle",
+"scale": 1.096
+},
+{
+"model": "F16_jungle_palm",
+"x": -1792.49,
+"z": -593.78,
+"rot": 314.3,
+"group": "Jungle",
+"scale": 1.148
+},
+{
+"model": "F16_jungle_palm",
+"x": -1759.21,
+"z": -539.6,
+"rot": 1.5,
+"group": "Jungle"
+},
+{
+"model": "F16_jungle_palm",
+"x": -1537.9,
+"z": -221.27,
+"rot": 63.2,
+"group": "Jungle",
+"scale": 1.075
+},
+{
+"model": "F16_jungle_palm",
+"x": -1784.99,
+"z": -227.51,
+"rot": 264.9,
+"group": "Jungle",
+"scale": 0.958
+},
+{
+"model": "A33_willow",
+"x": -1522.58,
+"z": -590.43,
+"rot": 2.7,
+"group": "Jungle",
+"scale": 0.875
+},
+{
+"model": "F16_jungle_palm",
+"x": -1507.59,
+"z": -671.42,
+"rot": 7.3,
+"group": "Jungle",
+"scale": 0.985
+},
+{
+"model": "F16_jungle_palm",
+"x": -1778.38,
+"z": -562.58,
+"rot": 28.9,
+"group": "Jungle",
+"scale": 1.084
+},
+{
+"model": "F16_jungle_palm",
+"x": -1457.37,
+"z": -725.17,
+"rot": 134.0,
+"group": "Jungle",
+"scale": 1.18
+},
+{
+"model": "F16_jungle_palm",
+"x": -1459.32,
+"z": -216.44,
+"rot": 192.0,
+"group": "Jungle",
+"scale": 1.099
+},
+{
+"model": "F16_jungle_palm",
+"x": -1611.15,
+"z": -657.85,
+"rot": 54.5,
+"group": "Jungle",
+"scale": 0.865
+},
+{
+"model": "F16_jungle_palm",
+"x": -1565.76,
+"z": -704.8,
+"rot": 348.2,
+"group": "Jungle",
+"scale": 1.069
+},
+{
+"model": "F16_jungle_palm",
+"x": -1739.74,
+"z": -654.38,
+"rot": 66.1,
+"group": "Jungle",
+"scale": 0.95
+},
+{
+"model": "F16_jungle_palm",
+"x": -1299.67,
+"z": -365.15,
+"rot": 164.9,
+"group": "Jungle",
+"scale": 1.2
+},
+{
+"model": "F16_jungle_palm",
+"x": -1652.25,
+"z": -299.14,
+"rot": 193.3,
+"group": "Jungle",
+"scale": 0.848
+},
+{
+"model": "A33_willow",
+"x": -1886.22,
+"z": -207.01,
+"rot": 54.2,
+"group": "Jungle",
+"scale": 0.862
+},
+{
+"model": "F16_jungle_palm",
+"x": -1854.0,
+"z": -370.73,
+"rot": 22.2,
+"group": "Jungle",
+"scale": 0.991
+},
+{
+"model": "F16_jungle_palm",
+"x": -1571.46,
+"z": -658.81,
+"rot": 198.3,
+"group": "Jungle",
+"scale": 0.817
+},
+{
+"model": "A24_oak_1",
+"x": -1222.43,
+"z": -437.65,
+"rot": 186.9,
+"group": "Jungle",
+"scale": 0.893
+},
+{
+"model": "F16_jungle_palm",
+"x": -1446.39,
+"z": -559.79,
+"rot": 318.1,
+"group": "Jungle",
+"scale": 1.206
+},
+{
+"model": "F16_jungle_palm",
+"x": -1678.19,
+"z": -626.43,
+"rot": 202.7,
+"group": "Jungle",
+"scale": 0.817
+},
+{
+"model": "F16_jungle_palm",
+"x": -1402.57,
+"z": -507.26,
+"rot": 125.8,
+"group": "Jungle",
+"scale": 1.149
+},
+{
+"model": "F16_jungle_palm",
+"x": -1887.65,
+"z": -356.61,
+"rot": 125.4,
+"group": "Jungle",
+"scale": 0.865
+},
+{
+"model": "F16_jungle_palm",
+"x": -1899.57,
+"z": -235.21,
+"rot": 341.3,
+"group": "Jungle",
+"scale": 0.924
+},
+{
+"model": "F16_jungle_palm",
+"x": -1317.84,
+"z": -488.0,
+"rot": 196.3,
+"group": "Jungle",
+"scale": 0.914
+},
+{
+"model": "F16_jungle_palm",
+"x": -1609.16,
+"z": -161.66,
+"rot": 234.0,
+"group": "Jungle",
+"scale": 1.082
+},
+{
+"model": "F16_jungle_palm",
+"x": -1837.47,
+"z": -634.54,
+"rot": 232.3,
+"group": "Jungle",
+"scale": 0.956
+},
+{
+"model": "F16_jungle_palm",
+"x": -1682.84,
+"z": -200.52,
+"rot": 148.7,
+"group": "Jungle",
+"scale": 0.949
+},
+{
+"model": "F16_jungle_palm",
+"x": -1866.3,
+"z": -443.63,
+"rot": 276.0,
+"group": "Jungle",
+"scale": 1.125
+},
+{
+"model": "F16_jungle_palm",
+"x": -1897.31,
+"z": -416.31,
+"rot": 78.7,
+"group": "Jungle",
+"scale": 0.972
+},
+{
+"model": "F16_jungle_palm",
+"x": -1570.99,
+"z": -623.68,
+"rot": 350.9,
+"group": "Jungle",
+"scale": 1.2
+},
+{
+"model": "F16_jungle_palm",
+"x": -1337.52,
+"z": -219.05,
+"rot": 121.8,
+"group": "Jungle",
+"scale": 0.959
+},
+{
+"model": "A33_willow",
+"x": -1285.52,
+"z": -108.56,
+"rot": 306.3,
+"group": "Jungle",
+"scale": 1.126
+},
+{
+"model": "F16_jungle_palm",
+"x": -1345.14,
+"z": -246.05,
+"rot": 285.6,
+"group": "Jungle",
+"scale": 1.081
+},
+{
+"model": "A33_willow",
+"x": -1435.48,
+"z": -305.68,
+"rot": 316.8,
+"group": "Jungle",
+"scale": 0.802
+},
+{
+"model": "F16_jungle_palm",
+"x": -1268.12,
+"z": -403.62,
+"rot": 144.1,
+"group": "Jungle",
+"scale": 1.194
+},
+{
+"model": "F16_jungle_palm",
+"x": -1600.23,
+"z": -202.79,
+"rot": 274.8,
+"group": "Jungle",
+"scale": 0.981
+},
+{
+"model": "F16_jungle_palm",
+"x": -1368.72,
+"z": -189.14,
+"rot": 213.9,
+"group": "Jungle",
+"scale": 0.808
+},
+{
+"model": "F16_jungle_palm",
+"x": -1459.2,
+"z": -672.52,
+"rot": 47.9,
+"group": "Jungle",
+"scale": 0.91
+},
+{
+"model": "F16_jungle_palm",
+"x": -1332.59,
+"z": -126.44,
+"rot": 174.7,
+"group": "Jungle",
+"scale": 0.96
+},
+{
+"model": "A51_fern",
+"x": -1538.04,
+"z": -267.88,
+"rot": 302.0,
+"group": "Undergrowth",
+"scale": 1.141
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1532.31,
+"z": -118.6,
+"rot": 194.4,
+"group": "Undergrowth",
+"scale": 1.245
+},
+{
+"model": "F21_giant_fern",
+"x": -1739.39,
+"z": -395.49,
+"rot": 268.4,
+"group": "Undergrowth",
+"scale": 1.229
+},
+{
+"model": "A39_bush_2",
+"x": -1446.78,
+"z": -160.85,
+"rot": 283.4,
+"group": "Undergrowth",
+"scale": 1.154
+},
+{
+"model": "A51_fern",
+"x": -1877.71,
+"z": -156.68,
+"rot": 179.9,
+"group": "Undergrowth",
+"scale": 1.004
+},
+{
+"model": "A51_fern",
+"x": -1767.63,
+"z": -232.79,
+"rot": 273.2,
+"group": "Undergrowth",
+"scale": 1.02
+},
+{
+"model": "F21_giant_fern",
+"x": -1434.73,
+"z": -508.85,
+"rot": 264.8,
+"group": "Undergrowth",
+"scale": 0.833
+},
+{
+"model": "A51_fern",
+"x": -1860.63,
+"z": -400.13,
+"rot": 222.2,
+"group": "Undergrowth",
+"scale": 1.111
+},
+{
+"model": "A39_bush_2",
+"x": -1817.39,
+"z": -379.27,
+"rot": 190.7,
+"group": "Undergrowth",
+"scale": 0.945
+},
+{
+"model": "A39_bush_2",
+"x": -1258.08,
+"z": -199.61,
+"rot": 274.0,
+"group": "Undergrowth",
+"scale": 0.9
+},
+{
+"model": "F21_giant_fern",
+"x": -1886.08,
+"z": -576.11,
+"rot": 358.1,
+"group": "Undergrowth",
+"scale": 0.888
+},
+{
+"model": "F21_giant_fern",
+"x": -1773.45,
+"z": -624.91,
+"rot": 258.9,
+"group": "Undergrowth",
+"scale": 1.158
+},
+{
+"model": "A51_fern",
+"x": -1225.56,
+"z": -488.57,
+"rot": 89.4,
+"group": "Undergrowth",
+"scale": 0.863
+},
+{
+"model": "A51_fern",
+"x": -1494.67,
+"z": -207.96,
+"rot": 335.9,
+"group": "Undergrowth",
+"scale": 1.244
+},
+{
+"model": "F21_giant_fern",
+"x": -1858.32,
+"z": -576.28,
+"rot": 344.4,
+"group": "Undergrowth",
+"scale": 1.114
+},
+{
+"model": "A38_bush_1",
+"x": -1389.54,
+"z": -241.59,
+"rot": 346.9,
+"group": "Undergrowth",
+"scale": 1.332
+},
+{
+"model": "F21_giant_fern",
+"x": -1316.34,
+"z": -440.3,
+"rot": 264.8,
+"group": "Undergrowth",
+"scale": 0.94
+},
+{
+"model": "F21_giant_fern",
+"x": -1428.74,
+"z": -85.24,
+"rot": 163.3,
+"group": "Undergrowth",
+"scale": 0.817
+},
+{
+"model": "A51_fern",
+"x": -1742.59,
+"z": -213.12,
+"rot": 126.4,
+"group": "Undergrowth",
+"scale": 1.318
+},
+{
+"model": "A51_fern",
+"x": -1298.51,
+"z": -342.66,
+"rot": 119.4,
+"group": "Undergrowth",
+"scale": 0.951
+},
+{
+"model": "A51_fern",
+"x": -1642.32,
+"z": -652.81,
+"rot": 14.0,
+"group": "Undergrowth",
+"scale": 1.064
+},
+{
+"model": "A51_fern",
+"x": -1227.86,
+"z": -404.82,
+"rot": 76.7,
+"group": "Undergrowth",
+"scale": 0.817
+},
+{
+"model": "A51_fern",
+"x": -1765.83,
+"z": -170.79,
+"rot": 16.6,
+"group": "Undergrowth",
+"scale": 1.001
+},
+{
+"model": "A38_bush_1",
+"x": -1618.33,
+"z": -220.75,
+"rot": 76.6,
+"group": "Undergrowth",
+"scale": 0.935
+},
+{
+"model": "A38_bush_1",
+"x": -1540.44,
+"z": -288.69,
+"rot": 13.0,
+"group": "Undergrowth",
+"scale": 1.186
+},
+{
+"model": "A51_fern",
+"x": -1605.99,
+"z": -581.63,
+"rot": 37.3,
+"group": "Undergrowth",
+"scale": 1.053
+},
+{
+"model": "A51_fern",
+"x": -1478.87,
+"z": -656.76,
+"rot": 38.7,
+"group": "Undergrowth",
+"scale": 0.957
+},
+{
+"model": "A51_fern",
+"x": -1387.67,
+"z": -362.3,
+"rot": 116.1,
+"group": "Undergrowth",
+"scale": 0.831
+},
+{
+"model": "A51_fern",
+"x": -1591.69,
+"z": -263.04,
+"rot": 293.8,
+"group": "Undergrowth",
+"scale": 1.287
+},
+{
+"model": "A38_bush_1",
+"x": -1437.54,
+"z": -189.45,
+"rot": 81.6,
+"group": "Undergrowth",
+"scale": 1.128
+},
+{
+"model": "A38_bush_1",
+"x": -1526.04,
+"z": -74.78,
+"rot": 120.9,
+"group": "Undergrowth",
+"scale": 1.282
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1370.18,
+"z": -70.64,
+"rot": 40.3,
+"group": "Undergrowth",
+"scale": 1.094
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1336.52,
+"z": -303.12,
+"rot": 36.5,
+"group": "Undergrowth",
+"scale": 0.985
+},
+{
+"model": "A51_fern",
+"x": -1843.76,
+"z": -570.77,
+"rot": 219.9,
+"group": "Undergrowth",
+"scale": 0.906
+},
+{
+"model": "A38_bush_1",
+"x": -1411.43,
+"z": -382.24,
+"rot": 82.8,
+"group": "Undergrowth",
+"scale": 1.093
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1646.55,
+"z": -560.24,
+"rot": 11.9,
+"group": "Undergrowth",
+"scale": 0.889
+},
+{
+"model": "A51_fern",
+"x": -1567.98,
+"z": -328.99,
+"rot": 258.4,
+"group": "Undergrowth",
+"scale": 1.078
+},
+{
+"model": "A51_fern",
+"x": -1313.56,
+"z": -92.9,
+"rot": 58.3,
+"group": "Undergrowth",
+"scale": 1.196
+},
+{
+"model": "A51_fern",
+"x": -1445.57,
+"z": -681.33,
+"rot": 117.5,
+"group": "Undergrowth",
+"scale": 1.101
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1284.35,
+"z": -210.12,
+"rot": 86.3,
+"group": "Undergrowth",
+"scale": 1.263
+},
+{
+"model": "A38_bush_1",
+"x": -1731.54,
+"z": -209.74,
+"rot": 336.6,
+"group": "Undergrowth",
+"scale": 1.179
+},
+{
+"model": "A51_fern",
+"x": -1354.63,
+"z": -531.55,
+"rot": 137.0,
+"group": "Undergrowth",
+"scale": 0.983
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1574.49,
+"z": -579.55,
+"rot": 351.5,
+"group": "Undergrowth",
+"scale": 1.039
+},
+{
+"model": "A51_fern",
+"x": -1679.86,
+"z": -644.16,
+"rot": 71.5,
+"group": "Undergrowth",
+"scale": 0.924
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1472.33,
+"z": -703.2,
+"rot": 71.7,
+"group": "Undergrowth",
+"scale": 0.893
+},
+{
+"model": "A51_fern",
+"x": -1751.41,
+"z": -104.2,
+"rot": 10.7,
+"group": "Undergrowth",
+"scale": 1.106
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1896.57,
+"z": -336.62,
+"rot": 163.0,
+"group": "Undergrowth",
+"scale": 0.997
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1428.92,
+"z": -277.38,
+"rot": 83.0,
+"group": "Undergrowth",
+"scale": 0.952
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1363.01,
+"z": -578.13,
+"rot": 359.1,
+"group": "Undergrowth",
+"scale": 1.077
+},
+{
+"model": "A51_fern",
+"x": -1373.31,
+"z": -357.77,
+"rot": 138.0,
+"group": "Undergrowth",
+"scale": 1.019
+},
+{
+"model": "A51_fern",
+"x": -1807.01,
+"z": -170.25,
+"rot": 256.6,
+"group": "Undergrowth",
+"scale": 1.15
+},
+{
+"model": "A51_fern",
+"x": -1455.95,
+"z": -412.25,
+"rot": 56.5,
+"group": "Undergrowth",
+"scale": 0.824
+},
+{
+"model": "A51_fern",
+"x": -1679.77,
+"z": -329.8,
+"rot": 147.5,
+"group": "Undergrowth",
+"scale": 0.924
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1382.24,
+"z": -378.22,
+"rot": 8.1,
+"group": "Undergrowth",
+"scale": 1.012
+},
+{
+"model": "A51_fern",
+"x": -1893.93,
+"z": -287.22,
+"rot": 251.0,
+"group": "Undergrowth",
+"scale": 0.975
+},
+{
+"model": "A51_fern",
+"x": -1537.7,
+"z": -180.94,
+"rot": 74.6,
+"group": "Undergrowth",
+"scale": 0.896
+},
+{
+"model": "F21_giant_fern",
+"x": -1619.21,
+"z": -682.29,
+"rot": 307.1,
+"group": "Undergrowth",
+"scale": 0.985
+},
+{
+"model": "A51_fern",
+"x": -1502.76,
+"z": -248.18,
+"rot": 13.2,
+"group": "Undergrowth",
+"scale": 0.824
+},
+{
+"model": "A51_fern",
+"x": -1491.13,
+"z": -266.46,
+"rot": 292.9,
+"group": "Undergrowth",
+"scale": 1.209
+},
+{
+"model": "A39_bush_2",
+"x": -1529.22,
+"z": -328.06,
+"rot": 330.9,
+"group": "Undergrowth",
+"scale": 1.098
+},
+{
+"model": "A51_fern",
+"x": -1474.83,
+"z": -301.38,
+"rot": 348.5,
+"group": "Undergrowth",
+"scale": 1.134
+},
+{
+"model": "A39_bush_2",
+"x": -1593.47,
+"z": -600.91,
+"rot": 164.3,
+"group": "Undergrowth",
+"scale": 0.841
+},
+{
+"model": "A51_fern",
+"x": -1748.97,
+"z": -274.65,
+"rot": 167.2,
+"group": "Undergrowth",
+"scale": 0.824
+},
+{
+"model": "A38_bush_1",
+"x": -1806.7,
+"z": -147.77,
+"rot": 294.7,
+"group": "Undergrowth",
+"scale": 1.033
+},
+{
+"model": "A51_fern",
+"x": -1339.16,
+"z": -467.08,
+"rot": 350.8,
+"group": "Undergrowth",
+"scale": 0.95
+},
+{
+"model": "A38_bush_1",
+"x": -1533.78,
+"z": -530.11,
+"rot": 341.8,
+"group": "Undergrowth",
+"scale": 1.118
+},
+{
+"model": "A51_fern",
+"x": -1630.5,
+"z": -588.35,
+"rot": 245.3,
+"group": "Undergrowth",
+"scale": 1.02
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1553.02,
+"z": -683.85,
+"rot": 107.5,
+"group": "Undergrowth",
+"scale": 0.933
+},
+{
+"model": "A39_bush_2",
+"x": -1290.83,
+"z": -533.99,
+"rot": 321.8,
+"group": "Undergrowth",
+"scale": 1.082
+},
+{
+"model": "A51_fern",
+"x": -1430.98,
+"z": -481.08,
+"rot": 58.3,
+"group": "Undergrowth",
+"scale": 1.209
+},
+{
+"model": "A51_fern",
+"x": -1459.28,
+"z": -581.61,
+"rot": 308.8,
+"group": "Undergrowth",
+"scale": 0.902
+},
+{
+"model": "A51_fern",
+"x": -1416.16,
+"z": -474.44,
+"rot": 351.1,
+"group": "Undergrowth",
+"scale": 1.14
+},
+{
+"model": "A38_bush_1",
+"x": -1741.79,
+"z": -251.67,
+"rot": 141.2,
+"group": "Undergrowth",
+"scale": 0.953
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1875.33,
+"z": -240.05,
+"rot": 46.2,
+"group": "Undergrowth",
+"scale": 1.027
+},
+{
+"model": "A51_fern",
+"x": -1882.62,
+"z": -588.3,
+"rot": 176.7,
+"group": "Undergrowth",
+"scale": 1.09
+},
+{
+"model": "A51_fern",
+"x": -1833.71,
+"z": -382.17,
+"rot": 220.9,
+"group": "Undergrowth",
+"scale": 1.324
+},
+{
+"model": "F21_giant_fern",
+"x": -1833.15,
+"z": -437.27,
+"rot": 145.6,
+"group": "Undergrowth",
+"scale": 0.878
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1754.77,
+"z": -691.87,
+"rot": 170.5,
+"group": "Undergrowth",
+"scale": 0.864
+},
+{
+"model": "A38_bush_1",
+"x": -1257.43,
+"z": -295.96,
+"rot": 47.6,
+"group": "Undergrowth",
+"scale": 0.867
+},
+{
+"model": "F21_giant_fern",
+"x": -1723.39,
+"z": -136.17,
+"rot": 351.2,
+"group": "Undergrowth",
+"scale": 1.014
+},
+{
+"model": "A39_bush_2",
+"x": -1709.3,
+"z": -404.32,
+"rot": 175.3,
+"group": "Undergrowth",
+"scale": 1.257
+},
+{
+"model": "A51_fern",
+"x": -1397.27,
+"z": -390.31,
+"rot": 146.9,
+"group": "Undergrowth",
+"scale": 1.061
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1427.19,
+"z": -729.65,
+"rot": 220.5,
+"group": "Undergrowth",
+"scale": 0.962
+},
+{
+"model": "A38_bush_1",
+"x": -1345.5,
+"z": -636.07,
+"rot": 193.1,
+"group": "Undergrowth",
+"scale": 1.225
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1232.44,
+"z": -188.77,
+"rot": 237.2,
+"group": "Undergrowth",
+"scale": 1.093
+},
+{
+"model": "A51_fern",
+"x": -1832.22,
+"z": -352.72,
+"rot": 359.7,
+"group": "Undergrowth",
+"scale": 1.188
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1813.12,
+"z": -616.79,
+"rot": 241.2,
+"group": "Undergrowth",
+"scale": 0.813
+},
+{
+"model": "A51_fern",
+"x": -1482.76,
+"z": -686.86,
+"rot": 28.3,
+"group": "Undergrowth",
+"scale": 1.343
+},
+{
+"model": "A51_fern",
+"x": -1804.5,
+"z": -123.02,
+"rot": 247.9,
+"group": "Undergrowth",
+"scale": 1.048
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1631.37,
+"z": -572.78,
+"rot": 4.1,
+"group": "Undergrowth",
+"scale": 0.847
+},
+{
+"model": "A38_bush_1",
+"x": -1837.98,
+"z": -246.81,
+"rot": 189.5,
+"group": "Undergrowth",
+"scale": 1.019
+},
+{
+"model": "A51_fern",
+"x": -1744.63,
+"z": -514.04,
+"rot": 168.3,
+"group": "Undergrowth",
+"scale": 1.023
+},
+{
+"model": "A38_bush_1",
+"x": -1285.5,
+"z": -630.32,
+"rot": 28.7,
+"group": "Undergrowth",
+"scale": 1.01
+},
+{
+"model": "A51_fern",
+"x": -1267.44,
+"z": -652.12,
+"rot": 13.0,
+"group": "Undergrowth",
+"scale": 0.892
+},
+{
+"model": "A51_fern",
+"x": -1365.19,
+"z": -668.21,
+"rot": 330.3,
+"group": "Undergrowth",
+"scale": 0.981
+},
+{
+"model": "A39_bush_2",
+"x": -1590.12,
+"z": -587.66,
+"rot": 19.4,
+"group": "Undergrowth",
+"scale": 1.013
+},
+{
+"model": "A51_fern",
+"x": -1509.47,
+"z": -607.58,
+"rot": 103.7,
+"group": "Undergrowth",
+"scale": 0.921
+},
+{
+"model": "A51_fern",
+"x": -1697.46,
+"z": -631.1,
+"rot": 73.5,
+"group": "Undergrowth",
+"scale": 1.002
+},
+{
+"model": "A38_bush_1",
+"x": -1320.02,
+"z": -208.27,
+"rot": 111.5,
+"group": "Undergrowth",
+"scale": 1.009
+},
+{
+"model": "A38_bush_1",
+"x": -1505.65,
+"z": -129.66,
+"rot": 320.7,
+"group": "Undergrowth",
+"scale": 1.14
+},
+{
+"model": "A51_fern",
+"x": -1638.12,
+"z": -171.86,
+"rot": 8.3,
+"group": "Undergrowth",
+"scale": 1.157
+},
+{
+"model": "F21_giant_fern",
+"x": -1868.46,
+"z": -659.97,
+"rot": 214.6,
+"group": "Undergrowth",
+"scale": 1.012
+},
+{
+"model": "A39_bush_2",
+"x": -1822.87,
+"z": -274.15,
+"rot": 75.8,
+"group": "Undergrowth",
+"scale": 0.918
+},
+{
+"model": "A38_bush_1",
+"x": -1722.53,
+"z": -404.67,
+"rot": 48.0,
+"group": "Undergrowth",
+"scale": 0.977
+},
+{
+"model": "F21_giant_fern",
+"x": -1410.74,
+"z": -448.06,
+"rot": 239.9,
+"group": "Undergrowth",
+"scale": 0.988
+},
+{
+"model": "A51_fern",
+"x": -1528.49,
+"z": -191.25,
+"rot": 50.2,
+"group": "Undergrowth",
+"scale": 1.132
+},
+{
+"model": "A51_fern",
+"x": -1812.36,
+"z": -234.27,
+"rot": 337.6,
+"group": "Undergrowth",
+"scale": 0.902
+},
+{
+"model": "A51_fern",
+"x": -1420.65,
+"z": -319.91,
+"rot": 90.0,
+"group": "Undergrowth",
+"scale": 0.93
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1401.18,
+"z": -212.46,
+"rot": 20.1,
+"group": "Undergrowth",
+"scale": 1.162
+},
+{
+"model": "A38_bush_1",
+"x": -1782.02,
+"z": -727.45,
+"rot": 88.7,
+"group": "Undergrowth",
+"scale": 1.014
+},
+{
+"model": "A38_bush_1",
+"x": -1390.51,
+"z": -199.41,
+"rot": 83.4,
+"group": "Undergrowth",
+"scale": 1.131
+},
+{
+"model": "A51_fern",
+"x": -1418.89,
+"z": -212.17,
+"rot": 318.6,
+"group": "Undergrowth",
+"scale": 1.232
+},
+{
+"model": "F21_giant_fern",
+"x": -1239.52,
+"z": -404.55,
+"rot": 250.9,
+"group": "Undergrowth",
+"scale": 0.886
+},
+{
+"model": "A51_fern",
+"x": -1874.17,
+"z": -348.35,
+"rot": 227.9,
+"group": "Undergrowth",
+"scale": 1.09
+},
+{
+"model": "A51_fern",
+"x": -1778.14,
+"z": -714.61,
+"rot": 91.1,
+"group": "Undergrowth",
+"scale": 1.243
+},
+{
+"model": "A38_bush_1",
+"x": -1642.3,
+"z": -284.01,
+"rot": 231.1,
+"group": "Undergrowth",
+"scale": 0.832
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1306.57,
+"z": -138.91,
+"rot": 211.3,
+"group": "Undergrowth",
+"scale": 0.889
+},
+{
+"model": "A51_fern",
+"x": -1359.78,
+"z": -630.66,
+"rot": 67.4,
+"group": "Undergrowth",
+"scale": 1.241
+},
+{
+"model": "F21_giant_fern",
+"x": -1611.91,
+"z": -253.19,
+"rot": 258.8,
+"group": "Undergrowth",
+"scale": 1.131
+},
+{
+"model": "A51_fern",
+"x": -1844.91,
+"z": -620.07,
+"rot": 31.5,
+"group": "Undergrowth",
+"scale": 0.896
+},
+{
+"model": "A51_fern",
+"x": -1599.42,
+"z": -180.99,
+"rot": 291.7,
+"group": "Undergrowth",
+"scale": 1.206
+},
+{
+"model": "A51_fern",
+"x": -1395.98,
+"z": -374.71,
+"rot": 19.9,
+"group": "Undergrowth",
+"scale": 0.801
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1406.44,
+"z": -80.96,
+"rot": 64.7,
+"group": "Undergrowth",
+"scale": 1.034
+},
+{
+"model": "A51_fern",
+"x": -1429.1,
+"z": -531.93,
+"rot": 296.4,
+"group": "Undergrowth",
+"scale": 0.948
+},
+{
+"model": "A51_fern",
+"x": -1395.89,
+"z": -616.24,
+"rot": 222.2,
+"group": "Undergrowth",
+"scale": 1.134
+},
+{
+"model": "A51_fern",
+"x": -1690.63,
+"z": -450.44,
+"rot": 168.9,
+"group": "Undergrowth",
+"scale": 1.277
+},
+{
+"model": "A51_fern",
+"x": -1765.94,
+"z": -321.66,
+"rot": 250.0,
+"group": "Undergrowth",
+"scale": 1.261
+},
+{
+"model": "F21_giant_fern",
+"x": -1494.92,
+"z": -293.93,
+"rot": 261.0,
+"group": "Undergrowth",
+"scale": 1.28
+},
+{
+"model": "A51_fern",
+"x": -1372.84,
+"z": -367.43,
+"rot": 313.7,
+"group": "Undergrowth",
+"scale": 0.957
+},
+{
+"model": "A51_fern",
+"x": -1597.6,
+"z": -707.97,
+"rot": 125.9,
+"group": "Undergrowth",
+"scale": 0.966
+},
+{
+"model": "F21_giant_fern",
+"x": -1730.14,
+"z": -696.18,
+"rot": 205.1,
+"group": "Undergrowth",
+"scale": 0.986
+},
+{
+"model": "F21_giant_fern",
+"x": -1732.89,
+"z": -529.57,
+"rot": 4.0,
+"group": "Undergrowth",
+"scale": 1.029
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1510.05,
+"z": -211.06,
+"rot": 210.4,
+"group": "Undergrowth",
+"scale": 0.838
+},
+{
+"model": "A51_fern",
+"x": -1647.79,
+"z": -544.29,
+"rot": 170.7,
+"group": "Undergrowth",
+"scale": 0.865
+},
+{
+"model": "A38_bush_1",
+"x": -1342.48,
+"z": -106.52,
+"rot": 22.3,
+"group": "Undergrowth",
+"scale": 1.074
+},
+{
+"model": "F21_giant_fern",
+"x": -1645.14,
+"z": -636.8,
+"rot": 179.5,
+"group": "Undergrowth",
+"scale": 0.927
+},
+{
+"model": "A39_bush_2",
+"x": -1482.43,
+"z": -630.51,
+"rot": 324.4,
+"group": "Undergrowth",
+"scale": 1.286
+},
+{
+"model": "A38_bush_1",
+"x": -1659.33,
+"z": -573.64,
+"rot": 86.9,
+"group": "Undergrowth",
+"scale": 0.898
+},
+{
+"model": "A51_fern",
+"x": -1725.17,
+"z": -719.57,
+"rot": 223.6,
+"group": "Undergrowth",
+"scale": 1.099
+},
+{
+"model": "A39_bush_2",
+"x": -1264.09,
+"z": -608.49,
+"rot": 107.5,
+"group": "Undergrowth",
+"scale": 1.193
+},
+{
+"model": "A51_fern",
+"x": -1604.75,
+"z": -601.28,
+"rot": 183.4,
+"group": "Undergrowth",
+"scale": 0.975
+},
+{
+"model": "A51_fern",
+"x": -1574.51,
+"z": -729.35,
+"rot": 49.7,
+"group": "Undergrowth",
+"scale": 0.806
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1345.07,
+"z": -272.11,
+"rot": 296.2,
+"group": "Undergrowth",
+"scale": 0.941
+},
+{
+"model": "A51_fern",
+"x": -1759.99,
+"z": -469.22,
+"rot": 255.6,
+"group": "Undergrowth",
+"scale": 0.993
+},
+{
+"model": "A39_bush_2",
+"x": -1482.91,
+"z": -574.31,
+"rot": 173.1,
+"group": "Undergrowth",
+"scale": 1.077
+},
+{
+"model": "A51_fern",
+"x": -1757.24,
+"z": -127.51,
+"rot": 182.2,
+"group": "Undergrowth",
+"scale": 1.236
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1354.62,
+"z": -441.16,
+"rot": 1.0,
+"group": "Undergrowth",
+"scale": 0.853
+},
+{
+"model": "A51_fern",
+"x": -1320.95,
+"z": -457.0,
+"rot": 242.8,
+"group": "Undergrowth",
+"scale": 1.322
+},
+{
+"model": "A51_fern",
+"x": -1633.11,
+"z": -232.77,
+"rot": 144.1,
+"group": "Undergrowth",
+"scale": 1.066
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1277.76,
+"z": -578.79,
+"rot": 37.8,
+"group": "Undergrowth",
+"scale": 1.117
+},
+{
+"model": "A38_bush_1",
+"x": -1537.66,
+"z": -81.23,
+"rot": 206.1,
+"group": "Undergrowth",
+"scale": 1.213
+},
+{
+"model": "A51_fern",
+"x": -1443.23,
+"z": -528.79,
+"rot": 180.3,
+"group": "Undergrowth",
+"scale": 1.056
+},
+{
+"model": "A38_bush_1",
+"x": -1399.69,
+"z": -599.94,
+"rot": 268.4,
+"group": "Undergrowth",
+"scale": 0.982
+},
+{
+"model": "A51_fern",
+"x": -1231.29,
+"z": -318.88,
+"rot": 306.5,
+"group": "Undergrowth",
+"scale": 1.078
+},
+{
+"model": "A51_fern",
+"x": -1864.39,
+"z": -225.15,
+"rot": 311.0,
+"group": "Undergrowth",
+"scale": 0.877
+},
+{
+"model": "A38_bush_1",
+"x": -1806.02,
+"z": -344.68,
+"rot": 230.8,
+"group": "Undergrowth",
+"scale": 1.126
+},
+{
+"model": "A51_fern",
+"x": -1553.91,
+"z": -326.06,
+"rot": 39.1,
+"group": "Undergrowth",
+"scale": 1.073
+},
+{
+"model": "A51_fern",
+"x": -1675.89,
+"z": -652.86,
+"rot": 286.8,
+"group": "Undergrowth",
+"scale": 1.103
+},
+{
+"model": "A51_fern",
+"x": -1590.83,
+"z": -633.92,
+"rot": 127.0,
+"group": "Undergrowth",
+"scale": 1.181
+},
+{
+"model": "A38_bush_1",
+"x": -1589.38,
+"z": -562.74,
+"rot": 315.8,
+"group": "Undergrowth",
+"scale": 0.994
+},
+{
+"model": "A51_fern",
+"x": -1622.89,
+"z": -632.62,
+"rot": 178.9,
+"group": "Undergrowth",
+"scale": 0.883
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1284.1,
+"z": -188.29,
+"rot": 200.7,
+"group": "Undergrowth",
+"scale": 1.199
+},
+{
+"model": "A51_fern",
+"x": -1475.17,
+"z": -547.27,
+"rot": 305.2,
+"group": "Undergrowth",
+"scale": 1.305
+},
+{
+"model": "A51_fern",
+"x": -1739.66,
+"z": -378.53,
+"rot": 258.5,
+"group": "Undergrowth",
+"scale": 1.035
+},
+{
+"model": "A51_fern",
+"x": -1352.57,
+"z": -184.68,
+"rot": 264.5,
+"group": "Undergrowth",
+"scale": 0.805
+},
+{
+"model": "A38_bush_1",
+"x": -1268.17,
+"z": -216.65,
+"rot": 266.7,
+"group": "Undergrowth",
+"scale": 1.216
+},
+{
+"model": "A51_fern",
+"x": -1400.4,
+"z": -683.65,
+"rot": 277.4,
+"group": "Undergrowth",
+"scale": 1.082
+},
+{
+"model": "A51_fern",
+"x": -1463.92,
+"z": -235.8,
+"rot": 264.0,
+"group": "Undergrowth",
+"scale": 1.073
+},
+{
+"model": "A51_fern",
+"x": -1668.94,
+"z": -419.26,
+"rot": 220.5,
+"group": "Undergrowth",
+"scale": 1.289
+},
+{
+"model": "A51_fern",
+"x": -1514.29,
+"z": -266.6,
+"rot": 5.6,
+"group": "Undergrowth",
+"scale": 0.977
+},
+{
+"model": "A38_bush_1",
+"x": -1235.89,
+"z": -607.05,
+"rot": 212.7,
+"group": "Undergrowth",
+"scale": 0.806
+},
+{
+"model": "A51_fern",
+"x": -1415.98,
+"z": -363.45,
+"rot": 330.7,
+"group": "Undergrowth",
+"scale": 1.312
+},
+{
+"model": "A51_fern",
+"x": -1511.32,
+"z": -275.42,
+"rot": 358.8,
+"group": "Undergrowth",
+"scale": 0.954
+},
+{
+"model": "A38_bush_1",
+"x": -1343.13,
+"z": -429.44,
+"rot": 0.6,
+"group": "Undergrowth",
+"scale": 1.067
+},
+{
+"model": "A51_fern",
+"x": -1640.66,
+"z": -319.38,
+"rot": 330.7,
+"group": "Undergrowth",
+"scale": 1.122
+},
+{
+"model": "A51_fern",
+"x": -1872.61,
+"z": -371.4,
+"rot": 140.8,
+"group": "Undergrowth",
+"scale": 0.903
+},
+{
+"model": "A38_bush_1",
+"x": -1745.98,
+"z": -113.8,
+"rot": 64.8,
+"group": "Undergrowth",
+"scale": 1.271
+},
+{
+"model": "A38_bush_1",
+"x": -1279.41,
+"z": -172.9,
+"rot": 54.9,
+"group": "Undergrowth",
+"scale": 0.965
+},
+{
+"model": "A39_bush_2",
+"x": -1355.79,
+"z": -323.97,
+"rot": 223.9,
+"group": "Undergrowth",
+"scale": 1.149
+},
+{
+"model": "A51_fern",
+"x": -1683.68,
+"z": -276.31,
+"rot": 54.4,
+"group": "Undergrowth",
+"scale": 1.046
+},
+{
+"model": "A51_fern",
+"x": -1329.74,
+"z": -629.43,
+"rot": 318.1,
+"group": "Undergrowth",
+"scale": 1.287
+},
+{
+"model": "A39_bush_2",
+"x": -1339.36,
+"z": -324.1,
+"rot": 10.0,
+"group": "Undergrowth",
+"scale": 0.873
+},
+{
+"model": "F21_giant_fern",
+"x": -1531.17,
+"z": -159.07,
+"rot": 301.9,
+"group": "Undergrowth",
+"scale": 0.936
+},
+{
+"model": "A39_bush_2",
+"x": -1650.5,
+"z": -694.76,
+"rot": 212.4,
+"group": "Undergrowth",
+"scale": 1.346
+},
+{
+"model": "A51_fern",
+"x": -1241.98,
+"z": -489.39,
+"rot": 174.6,
+"group": "Undergrowth",
+"scale": 0.959
+},
+{
+"model": "A51_fern",
+"x": -1848.85,
+"z": -593.12,
+"rot": 357.8,
+"group": "Undergrowth",
+"scale": 0.955
+},
+{
+"model": "A51_fern",
+"x": -1765.59,
+"z": -459.18,
+"rot": 68.4,
+"group": "Undergrowth",
+"scale": 1.206
+},
+{
+"model": "A38_bush_1",
+"x": -1618.12,
+"z": -555.26,
+"rot": 232.6,
+"group": "Undergrowth",
+"scale": 0.969
+},
+{
+"model": "A51_fern",
+"x": -1518.0,
+"z": -628.7,
+"rot": 81.9,
+"group": "Undergrowth",
+"scale": 0.953
+},
+{
+"model": "A51_fern",
+"x": -1438.17,
+"z": -663.17,
+"rot": 90.4,
+"group": "Undergrowth",
+"scale": 0.994
+},
+{
+"model": "A39_bush_2",
+"x": -1359.75,
+"z": -517.17,
+"rot": 77.6,
+"group": "Undergrowth",
+"scale": 1.283
+},
+{
+"model": "A39_bush_2",
+"x": -1604.14,
+"z": -285.69,
+"rot": 210.2,
+"group": "Undergrowth",
+"scale": 1.057
+},
+{
+"model": "A38_bush_1",
+"x": -1573.44,
+"z": -674.76,
+"rot": 13.0,
+"group": "Undergrowth",
+"scale": 1.265
+},
+{
+"model": "A51_fern",
+"x": -1829.12,
+"z": -615.21,
+"rot": 295.5,
+"group": "Undergrowth",
+"scale": 1.285
+},
+{
+"model": "A51_fern",
+"x": -1632.03,
+"z": -615.21,
+"rot": 237.2,
+"group": "Undergrowth",
+"scale": 1.143
+},
+{
+"model": "A38_bush_1",
+"x": -1520.76,
+"z": -275.79,
+"rot": 300.7,
+"group": "Undergrowth",
+"scale": 0.835
+},
+{
+"model": "A38_bush_1",
+"x": -1713.81,
+"z": -383.8,
+"rot": 151.4,
+"group": "Undergrowth",
+"scale": 0.817
+},
+{
+"model": "A51_fern",
+"x": -1670.59,
+"z": -557.21,
+"rot": 263.0,
+"group": "Undergrowth",
+"scale": 0.828
+},
+{
+"model": "A39_bush_2",
+"x": -1514.99,
+"z": -235.03,
+"rot": 206.5,
+"group": "Undergrowth",
+"scale": 0.866
+},
+{
+"model": "A51_fern",
+"x": -1389.71,
+"z": -223.15,
+"rot": 295.0,
+"group": "Undergrowth",
+"scale": 0.851
+},
+{
+"model": "A51_fern",
+"x": -1630.08,
+"z": -600.03,
+"rot": 330.3,
+"group": "Undergrowth",
+"scale": 1.208
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1891.29,
+"z": -275.19,
+"rot": 79.5,
+"group": "Undergrowth",
+"scale": 0.915
+},
+{
+"model": "A51_fern",
+"x": -1413.81,
+"z": -543.31,
+"rot": 154.2,
+"group": "Undergrowth",
+"scale": 1.3
+},
+{
+"model": "A38_bush_1",
+"x": -1712.79,
+"z": -655.69,
+"rot": 81.4,
+"group": "Undergrowth",
+"scale": 0.806
+},
+{
+"model": "A51_fern",
+"x": -1815.7,
+"z": -436.87,
+"rot": 312.2,
+"group": "Undergrowth",
+"scale": 0.917
+},
+{
+"model": "A51_fern",
+"x": -1675.85,
+"z": -508.13,
+"rot": 237.5,
+"group": "Undergrowth",
+"scale": 0.983
+},
+{
+"model": "A38_bush_1",
+"x": -1231.98,
+"z": -305.31,
+"rot": 280.9,
+"group": "Undergrowth",
+"scale": 0.916
+},
+{
+"model": "A38_bush_1",
+"x": -1853.79,
+"z": -668.92,
+"rot": 151.4,
+"group": "Undergrowth",
+"scale": 1.273
+},
+{
+"model": "A51_fern",
+"x": -1519.42,
+"z": -645.78,
+"rot": 183.6,
+"group": "Undergrowth",
+"scale": 0.897
+},
+{
+"model": "A51_fern",
+"x": -1454.37,
+"z": -422.55,
+"rot": 297.7,
+"group": "Undergrowth",
+"scale": 1.114
+},
+{
+"model": "F21_giant_fern",
+"x": -1715.08,
+"z": -221.76,
+"rot": 104.5,
+"group": "Undergrowth",
+"scale": 1.233
+},
+{
+"model": "A51_fern",
+"x": -1612.28,
+"z": -107.19,
+"rot": 14.6,
+"group": "Undergrowth",
+"scale": 0.936
+},
+{
+"model": "A51_fern",
+"x": -1740.55,
+"z": -556.18,
+"rot": 163.9,
+"group": "Undergrowth",
+"scale": 0.806
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1746.91,
+"z": -442.23,
+"rot": 266.7,
+"group": "Undergrowth",
+"scale": 0.813
+},
+{
+"model": "A51_fern",
+"x": -1575.45,
+"z": -603.12,
+"rot": 103.6,
+"group": "Undergrowth",
+"scale": 1.204
+},
+{
+"model": "F21_giant_fern",
+"x": -1597.63,
+"z": -228.36,
+"rot": 275.3,
+"group": "Undergrowth",
+"scale": 0.816
+},
+{
+"model": "A51_fern",
+"x": -1541.57,
+"z": -192.6,
+"rot": 23.5,
+"group": "Undergrowth",
+"scale": 0.926
+},
+{
+"model": "A51_fern",
+"x": -1431.48,
+"z": -381.65,
+"rot": 327.6,
+"group": "Undergrowth",
+"scale": 1.005
+},
+{
+"model": "A38_bush_1",
+"x": -1550.09,
+"z": -538.36,
+"rot": 142.4,
+"group": "Undergrowth",
+"scale": 1.146
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1447.62,
+"z": -338.31,
+"rot": 134.6,
+"group": "Undergrowth",
+"scale": 1.289
+},
+{
+"model": "A51_fern",
+"x": -1610.25,
+"z": -611.57,
+"rot": 290.2,
+"group": "Undergrowth",
+"scale": 0.994
+},
+{
+"model": "A51_fern",
+"x": -1862.37,
+"z": -260.21,
+"rot": 7.9,
+"group": "Undergrowth",
+"scale": 1.336
+},
+{
+"model": "A39_bush_2",
+"x": -1792.33,
+"z": -542.3,
+"rot": 196.4,
+"group": "Undergrowth",
+"scale": 1.142
+},
+{
+"model": "A39_bush_2",
+"x": -1384.01,
+"z": -629.33,
+"rot": 199.9,
+"group": "Undergrowth",
+"scale": 1.242
+},
+{
+"model": "A51_fern",
+"x": -1732.93,
+"z": -268.43,
+"rot": 255.7,
+"group": "Undergrowth",
+"scale": 0.824
+},
+{
+"model": "A39_bush_2",
+"x": -1888.12,
+"z": -466.49,
+"rot": 256.4,
+"group": "Undergrowth",
+"scale": 1.195
+},
+{
+"model": "A51_fern",
+"x": -1587.19,
+"z": -301.85,
+"rot": 84.8,
+"group": "Undergrowth",
+"scale": 1.072
+},
+{
+"model": "A51_fern",
+"x": -1818.43,
+"z": -286.16,
+"rot": 355.0,
+"group": "Undergrowth",
+"scale": 1.149
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1526.58,
+"z": -292.71,
+"rot": 301.0,
+"group": "Undergrowth",
+"scale": 0.887
+},
+{
+"model": "A39_bush_2",
+"x": -1263.88,
+"z": -586.34,
+"rot": 218.9,
+"group": "Undergrowth",
+"scale": 1.221
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1425.75,
+"z": -346.77,
+"rot": 217.2,
+"group": "Undergrowth",
+"scale": 0.903
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1527.17,
+"z": -567.73,
+"rot": 289.0,
+"group": "Undergrowth",
+"scale": 0.964
+},
+{
+"model": "F21_giant_fern",
+"x": -1821.04,
+"z": -254.64,
+"rot": 180.1,
+"group": "Undergrowth",
+"scale": 1.158
+},
+{
+"model": "A51_fern",
+"x": -1304.11,
+"z": -241.37,
+"rot": 295.9,
+"group": "Undergrowth",
+"scale": 0.92
+},
+{
+"model": "A51_fern",
+"x": -1543.61,
+"z": -527.73,
+"rot": 171.5,
+"group": "Undergrowth",
+"scale": 1.053
+},
+{
+"model": "A51_fern",
+"x": -1777.81,
+"z": -322.03,
+"rot": 230.6,
+"group": "Undergrowth",
+"scale": 1.051
+},
+{
+"model": "A51_fern",
+"x": -1272.03,
+"z": -287.54,
+"rot": 160.5,
+"group": "Undergrowth",
+"scale": 1.326
+},
+{
+"model": "A51_fern",
+"x": -1411.7,
+"z": -199.51,
+"rot": 182.4,
+"group": "Undergrowth",
+"scale": 1.104
+},
+{
+"model": "A51_fern",
+"x": -1351.26,
+"z": -649.4,
+"rot": 50.1,
+"group": "Undergrowth",
+"scale": 1.321
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1744.44,
+"z": -136.98,
+"rot": 212.4,
+"group": "Undergrowth",
+"scale": 0.843
+},
+{
+"model": "A51_fern",
+"x": -1426.51,
+"z": -685.4,
+"rot": 219.8,
+"group": "Undergrowth",
+"scale": 1.262
+},
+{
+"model": "A51_fern",
+"x": -1303.88,
+"z": -507.37,
+"rot": 223.6,
+"group": "Undergrowth",
+"scale": 1.304
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1589.53,
+"z": -243.25,
+"rot": 89.4,
+"group": "Undergrowth",
+"scale": 0.814
+},
+{
+"model": "A38_bush_1",
+"x": -1438.13,
+"z": -221.85,
+"rot": 299.2,
+"group": "Undergrowth",
+"scale": 0.833
+},
+{
+"model": "A51_fern",
+"x": -1657.41,
+"z": -553.5,
+"rot": 90.2,
+"group": "Undergrowth",
+"scale": 1.138
+},
+{
+"model": "A51_fern",
+"x": -1381.04,
+"z": -349.97,
+"rot": 254.7,
+"group": "Undergrowth",
+"scale": 0.952
+},
+{
+"model": "A51_fern",
+"x": -1680.0,
+"z": -168.05,
+"rot": 241.2,
+"group": "Undergrowth",
+"scale": 0.941
+},
+{
+"model": "A39_bush_2",
+"x": -1464.34,
+"z": -262.24,
+"rot": 156.8,
+"group": "Undergrowth",
+"scale": 1.318
+},
+{
+"model": "A39_bush_2",
+"x": -1747.19,
+"z": -323.01,
+"rot": 258.2,
+"group": "Undergrowth",
+"scale": 1.159
+},
+{
+"model": "A51_fern",
+"x": -1789.35,
+"z": -475.48,
+"rot": 10.5,
+"group": "Undergrowth",
+"scale": 1.116
+},
+{
+"model": "A51_fern",
+"x": -1726.91,
+"z": -335.64,
+"rot": 263.5,
+"group": "Undergrowth",
+"scale": 1.335
+},
+{
+"model": "A51_fern",
+"x": -1849.62,
+"z": -656.35,
+"rot": 48.9,
+"group": "Undergrowth",
+"scale": 0.898
+},
+{
+"model": "A51_fern",
+"x": -1585.06,
+"z": -524.78,
+"rot": 106.4,
+"group": "Undergrowth",
+"scale": 0.804
+},
+{
+"model": "F21_giant_fern",
+"x": -1503.46,
+"z": -561.2,
+"rot": 97.7,
+"group": "Undergrowth",
+"scale": 0.92
+},
+{
+"model": "A51_fern",
+"x": -1339.32,
+"z": -498.2,
+"rot": 6.5,
+"group": "Undergrowth",
+"scale": 0.984
+},
+{
+"model": "A51_fern",
+"x": -1306.12,
+"z": -207.69,
+"rot": 326.2,
+"group": "Undergrowth",
+"scale": 1.125
+},
+{
+"model": "A51_fern",
+"x": -1499.4,
+"z": -611.33,
+"rot": 106.1,
+"group": "Undergrowth",
+"scale": 1.272
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1795.79,
+"z": -163.03,
+"rot": 159.0,
+"group": "Undergrowth",
+"scale": 0.963
+},
+{
+"model": "F21_giant_fern",
+"x": -1528.42,
+"z": -251.72,
+"rot": 278.1,
+"group": "Undergrowth",
+"scale": 1.155
+},
+{
+"model": "A51_fern",
+"x": -1857.34,
+"z": -249.54,
+"rot": 88.9,
+"group": "Undergrowth",
+"scale": 1.244
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1371.19,
+"z": -239.38,
+"rot": 42.4,
+"group": "Undergrowth",
+"scale": 1.024
+},
+{
+"model": "A51_fern",
+"x": -1856.3,
+"z": -600.34,
+"rot": 311.5,
+"group": "Undergrowth",
+"scale": 0.878
+},
+{
+"model": "A51_fern",
+"x": -1602.17,
+"z": -139.9,
+"rot": 327.0,
+"group": "Undergrowth",
+"scale": 0.958
+},
+{
+"model": "A38_bush_1",
+"x": -1766.56,
+"z": -193.36,
+"rot": 111.9,
+"group": "Undergrowth",
+"scale": 0.891
+},
+{
+"model": "F21_giant_fern",
+"x": -1495.38,
+"z": -596.27,
+"rot": 7.8,
+"group": "Undergrowth",
+"scale": 0.882
+},
+{
+"model": "A38_bush_1",
+"x": -1628.07,
+"z": -271.06,
+"rot": 334.5,
+"group": "Undergrowth",
+"scale": 1.024
+},
+{
+"model": "A51_fern",
+"x": -1610.07,
+"z": -621.27,
+"rot": 64.0,
+"group": "Undergrowth",
+"scale": 1.071
+},
+{
+"model": "A51_fern",
+"x": -1303.46,
+"z": -427.92,
+"rot": 329.3,
+"group": "Undergrowth",
+"scale": 0.848
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1671.68,
+"z": -690.55,
+"rot": 98.7,
+"group": "Undergrowth",
+"scale": 1.168
+},
+{
+"model": "A38_bush_1",
+"x": -1811.91,
+"z": -159.25,
+"rot": 277.0,
+"group": "Undergrowth",
+"scale": 0.852
+},
+{
+"model": "A51_fern",
+"x": -1805.83,
+"z": -539.53,
+"rot": 64.0,
+"group": "Undergrowth",
+"scale": 1.136
+},
+{
+"model": "A39_bush_2",
+"x": -1425.77,
+"z": -491.96,
+"rot": 282.6,
+"group": "Undergrowth",
+"scale": 0.872
+},
+{
+"model": "A51_fern",
+"x": -1228.33,
+"z": -479.59,
+"rot": 213.1,
+"group": "Undergrowth",
+"scale": 1.194
+},
+{
+"model": "A51_fern",
+"x": -1421.57,
+"z": -697.93,
+"rot": 5.5,
+"group": "Undergrowth",
+"scale": 1.295
+},
+{
+"model": "A51_fern",
+"x": -1637.78,
+"z": -680.22,
+"rot": 341.5,
+"group": "Undergrowth",
+"scale": 1.011
+},
+{
+"model": "A51_fern",
+"x": -1500.46,
+"z": -689.3,
+"rot": 346.4,
+"group": "Undergrowth",
+"scale": 1.243
+},
+{
+"model": "A39_bush_2",
+"x": -1898.91,
+"z": -560.52,
+"rot": 138.1,
+"group": "Undergrowth",
+"scale": 0.864
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1866.45,
+"z": -596.37,
+"rot": 47.9,
+"group": "Undergrowth",
+"scale": 0.809
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1812.14,
+"z": -492.01,
+"rot": 94.5,
+"group": "Undergrowth",
+"scale": 1.108
+},
+{
+"model": "A51_fern",
+"x": -1613.25,
+"z": -128.05,
+"rot": 39.0,
+"group": "Undergrowth",
+"scale": 1.186
+},
+{
+"model": "A51_fern",
+"x": -1737.51,
+"z": -362.62,
+"rot": 36.9,
+"group": "Undergrowth",
+"scale": 1.284
+},
+{
+"model": "A51_fern",
+"x": -1279.28,
+"z": -223.27,
+"rot": 52.6,
+"group": "Undergrowth",
+"scale": 0.896
+},
+{
+"model": "A51_fern",
+"x": -1844.24,
+"z": -557.54,
+"rot": 111.5,
+"group": "Undergrowth",
+"scale": 1.141
+},
+{
+"model": "A51_fern",
+"x": -1348.48,
+"z": -313.08,
+"rot": 173.4,
+"group": "Undergrowth",
+"scale": 0.824
+},
+{
+"model": "A51_fern",
+"x": -1277.33,
+"z": -377.6,
+"rot": 17.1,
+"group": "Undergrowth",
+"scale": 1.259
+},
+{
+"model": "A38_bush_1",
+"x": -1579.96,
+"z": -533.38,
+"rot": 49.5,
+"group": "Undergrowth",
+"scale": 0.804
+},
+{
+"model": "A51_fern",
+"x": -1548.48,
+"z": -723.88,
+"rot": 291.7,
+"group": "Undergrowth",
+"scale": 0.806
+},
+{
+"model": "A51_fern",
+"x": -1813.25,
+"z": -513.83,
+"rot": 112.1,
+"group": "Undergrowth",
+"scale": 0.824
+},
+{
+"model": "A51_fern",
+"x": -1787.28,
+"z": -644.42,
+"rot": 288.9,
+"group": "Undergrowth",
+"scale": 1.229
+},
+{
+"model": "A51_fern",
+"x": -1582.75,
+"z": -158.19,
+"rot": 234.6,
+"group": "Undergrowth",
+"scale": 0.91
+},
+{
+"model": "A51_fern",
+"x": -1292.0,
+"z": -271.82,
+"rot": 224.3,
+"group": "Undergrowth",
+"scale": 1.177
+},
+{
+"model": "A51_fern",
+"x": -1297.48,
+"z": -544.05,
+"rot": 315.5,
+"group": "Undergrowth",
+"scale": 1.228
+},
+{
+"model": "A51_fern",
+"x": -1369.76,
+"z": -320.72,
+"rot": 301.7,
+"group": "Undergrowth",
+"scale": 1.205
+},
+{
+"model": "A51_fern",
+"x": -1558.33,
+"z": -127.9,
+"rot": 45.1,
+"group": "Undergrowth",
+"scale": 0.983
+},
+{
+"model": "A51_fern",
+"x": -1839.89,
+"z": -257.49,
+"rot": 311.0,
+"group": "Undergrowth",
+"scale": 1.237
+},
+{
+"model": "A51_fern",
+"x": -1824.8,
+"z": -334.35,
+"rot": 128.3,
+"group": "Undergrowth",
+"scale": 1.246
+},
+{
+"model": "A51_fern",
+"x": -1593.78,
+"z": -292.29,
+"rot": 270.8,
+"group": "Undergrowth",
+"scale": 1.177
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1585.75,
+"z": -143.29,
+"rot": 264.2,
+"group": "Undergrowth",
+"scale": 0.937
+},
+{
+"model": "A51_fern",
+"x": -1299.94,
+"z": -456.82,
+"rot": 42.3,
+"group": "Undergrowth",
+"scale": 0.895
+},
+{
+"model": "A51_fern",
+"x": -1850.75,
+"z": -227.94,
+"rot": 35.7,
+"group": "Undergrowth",
+"scale": 0.892
+},
+{
+"model": "A51_fern",
+"x": -1400.72,
+"z": -638.84,
+"rot": 229.0,
+"group": "Undergrowth",
+"scale": 0.975
+},
+{
+"model": "A51_fern",
+"x": -1453.71,
+"z": -519.86,
+"rot": 53.5,
+"group": "Undergrowth",
+"scale": 1.188
+},
+{
+"model": "F21_giant_fern",
+"x": -1420.37,
+"z": -575.35,
+"rot": 322.9,
+"group": "Undergrowth",
+"scale": 0.941
+},
+{
+"model": "F21_giant_fern",
+"x": -1778.57,
+"z": -247.8,
+"rot": 162.0,
+"group": "Undergrowth",
+"scale": 0.804
+},
+{
+"model": "A51_fern",
+"x": -1286.65,
+"z": -248.56,
+"rot": 317.7,
+"group": "Undergrowth",
+"scale": 1.018
+},
+{
+"model": "A51_fern",
+"x": -1297.73,
+"z": -420.42,
+"rot": 4.3,
+"group": "Undergrowth",
+"scale": 0.838
+},
+{
+"model": "A51_fern",
+"x": -1599.21,
+"z": -572.53,
+"rot": 291.0,
+"group": "Undergrowth",
+"scale": 1.209
+},
+{
+"model": "A51_fern",
+"x": -1767.33,
+"z": -257.24,
+"rot": 286.3,
+"group": "Undergrowth",
+"scale": 1.097
+},
+{
+"model": "A51_fern",
+"x": -1280.97,
+"z": -344.47,
+"rot": 51.5,
+"group": "Undergrowth",
+"scale": 1.26
+},
+{
+"model": "A51_fern",
+"x": -1752.54,
+"z": -626.62,
+"rot": 269.0,
+"group": "Undergrowth",
+"scale": 1.084
+},
+{
+"model": "A51_fern",
+"x": -1656.1,
+"z": -75.74,
+"rot": 265.5,
+"group": "Undergrowth",
+"scale": 1.312
+},
+{
+"model": "A51_fern",
+"x": -1275.97,
+"z": -680.07,
+"rot": 128.9,
+"group": "Undergrowth",
+"scale": 1.023
+},
+{
+"model": "A51_fern",
+"x": -1871.2,
+"z": -175.13,
+"rot": 320.2,
+"group": "Undergrowth",
+"scale": 1.184
+},
+{
+"model": "A51_fern",
+"x": -1440.3,
+"z": -74.37,
+"rot": 138.2,
+"group": "Undergrowth",
+"scale": 1.108
+},
+{
+"model": "A38_bush_1",
+"x": -1617.13,
+"z": -602.52,
+"rot": 356.5,
+"group": "Undergrowth",
+"scale": 0.874
+},
+{
+"model": "A51_fern",
+"x": -1258.71,
+"z": -574.66,
+"rot": 143.6,
+"group": "Undergrowth",
+"scale": 0.962
+},
+{
+"model": "A38_bush_1",
+"x": -1769.94,
+"z": -388.54,
+"rot": 206.5,
+"group": "Undergrowth",
+"scale": 0.945
+},
+{
+"model": "A39_bush_2",
+"x": -1775.48,
+"z": -118.45,
+"rot": 165.9,
+"group": "Undergrowth",
+"scale": 0.826
+},
+{
+"model": "A38_bush_1",
+"x": -1757.11,
+"z": -116.34,
+"rot": 49.8,
+"group": "Undergrowth",
+"scale": 0.922
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1696.32,
+"z": -317.71,
+"rot": 300.2,
+"group": "Undergrowth",
+"scale": 0.944
+},
+{
+"model": "A51_fern",
+"x": -1675.72,
+"z": -366.48,
+"rot": 274.6,
+"group": "Undergrowth",
+"scale": 1.161
+},
+{
+"model": "A51_fern",
+"x": -1830.25,
+"z": -551.7,
+"rot": 167.0,
+"group": "Undergrowth",
+"scale": 0.869
+},
+{
+"model": "A51_fern",
+"x": -1685.32,
+"z": -513.01,
+"rot": 226.1,
+"group": "Undergrowth",
+"scale": 0.928
+},
+{
+"model": "A51_fern",
+"x": -1716.21,
+"z": -728.52,
+"rot": 348.3,
+"group": "Undergrowth",
+"scale": 1.212
+},
+{
+"model": "A51_fern",
+"x": -1471.33,
+"z": -582.16,
+"rot": 195.0,
+"group": "Undergrowth",
+"scale": 0.835
+},
+{
+"model": "A38_bush_1",
+"x": -1751.36,
+"z": -561.03,
+"rot": 92.5,
+"group": "Undergrowth",
+"scale": 1.249
+},
+{
+"model": "A51_fern",
+"x": -1291.53,
+"z": -558.85,
+"rot": 117.7,
+"group": "Undergrowth",
+"scale": 0.894
+},
+{
+"model": "A51_fern",
+"x": -1667.38,
+"z": -505.72,
+"rot": 86.7,
+"group": "Undergrowth",
+"scale": 0.919
+},
+{
+"model": "A38_bush_1",
+"x": -1877.99,
+"z": -224.48,
+"rot": 263.5,
+"group": "Undergrowth",
+"scale": 0.901
+},
+{
+"model": "A51_fern",
+"x": -1378.29,
+"z": -587.48,
+"rot": 108.7,
+"group": "Undergrowth",
+"scale": 1.13
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1862.11,
+"z": -613.95,
+"rot": 76.2,
+"group": "Undergrowth",
+"scale": 0.831
+},
+{
+"model": "A51_fern",
+"x": -1669.4,
+"z": -567.06,
+"rot": 316.2,
+"group": "Undergrowth",
+"scale": 1.102
+},
+{
+"model": "A51_fern",
+"x": -1377.34,
+"z": -424.92,
+"rot": 236.3,
+"group": "Undergrowth",
+"scale": 1.004
+},
+{
+"model": "A51_fern",
+"x": -1247.92,
+"z": -571.1,
+"rot": 92.3,
+"group": "Undergrowth",
+"scale": 0.814
+},
+{
+"model": "A51_fern",
+"x": -1603.29,
+"z": -639.92,
+"rot": 87.3,
+"group": "Undergrowth",
+"scale": 0.879
+},
+{
+"model": "A51_fern",
+"x": -1393.45,
+"z": -437.22,
+"rot": 337.2,
+"group": "Undergrowth",
+"scale": 0.801
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1557.79,
+"z": -235.21,
+"rot": 53.9,
+"group": "Undergrowth",
+"scale": 1.077
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1525.61,
+"z": -203.01,
+"rot": 336.1,
+"group": "Undergrowth",
+"scale": 0.875
+},
+{
+"model": "A51_fern",
+"x": -1323.69,
+"z": -243.59,
+"rot": 221.6,
+"group": "Undergrowth",
+"scale": 1.218
+},
+{
+"model": "A51_fern",
+"x": -1574.76,
+"z": -291.99,
+"rot": 53.8,
+"group": "Undergrowth",
+"scale": 1.12
+},
+{
+"model": "A51_fern",
+"x": -1344.53,
+"z": -459.42,
+"rot": 9.1,
+"group": "Undergrowth",
+"scale": 0.923
+},
+{
+"model": "A51_fern",
+"x": -1303.26,
+"z": -466.7,
+"rot": 109.7,
+"group": "Undergrowth",
+"scale": 0.82
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1662.19,
+"z": -641.9,
+"rot": 83.5,
+"group": "Undergrowth",
+"scale": 1.114
+},
+{
+"model": "A51_fern",
+"x": -1816.97,
+"z": -100.72,
+"rot": 155.3,
+"group": "Undergrowth",
+"scale": 1.279
+},
+{
+"model": "A51_fern",
+"x": -1452.24,
+"z": -185.48,
+"rot": 74.3,
+"group": "Undergrowth",
+"scale": 0.825
+},
+{
+"model": "A51_fern",
+"x": -1320.31,
+"z": -109.87,
+"rot": 110.2,
+"group": "Undergrowth",
+"scale": 1.259
+},
+{
+"model": "A51_fern",
+"x": -1601.49,
+"z": -560.49,
+"rot": 298.4,
+"group": "Undergrowth",
+"scale": 0.839
+},
+{
+"model": "A51_fern",
+"x": -1657.44,
+"z": -279.78,
+"rot": 267.9,
+"group": "Undergrowth",
+"scale": 1.283
+},
+{
+"model": "A51_fern",
+"x": -1605.52,
+"z": -297.84,
+"rot": 225.1,
+"group": "Undergrowth",
+"scale": 0.844
+},
+{
+"model": "A38_bush_1",
+"x": -1358.17,
+"z": -176.77,
+"rot": 331.1,
+"group": "Undergrowth",
+"scale": 0.939
+},
+{
+"model": "A51_fern",
+"x": -1695.06,
+"z": -418.39,
+"rot": 81.6,
+"group": "Undergrowth",
+"scale": 0.879
+},
+{
+"model": "A38_bush_1",
+"x": -1298.85,
+"z": -620.94,
+"rot": 306.0,
+"group": "Undergrowth",
+"scale": 1.057
+},
+{
+"model": "A38_bush_1",
+"x": -1405.8,
+"z": -527.91,
+"rot": 213.2,
+"group": "Undergrowth",
+"scale": 1.108
+},
+{
+"model": "A51_fern",
+"x": -1897.67,
+"z": -434.38,
+"rot": 235.3,
+"group": "Undergrowth",
+"scale": 1.278
+},
+{
+"model": "A51_fern",
+"x": -1419.26,
+"z": -462.49,
+"rot": 173.9,
+"group": "Undergrowth",
+"scale": 1.261
+},
+{
+"model": "A51_fern",
+"x": -1440.48,
+"z": -176.73,
+"rot": 21.8,
+"group": "Undergrowth",
+"scale": 1.013
+},
+{
+"model": "A39_bush_2",
+"x": -1290.3,
+"z": -516.63,
+"rot": 22.9,
+"group": "Undergrowth",
+"scale": 1.344
+},
+{
+"model": "A38_bush_1",
+"x": -1359.06,
+"z": -552.38,
+"rot": 196.4,
+"group": "Undergrowth",
+"scale": 1.008
+},
+{
+"model": "A51_fern",
+"x": -1327.25,
+"z": -323.79,
+"rot": 147.3,
+"group": "Undergrowth",
+"scale": 1.276
+},
+{
+"model": "A38_bush_1",
+"x": -1453.99,
+"z": -249.31,
+"rot": 7.0,
+"group": "Undergrowth",
+"scale": 0.987
+},
+{
+"model": "A38_bush_1",
+"x": -1747.55,
+"z": -367.69,
+"rot": 168.1,
+"group": "Undergrowth",
+"scale": 0.958
+},
+{
+"model": "A51_fern",
+"x": -1535.26,
+"z": -625.04,
+"rot": 45.6,
+"group": "Undergrowth",
+"scale": 0.94
+},
+{
+"model": "A51_fern",
+"x": -1330.19,
+"z": -204.33,
+"rot": 208.5,
+"group": "Undergrowth",
+"scale": 0.965
+},
+{
+"model": "A51_fern",
+"x": -1303.79,
+"z": -89.45,
+"rot": 252.2,
+"group": "Undergrowth",
+"scale": 1.308
+},
+{
+"model": "A51_fern",
+"x": -1368.64,
+"z": -338.17,
+"rot": 98.4,
+"group": "Undergrowth",
+"scale": 0.946
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1220.47,
+"z": -218.41,
+"rot": 266.8,
+"group": "Undergrowth",
+"scale": 0.946
+},
+{
+"model": "F21_giant_fern",
+"x": -1583.41,
+"z": -328.93,
+"rot": 150.9,
+"group": "Undergrowth",
+"scale": 0.915
+},
+{
+"model": "A38_bush_1",
+"x": -1857.81,
+"z": -238.64,
+"rot": 74.0,
+"group": "Undergrowth",
+"scale": 1.033
+},
+{
+"model": "A51_fern",
+"x": -1431.03,
+"z": -522.4,
+"rot": 104.9,
+"group": "Undergrowth",
+"scale": 0.9
+},
+{
+"model": "A51_fern",
+"x": -1755.5,
+"z": -455.6,
+"rot": 173.0,
+"group": "Undergrowth",
+"scale": 0.847
+},
+{
+"model": "A38_bush_1",
+"x": -1352.5,
+"z": -673.18,
+"rot": 213.5,
+"group": "Undergrowth",
+"scale": 1.335
+},
+{
+"model": "A38_bush_1",
+"x": -1777.95,
+"z": -132.01,
+"rot": 9.7,
+"group": "Undergrowth",
+"scale": 0.977
+},
+{
+"model": "A51_fern",
+"x": -1370.21,
+"z": -393.56,
+"rot": 16.8,
+"group": "Undergrowth",
+"scale": 0.996
+},
+{
+"model": "A51_fern",
+"x": -1654.01,
+"z": -185.99,
+"rot": 18.6,
+"group": "Undergrowth",
+"scale": 0.902
+},
+{
+"model": "A51_fern",
+"x": -1799.96,
+"z": -246.02,
+"rot": 275.7,
+"group": "Undergrowth",
+"scale": 1.251
+},
+{
+"model": "A39_bush_2",
+"x": -1897.76,
+"z": -596.68,
+"rot": 283.0,
+"group": "Undergrowth",
+"scale": 0.818
+},
+{
+"model": "A38_bush_1",
+"x": -1852.66,
+"z": -642.37,
+"rot": 241.4,
+"group": "Undergrowth",
+"scale": 1.091
+},
+{
+"model": "A39_bush_2",
+"x": -1619.24,
+"z": -588.09,
+"rot": 152.9,
+"group": "Undergrowth",
+"scale": 1.052
+},
+{
+"model": "A51_fern",
+"x": -1794.62,
+"z": -322.19,
+"rot": 217.8,
+"group": "Undergrowth",
+"scale": 1.053
+},
+{
+"model": "A39_bush_2",
+"x": -1343.04,
+"z": -385.07,
+"rot": 126.0,
+"group": "Undergrowth",
+"scale": 1.187
+},
+{
+"model": "A51_fern",
+"x": -1474.78,
+"z": -291.17,
+"rot": 81.1,
+"group": "Undergrowth",
+"scale": 1.155
+},
+{
+"model": "A51_fern",
+"x": -1307.36,
+"z": -121.12,
+"rot": 329.0,
+"group": "Undergrowth",
+"scale": 1.173
+},
+{
+"model": "A51_fern",
+"x": -1757.98,
+"z": -618.42,
+"rot": 6.1,
+"group": "Undergrowth",
+"scale": 0.833
+},
+{
+"model": "A51_fern",
+"x": -1417.43,
+"z": -427.69,
+"rot": 181.6,
+"group": "Undergrowth",
+"scale": 0.8
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1384.73,
+"z": -522.98,
+"rot": 56.4,
+"group": "Undergrowth",
+"scale": 1.05
+},
+{
+"model": "A51_fern",
+"x": -1659.96,
+"z": -397.21,
+"rot": 68.0,
+"group": "Undergrowth",
+"scale": 1.15
+},
+{
+"model": "A38_bush_1",
+"x": -1350.45,
+"z": -132.68,
+"rot": 242.0,
+"group": "Undergrowth",
+"scale": 0.967
+},
+{
+"model": "A51_fern",
+"x": -1342.77,
+"z": -676.97,
+"rot": 307.3,
+"group": "Undergrowth",
+"scale": 0.878
+},
+{
+"model": "A51_fern",
+"x": -1472.7,
+"z": -130.8,
+"rot": 46.6,
+"group": "Undergrowth",
+"scale": 1.048
+},
+{
+"model": "A38_bush_1",
+"x": -1345.54,
+"z": -554.89,
+"rot": 356.4,
+"group": "Undergrowth",
+"scale": 0.954
+},
+{
+"model": "A51_fern",
+"x": -1236.8,
+"z": -212.19,
+"rot": 343.4,
+"group": "Undergrowth",
+"scale": 1.094
+},
+{
+"model": "A51_fern",
+"x": -1703.38,
+"z": -725.71,
+"rot": 224.5,
+"group": "Undergrowth",
+"scale": 0.956
+},
+{
+"model": "A51_fern",
+"x": -1243.35,
+"z": -198.62,
+"rot": 124.0,
+"group": "Undergrowth",
+"scale": 0.913
+},
+{
+"model": "A51_fern",
+"x": -1457.62,
+"z": -440.56,
+"rot": 121.1,
+"group": "Undergrowth",
+"scale": 0.932
+},
+{
+"model": "A51_fern",
+"x": -1362.95,
+"z": -203.91,
+"rot": 212.9,
+"group": "Undergrowth",
+"scale": 0.854
+},
+{
+"model": "A51_fern",
+"x": -1697.58,
+"z": -391.84,
+"rot": 303.3,
+"group": "Undergrowth",
+"scale": 1.066
+},
+{
+"model": "A51_fern",
+"x": -1835.0,
+"z": -587.44,
+"rot": 62.6,
+"group": "Undergrowth"
+},
+{
+"model": "A39_bush_2",
+"x": -1551.26,
+"z": -656.63,
+"rot": 108.9,
+"group": "Undergrowth",
+"scale": 1.013
+},
+{
+"model": "A39_bush_2",
+"x": -1663.55,
+"z": -199.19,
+"rot": 238.9,
+"group": "Undergrowth",
+"scale": 1.059
+},
+{
+"model": "A51_fern",
+"x": -1572.24,
+"z": -686.33,
+"rot": 244.8,
+"group": "Undergrowth",
+"scale": 0.839
+},
+{
+"model": "A51_fern",
+"x": -1624.95,
+"z": -148.93,
+"rot": 245.9,
+"group": "Undergrowth",
+"scale": 0.803
+},
+{
+"model": "A38_bush_1",
+"x": -1352.17,
+"z": -620.21,
+"rot": 197.8,
+"group": "Undergrowth",
+"scale": 0.82
+},
+{
+"model": "A51_fern",
+"x": -1713.48,
+"z": -529.35,
+"rot": 288.4,
+"group": "Undergrowth",
+"scale": 0.961
+},
+{
+"model": "A51_fern",
+"x": -1699.79,
+"z": -300.63,
+"rot": 23.3,
+"group": "Undergrowth",
+"scale": 1.306
+},
+{
+"model": "A51_fern",
+"x": -1331.69,
+"z": -478.29,
+"rot": 27.7,
+"group": "Undergrowth",
+"scale": 0.943
+},
+{
+"model": "A51_fern",
+"x": -1718.5,
+"z": -644.43,
+"rot": 239.3,
+"group": "Undergrowth",
+"scale": 0.987
+},
+{
+"model": "A51_fern",
+"x": -1766.48,
+"z": -182.41,
+"rot": 92.0,
+"group": "Undergrowth",
+"scale": 1.218
+},
+{
+"model": "A51_fern",
+"x": -1790.12,
+"z": -635.11,
+"rot": 101.3,
+"group": "Undergrowth",
+"scale": 1.028
+},
+{
+"model": "A38_bush_1",
+"x": -1729.42,
+"z": -235.56,
+"rot": 121.6,
+"group": "Undergrowth",
+"scale": 1.111
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1433.08,
+"z": -363.66,
+"rot": 355.4,
+"group": "Undergrowth",
+"scale": 0.817
+},
+{
+"model": "A38_bush_1",
+"x": -1802.78,
+"z": -112.9,
+"rot": 276.7,
+"group": "Undergrowth",
+"scale": 0.901
+},
+{
+"model": "A51_fern",
+"x": -1695.93,
+"z": -143.48,
+"rot": 85.9,
+"group": "Undergrowth",
+"scale": 0.891
+},
+{
+"model": "A51_fern",
+"x": -1730.9,
+"z": -727.44,
+"rot": 197.3,
+"group": "Undergrowth",
+"scale": 1.157
+},
+{
+"model": "A51_fern",
+"x": -1660.73,
+"z": -607.73,
+"rot": 319.9,
+"group": "Undergrowth",
+"scale": 1.148
+},
+{
+"model": "A51_fern",
+"x": -1690.69,
+"z": -603.11,
+"rot": 330.4,
+"group": "Undergrowth",
+"scale": 1.042
+},
+{
+"model": "F21_giant_fern",
+"x": -1741.13,
+"z": -678.24,
+"rot": 160.1,
+"group": "Undergrowth",
+"scale": 0.956
+},
+{
+"model": "A51_fern",
+"x": -1677.95,
+"z": -664.52,
+"rot": 136.4,
+"group": "Undergrowth",
+"scale": 0.877
+},
+{
+"model": "A51_fern",
+"x": -1721.62,
+"z": -510.51,
+"rot": 71.8,
+"group": "Undergrowth",
+"scale": 1.072
+},
+{
+"model": "A51_fern",
+"x": -1427.27,
+"z": -216.31,
+"rot": 144.4,
+"group": "Undergrowth",
+"scale": 1.098
+},
+{
+"model": "A39_bush_2",
+"x": -1430.69,
+"z": -712.0,
+"rot": 293.9,
+"group": "Undergrowth",
+"scale": 0.844
+},
+{
+"model": "A51_fern",
+"x": -1552.47,
+"z": -204.17,
+"rot": 189.0,
+"group": "Undergrowth",
+"scale": 1.016
+},
+{
+"model": "A51_fern",
+"x": -1620.02,
+"z": -134.25,
+"rot": 310.6,
+"group": "Undergrowth",
+"scale": 0.836
+},
+{
+"model": "A51_fern",
+"x": -1415.98,
+"z": -241.55,
+"rot": 218.7,
+"group": "Undergrowth",
+"scale": 0.889
+},
+{
+"model": "A39_bush_2",
+"x": -1809.73,
+"z": -393.45,
+"rot": 287.3,
+"group": "Undergrowth",
+"scale": 0.834
+},
+{
+"model": "A51_fern",
+"x": -1357.67,
+"z": -426.23,
+"rot": 149.5,
+"group": "Undergrowth",
+"scale": 0.955
+},
+{
+"model": "A51_fern",
+"x": -1475.19,
+"z": -205.25,
+"rot": 183.2,
+"group": "Undergrowth",
+"scale": 0.903
+},
+{
+"model": "A51_fern",
+"x": -1512.84,
+"z": -291.48,
+"rot": 326.9,
+"group": "Undergrowth",
+"scale": 0.919
+},
+{
+"model": "A38_bush_1",
+"x": -1683.87,
+"z": -150.89,
+"rot": 241.9,
+"group": "Undergrowth",
+"scale": 0.976
+},
+{
+"model": "A51_fern",
+"x": -1348.45,
+"z": -544.38,
+"rot": 260.8,
+"group": "Undergrowth",
+"scale": 0.874
+},
+{
+"model": "A39_bush_2",
+"x": -1359.39,
+"z": -100.89,
+"rot": 49.8,
+"group": "Undergrowth",
+"scale": 0.823
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1501.06,
+"z": -652.77,
+"rot": 180.0,
+"group": "Undergrowth",
+"scale": 0.928
+},
+{
+"model": "A51_fern",
+"x": -1614.12,
+"z": -236.15,
+"rot": 207.2,
+"group": "Undergrowth",
+"scale": 1.13
+},
+{
+"model": "A51_fern",
+"x": -1874.29,
+"z": -166.64,
+"rot": 30.0,
+"group": "Undergrowth",
+"scale": 0.868
+},
+{
+"model": "A39_bush_2",
+"x": -1454.31,
+"z": -142.63,
+"rot": 7.3,
+"group": "Undergrowth",
+"scale": 0.803
+},
+{
+"model": "A51_fern",
+"x": -1404.91,
+"z": -610.15,
+"rot": 121.1,
+"group": "Undergrowth",
+"scale": 1.024
+},
+{
+"model": "A51_fern",
+"x": -1664.69,
+"z": -163.98,
+"rot": 99.4,
+"group": "Undergrowth",
+"scale": 0.959
+},
+{
+"model": "A51_fern",
+"x": -1675.64,
+"z": -497.98,
+"rot": 98.9,
+"group": "Undergrowth",
+"scale": 0.808
+},
+{
+"model": "A51_fern",
+"x": -1509.84,
+"z": -622.43,
+"rot": 262.5,
+"group": "Undergrowth",
+"scale": 0.892
+},
+{
+"model": "A51_fern",
+"x": -1796.95,
+"z": -149.85,
+"rot": 239.6,
+"group": "Undergrowth",
+"scale": 1.054
+},
+{
+"model": "A39_bush_2",
+"x": -1709.14,
+"z": -547.4,
+"rot": 114.2,
+"group": "Undergrowth",
+"scale": 1.228
+},
+{
+"model": "A38_bush_1",
+"x": -1407.61,
+"z": -715.51,
+"rot": 188.1,
+"group": "Undergrowth",
+"scale": 0.879
+},
+{
+"model": "A39_bush_2",
+"x": -1256.5,
+"z": -310.67,
+"rot": 23.5,
+"group": "Undergrowth",
+"scale": 1.112
+},
+{
+"model": "A51_fern",
+"x": -1867.14,
+"z": -406.33,
+"rot": 238.3,
+"group": "Undergrowth",
+"scale": 1.1
+},
+{
+"model": "A51_fern",
+"x": -1626.49,
+"z": -173.32,
+"rot": 333.3,
+"group": "Undergrowth",
+"scale": 1.036
+},
+{
+"model": "A39_bush_2",
+"x": -1798.88,
+"z": -133.99,
+"rot": 32.2,
+"group": "Undergrowth",
+"scale": 1.043
+},
+{
+"model": "A51_fern",
+"x": -1436.27,
+"z": -107.26,
+"rot": 248.7,
+"group": "Undergrowth",
+"scale": 0.833
+},
+{
+"model": "A51_fern",
+"x": -1489.5,
+"z": -553.78,
+"rot": 25.4,
+"group": "Undergrowth",
+"scale": 0.995
+},
+{
+"model": "A51_fern",
+"x": -1414.54,
+"z": -487.3,
+"rot": 177.2,
+"group": "Undergrowth",
+"scale": 1.095
+},
+{
+"model": "A51_fern",
+"x": -1433.3,
+"z": -544.6,
+"rot": 1.9,
+"group": "Undergrowth",
+"scale": 1.239
+},
+{
+"model": "A51_fern",
+"x": -1800.79,
+"z": -628.98,
+"rot": 141.6,
+"group": "Undergrowth",
+"scale": 1.338
+},
+{
+"model": "A51_fern",
+"x": -1824.94,
+"z": -237.05,
+"rot": 262.2,
+"group": "Undergrowth",
+"scale": 0.868
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1531.43,
+"z": -137.23,
+"rot": 104.5,
+"group": "Undergrowth",
+"scale": 0.957
+},
+{
+"model": "A51_fern",
+"x": -1383.08,
+"z": -438.1,
+"rot": 197.2,
+"group": "Undergrowth",
+"scale": 1.244
+},
+{
+"model": "A51_fern",
+"x": -1307.58,
+"z": -713.96,
+"rot": 138.9,
+"group": "Undergrowth",
+"scale": 0.807
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1769.74,
+"z": -403.86,
+"rot": 172.7,
+"group": "Undergrowth",
+"scale": 0.91
+},
+{
+"model": "A38_bush_1",
+"x": -1398.75,
+"z": -627.19,
+"rot": 216.1,
+"group": "Undergrowth",
+"scale": 1.12
+},
+{
+"model": "A51_fern",
+"x": -1759.45,
+"z": -332.48,
+"rot": 75.0,
+"group": "Undergrowth",
+"scale": 0.845
+},
+{
+"model": "A38_bush_1",
+"x": -1696.63,
+"z": -470.87,
+"rot": 239.8,
+"group": "Undergrowth",
+"scale": 0.943
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1258.73,
+"z": -671.55,
+"rot": 128.0,
+"group": "Undergrowth",
+"scale": 1.03
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1650.97,
+"z": -617.25,
+"rot": 208.5,
+"group": "Undergrowth",
+"scale": 0.974
+},
+{
+"model": "A51_fern",
+"x": -1552.37,
+"z": -268.48,
+"rot": 18.4,
+"group": "Undergrowth",
+"scale": 1.208
+},
+{
+"model": "A51_fern",
+"x": -1352.38,
+"z": -203.29,
+"rot": 114.2,
+"group": "Undergrowth",
+"scale": 0.867
+},
+{
+"model": "A51_fern",
+"x": -1536.24,
+"z": -98.12,
+"rot": 69.5,
+"group": "Undergrowth",
+"scale": 0.921
+},
+{
+"model": "A51_fern",
+"x": -1494.76,
+"z": -621.49,
+"rot": 19.4,
+"group": "Undergrowth",
+"scale": 0.941
+},
+{
+"model": "A38_bush_1",
+"x": -1370.94,
+"z": -531.74,
+"rot": 294.5,
+"group": "Undergrowth",
+"scale": 0.995
+},
+{
+"model": "A51_fern",
+"x": -1400.54,
+"z": -194.04,
+"rot": 67.3,
+"group": "Undergrowth",
+"scale": 0.825
+},
+{
+"model": "A51_fern",
+"x": -1731.37,
+"z": -438.65,
+"rot": 131.7,
+"group": "Undergrowth",
+"scale": 0.859
+},
+{
+"model": "A51_fern",
+"x": -1479.38,
+"z": -646.49,
+"rot": 261.8,
+"group": "Undergrowth",
+"scale": 1.133
+},
+{
+"model": "A51_fern",
+"x": -1620.65,
+"z": -569.03,
+"rot": 92.9,
+"group": "Undergrowth",
+"scale": 1.081
+},
+{
+"model": "A51_fern",
+"x": -1755.68,
+"z": -250.72,
+"rot": 132.3,
+"group": "Undergrowth",
+"scale": 1.051
+},
+{
+"model": "A38_bush_1",
+"x": -1379.92,
+"z": -201.03,
+"rot": 247.1,
+"group": "Undergrowth",
+"scale": 1.013
+},
+{
+"model": "A39_bush_2",
+"x": -1805.86,
+"z": -313.12,
+"rot": 228.3,
+"group": "Undergrowth",
+"scale": 0.808
+},
+{
+"model": "A51_fern",
+"x": -1327.96,
+"z": -375.97,
+"rot": 34.3,
+"group": "Undergrowth",
+"scale": 0.858
+},
+{
+"model": "A51_fern",
+"x": -1687.68,
+"z": -689.15,
+"rot": 286.4,
+"group": "Undergrowth",
+"scale": 0.823
+},
+{
+"model": "A51_fern",
+"x": -1666.3,
+"z": -545.05,
+"rot": 28.5,
+"group": "Undergrowth",
+"scale": 0.894
+},
+{
+"model": "A38_bush_1",
+"x": -1294.7,
+"z": -259.07,
+"rot": 86.1,
+"group": "Undergrowth",
+"scale": 0.935
+},
+{
+"model": "A39_bush_2",
+"x": -1714.12,
+"z": -443.44,
+"rot": 200.4,
+"group": "Undergrowth",
+"scale": 0.952
+},
+{
+"model": "A51_fern",
+"x": -1380.42,
+"z": -324.38,
+"rot": 358.0,
+"group": "Undergrowth",
+"scale": 0.992
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1715.35,
+"z": -242.26,
+"rot": 0.8,
+"group": "Undergrowth",
+"scale": 0.845
+},
+{
+"model": "A51_fern",
+"x": -1421.32,
+"z": -329.08,
+"rot": 141.1,
+"group": "Undergrowth"
+},
+{
+"model": "A51_fern",
+"x": -1873.54,
+"z": -461.85,
+"rot": 293.6,
+"group": "Undergrowth",
+"scale": 1.141
+},
+{
+"model": "A51_fern",
+"x": -1877.31,
+"z": -413.19,
+"rot": 40.5,
+"group": "Undergrowth",
+"scale": 0.822
+},
+{
+"model": "A51_fern",
+"x": -1327.29,
+"z": -467.33,
+"rot": 40.4,
+"group": "Undergrowth",
+"scale": 1.068
+},
+{
+"model": "A51_fern",
+"x": -1539.62,
+"z": -172.11,
+"rot": 343.2,
+"group": "Undergrowth",
+"scale": 0.94
+},
+{
+"model": "A51_fern",
+"x": -1461.52,
+"z": -393.2,
+"rot": 156.6,
+"group": "Undergrowth",
+"scale": 0.991
+},
+{
+"model": "A51_fern",
+"x": -1634.65,
+"z": -264.39,
+"rot": 249.8,
+"group": "Undergrowth",
+"scale": 0.843
+},
+{
+"model": "A51_fern",
+"x": -1481.54,
+"z": -588.05,
+"rot": 3.0,
+"group": "Undergrowth",
+"scale": 1.096
+},
+{
+"model": "A51_fern",
+"x": -1488.18,
+"z": -661.95,
+"rot": 39.3,
+"group": "Undergrowth",
+"scale": 1.085
+},
+{
+"model": "A51_fern",
+"x": -1242.7,
+"z": -305.79,
+"rot": 50.3,
+"group": "Undergrowth",
+"scale": 1.314
+},
+{
+"model": "A51_fern",
+"x": -1758.1,
+"z": -633.82,
+"rot": 8.9,
+"group": "Undergrowth",
+"scale": 0.822
+},
+{
+"model": "A39_bush_2",
+"x": -1619.73,
+"z": -307.93,
+"rot": 117.0,
+"group": "Undergrowth",
+"scale": 0.985
+},
+{
+"model": "A51_fern",
+"x": -1797.96,
+"z": -618.24,
+"rot": 294.1,
+"group": "Undergrowth",
+"scale": 0.833
+},
+{
+"model": "A51_fern",
+"x": -1302.53,
+"z": -388.89,
+"rot": 103.1,
+"group": "Undergrowth",
+"scale": 0.991
+},
+{
+"model": "A51_fern",
+"x": -1490.12,
+"z": -675.01,
+"rot": 351.4,
+"group": "Undergrowth",
+"scale": 1.01
+},
+{
+"model": "A38_bush_1",
+"x": -1580.23,
+"z": -721.41,
+"rot": 30.5,
+"group": "Undergrowth",
+"scale": 0.82
+},
+{
+"model": "A51_fern",
+"x": -1228.77,
+"z": -208.32,
+"rot": 69.9,
+"group": "Undergrowth",
+"scale": 1.003
+},
+{
+"model": "A38_bush_1",
+"x": -1454.85,
+"z": -171.28,
+"rot": 9.6,
+"group": "Undergrowth",
+"scale": 0.941
+},
+{
+"model": "A39_bush_2",
+"x": -1284.67,
+"z": -418.85,
+"rot": 64.9,
+"group": "Undergrowth",
+"scale": 1.18
+},
+{
+"model": "A38_bush_1",
+"x": -1622.95,
+"z": -70.15,
+"rot": 82.2,
+"group": "Undergrowth",
+"scale": 0.968
+},
+{
+"model": "A51_fern",
+"x": -1775.92,
+"z": -463.68,
+"rot": 17.4,
+"group": "Undergrowth",
+"scale": 1.088
+},
+{
+"model": "A51_fern",
+"x": -1486.33,
+"z": -256.27,
+"rot": 328.9,
+"group": "Undergrowth",
+"scale": 1.133
+},
+{
+"model": "A39_bush_2",
+"x": -1838.39,
+"z": -658.72,
+"rot": 205.0,
+"group": "Undergrowth",
+"scale": 1.173
+},
+{
+"model": "A51_fern",
+"x": -1786.28,
+"z": -323.71,
+"rot": 134.0,
+"group": "Undergrowth",
+"scale": 0.857
+},
+{
+"model": "A51_fern",
+"x": -1568.58,
+"z": -644.31,
+"rot": 20.8,
+"group": "Undergrowth",
+"scale": 1.05
+},
+{
+"model": "A38_bush_1",
+"x": -1558.41,
+"z": -670.9,
+"rot": 96.9,
+"group": "Undergrowth",
+"scale": 0.895
+},
+{
+"model": "A39_bush_2",
+"x": -1680.11,
+"z": -559.64,
+"rot": 70.8,
+"group": "Undergrowth",
+"scale": 0.897
+},
+{
+"model": "A51_fern",
+"x": -1627.03,
+"z": -125.35,
+"rot": 182.2,
+"group": "Undergrowth",
+"scale": 1.279
+},
+{
+"model": "A51_fern",
+"x": -1689.51,
+"z": -388.38,
+"rot": 170.2,
+"group": "Undergrowth",
+"scale": 0.884
+},
+{
+"model": "A51_fern",
+"x": -1302.35,
+"z": -476.28,
+"rot": 196.2,
+"group": "Undergrowth",
+"scale": 1.159
+},
+{
+"model": "A51_fern",
+"x": -1435.52,
+"z": -168.21,
+"rot": 320.7,
+"group": "Undergrowth",
+"scale": 1.192
+},
+{
+"model": "A51_fern",
+"x": -1869.84,
+"z": -391.4,
+"rot": 195.4,
+"group": "Undergrowth",
+"scale": 0.894
+},
+{
+"model": "A51_fern",
+"x": -1681.15,
+"z": -378.32,
+"rot": 105.1,
+"group": "Undergrowth",
+"scale": 1.043
+},
+{
+"model": "A51_fern",
+"x": -1686.05,
+"z": -137.36,
+"rot": 146.0,
+"group": "Undergrowth",
+"scale": 0.987
+},
+{
+"model": "A51_fern",
+"x": -1591.11,
+"z": -619.54,
+"rot": 187.3,
+"group": "Undergrowth",
+"scale": 1.232
+},
+{
+"model": "A51_fern",
+"x": -1687.1,
+"z": -484.13,
+"rot": 316.9,
+"group": "Undergrowth",
+"scale": 1.012
+},
+{
+"model": "A38_bush_1",
+"x": -1688.67,
+"z": -527.23,
+"rot": 22.1,
+"group": "Undergrowth",
+"scale": 1.02
+},
+{
+"model": "A38_bush_1",
+"x": -1297.8,
+"z": -250.07,
+"rot": 213.0,
+"group": "Undergrowth",
+"scale": 0.862
+},
+{
+"model": "A51_fern",
+"x": -1584.13,
+"z": -204.21,
+"rot": 299.4,
+"group": "Undergrowth",
+"scale": 0.943
+},
+{
+"model": "A51_fern",
+"x": -1335.79,
+"z": -543.78,
+"rot": 225.6,
+"group": "Undergrowth",
+"scale": 1.074
+},
+{
+"model": "A38_bush_1",
+"x": -1673.09,
+"z": -286.52,
+"rot": 196.9,
+"group": "Undergrowth",
+"scale": 1.124
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1374.15,
+"z": -540.0,
+"rot": 98.5,
+"group": "Undergrowth",
+"scale": 0.913
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1357.22,
+"z": -559.8,
+"rot": 273.9,
+"group": "Undergrowth",
+"scale": 0.956
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1388.08,
+"z": -640.14,
+"rot": 147.4,
+"group": "Undergrowth",
+"scale": 1.038
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1466.7,
+"z": -565.3,
+"rot": 86.8,
+"group": "Undergrowth",
+"scale": 1.391
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1230.29,
+"z": -598.06,
+"rot": 88.9,
+"group": "Undergrowth",
+"scale": 1.239
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1553.54,
+"z": -729.37,
+"rot": 69.9,
+"group": "Undergrowth",
+"scale": 1.308
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1792.06,
+"z": -252.12,
+"rot": 170.6,
+"group": "Undergrowth",
+"scale": 0.882
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1268.32,
+"z": -316.28,
+"rot": 196.6,
+"group": "Undergrowth",
+"scale": 0.994
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1468.51,
+"z": -551.6,
+"rot": 120.0,
+"group": "Undergrowth",
+"scale": 0.941
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1450.23,
+"z": -101.33,
+"rot": 304.5,
+"group": "Undergrowth",
+"scale": 1.29
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1334.41,
+"z": -486.62,
+"rot": 56.2,
+"group": "Undergrowth",
+"scale": 0.925
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1404.21,
+"z": -540.12,
+"rot": 18.9,
+"group": "Undergrowth",
+"scale": 1.088
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1759.44,
+"z": -108.02,
+"rot": 235.4,
+"group": "Undergrowth",
+"scale": 0.958
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1833.18,
+"z": -342.04,
+"rot": 261.7,
+"group": "Undergrowth",
+"scale": 1.122
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1785.5,
+"z": -316.1,
+"rot": 171.1,
+"group": "Undergrowth",
+"scale": 0.815
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1594.14,
+"z": -641.25,
+"rot": 288.6,
+"group": "Undergrowth",
+"scale": 0.926
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1659.2,
+"z": -465.83,
+"rot": 308.7,
+"group": "Undergrowth",
+"scale": 1.281
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1365.71,
+"z": -432.11,
+"rot": 338.7,
+"group": "Undergrowth",
+"scale": 0.92
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1668.45,
+"z": -346.2,
+"rot": 36.4,
+"group": "Undergrowth",
+"scale": 1.132
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1633.78,
+"z": -296.76,
+"rot": 315.6,
+"group": "Undergrowth",
+"scale": 1.251
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1343.71,
+"z": -438.38,
+"rot": 126.1,
+"group": "Undergrowth",
+"scale": 1.045
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1742.41,
+"z": -635.23,
+"rot": 32.9,
+"group": "Undergrowth",
+"scale": 1.149
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1357.91,
+"z": -210.9,
+"rot": 210.6,
+"group": "Undergrowth",
+"scale": 0.905
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1882.82,
+"z": -339.85,
+"rot": 181.1,
+"group": "Undergrowth",
+"scale": 0.813
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1538.19,
+"z": -277.05,
+"rot": 185.5,
+"group": "Undergrowth",
+"scale": 0.883
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1464.04,
+"z": -128.64,
+"rot": 73.6,
+"group": "Undergrowth",
+"scale": 0.882
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1598.24,
+"z": -269.33,
+"rot": 19.2,
+"group": "Undergrowth",
+"scale": 1.028
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1324.34,
+"z": -693.96,
+"rot": 271.6,
+"group": "Undergrowth",
+"scale": 0.844
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1775.11,
+"z": -542.34,
+"rot": 332.8,
+"group": "Undergrowth",
+"scale": 1.338
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1329.46,
+"z": -249.77,
+"rot": 284.1,
+"group": "Undergrowth",
+"scale": 0.803
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1435.87,
+"z": -681.76,
+"rot": 173.0,
+"group": "Undergrowth",
+"scale": 1.051
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1531.16,
+"z": -184.27,
+"rot": 227.5,
+"group": "Undergrowth",
+"scale": 1.15
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1418.69,
+"z": -309.0,
+"rot": 292.6,
+"group": "Undergrowth",
+"scale": 0.909
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1831.66,
+"z": -481.91,
+"rot": 152.6,
+"group": "Undergrowth",
+"scale": 0.98
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1844.81,
+"z": -352.67,
+"rot": 101.1,
+"group": "Undergrowth",
+"scale": 1.351
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1456.42,
+"z": -196.94,
+"rot": 258.9,
+"group": "Undergrowth",
+"scale": 0.867
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1622.87,
+"z": -577.71,
+"rot": 157.9,
+"group": "Undergrowth",
+"scale": 0.815
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1472.8,
+"z": -231.35,
+"rot": 51.4,
+"group": "Undergrowth",
+"scale": 1.393
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1601.12,
+"z": -607.82,
+"rot": 162.6,
+"group": "Undergrowth",
+"scale": 1.251
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1754.92,
+"z": -670.66,
+"rot": 303.9,
+"group": "Undergrowth",
+"scale": 0.829
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1700.28,
+"z": -456.63,
+"rot": 69.5,
+"group": "Undergrowth",
+"scale": 0.94
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1733.14,
+"z": -411.28,
+"rot": 37.5,
+"group": "Undergrowth",
+"scale": 1.162
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1493.91,
+"z": -570.75,
+"rot": 90.4,
+"group": "Undergrowth",
+"scale": 1.031
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1846.93,
+"z": -609.4,
+"rot": 253.8,
+"group": "Undergrowth",
+"scale": 1.382
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1343.31,
+"z": -519.97,
+"rot": 336.3,
+"group": "Undergrowth",
+"scale": 1.451
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1828.15,
+"z": -360.76,
+"rot": 151.3,
+"group": "Undergrowth",
+"scale": 0.912
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1656.31,
+"z": -166.4,
+"rot": 188.7,
+"group": "Undergrowth",
+"scale": 1.478
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1834.9,
+"z": -367.83,
+"rot": 205.8,
+"group": "Undergrowth",
+"scale": 1.499
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1491.78,
+"z": -640.21,
+"rot": 166.9,
+"group": "Undergrowth",
+"scale": 0.853
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1702.37,
+"z": -383.87,
+"rot": 248.8,
+"group": "Undergrowth",
+"scale": 1.14
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1580.38,
+"z": -645.62,
+"rot": 292.3,
+"group": "Undergrowth",
+"scale": 1.097
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1556.99,
+"z": -641.28,
+"rot": 102.1,
+"group": "Undergrowth",
+"scale": 1.451
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1849.12,
+"z": -438.04,
+"rot": 229.6,
+"group": "Undergrowth",
+"scale": 0.941
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1760.12,
+"z": -136.57,
+"rot": 28.0,
+"group": "Undergrowth",
+"scale": 0.931
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1421.69,
+"z": -264.88,
+"rot": 116.7,
+"group": "Undergrowth",
+"scale": 1.169
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1493.03,
+"z": -278.61,
+"rot": 58.8,
+"group": "Undergrowth",
+"scale": 1.099
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1537.86,
+"z": -588.94,
+"rot": 12.7,
+"group": "Undergrowth",
+"scale": 0.817
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1506.38,
+"z": -584.23,
+"rot": 315.8,
+"group": "Undergrowth",
+"scale": 0.924
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1659.2,
+"z": -706.65,
+"rot": 191.5,
+"group": "Undergrowth",
+"scale": 1.135
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1445.98,
+"z": -189.04,
+"rot": 111.8,
+"group": "Undergrowth",
+"scale": 1.009
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1370.04,
+"z": -385.95,
+"rot": 53.8,
+"group": "Undergrowth",
+"scale": 0.898
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1449.73,
+"z": -260.88,
+"rot": 330.7,
+"group": "Undergrowth",
+"scale": 1.253
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1820.86,
+"z": -148.97,
+"rot": 231.5,
+"group": "Undergrowth",
+"scale": 1.491
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1811.1,
+"z": -589.28,
+"rot": 311.8,
+"group": "Undergrowth",
+"scale": 1.182
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1801.71,
+"z": -177.96,
+"rot": 337.6,
+"group": "Undergrowth",
+"scale": 0.944
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1461.89,
+"z": -274.26,
+"rot": 212.4,
+"group": "Undergrowth",
+"scale": 0.887
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1342.33,
+"z": -648.95,
+"rot": 353.1,
+"group": "Undergrowth",
+"scale": 0.814
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1657.52,
+"z": -430.08,
+"rot": 292.6,
+"group": "Undergrowth",
+"scale": 0.986
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1396.43,
+"z": -318.51,
+"rot": 292.8,
+"group": "Undergrowth",
+"scale": 1.024
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1357.75,
+"z": -641.56,
+"rot": 148.0,
+"group": "Undergrowth",
+"scale": 0.823
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1689.16,
+"z": -499.07,
+"rot": 287.9,
+"group": "Undergrowth",
+"scale": 0.987
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1405.45,
+"z": -427.81,
+"rot": 296.7,
+"group": "Undergrowth",
+"scale": 1.323
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1515.44,
+"z": -123.9,
+"rot": 201.9,
+"group": "Undergrowth",
+"scale": 1.218
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1411.68,
+"z": -233.75,
+"rot": 324.8,
+"group": "Undergrowth",
+"scale": 0.805
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1287.56,
+"z": -279.43,
+"rot": 206.9,
+"group": "Undergrowth",
+"scale": 0.902
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1426.01,
+"z": -473.08,
+"rot": 4.9,
+"group": "Undergrowth",
+"scale": 1.173
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1651.48,
+"z": -652.87,
+"rot": 355.4,
+"group": "Undergrowth",
+"scale": 1.309
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1365.97,
+"z": -542.49,
+"rot": 297.5,
+"group": "Undergrowth",
+"scale": 0.909
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1852.33,
+"z": -265.16,
+"rot": 345.8,
+"group": "Undergrowth",
+"scale": 1.364
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1658.98,
+"z": -102.36,
+"rot": 37.6,
+"group": "Undergrowth",
+"scale": 0.895
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1652.33,
+"z": -174.57,
+"rot": 94.1,
+"group": "Undergrowth",
+"scale": 0.894
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1297.69,
+"z": -218.89,
+"rot": 16.6,
+"group": "Undergrowth",
+"scale": 1.173
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1668.3,
+"z": -189.48,
+"rot": 34.2,
+"group": "Undergrowth",
+"scale": 0.9
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1803.45,
+"z": -387.19,
+"rot": 245.0,
+"group": "Undergrowth"
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1252.03,
+"z": -485.2,
+"rot": 45.1,
+"group": "Undergrowth",
+"scale": 1.288
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1777.48,
+"z": -641.5,
+"rot": 313.4,
+"group": "Undergrowth",
+"scale": 1.463
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1825.51,
+"z": -415.43,
+"rot": 44.1,
+"group": "Undergrowth",
+"scale": 0.851
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1795.03,
+"z": -718.51,
+"rot": 104.7,
+"group": "Undergrowth",
+"scale": 0.949
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1368.51,
+"z": -375.86,
+"rot": 117.3,
+"group": "Undergrowth",
+"scale": 1.007
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1731.56,
+"z": -355.5,
+"rot": 348.7,
+"group": "Undergrowth",
+"scale": 1.471
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1891.2,
+"z": -264.06,
+"rot": 318.3,
+"group": "Undergrowth",
+"scale": 1.135
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1769.68,
+"z": -703.43,
+"rot": 43.5,
+"group": "Undergrowth",
+"scale": 0.97
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1758.32,
+"z": -676.94,
+"rot": 102.6,
+"group": "Undergrowth",
+"scale": 1.355
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1350.09,
+"z": -304.34,
+"rot": 344.5,
+"group": "Undergrowth",
+"scale": 1.494
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1823.48,
+"z": -489.16,
+"rot": 263.9,
+"group": "Undergrowth",
+"scale": 0.802
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1622.99,
+"z": -97.64,
+"rot": 296.7,
+"group": "Undergrowth",
+"scale": 1.46
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1392.17,
+"z": -87.25,
+"rot": 136.9,
+"group": "Undergrowth",
+"scale": 1.271
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1279.69,
+"z": -615.32,
+"rot": 81.5,
+"group": "Undergrowth",
+"scale": 1.414
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1850.51,
+"z": -345.08,
+"rot": 54.1,
+"group": "Undergrowth",
+"scale": 0.889
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1310.54,
+"z": -452.9,
+"rot": 250.5,
+"group": "Undergrowth",
+"scale": 0.819
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1612.18,
+"z": -525.87,
+"rot": 295.4,
+"group": "Undergrowth",
+"scale": 1.051
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1788.26,
+"z": -133.77,
+"rot": 49.5,
+"group": "Undergrowth",
+"scale": 0.995
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1530.33,
+"z": -175.19,
+"rot": 346.0,
+"group": "Undergrowth",
+"scale": 0.847
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1663.71,
+"z": -445.56,
+"rot": 271.1,
+"group": "Undergrowth",
+"scale": 1.403
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1605.05,
+"z": -615.16,
+"rot": 96.1,
+"group": "Undergrowth",
+"scale": 0.856
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1385.67,
+"z": -77.09,
+"rot": 347.3,
+"group": "Undergrowth",
+"scale": 1.368
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1810.82,
+"z": -532.31,
+"rot": 63.6,
+"group": "Undergrowth",
+"scale": 1.052
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1399.53,
+"z": -380.74,
+"rot": 323.1,
+"group": "Undergrowth",
+"scale": 1.298
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1460.56,
+"z": -447.14,
+"rot": 230.8,
+"group": "Undergrowth",
+"scale": 1.228
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1399.06,
+"z": -455.38,
+"rot": 52.1,
+"group": "Undergrowth",
+"scale": 0.961
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1686.91,
+"z": -410.76,
+"rot": 282.1,
+"group": "Undergrowth",
+"scale": 0.848
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1316.63,
+"z": -137.75,
+"rot": 190.6,
+"group": "Undergrowth",
+"scale": 1.006
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1862.52,
+"z": -269.32,
+"rot": 286.7,
+"group": "Undergrowth",
+"scale": 0.84
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1326.09,
+"z": -230.48,
+"rot": 171.3,
+"group": "Undergrowth",
+"scale": 1.395
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1674.52,
+"z": -605.57,
+"rot": 126.9,
+"group": "Undergrowth",
+"scale": 1.434
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1709.51,
+"z": -393.25,
+"rot": 40.9,
+"group": "Undergrowth",
+"scale": 0.976
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1270.17,
+"z": -196.34,
+"rot": 71.3,
+"group": "Undergrowth",
+"scale": 1.441
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1897.7,
+"z": -297.17,
+"rot": 114.0,
+"group": "Undergrowth",
+"scale": 1.394
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1451.91,
+"z": -124.19,
+"rot": 150.9,
+"group": "Undergrowth",
+"scale": 0.989
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1360.41,
+"z": -621.7,
+"rot": 82.0,
+"group": "Undergrowth",
+"scale": 1.235
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1294.91,
+"z": -146.96,
+"rot": 168.9,
+"group": "Undergrowth",
+"scale": 1.209
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1482.25,
+"z": -597.99,
+"rot": 281.7,
+"group": "Undergrowth",
+"scale": 1.111
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1469.52,
+"z": -116.61,
+"rot": 94.9,
+"group": "Undergrowth",
+"scale": 1.119
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1407.91,
+"z": -484.12,
+"rot": 353.6,
+"group": "Undergrowth",
+"scale": 1.324
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1630.83,
+"z": -553.07,
+"rot": 141.3,
+"group": "Undergrowth",
+"scale": 0.806
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1530.1,
+"z": -613.16,
+"rot": 225.3,
+"group": "Undergrowth",
+"scale": 1.457
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1667.74,
+"z": -670.73,
+"rot": 217.3,
+"group": "Undergrowth",
+"scale": 1.117
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1317.58,
+"z": -349.46,
+"rot": 67.9,
+"group": "Undergrowth",
+"scale": 1.283
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1617.23,
+"z": -228.27,
+"rot": 41.7,
+"group": "Undergrowth",
+"scale": 1.006
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1330.15,
+"z": -287.52,
+"rot": 249.7,
+"group": "Undergrowth",
+"scale": 1.094
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1406.67,
+"z": -226.12,
+"rot": 350.9,
+"group": "Undergrowth",
+"scale": 0.836
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1625.65,
+"z": -666.73,
+"rot": 35.1,
+"group": "Undergrowth",
+"scale": 1.189
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1859.35,
+"z": -168.73,
+"rot": 67.8,
+"group": "Undergrowth",
+"scale": 1.405
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1528.27,
+"z": -623.53,
+"rot": 137.3,
+"group": "Undergrowth",
+"scale": 0.835
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1303.92,
+"z": -259.73,
+"rot": 69.5,
+"group": "Undergrowth",
+"scale": 1.086
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1501.82,
+"z": -202.0,
+"rot": 182.5,
+"group": "Undergrowth",
+"scale": 0.821
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1542.85,
+"z": -582.56,
+"rot": 143.7,
+"group": "Undergrowth",
+"scale": 1.33
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1424.87,
+"z": -292.51,
+"rot": 107.7,
+"group": "Undergrowth",
+"scale": 1.179
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1707.51,
+"z": -147.59,
+"rot": 307.9,
+"group": "Undergrowth",
+"scale": 0.904
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1464.8,
+"z": -659.37,
+"rot": 133.2,
+"group": "Undergrowth",
+"scale": 1.37
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1512.36,
+"z": -223.55,
+"rot": 95.5,
+"group": "Undergrowth",
+"scale": 0.962
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1585.55,
+"z": -220.23,
+"rot": 232.2,
+"group": "Undergrowth",
+"scale": 1.317
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1422.23,
+"z": -643.83,
+"rot": 84.0,
+"group": "Undergrowth",
+"scale": 1.152
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1888.21,
+"z": -226.25,
+"rot": 262.1,
+"group": "Undergrowth",
+"scale": 0.813
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1665.07,
+"z": -430.67,
+"rot": 96.6,
+"group": "Undergrowth",
+"scale": 0.878
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1598.29,
+"z": -298.84,
+"rot": 208.7,
+"group": "Undergrowth",
+"scale": 0.867
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1749.96,
+"z": -245.78,
+"rot": 290.9,
+"group": "Undergrowth",
+"scale": 1.318
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1475.78,
+"z": -219.61,
+"rot": 289.8,
+"group": "Undergrowth",
+"scale": 1.258
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1373.58,
+"z": -630.16,
+"rot": 228.9,
+"group": "Undergrowth",
+"scale": 0.825
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1568.61,
+"z": -528.33,
+"rot": 88.7,
+"group": "Undergrowth",
+"scale": 1.342
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1812.05,
+"z": -124.69,
+"rot": 21.2,
+"group": "Undergrowth",
+"scale": 1.313
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1707.75,
+"z": -643.94,
+"rot": 189.0,
+"group": "Undergrowth",
+"scale": 0.889
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1343.28,
+"z": -623.19,
+"rot": 176.2,
+"group": "Undergrowth",
+"scale": 1.404
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1546.36,
+"z": -711.6,
+"rot": 98.5,
+"group": "Undergrowth",
+"scale": 1.47
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1758.54,
+"z": -159.73,
+"rot": 294.5,
+"group": "Undergrowth",
+"scale": 1.12
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1460.11,
+"z": -344.23,
+"rot": 188.7,
+"group": "Undergrowth",
+"scale": 0.969
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1763.99,
+"z": -696.94,
+"rot": 85.9,
+"group": "Undergrowth",
+"scale": 1.168
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1301.41,
+"z": -707.56,
+"rot": 241.1,
+"group": "Undergrowth",
+"scale": 1.222
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1548.37,
+"z": -331.62,
+"rot": 106.1,
+"group": "Undergrowth",
+"scale": 0.966
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1758.39,
+"z": -266.72,
+"rot": 209.4,
+"group": "Undergrowth",
+"scale": 0.812
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1741.35,
+"z": -338.99,
+"rot": 316.2,
+"group": "Undergrowth",
+"scale": 1.344
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1469.28,
+"z": -296.72,
+"rot": 54.8,
+"group": "Undergrowth",
+"scale": 1.103
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1762.99,
+"z": -205.59,
+"rot": 129.5,
+"group": "Undergrowth",
+"scale": 0.85
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1456.22,
+"z": -527.93,
+"rot": 295.3,
+"group": "Undergrowth",
+"scale": 0.869
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1421.23,
+"z": -385.83,
+"rot": 188.9,
+"group": "Undergrowth",
+"scale": 1.233
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1413.69,
+"z": -704.08,
+"rot": 103.7,
+"group": "Undergrowth",
+"scale": 1.325
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1591.16,
+"z": -673.59,
+"rot": 131.4,
+"group": "Undergrowth",
+"scale": 1.262
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1471.12,
+"z": -652.2,
+"rot": 232.4,
+"group": "Undergrowth",
+"scale": 1.098
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1504.86,
+"z": -258.69,
+"rot": 102.2,
+"group": "Undergrowth",
+"scale": 0.976
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1899.91,
+"z": -548.17,
+"rot": 68.9,
+"group": "Undergrowth",
+"scale": 0.982
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1375.61,
+"z": -343.77,
+"rot": 91.9,
+"group": "Undergrowth",
+"scale": 0.943
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1578.93,
+"z": -188.77,
+"rot": 89.8,
+"group": "Undergrowth",
+"scale": 0.853
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1515.57,
+"z": -653.19,
+"rot": 276.2,
+"group": "Undergrowth",
+"scale": 0.911
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1817.36,
+"z": -586.8,
+"rot": 59.3,
+"group": "Undergrowth",
+"scale": 0.977
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1262.2,
+"z": -207.49,
+"rot": 58.2,
+"group": "Undergrowth",
+"scale": 1.046
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1773.44,
+"z": -597.57,
+"rot": 261.8,
+"group": "Undergrowth",
+"scale": 0.906
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1388.01,
+"z": -255.35,
+"rot": 315.7,
+"group": "Undergrowth",
+"scale": 0.992
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1732.0,
+"z": -515.5,
+"rot": 46.1,
+"group": "Undergrowth",
+"scale": 1.429
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1416.93,
+"z": -717.36,
+"rot": 342.7,
+"group": "Undergrowth",
+"scale": 1.147
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1454.75,
+"z": -256.27,
+"rot": 33.0,
+"group": "Undergrowth",
+"scale": 0.873
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1343.17,
+"z": -536.3,
+"rot": 86.8,
+"group": "Undergrowth",
+"scale": 1.357
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1690.08,
+"z": -518.07,
+"rot": 307.2,
+"group": "Undergrowth",
+"scale": 1.394
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1704.43,
+"z": -249.19,
+"rot": 40.3,
+"group": "Undergrowth",
+"scale": 0.85
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1315.12,
+"z": -102.05,
+"rot": 333.3,
+"group": "Undergrowth"
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1590.87,
+"z": -523.9,
+"rot": 231.9,
+"group": "Undergrowth",
+"scale": 0.811
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1421.67,
+"z": -553.31,
+"rot": 316.8,
+"group": "Undergrowth",
+"scale": 1.433
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1630.16,
+"z": -671.9,
+"rot": 347.9,
+"group": "Undergrowth",
+"scale": 1.475
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1377.9,
+"z": -255.15,
+"rot": 176.8,
+"group": "Undergrowth",
+"scale": 1.344
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1846.87,
+"z": -249.47,
+"rot": 206.6,
+"group": "Undergrowth",
+"scale": 0.839
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1316.07,
+"z": -79.87,
+"rot": 319.1,
+"group": "Undergrowth",
+"scale": 1.41
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1751.08,
+"z": -477.22,
+"rot": 314.5,
+"group": "Undergrowth",
+"scale": 1.035
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1850.22,
+"z": -681.77,
+"rot": 309.3,
+"group": "Undergrowth",
+"scale": 1.323
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1659.23,
+"z": -685.37,
+"rot": 307.0,
+"group": "Undergrowth",
+"scale": 0.822
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1476.65,
+"z": -212.79,
+"rot": 226.1,
+"group": "Undergrowth",
+"scale": 1.185
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1678.46,
+"z": -515.66,
+"rot": 99.5,
+"group": "Undergrowth",
+"scale": 1.26
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1827.52,
+"z": -448.32,
+"rot": 241.5,
+"group": "Undergrowth",
+"scale": 1.434
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1755.2,
+"z": -243.19,
+"rot": 178.5,
+"group": "Undergrowth",
+"scale": 0.837
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1392.93,
+"z": -323.66,
+"rot": 61.9,
+"group": "Undergrowth",
+"scale": 1.499
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1803.08,
+"z": -609.08,
+"rot": 48.1,
+"group": "Undergrowth",
+"scale": 0.839
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1898.47,
+"z": -260.14,
+"rot": 200.8,
+"group": "Undergrowth",
+"scale": 1.25
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1565.79,
+"z": -589.89,
+"rot": 75.7,
+"group": "Undergrowth",
+"scale": 0.887
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1410.68,
+"z": -636.46,
+"rot": 49.0,
+"group": "Undergrowth",
+"scale": 1.028
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1812.63,
+"z": -327.27,
+"rot": 171.2,
+"group": "Undergrowth",
+"scale": 0.88
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1751.55,
+"z": -641.28,
+"rot": 7.1,
+"group": "Undergrowth",
+"scale": 0.846
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1340.32,
+"z": -418.68,
+"rot": 316.2,
+"group": "Undergrowth",
+"scale": 0.951
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1431.87,
+"z": -332.0,
+"rot": 12.2,
+"group": "Undergrowth",
+"scale": 1.483
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1636.29,
+"z": -311.16,
+"rot": 12.7,
+"group": "Undergrowth",
+"scale": 1.14
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1775.89,
+"z": -694.9,
+"rot": 120.9,
+"group": "Undergrowth",
+"scale": 0.812
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1821.68,
+"z": -632.45,
+"rot": 176.8,
+"group": "Undergrowth",
+"scale": 1.002
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1832.98,
+"z": -422.49,
+"rot": 210.3,
+"group": "Undergrowth",
+"scale": 1.116
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1318.52,
+"z": -719.77,
+"rot": 74.1,
+"group": "Undergrowth",
+"scale": 0.841
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1266.56,
+"z": -484.54,
+"rot": 60.1,
+"group": "Undergrowth",
+"scale": 1.192
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1851.48,
+"z": -613.64,
+"rot": 85.0,
+"group": "Undergrowth",
+"scale": 1.227
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1843.5,
+"z": -232.95,
+"rot": 324.2,
+"group": "Undergrowth",
+"scale": 0.927
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1717.88,
+"z": -700.82,
+"rot": 187.7,
+"group": "Undergrowth",
+"scale": 1.102
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1304.21,
+"z": -495.69,
+"rot": 9.4,
+"group": "Undergrowth",
+"scale": 1.132
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1871.26,
+"z": -256.04,
+"rot": 51.1,
+"group": "Undergrowth",
+"scale": 1.207
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1419.44,
+"z": -289.14,
+"rot": 75.4,
+"group": "Undergrowth",
+"scale": 1.486
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1711.21,
+"z": -255.27,
+"rot": 28.1,
+"group": "Undergrowth",
+"scale": 1.111
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1646.18,
+"z": -533.14,
+"rot": 147.5,
+"group": "Undergrowth",
+"scale": 1.183
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1251.92,
+"z": -614.64,
+"rot": 232.7,
+"group": "Undergrowth",
+"scale": 1.284
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1799.97,
+"z": -526.35,
+"rot": 7.7,
+"group": "Undergrowth",
+"scale": 0.909
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1385.7,
+"z": -592.8,
+"rot": 265.5,
+"group": "Undergrowth",
+"scale": 1.115
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1558.29,
+"z": -664.28,
+"rot": 75.2,
+"group": "Undergrowth",
+"scale": 0.878
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1345.6,
+"z": -291.05,
+"rot": 116.5,
+"group": "Undergrowth",
+"scale": 0.927
+},
+{
+"model": "F23_glow_mushroom_1",
+"x": -1739.76,
+"z": -548.83,
+"rot": 170.3,
+"group": "Undergrowth",
+"scale": 1.443
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1664.34,
+"z": -552.3,
+"rot": 324.2,
+"group": "Undergrowth",
+"scale": 0.8
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1489.66,
+"z": -684.92,
+"rot": 127.1,
+"group": "Undergrowth",
+"scale": 0.808
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1695.96,
+"z": -384.85,
+"rot": 147.5,
+"group": "Undergrowth",
+"scale": 0.826
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1555.28,
+"z": -190.32,
+"rot": 353.8,
+"group": "Undergrowth",
+"scale": 1.494
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1300.89,
+"z": -446.82,
+"rot": 116.4,
+"group": "Undergrowth",
+"scale": 1.306
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1804.0,
+"z": -231.77,
+"rot": 204.1,
+"group": "Undergrowth",
+"scale": 1.325
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1434.2,
+"z": -528.03,
+"rot": 357.2,
+"group": "Undergrowth",
+"scale": 0.903
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1778.23,
+"z": -606.85,
+"rot": 340.8,
+"group": "Undergrowth",
+"scale": 1.45
+},
+{
+"model": "F24_glow_mushroom_2",
+"x": -1601.29,
+"z": -630.43,
+"rot": 293.2,
+"group": "Undergrowth",
+"scale": 1.061
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1642.55,
+"z": -271.16,
+"rot": 140.3,
+"group": "Undergrowth",
+"scale": 1.346
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1657.6,
+"z": -452.25,
+"rot": 316.9,
+"group": "Undergrowth",
+"scale": 1.229
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1439.83,
+"z": -673.65,
+"rot": 276.4,
+"group": "Undergrowth",
+"scale": 1.291
+},
+{
+"model": "A54_mushroom_cluster",
+"x": -1726.37,
+"z": -710.76,
+"rot": 96.8,
+"group": "Undergrowth",
+"scale": 1.032
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1235.32,
+"z": -485.47,
+"rot": 213.5,
+"group": "Undergrowth",
+"scale": 1.306
+},
+{
+"model": "F19_hanging_vines_2",
+"x": -1358.92,
+"z": -710.05,
+"rot": 151.5,
+"group": "Vines",
+"y_offset": 21.81
+},
+{
+"model": "F19_hanging_vines_2",
+"x": -1355.34,
+"z": -734.85,
+"rot": 227.6,
+"group": "Vines",
+"y_offset": 24.72
+},
+{
+"model": "F20_hanging_moss",
+"x": -1370.59,
+"z": -284.25,
+"rot": 68.6,
+"group": "Vines",
+"y_offset": 26.34
+},
+{
+"model": "F20_hanging_moss",
+"x": -1372.23,
+"z": -279.03,
+"rot": 167.1,
+"group": "Vines",
+"y_offset": 19.58
+},
+{
+"model": "F18_hanging_vines_1",
+"x": -1256.56,
+"z": -538.68,
+"rot": 329.8,
+"group": "Vines",
+"y_offset": 18.31
+},
+{
+"model": "F20_hanging_moss",
+"x": -1244.42,
+"z": -514.9,
+"rot": 340.2,
+"group": "Vines",
+"y_offset": 20.06
+},
+{
+"model": "F20_hanging_moss",
+"x": -1811.19,
+"z": -667.22,
+"rot": 81.0,
+"group": "Vines",
+"y_offset": 18.33
+},
+{
+"model": "F19_hanging_vines_2",
+"x": -1815.85,
+"z": -689.09,
+"rot": 40.1,
+"group": "Vines",
+"y_offset": 26.64
+},
+{
+"model": "F18_hanging_vines_1",
+"x": -1257.65,
+"z": -445.04,
+"rot": 356.7,
+"group": "Vines",
+"y_offset": 20.32
+},
+{
+"model": "F19_hanging_vines_2",
+"x": -1272.08,
+"z": -440.54,
+"rot": 120.7,
+"group": "Vines",
+"y_offset": 28.38
+},
+{
+"model": "F20_hanging_moss",
+"x": -1410.6,
+"z": -139.43,
+"rot": 358.9,
+"group": "Vines",
+"y_offset": 22.84
+},
+{
+"model": "F18_hanging_vines_1",
+"x": -1388.01,
+"z": -128.94,
+"rot": 211.7,
+"group": "Vines",
+"y_offset": 21.25
+},
+{
+"model": "F19_hanging_vines_2",
+"x": -1308.61,
+"z": -592.22,
+"rot": 335.1,
+"group": "Vines",
+"y_offset": 24.02
+},
+{
+"model": "F20_hanging_moss",
+"x": -1316.85,
+"z": -598.79,
+"rot": 270.9,
+"group": "Vines",
+"y_offset": 26.93
+},
+{
+"model": "F20_hanging_moss",
+"x": -1821.53,
+"z": -204.17,
+"rot": 116.3,
+"group": "Vines",
+"y_offset": 18.15
+},
+{
+"model": "F19_hanging_vines_2",
+"x": -1844.72,
+"z": -199.22,
+"rot": 167.4,
+"group": "Vines",
+"y_offset": 23.73
+},
+{
+"model": "F20_hanging_moss",
+"x": -1713.13,
+"z": -87.05,
+"rot": 197.6,
+"group": "Vines",
+"y_offset": 29.9
+},
+{
+"model": "F20_hanging_moss",
+"x": -1701.23,
+"z": -69.73,
+"rot": 53.2,
+"group": "Vines",
+"y_offset": 20.21
+},
+{
+"model": "F18_hanging_vines_1",
+"x": -1875.95,
+"z": -523.28,
+"rot": 225.6,
+"group": "Vines",
+"y_offset": 25.8
+},
+{
+"model": "F19_hanging_vines_2",
+"x": -1859.22,
+"z": -527.43,
+"rot": 102.5,
+"group": "Vines",
+"y_offset": 21.08
+},
+{
+"model": "F20_hanging_moss",
+"x": -1257.29,
+"z": -250.53,
+"rot": 18.5,
+"group": "Vines",
+"y_offset": 27.54
+},
+{
+"model": "F19_hanging_vines_2",
+"x": -1256.04,
+"z": -247.48,
+"rot": 52.1,
+"group": "Vines",
+"y_offset": 21.61
+},
+{
+"model": "F20_hanging_moss",
+"x": -1736.51,
+"z": -578.54,
+"rot": 123.8,
+"group": "Vines",
+"y_offset": 22.03
+},
+{
+"model": "F18_hanging_vines_1",
+"x": -1743.82,
+"z": -587.15,
+"rot": 325.8,
+"group": "Vines",
+"y_offset": 20.21
+},
+{
+"model": "F19_hanging_vines_2",
+"x": -1485.85,
+"z": -75.22,
+"rot": 32.0,
+"group": "Vines",
+"y_offset": 26.03
+},
+{
+"model": "F18_hanging_vines_1",
+"x": -1481.72,
+"z": -75.92,
+"rot": 305.1,
+"group": "Vines",
+"y_offset": 23.55
+},
+{
+"model": "F18_hanging_vines_1",
+"x": -1231.62,
+"z": -147.79,
+"rot": 257.2,
+"group": "Vines",
+"y_offset": 22.89
+},
+{
+"model": "F19_hanging_vines_2",
+"x": -1231.93,
+"z": -154.69,
+"rot": 15.3,
+"group": "Vines",
+"y_offset": 25.12
+},
+{
+"model": "F19_hanging_vines_2",
+"x": -1225.31,
+"z": -352.47,
+"rot": 212.3,
+"group": "Vines",
+"y_offset": 18.09
+},
+{
+"model": "F19_hanging_vines_2",
+"x": -1249.42,
+"z": -348.77,
+"rot": 44.9,
+"group": "Vines",
+"y_offset": 26.1
+},
+{
+"model": "F20_hanging_moss",
+"x": -1613.92,
+"z": -720.33,
+"rot": 144.6,
+"group": "Vines",
+"y_offset": 25.62
+},
+{
+"model": "F19_hanging_vines_2",
+"x": -1630.02,
+"z": -740.59,
+"rot": 219.2,
+"group": "Vines",
+"y_offset": 21.43
+},
+{
+"model": "F19_hanging_vines_2",
+"x": -1856.6,
+"z": -294.96,
+"rot": 24.0,
+"group": "Vines",
+"y_offset": 25.54
+},
+{
+"model": "F18_hanging_vines_1",
+"x": -1863.79,
+"z": -315.89,
+"rot": 326.9,
+"group": "Vines",
+"y_offset": 29.16
+},
+{
+"model": "F19_hanging_vines_2",
+"x": -1237.59,
+"z": -656.93,
+"rot": 257.2,
+"group": "Vines",
+"y_offset": 26.13
+},
+{
+"model": "F20_hanging_moss",
+"x": -1249.21,
+"z": -648.96,
+"rot": 8.4,
+"group": "Vines",
+"y_offset": 22.92
+},
+{
+"model": "F20_hanging_moss",
+"x": -1690.79,
+"z": -347.61,
+"rot": 166.2,
+"group": "Vines",
+"y_offset": 29.4
+},
+{
+"model": "F18_hanging_vines_1",
+"x": -1689.14,
+"z": -353.28,
+"rot": 135.8,
+"group": "Vines",
+"y_offset": 27.4
+},
+{
+"model": "F18_hanging_vines_1",
+"x": -1303.07,
+"z": -174.51,
+"rot": 249.5,
+"group": "Vines",
+"y_offset": 25.86
+},
+{
+"model": "F19_hanging_vines_2",
+"x": -1303.51,
+"z": -175.72,
+"rot": 126.1,
+"group": "Vines",
+"y_offset": 21.47
+},
+{
+"model": "F20_hanging_moss",
+"x": -1568.19,
+"z": -86.82,
+"rot": 277.7,
+"group": "Vines",
+"y_offset": 24.32
+},
+{
+"model": "F19_hanging_vines_2",
+"x": -1591.41,
+"z": -93.4,
+"rot": 88.2,
+"group": "Vines",
+"y_offset": 19.52
+},
+{
+"model": "F20_hanging_moss",
+"x": -1292.61,
+"z": -656.96,
+"rot": 288.3,
+"group": "Vines",
+"y_offset": 23.2
+},
+{
+"model": "F19_hanging_vines_2",
+"x": -1290.75,
+"z": -663.51,
+"rot": 11.2,
+"group": "Vines",
+"y_offset": 19.67
+},
+{
+"model": "F18_hanging_vines_1",
+"x": -1908.95,
+"z": -623.04,
+"rot": 174.5,
+"group": "Vines",
+"y_offset": 25.25
+},
+{
+"model": "F18_hanging_vines_1",
+"x": -1882.61,
+"z": -623.99,
+"rot": 194.5,
+"group": "Vines",
+"y_offset": 18.31
+},
+{
+"model": "F19_hanging_vines_2",
+"x": -1661.19,
+"z": -255.25,
+"rot": 233.5,
+"group": "Vines",
+"y_offset": 25.98
+},
+{
+"model": "F19_hanging_vines_2",
+"x": -1650.93,
+"z": -241.67,
+"rot": 246.9,
+"group": "Vines",
+"y_offset": 18.35
+},
+{
+"model": "F20_hanging_moss",
+"x": -1782.66,
+"z": -270.31,
+"rot": 136.0,
+"group": "Vines",
+"y_offset": 24.96
+},
+{
+"model": "F20_hanging_moss",
+"x": -1777.98,
+"z": -271.7,
+"rot": 202.3,
+"group": "Vines",
+"y_offset": 26.93
+},
+{
+"model": "F18_hanging_vines_1",
+"x": -1799.15,
+"z": -88.3,
+"rot": 319.0,
+"group": "Vines",
+"y_offset": 24.36
+},
+{
+"model": "F19_hanging_vines_2",
+"x": -1792.78,
+"z": -77.34,
+"rot": 230.9,
+"group": "Vines",
+"y_offset": 25.18
+},
+{
+"model": "F20_hanging_moss",
+"x": -1864.19,
+"z": -132.05,
+"rot": 308.0,
+"group": "Vines",
+"y_offset": 18.95
+},
+{
+"model": "F20_hanging_moss",
+"x": -1864.97,
+"z": -121.02,
+"rot": 295.2,
+"group": "Vines",
+"y_offset": 22.25
+},
+{
+"model": "F20_hanging_moss",
+"x": -1716.2,
+"z": -467.17,
+"rot": 291.5,
+"group": "Vines",
+"y_offset": 20.04
+},
+{
+"model": "F18_hanging_vines_1",
+"x": -1710.25,
+"z": -486.5,
+"rot": 94.0,
+"group": "Vines",
+"y_offset": 29.19
+},
+{
+"model": "F18_hanging_vines_1",
+"x": -1366.73,
+"z": -489.5,
+"rot": 94.1,
+"group": "Vines",
+"y_offset": 25.75
+},
+{
+"model": "F18_hanging_vines_1",
+"x": -1372.89,
+"z": -463.11,
+"rot": 12.4,
+"group": "Vines",
+"y_offset": 22.21
+},
+{
+"model": "F20_hanging_moss",
+"x": -1289.85,
+"z": -300.91,
+"rot": 17.5,
+"group": "Vines",
+"y_offset": 20.41
+},
+{
+"model": "F18_hanging_vines_1",
+"x": -1310.31,
+"z": -303.53,
+"rot": 142.9,
+"group": "Vines",
+"y_offset": 28.48
+}
+]
+}

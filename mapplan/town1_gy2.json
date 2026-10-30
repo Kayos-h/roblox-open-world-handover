@@ -1,0 +1,598 @@
+{
+"area": "town1_gy2",
+"terrain": [],
+"placements": [
+{
+"model": "D13_gravestone_2",
+"x": -261.6,
+"z": 233.35,
+"rot": 86.4,
+"group": "Graves2",
+"scale": 0.995
+},
+{
+"model": "D16_stone_cross",
+"x": -206.27,
+"z": 240.1,
+"rot": 98.7,
+"group": "Graves2",
+"scale": 0.867
+},
+{
+"model": "D16_stone_cross",
+"x": -280.59,
+"z": 259.58,
+"rot": 98.3,
+"group": "Graves2",
+"scale": 1.155
+},
+{
+"model": "D12_gravestone_1",
+"x": -281.05,
+"z": 235.17,
+"rot": 84.0,
+"group": "Graves2",
+"scale": 0.972
+},
+{
+"model": "D14_gravestone_3",
+"x": -283.1,
+"z": 248.3,
+"rot": 87.0,
+"group": "Graves2",
+"scale": 1.021
+},
+{
+"model": "D13_gravestone_2",
+"x": -252.09,
+"z": 276.72,
+"rot": 82.9,
+"group": "Graves2",
+"scale": 1.157
+},
+{
+"model": "D15_gravestone_4",
+"x": -209.01,
+"z": 250.45,
+"rot": 92.1,
+"group": "Graves2",
+"scale": 1.039
+},
+{
+"model": "D13_gravestone_2",
+"x": -217.98,
+"z": 255.24,
+"rot": 82.7,
+"group": "Graves2",
+"scale": 0.991
+},
+{
+"model": "D15_gravestone_4",
+"x": -257.31,
+"z": 244.63,
+"rot": 87.0,
+"group": "Graves2",
+"scale": 1.008
+},
+{
+"model": "D12_gravestone_1",
+"x": -219.03,
+"z": 268.93,
+"rot": 94.4,
+"group": "Graves2",
+"scale": 0.882
+},
+{
+"model": "D12_gravestone_1",
+"x": -260.86,
+"z": 276.61,
+"rot": 82.1,
+"group": "Graves2",
+"scale": 1.19
+},
+{
+"model": "D16_stone_cross",
+"x": -216.91,
+"z": 244.99,
+"rot": 82.5,
+"group": "Graves2",
+"scale": 1.185
+},
+{
+"model": "D16_stone_cross",
+"x": -274.65,
+"z": 233.83,
+"rot": 92.9,
+"group": "Graves2",
+"scale": 1.189
+},
+{
+"model": "D12_gravestone_1",
+"x": -251.32,
+"z": 228.02,
+"rot": 82.8,
+"group": "Graves2",
+"scale": 1.199
+},
+{
+"model": "D16_stone_cross",
+"x": -279.07,
+"z": 253.47,
+"rot": 83.7,
+"group": "Graves2",
+"scale": 0.893
+},
+{
+"model": "D15_gravestone_4",
+"x": -227.35,
+"z": 265.7,
+"rot": 98.9,
+"group": "Graves2",
+"scale": 0.858
+},
+{
+"model": "D13_gravestone_2",
+"x": -255.25,
+"z": 237.4,
+"rot": 93.7,
+"group": "Graves2",
+"scale": 1.022
+},
+{
+"model": "D15_gravestone_4",
+"x": -274.47,
+"z": 260.74,
+"rot": 92.0,
+"group": "Graves2",
+"scale": 0.955
+},
+{
+"model": "D12_gravestone_1",
+"x": -210.6,
+"z": 256.69,
+"rot": 87.8,
+"group": "Graves2",
+"scale": 1.14
+},
+{
+"model": "D16_stone_cross",
+"x": -250.79,
+"z": 248.11,
+"rot": 93.6,
+"group": "Graves2",
+"scale": 1.094
+},
+{
+"model": "D16_stone_cross",
+"x": -283.82,
+"z": 240.27,
+"rot": 95.4,
+"group": "Graves2",
+"scale": 0.909
+},
+{
+"model": "D12_gravestone_1",
+"x": -251.0,
+"z": 241.09,
+"rot": 84.9,
+"group": "Graves2",
+"scale": 1.169
+},
+{
+"model": "D14_gravestone_3",
+"x": -199.99,
+"z": 217.21,
+"rot": 83.0,
+"group": "Graves2",
+"scale": 1.02
+},
+{
+"model": "D15_gravestone_4",
+"x": -261.05,
+"z": 246.01,
+"rot": 83.6,
+"group": "Graves2",
+"scale": 0.918
+},
+{
+"model": "D12_gravestone_1",
+"x": -267.7,
+"z": 247.88,
+"rot": 94.6,
+"group": "Graves2",
+"scale": 1.076
+},
+{
+"model": "D12_gravestone_1",
+"x": -217.25,
+"z": 238.46,
+"rot": 91.0,
+"group": "Graves2",
+"scale": 0.856
+},
+{
+"model": "D12_gravestone_1",
+"x": -246.53,
+"z": 274.3,
+"rot": 89.4,
+"group": "Graves2",
+"scale": 0.883
+},
+{
+"model": "D12_gravestone_1",
+"x": -265.32,
+"z": 252.97,
+"rot": 98.7,
+"group": "Graves2",
+"scale": 1.063
+},
+{
+"model": "D13_gravestone_2",
+"x": -247.51,
+"z": 225.96,
+"rot": 89.4,
+"group": "Graves2",
+"scale": 0.985
+},
+{
+"model": "D14_gravestone_3",
+"x": -225.62,
+"z": 238.12,
+"rot": 96.1,
+"group": "Graves2",
+"scale": 1.085
+},
+{
+"model": "D12_gravestone_1",
+"x": -261.85,
+"z": 221.75,
+"rot": 98.0,
+"group": "Graves2",
+"scale": 0.87
+},
+{
+"model": "D14_gravestone_3",
+"x": -210.26,
+"z": 238.27,
+"rot": 86.5,
+"group": "Graves2",
+"scale": 1.145
+},
+{
+"model": "D14_gravestone_3",
+"x": -221.86,
+"z": 239.93,
+"rot": 94.9,
+"group": "Graves2",
+"scale": 0.937
+},
+{
+"model": "D12_gravestone_1",
+"x": -263.66,
+"z": 213.14,
+"rot": 94.4,
+"group": "Graves2",
+"scale": 0.966
+},
+{
+"model": "D15_gravestone_4",
+"x": -273.47,
+"z": 252.56,
+"rot": 84.7,
+"group": "Graves2",
+"scale": 0.935
+},
+{
+"model": "D13_gravestone_2",
+"x": -205.93,
+"z": 254.16,
+"rot": 88.0,
+"group": "Graves2",
+"scale": 0.858
+},
+{
+"model": "D15_gravestone_4",
+"x": -270.14,
+"z": 239.78,
+"rot": 94.3,
+"group": "Graves2",
+"scale": 0.904
+},
+{
+"model": "D14_gravestone_3",
+"x": -224.6,
+"z": 247.75,
+"rot": 90.8,
+"group": "Graves2",
+"scale": 0.994
+},
+{
+"model": "D16_stone_cross",
+"x": -228.73,
+"z": 213.94,
+"rot": 94.3,
+"group": "Graves2",
+"scale": 0.932
+},
+{
+"model": "D12_gravestone_1",
+"x": -229.41,
+"z": 255.01,
+"rot": 96.6,
+"group": "Graves2",
+"scale": 0.925
+},
+{
+"model": "D15_gravestone_4",
+"x": -213.9,
+"z": 250.3,
+"rot": 93.5,
+"group": "Graves2",
+"scale": 0.926
+},
+{
+"model": "D12_gravestone_1",
+"x": -255.13,
+"z": 231.07,
+"rot": 94.6,
+"group": "Graves2",
+"scale": 1.003
+},
+{
+"model": "D12_gravestone_1",
+"x": -264.21,
+"z": 229.74,
+"rot": 95.4,
+"group": "Graves2",
+"scale": 0.943
+},
+{
+"model": "D15_gravestone_4",
+"x": -227.14,
+"z": 231.7,
+"rot": 94.0,
+"group": "Graves2",
+"scale": 0.954
+},
+{
+"model": "D12_gravestone_1",
+"x": -254.84,
+"z": 222.62,
+"rot": 92.4,
+"group": "Graves2",
+"scale": 1.189
+},
+{
+"model": "D15_gravestone_4",
+"x": -227.95,
+"z": 224.85,
+"rot": 94.5,
+"group": "Graves2",
+"scale": 0.894
+},
+{
+"model": "D14_gravestone_3",
+"x": -246.8,
+"z": 280.88,
+"rot": 91.5,
+"group": "Graves2",
+"scale": 1.094
+},
+{
+"model": "D15_gravestone_4",
+"x": -205.65,
+"z": 245.17,
+"rot": 92.1,
+"group": "Graves2",
+"scale": 0.945
+},
+{
+"model": "D12_gravestone_1",
+"x": -283.7,
+"z": 245.16,
+"rot": 83.8,
+"group": "Graves2",
+"scale": 0.993
+},
+{
+"model": "D13_gravestone_2",
+"x": -218.69,
+"z": 231.81,
+"rot": 97.6,
+"group": "Graves2",
+"scale": 0.872
+},
+{
+"model": "D15_gravestone_4",
+"x": -228.49,
+"z": 245.48,
+"rot": 84.4,
+"group": "Graves2",
+"scale": 1.161
+},
+{
+"model": "D15_gravestone_4",
+"x": -245.67,
+"z": 263.41,
+"rot": 95.7,
+"group": "Graves2",
+"scale": 0.873
+},
+{
+"model": "D14_gravestone_3",
+"x": -274.78,
+"z": 238.28,
+"rot": 86.4,
+"group": "Graves2",
+"scale": 0.868
+},
+{
+"model": "D15_gravestone_4",
+"x": -208.55,
+"z": 280.89,
+"rot": 97.4,
+"group": "Graves2",
+"scale": 1.028
+},
+{
+"model": "D14_gravestone_3",
+"x": -247.24,
+"z": 245.79,
+"rot": 84.6,
+"group": "Graves2",
+"scale": 0.925
+},
+{
+"model": "D16_stone_cross",
+"x": -256.63,
+"z": 280.97,
+"rot": 84.9,
+"group": "Graves2",
+"scale": 0.987
+},
+{
+"model": "D12_gravestone_1",
+"x": -200.52,
+"z": 269.47,
+"rot": 93.7,
+"group": "Graves2",
+"scale": 0.899
+},
+{
+"model": "D14_gravestone_3",
+"x": -224.26,
+"z": 254.27,
+"rot": 85.3,
+"group": "Graves2",
+"scale": 1.04
+},
+{
+"model": "D15_gravestone_4",
+"x": -246.0,
+"z": 253.04,
+"rot": 86.1,
+"group": "Graves2",
+"scale": 0.9
+},
+{
+"model": "D14_gravestone_3",
+"x": -210.03,
+"z": 276.46,
+"rot": 88.2,
+"group": "Graves2",
+"scale": 0.904
+},
+{
+"model": "D14_gravestone_3",
+"x": -254.65,
+"z": 215.81,
+"rot": 87.2,
+"group": "Graves2",
+"scale": 1.028
+},
+{
+"model": "D15_gravestone_4",
+"x": -253.91,
+"z": 261.94,
+"rot": 89.1,
+"group": "Graves2",
+"scale": 0.889
+},
+{
+"model": "D12_gravestone_1",
+"x": -283.01,
+"z": 252.41,
+"rot": 81.8,
+"group": "Graves2",
+"scale": 0.941
+},
+{
+"model": "D15_gravestone_4",
+"x": -219.24,
+"z": 262.76,
+"rot": 81.9,
+"group": "Graves2",
+"scale": 0.889
+},
+{
+"model": "D12_gravestone_1",
+"x": -254.67,
+"z": 256.15,
+"rot": 81.1,
+"group": "Graves2",
+"scale": 0.938
+},
+{
+"model": "D14_gravestone_3",
+"x": -211.25,
+"z": 243.34,
+"rot": 90.6,
+"group": "Graves2",
+"scale": 0.883
+},
+{
+"model": "D14_gravestone_3",
+"x": -209.93,
+"z": 268.22,
+"rot": 85.6,
+"group": "Graves2",
+"scale": 0.929
+},
+{
+"model": "A23_candle_cluster",
+"x": -265.73,
+"z": 238.16,
+"rot": 324.2,
+"group": "Candles2",
+"scale": 0.804
+},
+{
+"model": "A23_candle_cluster",
+"x": -220.06,
+"z": 272.66,
+"rot": 250.3,
+"group": "Candles2",
+"scale": 0.82
+},
+{
+"model": "A23_candle_cluster",
+"x": -255.48,
+"z": 267.19,
+"rot": 304.1,
+"group": "Candles2",
+"scale": 0.793
+},
+{
+"model": "A23_candle_cluster",
+"x": -209.07,
+"z": 230.36,
+"rot": 33.8,
+"group": "Candles2",
+"scale": 0.962
+},
+{
+"model": "A23_candle_cluster",
+"x": -201.73,
+"z": 255.89,
+"rot": 181.5,
+"group": "Candles2",
+"scale": 0.85
+},
+{
+"model": "A23_candle_cluster",
+"x": -198.99,
+"z": 223.68,
+"rot": 210.9,
+"group": "Candles2",
+"scale": 0.977
+},
+{
+"model": "A23_candle_cluster",
+"x": -209.55,
+"z": 262.69,
+"rot": 306.5,
+"group": "Candles2",
+"scale": 0.83
+}
+]
+}

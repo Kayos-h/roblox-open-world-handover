@@ -1,0 +1,1003 @@
+{
+ "workers": [
+  {
+   "worker": "va",
+   "title": "Wizard tower exterior (do first, most review rounds)",
+   "module": "v5_va",
+   "models": 9,
+   "est_hours": 1.0,
+   "batches": [
+    {
+     "batch": "tower_shell",
+     "category": "v5_wizard",
+     "rows": [
+      "WT01"
+     ],
+     "ids": [
+      "WT01_01_wizard_tower_shell"
+     ],
+     "models": 1,
+     "est_minutes": 28
+    },
+    {
+     "batch": "tower_porch",
+     "category": "v5_wizard",
+     "rows": [
+      "WT12",
+      "WT11"
+     ],
+     "ids": [
+      "WT12_01_wizard_door_porch",
+      "WT11_01_wizard_armillary_crown"
+     ],
+     "models": 2,
+     "est_minutes": 12
+    },
+    {
+     "batch": "tower_terrace",
+     "category": "v5_wizard",
+     "rows": [
+      "WT13"
+     ],
+     "ids": [
+      "WT13_01_plateau_terrace_set_01",
+      "WT13_02_plateau_terrace_set_02",
+      "WT13_03_plateau_terrace_set_03",
+      "WT13_04_plateau_terrace_set_04",
+      "WT13_05_plateau_terrace_set_05",
+      "WT13_06_plateau_terrace_set_06"
+     ],
+     "models": 6,
+     "est_minutes": 19
+    }
+   ]
+  },
+  {
+   "worker": "vb",
+   "title": "Wizard tower interior and the circular map",
+   "module": "v5_vb",
+   "models": 18,
+   "est_hours": 1.5,
+   "batches": [
+    {
+     "batch": "interior_shell",
+     "category": "v5_wizard",
+     "rows": [
+      "WT02"
+     ],
+     "ids": [
+      "WT02_01_wizard_tower_interior"
+     ],
+     "models": 1,
+     "est_minutes": 17
+    },
+    {
+     "batch": "map_table",
+     "category": "v5_wizard",
+     "rows": [
+      "WT05",
+      "WT06"
+     ],
+     "ids": [
+      "WT05_01_wizard_round_map_table",
+      "WT06_01_wizard_floor_medallion"
+     ],
+     "models": 2,
+     "est_minutes": 16
+    },
+    {
+     "batch": "shelves",
+     "category": "v5_wizard",
+     "rows": [
+      "WT03",
+      "WT04"
+     ],
+     "ids": [
+      "WT03_01_wizard_bookshelf_curved_01",
+      "WT03_02_wizard_bookshelf_curved_02",
+      "WT03_03_wizard_bookshelf_curved_03",
+      "WT04_01_wizard_bookshelf_straight_01",
+      "WT04_02_wizard_bookshelf_straight_02"
+     ],
+     "models": 5,
+     "est_minutes": 20
+    },
+    {
+     "batch": "furniture",
+     "category": "v5_wizard",
+     "rows": [
+      "WT07",
+      "WT08",
+      "WT09",
+      "WT10"
+     ],
+     "ids": [
+      "WT07_01_wizard_lab_set_01",
+      "WT07_02_wizard_lab_set_02",
+      "WT07_03_wizard_lab_set_03",
+      "WT07_04_wizard_lab_set_04",
+      "WT08_01_wizard_study_set_01",
+      "WT08_02_wizard_study_set_02",
+      "WT08_03_wizard_study_set_03",
+      "WT09_01_wizard_chandelier_ring_01",
+      "WT09_02_wizard_chandelier_ring_02",
+      "WT10_01_wizard_observatory_telescope"
+     ],
+     "models": 10,
+     "est_minutes": 37
+    }
+   ]
+  },
+  {
+   "worker": "vc",
+   "title": "Himalayan road kit and natural entrances",
+   "module": "v5_vc",
+   "models": 37,
+   "est_hours": 2.0,
+   "batches": [
+    {
+     "batch": "bridges",
+     "category": "v5_himalaya",
+     "rows": [
+      "HM01"
+     ],
+     "ids": [
+      "HM01_01_rope_suspension_bridge_01",
+      "HM01_02_rope_suspension_bridge_02",
+      "HM01_03_rope_suspension_bridge_03"
+     ],
+     "models": 3,
+     "est_minutes": 12
+    },
+    {
+     "batch": "tunnels",
+     "category": "v5_himalaya",
+     "rows": [
+      "HM03",
+      "HM04"
+     ],
+     "ids": [
+      "HM03_01_tunnel_portal_01",
+      "HM03_02_tunnel_portal_02",
+      "HM03_03_tunnel_portal_03",
+      "HM04_01_tunnel_lining_01",
+      "HM04_02_tunnel_lining_02"
+     ],
+     "models": 5,
+     "est_minutes": 19
+    },
+    {
+     "batch": "signs",
+     "category": "v5_entrances",
+     "rows": [
+      "NE01"
+     ],
+     "ids": [
+      "NE01_01_village_sign_01",
+      "NE01_02_village_sign_02",
+      "NE01_03_village_sign_03",
+      "NE01_04_village_sign_04",
+      "NE01_05_village_sign_05",
+      "NE01_06_village_sign_06"
+     ],
+     "models": 6,
+     "est_minutes": 18
+    },
+    {
+     "batch": "road_extras",
+     "category": "v5_himalaya",
+     "rows": [
+      "HM02",
+      "HM05",
+      "HM06",
+      "HM07",
+      "HM08",
+      "HM09"
+     ],
+     "ids": [
+      "HM02_01_timber_cantilever_bridge_01",
+      "HM02_02_timber_cantilever_bridge_02",
+      "HM05_01_cliff_gallery_01",
+      "HM05_02_cliff_gallery_02",
+      "HM06_01_switchback_wall_01",
+      "HM06_02_switchback_wall_02",
+      "HM06_03_switchback_wall_03",
+      "HM07_01_prayer_flag_string_01",
+      "HM07_02_prayer_flag_string_02",
+      "HM07_03_prayer_flag_string_03",
+      "HM07_04_prayer_flag_string_04",
+      "HM08_01_cairn_shrine_01",
+      "HM08_02_cairn_shrine_02",
+      "HM08_03_cairn_shrine_03",
+      "HM08_04_cairn_shrine_04",
+      "HM09_01_monastery_outpost_01",
+      "HM09_02_monastery_outpost_02",
+      "HM09_03_monastery_outpost_03",
+      "HM09_04_monastery_outpost_04"
+     ],
+     "models": 19,
+     "est_minutes": 62
+    },
+    {
+     "batch": "boulders",
+     "category": "v5_entrances",
+     "rows": [
+      "NE02"
+     ],
+     "ids": [
+      "NE02_01_entry_rock_pair_01",
+      "NE02_02_entry_rock_pair_02",
+      "NE02_03_entry_rock_pair_03",
+      "NE02_04_entry_rock_pair_04"
+     ],
+     "models": 4,
+     "est_minutes": 11
+    }
+   ]
+  },
+  {
+   "worker": "vd",
+   "title": "Capital",
+   "module": "v5_vd",
+   "models": 55,
+   "est_hours": 4.5,
+   "batches": [
+    {
+     "batch": "walls_towers",
+     "category": "v5_capital",
+     "rows": [
+      "CP01",
+      "CP02",
+      "CP03",
+      "CP04",
+      "CP05",
+      "CP06"
+     ],
+     "ids": [
+      "CP01_01_ring_wall_straight_01",
+      "CP01_02_ring_wall_straight_02",
+      "CP01_03_ring_wall_straight_03",
+      "CP02_01_ring_wall_corner_01",
+      "CP02_02_ring_wall_corner_02",
+      "CP02_03_ring_wall_corner_03",
+      "CP03_01_ring_wall_stair_end_01",
+      "CP03_02_ring_wall_stair_end_02",
+      "CP04_01_tower_round_cone_01",
+      "CP04_02_tower_round_cone_02",
+      "CP04_03_tower_round_cone_03",
+      "CP04_04_tower_round_cone_04",
+      "CP05_01_turret_crenellated_01",
+      "CP05_02_turret_crenellated_02",
+      "CP06_01_gate_flank_tower_01",
+      "CP06_02_gate_flank_tower_02"
+     ],
+     "models": 16,
+     "est_minutes": 63
+    },
+    {
+     "batch": "gates_keep",
+     "category": "v5_capital",
+     "rows": [
+      "CP07",
+      "CP08",
+      "CP09",
+      "CP10"
+     ],
+     "ids": [
+      "CP07_01_gatehouse_main",
+      "CP08_01_water_gate",
+      "CP09_01_keep_terrace_hero",
+      "CP10_01_keep_wing_01",
+      "CP10_02_keep_wing_02"
+     ],
+     "models": 5,
+     "est_minutes": 36
+    },
+    {
+     "batch": "terrace_skyline",
+     "category": "v5_capital",
+     "rows": [
+      "CP12",
+      "CP13",
+      "CP14",
+      "CP15",
+      "CP19"
+     ],
+     "ids": [
+      "CP12_01_terrace_retaining_wall_01",
+      "CP12_02_terrace_retaining_wall_02",
+      "CP13_01_grand_stair_01",
+      "CP13_02_grand_stair_02",
+      "CP14_01_skyline_tower_01",
+      "CP14_02_skyline_tower_02",
+      "CP14_03_skyline_tower_03",
+      "CP14_04_skyline_tower_04",
+      "CP14_05_skyline_tower_05",
+      "CP15_01_order_hq_01",
+      "CP15_02_order_hq_02",
+      "CP15_03_order_hq_03",
+      "CP19_01_grand_bridge_01",
+      "CP19_02_grand_bridge_02"
+     ],
+     "models": 14,
+     "est_minutes": 89
+    },
+    {
+     "batch": "town_extras",
+     "category": "v5_capital",
+     "rows": [
+      "CP11",
+      "CP16",
+      "CP17",
+      "CP18"
+     ],
+     "ids": [
+      "CP11_01_great_hall_chapel_01",
+      "CP11_02_great_hall_chapel_02",
+      "CP16_01_townhouse_new_01",
+      "CP16_02_townhouse_new_02",
+      "CP16_03_townhouse_new_03",
+      "CP16_04_townhouse_new_04",
+      "CP16_05_townhouse_new_05",
+      "CP16_06_townhouse_new_06",
+      "CP16_07_townhouse_new_07",
+      "CP16_08_townhouse_new_08",
+      "CP16_09_townhouse_new_09",
+      "CP16_10_townhouse_new_10",
+      "CP16_11_townhouse_new_11",
+      "CP16_12_townhouse_new_12",
+      "CP17_01_plaza_features_01",
+      "CP17_02_plaza_features_02",
+      "CP18_01_quay_wall_01",
+      "CP18_02_quay_wall_02",
+      "CP18_03_quay_wall_03",
+      "CP18_04_quay_wall_04"
+     ],
+     "models": 20,
+     "est_minutes": 81
+    }
+   ]
+  },
+  {
+   "worker": "ve",
+   "title": "Elf valley and Town 1",
+   "module": "v5_ve",
+   "models": 33,
+   "est_hours": 2.1,
+   "batches": [
+    {
+     "batch": "elf_houses",
+     "category": "v5_elf",
+     "rows": [
+      "EV01"
+     ],
+     "ids": [
+      "EV01_01_elf_house_new_01",
+      "EV01_02_elf_house_new_02",
+      "EV01_03_elf_house_new_03",
+      "EV01_04_elf_house_new_04",
+      "EV01_05_elf_house_new_05",
+      "EV01_06_elf_house_new_06",
+      "EV01_07_elf_house_new_07",
+      "EV01_08_elf_house_new_08"
+     ],
+     "models": 8,
+     "est_minutes": 35
+    },
+    {
+     "batch": "canopy_roots",
+     "category": "v5_elf",
+     "rows": [
+      "EV02",
+      "RW02"
+     ],
+     "ids": [
+      "EV02_01_canopy_cluster_01",
+      "EV02_02_canopy_cluster_02",
+      "EV02_03_canopy_cluster_03",
+      "RW02_01_rework_world_tree_roots"
+     ],
+     "models": 4,
+     "est_minutes": 23
+    },
+    {
+     "batch": "elf_paths",
+     "category": "v5_elf",
+     "rows": [
+      "EV03",
+      "LM01",
+      "LM02"
+     ],
+     "ids": [
+      "EV03_01_elf_path_piece_01",
+      "EV03_02_elf_path_piece_02",
+      "EV03_03_elf_path_piece_03",
+      "EV03_04_elf_path_piece_04",
+      "EV03_05_elf_path_piece_05",
+      "EV03_06_elf_path_piece_06",
+      "LM01_01_world_tree_trunk_door",
+      "LM02_01_world_tree_falls"
+     ],
+     "models": 8,
+     "est_minutes": 31
+    },
+    {
+     "batch": "town1",
+     "category": "v5_town1",
+     "rows": [
+      "TW01",
+      "TW02",
+      "TW03"
+     ],
+     "ids": [
+      "TW01_01_town1_hero_statue",
+      "TW02_01_street_life_01",
+      "TW02_02_street_life_02",
+      "TW02_03_street_life_03",
+      "TW02_04_street_life_04",
+      "TW02_05_street_life_05",
+      "TW02_06_street_life_06",
+      "TW02_07_street_life_07",
+      "TW02_08_street_life_08",
+      "TW03_01_skull_avenue_set_01",
+      "TW03_02_skull_avenue_set_02",
+      "TW03_03_skull_avenue_set_03",
+      "TW03_04_skull_avenue_set_04"
+     ],
+     "models": 13,
+     "est_minutes": 36
+    }
+   ]
+  },
+  {
+   "worker": "vf",
+   "title": "Landmark heroes, trees and coast",
+   "module": "v5_vf",
+   "models": 25,
+   "est_hours": 2.8,
+   "batches": [
+    {
+     "batch": "heroes_a",
+     "category": "v5_landmarks",
+     "rows": [
+      "LM03",
+      "LM22",
+      "LM25",
+      "LM30"
+     ],
+     "ids": [
+      "LM03_01_frost_fortress_hero",
+      "LM22_01_colossal_fall_cliff_hero",
+      "LM25_01_ruin_gate_hero",
+      "LM30_01_ruined_castle_hero"
+     ],
+     "models": 4,
+     "est_minutes": 44
+    },
+    {
+     "batch": "heroes_b",
+     "category": "v5_landmarks",
+     "rows": [
+      "LM09",
+      "LM15",
+      "LM18"
+     ],
+     "ids": [
+      "LM09_01_temple_buried_hero",
+      "LM15_01_ring_temple_hero",
+      "LM18_01_crater_monolith_ring"
+     ],
+     "models": 3,
+     "est_minutes": 32
+    },
+    {
+     "batch": "skull",
+     "category": "v5_skull",
+     "rows": [
+      "VC02"
+     ],
+     "ids": [
+      "VC02_01_skull_cliff_hero_01",
+      "VC02_02_skull_cliff_hero_02"
+     ],
+     "models": 2,
+     "est_minutes": 23
+    },
+    {
+     "batch": "trees",
+     "category": "v5_forest",
+     "rows": [
+      "VG01",
+      "VG02",
+      "VG03"
+     ],
+     "ids": [
+      "VG01_01_tree_tall_narrow_01",
+      "VG01_02_tree_tall_narrow_02",
+      "VG01_03_tree_tall_narrow_03",
+      "VG02_01_tree_old_oak_01",
+      "VG02_02_tree_old_oak_02",
+      "VG03_01_tree_flowering_01",
+      "VG03_02_tree_flowering_02"
+     ],
+     "models": 7,
+     "est_minutes": 27
+    },
+    {
+     "batch": "coast",
+     "category": "v5_coast",
+     "rows": [
+      "CO01",
+      "CO02"
+     ],
+     "ids": [
+      "CO01_01_coastal_cliff_01",
+      "CO01_02_coastal_cliff_02",
+      "CO01_03_coastal_cliff_03",
+      "CO01_04_coastal_cliff_04",
+      "CO01_05_coastal_cliff_05",
+      "CO01_06_coastal_cliff_06",
+      "CO02_01_sea_stack_01",
+      "CO02_02_sea_stack_02",
+      "CO02_03_sea_stack_03"
+     ],
+     "models": 9,
+     "est_minutes": 44
+    }
+   ]
+  },
+  {
+   "worker": "vg",
+   "title": "Highlands, forest and marsh extras",
+   "module": "v5_vg",
+   "models": 62,
+   "est_hours": 4.4,
+   "batches": [
+    {
+     "batch": "highland_set",
+     "category": "v5_himalaya",
+     "rows": [
+      "HL01",
+      "HL02",
+      "HL03",
+      "HL04",
+      "HL05",
+      "HL06",
+      "HL07",
+      "SP01"
+     ],
+     "ids": [
+      "HL01_01_ice_spire_01",
+      "HL01_02_ice_spire_02",
+      "HL01_03_ice_spire_03",
+      "HL01_04_ice_spire_04",
+      "HL02_01_ice_arch_01",
+      "HL02_02_ice_arch_02",
+      "HL03_01_glacier_tongue_01",
+      "HL03_02_glacier_tongue_02",
+      "HL03_03_glacier_tongue_03",
+      "HL04_01_ice_cave_mouth_01",
+      "HL04_02_ice_cave_mouth_02",
+      "HL05_01_mountain_shrine",
+      "HL06_01_snow_watchtower",
+      "HL07_01_mine_entrance_01",
+      "HL07_02_mine_entrance_02",
+      "SP01_01_snow_spire_cluster_01",
+      "SP01_02_snow_spire_cluster_02",
+      "SP01_03_snow_spire_cluster_03",
+      "SP01_04_snow_spire_cluster_04",
+      "SP01_05_snow_spire_cluster_05",
+      "SP01_06_snow_spire_cluster_06"
+     ],
+     "models": 21,
+     "est_minutes": 82
+    },
+    {
+     "batch": "fortress_parts",
+     "category": "v5_landmarks",
+     "rows": [
+      "LM04",
+      "LM05",
+      "LM06",
+      "LM07",
+      "LM08"
+     ],
+     "ids": [
+      "LM04_01_fortress_rampart_step_01",
+      "LM04_02_fortress_rampart_step_02",
+      "LM04_03_fortress_rampart_step_03",
+      "LM05_01_fortress_cliff_tower_01",
+      "LM05_02_fortress_cliff_tower_02",
+      "LM06_01_fortress_tunnel_gate",
+      "LM07_01_carved_stair_switchback_01",
+      "LM07_02_carved_stair_switchback_02",
+      "LM08_01_mountain_span_bridge"
+     ],
+     "models": 9,
+     "est_minutes": 43
+    },
+    {
+     "batch": "forest_set",
+     "category": "v5_forest",
+     "rows": [
+      "FR01",
+      "FR02",
+      "FR03",
+      "VG04",
+      "LM23",
+      "LM24"
+     ],
+     "ids": [
+      "FR01_01_giant_tree_01",
+      "FR01_02_giant_tree_02",
+      "FR01_03_giant_tree_03",
+      "FR01_04_giant_tree_04",
+      "FR02_01_forest_ruin_01",
+      "FR02_02_forest_ruin_02",
+      "FR02_03_forest_ruin_03",
+      "FR02_04_forest_ruin_04",
+      "FR02_05_forest_ruin_05",
+      "FR02_06_forest_ruin_06",
+      "FR03_01_cave_mouth_01",
+      "FR03_02_cave_mouth_02",
+      "FR03_03_cave_mouth_03",
+      "FR03_04_cave_mouth_04",
+      "FR03_05_cave_mouth_05",
+      "FR03_06_cave_mouth_06",
+      "VG04_01_tree_birch_01",
+      "VG04_02_tree_birch_02",
+      "VG04_03_tree_birch_03",
+      "LM23_01_gorge_wall_01",
+      "LM23_02_gorge_wall_02",
+      "LM23_03_gorge_wall_03",
+      "LM24_01_fall_pool_rock_01",
+      "LM24_02_fall_pool_rock_02",
+      "LM24_03_fall_pool_rock_03"
+     ],
+     "models": 25,
+     "est_minutes": 115
+    },
+    {
+     "batch": "marsh_set",
+     "category": "v5_forest",
+     "rows": [
+      "VG05",
+      "VG06",
+      "VG07"
+     ],
+     "ids": [
+      "VG05_01_tree_cypress_swamp_01",
+      "VG05_02_tree_cypress_swamp_02",
+      "VG05_03_tree_cypress_swamp_03",
+      "VG06_01_marsh_hummock_01",
+      "VG06_02_marsh_hummock_02",
+      "VG07_01_boardwalk_01",
+      "VG07_02_boardwalk_02"
+     ],
+     "models": 7,
+     "est_minutes": 22
+    }
+   ]
+  },
+  {
+   "worker": "vh",
+   "title": "Desert and Skull City",
+   "module": "v5_vh",
+   "models": 70,
+   "est_hours": 4.6,
+   "batches": [
+    {
+     "batch": "desert_village",
+     "category": "v5_desert",
+     "rows": [
+      "DS01",
+      "DS02",
+      "DS03",
+      "DS04",
+      "DS05"
+     ],
+     "ids": [
+      "DS01_01_adobe_house_01",
+      "DS01_02_adobe_house_02",
+      "DS01_03_adobe_house_03",
+      "DS01_04_adobe_house_04",
+      "DS01_05_adobe_house_05",
+      "DS01_06_adobe_house_06",
+      "DS02_01_desert_market_01",
+      "DS02_02_desert_market_02",
+      "DS02_03_desert_market_03",
+      "DS03_01_caravan_wagon_01",
+      "DS03_02_caravan_wagon_02",
+      "DS04_01_palm_01",
+      "DS04_02_palm_02",
+      "DS04_03_palm_03",
+      "DS05_01_oasis_rock_ring_01",
+      "DS05_02_oasis_rock_ring_02"
+     ],
+     "models": 16,
+     "est_minutes": 51
+    },
+    {
+     "batch": "desert_land",
+     "category": "v5_desert",
+     "rows": [
+      "DS06",
+      "DS07",
+      "DS08",
+      "SD01",
+      "SD02"
+     ],
+     "ids": [
+      "DS06_01_canyon_wall_01",
+      "DS06_02_canyon_wall_02",
+      "DS06_03_canyon_wall_03",
+      "DS06_04_canyon_wall_04",
+      "DS07_01_hoodoo_arch_01",
+      "DS07_02_hoodoo_arch_02",
+      "DS07_03_hoodoo_arch_03",
+      "DS07_04_hoodoo_arch_04",
+      "DS08_01_underground_entrance_01",
+      "DS08_02_underground_entrance_02",
+      "DS08_03_underground_entrance_03",
+      "SD01_01_red_mesa_cluster_01",
+      "SD01_02_red_mesa_cluster_02",
+      "SD01_03_red_mesa_cluster_03",
+      "SD01_04_red_mesa_cluster_04",
+      "SD01_05_red_mesa_cluster_05",
+      "SD01_06_red_mesa_cluster_06",
+      "SD02_01_desert_ruin_block_01",
+      "SD02_02_desert_ruin_block_02",
+      "SD02_03_desert_ruin_block_03",
+      "SD02_04_desert_ruin_block_04",
+      "SD02_05_desert_ruin_block_05",
+      "SD02_06_desert_ruin_block_06"
+     ],
+     "models": 23,
+     "est_minutes": 99
+    },
+    {
+     "batch": "temple_parts",
+     "category": "v5_landmarks",
+     "rows": [
+      "LM10",
+      "LM11",
+      "LM12",
+      "LM13",
+      "LM14",
+      "LM16",
+      "LM17"
+     ],
+     "ids": [
+      "LM10_01_temple_colonnade_buried_01",
+      "LM10_02_temple_colonnade_buried_02",
+      "LM10_03_temple_colonnade_buried_03",
+      "LM11_01_temple_gate_buried",
+      "LM12_01_temple_stair_down_01",
+      "LM12_02_temple_stair_down_02",
+      "LM13_01_guardian_statue_01",
+      "LM13_02_guardian_statue_02",
+      "LM14_01_sand_obelisk_01",
+      "LM14_02_sand_obelisk_02",
+      "LM14_03_sand_obelisk_03",
+      "LM16_01_ring_temple_segment_01",
+      "LM16_02_ring_temple_segment_02",
+      "LM17_01_ring_inner_sanctum"
+     ],
+     "models": 14,
+     "est_minutes": 58
+    },
+    {
+     "batch": "skull_set",
+     "category": "v5_skull",
+     "rows": [
+      "VC01",
+      "VC03",
+      "VC04"
+     ],
+     "ids": [
+      "VC01_01_volcanic_rock_01",
+      "VC01_02_volcanic_rock_02",
+      "VC01_03_volcanic_rock_03",
+      "VC01_04_volcanic_rock_04",
+      "VC01_05_volcanic_rock_05",
+      "VC01_06_volcanic_rock_06",
+      "VC01_07_volcanic_rock_07",
+      "VC01_08_volcanic_rock_08",
+      "VC03_01_dark_fort_ruin_01",
+      "VC03_02_dark_fort_ruin_02",
+      "VC03_03_dark_fort_ruin_03",
+      "VC04_01_skull_city_building_01",
+      "VC04_02_skull_city_building_02",
+      "VC04_03_skull_city_building_03",
+      "VC04_04_skull_city_building_04",
+      "VC04_05_skull_city_building_05",
+      "VC04_06_skull_city_building_06"
+     ],
+     "models": 17,
+     "est_minutes": 70
+    }
+   ]
+  },
+  {
+   "worker": "vi",
+   "title": "Plains, ruins, coast extras, roads and sky",
+   "module": "v5_vi",
+   "models": 91,
+   "est_hours": 5.7,
+   "batches": [
+    {
+     "batch": "plains_set",
+     "category": "v5_plains",
+     "rows": [
+      "PL01",
+      "PL02",
+      "PL03",
+      "PL04",
+      "PL05",
+      "PL06",
+      "VL01"
+     ],
+     "ids": [
+      "PL01_01_farmhouse_01",
+      "PL01_02_farmhouse_02",
+      "PL01_03_farmhouse_03",
+      "PL01_04_farmhouse_04",
+      "PL02_01_hay_silo_01",
+      "PL02_02_hay_silo_02",
+      "PL02_03_hay_silo_03",
+      "PL03_01_farm_cart_01",
+      "PL03_02_farm_cart_02",
+      "PL04_01_mill_waterwheel",
+      "PL05_01_ruined_watchtower_plains_01",
+      "PL05_02_ruined_watchtower_plains_02",
+      "PL05_03_ruined_watchtower_plains_03",
+      "PL06_01_rock_arch_natural_01",
+      "PL06_02_rock_arch_natural_02",
+      "VL01_01_village_church_spire"
+     ],
+     "models": 16,
+     "est_minutes": 57
+    },
+    {
+     "batch": "ruins_crater",
+     "category": "v5_landmarks",
+     "rows": [
+      "LM19",
+      "LM20",
+      "LM21",
+      "LM26",
+      "LM27",
+      "LM28",
+      "LM29",
+      "LM31"
+     ],
+     "ids": [
+      "LM19_01_crater_rim_rock_01",
+      "LM19_02_crater_rim_rock_02",
+      "LM19_03_crater_rim_rock_03",
+      "LM19_04_crater_rim_rock_04",
+      "LM19_05_crater_rim_rock_05",
+      "LM20_01_crater_arcane_ruin_01",
+      "LM20_02_crater_arcane_ruin_02",
+      "LM20_03_crater_arcane_ruin_03",
+      "LM21_01_floating_rock_01",
+      "LM21_02_floating_rock_02",
+      "LM21_03_floating_rock_03",
+      "LM21_04_floating_rock_04",
+      "LM26_01_ruin_arena_segment_01",
+      "LM26_02_ruin_arena_segment_02",
+      "LM26_03_ruin_arena_segment_03",
+      "LM27_01_ruin_aqueduct_arch_01",
+      "LM27_02_ruin_aqueduct_arch_02",
+      "LM28_01_ruin_column_set_01",
+      "LM28_02_ruin_column_set_02",
+      "LM28_03_ruin_column_set_03",
+      "LM29_01_ruin_tower_stump_01",
+      "LM29_02_ruin_tower_stump_02",
+      "LM31_01_ruined_castle_module_01",
+      "LM31_02_ruined_castle_module_02",
+      "LM31_03_ruined_castle_module_03"
+     ],
+     "models": 25,
+     "est_minutes": 99
+    },
+    {
+     "batch": "coast_set",
+     "category": "v5_coast",
+     "rows": [
+      "CO03",
+      "CO04",
+      "CO05",
+      "HB01"
+     ],
+     "ids": [
+      "CO03_01_reef_01",
+      "CO03_02_reef_02",
+      "CO03_03_reef_03",
+      "CO03_04_reef_04",
+      "CO03_05_reef_05",
+      "CO03_06_reef_06",
+      "CO04_01_sea_arch_01",
+      "CO04_02_sea_arch_02",
+      "CO05_01_ruin_islet_01",
+      "CO05_02_ruin_islet_02",
+      "CO05_03_ruin_islet_03",
+      "HB01_01_harbour_wall_tower_01",
+      "HB01_02_harbour_wall_tower_02",
+      "HB01_03_harbour_wall_tower_03"
+     ],
+     "models": 14,
+     "est_minutes": 52
+    },
+    {
+     "batch": "road_life",
+     "category": "v5_roads",
+     "rows": [
+      "RD01",
+      "RD02",
+      "RD03",
+      "RD04",
+      "RD05",
+      "RD06",
+      "BR01",
+      "RV01"
+     ],
+     "ids": [
+      "RD01_01_watchtower_01",
+      "RD01_02_watchtower_02",
+      "RD01_03_watchtower_03",
+      "RD01_04_watchtower_04",
+      "RD02_01_camp_set_01",
+      "RD02_02_camp_set_02",
+      "RD02_03_camp_set_03",
+      "RD02_04_camp_set_04",
+      "RD02_05_camp_set_05",
+      "RD02_06_camp_set_06",
+      "RD03_01_waystation_01",
+      "RD03_02_waystation_02",
+      "RD04_01_trading_post_01",
+      "RD04_02_trading_post_02",
+      "RD05_01_battlefield_prop_01",
+      "RD05_02_battlefield_prop_02",
+      "RD05_03_battlefield_prop_03",
+      "RD05_04_battlefield_prop_04",
+      "RD05_05_battlefield_prop_05",
+      "RD06_01_abandoned_house_01",
+      "RD06_02_abandoned_house_02",
+      "RD06_03_abandoned_house_03",
+      "RD06_04_abandoned_house_04",
+      "RD06_05_abandoned_house_05",
+      "BR01_01_viaduct_bridge_01",
+      "BR01_02_viaduct_bridge_02",
+      "RV01_01_bank_rock_01",
+      "RV01_02_bank_rock_02",
+      "RV01_03_bank_rock_03",
+      "RV01_04_bank_rock_04"
+     ],
+     "models": 30,
+     "est_minutes": 100
+    },
+    {
+     "batch": "sky",
+     "category": "v5_coast",
+     "rows": [
+      "FL01",
+      "FL02"
+     ],
+     "ids": [
+      "FL01_01_floating_island_hero_01",
+      "FL01_02_floating_island_hero_02",
+      "FL01_03_floating_island_hero_03",
+      "FL02_01_floating_island_small_01",
+      "FL02_02_floating_island_small_02",
+      "FL02_03_floating_island_small_03"
+     ],
+     "models": 6,
+     "est_minutes": 32
+    }
+   ]
+  }
+ ],
+ "unassigned_rows": [],
+ "note": "est_hours is worker-hours of building and fixing; two Blender processes run at once (v4run.ps1 slots), reviews and fix rounds add about 40 percent"
+}

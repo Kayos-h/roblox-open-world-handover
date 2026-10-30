@@ -1,0 +1,1574 @@
+{
+"area": "v3_interiors",
+"terrain": [],
+"placements": [
+{
+"model": "K14_red_carpet",
+"x": -178.0,
+"z": -1628.0,
+"rot": 90,
+"group": "capital_cathedral_Interior",
+"y_offset": 4.23
+},
+{
+"model": "D05_pew",
+"x": -226.0,
+"z": -1617.0,
+"rot": 270,
+"group": "capital_cathedral_Interior",
+"y_offset": 4.87
+},
+{
+"model": "D05_pew",
+"x": -226.0,
+"z": -1639.0,
+"rot": 270,
+"group": "capital_cathedral_Interior",
+"y_offset": 3.55
+},
+{
+"model": "D05_pew",
+"x": -219.0,
+"z": -1617.0,
+"rot": 270,
+"group": "capital_cathedral_Interior",
+"y_offset": 4.87
+},
+{
+"model": "D05_pew",
+"x": -219.0,
+"z": -1639.0,
+"rot": 270,
+"group": "capital_cathedral_Interior",
+"y_offset": 3.55
+},
+{
+"model": "D05_pew",
+"x": -212.0,
+"z": -1617.0,
+"rot": 270,
+"group": "capital_cathedral_Interior",
+"y_offset": 4.87
+},
+{
+"model": "D05_pew",
+"x": -212.0,
+"z": -1639.0,
+"rot": 270,
+"group": "capital_cathedral_Interior",
+"y_offset": 3.55
+},
+{
+"model": "D05_pew",
+"x": -205.0,
+"z": -1617.0,
+"rot": 270,
+"group": "capital_cathedral_Interior",
+"y_offset": 4.87
+},
+{
+"model": "D05_pew",
+"x": -205.0,
+"z": -1639.0,
+"rot": 270,
+"group": "capital_cathedral_Interior",
+"y_offset": 3.55
+},
+{
+"model": "D05_pew",
+"x": -198.0,
+"z": -1617.0,
+"rot": 270,
+"group": "capital_cathedral_Interior",
+"y_offset": 4.87
+},
+{
+"model": "D05_pew",
+"x": -198.0,
+"z": -1639.0,
+"rot": 270,
+"group": "capital_cathedral_Interior",
+"y_offset": 3.55
+},
+{
+"model": "D05_pew",
+"x": -191.0,
+"z": -1617.0,
+"rot": 270,
+"group": "capital_cathedral_Interior",
+"y_offset": 4.87
+},
+{
+"model": "D05_pew",
+"x": -191.0,
+"z": -1639.0,
+"rot": 270,
+"group": "capital_cathedral_Interior",
+"y_offset": 3.55
+},
+{
+"model": "D05_pew",
+"x": -184.0,
+"z": -1617.0,
+"rot": 270,
+"group": "capital_cathedral_Interior",
+"y_offset": 4.87
+},
+{
+"model": "D05_pew",
+"x": -184.0,
+"z": -1639.0,
+"rot": 270,
+"group": "capital_cathedral_Interior",
+"y_offset": 3.55
+},
+{
+"model": "D05_pew",
+"x": -177.0,
+"z": -1617.0,
+"rot": 270,
+"group": "capital_cathedral_Interior",
+"y_offset": 4.87
+},
+{
+"model": "D05_pew",
+"x": -177.0,
+"z": -1639.0,
+"rot": 270,
+"group": "capital_cathedral_Interior",
+"y_offset": 3.55
+},
+{
+"model": "D05_pew",
+"x": -170.0,
+"z": -1617.0,
+"rot": 270,
+"group": "capital_cathedral_Interior",
+"y_offset": 4.87
+},
+{
+"model": "D05_pew",
+"x": -170.0,
+"z": -1639.0,
+"rot": 270,
+"group": "capital_cathedral_Interior",
+"y_offset": 3.55
+},
+{
+"model": "D05_pew",
+"x": -163.0,
+"z": -1617.0,
+"rot": 270,
+"group": "capital_cathedral_Interior",
+"y_offset": 4.87
+},
+{
+"model": "D05_pew",
+"x": -163.0,
+"z": -1639.0,
+"rot": 270,
+"group": "capital_cathedral_Interior",
+"y_offset": 3.55
+},
+{
+"model": "D05_pew",
+"x": -156.0,
+"z": -1617.0,
+"rot": 270,
+"group": "capital_cathedral_Interior",
+"y_offset": 4.87
+},
+{
+"model": "D05_pew",
+"x": -156.0,
+"z": -1639.0,
+"rot": 270,
+"group": "capital_cathedral_Interior",
+"y_offset": 3.55
+},
+{
+"model": "D10_church_pillar",
+"x": -210.0,
+"z": -1609.0,
+"rot": 90,
+"group": "capital_cathedral_Interior",
+"y_offset": 5.35,
+"scale": 1.45
+},
+{
+"model": "D10_church_pillar",
+"x": -210.0,
+"z": -1647.0,
+"rot": 90,
+"group": "capital_cathedral_Interior",
+"y_offset": 3.07,
+"scale": 1.45
+},
+{
+"model": "D10_church_pillar",
+"x": -186.0,
+"z": -1609.0,
+"rot": 90,
+"group": "capital_cathedral_Interior",
+"y_offset": 5.35,
+"scale": 1.45
+},
+{
+"model": "D10_church_pillar",
+"x": -186.0,
+"z": -1647.0,
+"rot": 90,
+"group": "capital_cathedral_Interior",
+"y_offset": 3.07,
+"scale": 1.45
+},
+{
+"model": "D10_church_pillar",
+"x": -162.0,
+"z": -1609.0,
+"rot": 90,
+"group": "capital_cathedral_Interior",
+"y_offset": 5.35,
+"scale": 1.45
+},
+{
+"model": "D10_church_pillar",
+"x": -162.0,
+"z": -1647.0,
+"rot": 90,
+"group": "capital_cathedral_Interior",
+"y_offset": 3.07,
+"scale": 1.45
+},
+{
+"model": "D06_altar",
+"x": -252.0,
+"z": -1628.0,
+"rot": 90,
+"group": "capital_cathedral_Sanctuary",
+"y_offset": 7.21
+},
+{
+"model": "D08_pipe_organ",
+"x": -261.8,
+"z": -1628.0,
+"rot": 90,
+"group": "capital_cathedral_Sanctuary",
+"y_offset": 7.21
+},
+{
+"model": "D07_pulpit",
+"x": -230.0,
+"z": -1610.0,
+"rot": 120,
+"group": "capital_cathedral_Sanctuary",
+"y_offset": 5.29
+},
+{
+"model": "D09_candle_stand",
+"x": -248.0,
+"z": -1619.0,
+"rot": 90,
+"group": "capital_cathedral_Sanctuary",
+"y_offset": 7.75
+},
+{
+"model": "D09_candle_stand",
+"x": -248.0,
+"z": -1637.0,
+"rot": 90,
+"group": "capital_cathedral_Sanctuary",
+"y_offset": 6.67
+},
+{
+"model": "D09_candle_stand",
+"x": -258.0,
+"z": -1614.0,
+"rot": 90,
+"group": "capital_cathedral_Sanctuary",
+"y_offset": 8.05
+},
+{
+"model": "D09_candle_stand",
+"x": -258.0,
+"z": -1642.0,
+"rot": 90,
+"group": "capital_cathedral_Sanctuary",
+"y_offset": 6.37
+},
+{
+"model": "A23_candle_cluster",
+"x": -252.0,
+"z": -1625.0,
+"rot": 90,
+"group": "capital_cathedral_Sanctuary",
+"y_offset": 16.39
+},
+{
+"model": "A23_candle_cluster",
+"x": -252.0,
+"z": -1631.0,
+"rot": 90,
+"group": "capital_cathedral_Sanctuary",
+"y_offset": 16.03
+},
+{
+"model": "K13_chandelier",
+"x": -219.0,
+"z": -1628.0,
+"rot": 90,
+"group": "capital_cathedral_Interior",
+"y_offset": 35.21
+},
+{
+"model": "K13_chandelier",
+"x": -186.0,
+"z": -1628.0,
+"rot": 90,
+"group": "capital_cathedral_Interior",
+"y_offset": 35.21
+},
+{
+"model": "K13_chandelier",
+"x": -153.0,
+"z": -1628.0,
+"rot": 90,
+"group": "capital_cathedral_Interior",
+"y_offset": 35.21
+},
+{
+"model": "D02_church_bell",
+"x": -114.5,
+"z": -1628.0,
+"rot": 90,
+"group": "capital_cathedral_Belfry",
+"y_offset": 94.21
+},
+{
+"model": "K22_candelabra",
+"x": -196.0,
+"z": -1604.0,
+"rot": 90,
+"group": "capital_cathedral_Interior",
+"y_offset": 5.65
+},
+{
+"model": "K22_candelabra",
+"x": -196.0,
+"z": -1652.0,
+"rot": 90,
+"group": "capital_cathedral_Interior",
+"y_offset": 2.77
+},
+{
+"model": "K22_candelabra",
+"x": -166.0,
+"z": -1604.0,
+"rot": 90,
+"group": "capital_cathedral_Interior",
+"y_offset": 5.65
+},
+{
+"model": "K22_candelabra",
+"x": -166.0,
+"z": -1652.0,
+"rot": 90,
+"group": "capital_cathedral_Interior",
+"y_offset": 2.77
+},
+{
+"model": "K16_tapestry_1",
+"x": -216.0,
+"z": -1601.8,
+"rot": 180,
+"group": "capital_cathedral_Interior",
+"y_offset": 19.78
+},
+{
+"model": "K17_tapestry_2",
+"x": -216.0,
+"z": -1654.2,
+"rot": 0,
+"group": "capital_cathedral_Interior",
+"y_offset": 16.64
+},
+{
+"model": "K14_red_carpet",
+"x": 1399.7,
+"z": 1239.07,
+"rot": 232.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.07
+},
+{
+"model": "D05_pew",
+"x": 1447.44,
+"z": 1262.42,
+"rot": 52.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D05_pew",
+"x": 1433.9,
+"z": 1279.76,
+"rot": 52.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D05_pew",
+"x": 1441.93,
+"z": 1258.11,
+"rot": 52.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D05_pew",
+"x": 1428.38,
+"z": 1275.45,
+"rot": 52.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D05_pew",
+"x": 1436.41,
+"z": 1253.8,
+"rot": 52.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D05_pew",
+"x": 1422.87,
+"z": 1271.14,
+"rot": 52.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D05_pew",
+"x": 1430.9,
+"z": 1249.49,
+"rot": 52.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D05_pew",
+"x": 1417.35,
+"z": 1266.83,
+"rot": 52.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D05_pew",
+"x": 1425.38,
+"z": 1245.18,
+"rot": 52.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D05_pew",
+"x": 1411.84,
+"z": 1262.52,
+"rot": 52.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D05_pew",
+"x": 1419.86,
+"z": 1240.87,
+"rot": 52.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D05_pew",
+"x": 1406.32,
+"z": 1258.21,
+"rot": 52.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D05_pew",
+"x": 1414.35,
+"z": 1236.56,
+"rot": 52.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D05_pew",
+"x": 1400.8,
+"z": 1253.9,
+"rot": 52.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D05_pew",
+"x": 1408.83,
+"z": 1232.25,
+"rot": 52.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D05_pew",
+"x": 1395.29,
+"z": 1249.59,
+"rot": 52.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D05_pew",
+"x": 1403.32,
+"z": 1227.94,
+"rot": 52.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D05_pew",
+"x": 1389.77,
+"z": 1245.28,
+"rot": 52.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D05_pew",
+"x": 1397.8,
+"z": 1223.63,
+"rot": 52.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D05_pew",
+"x": 1384.26,
+"z": 1240.97,
+"rot": 52.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D05_pew",
+"x": 1392.28,
+"z": 1219.32,
+"rot": 52.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D05_pew",
+"x": 1378.74,
+"z": 1236.66,
+"rot": 52.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D05_pew",
+"x": 1386.77,
+"z": 1215.02,
+"rot": 52.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D05_pew",
+"x": 1373.22,
+"z": 1232.35,
+"rot": 52.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D10_church_pillar",
+"x": 1443.51,
+"z": 1246.66,
+"rot": 232.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05,
+"scale": 1.45
+},
+{
+"model": "D10_church_pillar",
+"x": 1417.66,
+"z": 1279.76,
+"rot": 232.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05,
+"scale": 1.45
+},
+{
+"model": "D10_church_pillar",
+"x": 1427.12,
+"z": 1233.85,
+"rot": 232.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05,
+"scale": 1.45
+},
+{
+"model": "D10_church_pillar",
+"x": 1401.27,
+"z": 1266.95,
+"rot": 232.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05,
+"scale": 1.45
+},
+{
+"model": "D10_church_pillar",
+"x": 1410.73,
+"z": 1221.05,
+"rot": 232.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05,
+"scale": 1.45
+},
+{
+"model": "D10_church_pillar",
+"x": 1384.88,
+"z": 1254.15,
+"rot": 232.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05,
+"scale": 1.45
+},
+{
+"model": "D10_church_pillar",
+"x": 1394.34,
+"z": 1208.24,
+"rot": 232.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05,
+"scale": 1.45
+},
+{
+"model": "D10_church_pillar",
+"x": 1368.49,
+"z": 1241.34,
+"rot": 232.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05,
+"scale": 1.45
+},
+{
+"model": "D06_altar",
+"x": 1461.16,
+"z": 1287.1,
+"rot": 232.0,
+"group": "rusty_church_Sanctuary",
+"y_offset": 5.05
+},
+{
+"model": "D08_pipe_organ",
+"x": 1470.22,
+"z": 1294.18,
+"rot": 232.0,
+"group": "rusty_church_Sanctuary",
+"y_offset": 5.05
+},
+{
+"model": "D07_pulpit",
+"x": 1456.14,
+"z": 1257.79,
+"rot": 262.0,
+"group": "rusty_church_Sanctuary",
+"y_offset": 2.05
+},
+{
+"model": "D09_candle_stand",
+"x": 1463.55,
+"z": 1277.54,
+"rot": 232.0,
+"group": "rusty_church_Sanctuary",
+"y_offset": 5.05
+},
+{
+"model": "D09_candle_stand",
+"x": 1452.47,
+"z": 1291.73,
+"rot": 232.0,
+"group": "rusty_church_Sanctuary",
+"y_offset": 5.05
+},
+{
+"model": "D09_candle_stand",
+"x": 1474.51,
+"z": 1279.76,
+"rot": 232.0,
+"group": "rusty_church_Sanctuary",
+"y_offset": 5.05
+},
+{
+"model": "D09_candle_stand",
+"x": 1457.27,
+"z": 1301.82,
+"rot": 232.0,
+"group": "rusty_church_Sanctuary",
+"y_offset": 5.05
+},
+{
+"model": "A23_candle_cluster",
+"x": 1463.01,
+"z": 1284.73,
+"rot": 232.0,
+"group": "rusty_church_Sanctuary",
+"y_offset": 14.05
+},
+{
+"model": "A23_candle_cluster",
+"x": 1459.31,
+"z": 1289.46,
+"rot": 232.0,
+"group": "rusty_church_Sanctuary",
+"y_offset": 14.05
+},
+{
+"model": "K13_chandelier",
+"x": 1435.16,
+"z": 1266.78,
+"rot": 232.0,
+"group": "rusty_church_Interior",
+"y_offset": 31.05
+},
+{
+"model": "K13_chandelier",
+"x": 1406.0,
+"z": 1244.0,
+"rot": 232.0,
+"group": "rusty_church_Interior",
+"y_offset": 31.05
+},
+{
+"model": "K13_chandelier",
+"x": 1376.84,
+"z": 1221.22,
+"rot": 232.0,
+"group": "rusty_church_Interior",
+"y_offset": 31.05
+},
+{
+"model": "D02_church_bell",
+"x": 1345.72,
+"z": 1196.9,
+"rot": 232.0,
+"group": "rusty_church_Belfry",
+"y_offset": 84.05
+},
+{
+"model": "D32_broken_barrel",
+"x": 1346.48,
+"z": 1229.22,
+"rot": 272.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D32_broken_barrel",
+"x": 1380.41,
+"z": 1192.29,
+"rot": 272.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D32_broken_barrel",
+"x": 1416.44,
+"z": 1282.61,
+"rot": 272.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "D33_broken_fence",
+"x": 1414.13,
+"z": 1217.36,
+"rot": 322.0,
+"group": "rusty_church_Interior",
+"y_offset": 2.05
+},
+{
+"model": "A84_table",
+"x": -419.0,
+"z": 1771.5,
+"rot": 180,
+"group": "harbour_tavern_Interior",
+"y_offset": 3.02
+},
+{
+"model": "A86_stool",
+"x": -419.0,
+"z": 1774.7,
+"rot": 180,
+"group": "harbour_tavern_Interior",
+"y_offset": 3.15
+},
+{
+"model": "A86_stool",
+"x": -419.0,
+"z": 1768.3,
+"rot": 0,
+"group": "harbour_tavern_Interior",
+"y_offset": 2.9
+},
+{
+"model": "A23_candle_cluster",
+"x": -419.0,
+"z": 1771.5,
+"rot": 90,
+"group": "harbour_tavern_Interior",
+"y_offset": 6.02
+},
+{
+"model": "A84_table",
+"x": -419.0,
+"z": 1756.5,
+"rot": 180,
+"group": "harbour_tavern_Interior",
+"y_offset": 2.45
+},
+{
+"model": "A86_stool",
+"x": -419.0,
+"z": 1759.7,
+"rot": 180,
+"group": "harbour_tavern_Interior",
+"y_offset": 2.57
+},
+{
+"model": "A86_stool",
+"x": -419.0,
+"z": 1753.3,
+"rot": 0,
+"group": "harbour_tavern_Interior",
+"y_offset": 2.32
+},
+{
+"model": "A23_candle_cluster",
+"x": -419.0,
+"z": 1756.5,
+"rot": 90,
+"group": "harbour_tavern_Interior",
+"y_offset": 5.45
+},
+{
+"model": "A84_table",
+"x": -427.0,
+"z": 1771.5,
+"rot": 180,
+"group": "harbour_tavern_Interior",
+"y_offset": 3.02
+},
+{
+"model": "A86_stool",
+"x": -427.0,
+"z": 1774.7,
+"rot": 180,
+"group": "harbour_tavern_Interior",
+"y_offset": 3.15
+},
+{
+"model": "A86_stool",
+"x": -427.0,
+"z": 1768.3,
+"rot": 0,
+"group": "harbour_tavern_Interior",
+"y_offset": 2.9
+},
+{
+"model": "A23_candle_cluster",
+"x": -427.0,
+"z": 1771.5,
+"rot": 90,
+"group": "harbour_tavern_Interior",
+"y_offset": 6.02
+},
+{
+"model": "A84_table",
+"x": -427.0,
+"z": 1756.5,
+"rot": 180,
+"group": "harbour_tavern_Interior",
+"y_offset": 2.45
+},
+{
+"model": "A86_stool",
+"x": -427.0,
+"z": 1759.7,
+"rot": 180,
+"group": "harbour_tavern_Interior",
+"y_offset": 2.57
+},
+{
+"model": "A86_stool",
+"x": -427.0,
+"z": 1753.3,
+"rot": 0,
+"group": "harbour_tavern_Interior",
+"y_offset": 2.32
+},
+{
+"model": "A23_candle_cluster",
+"x": -427.0,
+"z": 1756.5,
+"rot": 90,
+"group": "harbour_tavern_Interior",
+"y_offset": 5.45
+},
+{
+"model": "A71_barrel",
+"x": -441.0,
+"z": 1776.8,
+"rot": 90,
+"group": "harbour_tavern_Interior",
+"y_offset": 3.23
+},
+{
+"model": "A71_barrel",
+"x": -437.8,
+"z": 1776.8,
+"rot": 90,
+"group": "harbour_tavern_Interior",
+"y_offset": 3.23
+},
+{
+"model": "A71_barrel",
+"x": -434.6,
+"z": 1776.8,
+"rot": 90,
+"group": "harbour_tavern_Interior",
+"y_offset": 3.23
+},
+{
+"model": "A71_barrel",
+"x": -431.4,
+"z": 1776.8,
+"rot": 90,
+"group": "harbour_tavern_Interior",
+"y_offset": 3.23
+},
+{
+"model": "A86_stool",
+"x": -434.4,
+"z": 1773.4,
+"rot": 270,
+"group": "harbour_tavern_Interior",
+"y_offset": 3.1
+},
+{
+"model": "A86_stool",
+"x": -434.4,
+"z": 1770.2,
+"rot": 270,
+"group": "harbour_tavern_Interior",
+"y_offset": 2.97
+},
+{
+"model": "A86_stool",
+"x": -434.4,
+"z": 1767.0,
+"rot": 270,
+"group": "harbour_tavern_Interior",
+"y_offset": 2.85
+},
+{
+"model": "A86_stool",
+"x": -434.4,
+"z": 1763.8,
+"rot": 270,
+"group": "harbour_tavern_Interior",
+"y_offset": 2.73
+},
+{
+"model": "A86_stool",
+"x": -434.4,
+"z": 1760.6,
+"rot": 270,
+"group": "harbour_tavern_Interior",
+"y_offset": 2.6
+},
+{
+"model": "G30_ship_bell",
+"x": -444.0,
+"z": 1752.0,
+"rot": 0,
+"group": "harbour_tavern_Interior",
+"y_offset": 2.27
+},
+{
+"model": "G19_anchor",
+"x": -413.0,
+"z": 1751.0,
+"rot": 0,
+"group": "harbour_tavern_Interior",
+"y_offset": 2.23
+},
+{
+"model": "A75_crate_stack",
+"x": -443.0,
+"z": 1754.0,
+"rot": 90,
+"group": "harbour_tavern_Interior",
+"y_offset": 2.35
+},
+{
+"model": "A19_hanging_lantern",
+"x": -438.0,
+"z": 1764.0,
+"rot": 90,
+"group": "harbour_tavern_Interior",
+"y_offset": 10.73
+},
+{
+"model": "A19_hanging_lantern",
+"x": -428.0,
+"z": 1764.0,
+"rot": 90,
+"group": "harbour_tavern_Interior",
+"y_offset": 10.73
+},
+{
+"model": "A19_hanging_lantern",
+"x": -418.0,
+"z": 1764.0,
+"rot": 90,
+"group": "harbour_tavern_Interior",
+"y_offset": 10.73
+},
+{
+"model": "F34_crystal_cluster",
+"x": -1490.0,
+"z": -170.0,
+"rot": 270,
+"group": "elf_temple_Interior",
+"y_offset": 3.05
+},
+{
+"model": "F33_elf_bench",
+"x": -1496.47,
+"z": -161.1,
+"rot": 144.0,
+"group": "elf_temple_Interior",
+"y_offset": 2.05
+},
+{
+"model": "F33_elf_bench",
+"x": -1500.46,
+"z": -173.4,
+"rot": 72.0,
+"group": "elf_temple_Interior",
+"y_offset": 2.05
+},
+{
+"model": "F33_elf_bench",
+"x": -1490.0,
+"z": -181.0,
+"rot": 0.0,
+"group": "elf_temple_Interior",
+"y_offset": 2.05
+},
+{
+"model": "F33_elf_bench",
+"x": -1479.54,
+"z": -173.4,
+"rot": 288.0,
+"group": "elf_temple_Interior",
+"y_offset": 2.05
+},
+{
+"model": "F33_elf_bench",
+"x": -1483.53,
+"z": -161.1,
+"rot": 216.0,
+"group": "elf_temple_Interior",
+"y_offset": 2.05
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1494.79,
+"z": -155.26,
+"rot": 270,
+"group": "elf_temple_Interior",
+"y_offset": 2.05
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1502.54,
+"z": -160.89,
+"rot": 307,
+"group": "elf_temple_Interior",
+"y_offset": 2.05
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1505.5,
+"z": -170.0,
+"rot": 344,
+"group": "elf_temple_Interior",
+"y_offset": 2.05
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1502.54,
+"z": -179.11,
+"rot": 21,
+"group": "elf_temple_Interior",
+"y_offset": 2.05
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1494.79,
+"z": -184.74,
+"rot": 58,
+"group": "elf_temple_Interior",
+"y_offset": 2.05
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1485.21,
+"z": -184.74,
+"rot": 95,
+"group": "elf_temple_Interior",
+"y_offset": 2.05
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1477.46,
+"z": -179.11,
+"rot": 132,
+"group": "elf_temple_Interior",
+"y_offset": 2.05
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1474.5,
+"z": -170.0,
+"rot": 169,
+"group": "elf_temple_Interior",
+"y_offset": 2.05
+},
+{
+"model": "F26_glow_flower_2",
+"x": -1477.46,
+"z": -160.89,
+"rot": 206,
+"group": "elf_temple_Interior",
+"y_offset": 2.05
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1485.21,
+"z": -155.26,
+"rot": 243,
+"group": "elf_temple_Interior",
+"y_offset": 2.05
+},
+{
+"model": "A84_table",
+"x": -1731.59,
+"z": -298.79,
+"rot": 127.4,
+"group": "elf_house_1_Interior",
+"y_offset": 2.05
+},
+{
+"model": "K21_magic_orb",
+"x": -1731.59,
+"z": -298.79,
+"rot": 127.4,
+"group": "elf_house_1_Interior",
+"y_offset": 5.05
+},
+{
+"model": "K20_bookshelf",
+"x": -1739.37,
+"z": -292.83,
+"rot": 127.4,
+"group": "elf_house_1_Interior",
+"y_offset": 2.05
+},
+{
+"model": "F33_elf_bench",
+"x": -1724.16,
+"z": -295.65,
+"rot": 217.4,
+"group": "elf_house_1_Interior",
+"y_offset": 2.05
+},
+{
+"model": "F33_elf_bench",
+"x": -1732.66,
+"z": -306.78,
+"rot": 37.4,
+"group": "elf_house_1_Interior",
+"y_offset": 2.05
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1730.09,
+"z": -288.6,
+"rot": 157.4,
+"group": "elf_house_1_Interior",
+"y_offset": 2.05,
+"scale": 0.6
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1741.03,
+"z": -302.9,
+"rot": 157.4,
+"group": "elf_house_1_Interior",
+"y_offset": 2.05,
+"scale": 1.0
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1719.16,
+"z": -295.7,
+"rot": 157.4,
+"group": "elf_house_1_Interior",
+"y_offset": 2.05,
+"scale": 0.6
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1731.31,
+"z": -311.59,
+"rot": 157.4,
+"group": "elf_house_1_Interior",
+"y_offset": 2.05,
+"scale": 1.0
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1718.83,
+"z": -303.5,
+"rot": 127.4,
+"group": "elf_house_1_Interior",
+"y_offset": 2.05
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1723.69,
+"z": -309.86,
+"rot": 127.4,
+"group": "elf_house_1_Interior",
+"y_offset": 2.05
+},
+{
+"model": "F34_crystal_cluster",
+"x": -1742.01,
+"z": -300.89,
+"rot": 167.4,
+"group": "elf_house_1_Interior",
+"y_offset": 2.05,
+"scale": 0.6
+},
+{
+"model": "A84_table",
+"x": -1388.41,
+"z": -561.21,
+"rot": 307.4,
+"group": "elf_house_2_Interior",
+"y_offset": 2.05
+},
+{
+"model": "K21_magic_orb",
+"x": -1388.41,
+"z": -561.21,
+"rot": 307.4,
+"group": "elf_house_2_Interior",
+"y_offset": 5.05
+},
+{
+"model": "K20_bookshelf",
+"x": -1380.63,
+"z": -567.17,
+"rot": 307.4,
+"group": "elf_house_2_Interior",
+"y_offset": 2.05
+},
+{
+"model": "F33_elf_bench",
+"x": -1395.84,
+"z": -564.35,
+"rot": 37.4,
+"group": "elf_house_2_Interior",
+"y_offset": 2.05
+},
+{
+"model": "F33_elf_bench",
+"x": -1387.34,
+"z": -553.22,
+"rot": 217.4,
+"group": "elf_house_2_Interior",
+"y_offset": 2.05
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1389.91,
+"z": -571.4,
+"rot": 337.4,
+"group": "elf_house_2_Interior",
+"y_offset": 2.05,
+"scale": 0.6
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1378.97,
+"z": -557.1,
+"rot": 337.4,
+"group": "elf_house_2_Interior",
+"y_offset": 2.05,
+"scale": 1.0
+},
+{
+"model": "F22_giant_leaf_plant",
+"x": -1400.84,
+"z": -564.3,
+"rot": 337.4,
+"group": "elf_house_2_Interior",
+"y_offset": 2.05,
+"scale": 0.6
+},
+{
+"model": "F25_glow_flower_1",
+"x": -1388.69,
+"z": -548.41,
+"rot": 337.4,
+"group": "elf_house_2_Interior",
+"y_offset": 2.05,
+"scale": 1.0
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1401.17,
+"z": -556.5,
+"rot": 307.4,
+"group": "elf_house_2_Interior",
+"y_offset": 2.05
+},
+{
+"model": "F28_elf_standing_lantern",
+"x": -1396.31,
+"z": -550.14,
+"rot": 307.4,
+"group": "elf_house_2_Interior",
+"y_offset": 2.05
+},
+{
+"model": "F34_crystal_cluster",
+"x": -1377.99,
+"z": -559.11,
+"rot": 347.4,
+"group": "elf_house_2_Interior",
+"y_offset": 2.05,
+"scale": 0.6
+},
+{
+"model": "A84_table",
+"x": 1594.9,
+"z": -872.5,
+"rot": 180,
+"group": "alpine_lodge_Interior",
+"y_offset": 1.85
+},
+{
+"model": "A85_chair",
+"x": 1594.9,
+"z": -869.3,
+"rot": 180,
+"group": "alpine_lodge_Interior",
+"y_offset": 1.85
+},
+{
+"model": "A85_chair",
+"x": 1594.9,
+"z": -875.7,
+"rot": 0,
+"group": "alpine_lodge_Interior",
+"y_offset": 1.85
+},
+{
+"model": "A23_candle_cluster",
+"x": 1594.9,
+"z": -872.5,
+"rot": 90,
+"group": "alpine_lodge_Interior",
+"y_offset": 4.85
+},
+{
+"model": "A84_table",
+"x": 1594.9,
+"z": -887.5,
+"rot": 180,
+"group": "alpine_lodge_Interior",
+"y_offset": 1.85
+},
+{
+"model": "A85_chair",
+"x": 1594.9,
+"z": -884.3,
+"rot": 180,
+"group": "alpine_lodge_Interior",
+"y_offset": 1.85
+},
+{
+"model": "A85_chair",
+"x": 1594.9,
+"z": -890.7,
+"rot": 0,
+"group": "alpine_lodge_Interior",
+"y_offset": 1.85
+},
+{
+"model": "A23_candle_cluster",
+"x": 1594.9,
+"z": -887.5,
+"rot": 90,
+"group": "alpine_lodge_Interior",
+"y_offset": 4.85
+},
+{
+"model": "A84_table",
+"x": 1586.1,
+"z": -872.5,
+"rot": 180,
+"group": "alpine_lodge_Interior",
+"y_offset": 1.85
+},
+{
+"model": "A85_chair",
+"x": 1586.1,
+"z": -869.3,
+"rot": 180,
+"group": "alpine_lodge_Interior",
+"y_offset": 1.85
+},
+{
+"model": "A85_chair",
+"x": 1586.1,
+"z": -875.7,
+"rot": 0,
+"group": "alpine_lodge_Interior",
+"y_offset": 1.85
+},
+{
+"model": "A23_candle_cluster",
+"x": 1586.1,
+"z": -872.5,
+"rot": 90,
+"group": "alpine_lodge_Interior",
+"y_offset": 4.85
+},
+{
+"model": "A84_table",
+"x": 1586.1,
+"z": -887.5,
+"rot": 180,
+"group": "alpine_lodge_Interior",
+"y_offset": 1.85
+},
+{
+"model": "A85_chair",
+"x": 1586.1,
+"z": -884.3,
+"rot": 180,
+"group": "alpine_lodge_Interior",
+"y_offset": 1.85
+},
+{
+"model": "A85_chair",
+"x": 1586.1,
+"z": -890.7,
+"rot": 0,
+"group": "alpine_lodge_Interior",
+"y_offset": 1.85
+},
+{
+"model": "A23_candle_cluster",
+"x": 1586.1,
+"z": -887.5,
+"rot": 90,
+"group": "alpine_lodge_Interior",
+"y_offset": 4.85
+},
+{
+"model": "A90_firewood_stack",
+"x": 1567.0,
+"z": -888.25,
+"rot": 90,
+"group": "alpine_lodge_Interior",
+"y_offset": 1.85
+},
+{
+"model": "A90_firewood_stack",
+"x": 1567.0,
+"z": -871.75,
+"rot": 90,
+"group": "alpine_lodge_Interior",
+"y_offset": 1.85
+},
+{
+"model": "E22_sled",
+"x": 1600.4,
+"z": -892.0,
+"rot": 0,
+"group": "alpine_lodge_Interior",
+"y_offset": 1.85
+},
+{
+"model": "A71_barrel",
+"x": 1601.5,
+"z": -867.5,
+"rot": 90,
+"group": "alpine_lodge_Interior",
+"y_offset": 1.85
+},
+{
+"model": "A72_barrel_open",
+"x": 1598.2,
+"z": -867.5,
+"rot": 90,
+"group": "alpine_lodge_Interior",
+"y_offset": 1.85
+},
+{
+"model": "A19_hanging_lantern",
+"x": 1574.0,
+"z": -880.0,
+"rot": 90,
+"group": "alpine_lodge_Interior",
+"y_offset": 10.85
+},
+{
+"model": "A19_hanging_lantern",
+"x": 1585.0,
+"z": -880.0,
+"rot": 90,
+"group": "alpine_lodge_Interior",
+"y_offset": 10.85
+},
+{
+"model": "A19_hanging_lantern",
+"x": 1596.0,
+"z": -880.0,
+"rot": 90,
+"group": "alpine_lodge_Interior",
+"y_offset": 10.85
+}
+]
+}

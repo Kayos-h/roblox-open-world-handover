@@ -1,0 +1,14 @@
+{
+  "area": "town1_extra",
+  "terrain": [
+    {"op": "ramp", "x0": 0, "z0": -690, "y0": 18, "x1": 0, "z1": -800, "y1": 2.5, "width": 26, "material": "Cobblestone"}
+  ],
+  "placements": [
+    {"model": "A21_brazier", "x": -20, "z": -772, "rot": 180, "group": "NorthGate"},
+    {"model": "A21_brazier", "x": 20, "z": -772, "rot": 180, "group": "NorthGate"},
+    {"model": "A15_lamp_iron_city", "x": -18, "z": -715, "rot": 90, "group": "NorthGate"},
+    {"model": "A15_lamp_iron_city", "x": 18, "z": -715, "rot": 270, "group": "NorthGate"},
+    {"model": "A13_signpost", "x": 22, "z": -800, "rot": 0, "group": "NorthGate"},
+    {"model": "T01_demon_skull_hq", "x": 0, "z": -575, "rot": 0, "group": "SkullHQ"}
+  ]
+}

@@ -1,0 +1,9861 @@
+{
+"area": "v3_capital",
+"terrain": [],
+"placements": [
+{
+"model": "C04_grand_gate",
+"x": 0,
+"z": -1237.0,
+"rot": 0,
+"group": "Walls"
+},
+{
+"model": "C04_grand_gate",
+"x": 0,
+"z": -1918.0,
+"rot": 180,
+"group": "Walls"
+},
+{
+"model": "C02_city_wall_corner",
+"x": -490.0,
+"z": -1237.0,
+"rot": 0,
+"group": "Walls"
+},
+{
+"model": "C02_city_wall_corner",
+"x": -490.0,
+"z": -1918.0,
+"rot": 0,
+"group": "Walls"
+},
+{
+"model": "C03_city_wall_tower",
+"x": -170,
+"z": -1237.0,
+"rot": 0,
+"group": "Walls"
+},
+{
+"model": "C03_city_wall_tower",
+"x": -170,
+"z": -1918.0,
+"rot": 180,
+"group": "Walls"
+},
+{
+"model": "C03_city_wall_tower",
+"x": -330,
+"z": -1237.0,
+"rot": 0,
+"group": "Walls"
+},
+{
+"model": "C03_city_wall_tower",
+"x": -330,
+"z": -1918.0,
+"rot": 180,
+"group": "Walls"
+},
+{
+"model": "C03_city_wall_tower",
+"x": -490.0,
+"z": -1410,
+"rot": 270,
+"group": "Walls"
+},
+{
+"model": "C03_city_wall_tower",
+"x": -490.0,
+"z": -1580,
+"rot": 270,
+"group": "Walls"
+},
+{
+"model": "C03_city_wall_tower",
+"x": -490.0,
+"z": -1750,
+"rot": 270,
+"group": "Walls"
+},
+{
+"model": "C02_city_wall_corner",
+"x": 490.0,
+"z": -1237.0,
+"rot": 0,
+"group": "Walls"
+},
+{
+"model": "C02_city_wall_corner",
+"x": 490.0,
+"z": -1918.0,
+"rot": 0,
+"group": "Walls"
+},
+{
+"model": "C03_city_wall_tower",
+"x": 170,
+"z": -1237.0,
+"rot": 0,
+"group": "Walls"
+},
+{
+"model": "C03_city_wall_tower",
+"x": 170,
+"z": -1918.0,
+"rot": 180,
+"group": "Walls"
+},
+{
+"model": "C03_city_wall_tower",
+"x": 330,
+"z": -1237.0,
+"rot": 0,
+"group": "Walls"
+},
+{
+"model": "C03_city_wall_tower",
+"x": 330,
+"z": -1918.0,
+"rot": 180,
+"group": "Walls"
+},
+{
+"model": "C03_city_wall_tower",
+"x": 490.0,
+"z": -1410,
+"rot": 90,
+"group": "Walls"
+},
+{
+"model": "C03_city_wall_tower",
+"x": 490.0,
+"z": -1580,
+"rot": 90,
+"group": "Walls"
+},
+{
+"model": "C03_city_wall_tower",
+"x": 490.0,
+"z": -1750,
+"rot": 90,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -142.38,
+"z": -1237.0,
+"rot": 0.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -109.12,
+"z": -1237.0,
+"rot": 0.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -75.88,
+"z": -1237.0,
+"rot": 0.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -42.62,
+"z": -1237.0,
+"rot": 0.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -42.62,
+"z": -1918.0,
+"rot": 180.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -75.88,
+"z": -1918.0,
+"rot": 180.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -109.12,
+"z": -1918.0,
+"rot": 180.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -142.38,
+"z": -1918.0,
+"rot": 180.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -301.75,
+"z": -1237.0,
+"rot": 0.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -267.25,
+"z": -1237.0,
+"rot": 0.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -232.75,
+"z": -1237.0,
+"rot": 0.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -198.25,
+"z": -1237.0,
+"rot": 0.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -198.25,
+"z": -1918.0,
+"rot": 180.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -232.75,
+"z": -1918.0,
+"rot": 180.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -267.25,
+"z": -1918.0,
+"rot": 180.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -301.75,
+"z": -1918.0,
+"rot": 180.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -457.81,
+"z": -1237.0,
+"rot": 0.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -424.44,
+"z": -1237.0,
+"rot": 0.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -391.06,
+"z": -1237.0,
+"rot": 0.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -357.69,
+"z": -1237.0,
+"rot": 0.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -357.69,
+"z": -1918.0,
+"rot": 180.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -391.06,
+"z": -1918.0,
+"rot": 180.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -424.44,
+"z": -1918.0,
+"rot": 180.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -457.81,
+"z": -1918.0,
+"rot": 180.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -490.0,
+"z": -1380.69,
+"rot": 270.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -490.0,
+"z": -1344.06,
+"rot": 270.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -490.0,
+"z": -1307.44,
+"rot": 270.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -490.0,
+"z": -1270.81,
+"rot": 270.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -490.0,
+"z": -1550.5,
+"rot": 270.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -490.0,
+"z": -1513.5,
+"rot": 270.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -490.0,
+"z": -1476.5,
+"rot": 270.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -490.0,
+"z": -1439.5,
+"rot": 270.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -490.0,
+"z": -1720.5,
+"rot": 270.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -490.0,
+"z": -1683.5,
+"rot": 270.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -490.0,
+"z": -1646.5,
+"rot": 270.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -490.0,
+"z": -1609.5,
+"rot": 270.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -490.0,
+"z": -1884.81,
+"rot": 270.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -490.0,
+"z": -1849.44,
+"rot": 270.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -490.0,
+"z": -1814.06,
+"rot": 270.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": -490.0,
+"z": -1778.69,
+"rot": 270.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 42.62,
+"z": -1237.0,
+"rot": 0.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 75.88,
+"z": -1237.0,
+"rot": 0.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 109.12,
+"z": -1237.0,
+"rot": 0.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 142.38,
+"z": -1237.0,
+"rot": 0.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 142.38,
+"z": -1918.0,
+"rot": 180.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 109.12,
+"z": -1918.0,
+"rot": 180.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 75.88,
+"z": -1918.0,
+"rot": 180.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 42.62,
+"z": -1918.0,
+"rot": 180.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 198.25,
+"z": -1237.0,
+"rot": 0.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 232.75,
+"z": -1237.0,
+"rot": 0.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 267.25,
+"z": -1237.0,
+"rot": 0.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 301.75,
+"z": -1237.0,
+"rot": 0.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 301.75,
+"z": -1918.0,
+"rot": 180.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 267.25,
+"z": -1918.0,
+"rot": 180.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 232.75,
+"z": -1918.0,
+"rot": 180.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 198.25,
+"z": -1918.0,
+"rot": 180.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 357.69,
+"z": -1237.0,
+"rot": 0.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 391.06,
+"z": -1237.0,
+"rot": 0.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 424.44,
+"z": -1237.0,
+"rot": 0.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 457.81,
+"z": -1237.0,
+"rot": 0.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 457.81,
+"z": -1918.0,
+"rot": 180.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 424.44,
+"z": -1918.0,
+"rot": 180.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 391.06,
+"z": -1918.0,
+"rot": 180.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 357.69,
+"z": -1918.0,
+"rot": 180.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 490.0,
+"z": -1270.81,
+"rot": 90.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 490.0,
+"z": -1307.44,
+"rot": 90.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 490.0,
+"z": -1344.06,
+"rot": 90.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 490.0,
+"z": -1380.69,
+"rot": 90.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 490.0,
+"z": -1439.5,
+"rot": 90.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 490.0,
+"z": -1476.5,
+"rot": 90.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 490.0,
+"z": -1513.5,
+"rot": 90.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 490.0,
+"z": -1550.5,
+"rot": 90.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 490.0,
+"z": -1609.5,
+"rot": 90.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 490.0,
+"z": -1646.5,
+"rot": 90.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 490.0,
+"z": -1683.5,
+"rot": 90.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 490.0,
+"z": -1720.5,
+"rot": 90.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 490.0,
+"z": -1778.69,
+"rot": 90.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 490.0,
+"z": -1814.06,
+"rot": 90.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 490.0,
+"z": -1849.44,
+"rot": 90.0,
+"group": "Walls"
+},
+{
+"model": "C01_city_wall_straight",
+"x": 490.0,
+"z": -1884.81,
+"rot": 90.0,
+"group": "Walls"
+},
+{
+"model": "A21_brazier",
+"x": -34,
+"z": -1221.0,
+"rot": 0,
+"group": "GateSquare"
+},
+{
+"model": "A95_flag_pole",
+"x": -46,
+"z": -1259.0,
+"rot": 0,
+"group": "GateSquare"
+},
+{
+"model": "A21_brazier",
+"x": -34,
+"z": -1934.0,
+"rot": 180,
+"group": "Walls"
+},
+{
+"model": "A21_brazier",
+"x": 34,
+"z": -1221.0,
+"rot": 0,
+"group": "GateSquare"
+},
+{
+"model": "A95_flag_pole",
+"x": 46,
+"z": -1259.0,
+"rot": 0,
+"group": "GateSquare"
+},
+{
+"model": "A21_brazier",
+"x": 34,
+"z": -1934.0,
+"rot": 180,
+"group": "Walls"
+},
+{
+"model": "C22_knight_statue",
+"x": 0,
+"z": -1284,
+"rot": 0,
+"group": "GateSquare"
+},
+{
+"model": "C21_plaza_fountain",
+"x": 0,
+"z": -1460,
+"rot": 0,
+"group": "MarketSquare"
+},
+{
+"model": "C23_obelisk",
+"x": 0,
+"z": -1628,
+"rot": 0,
+"group": "CathedralSquare"
+},
+{
+"model": "K44_monument_column",
+"x": 0,
+"z": -1776,
+"rot": 0,
+"group": "UpperPlaza"
+},
+{
+"model": "C19_royal_library",
+"x": 132,
+"z": -1628,
+"rot": 270,
+"group": "CathedralSquare"
+},
+{
+"model": "C15_clock_tower",
+"x": 108,
+"z": -1688,
+"rot": 270,
+"group": "CathedralSquare"
+},
+{
+"model": "C11_market_hall",
+"x": 116,
+"z": -1460,
+"rot": 270,
+"group": "MarketSquare"
+},
+{
+"model": "C18_guild_hall",
+"x": -112,
+"z": -1460,
+"rot": 90,
+"group": "MarketSquare"
+},
+{
+"model": "C20_magic_academy",
+"x": 58,
+"z": -1808,
+"rot": 270,
+"group": "UpperAvenue"
+},
+{
+"model": "C17_knights_hq",
+"x": -64,
+"z": -1808,
+"rot": 90,
+"group": "UpperAvenue"
+},
+{
+"model": "A105_market_stall_fruit",
+"x": 48.0,
+"z": -1460.0,
+"rot": 270.0,
+"group": "MarketSquare"
+},
+{
+"model": "A106_market_stall_cloth",
+"x": 33.94,
+"z": -1437.37,
+"rot": 225.0,
+"group": "MarketSquare"
+},
+{
+"model": "A107_market_stall_potion",
+"x": 0.0,
+"z": -1428.0,
+"rot": 180.0,
+"group": "MarketSquare"
+},
+{
+"model": "A105_market_stall_fruit",
+"x": -33.94,
+"z": -1437.37,
+"rot": 135.0,
+"group": "MarketSquare"
+},
+{
+"model": "A106_market_stall_cloth",
+"x": -48.0,
+"z": -1460.0,
+"rot": 90.0,
+"group": "MarketSquare"
+},
+{
+"model": "A107_market_stall_potion",
+"x": -33.94,
+"z": -1482.63,
+"rot": 45.0,
+"group": "MarketSquare"
+},
+{
+"model": "A105_market_stall_fruit",
+"x": -0.0,
+"z": -1492.0,
+"rot": 0.0,
+"group": "MarketSquare"
+},
+{
+"model": "A106_market_stall_cloth",
+"x": 33.94,
+"z": -1482.63,
+"rot": 315.0,
+"group": "MarketSquare"
+},
+{
+"model": "C26_vendor_cart",
+"x": -66,
+"z": -1430,
+"rot": 297.8,
+"group": "MarketSquare"
+},
+{
+"model": "A74_crate_large",
+"x": -57.91,
+"z": -1421.42,
+"rot": 69.9,
+"group": "MarketSquare"
+},
+{
+"model": "A74_crate_large",
+"x": -57.45,
+"z": -1429.22,
+"rot": 79.5,
+"group": "MarketSquare"
+},
+{
+"model": "C26_vendor_cart",
+"x": 66,
+"z": -1490,
+"rot": 43.7,
+"group": "MarketSquare"
+},
+{
+"model": "A72_barrel_open",
+"x": 72.97,
+"z": -1485.41,
+"rot": 68.2,
+"group": "MarketSquare"
+},
+{
+"model": "A73_crate_small",
+"x": 74.46,
+"z": -1489.15,
+"rot": 145.5,
+"group": "MarketSquare"
+},
+{
+"model": "C26_vendor_cart",
+"x": -46,
+"z": -1500,
+"rot": 242.7,
+"group": "MarketSquare"
+},
+{
+"model": "A74_crate_large",
+"x": -35.53,
+"z": -1497.97,
+"rot": 49.1,
+"group": "MarketSquare"
+},
+{
+"model": "A72_barrel_open",
+"x": -43.33,
+"z": -1494.2,
+"rot": 262.4,
+"group": "MarketSquare"
+},
+{
+"model": "A76_sack",
+"x": -39.19,
+"z": -1492.61,
+"rot": 169.0,
+"group": "MarketSquare"
+},
+{
+"model": "C26_vendor_cart",
+"x": 70,
+"z": -1425,
+"rot": 108.7,
+"group": "MarketSquare"
+},
+{
+"model": "A73_crate_small",
+"x": 74.95,
+"z": -1425.02,
+"rot": 59.4,
+"group": "MarketSquare"
+},
+{
+"model": "A73_crate_small",
+"x": 78.05,
+"z": -1420.38,
+"rot": 250.7,
+"group": "MarketSquare"
+},
+{
+"model": "A76_sack",
+"x": 80.46,
+"z": -1422.83,
+"rot": 249.7,
+"group": "MarketSquare"
+},
+{
+"model": "C31_bunting",
+"x": 0,
+"z": -1408,
+"rot": 0,
+"group": "MarketSquare",
+"y_offset": 16
+},
+{
+"model": "C31_bunting",
+"x": 0,
+"z": -1512,
+"rot": 0,
+"group": "MarketSquare",
+"y_offset": 16
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 48.86,
+"z": -1272.48,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 21.98,
+"z": -1260.06,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -17.79,
+"z": -1259.33,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -47.13,
+"z": -1270.7,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -48.86,
+"z": -1287.52,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -21.98,
+"z": -1299.94,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 17.79,
+"z": -1300.67,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 47.13,
+"z": -1289.3,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A83_bench_stone",
+"x": 21.78,
+"z": -1269.89,
+"rot": 225.0,
+"group": "Plazas"
+},
+{
+"model": "A83_bench_stone",
+"x": -21.78,
+"z": -1269.89,
+"rot": 135.0,
+"group": "Plazas"
+},
+{
+"model": "A83_bench_stone",
+"x": -21.78,
+"z": -1290.11,
+"rot": 45.0,
+"group": "Plazas"
+},
+{
+"model": "A83_bench_stone",
+"x": 21.78,
+"z": -1290.11,
+"rot": 315.0,
+"group": "Plazas"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 78.93,
+"z": -1442.9,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 35.5,
+"z": -1414.68,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -28.73,
+"z": -1413.02,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -76.13,
+"z": -1438.87,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -78.93,
+"z": -1477.1,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -35.5,
+"z": -1505.32,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 28.73,
+"z": -1506.98,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 76.13,
+"z": -1481.13,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 84.57,
+"z": -1612.95,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 38.04,
+"z": -1588.12,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -30.78,
+"z": -1586.65,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -81.57,
+"z": -1609.4,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -84.57,
+"z": -1643.05,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -38.04,
+"z": -1667.88,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 30.78,
+"z": -1669.35,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 81.57,
+"z": -1646.6,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A83_bench_stone",
+"x": 36.56,
+"z": -1609.33,
+"rot": 225.0,
+"group": "Plazas"
+},
+{
+"model": "A83_bench_stone",
+"x": -36.56,
+"z": -1609.33,
+"rot": 135.0,
+"group": "Plazas"
+},
+{
+"model": "A83_bench_stone",
+"x": -36.56,
+"z": -1646.67,
+"rot": 45.0,
+"group": "Plazas"
+},
+{
+"model": "A83_bench_stone",
+"x": 36.56,
+"z": -1646.67,
+"rot": 315.0,
+"group": "Plazas"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 41.35,
+"z": -1765.74,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 18.6,
+"z": -1748.81,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -15.05,
+"z": -1747.81,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -39.88,
+"z": -1763.32,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -41.35,
+"z": -1786.26,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -18.6,
+"z": -1803.19,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 15.05,
+"z": -1804.19,
+"rot": 0,
+"group": "Lamps"
+},
+{
+"model": "A83_bench_stone",
+"x": 18.67,
+"z": -1762.78,
+"rot": 225.0,
+"group": "Plazas"
+},
+{
+"model": "A83_bench_stone",
+"x": -18.67,
+"z": -1762.78,
+"rot": 135.0,
+"group": "Plazas"
+},
+{
+"model": "A83_bench_stone",
+"x": -18.67,
+"z": -1789.22,
+"rot": 45.0,
+"group": "Plazas"
+},
+{
+"model": "A83_bench_stone",
+"x": 18.67,
+"z": -1789.22,
+"rot": 315.0,
+"group": "Plazas"
+},
+{
+"model": "C08_townhouse_4",
+"x": 25.9,
+"z": -1316.27,
+"rot": 270.0,
+"group": "Avenue"
+},
+{
+"model": "C12_bakery",
+"x": 25.5,
+"z": -1337.51,
+"rot": 270.0,
+"group": "Avenue"
+},
+{
+"model": "C13_potion_shop",
+"x": 25.52,
+"z": -1355.82,
+"rot": 270.0,
+"group": "Avenue"
+},
+{
+"model": "C06_townhouse_2",
+"x": 25.4,
+"z": -1394.91,
+"rot": 270.0,
+"group": "Avenue"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": 26.04,
+"z": -1564.75,
+"rot": 270.0,
+"group": "Avenue"
+},
+{
+"model": "C08_townhouse_4",
+"x": 25.9,
+"z": -1690.42,
+"rot": 270.0,
+"group": "Avenue"
+},
+{
+"model": "C13_potion_shop",
+"x": 25.52,
+"z": -1729.52,
+"rot": 270.0,
+"group": "Avenue"
+},
+{
+"model": "C12_bakery",
+"x": 25.5,
+"z": -1858.78,
+"rot": 270.0,
+"group": "Avenue"
+},
+{
+"model": "C13_potion_shop",
+"x": -25.52,
+"z": -1314.78,
+"rot": 90.0,
+"group": "Avenue"
+},
+{
+"model": "C09_corner_house",
+"x": -29.09,
+"z": -1337.79,
+"rot": 90.0,
+"group": "Avenue"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": -26.04,
+"z": -1526.61,
+"rot": 90.0,
+"group": "Avenue"
+},
+{
+"model": "C07_townhouse_3",
+"x": -26.27,
+"z": -1565.05,
+"rot": 90.0,
+"group": "Avenue"
+},
+{
+"model": "C12_bakery",
+"x": -25.5,
+"z": -1687.66,
+"rot": 90.0,
+"group": "Avenue"
+},
+{
+"model": "C06_townhouse_2",
+"x": -25.4,
+"z": -1857.84,
+"rot": 90.0,
+"group": "Avenue"
+},
+{
+"model": "C13_potion_shop",
+"x": -447.23,
+"z": -1356.97,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C07_townhouse_3",
+"x": -425.52,
+"z": -1356.23,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C05_townhouse_1",
+"x": -400.04,
+"z": -1355.72,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C13_potion_shop",
+"x": -378.92,
+"z": -1356.97,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C12_bakery",
+"x": -358.51,
+"z": -1357.0,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C09_corner_house",
+"x": -333.79,
+"z": -1353.41,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": -309.22,
+"z": -1356.46,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C05_townhouse_1",
+"x": -287.51,
+"z": -1355.72,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C09_corner_house",
+"x": -260.84,
+"z": -1353.41,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C10_terrace_row",
+"x": -202.63,
+"z": -1356.9,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C13_potion_shop",
+"x": -168.83,
+"z": -1356.97,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C05_townhouse_1",
+"x": -148.02,
+"z": -1355.72,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C07_townhouse_3",
+"x": -124.35,
+"z": -1356.23,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C12_bakery",
+"x": -100.36,
+"z": -1357.0,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C08_townhouse_4",
+"x": -78.47,
+"z": -1356.6,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": -56.94,
+"z": -1356.46,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C10_terrace_row",
+"x": 62.21,
+"z": -1356.9,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C13_potion_shop",
+"x": 95.97,
+"z": -1356.97,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C05_townhouse_1",
+"x": 117.08,
+"z": -1355.72,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": 139.48,
+"z": -1356.46,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C07_townhouse_3",
+"x": 162.46,
+"z": -1356.23,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C05_townhouse_1",
+"x": 186.09,
+"z": -1355.72,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": 208.57,
+"z": -1356.46,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C10_terrace_row",
+"x": 272.85,
+"z": -1356.9,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C07_townhouse_3",
+"x": 310.63,
+"z": -1356.23,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": 333.99,
+"z": -1356.46,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C13_potion_shop",
+"x": 353.29,
+"z": -1356.97,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C07_townhouse_3",
+"x": 376.55,
+"z": -1356.23,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": 400.33,
+"z": -1356.46,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C13_potion_shop",
+"x": 419.79,
+"z": -1356.97,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C06_townhouse_2",
+"x": 439.32,
+"z": -1357.1,
+"rot": 180.0,
+"group": "Street_1376"
+},
+{
+"model": "C12_bakery",
+"x": -446.22,
+"z": -1395.0,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C13_potion_shop",
+"x": -425.68,
+"z": -1395.03,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C08_townhouse_4",
+"x": -405.9,
+"z": -1395.4,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C12_bakery",
+"x": -385.1,
+"z": -1395.0,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": -363.72,
+"z": -1395.54,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C08_townhouse_4",
+"x": -343.04,
+"z": -1395.4,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C06_townhouse_2",
+"x": -323.1,
+"z": -1394.9,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": -302.77,
+"z": -1395.54,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C13_potion_shop",
+"x": -282.63,
+"z": -1395.03,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C08_townhouse_4",
+"x": -257.61,
+"z": -1395.4,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C05_townhouse_1",
+"x": -215.63,
+"z": -1396.28,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C10_terrace_row",
+"x": -180.31,
+"z": -1395.1,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": -146.45,
+"z": -1395.54,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C13_potion_shop",
+"x": -126.84,
+"z": -1395.03,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C05_townhouse_1",
+"x": -105.54,
+"z": -1396.28,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C06_townhouse_2",
+"x": -83.45,
+"z": -1394.9,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C12_bakery",
+"x": -48.38,
+"z": -1395.0,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C13_potion_shop",
+"x": -24.68,
+"z": -1395.03,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C06_townhouse_2",
+"x": 68.98,
+"z": -1394.9,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C10_terrace_row",
+"x": 107.51,
+"z": -1395.1,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C09_corner_house",
+"x": 146.32,
+"z": -1398.59,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C08_townhouse_4",
+"x": 170.97,
+"z": -1395.4,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C06_townhouse_2",
+"x": 190.99,
+"z": -1394.9,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": 211.59,
+"z": -1395.54,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C08_townhouse_4",
+"x": 257.22,
+"z": -1395.4,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C05_townhouse_1",
+"x": 280.29,
+"z": -1396.28,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C06_townhouse_2",
+"x": 301.9,
+"z": -1394.9,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C08_townhouse_4",
+"x": 323.21,
+"z": -1395.4,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C09_corner_house",
+"x": 348.47,
+"z": -1398.59,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C06_townhouse_2",
+"x": 373.35,
+"z": -1394.9,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C10_terrace_row",
+"x": 406.53,
+"z": -1395.1,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C12_bakery",
+"x": 440.91,
+"z": -1395.0,
+"rot": 0.0,
+"group": "Street_1376"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": -446.0,
+"z": -1524.46,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C13_potion_shop",
+"x": -426.43,
+"z": -1524.97,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C05_townhouse_1",
+"x": -405.86,
+"z": -1523.72,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": -384.29,
+"z": -1524.46,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C12_bakery",
+"x": -363.47,
+"z": -1525.0,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C07_townhouse_3",
+"x": -340.02,
+"z": -1524.23,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C05_townhouse_1",
+"x": -314.88,
+"z": -1523.72,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C08_townhouse_4",
+"x": -293.53,
+"z": -1524.6,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C07_townhouse_3",
+"x": -268.91,
+"z": -1524.23,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C12_bakery",
+"x": -220.66,
+"z": -1525.0,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C08_townhouse_4",
+"x": -199.34,
+"z": -1524.6,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C13_potion_shop",
+"x": -178.43,
+"z": -1524.97,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C06_townhouse_2",
+"x": -159.76,
+"z": -1525.1,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C07_townhouse_3",
+"x": -137.32,
+"z": -1524.23,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C08_townhouse_4",
+"x": -113.2,
+"z": -1524.6,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C06_townhouse_2",
+"x": -87.32,
+"z": -1525.1,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C12_bakery",
+"x": -67.83,
+"z": -1525.0,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C13_potion_shop",
+"x": 40.93,
+"z": -1524.97,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C06_townhouse_2",
+"x": 84.95,
+"z": -1525.1,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C12_bakery",
+"x": 104.74,
+"z": -1525.0,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C05_townhouse_1",
+"x": 126.05,
+"z": -1523.72,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C13_potion_shop",
+"x": 146.39,
+"z": -1524.97,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": 166.06,
+"z": -1524.46,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C08_townhouse_4",
+"x": 188.2,
+"z": -1524.6,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C13_potion_shop",
+"x": 207.94,
+"z": -1524.97,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C05_townhouse_1",
+"x": 258.2,
+"z": -1523.72,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C12_bakery",
+"x": 280.74,
+"z": -1525.0,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C08_townhouse_4",
+"x": 301.44,
+"z": -1524.6,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C13_potion_shop",
+"x": 321.9,
+"z": -1524.97,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": 341.77,
+"z": -1524.46,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C05_townhouse_1",
+"x": 363.37,
+"z": -1523.72,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C12_bakery",
+"x": 386.1,
+"z": -1525.0,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C07_townhouse_3",
+"x": 409.7,
+"z": -1524.23,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C05_townhouse_1",
+"x": 434.33,
+"z": -1523.72,
+"rot": 180.0,
+"group": "Street_1544"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": -446.0,
+"z": -1563.54,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C13_potion_shop",
+"x": -425.63,
+"z": -1563.03,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C10_terrace_row",
+"x": -392.19,
+"z": -1563.1,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C09_corner_house",
+"x": -353.84,
+"z": -1566.59,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C08_townhouse_4",
+"x": -329.27,
+"z": -1563.4,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C13_potion_shop",
+"x": -309.23,
+"z": -1563.03,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C06_townhouse_2",
+"x": -290.9,
+"z": -1562.9,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": -271.13,
+"z": -1563.54,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C10_terrace_row",
+"x": -206.46,
+"z": -1563.1,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C09_corner_house",
+"x": -168.24,
+"z": -1566.59,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C05_townhouse_1",
+"x": -143.13,
+"z": -1564.28,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C13_potion_shop",
+"x": -123.08,
+"z": -1563.03,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C12_bakery",
+"x": -104.36,
+"z": -1563.0,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C07_townhouse_3",
+"x": -81.0,
+"z": -1563.77,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C06_townhouse_2",
+"x": -53.7,
+"z": -1562.9,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C12_bakery",
+"x": 46.74,
+"z": -1563.0,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C13_potion_shop",
+"x": 65.34,
+"z": -1563.03,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": 84.67,
+"z": -1563.54,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C10_terrace_row",
+"x": 120.01,
+"z": -1563.1,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C13_potion_shop",
+"x": 154.51,
+"z": -1563.03,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C12_bakery",
+"x": 174.0,
+"z": -1563.0,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": 195.72,
+"z": -1563.54,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C07_townhouse_3",
+"x": 218.66,
+"z": -1563.77,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C10_terrace_row",
+"x": 270.28,
+"z": -1563.1,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C09_corner_house",
+"x": 309.71,
+"z": -1566.59,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": 334.12,
+"z": -1563.54,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C06_townhouse_2",
+"x": 354.42,
+"z": -1562.9,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C13_potion_shop",
+"x": 373.6,
+"z": -1563.03,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C05_townhouse_1",
+"x": 393.38,
+"z": -1564.28,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C09_corner_house",
+"x": 419.85,
+"z": -1566.59,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C13_potion_shop",
+"x": 443.22,
+"z": -1563.03,
+"rot": 0.0,
+"group": "Street_1544"
+},
+{
+"model": "C13_potion_shop",
+"x": -447.23,
+"z": -1692.97,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C07_townhouse_3",
+"x": -424.93,
+"z": -1692.23,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": -402.33,
+"z": -1692.46,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C12_bakery",
+"x": -381.56,
+"z": -1693.0,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C07_townhouse_3",
+"x": -358.83,
+"z": -1692.23,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": -334.85,
+"z": -1692.46,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C10_terrace_row",
+"x": -299.75,
+"z": -1692.9,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C05_townhouse_1",
+"x": -263.14,
+"z": -1691.72,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C08_townhouse_4",
+"x": -220.04,
+"z": -1692.6,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C07_townhouse_3",
+"x": -196.65,
+"z": -1692.23,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C13_potion_shop",
+"x": -174.11,
+"z": -1692.97,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C10_terrace_row",
+"x": -140.14,
+"z": -1692.9,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C05_townhouse_1",
+"x": -104.81,
+"z": -1691.72,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C06_townhouse_2",
+"x": -83.8,
+"z": -1693.1,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": -63.73,
+"z": -1692.46,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C08_townhouse_4",
+"x": 52.74,
+"z": -1692.6,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C07_townhouse_3",
+"x": 76.52,
+"z": -1692.23,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C05_townhouse_1",
+"x": 130.61,
+"z": -1691.72,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C12_bakery",
+"x": 152.07,
+"z": -1693.0,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C09_corner_house",
+"x": 177.52,
+"z": -1689.41,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C07_townhouse_3",
+"x": 204.05,
+"z": -1692.23,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": 258.12,
+"z": -1692.46,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C08_townhouse_4",
+"x": 278.72,
+"z": -1692.6,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C07_townhouse_3",
+"x": 302.53,
+"z": -1692.23,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C09_corner_house",
+"x": 329.28,
+"z": -1689.41,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": 354.41,
+"z": -1692.46,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C13_potion_shop",
+"x": 374.87,
+"z": -1692.97,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C10_terrace_row",
+"x": 409.14,
+"z": -1692.9,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": 444.61,
+"z": -1692.46,
+"rot": 180.0,
+"group": "Street_1712"
+},
+{
+"model": "C07_townhouse_3",
+"x": -443.5,
+"z": -1731.77,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C05_townhouse_1",
+"x": -418.96,
+"z": -1732.28,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C12_bakery",
+"x": -397.57,
+"z": -1731.0,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C07_townhouse_3",
+"x": -374.44,
+"z": -1731.77,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C13_potion_shop",
+"x": -351.2,
+"z": -1731.03,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C10_terrace_row",
+"x": -316.73,
+"z": -1731.1,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C06_townhouse_2",
+"x": -282.57,
+"z": -1730.9,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C07_townhouse_3",
+"x": -260.39,
+"z": -1731.77,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C12_bakery",
+"x": -216.91,
+"z": -1731.0,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C09_corner_house",
+"x": -192.16,
+"z": -1734.59,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C10_terrace_row",
+"x": -153.75,
+"z": -1731.1,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C06_townhouse_2",
+"x": -119.18,
+"z": -1730.9,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C05_townhouse_1",
+"x": -98.14,
+"z": -1732.28,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C12_bakery",
+"x": -76.88,
+"z": -1731.0,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C10_terrace_row",
+"x": -42.37,
+"z": -1731.1,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C13_potion_shop",
+"x": 46.69,
+"z": -1731.03,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C08_townhouse_4",
+"x": 66.37,
+"z": -1731.4,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C06_townhouse_2",
+"x": 87.36,
+"z": -1730.9,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C12_bakery",
+"x": 107.97,
+"z": -1731.0,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C10_terrace_row",
+"x": 142.4,
+"z": -1731.1,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C05_townhouse_1",
+"x": 178.93,
+"z": -1732.28,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C06_townhouse_2",
+"x": 200.06,
+"z": -1730.9,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C09_corner_house",
+"x": 263.51,
+"z": -1734.59,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C08_townhouse_4",
+"x": 287.78,
+"z": -1731.4,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": 309.37,
+"z": -1731.54,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C12_bakery",
+"x": 330.87,
+"z": -1731.0,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C07_townhouse_3",
+"x": 354.36,
+"z": -1731.77,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C05_townhouse_1",
+"x": 379.31,
+"z": -1732.28,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C10_terrace_row",
+"x": 415.57,
+"z": -1731.1,
+"rot": 0.0,
+"group": "Street_1712"
+},
+{
+"model": "C13_potion_shop",
+"x": -447.23,
+"z": -1818.97,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C08_townhouse_4",
+"x": -427.71,
+"z": -1818.6,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C06_townhouse_2",
+"x": -406.26,
+"z": -1819.1,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": -386.24,
+"z": -1818.46,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C13_potion_shop",
+"x": -365.68,
+"z": -1818.97,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C09_corner_house",
+"x": -341.87,
+"z": -1815.41,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C07_townhouse_3",
+"x": -314.27,
+"z": -1818.23,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C05_townhouse_1",
+"x": -290.02,
+"z": -1817.72,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C13_potion_shop",
+"x": -269.43,
+"z": -1818.97,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C06_townhouse_2",
+"x": -220.43,
+"z": -1819.1,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C12_bakery",
+"x": -200.17,
+"z": -1819.0,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C05_townhouse_1",
+"x": -178.71,
+"z": -1817.72,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C13_potion_shop",
+"x": -158.57,
+"z": -1818.97,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C12_bakery",
+"x": -138.79,
+"z": -1819.0,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C07_townhouse_3",
+"x": -110.23,
+"z": -1818.23,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C08_townhouse_4",
+"x": 88.9,
+"z": -1818.6,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C05_townhouse_1",
+"x": 110.3,
+"z": -1817.72,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C12_bakery",
+"x": 132.11,
+"z": -1819.0,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": 152.12,
+"z": -1818.46,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C06_townhouse_2",
+"x": 172.39,
+"z": -1819.1,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C13_potion_shop",
+"x": 192.01,
+"z": -1818.97,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C05_townhouse_1",
+"x": 213.67,
+"z": -1817.72,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": 256.2,
+"z": -1818.46,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C07_townhouse_3",
+"x": 280.12,
+"z": -1818.23,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C06_townhouse_2",
+"x": 301.93,
+"z": -1819.1,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C05_townhouse_1",
+"x": 323.77,
+"z": -1817.72,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C07_townhouse_3",
+"x": 347.32,
+"z": -1818.23,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C08_townhouse_4",
+"x": 370.25,
+"z": -1818.6,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C09_corner_house",
+"x": 396.3,
+"z": -1815.41,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": 420.99,
+"z": -1818.46,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C13_potion_shop",
+"x": 440.15,
+"z": -1818.97,
+"rot": 180.0,
+"group": "Street_1838"
+},
+{
+"model": "C10_terrace_row",
+"x": -432.23,
+"z": -1857.1,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C09_corner_house",
+"x": -393.9,
+"z": -1860.59,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C08_townhouse_4",
+"x": -369.69,
+"z": -1857.4,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C12_bakery",
+"x": -349.46,
+"z": -1857.0,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C13_potion_shop",
+"x": -330.79,
+"z": -1857.03,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C09_corner_house",
+"x": -306.59,
+"z": -1860.59,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C07_townhouse_3",
+"x": -278.48,
+"z": -1857.77,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C13_potion_shop",
+"x": -221.04,
+"z": -1857.03,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C06_townhouse_2",
+"x": -201.51,
+"z": -1856.9,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": -182.1,
+"z": -1857.54,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C12_bakery",
+"x": -161.86,
+"z": -1857.0,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C06_townhouse_2",
+"x": -141.93,
+"z": -1856.9,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C10_terrace_row",
+"x": -108.53,
+"z": -1857.1,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C08_townhouse_4",
+"x": -72.61,
+"z": -1857.4,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C12_bakery",
+"x": -51.6,
+"z": -1857.0,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C13_potion_shop",
+"x": 47.12,
+"z": -1857.03,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C06_townhouse_2",
+"x": 66.3,
+"z": -1856.9,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C10_terrace_row",
+"x": 101.05,
+"z": -1857.1,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C09_corner_house",
+"x": 138.85,
+"z": -1860.59,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C07_townhouse_3",
+"x": 166.04,
+"z": -1857.77,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C14_magic_tool_shop",
+"x": 188.9,
+"z": -1857.54,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C13_potion_shop",
+"x": 209.05,
+"z": -1857.03,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C12_bakery",
+"x": 257.97,
+"z": -1857.0,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C09_corner_house",
+"x": 282.51,
+"z": -1860.59,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C06_townhouse_2",
+"x": 307.54,
+"z": -1856.9,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C05_townhouse_1",
+"x": 329.39,
+"z": -1858.28,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C13_potion_shop",
+"x": 350.47,
+"z": -1857.03,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C07_townhouse_3",
+"x": 372.58,
+"z": -1857.77,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C06_townhouse_2",
+"x": 394.64,
+"z": -1856.9,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C05_townhouse_1",
+"x": 415.94,
+"z": -1858.28,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C08_townhouse_4",
+"x": 437.8,
+"z": -1857.4,
+"rot": 0.0,
+"group": "Street_1838"
+},
+{
+"model": "C09_corner_house",
+"x": -215.41,
+"z": -1284.89,
+"rot": 270.0,
+"group": "Lane_-238"
+},
+{
+"model": "C06_townhouse_2",
+"x": -219.1,
+"z": -1308.75,
+"rot": 270.0,
+"group": "Lane_-238"
+},
+{
+"model": "C07_townhouse_3",
+"x": -218.24,
+"z": -1331.69,
+"rot": 270.0,
+"group": "Lane_-238"
+},
+{
+"model": "C08_townhouse_4",
+"x": -218.6,
+"z": -1421.05,
+"rot": 270.0,
+"group": "Lane_-238"
+},
+{
+"model": "C10_terrace_row",
+"x": -218.9,
+"z": -1457.51,
+"rot": 270.0,
+"group": "Lane_-238"
+},
+{
+"model": "C06_townhouse_2",
+"x": -219.1,
+"z": -1491.57,
+"rot": 270.0,
+"group": "Lane_-238"
+},
+{
+"model": "C05_townhouse_1",
+"x": -217.72,
+"z": -1753.69,
+"rot": 270.0,
+"group": "Lane_-238"
+},
+{
+"model": "C08_townhouse_4",
+"x": -218.6,
+"z": -1776.43,
+"rot": 270.0,
+"group": "Lane_-238"
+},
+{
+"model": "C06_townhouse_2",
+"x": -219.1,
+"z": -1876.53,
+"rot": 270.0,
+"group": "Lane_-238"
+},
+{
+"model": "C07_townhouse_3",
+"x": -257.76,
+"z": -1283.5,
+"rot": 90.0,
+"group": "Lane_-238"
+},
+{
+"model": "C05_townhouse_1",
+"x": -258.27,
+"z": -1307.26,
+"rot": 90.0,
+"group": "Lane_-238"
+},
+{
+"model": "C09_corner_house",
+"x": -260.59,
+"z": -1419.49,
+"rot": 90.0,
+"group": "Lane_-238"
+},
+{
+"model": "C07_townhouse_3",
+"x": -257.76,
+"z": -1447.24,
+"rot": 90.0,
+"group": "Lane_-238"
+},
+{
+"model": "C06_townhouse_2",
+"x": -256.9,
+"z": -1471.41,
+"rot": 90.0,
+"group": "Lane_-238"
+},
+{
+"model": "C09_corner_house",
+"x": -260.59,
+"z": -1495.62,
+"rot": 90.0,
+"group": "Lane_-238"
+},
+{
+"model": "C08_townhouse_4",
+"x": -257.4,
+"z": -1754.96,
+"rot": 90.0,
+"group": "Lane_-238"
+},
+{
+"model": "C07_townhouse_3",
+"x": -257.76,
+"z": -1778.54,
+"rot": 90.0,
+"group": "Lane_-238"
+},
+{
+"model": "C08_townhouse_4",
+"x": 257.4,
+"z": -1281.27,
+"rot": 270.0,
+"group": "Lane_238"
+},
+{
+"model": "C07_townhouse_3",
+"x": 257.76,
+"z": -1304.32,
+"rot": 270.0,
+"group": "Lane_238"
+},
+{
+"model": "C06_townhouse_2",
+"x": 256.9,
+"z": -1326.98,
+"rot": 270.0,
+"group": "Lane_238"
+},
+{
+"model": "C08_townhouse_4",
+"x": 257.4,
+"z": -1416.81,
+"rot": 270.0,
+"group": "Lane_238"
+},
+{
+"model": "C10_terrace_row",
+"x": 257.1,
+"z": -1451.6,
+"rot": 270.0,
+"group": "Lane_238"
+},
+{
+"model": "C07_townhouse_3",
+"x": 257.76,
+"z": -1489.31,
+"rot": 270.0,
+"group": "Lane_238"
+},
+{
+"model": "C08_townhouse_4",
+"x": 257.4,
+"z": -1583.22,
+"rot": 270.0,
+"group": "Lane_238"
+},
+{
+"model": "C10_terrace_row",
+"x": 257.1,
+"z": -1618.07,
+"rot": 270.0,
+"group": "Lane_238"
+},
+{
+"model": "C07_townhouse_3",
+"x": 257.76,
+"z": -1654.58,
+"rot": 270.0,
+"group": "Lane_238"
+},
+{
+"model": "C06_townhouse_2",
+"x": 256.9,
+"z": -1761.52,
+"rot": 270.0,
+"group": "Lane_238"
+},
+{
+"model": "C05_townhouse_1",
+"x": 258.27,
+"z": -1782.01,
+"rot": 270.0,
+"group": "Lane_238"
+},
+{
+"model": "C05_townhouse_1",
+"x": 217.72,
+"z": -1282.0,
+"rot": 90.0,
+"group": "Lane_238"
+},
+{
+"model": "C07_townhouse_3",
+"x": 218.24,
+"z": -1306.09,
+"rot": 90.0,
+"group": "Lane_238"
+},
+{
+"model": "C06_townhouse_2",
+"x": 219.1,
+"z": -1330.36,
+"rot": 90.0,
+"group": "Lane_238"
+},
+{
+"model": "C05_townhouse_1",
+"x": 217.72,
+"z": -1417.02,
+"rot": 90.0,
+"group": "Lane_238"
+},
+{
+"model": "C09_corner_house",
+"x": 215.41,
+"z": -1443.16,
+"rot": 90.0,
+"group": "Lane_238"
+},
+{
+"model": "C06_townhouse_2",
+"x": 219.1,
+"z": -1466.89,
+"rot": 90.0,
+"group": "Lane_238"
+},
+{
+"model": "C05_townhouse_1",
+"x": 217.72,
+"z": -1489.09,
+"rot": 90.0,
+"group": "Lane_238"
+},
+{
+"model": "C08_townhouse_4",
+"x": 218.6,
+"z": -1585.74,
+"rot": 90.0,
+"group": "Lane_238"
+},
+{
+"model": "C07_townhouse_3",
+"x": 218.24,
+"z": -1609.55,
+"rot": 90.0,
+"group": "Lane_238"
+},
+{
+"model": "C05_townhouse_1",
+"x": 217.72,
+"z": -1633.39,
+"rot": 90.0,
+"group": "Lane_238"
+},
+{
+"model": "C08_townhouse_4",
+"x": 218.6,
+"z": -1657.03,
+"rot": 90.0,
+"group": "Lane_238"
+},
+{
+"model": "C06_townhouse_2",
+"x": 219.1,
+"z": -1728.52,
+"rot": 90.0,
+"group": "Lane_238"
+},
+{
+"model": "C07_townhouse_3",
+"x": 218.24,
+"z": -1757.48,
+"rot": 90.0,
+"group": "Lane_238"
+},
+{
+"model": "C08_townhouse_4",
+"x": 218.6,
+"z": -1782.3,
+"rot": 90.0,
+"group": "Lane_238"
+},
+{
+"model": "C07_townhouse_3",
+"x": -443.24,
+"z": -1283.5,
+"rot": 270.0,
+"group": "OuterRing"
+},
+{
+"model": "C10_terrace_row",
+"x": -443.9,
+"z": -1321.94,
+"rot": 270.0,
+"group": "OuterRing"
+},
+{
+"model": "C05_townhouse_1",
+"x": -442.73,
+"z": -1417.67,
+"rot": 270.0,
+"group": "OuterRing"
+},
+{
+"model": "C08_townhouse_4",
+"x": -443.6,
+"z": -1441.85,
+"rot": 270.0,
+"group": "OuterRing"
+},
+{
+"model": "C07_townhouse_3",
+"x": -443.24,
+"z": -1466.26,
+"rot": 270.0,
+"group": "OuterRing"
+},
+{
+"model": "C09_corner_house",
+"x": -440.41,
+"z": -1496.08,
+"rot": 270.0,
+"group": "OuterRing"
+},
+{
+"model": "C08_townhouse_4",
+"x": -443.6,
+"z": -1585.55,
+"rot": 270.0,
+"group": "OuterRing"
+},
+{
+"model": "C06_townhouse_2",
+"x": -444.1,
+"z": -1607.7,
+"rot": 270.0,
+"group": "OuterRing"
+},
+{
+"model": "C05_townhouse_1",
+"x": -442.73,
+"z": -1633.55,
+"rot": 270.0,
+"group": "OuterRing"
+},
+{
+"model": "C07_townhouse_3",
+"x": -443.24,
+"z": -1662.1,
+"rot": 270.0,
+"group": "OuterRing"
+},
+{
+"model": "C06_townhouse_2",
+"x": -444.1,
+"z": -1752.5,
+"rot": 270.0,
+"group": "OuterRing"
+},
+{
+"model": "C09_corner_house",
+"x": -440.41,
+"z": -1777.98,
+"rot": 270.0,
+"group": "OuterRing"
+},
+{
+"model": "C06_townhouse_2",
+"x": 444.1,
+"z": -1280.28,
+"rot": 90.0,
+"group": "OuterRing"
+},
+{
+"model": "C07_townhouse_3",
+"x": 443.24,
+"z": -1303.55,
+"rot": 90.0,
+"group": "OuterRing"
+},
+{
+"model": "C08_townhouse_4",
+"x": 443.6,
+"z": -1331.52,
+"rot": 90.0,
+"group": "OuterRing"
+},
+{
+"model": "C09_corner_house",
+"x": 440.41,
+"z": -1420.32,
+"rot": 90.0,
+"group": "OuterRing"
+},
+{
+"model": "C10_terrace_row",
+"x": 443.9,
+"z": -1459.77,
+"rot": 90.0,
+"group": "OuterRing"
+},
+{
+"model": "C06_townhouse_2",
+"x": 444.1,
+"z": -1493.95,
+"rot": 90.0,
+"group": "OuterRing"
+},
+{
+"model": "C08_townhouse_4",
+"x": 443.6,
+"z": -1585.73,
+"rot": 90.0,
+"group": "OuterRing"
+},
+{
+"model": "C07_townhouse_3",
+"x": 443.24,
+"z": -1610.39,
+"rot": 90.0,
+"group": "OuterRing"
+},
+{
+"model": "C10_terrace_row",
+"x": 443.9,
+"z": -1652.53,
+"rot": 90.0,
+"group": "OuterRing"
+},
+{
+"model": "C06_townhouse_2",
+"x": 444.1,
+"z": -1752.47,
+"rot": 90.0,
+"group": "OuterRing"
+},
+{
+"model": "C08_townhouse_4",
+"x": 443.6,
+"z": -1773.16,
+"rot": 90.0,
+"group": "OuterRing"
+},
+{
+"model": "C09_corner_house",
+"x": -417.11,
+"z": -1283.59,
+"rot": 0.0,
+"group": "OuterRing"
+},
+{
+"model": "C06_townhouse_2",
+"x": -389.11,
+"z": -1279.9,
+"rot": 0.0,
+"group": "OuterRing"
+},
+{
+"model": "C10_terrace_row",
+"x": -350.37,
+"z": -1280.1,
+"rot": 0.0,
+"group": "OuterRing"
+},
+{
+"model": "C07_townhouse_3",
+"x": -308.33,
+"z": -1280.77,
+"rot": 0.0,
+"group": "OuterRing"
+},
+{
+"model": "C08_townhouse_4",
+"x": -282.46,
+"z": -1280.4,
+"rot": 0.0,
+"group": "OuterRing"
+},
+{
+"model": "C09_corner_house",
+"x": -184.83,
+"z": -1283.59,
+"rot": 0.0,
+"group": "OuterRing"
+},
+{
+"model": "C06_townhouse_2",
+"x": -160.14,
+"z": -1279.9,
+"rot": 0.0,
+"group": "OuterRing"
+},
+{
+"model": "C07_townhouse_3",
+"x": -137.36,
+"z": -1280.77,
+"rot": 0.0,
+"group": "OuterRing"
+},
+{
+"model": "C08_townhouse_4",
+"x": -109.6,
+"z": -1280.4,
+"rot": 0.0,
+"group": "OuterRing"
+},
+{
+"model": "C06_townhouse_2",
+"x": -79.49,
+"z": -1279.9,
+"rot": 0.0,
+"group": "OuterRing"
+},
+{
+"model": "C10_terrace_row",
+"x": 82.48,
+"z": -1280.1,
+"rot": 0.0,
+"group": "OuterRing"
+},
+{
+"model": "C05_townhouse_1",
+"x": 121.32,
+"z": -1281.28,
+"rot": 0.0,
+"group": "OuterRing"
+},
+{
+"model": "C09_corner_house",
+"x": 151.09,
+"z": -1283.59,
+"rot": 0.0,
+"group": "OuterRing"
+},
+{
+"model": "C07_townhouse_3",
+"x": 179.25,
+"z": -1280.77,
+"rot": 0.0,
+"group": "OuterRing"
+},
+{
+"model": "C10_terrace_row",
+"x": 292.26,
+"z": -1280.1,
+"rot": 0.0,
+"group": "OuterRing"
+},
+{
+"model": "C05_townhouse_1",
+"x": 328.67,
+"z": -1281.28,
+"rot": 0.0,
+"group": "OuterRing"
+},
+{
+"model": "C07_townhouse_3",
+"x": 357.46,
+"z": -1280.77,
+"rot": 0.0,
+"group": "OuterRing"
+},
+{
+"model": "C08_townhouse_4",
+"x": 385.81,
+"z": -1280.4,
+"rot": 0.0,
+"group": "OuterRing"
+},
+{
+"model": "C06_townhouse_2",
+"x": 410.08,
+"z": -1279.9,
+"rot": 0.0,
+"group": "OuterRing"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": 13.6,
+"z": -1284.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": 13.6,
+"z": -1316.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": 13.6,
+"z": -1348.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": 13.6,
+"z": -1380.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": 13.6,
+"z": -1540.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": 13.6,
+"z": -1572.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": 13.6,
+"z": -1604.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": 13.6,
+"z": -1636.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": 13.6,
+"z": -1668.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": 13.6,
+"z": -1700.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": 13.6,
+"z": -1732.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": 13.6,
+"z": -1828.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": 13.6,
+"z": -1860.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": 13.6,
+"z": -1892.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": -13.6,
+"z": -1284.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": -13.6,
+"z": -1316.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": -13.6,
+"z": -1348.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": -13.6,
+"z": -1380.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": -13.6,
+"z": -1540.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": -13.6,
+"z": -1572.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": -13.6,
+"z": -1604.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": -13.6,
+"z": -1636.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": -13.6,
+"z": -1668.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": -13.6,
+"z": -1700.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": -13.6,
+"z": -1732.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": -13.6,
+"z": -1828.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": -13.6,
+"z": -1860.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A16_lamp_iron_double",
+"x": -13.6,
+"z": -1892.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -450.0,
+"z": -1368.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -410.0,
+"z": -1383.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -370.0,
+"z": -1368.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -330.0,
+"z": -1383.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -290.0,
+"z": -1368.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -250.0,
+"z": -1383.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -210.0,
+"z": -1368.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -170.0,
+"z": -1383.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -130.0,
+"z": -1368.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -90.0,
+"z": -1383.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -50.0,
+"z": -1368.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -10.0,
+"z": -1383.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 30.0,
+"z": -1368.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 70.0,
+"z": -1383.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 110.0,
+"z": -1368.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 150.0,
+"z": -1383.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 190.0,
+"z": -1368.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 230.0,
+"z": -1383.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 270.0,
+"z": -1368.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 310.0,
+"z": -1383.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 350.0,
+"z": -1368.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 390.0,
+"z": -1383.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 430.0,
+"z": -1368.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 470.0,
+"z": -1383.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -450.0,
+"z": -1536.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -410.0,
+"z": -1551.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -370.0,
+"z": -1536.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -330.0,
+"z": -1551.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -290.0,
+"z": -1536.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -250.0,
+"z": -1551.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -210.0,
+"z": -1536.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -170.0,
+"z": -1551.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -130.0,
+"z": -1536.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -90.0,
+"z": -1551.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -50.0,
+"z": -1536.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -10.0,
+"z": -1551.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 30.0,
+"z": -1536.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 70.0,
+"z": -1551.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 110.0,
+"z": -1536.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 150.0,
+"z": -1551.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 190.0,
+"z": -1536.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 230.0,
+"z": -1551.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 270.0,
+"z": -1536.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 310.0,
+"z": -1551.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 350.0,
+"z": -1536.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 390.0,
+"z": -1551.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 430.0,
+"z": -1536.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 470.0,
+"z": -1551.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -450.0,
+"z": -1704.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -410.0,
+"z": -1719.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -370.0,
+"z": -1704.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -330.0,
+"z": -1719.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -290.0,
+"z": -1704.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -250.0,
+"z": -1719.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -210.0,
+"z": -1704.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -170.0,
+"z": -1719.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -130.0,
+"z": -1704.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -90.0,
+"z": -1719.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -50.0,
+"z": -1704.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -10.0,
+"z": -1719.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 30.0,
+"z": -1704.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 70.0,
+"z": -1719.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 110.0,
+"z": -1704.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 150.0,
+"z": -1719.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 190.0,
+"z": -1704.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 230.0,
+"z": -1719.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 270.0,
+"z": -1704.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 310.0,
+"z": -1719.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 350.0,
+"z": -1704.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 390.0,
+"z": -1719.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 430.0,
+"z": -1704.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 470.0,
+"z": -1719.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -450.0,
+"z": -1830.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -410.0,
+"z": -1845.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -370.0,
+"z": -1830.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -330.0,
+"z": -1845.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -290.0,
+"z": -1830.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -250.0,
+"z": -1845.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -210.0,
+"z": -1830.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -170.0,
+"z": -1845.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -130.0,
+"z": -1830.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -90.0,
+"z": -1845.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -10.0,
+"z": -1845.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 30.0,
+"z": -1830.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 70.0,
+"z": -1845.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 110.0,
+"z": -1830.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 150.0,
+"z": -1845.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 190.0,
+"z": -1830.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 230.0,
+"z": -1845.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 270.0,
+"z": -1830.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 310.0,
+"z": -1845.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 350.0,
+"z": -1830.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 390.0,
+"z": -1845.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 430.0,
+"z": -1830.1,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 470.0,
+"z": -1845.9,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -230.1,
+"z": -1282.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -245.9,
+"z": -1322.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -230.1,
+"z": -1362.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -245.9,
+"z": -1402.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -230.1,
+"z": -1442.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -245.9,
+"z": -1482.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -245.9,
+"z": -1562.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -245.9,
+"z": -1722.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -230.1,
+"z": -1762.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -245.9,
+"z": -1802.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -230.1,
+"z": -1842.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -245.9,
+"z": -1882.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 245.9,
+"z": -1282.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 230.1,
+"z": -1322.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 245.9,
+"z": -1362.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 230.1,
+"z": -1402.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 245.9,
+"z": -1442.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 230.1,
+"z": -1482.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 245.9,
+"z": -1522.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 245.9,
+"z": -1602.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 230.1,
+"z": -1642.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 245.9,
+"z": -1682.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 245.9,
+"z": -1762.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 230.1,
+"z": -1802.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 245.9,
+"z": -1842.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 230.1,
+"z": -1882.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -455.2,
+"z": -1287.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -468.8,
+"z": -1339.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -468.8,
+"z": -1443.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -455.2,
+"z": -1495.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -468.8,
+"z": -1547.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -455.2,
+"z": -1599.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -468.8,
+"z": -1651.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -468.8,
+"z": -1755.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -455.2,
+"z": -1807.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -468.8,
+"z": -1859.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 468.8,
+"z": -1287.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 455.2,
+"z": -1339.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 468.8,
+"z": -1391.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 455.2,
+"z": -1443.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 468.8,
+"z": -1495.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 455.2,
+"z": -1547.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 468.8,
+"z": -1599.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 455.2,
+"z": -1651.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 468.8,
+"z": -1703.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 455.2,
+"z": -1755.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 468.8,
+"z": -1807.0,
+"rot": 270.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 455.2,
+"z": -1859.0,
+"rot": 90.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -445.0,
+"z": -1255.2,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -393.0,
+"z": -1268.8,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -341.0,
+"z": -1255.2,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -289.0,
+"z": -1268.8,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -237.0,
+"z": -1255.2,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -185.0,
+"z": -1268.8,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -133.0,
+"z": -1255.2,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -81.0,
+"z": -1268.8,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -29.0,
+"z": -1255.2,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 75.0,
+"z": -1255.2,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 127.0,
+"z": -1268.8,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 179.0,
+"z": -1255.2,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 231.0,
+"z": -1268.8,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 283.0,
+"z": -1255.2,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 335.0,
+"z": -1268.8,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 387.0,
+"z": -1255.2,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 439.0,
+"z": -1268.8,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -445.0,
+"z": -1886.2,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -393.0,
+"z": -1899.8,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -341.0,
+"z": -1886.2,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -289.0,
+"z": -1899.8,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -237.0,
+"z": -1886.2,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -185.0,
+"z": -1899.8,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -133.0,
+"z": -1886.2,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -81.0,
+"z": -1899.8,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": -29.0,
+"z": -1886.2,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 23.0,
+"z": -1899.8,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 75.0,
+"z": -1886.2,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 127.0,
+"z": -1899.8,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 179.0,
+"z": -1886.2,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 231.0,
+"z": -1899.8,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 283.0,
+"z": -1886.2,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 335.0,
+"z": -1899.8,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 387.0,
+"z": -1886.2,
+"rot": 180.0,
+"group": "Lamps"
+},
+{
+"model": "A15_lamp_iron_city",
+"x": 439.0,
+"z": -1899.8,
+"rot": 0.0,
+"group": "Lamps"
+},
+{
+"model": "A26_oak_3",
+"x": 313.02,
+"z": -1638.54,
+"rot": 284.3,
+"group": "Gardens",
+"scale": 0.884
+},
+{
+"model": "A28_birch_2",
+"x": 315.65,
+"z": -1482.67,
+"rot": 283.7,
+"group": "Gardens",
+"scale": 0.789
+},
+{
+"model": "A27_birch_1",
+"x": 343.09,
+"z": -1623.72,
+"rot": 351.8,
+"group": "Gardens",
+"scale": 0.871
+},
+{
+"model": "A27_birch_1",
+"x": 371.09,
+"z": -1487.98,
+"rot": 37.4,
+"group": "Gardens",
+"scale": 1.08
+},
+{
+"model": "A32_maple_autumn",
+"x": 370.26,
+"z": -1628.98,
+"rot": 329.0,
+"group": "Gardens",
+"scale": 0.846
+},
+{
+"model": "A28_birch_2",
+"x": -411.48,
+"z": -1319.52,
+"rot": 220.5,
+"group": "Gardens",
+"scale": 1.054
+},
+{
+"model": "A28_birch_2",
+"x": 291.48,
+"z": -1310.14,
+"rot": 88.5,
+"group": "Gardens",
+"scale": 0.884
+},
+{
+"model": "A26_oak_3",
+"x": 289.62,
+"z": -1451.74,
+"rot": 95.2,
+"group": "Gardens",
+"scale": 0.772
+},
+{
+"model": "A24_oak_1",
+"x": -337.29,
+"z": -1437.56,
+"rot": 349.9,
+"group": "Gardens",
+"scale": 0.962
+},
+{
+"model": "A28_birch_2",
+"x": -414.54,
+"z": -1460.67,
+"rot": 7.4,
+"group": "Gardens",
+"scale": 1.089
+},
+{
+"model": "A24_oak_1",
+"x": 351.43,
+"z": -1319.95,
+"rot": 181.5,
+"group": "Gardens",
+"scale": 0.977
+},
+{
+"model": "A26_oak_3",
+"x": 347.67,
+"z": -1598.76,
+"rot": 276.6,
+"group": "Gardens",
+"scale": 0.859
+},
+{
+"model": "A28_birch_2",
+"x": -189.16,
+"z": -1431.3,
+"rot": 84.9,
+"group": "Gardens",
+"scale": 0.942
+},
+{
+"model": "A32_maple_autumn",
+"x": 394.94,
+"z": -1602.1,
+"rot": 299.5,
+"group": "Gardens",
+"scale": 0.982
+},
+{
+"model": "A34_fruit_tree",
+"x": 393.92,
+"z": -1761.41,
+"rot": 208.6,
+"group": "Gardens",
+"scale": 0.86
+},
+{
+"model": "A32_maple_autumn",
+"x": 359.76,
+"z": -1435.17,
+"rot": 312.7,
+"group": "Gardens",
+"scale": 1.047
+},
+{
+"model": "A32_maple_autumn",
+"x": 176.52,
+"z": -1431.79,
+"rot": 35.1,
+"group": "Gardens",
+"scale": 0.762
+},
+{
+"model": "A27_birch_1",
+"x": 171.69,
+"z": -1591.71,
+"rot": 138.2,
+"group": "Gardens",
+"scale": 1.02
+},
+{
+"model": "A34_fruit_tree",
+"x": 413.73,
+"z": -1650.68,
+"rot": 129.8,
+"group": "Gardens",
+"scale": 0.858
+},
+{
+"model": "A32_maple_autumn",
+"x": 182.28,
+"z": -1789.24,
+"rot": 82.2,
+"group": "Gardens",
+"scale": 0.948
+},
+{
+"model": "A28_birch_2",
+"x": -322.79,
+"z": -1314.43,
+"rot": 51.0,
+"group": "Gardens",
+"scale": 0.81
+},
+{
+"model": "A34_fruit_tree",
+"x": -351.18,
+"z": -1778.75,
+"rot": 26.0,
+"group": "Gardens",
+"scale": 0.876
+},
+{
+"model": "A28_birch_2",
+"x": 289.48,
+"z": -1652.6,
+"rot": 291.2,
+"group": "Gardens",
+"scale": 0.837
+},
+{
+"model": "A27_birch_1",
+"x": 387.4,
+"z": -1321.94,
+"rot": 218.5,
+"group": "Gardens",
+"scale": 0.931
+},
+{
+"model": "A28_birch_2",
+"x": 387.32,
+"z": -1784.13,
+"rot": 219.9,
+"group": "Gardens",
+"scale": 0.825
+},
+{
+"model": "A25_oak_2",
+"x": 341.2,
+"z": -1763.11,
+"rot": 177.8,
+"group": "Gardens",
+"scale": 1.08
+},
+{
+"model": "A26_oak_3",
+"x": 283.95,
+"z": -1329.35,
+"rot": 19.6,
+"group": "Gardens",
+"scale": 0.783
+},
+{
+"model": "A27_birch_1",
+"x": -362.03,
+"z": -1320.62,
+"rot": 152.0,
+"group": "Gardens",
+"scale": 1.086
+},
+{
+"model": "A28_birch_2",
+"x": -160.86,
+"z": -1457.91,
+"rot": 201.6,
+"group": "Gardens",
+"scale": 0.751
+},
+{
+"model": "A28_birch_2",
+"x": 383.77,
+"z": -1462.19,
+"rot": 117.8,
+"group": "Gardens",
+"scale": 0.769
+},
+{
+"model": "A24_oak_1",
+"x": -398.82,
+"z": -1632.86,
+"rot": 2.9,
+"group": "Gardens",
+"scale": 1.005
+},
+{
+"model": "A27_birch_1",
+"x": 417.29,
+"z": -1623.96,
+"rot": 98.3,
+"group": "Gardens",
+"scale": 0.952
+},
+{
+"model": "A32_maple_autumn",
+"x": -134.97,
+"z": -1314.17,
+"rot": 21.9,
+"group": "Gardens"
+},
+{
+"model": "A32_maple_autumn",
+"x": -291.38,
+"z": -1493.01,
+"rot": 139.3,
+"group": "Gardens",
+"scale": 0.774
+},
+{
+"model": "A34_fruit_tree",
+"x": -194.17,
+"z": -1320.29,
+"rot": 165.3,
+"group": "Gardens",
+"scale": 0.833
+},
+{
+"model": "A26_oak_3",
+"x": 306.23,
+"z": -1603.15,
+"rot": 12.7,
+"group": "Gardens",
+"scale": 0.872
+},
+{
+"model": "A27_birch_1",
+"x": -164.31,
+"z": -1769.59,
+"rot": 313.2,
+"group": "Gardens",
+"scale": 1.03
+},
+{
+"model": "A34_fruit_tree",
+"x": -132.26,
+"z": -1778.61,
+"rot": 271.1,
+"group": "Gardens",
+"scale": 1.086
+},
+{
+"model": "A34_fruit_tree",
+"x": 183.86,
+"z": -1647.1,
+"rot": 185.0,
+"group": "Gardens",
+"scale": 1.037
+},
+{
+"model": "A27_birch_1",
+"x": 139.52,
+"z": -1319.38,
+"rot": 187.1,
+"group": "Gardens",
+"scale": 0.879
+},
+{
+"model": "A26_oak_3",
+"x": -410.71,
+"z": -1430.34,
+"rot": 198.3,
+"group": "Gardens",
+"scale": 0.982
+},
+{
+"model": "A34_fruit_tree",
+"x": -69.46,
+"z": -1764.99,
+"rot": 346.0,
+"group": "Gardens",
+"scale": 1.044
+},
+{
+"model": "A28_birch_2",
+"x": -150.23,
+"z": -1477.84,
+"rot": 307.9,
+"group": "Gardens",
+"scale": 0.793
+},
+{
+"model": "A27_birch_1",
+"x": -97.05,
+"z": -1316.62,
+"rot": 124.4,
+"group": "Gardens",
+"scale": 0.76
+},
+{
+"model": "A34_fruit_tree",
+"x": 174.8,
+"z": -1318.53,
+"rot": 356.5,
+"group": "Gardens",
+"scale": 0.99
+},
+{
+"model": "A26_oak_3",
+"x": 412.76,
+"z": -1425.25,
+"rot": 340.1,
+"group": "Gardens",
+"scale": 0.822
+},
+{
+"model": "A26_oak_3",
+"x": -184.78,
+"z": -1477.35,
+"rot": 278.2,
+"group": "Gardens",
+"scale": 0.871
+},
+{
+"model": "A26_oak_3",
+"x": 284.1,
+"z": -1589.78,
+"rot": 164.8,
+"group": "Gardens",
+"scale": 0.904
+},
+{
+"model": "A27_birch_1",
+"x": 187.95,
+"z": -1758.77,
+"rot": 351.4,
+"group": "Gardens",
+"scale": 0.846
+},
+{
+"model": "A28_birch_2",
+"x": -284.89,
+"z": -1619.87,
+"rot": 91.3,
+"group": "Gardens",
+"scale": 1.013
+},
+{
+"model": "A28_birch_2",
+"x": -353.25,
+"z": -1494.35,
+"rot": 197.2,
+"group": "Gardens",
+"scale": 1.064
+},
+{
+"model": "A26_oak_3",
+"x": 139.0,
+"z": -1779.18,
+"rot": 349.2,
+"group": "Gardens",
+"scale": 0.902
+},
+{
+"model": "A26_oak_3",
+"x": 150.28,
+"z": -1450.14,
+"rot": 270.0,
+"group": "Gardens",
+"scale": 0.898
+},
+{
+"model": "A32_maple_autumn",
+"x": 160.09,
+"z": -1763.21,
+"rot": 23.7,
+"group": "Gardens",
+"scale": 0.802
+},
+{
+"model": "A25_oak_2",
+"x": 296.62,
+"z": -1769.06,
+"rot": 231.3,
+"group": "Gardens",
+"scale": 0.919
+},
+{
+"model": "A34_fruit_tree",
+"x": -411.4,
+"z": -1763.96,
+"rot": 343.0,
+"group": "Gardens",
+"scale": 0.999
+},
+{
+"model": "A26_oak_3",
+"x": 79.52,
+"z": -1313.25,
+"rot": 329.3,
+"group": "Gardens",
+"scale": 0.852
+},
+{
+"model": "A28_birch_2",
+"x": 139.35,
+"z": -1481.12,
+"rot": 281.3,
+"group": "Gardens",
+"scale": 0.85
+},
+{
+"model": "A26_oak_3",
+"x": -327.42,
+"z": -1646.6,
+"rot": 127.1,
+"group": "Gardens",
+"scale": 0.752
+},
+{
+"model": "A34_fruit_tree",
+"x": -380.5,
+"z": -1466.13,
+"rot": 168.5,
+"group": "Gardens",
+"scale": 0.891
+},
+{
+"model": "A26_oak_3",
+"x": 289.15,
+"z": -1495.98,
+"rot": 314.3,
+"group": "Gardens",
+"scale": 1.013
+},
+{
+"model": "A26_oak_3",
+"x": -367.05,
+"z": -1759.98,
+"rot": 301.0,
+"group": "Gardens",
+"scale": 0.863
+},
+{
+"model": "A34_fruit_tree",
+"x": 319.47,
+"z": -1789.92,
+"rot": 38.9,
+"group": "Gardens",
+"scale": 0.993
+},
+{
+"model": "A34_fruit_tree",
+"x": 110.72,
+"z": -1422.31,
+"rot": 125.5,
+"group": "Gardens",
+"scale": 0.895
+},
+{
+"model": "A26_oak_3",
+"x": -299.85,
+"z": -1655.8,
+"rot": 13.9,
+"group": "Gardens",
+"scale": 1.029
+},
+{
+"model": "A32_maple_autumn",
+"x": -288.51,
+"z": -1784.56,
+"rot": 122.5,
+"group": "Gardens",
+"scale": 0.969
+},
+{
+"model": "A28_birch_2",
+"x": 324.52,
+"z": -1457.21,
+"rot": 355.8,
+"group": "Gardens",
+"scale": 0.885
+},
+{
+"model": "A27_birch_1",
+"x": -322.24,
+"z": -1480.25,
+"rot": 200.2,
+"group": "Gardens",
+"scale": 1.09
+},
+{
+"model": "A32_maple_autumn",
+"x": -144.81,
+"z": -1427.15,
+"rot": 95.0,
+"group": "Gardens",
+"scale": 1.039
+},
+{
+"model": "A27_birch_1",
+"x": -319.45,
+"z": -1604.26,
+"rot": 65.7,
+"group": "Gardens",
+"scale": 0.89
+},
+{
+"model": "A28_birch_2",
+"x": -362.42,
+"z": -1623.01,
+"rot": 145.7,
+"group": "Gardens",
+"scale": 0.888
+},
+{
+"model": "A26_oak_3",
+"x": -302.35,
+"z": -1453.16,
+"rot": 51.5,
+"group": "Gardens",
+"scale": 0.885
+},
+{
+"model": "A34_fruit_tree",
+"x": -377.2,
+"z": -1784.72,
+"rot": 22.7,
+"group": "Gardens",
+"scale": 0.753
+},
+{
+"model": "A26_oak_3",
+"x": 298.42,
+"z": -1429.35,
+"rot": 343.6,
+"group": "Gardens",
+"scale": 0.786
+},
+{
+"model": "A34_fruit_tree",
+"x": 312.79,
+"z": -1659.28,
+"rot": 105.4,
+"group": "Gardens",
+"scale": 0.752
+},
+{
+"model": "A32_maple_autumn",
+"x": 94.79,
+"z": -1760.21,
+"rot": 248.5,
+"group": "Gardens",
+"scale": 1.022
+},
+{
+"model": "A34_fruit_tree",
+"x": -306.91,
+"z": -1763.8,
+"rot": 151.7,
+"group": "Gardens",
+"scale": 0.958
+},
+{
+"model": "A26_oak_3",
+"x": 159.08,
+"z": -1470.22,
+"rot": 160.7,
+"group": "Gardens",
+"scale": 0.997
+},
+{
+"model": "A27_birch_1",
+"x": 186.36,
+"z": -1487.17,
+"rot": 218.6,
+"group": "Gardens",
+"scale": 1.017
+},
+{
+"model": "A27_birch_1",
+"x": 353.65,
+"z": -1664.04,
+"rot": 294.4,
+"group": "Gardens",
+"scale": 0.86
+},
+{
+"model": "A28_birch_2",
+"x": -354.26,
+"z": -1655.97,
+"rot": 349.8,
+"group": "Gardens",
+"scale": 1.025
+},
+{
+"model": "A28_birch_2",
+"x": 177.73,
+"z": -1458.41,
+"rot": 253.7,
+"group": "Gardens",
+"scale": 1.042
+},
+{
+"model": "A34_fruit_tree",
+"x": 392.72,
+"z": -1422.43,
+"rot": 263.5,
+"group": "Gardens",
+"scale": 0.894
+},
+{
+"model": "A34_fruit_tree",
+"x": -301.81,
+"z": -1314.25,
+"rot": 278.2,
+"group": "Gardens",
+"scale": 0.806
+},
+{
+"model": "A26_oak_3",
+"x": 124.21,
+"z": -1756.46,
+"rot": 266.5,
+"group": "Gardens",
+"scale": 0.771
+},
+{
+"model": "A34_fruit_tree",
+"x": 348.61,
+"z": -1460.01,
+"rot": 315.4,
+"group": "Gardens",
+"scale": 0.827
+},
+{
+"model": "A26_oak_3",
+"x": 356.11,
+"z": -1790.5,
+"rot": 184.8,
+"group": "Gardens",
+"scale": 0.926
+},
+{
+"model": "A28_birch_2",
+"x": 70.68,
+"z": -1332.08,
+"rot": 131.7,
+"group": "Gardens",
+"scale": 0.824
+},
+{
+"model": "A26_oak_3",
+"x": -387.43,
+"z": -1434.65,
+"rot": 234.4,
+"group": "Gardens",
+"scale": 0.832
+},
+{
+"model": "A34_fruit_tree",
+"x": -328.34,
+"z": -1787.53,
+"rot": 104.4,
+"group": "Gardens",
+"scale": 0.875
+},
+{
+"model": "A34_fruit_tree",
+"x": -399.54,
+"z": -1787.23,
+"rot": 59.8,
+"group": "Gardens",
+"scale": 0.792
+},
+{
+"model": "A34_fruit_tree",
+"x": -134.83,
+"z": -1490.26,
+"rot": 303.2,
+"group": "Gardens",
+"scale": 0.758
+},
+{
+"model": "A32_maple_autumn",
+"x": -404.25,
+"z": -1589.4,
+"rot": 256.4,
+"group": "Gardens",
+"scale": 0.855
+},
+{
+"model": "A26_oak_3",
+"x": -104.3,
+"z": -1792.27,
+"rot": 47.7,
+"group": "Gardens",
+"scale": 0.752
+},
+{
+"model": "A26_oak_3",
+"x": 410.8,
+"z": -1492.43,
+"rot": 90.8,
+"group": "Gardens",
+"scale": 0.778
+},
+{
+"model": "A39_bush_2",
+"x": 219.68,
+"z": -1877.15,
+"rot": 36.6,
+"group": "Gardens",
+"scale": 0.992
+},
+{
+"model": "A40_bush_3",
+"x": 475.18,
+"z": -1607.62,
+"rot": 101.2,
+"group": "Gardens",
+"scale": 1.025
+},
+{
+"model": "A40_bush_3",
+"x": -412.35,
+"z": -1800.24,
+"rot": 38.1,
+"group": "Gardens",
+"scale": 0.929
+},
+{
+"model": "A38_bush_1",
+"x": -267.88,
+"z": -1333.22,
+"rot": 150.9,
+"group": "Gardens",
+"scale": 0.904
+},
+{
+"model": "A40_bush_3",
+"x": 101.64,
+"z": -1603.07,
+"rot": 72.8,
+"group": "Gardens",
+"scale": 1.074
+},
+{
+"model": "A39_bush_2",
+"x": 195.41,
+"z": -1467.14,
+"rot": 332.3,
+"group": "Gardens",
+"scale": 0.808
+},
+{
+"model": "A40_bush_3",
+"x": 298.33,
+"z": -1793.83,
+"rot": 183.1,
+"group": "Gardens",
+"scale": 0.995
+},
+{
+"model": "A40_bush_3",
+"x": -321.7,
+"z": -1585.85,
+"rot": 225.3,
+"group": "Gardens",
+"scale": 0.803
+},
+{
+"model": "A40_bush_3",
+"x": 130.4,
+"z": -1586.27,
+"rot": 246.0,
+"group": "Gardens",
+"scale": 1.083
+},
+{
+"model": "A40_bush_3",
+"x": -474.47,
+"z": -1506.66,
+"rot": 79.3,
+"group": "Gardens",
+"scale": 1.039
+},
+{
+"model": "A38_bush_1",
+"x": -51.99,
+"z": -1878.05,
+"rot": 332.2,
+"group": "Gardens",
+"scale": 0.897
+},
+{
+"model": "A38_bush_1",
+"x": 355.7,
+"z": -1874.05,
+"rot": 324.5,
+"group": "Gardens",
+"scale": 0.952
+},
+{
+"model": "A39_bush_2",
+"x": 175.37,
+"z": -1666.88,
+"rot": 181.8,
+"group": "Gardens",
+"scale": 1.005
+},
+{
+"model": "A40_bush_3",
+"x": -162.57,
+"z": -1673.2,
+"rot": 187.5,
+"group": "Gardens",
+"scale": 0.945
+},
+{
+"model": "A39_bush_2",
+"x": -147.92,
+"z": -1499.79,
+"rot": 32.5,
+"group": "Gardens",
+"scale": 1.047
+},
+{
+"model": "A38_bush_1",
+"x": 222.6,
+"z": -1863.19,
+"rot": 8.9,
+"group": "Gardens",
+"scale": 0.88
+},
+{
+"model": "A38_bush_1",
+"x": -116.64,
+"z": -1487.78,
+"rot": 95.2,
+"group": "Gardens",
+"scale": 1.286
+},
+{
+"model": "A39_bush_2",
+"x": -351.25,
+"z": -1878.6,
+"rot": 73.4,
+"group": "Gardens",
+"scale": 0.871
+},
+{
+"model": "A40_bush_3",
+"x": -302.44,
+"z": -1634.74,
+"rot": 222.9,
+"group": "Gardens",
+"scale": 1.205
+},
+{
+"model": "A39_bush_2",
+"x": -407.37,
+"z": -1479.05,
+"rot": 172.8,
+"group": "Gardens",
+"scale": 1.051
+},
+{
+"model": "A40_bush_3",
+"x": -188.92,
+"z": -1759.77,
+"rot": 86.2,
+"group": "Gardens",
+"scale": 1.118
+},
+{
+"model": "A38_bush_1",
+"x": -394.2,
+"z": -1751.45,
+"rot": 326.6,
+"group": "Gardens",
+"scale": 0.891
+},
+{
+"model": "A40_bush_3",
+"x": 197.79,
+"z": -1672.4,
+"rot": 159.4,
+"group": "Gardens",
+"scale": 1.217
+},
+{
+"model": "A40_bush_3",
+"x": 338.55,
+"z": -1488.62,
+"rot": 9.0,
+"group": "Gardens",
+"scale": 1.287
+},
+{
+"model": "A38_bush_1",
+"x": 300.25,
+"z": -1634.1,
+"rot": 106.4,
+"group": "Gardens",
+"scale": 0.858
+},
+{
+"model": "A39_bush_2",
+"x": 418.61,
+"z": -1336.99,
+"rot": 187.0,
+"group": "Gardens",
+"scale": 1.064
+},
+{
+"model": "A38_bush_1",
+"x": 105.97,
+"z": -1304.04,
+"rot": 333.1,
+"group": "Gardens",
+"scale": 1.124
+},
+{
+"model": "A40_bush_3",
+"x": 221.22,
+"z": -1798.16,
+"rot": 234.8,
+"group": "Gardens",
+"scale": 0.962
+},
+{
+"model": "A40_bush_3",
+"x": -276.14,
+"z": -1585.62,
+"rot": 23.1,
+"group": "Gardens",
+"scale": 1.129
+},
+{
+"model": "A40_bush_3",
+"x": 105.98,
+"z": -1497.97,
+"rot": 98.2,
+"group": "Gardens",
+"scale": 1.102
+},
+{
+"model": "A39_bush_2",
+"x": 298.46,
+"z": -1674.79,
+"rot": 81.9,
+"group": "Gardens",
+"scale": 0.84
+},
+{
+"model": "A39_bush_2",
+"x": -286.51,
+"z": -1599.88,
+"rot": 6.1,
+"group": "Gardens",
+"scale": 0.978
+},
+{
+"model": "A40_bush_3",
+"x": 417.53,
+"z": -1599.97,
+"rot": 78.5,
+"group": "Gardens",
+"scale": 1.219
+},
+{
+"model": "A40_bush_3",
+"x": -137.66,
+"z": -1751.09,
+"rot": 48.2,
+"group": "Gardens",
+"scale": 1.203
+},
+{
+"model": "A38_bush_1",
+"x": -278.31,
+"z": -1311.0,
+"rot": 84.4,
+"group": "Gardens",
+"scale": 0.989
+},
+{
+"model": "A39_bush_2",
+"x": 106.66,
+"z": -1668.92,
+"rot": 257.1,
+"group": "Gardens",
+"scale": 0.808
+},
+{
+"model": "A40_bush_3",
+"x": 98.02,
+"z": -1786.06,
+"rot": 43.1,
+"group": "Gardens",
+"scale": 1.137
+},
+{
+"model": "A40_bush_3",
+"x": -124.72,
+"z": -1427.91,
+"rot": 302.2,
+"group": "Gardens",
+"scale": 0.951
+},
+{
+"model": "A40_bush_3",
+"x": 416.5,
+"z": -1752.8,
+"rot": 266.1,
+"group": "Gardens",
+"scale": 0.994
+},
+{
+"model": "A40_bush_3",
+"x": -152.41,
+"z": -1754.42,
+"rot": 299.0,
+"group": "Gardens",
+"scale": 1.195
+},
+{
+"model": "A38_bush_1",
+"x": 156.07,
+"z": -1504.59,
+"rot": 314.4,
+"group": "Gardens",
+"scale": 1.299
+},
+{
+"model": "A40_bush_3",
+"x": -203.98,
+"z": -1793.54,
+"rot": 28.1,
+"group": "Gardens",
+"scale": 1.226
+},
+{
+"model": "A38_bush_1",
+"x": 274.84,
+"z": -1636.95,
+"rot": 233.7,
+"group": "Gardens",
+"scale": 0.85
+},
+{
+"model": "A38_bush_1",
+"x": -373.52,
+"z": -1481.31,
+"rot": 119.9,
+"group": "Gardens",
+"scale": 1.202
+},
+{
+"model": "A40_bush_3",
+"x": 317.25,
+"z": -1428.99,
+"rot": 224.3,
+"group": "Gardens",
+"scale": 1.241
+},
+{
+"model": "A38_bush_1",
+"x": -370.42,
+"z": -1663.67,
+"rot": 191.3,
+"group": "Gardens",
+"scale": 1.092
+},
+{
+"model": "A38_bush_1",
+"x": 433.36,
+"z": -1877.02,
+"rot": 43.0,
+"group": "Gardens",
+"scale": 0.981
+},
+{
+"model": "A40_bush_3",
+"x": -382.63,
+"z": -1797.25,
+"rot": 333.3,
+"group": "Gardens",
+"scale": 0.942
+},
+{
+"model": "A40_bush_3",
+"x": 51.55,
+"z": -1389.23,
+"rot": 87.7,
+"group": "Gardens",
+"scale": 0.826
+},
+{
+"model": "A38_bush_1",
+"x": -367.53,
+"z": -1597.01,
+"rot": 319.5,
+"group": "Gardens",
+"scale": 1.207
+},
+{
+"model": "A39_bush_2",
+"x": -341.83,
+"z": -1758.03,
+"rot": 147.8,
+"group": "Gardens",
+"scale": 1.226
+},
+{
+"model": "A40_bush_3",
+"x": 274.47,
+"z": -1608.01,
+"rot": 272.7,
+"group": "Gardens",
+"scale": 0.944
+},
+{
+"model": "A38_bush_1",
+"x": 304.36,
+"z": -1505.93,
+"rot": 185.6,
+"group": "Gardens",
+"scale": 1.23
+},
+{
+"model": "A40_bush_3",
+"x": -129.34,
+"z": -1582.26,
+"rot": 276.1,
+"group": "Gardens",
+"scale": 1.111
+},
+{
+"model": "A40_bush_3",
+"x": -122.16,
+"z": -1414.33,
+"rot": 206.6,
+"group": "Gardens",
+"scale": 0.821
+},
+{
+"model": "A40_bush_3",
+"x": -425.14,
+"z": -1618.32,
+"rot": 178.4,
+"group": "Gardens",
+"scale": 0.849
+},
+{
+"model": "A40_bush_3",
+"x": 388.54,
+"z": -1506.38,
+"rot": 97.5,
+"group": "Gardens",
+"scale": 0.872
+},
+{
+"model": "A39_bush_2",
+"x": -420.7,
+"z": -1596.27,
+"rot": 290.1,
+"group": "Gardens",
+"scale": 0.862
+},
+{
+"model": "A38_bush_1",
+"x": -102.13,
+"z": -1298.86,
+"rot": 64.7,
+"group": "Gardens",
+"scale": 1.248
+},
+{
+"model": "A38_bush_1",
+"x": -335.25,
+"z": -1305.16,
+"rot": 257.3,
+"group": "Gardens",
+"scale": 1.064
+},
+{
+"model": "A38_bush_1",
+"x": 310.31,
+"z": -1440.95,
+"rot": 59.7,
+"group": "Gardens",
+"scale": 0.852
+},
+{
+"model": "A40_bush_3",
+"x": 108.34,
+"z": -1586.66,
+"rot": 353.5,
+"group": "Gardens",
+"scale": 1.249
+},
+{
+"model": "A40_bush_3",
+"x": -285.86,
+"z": -1764.87,
+"rot": 12.7,
+"group": "Gardens",
+"scale": 1.008
+},
+{
+"model": "A38_bush_1",
+"x": 475.43,
+"z": -1618.14,
+"rot": 195.6,
+"group": "Gardens",
+"scale": 1.079
+},
+{
+"model": "A38_bush_1",
+"x": 364.48,
+"z": -1757.36,
+"rot": 253.3,
+"group": "Gardens",
+"scale": 0.849
+},
+{
+"model": "A40_bush_3",
+"x": 167.75,
+"z": -1799.73,
+"rot": 187.4,
+"group": "Gardens",
+"scale": 0.922
+},
+{
+"model": "A40_bush_3",
+"x": -172.32,
+"z": -1417.71,
+"rot": 152.1,
+"group": "Gardens",
+"scale": 1.051
+},
+{
+"model": "A38_bush_1",
+"x": 159.85,
+"z": -1648.06,
+"rot": 60.1,
+"group": "Gardens",
+"scale": 0.806
+},
+{
+"model": "A40_bush_3",
+"x": -105.5,
+"z": -1877.13,
+"rot": 226.8,
+"group": "Gardens"
+},
+{
+"model": "A40_bush_3",
+"x": 418.35,
+"z": -1475.26,
+"rot": 76.4,
+"group": "Gardens",
+"scale": 0.83
+},
+{
+"model": "A40_bush_3",
+"x": -186.16,
+"z": -1456.43,
+"rot": 218.6,
+"group": "Gardens",
+"scale": 1.114
+},
+{
+"model": "A40_bush_3",
+"x": -272.42,
+"z": -1475.67,
+"rot": 132.9,
+"group": "Gardens",
+"scale": 0.947
+},
+{
+"model": "A38_bush_1",
+"x": 95.62,
+"z": -1340.02,
+"rot": 358.5,
+"group": "Gardens",
+"scale": 0.851
+},
+{
+"model": "A40_bush_3",
+"x": -347.11,
+"z": -1609.45,
+"rot": 316.3,
+"group": "Gardens",
+"scale": 1.291
+},
+{
+"model": "A38_bush_1",
+"x": -135.02,
+"z": -1454.13,
+"rot": 126.4,
+"group": "Gardens",
+"scale": 0.924
+},
+{
+"model": "A40_bush_3",
+"x": 64.07,
+"z": -1530.34,
+"rot": 256.8,
+"group": "Gardens",
+"scale": 1.094
+},
+{
+"model": "A40_bush_3",
+"x": 132.1,
+"z": -1500.54,
+"rot": 188.1,
+"group": "Gardens",
+"scale": 0.886
+},
+{
+"model": "A39_bush_2",
+"x": 407.88,
+"z": -1300.07,
+"rot": 84.2,
+"group": "Gardens",
+"scale": 0.921
+},
+{
+"model": "A38_bush_1",
+"x": 377.34,
+"z": -1590.54,
+"rot": 192.1,
+"group": "Gardens",
+"scale": 1.215
+},
+{
+"model": "A38_bush_1",
+"x": -69.47,
+"z": -1322.48,
+"rot": 232.3,
+"group": "Gardens",
+"scale": 0.82
+},
+{
+"model": "A40_bush_3",
+"x": -69.61,
+"z": -1336.52,
+"rot": 221.2,
+"group": "Gardens",
+"scale": 0.863
+},
+{
+"model": "A40_bush_3",
+"x": 275.13,
+"z": -1306.74,
+"rot": 297.9,
+"group": "Gardens",
+"scale": 0.835
+},
+{
+"model": "A40_bush_3",
+"x": -473.76,
+"z": -1785.52,
+"rot": 52.9,
+"group": "Gardens",
+"scale": 0.883
+},
+{
+"model": "A38_bush_1",
+"x": 97.48,
+"z": -1250.23,
+"rot": 269.4,
+"group": "Gardens",
+"scale": 0.874
+},
+{
+"model": "A40_bush_3",
+"x": 378.53,
+"z": -1670.87,
+"rot": 251.1,
+"group": "Gardens",
+"scale": 1.249
+},
+{
+"model": "A40_bush_3",
+"x": 284.83,
+"z": -1429.56,
+"rot": 258.2,
+"group": "Gardens",
+"scale": 0.966
+},
+{
+"model": "A38_bush_1",
+"x": -111.37,
+"z": -1501.34,
+"rot": 313.8,
+"group": "Gardens",
+"scale": 0.956
+},
+{
+"model": "A40_bush_3",
+"x": 125.71,
+"z": -1672.98,
+"rot": 143.8,
+"group": "Gardens",
+"scale": 0.815
+},
+{
+"model": "A38_bush_1",
+"x": 150.43,
+"z": -1660.84,
+"rot": 104.2,
+"group": "Gardens",
+"scale": 0.943
+},
+{
+"model": "A39_bush_2",
+"x": 331.22,
+"z": -1502.43,
+"rot": 120.0,
+"group": "Gardens",
+"scale": 1.167
+},
+{
+"model": "A39_bush_2",
+"x": -298.26,
+"z": -1432.96,
+"rot": 219.3,
+"group": "Gardens",
+"scale": 0.941
+},
+{
+"model": "A40_bush_3",
+"x": 422.59,
+"z": -1776.54,
+"rot": 261.3,
+"group": "Gardens",
+"scale": 1.163
+},
+{
+"model": "A38_bush_1",
+"x": 105.23,
+"z": -1437.51,
+"rot": 268.4,
+"group": "Gardens",
+"scale": 0.886
+},
+{
+"model": "A39_bush_2",
+"x": 64.8,
+"z": -1764.94,
+"rot": 313.9,
+"group": "Gardens",
+"scale": 1.144
+},
+{
+"model": "A40_bush_3",
+"x": 308.32,
+"z": -1326.71,
+"rot": 112.8,
+"group": "Gardens",
+"scale": 1.268
+},
+{
+"model": "A40_bush_3",
+"x": -293.56,
+"z": -1673.45,
+"rot": 54.6,
+"group": "Gardens",
+"scale": 1.039
+},
+{
+"model": "A39_bush_2",
+"x": 139.68,
+"z": -1467.76,
+"rot": 277.9,
+"group": "Gardens",
+"scale": 0.863
+},
+{
+"model": "A38_bush_1",
+"x": -162.36,
+"z": -1494.38,
+"rot": 188.5,
+"group": "Gardens",
+"scale": 0.931
+},
+{
+"model": "A40_bush_3",
+"x": 165.07,
+"z": -1634.41,
+"rot": 222.3,
+"group": "Gardens",
+"scale": 1.07
+},
+{
+"model": "A40_bush_3",
+"x": 277.0,
+"z": -1880.96,
+"rot": 284.0,
+"group": "Gardens",
+"scale": 1.114
+},
+{
+"model": "A38_bush_1",
+"x": 93.09,
+"z": -1302.57,
+"rot": 24.2,
+"group": "Gardens",
+"scale": 0.852
+},
+{
+"model": "A40_bush_3",
+"x": -170.52,
+"z": -1445.1,
+"rot": 6.4,
+"group": "Gardens",
+"scale": 0.841
+},
+{
+"model": "A40_bush_3",
+"x": -152.47,
+"z": -1796.06,
+"rot": 264.2,
+"group": "Gardens",
+"scale": 0.858
+},
+{
+"model": "A38_bush_1",
+"x": 377.05,
+"z": -1876.4,
+"rot": 265.2,
+"group": "Gardens",
+"scale": 0.893
+},
+{
+"model": "A40_bush_3",
+"x": 42.62,
+"z": -1312.66,
+"rot": 172.8,
+"group": "Gardens",
+"scale": 0.818
+},
+{
+"model": "A40_bush_3",
+"x": -52.38,
+"z": -1334.19,
+"rot": 156.3,
+"group": "Gardens",
+"scale": 0.854
+},
+{
+"model": "A38_bush_1",
+"x": 378.75,
+"z": -1423.13,
+"rot": 43.2,
+"group": "Gardens",
+"scale": 0.944
+},
+{
+"model": "A40_bush_3",
+"x": -103.21,
+"z": -1770.39,
+"rot": 328.8,
+"group": "Gardens",
+"scale": 1.249
+},
+{
+"model": "A38_bush_1",
+"x": -124.52,
+"z": -1502.91,
+"rot": 17.6,
+"group": "Gardens",
+"scale": 1.179
+},
+{
+"model": "A40_bush_3",
+"x": 140.07,
+"z": -1433.49,
+"rot": 222.2,
+"group": "Gardens",
+"scale": 0.831
+},
+{
+"model": "A40_bush_3",
+"x": -427.95,
+"z": -1607.97,
+"rot": 292.8,
+"group": "Gardens",
+"scale": 0.96
+},
+{
+"model": "A38_bush_1",
+"x": 164.94,
+"z": -1336.83,
+"rot": 274.9,
+"group": "Gardens",
+"scale": 1.05
+},
+{
+"model": "A40_bush_3",
+"x": -173.75,
+"z": -1801.47,
+"rot": 207.5,
+"group": "Gardens",
+"scale": 0.805
+},
+{
+"model": "A39_bush_2",
+"x": -121.36,
+"z": -1335.25,
+"rot": 126.6,
+"group": "Gardens",
+"scale": 0.909
+},
+{
+"model": "A38_bush_1",
+"x": 403.83,
+"z": -1880.44,
+"rot": 150.7,
+"group": "Gardens",
+"scale": 0.876
+},
+{
+"model": "A38_bush_1",
+"x": 320.57,
+"z": -1412.03,
+"rot": 82.2,
+"group": "Gardens",
+"scale": 1.002
+},
+{
+"model": "A38_bush_1",
+"x": -343.0,
+"z": -1475.22,
+"rot": 325.6,
+"group": "Gardens",
+"scale": 1.129
+},
+{
+"model": "A38_bush_1",
+"x": -101.74,
+"z": -1673.03,
+"rot": 249.9,
+"group": "Gardens",
+"scale": 0.86
+},
+{
+"model": "A40_bush_3",
+"x": -398.14,
+"z": -1671.28,
+"rot": 144.9,
+"group": "Gardens",
+"scale": 1.215
+},
+{
+"model": "A38_bush_1",
+"x": 419.71,
+"z": -1673.61,
+"rot": 87.7,
+"group": "Gardens",
+"scale": 1.191
+},
+{
+"model": "A38_bush_1",
+"x": -303.42,
+"z": -1336.39,
+"rot": 222.7,
+"group": "Gardens",
+"scale": 1.012
+},
+{
+"model": "A38_bush_1",
+"x": 288.12,
+"z": -1632.09,
+"rot": 170.6,
+"group": "Gardens",
+"scale": 1.298
+},
+{
+"model": "A40_bush_3",
+"x": -225.32,
+"z": -1581.34,
+"rot": 248.0,
+"group": "Gardens",
+"scale": 0.897
+},
+{
+"model": "A40_bush_3",
+"x": 420.59,
+"z": -1448.12,
+"rot": 180.7,
+"group": "Gardens",
+"scale": 1.002
+},
+{
+"model": "A40_bush_3",
+"x": -163.01,
+"z": -1300.01,
+"rot": 144.7,
+"group": "Gardens",
+"scale": 0.94
+},
+{
+"model": "A40_bush_3",
+"x": 128.8,
+"z": -1339.87,
+"rot": 42.7,
+"group": "Gardens",
+"scale": 0.878
+},
+{
+"model": "A40_bush_3",
+"x": -276.51,
+"z": -1673.6,
+"rot": 276.3,
+"group": "Gardens",
+"scale": 0.965
+},
+{
+"model": "A38_bush_1",
+"x": 395.04,
+"z": -1625.93,
+"rot": 202.0,
+"group": "Gardens",
+"scale": 0.956
+},
+{
+"model": "A40_bush_3",
+"x": 128.26,
+"z": -1798.26,
+"rot": 167.2,
+"group": "Gardens",
+"scale": 0.907
+},
+{
+"model": "A39_bush_2",
+"x": -122.99,
+"z": -1750.15,
+"rot": 118.1,
+"group": "Gardens",
+"scale": 0.83
+},
+{
+"model": "A40_bush_3",
+"x": 419.15,
+"z": -1436.03,
+"rot": 70.6,
+"group": "Gardens",
+"scale": 1.286
+},
+{
+"model": "A38_bush_1",
+"x": -379.38,
+"z": -1505.33,
+"rot": 218.3,
+"group": "Gardens",
+"scale": 0.9
+},
+{
+"model": "A40_bush_3",
+"x": 291.07,
+"z": -1620.83,
+"rot": 324.2,
+"group": "Gardens",
+"scale": 0.816
+},
+{
+"model": "A39_bush_2",
+"x": 434.14,
+"z": -1791.79,
+"rot": 337.8,
+"group": "Gardens",
+"scale": 1.069
+},
+{
+"model": "A40_bush_3",
+"x": 112.05,
+"z": -1757.18,
+"rot": 141.4,
+"group": "Gardens",
+"scale": 0.948
+},
+{
+"model": "A40_bush_3",
+"x": -423.98,
+"z": -1310.52,
+"rot": 337.2,
+"group": "Gardens",
+"scale": 1.286
+},
+{
+"model": "A39_bush_2",
+"x": -304.21,
+"z": -1618.83,
+"rot": 282.9,
+"group": "Gardens",
+"scale": 1.156
+},
+{
+"model": "A38_bush_1",
+"x": 313.04,
+"z": -1302.92,
+"rot": 299.3,
+"group": "Gardens",
+"scale": 0.927
+},
+{
+"model": "A38_bush_1",
+"x": 199.99,
+"z": -1648.11,
+"rot": 350.5,
+"group": "Gardens",
+"scale": 0.864
+},
+{
+"model": "A40_bush_3",
+"x": -473.63,
+"z": -1290.52,
+"rot": 177.8,
+"group": "Gardens",
+"scale": 0.805
+},
+{
+"model": "A39_bush_2",
+"x": 375.53,
+"z": -1769.56,
+"rot": 269.8,
+"group": "Gardens",
+"scale": 1.092
+},
+{
+"model": "A40_bush_3",
+"x": 475.85,
+"z": -1794.11,
+"rot": 27.5,
+"group": "Gardens",
+"scale": 0.9
+},
+{
+"model": "A40_bush_3",
+"x": -199.72,
+"z": -1759.35,
+"rot": 40.3,
+"group": "Gardens",
+"scale": 1.05
+},
+{
+"model": "A38_bush_1",
+"x": 387.49,
+"z": -1447.32,
+"rot": 166.5,
+"group": "Gardens",
+"scale": 0.891
+},
+{
+"model": "A38_bush_1",
+"x": 333.97,
+"z": -1581.52,
+"rot": 181.1,
+"group": "Gardens",
+"scale": 1.212
+},
+{
+"model": "A38_bush_1",
+"x": -266.92,
+"z": -1877.9,
+"rot": 84.6,
+"group": "Gardens",
+"scale": 0.851
+},
+{
+"model": "A38_bush_1",
+"x": -389.11,
+"z": -1762.58,
+"rot": 234.4,
+"group": "Gardens",
+"scale": 1.213
+},
+{
+"model": "A38_bush_1",
+"x": -395.14,
+"z": -1419.33,
+"rot": 262.6,
+"group": "Gardens",
+"scale": 1.161
+},
+{
+"model": "A39_bush_2",
+"x": -393.43,
+"z": -1327.12,
+"rot": 315.2,
+"group": "Gardens",
+"scale": 1.238
+},
+{
+"model": "A40_bush_3",
+"x": -199.28,
+"z": -1464.01,
+"rot": 144.6,
+"group": "Gardens",
+"scale": 0.912
+},
+{
+"model": "A38_bush_1",
+"x": 196.36,
+"z": -1594.47,
+"rot": 262.9,
+"group": "Gardens",
+"scale": 0.941
+},
+{
+"model": "A40_bush_3",
+"x": -442.78,
+"z": -1802.22,
+"rot": 296.2,
+"group": "Gardens",
+"scale": 0.811
+},
+{
+"model": "A39_bush_2",
+"x": -341.88,
+"z": -1622.41,
+"rot": 198.6,
+"group": "Gardens",
+"scale": 0.882
+},
+{
+"model": "A38_bush_1",
+"x": 47.83,
+"z": -1875.91,
+"rot": 114.7,
+"group": "Gardens",
+"scale": 1.071
+},
+{
+"model": "A40_bush_3",
+"x": 361.67,
+"z": -1644.71,
+"rot": 161.2,
+"group": "Gardens",
+"scale": 0.828
+},
+{
+"model": "A39_bush_2",
+"x": 117.07,
+"z": -1317.32,
+"rot": 130.5,
+"group": "Gardens",
+"scale": 1.06
+},
+{
+"model": "A38_bush_1",
+"x": 403.65,
+"z": -1445.81,
+"rot": 284.3,
+"group": "Gardens",
+"scale": 1.137
+},
+{
+"model": "A40_bush_3",
+"x": 312.21,
+"z": -1750.19,
+"rot": 357.4,
+"group": "Gardens",
+"scale": 1.192
+},
+{
+"model": "A38_bush_1",
+"x": 400.89,
+"z": -1637.06,
+"rot": 12.1,
+"group": "Gardens",
+"scale": 0.862
+},
+{
+"model": "A38_bush_1",
+"x": -417.78,
+"z": -1506.69,
+"rot": 49.1,
+"group": "Gardens",
+"scale": 0.848
+},
+{
+"model": "A40_bush_3",
+"x": -175.34,
+"z": -1463.32,
+"rot": 207.0,
+"group": "Gardens",
+"scale": 0.835
+},
+{
+"model": "A39_bush_2",
+"x": -179.07,
+"z": -1502.82,
+"rot": 145.7,
+"group": "Gardens",
+"scale": 0.841
+},
+{
+"model": "A38_bush_1",
+"x": -475.63,
+"z": -1603.49,
+"rot": 209.5,
+"group": "Gardens",
+"scale": 1.075
+},
+{
+"model": "A38_bush_1",
+"x": -348.31,
+"z": -1634.32,
+"rot": 267.2,
+"group": "Gardens",
+"scale": 1.08
+},
+{
+"model": "A40_bush_3",
+"x": 370.28,
+"z": -1461.91,
+"rot": 186.9,
+"group": "Gardens",
+"scale": 0.938
+},
+{
+"model": "A39_bush_2",
+"x": -162.02,
+"z": -1316.55,
+"rot": 215.3,
+"group": "Gardens",
+"scale": 1.204
+},
+{
+"model": "A40_bush_3",
+"x": -414.4,
+"z": -1782.3,
+"rot": 276.9,
+"group": "Gardens",
+"scale": 1.032
+},
+{
+"model": "A38_bush_1",
+"x": -290.48,
+"z": -1302.92,
+"rot": 130.5,
+"group": "Gardens",
+"scale": 1.007
+},
+{
+"model": "A39_bush_2",
+"x": -364.49,
+"z": -1415.14,
+"rot": 135.2,
+"group": "Gardens",
+"scale": 0.816
+},
+{
+"model": "A40_bush_3",
+"x": 51.32,
+"z": -1327.87,
+"rot": 213.4,
+"group": "Gardens",
+"scale": 1.068
+},
+{
+"model": "A39_bush_2",
+"x": -370.3,
+"z": -1448.51,
+"rot": 273.3,
+"group": "Gardens",
+"scale": 0.915
+},
+{
+"model": "A38_bush_1",
+"x": 392.13,
+"z": -1479.29,
+"rot": 320.5,
+"group": "Gardens",
+"scale": 1.171
+},
+{
+"model": "A40_bush_3",
+"x": 474.33,
+"z": -1453.37,
+"rot": 175.6,
+"group": "Gardens",
+"scale": 1.113
+},
+{
+"model": "A38_bush_1",
+"x": 106.2,
+"z": -1509.72,
+"rot": 357.6,
+"group": "Gardens",
+"scale": 0.976
+},
+{
+"model": "A40_bush_3",
+"x": -474.18,
+"z": -1815.71,
+"rot": 20.6,
+"group": "Gardens",
+"scale": 0.814
+},
+{
+"model": "A38_bush_1",
+"x": -82.48,
+"z": -1329.45,
+"rot": 28.9,
+"group": "Gardens",
+"scale": 0.866
+},
+{
+"model": "A40_bush_3",
+"x": 197.89,
+"z": -1623.17,
+"rot": 135.5,
+"group": "Gardens",
+"scale": 1.055
+},
+{
+"model": "A40_bush_3",
+"x": -404.77,
+"z": -1305.09,
+"rot": 23.2,
+"group": "Gardens",
+"scale": 0.921
+},
+{
+"model": "A40_bush_3",
+"x": 341.05,
+"z": -1425.05,
+"rot": 257.6,
+"group": "Gardens",
+"scale": 1.181
+},
+{
+"model": "A39_bush_2",
+"x": 371.3,
+"z": -1653.71,
+"rot": 216.7,
+"group": "Gardens",
+"scale": 1.077
+},
+{
+"model": "A45_flowers_purple",
+"x": 176.81,
+"z": -1628.58,
+"rot": 92.3,
+"group": "Gardens",
+"scale": 1.022
+},
+{
+"model": "A44_flowers_yellow",
+"x": 161.95,
+"z": -1441.13,
+"rot": 117.1,
+"group": "Gardens",
+"scale": 1.19
+},
+{
+"model": "A46_flowers_white",
+"x": -383.77,
+"z": -1665.12,
+"rot": 18.1,
+"group": "Gardens",
+"scale": 1.102
+},
+{
+"model": "A43_flowers_red",
+"x": -313.82,
+"z": -1298.43,
+"rot": 323.7,
+"group": "Gardens",
+"scale": 1.006
+},
+{
+"model": "A46_flowers_white",
+"x": 199.34,
+"z": -1610.0,
+"rot": 273.8,
+"group": "Gardens",
+"scale": 1.272
+},
+{
+"model": "A46_flowers_white",
+"x": -188.95,
+"z": -1676.98,
+"rot": 294.1,
+"group": "Gardens",
+"scale": 1.179
+},
+{
+"model": "A47_flowers_blue",
+"x": -381.6,
+"z": -1317.87,
+"rot": 346.7,
+"group": "Gardens",
+"scale": 0.96
+},
+{
+"model": "A44_flowers_yellow",
+"x": 183.92,
+"z": -1630.18,
+"rot": 255.8,
+"group": "Gardens",
+"scale": 1.24
+},
+{
+"model": "A47_flowers_blue",
+"x": -475.91,
+"z": -1331.43,
+"rot": 107.7,
+"group": "Gardens",
+"scale": 1.163
+},
+{
+"model": "A44_flowers_yellow",
+"x": -479.68,
+"z": -1499.31,
+"rot": 347.8,
+"group": "Gardens",
+"scale": 0.908
+},
+{
+"model": "A44_flowers_yellow",
+"x": -357.92,
+"z": -1455.74,
+"rot": 65.0,
+"group": "Gardens",
+"scale": 1.025
+},
+{
+"model": "A45_flowers_purple",
+"x": 245.18,
+"z": -1904.24,
+"rot": 161.1,
+"group": "Gardens"
+},
+{
+"model": "A46_flowers_white",
+"x": -263.19,
+"z": -1850.25,
+"rot": 20.3,
+"group": "Gardens",
+"scale": 0.907
+},
+{
+"model": "A45_flowers_purple",
+"x": -314.83,
+"z": -1623.18,
+"rot": 97.6,
+"group": "Gardens",
+"scale": 0.963
+},
+{
+"model": "A46_flowers_white",
+"x": -68.84,
+"z": -1391.71,
+"rot": 199.7,
+"group": "Gardens",
+"scale": 1.28
+},
+{
+"model": "A46_flowers_white",
+"x": -359.41,
+"z": -1606.27,
+"rot": 231.1,
+"group": "Gardens",
+"scale": 1.014
+},
+{
+"model": "A46_flowers_white",
+"x": -19.1,
+"z": -1361.88,
+"rot": 316.6,
+"group": "Gardens",
+"scale": 0.915
+},
+{
+"model": "A43_flowers_red",
+"x": 390.98,
+"z": -1655.86,
+"rot": 350.6,
+"group": "Gardens",
+"scale": 1.081
+},
+{
+"model": "A47_flowers_blue",
+"x": -445.01,
+"z": -1906.54,
+"rot": 214.5,
+"group": "Gardens",
+"scale": 1.007
+},
+{
+"model": "A45_flowers_purple",
+"x": -376.93,
+"z": -1418.37,
+"rot": 167.4,
+"group": "Gardens",
+"scale": 1.253
+},
+{
+"model": "A44_flowers_yellow",
+"x": -91.15,
+"z": -1798.1,
+"rot": 285.4,
+"group": "Gardens",
+"scale": 1.002
+},
+{
+"model": "A47_flowers_blue",
+"x": 334.13,
+"z": -1591.04,
+"rot": 258.9,
+"group": "Gardens",
+"scale": 1.185
+},
+{
+"model": "A45_flowers_purple",
+"x": -338.01,
+"z": -1501.3,
+"rot": 304.9,
+"group": "Gardens",
+"scale": 0.907
+},
+{
+"model": "A44_flowers_yellow",
+"x": 330.08,
+"z": -1874.59,
+"rot": 320.2,
+"group": "Gardens",
+"scale": 1.165
+},
+{
+"model": "A44_flowers_yellow",
+"x": -204.52,
+"z": -1491.44,
+"rot": 73.0,
+"group": "Gardens",
+"scale": 1.299
+},
+{
+"model": "A43_flowers_red",
+"x": 159.7,
+"z": -1788.65,
+"rot": 127.8,
+"group": "Gardens",
+"scale": 1.298
+},
+{
+"model": "A45_flowers_purple",
+"x": 118.73,
+"z": -1500.44,
+"rot": 352.6,
+"group": "Gardens",
+"scale": 1.019
+},
+{
+"model": "A45_flowers_purple",
+"x": 132.85,
+"z": -1454.97,
+"rot": 154.4,
+"group": "Gardens",
+"scale": 0.99
+},
+{
+"model": "A44_flowers_yellow",
+"x": -80.42,
+"z": -1755.07,
+"rot": 122.4,
+"group": "Gardens",
+"scale": 0.921
+},
+{
+"model": "A46_flowers_white",
+"x": 284.22,
+"z": -1672.15,
+"rot": 202.9,
+"group": "Gardens",
+"scale": 0.992
+},
+{
+"model": "A43_flowers_red",
+"x": 291.61,
+"z": -1472.26,
+"rot": 288.6,
+"group": "Gardens",
+"scale": 1.236
+},
+{
+"model": "A46_flowers_white",
+"x": -252.2,
+"z": -1570.61,
+"rot": 305.2,
+"group": "Gardens",
+"scale": 1.078
+},
+{
+"model": "A43_flowers_red",
+"x": 332.81,
+"z": -1662.95,
+"rot": 26.9,
+"group": "Gardens",
+"scale": 1.134
+},
+{
+"model": "A43_flowers_red",
+"x": -171.02,
+"z": -1791.81,
+"rot": 5.6,
+"group": "Gardens",
+"scale": 1.276
+},
+{
+"model": "A47_flowers_blue",
+"x": 76.8,
+"z": -1873.06,
+"rot": 278.2,
+"group": "Gardens",
+"scale": 1.259
+},
+{
+"model": "A47_flowers_blue",
+"x": 147.7,
+"z": -1592.55,
+"rot": 285.6,
+"group": "Gardens",
+"scale": 1.069
+},
+{
+"model": "A44_flowers_yellow",
+"x": 288.45,
+"z": -1299.48,
+"rot": 341.1,
+"group": "Gardens",
+"scale": 1.138
+},
+{
+"model": "A46_flowers_white",
+"x": 203.74,
+"z": -1298.45,
+"rot": 245.5,
+"group": "Gardens",
+"scale": 1.011
+},
+{
+"model": "A46_flowers_white",
+"x": -182.2,
+"z": -1881.22,
+"rot": 72.9,
+"group": "Gardens",
+"scale": 0.902
+},
+{
+"model": "A47_flowers_blue",
+"x": 321.07,
+"z": -1775.8,
+"rot": 181.0,
+"group": "Gardens",
+"scale": 0.918
+},
+{
+"model": "A47_flowers_blue",
+"x": -89.55,
+"z": -1871.15,
+"rot": 68.2,
+"group": "Gardens",
+"scale": 1.053
+},
+{
+"model": "A43_flowers_red",
+"x": -390.7,
+"z": -1600.61,
+"rot": 181.4,
+"group": "Gardens",
+"scale": 1.132
+},
+{
+"model": "A43_flowers_red",
+"x": -192.59,
+"z": -1415.68,
+"rot": 226.0,
+"group": "Gardens",
+"scale": 1.268
+},
+{
+"model": "A44_flowers_yellow",
+"x": 104.93,
+"z": -1648.0,
+"rot": 185.8,
+"group": "Gardens",
+"scale": 1.037
+},
+{
+"model": "A44_flowers_yellow",
+"x": 158.62,
+"z": -1431.07,
+"rot": 134.5,
+"group": "Gardens",
+"scale": 1.116
+},
+{
+"model": "A45_flowers_purple",
+"x": -399.37,
+"z": -1462.98,
+"rot": 60.7,
+"group": "Gardens",
+"scale": 1.001
+},
+{
+"model": "A46_flowers_white",
+"x": 476.2,
+"z": -1709.64,
+"rot": 102.9,
+"group": "Gardens",
+"scale": 1.151
+},
+{
+"model": "A46_flowers_white",
+"x": 274.78,
+"z": -1600.32,
+"rot": 88.5,
+"group": "Gardens",
+"scale": 1.107
+},
+{
+"model": "A47_flowers_blue",
+"x": -384.75,
+"z": -1497.2,
+"rot": 296.0,
+"group": "Gardens",
+"scale": 0.971
+},
+{
+"model": "A43_flowers_red",
+"x": -391.28,
+"z": -1305.19,
+"rot": 222.1,
+"group": "Gardens",
+"scale": 1.054
+},
+{
+"model": "A44_flowers_yellow",
+"x": -414.73,
+"z": -1871.1,
+"rot": 211.3,
+"group": "Gardens",
+"scale": 0.971
+},
+{
+"model": "A44_flowers_yellow",
+"x": -391.0,
+"z": -1407.95,
+"rot": 177.7,
+"group": "Gardens",
+"scale": 1.017
+},
+{
+"model": "A46_flowers_white",
+"x": -152.08,
+"z": -1676.62,
+"rot": 0.0,
+"group": "Gardens",
+"scale": 1.25
+},
+{
+"model": "A46_flowers_white",
+"x": 184.53,
+"z": -1773.49,
+"rot": 264.2,
+"group": "Gardens",
+"scale": 1.277
+},
+{
+"model": "A45_flowers_purple",
+"x": 356.43,
+"z": -1608.47,
+"rot": 279.5,
+"group": "Gardens",
+"scale": 1.228
+},
+{
+"model": "A43_flowers_red",
+"x": 417.41,
+"z": -1307.43,
+"rot": 233.9,
+"group": "Gardens",
+"scale": 1.281
+},
+{
+"model": "A44_flowers_yellow",
+"x": 332.78,
+"z": -1439.31,
+"rot": 11.1,
+"group": "Gardens",
+"scale": 1.103
+},
+{
+"model": "A43_flowers_red",
+"x": 343.1,
+"z": -1651.79,
+"rot": 137.9,
+"group": "Gardens",
+"scale": 1.036
+},
+{
+"model": "A44_flowers_yellow",
+"x": -475.16,
+"z": -1572.56,
+"rot": 355.2,
+"group": "Gardens",
+"scale": 0.924
+},
+{
+"model": "A43_flowers_red",
+"x": 311.29,
+"z": -1878.31,
+"rot": 86.5,
+"group": "Gardens",
+"scale": 1.137
+},
+{
+"model": "A47_flowers_blue",
+"x": -111.06,
+"z": -1757.19,
+"rot": 139.1,
+"group": "Gardens",
+"scale": 0.936
+},
+{
+"model": "A44_flowers_yellow",
+"x": -473.73,
+"z": -1389.89,
+"rot": 271.2,
+"group": "Gardens",
+"scale": 0.99
+},
+{
+"model": "A44_flowers_yellow",
+"x": -95.52,
+"z": -1282.74,
+"rot": 175.9,
+"group": "Gardens",
+"scale": 0.904
+},
+{
+"model": "A44_flowers_yellow",
+"x": 473.0,
+"z": -1862.41,
+"rot": 10.9,
+"group": "Gardens",
+"scale": 1.052
+},
+{
+"model": "A43_flowers_red",
+"x": 168.23,
+"z": -1873.61,
+"rot": 38.6,
+"group": "Gardens",
+"scale": 0.923
+},
+{
+"model": "A45_flowers_purple",
+"x": 476.07,
+"z": -1649.96,
+"rot": 175.6,
+"group": "Gardens",
+"scale": 1.185
+},
+{
+"model": "A47_flowers_blue",
+"x": 423.34,
+"z": -1768.59,
+"rot": 161.9,
+"group": "Gardens",
+"scale": 0.929
+},
+{
+"model": "A44_flowers_yellow",
+"x": -255.69,
+"z": -1582.38,
+"rot": 184.6,
+"group": "Gardens",
+"scale": 1.139
+},
+{
+"model": "A43_flowers_red",
+"x": -162.24,
+"z": -1871.31,
+"rot": 181.1,
+"group": "Gardens",
+"scale": 0.902
+},
+{
+"model": "A45_flowers_purple",
+"x": -413.21,
+"z": -1880.45,
+"rot": 357.5,
+"group": "Gardens",
+"scale": 1.213
+},
+{
+"model": "A44_flowers_yellow",
+"x": -113.0,
+"z": -1312.93,
+"rot": 107.2,
+"group": "Gardens",
+"scale": 1.001
+},
+{
+"model": "A45_flowers_purple",
+"x": 272.06,
+"z": -1761.43,
+"rot": 153.5,
+"group": "Gardens",
+"scale": 1.093
+},
+{
+"model": "A46_flowers_white",
+"x": 41.64,
+"z": -1341.45,
+"rot": 82.9,
+"group": "Gardens",
+"scale": 0.902
+},
+{
+"model": "A43_flowers_red",
+"x": -297.12,
+"z": -1419.85,
+"rot": 68.0,
+"group": "Gardens",
+"scale": 0.936
+},
+{
+"model": "A46_flowers_white",
+"x": 377.48,
+"z": -1611.14,
+"rot": 294.0,
+"group": "Gardens",
+"scale": 0.904
+},
+{
+"model": "A43_flowers_red",
+"x": -475.04,
+"z": -1275.71,
+"rot": 351.9,
+"group": "Gardens",
+"scale": 1.073
+},
+{
+"model": "A44_flowers_yellow",
+"x": -318.53,
+"z": -1776.97,
+"rot": 284.9,
+"group": "Gardens",
+"scale": 0.967
+},
+{
+"model": "A47_flowers_blue",
+"x": -299.35,
+"z": -1478.28,
+"rot": 143.9,
+"group": "Gardens",
+"scale": 0.949
+},
+{
+"model": "A45_flowers_purple",
+"x": 196.73,
+"z": -1414.75,
+"rot": 265.6,
+"group": "Gardens",
+"scale": 0.966
+},
+{
+"model": "A46_flowers_white",
+"x": -64.75,
+"z": -1285.91,
+"rot": 119.4,
+"group": "Gardens",
+"scale": 0.983
+},
+{
+"model": "A45_flowers_purple",
+"x": 448.24,
+"z": -1733.32,
+"rot": 328.5,
+"group": "Gardens",
+"scale": 0.968
+},
+{
+"model": "A46_flowers_white",
+"x": 371.54,
+"z": -1409.68,
+"rot": 67.0,
+"group": "Gardens"
+},
+{
+"model": "A46_flowers_white",
+"x": -308.11,
+"z": -1441.46,
+"rot": 84.6,
+"group": "Gardens",
+"scale": 1.132
+},
+{
+"model": "A47_flowers_blue",
+"x": 449.11,
+"z": -1516.97,
+"rot": 243.8,
+"group": "Gardens",
+"scale": 1.041
+},
+{
+"model": "A47_flowers_blue",
+"x": -314.24,
+"z": -1795.77,
+"rot": 219.8,
+"group": "Gardens",
+"scale": 1.243
+},
+{
+"model": "A43_flowers_red",
+"x": -99.27,
+"z": -1491.27,
+"rot": 174.6,
+"group": "Gardens",
+"scale": 1.164
+},
+{
+"model": "A44_flowers_yellow",
+"x": 93.58,
+"z": -1505.33,
+"rot": 231.4,
+"group": "Gardens",
+"scale": 1.038
+},
+{
+"model": "A46_flowers_white",
+"x": -140.09,
+"z": -1763.79,
+"rot": 52.9,
+"group": "Gardens",
+"scale": 1.031
+},
+{
+"model": "A44_flowers_yellow",
+"x": 318.52,
+"z": -1602.96,
+"rot": 71.5,
+"group": "Gardens",
+"scale": 0.906
+},
+{
+"model": "A44_flowers_yellow",
+"x": -475.43,
+"z": -1429.38,
+"rot": 105.5,
+"group": "Gardens",
+"scale": 1.267
+},
+{
+"model": "A47_flowers_blue",
+"x": 311.35,
+"z": -1250.06,
+"rot": 331.9,
+"group": "Gardens",
+"scale": 1.203
+},
+{
+"model": "A45_flowers_purple",
+"x": -321.44,
+"z": -1410.48,
+"rot": 168.5,
+"group": "Gardens",
+"scale": 0.951
+},
+{
+"model": "A47_flowers_blue",
+"x": 282.57,
+"z": -1412.11,
+"rot": 34.1,
+"group": "Gardens",
+"scale": 1.249
+},
+{
+"model": "A43_flowers_red",
+"x": -303.48,
+"z": -1880.73,
+"rot": 176.3,
+"group": "Gardens",
+"scale": 0.913
+},
+{
+"model": "A46_flowers_white",
+"x": -138.2,
+"z": -1582.3,
+"rot": 234.6,
+"group": "Gardens",
+"scale": 0.911
+},
+{
+"model": "A46_flowers_white",
+"x": 476.64,
+"z": -1693.78,
+"rot": 171.2,
+"group": "Gardens",
+"scale": 1.023
+},
+{
+"model": "A45_flowers_purple",
+"x": 151.74,
+"z": -1422.64,
+"rot": 104.0,
+"group": "Gardens",
+"scale": 0.965
+},
+{
+"model": "A47_flowers_blue",
+"x": 424.57,
+"z": -1303.6,
+"rot": 212.8,
+"group": "Gardens",
+"scale": 1.174
+},
+{
+"model": "A47_flowers_blue",
+"x": -420.96,
+"z": -1875.02,
+"rot": 217.6,
+"group": "Gardens",
+"scale": 1.25
+},
+{
+"model": "A46_flowers_white",
+"x": -278.66,
+"z": -1326.65,
+"rot": 161.3,
+"group": "Gardens",
+"scale": 0.917
+},
+{
+"model": "A43_flowers_red",
+"x": 169.22,
+"z": -1643.85,
+"rot": 286.8,
+"group": "Gardens",
+"scale": 1.129
+},
+{
+"model": "A43_flowers_red",
+"x": 74.4,
+"z": -1907.11,
+"rot": 175.8,
+"group": "Gardens",
+"scale": 0.937
+},
+{
+"model": "A46_flowers_white",
+"x": 392.01,
+"z": -1879.93,
+"rot": 97.9,
+"group": "Gardens",
+"scale": 1.218
+},
+{
+"model": "A43_flowers_red",
+"x": -210.97,
+"z": -1507.5,
+"rot": 206.8,
+"group": "Gardens",
+"scale": 1.165
+},
+{
+"model": "A46_flowers_white",
+"x": 391.26,
+"z": -1493.89,
+"rot": 240.1,
+"group": "Gardens",
+"scale": 1.21
+},
+{
+"model": "A46_flowers_white",
+"x": 425.28,
+"z": -1799.67,
+"rot": 277.6,
+"group": "Gardens",
+"scale": 1.112
+},
+{
+"model": "A46_flowers_white",
+"x": 273.04,
+"z": -1798.84,
+"rot": 276.0,
+"group": "Gardens",
+"scale": 1.127
+},
+{
+"model": "A44_flowers_yellow",
+"x": 188.24,
+"z": -1424.85,
+"rot": 312.1,
+"group": "Gardens",
+"scale": 0.916
+},
+{
+"model": "A45_flowers_purple",
+"x": -173.55,
+"z": -1455.62,
+"rot": 208.4,
+"group": "Gardens",
+"scale": 1.246
+},
+{
+"model": "A45_flowers_purple",
+"x": 287.32,
+"z": -1802.17,
+"rot": 332.7,
+"group": "Gardens",
+"scale": 1.128
+},
+{
+"model": "A45_flowers_purple",
+"x": -288.08,
+"z": -1755.78,
+"rot": 202.3,
+"group": "Gardens",
+"scale": 1.18
+},
+{
+"model": "A47_flowers_blue",
+"x": 157.67,
+"z": -1873.54,
+"rot": 177.9,
+"group": "Gardens",
+"scale": 1.262
+},
+{
+"model": "A46_flowers_white",
+"x": -304.89,
+"z": -1297.11,
+"rot": 27.2,
+"group": "Gardens",
+"scale": 1.275
+},
+{
+"model": "A45_flowers_purple",
+"x": 208.49,
+"z": -1875.23,
+"rot": 209.0,
+"group": "Gardens",
+"scale": 0.932
+},
+{
+"model": "A44_flowers_yellow",
+"x": -357.96,
+"z": -1590.22,
+"rot": 350.5,
+"group": "Gardens",
+"scale": 0.932
+},
+{
+"model": "A43_flowers_red",
+"x": 65.94,
+"z": -1881.17,
+"rot": 182.6,
+"group": "Gardens",
+"scale": 1.01
+},
+{
+"model": "A44_flowers_yellow",
+"x": -200.91,
+"z": -1450.07,
+"rot": 212.7,
+"group": "Gardens",
+"scale": 1.078
+},
+{
+"model": "A47_flowers_blue",
+"x": -161.53,
+"z": -1795.06,
+"rot": 61.9,
+"group": "Gardens",
+"scale": 1.289
+},
+{
+"model": "A47_flowers_blue",
+"x": -38.83,
+"z": -1819.71,
+"rot": 74.0,
+"group": "Gardens",
+"scale": 1.005
+},
+{
+"model": "A44_flowers_yellow",
+"x": -166.41,
+"z": -1583.71,
+"rot": 86.1,
+"group": "Gardens",
+"scale": 1.011
+},
+{
+"model": "A47_flowers_blue",
+"x": 391.26,
+"z": -1305.96,
+"rot": 155.9,
+"group": "Gardens",
+"scale": 0.916
+},
+{
+"model": "A47_flowers_blue",
+"x": -186.78,
+"z": -1336.3,
+"rot": 342.1,
+"group": "Gardens",
+"scale": 1.202
+},
+{
+"model": "A47_flowers_blue",
+"x": 134.8,
+"z": -1419.88,
+"rot": 168.9,
+"group": "Gardens",
+"scale": 1.18
+},
+{
+"model": "A47_flowers_blue",
+"x": 108.19,
+"z": -1323.57,
+"rot": 148.4,
+"group": "Gardens"
+},
+{
+"model": "A47_flowers_blue",
+"x": 289.2,
+"z": -1608.71,
+"rot": 127.6,
+"group": "Gardens",
+"scale": 1.219
+},
+{
+"model": "A45_flowers_purple",
+"x": 206.42,
+"z": -1505.98,
+"rot": 107.3,
+"group": "Gardens",
+"scale": 1.203
+},
+{
+"model": "A44_flowers_yellow",
+"x": -397.8,
+"z": -1448.58,
+"rot": 93.3,
+"group": "Gardens",
+"scale": 0.915
+},
+{
+"model": "A43_flowers_red",
+"x": 260.4,
+"z": -1873.01,
+"rot": 280.8,
+"group": "Gardens",
+"scale": 1.063
+},
+{
+"model": "A46_flowers_white",
+"x": 271.73,
+"z": -1675.35,
+"rot": 130.2,
+"group": "Gardens",
+"scale": 1.228
+},
+{
+"model": "A43_flowers_red",
+"x": -368.35,
+"z": -1495.31,
+"rot": 44.9,
+"group": "Gardens",
+"scale": 1.201
+},
+{
+"model": "A45_flowers_purple",
+"x": 255.37,
+"z": -1342.62,
+"rot": 34.3,
+"group": "Gardens",
+"scale": 1.03
+},
+{
+"model": "A44_flowers_yellow",
+"x": -321.84,
+"z": -1750.73,
+"rot": 226.4,
+"group": "Gardens",
+"scale": 1.125
+},
+{
+"model": "A45_flowers_purple",
+"x": -117.82,
+"z": -1783.03,
+"rot": 88.3,
+"group": "Gardens",
+"scale": 0.909
+},
+{
+"model": "A47_flowers_blue",
+"x": 277.29,
+"z": -1492.01,
+"rot": 126.9,
+"group": "Gardens",
+"scale": 1.275
+},
+{
+"model": "A45_flowers_purple",
+"x": -124.51,
+"z": -1251.53,
+"rot": 26.6,
+"group": "Gardens",
+"scale": 1.117
+},
+{
+"model": "A43_flowers_red",
+"x": -70.97,
+"z": -1293.0,
+"rot": 327.0,
+"group": "Gardens",
+"scale": 0.937
+},
+{
+"model": "A46_flowers_white",
+"x": 208.67,
+"z": -1799.59,
+"rot": 15.0,
+"group": "Gardens",
+"scale": 1.032
+},
+{
+"model": "A44_flowers_yellow",
+"x": 61.06,
+"z": -1521.16,
+"rot": 178.2,
+"group": "Gardens",
+"scale": 1.271
+},
+{
+"model": "A45_flowers_purple",
+"x": -194.07,
+"z": -1778.59,
+"rot": 243.9,
+"group": "Gardens",
+"scale": 1.076
+},
+{
+"model": "A46_flowers_white",
+"x": -297.14,
+"z": -1465.25,
+"rot": 19.1,
+"group": "Gardens",
+"scale": 1.195
+},
+{
+"model": "A92_laundry_line",
+"x": 412.33,
+"z": -1320.95,
+"rot": 358.5,
+"group": "Gardens"
+},
+{
+"model": "A97_water_trough",
+"x": 339.46,
+"z": -1879.14,
+"rot": 339.7,
+"group": "Gardens"
+},
+{
+"model": "A97_water_trough",
+"x": 426.3,
+"z": -1589.13,
+"rot": 270.3,
+"group": "Gardens"
+},
+{
+"model": "A97_water_trough",
+"x": 139.69,
+"z": -1753.21,
+"rot": 71.7,
+"group": "Gardens"
+},
+{
+"model": "A82_bench_wood",
+"x": 298.96,
+"z": -1414.68,
+"rot": 65.3,
+"group": "Gardens"
+},
+{
+"model": "A82_bench_wood",
+"x": -388.15,
+"z": -1483.56,
+"rot": 343.3,
+"group": "Gardens"
+},
+{
+"model": "A97_water_trough",
+"x": 52.02,
+"z": -1338.01,
+"rot": 189.7,
+"group": "Gardens"
+},
+{
+"model": "A82_bench_wood",
+"x": 147.32,
+"z": -1880.29,
+"rot": 228.9,
+"group": "Gardens"
+},
+{
+"model": "A82_bench_wood",
+"x": -363.66,
+"z": -1473.19,
+"rot": 19.7,
+"group": "Gardens"
+},
+{
+"model": "A97_water_trough",
+"x": 77.76,
+"z": -1762.5,
+"rot": 44.9,
+"group": "Gardens"
+},
+{
+"model": "A82_bench_wood",
+"x": 82.88,
+"z": -1327.47,
+"rot": 217.7,
+"group": "Gardens"
+},
+{
+"model": "A92_laundry_line",
+"x": 99.72,
+"z": -1329.63,
+"rot": 62.9,
+"group": "Gardens"
+},
+{
+"model": "A82_bench_wood",
+"x": -192.09,
+"z": -1580.87,
+"rot": 243.4,
+"group": "Gardens"
+},
+{
+"model": "A92_laundry_line",
+"x": 189.14,
+"z": -1339.52,
+"rot": 174.3,
+"group": "Gardens"
+},
+{
+"model": "A82_bench_wood",
+"x": 440.51,
+"z": -1250.75,
+"rot": 196.4,
+"group": "Gardens"
+},
+{
+"model": "A97_water_trough",
+"x": 45.94,
+"z": -1904.02,
+"rot": 13.5,
+"group": "Gardens"
+},
+{
+"model": "A97_water_trough",
+"x": 325.6,
+"z": -1316.79,
+"rot": 292.6,
+"group": "Gardens"
+},
+{
+"model": "A92_laundry_line",
+"x": -348.57,
+"z": -1312.62,
+"rot": 239.4,
+"group": "Gardens"
+},
+{
+"model": "A98_well",
+"x": -361.61,
+"z": -1639.39,
+"rot": 143.5,
+"group": "Gardens"
+},
+{
+"model": "A82_bench_wood",
+"x": -334.3,
+"z": -1635.37,
+"rot": 154.6,
+"group": "Gardens"
+},
+{
+"model": "A82_bench_wood",
+"x": -416.66,
+"z": -1494.85,
+"rot": 189.1,
+"group": "Gardens"
+},
+{
+"model": "A82_bench_wood",
+"x": 112.92,
+"z": -1787.08,
+"rot": 273.5,
+"group": "Gardens"
+},
+{
+"model": "A72_barrel_open",
+"x": -420.46,
+"z": -1792.57,
+"rot": 50.1,
+"group": "Gardens"
+},
+{
+"model": "A73_crate_small",
+"x": -312.16,
+"z": -1462.93,
+"rot": 247.2,
+"group": "Gardens"
+},
+{
+"model": "A74_crate_large",
+"x": 127.38,
+"z": -1305.24,
+"rot": 197.2,
+"group": "Gardens"
+},
+{
+"model": "A72_barrel_open",
+"x": 157.42,
+"z": -1608.21,
+"rot": 302.6,
+"group": "Gardens"
+},
+{
+"model": "A76_sack",
+"x": -188.16,
+"z": -1510.48,
+"rot": 325.4,
+"group": "Gardens"
+},
+{
+"model": "A71_barrel",
+"x": -326.76,
+"z": -1674.5,
+"rot": 81.5,
+"group": "Gardens"
+},
+{
+"model": "A77_sack_pile",
+"x": -98.62,
+"z": -1756.43,
+"rot": 214.9,
+"group": "Gardens"
+},
+{
+"model": "A72_barrel_open",
+"x": -366.53,
+"z": -1302.86,
+"rot": 36.1,
+"group": "Gardens"
+},
+{
+"model": "A76_sack",
+"x": 354.64,
+"z": -1503.29,
+"rot": 150.6,
+"group": "Gardens"
+},
+{
+"model": "A74_crate_large",
+"x": -274.78,
+"z": -1456.67,
+"rot": 170.7,
+"group": "Gardens"
+},
+{
+"model": "A76_sack",
+"x": -426.39,
+"z": -1442.13,
+"rot": 42.7,
+"group": "Gardens"
+},
+{
+"model": "A74_crate_large",
+"x": -364.15,
+"z": -1905.38,
+"rot": 318.6,
+"group": "Gardens"
+},
+{
+"model": "A71_barrel",
+"x": -478.3,
+"z": -1348.51,
+"rot": 61.4,
+"group": "Gardens"
+},
+{
+"model": "A72_barrel_open",
+"x": -410.72,
+"z": -1666.46,
+"rot": 233.0,
+"group": "Gardens"
+},
+{
+"model": "A77_sack_pile",
+"x": -315.33,
+"z": -1673.72,
+"rot": 196.7,
+"group": "Gardens"
+},
+{
+"model": "A72_barrel_open",
+"x": -315.7,
+"z": -1498.96,
+"rot": 6.2,
+"group": "Gardens"
+},
+{
+"model": "A73_crate_small",
+"x": -358.52,
+"z": -1509.89,
+"rot": 235.8,
+"group": "Gardens"
+},
+{
+"model": "A71_barrel",
+"x": 111.49,
+"z": -1799.03,
+"rot": 310.1,
+"group": "Gardens"
+},
+{
+"model": "A71_barrel",
+"x": -182.76,
+"z": -1795.79,
+"rot": 190.3,
+"group": "Gardens"
+},
+{
+"model": "A71_barrel",
+"x": 104.8,
+"z": -1802.17,
+"rot": 260.2,
+"group": "Gardens"
+},
+{
+"model": "A76_sack",
+"x": 387.93,
+"z": -1666.73,
+"rot": 283.6,
+"group": "Gardens"
+},
+{
+"model": "A71_barrel",
+"x": -370.08,
+"z": -1775.1,
+"rot": 133.5,
+"group": "Gardens"
+},
+{
+"model": "A74_crate_large",
+"x": 158.96,
+"z": -1489.11,
+"rot": 211.5,
+"group": "Gardens"
+},
+{
+"model": "A73_crate_small",
+"x": -370.57,
+"z": -1610.04,
+"rot": 15.1,
+"group": "Gardens"
+},
+{
+"model": "A73_crate_small",
+"x": 115.41,
+"z": -1301.63,
+"rot": 124.0,
+"group": "Gardens"
+},
+{
+"model": "A73_crate_small",
+"x": -475.97,
+"z": -1870.39,
+"rot": 30.1,
+"group": "Gardens"
+},
+{
+"model": "A77_sack_pile",
+"x": 324.36,
+"z": -1302.76,
+"rot": 280.7,
+"group": "Gardens"
+},
+{
+"model": "A73_crate_small",
+"x": -36.4,
+"z": -1875.05,
+"rot": 296.6,
+"group": "Gardens"
+},
+{
+"model": "A71_barrel",
+"x": 376.82,
+"z": -1446.7,
+"rot": 149.7,
+"group": "Gardens"
+},
+{
+"model": "A73_crate_small",
+"x": -341.62,
+"z": -1675.99,
+"rot": 265.5,
+"group": "Gardens"
+},
+{
+"model": "A73_crate_small",
+"x": -257.83,
+"z": -1881.57,
+"rot": 80.8,
+"group": "Gardens"
+},
+{
+"model": "A75_crate_stack",
+"x": 107.87,
+"z": -1776.19,
+"rot": 313.0,
+"group": "Gardens"
+},
+{
+"model": "A73_crate_small",
+"x": -355.82,
+"z": -1791.53,
+"rot": 90.2,
+"group": "Gardens"
+},
+{
+"model": "A71_barrel",
+"x": -319.69,
+"z": -1326.0,
+"rot": 32.6,
+"group": "Gardens"
+},
+{
+"model": "A76_sack",
+"x": -165.66,
+"z": -1333.51,
+"rot": 4.2,
+"group": "Gardens"
+},
+{
+"model": "A77_sack_pile",
+"x": -274.63,
+"z": -1770.02,
+"rot": 167.4,
+"group": "Gardens"
+},
+{
+"model": "A48_planter_box",
+"x": -406.56,
+"z": -1250.23,
+"rot": 193.2,
+"group": "Gardens"
+},
+{
+"model": "A48_planter_box",
+"x": -284.47,
+"z": -1453.47,
+"rot": 302.0,
+"group": "Gardens"
+},
+{
+"model": "A48_planter_box",
+"x": 478.02,
+"z": -1485.72,
+"rot": 75.8,
+"group": "Gardens"
+},
+{
+"model": "A48_planter_box",
+"x": -283.48,
+"z": -1874.76,
+"rot": 2.0,
+"group": "Gardens"
+},
+{
+"model": "A48_planter_box",
+"x": 409.29,
+"z": -1781.15,
+"rot": 33.1,
+"group": "Gardens"
+},
+{
+"model": "A48_planter_box",
+"x": 279.95,
+"z": -1754.8,
+"rot": 207.9,
+"group": "Gardens"
+},
+{
+"model": "A48_planter_box",
+"x": -376.54,
+"z": -1602.82,
+"rot": 327.8,
+"group": "Gardens"
+},
+{
+"model": "A48_planter_box",
+"x": 309.7,
+"z": -1421.13,
+"rot": 13.0,
+"group": "Gardens"
+},
+{
+"model": "A48_planter_box",
+"x": 139.27,
+"z": -1767.48,
+"rot": 353.3,
+"group": "Gardens"
+},
+{
+"model": "A109_fountain_small",
+"x": -288.64,
+"z": -1580.79,
+"rot": 87.3,
+"group": "Gardens"
+},
+{
+"model": "A48_planter_box",
+"x": 324.92,
+"z": -1607.5,
+"rot": 316.9,
+"group": "Gardens"
+},
+{
+"model": "A48_planter_box",
+"x": -290.56,
+"z": -1334.8,
+"rot": 205.5,
+"group": "Gardens"
+},
+{
+"model": "A48_planter_box",
+"x": 300.92,
+"z": -1300.12,
+"rot": 208.2,
+"group": "Gardens"
+},
+{
+"model": "A48_planter_box",
+"x": -177.23,
+"z": -1320.09,
+"rot": 19.8,
+"group": "Gardens"
+},
+{
+"model": "A48_planter_box",
+"x": -196.15,
+"z": -1305.44,
+"rot": 86.3,
+"group": "Gardens"
+},
+{
+"model": "A109_fountain_small",
+"x": 412.6,
+"z": -1465.11,
+"rot": 161.6,
+"group": "Gardens"
+},
+{
+"model": "A48_planter_box",
+"x": -95.12,
+"z": -1419.55,
+"rot": 58.9,
+"group": "Gardens"
+},
+{
+"model": "A48_planter_box",
+"x": -416.84,
+"z": -1335.57,
+"rot": 122.5,
+"group": "Gardens"
+},
+{
+"model": "K08_gatehouse",
+"x": 0,
+"z": -2018.0,
+"rot": 0,
+"group": "Castle"
+},
+{
+"model": "K06_curtain_wall_corner",
+"x": -200.0,
+"z": -2018.0,
+"rot": 0,
+"group": "Castle"
+},
+{
+"model": "K06_curtain_wall_corner",
+"x": -200.0,
+"z": -2350.0,
+"rot": 0,
+"group": "Castle"
+},
+{
+"model": "K02_castle_round_tower",
+"x": -200.0,
+"z": -2184.0,
+"rot": 0,
+"group": "Castle"
+},
+{
+"model": "K03_castle_square_tower",
+"x": -100,
+"z": -2350.0,
+"rot": 0,
+"group": "Castle"
+},
+{
+"model": "K42_sentry_box",
+"x": -34,
+"z": -2002.0,
+"rot": 0,
+"group": "Castle"
+},
+{
+"model": "A21_brazier",
+"x": -30,
+"z": -1994.0,
+"rot": 0,
+"group": "Castle"
+},
+{
+"model": "K06_curtain_wall_corner",
+"x": 200.0,
+"z": -2018.0,
+"rot": 0,
+"group": "Castle"
+},
+{
+"model": "K06_curtain_wall_corner",
+"x": 200.0,
+"z": -2350.0,
+"rot": 0,
+"group": "Castle"
+},
+{
+"model": "K02_castle_round_tower",
+"x": 200.0,
+"z": -2184.0,
+"rot": 0,
+"group": "Castle"
+},
+{
+"model": "K03_castle_square_tower",
+"x": 100,
+"z": -2350.0,
+"rot": 0,
+"group": "Castle"
+},
+{
+"model": "K42_sentry_box",
+"x": 34,
+"z": -2002.0,
+"rot": 0,
+"group": "Castle"
+},
+{
+"model": "A21_brazier",
+"x": 30,
+"z": -1994.0,
+"rot": 0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": -168.1,
+"z": -2018.0,
+"rot": 0.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": -136.3,
+"z": -2018.0,
+"rot": 0.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": -104.5,
+"z": -2018.0,
+"rot": 0.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": -72.7,
+"z": -2018.0,
+"rot": 0.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": -40.9,
+"z": -2018.0,
+"rot": 0.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": 40.9,
+"z": -2018.0,
+"rot": 0.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": 72.7,
+"z": -2018.0,
+"rot": 0.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": 104.5,
+"z": -2018.0,
+"rot": 0.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": 136.3,
+"z": -2018.0,
+"rot": 0.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": 168.1,
+"z": -2018.0,
+"rot": 0.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": 165.5,
+"z": -2350.0,
+"rot": 180.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": 128.5,
+"z": -2350.0,
+"rot": 180.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": 72.0,
+"z": -2350.0,
+"rot": 180.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": 36.0,
+"z": -2350.0,
+"rot": 180.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": 0.0,
+"z": -2350.0,
+"rot": 180.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": -36.0,
+"z": -2350.0,
+"rot": 180.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": -72.0,
+"z": -2350.0,
+"rot": 180.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": -128.5,
+"z": -2350.0,
+"rot": 180.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": -165.5,
+"z": -2350.0,
+"rot": 180.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": 200.0,
+"z": -2051.5,
+"rot": 90.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": 200.0,
+"z": -2086.5,
+"rot": 90.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": 200.0,
+"z": -2121.5,
+"rot": 90.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": 200.0,
+"z": -2156.5,
+"rot": 90.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": -200.0,
+"z": -2156.5,
+"rot": 270.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": -200.0,
+"z": -2121.5,
+"rot": 270.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": -200.0,
+"z": -2086.5,
+"rot": 270.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": -200.0,
+"z": -2051.5,
+"rot": 270.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": 200.0,
+"z": -2211.5,
+"rot": 90.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": 200.0,
+"z": -2246.5,
+"rot": 90.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": 200.0,
+"z": -2281.5,
+"rot": 90.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": 200.0,
+"z": -2316.5,
+"rot": 90.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": -200.0,
+"z": -2316.5,
+"rot": 270.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": -200.0,
+"z": -2281.5,
+"rot": 270.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": -200.0,
+"z": -2246.5,
+"rot": 270.0,
+"group": "Castle"
+},
+{
+"model": "K05_curtain_wall_straight",
+"x": -200.0,
+"z": -2211.5,
+"rot": 270.0,
+"group": "Castle"
+},
+{
+"model": "K01_main_keep",
+"x": 0,
+"z": -2275.0,
+"rot": 0,
+"group": "Castle"
+},
+{
+"model": "K04_spire_tower",
+"x": -62,
+"z": -2300.0,
+"rot": 0,
+"group": "Castle"
+},
+{
+"model": "K04_spire_tower",
+"x": 62,
+"z": -2300.0,
+"rot": 0,
+"group": "Castle"
+},
+{
+"model": "K23_royal_fountain",
+"x": 0,
+"z": -2140.0,
+"rot": 0,
+"group": "CastleCourt"
+},
+{
+"model": "K24_wizard_king_statue",
+"x": 0,
+"z": -2210.0,
+"rot": 0,
+"group": "CastleCourt"
+},
+{
+"model": "K40_barracks",
+"x": -150,
+"z": -2095.0,
+"rot": 90,
+"group": "CastleCourt"
+},
+{
+"model": "K41_stables",
+"x": 150,
+"z": -2095.0,
+"rot": 270,
+"group": "CastleCourt"
+},
+{
+"model": "K43_royal_carriage",
+"x": 118,
+"z": -2135.0,
+"rot": 0,
+"group": "CastleCourt"
+},
+{
+"model": "K30_gazebo",
+"x": -125,
+"z": -2240.0,
+"rot": 90,
+"group": "RoyalGarden"
+},
+{
+"model": "K34_ornate_lamp",
+"x": -16,
+"z": -2065.0,
+"rot": 0,
+"group": "CastleCourt"
+},
+{
+"model": "K34_ornate_lamp",
+"x": -16,
+"z": -2105.0,
+"rot": 0,
+"group": "CastleCourt"
+},
+{
+"model": "K34_ornate_lamp",
+"x": -16,
+"z": -2170.0,
+"rot": 0,
+"group": "CastleCourt"
+},
+{
+"model": "K34_ornate_lamp",
+"x": -16,
+"z": -2220.0,
+"rot": 0,
+"group": "CastleCourt"
+},
+{
+"model": "K35_royal_banner",
+"x": -40,
+"z": -2080.0,
+"rot": 90,
+"group": "CastleCourt"
+},
+{
+"model": "K35_royal_banner",
+"x": -40,
+"z": -2195.0,
+"rot": 90,
+"group": "CastleCourt"
+},
+{
+"model": "K26_topiary_cone",
+"x": -34,
+"z": -2180.0,
+"rot": 0,
+"group": "RoyalGarden"
+},
+{
+"model": "K26_topiary_cone",
+"x": -34,
+"z": -2210.0,
+"rot": 0,
+"group": "RoyalGarden"
+},
+{
+"model": "K26_topiary_cone",
+"x": -34,
+"z": -2240.0,
+"rot": 0,
+"group": "RoyalGarden"
+},
+{
+"model": "K27_topiary_spiral",
+"x": -90,
+"z": -2210.0,
+"rot": 0,
+"group": "RoyalGarden"
+},
+{
+"model": "K33_ornate_bench",
+"x": -58,
+"z": -2150.0,
+"rot": 90,
+"group": "RoyalGarden"
+},
+{
+"model": "K31_rose_arch",
+"x": -100,
+"z": -2260.0,
+"rot": 0,
+"group": "RoyalGarden"
+},
+{
+"model": "K32_ornate_planter",
+"x": -26,
+"z": -2050.0,
+"rot": 0,
+"group": "CastleCourt"
+},
+{
+"model": "K34_ornate_lamp",
+"x": 16,
+"z": -2065.0,
+"rot": 0,
+"group": "CastleCourt"
+},
+{
+"model": "K34_ornate_lamp",
+"x": 16,
+"z": -2105.0,
+"rot": 0,
+"group": "CastleCourt"
+},
+{
+"model": "K34_ornate_lamp",
+"x": 16,
+"z": -2170.0,
+"rot": 0,
+"group": "CastleCourt"
+},
+{
+"model": "K34_ornate_lamp",
+"x": 16,
+"z": -2220.0,
+"rot": 0,
+"group": "CastleCourt"
+},
+{
+"model": "K35_royal_banner",
+"x": 40,
+"z": -2080.0,
+"rot": 270,
+"group": "CastleCourt"
+},
+{
+"model": "K35_royal_banner",
+"x": 40,
+"z": -2195.0,
+"rot": 270,
+"group": "CastleCourt"
+},
+{
+"model": "K26_topiary_cone",
+"x": 34,
+"z": -2180.0,
+"rot": 0,
+"group": "RoyalGarden"
+},
+{
+"model": "K26_topiary_cone",
+"x": 34,
+"z": -2210.0,
+"rot": 0,
+"group": "RoyalGarden"
+},
+{
+"model": "K26_topiary_cone",
+"x": 34,
+"z": -2240.0,
+"rot": 0,
+"group": "RoyalGarden"
+},
+{
+"model": "K27_topiary_spiral",
+"x": 90,
+"z": -2210.0,
+"rot": 0,
+"group": "RoyalGarden"
+},
+{
+"model": "K33_ornate_bench",
+"x": 58,
+"z": -2150.0,
+"rot": 270,
+"group": "RoyalGarden"
+},
+{
+"model": "K31_rose_arch",
+"x": 100,
+"z": -2260.0,
+"rot": 0,
+"group": "RoyalGarden"
+},
+{
+"model": "K32_ornate_planter",
+"x": 26,
+"z": -2050.0,
+"rot": 0,
+"group": "CastleCourt"
+},
+{
+"model": "K25_topiary_ball",
+"x": 165.7,
+"z": -2140.47,
+"rot": 34.4,
+"group": "RoyalGarden"
+},
+{
+"model": "A46_flowers_white",
+"x": 21.19,
+"z": -2076.3,
+"rot": 5.5,
+"group": "RoyalGarden"
+},
+{
+"model": "K25_topiary_ball",
+"x": -73.77,
+"z": -2075.54,
+"rot": 330.6,
+"group": "RoyalGarden"
+},
+{
+"model": "A47_flowers_blue",
+"x": 51.13,
+"z": -2252.64,
+"rot": 236.2,
+"group": "RoyalGarden"
+},
+{
+"model": "A43_flowers_red",
+"x": -7.74,
+"z": -2310.63,
+"rot": 203.9,
+"group": "RoyalGarden"
+},
+{
+"model": "A43_flowers_red",
+"x": 102.25,
+"z": -2155.22,
+"rot": 56.8,
+"group": "RoyalGarden"
+},
+{
+"model": "A47_flowers_blue",
+"x": -151.67,
+"z": -2053.35,
+"rot": 307.8,
+"group": "RoyalGarden"
+},
+{
+"model": "A44_flowers_yellow",
+"x": -72.84,
+"z": -2166.73,
+"rot": 187.8,
+"group": "RoyalGarden"
+},
+{
+"model": "A47_flowers_blue",
+"x": 112.26,
+"z": -2173.8,
+"rot": 347.6,
+"group": "RoyalGarden"
+},
+{
+"model": "A46_flowers_white",
+"x": 78.91,
+"z": -2048.49,
+"rot": 245.5,
+"group": "RoyalGarden"
+},
+{
+"model": "A46_flowers_white",
+"x": 183.78,
+"z": -2284.53,
+"rot": 254.1,
+"group": "RoyalGarden"
+},
+{
+"model": "A47_flowers_blue",
+"x": 133.19,
+"z": -2185.58,
+"rot": 107.0,
+"group": "RoyalGarden"
+},
+{
+"model": "K26_topiary_cone",
+"x": -18.87,
+"z": -2305.15,
+"rot": 337.9,
+"group": "RoyalGarden"
+},
+{
+"model": "A44_flowers_yellow",
+"x": -23.48,
+"z": -2246.81,
+"rot": 84.7,
+"group": "RoyalGarden"
+},
+{
+"model": "A45_flowers_purple",
+"x": -30.47,
+"z": -2222.23,
+"rot": 83.0,
+"group": "RoyalGarden"
+},
+{
+"model": "A46_flowers_white",
+"x": 111.42,
+"z": -2242.3,
+"rot": 48.7,
+"group": "RoyalGarden"
+},
+{
+"model": "A44_flowers_yellow",
+"x": -174.15,
+"z": -2311.64,
+"rot": 88.8,
+"group": "RoyalGarden"
+},
+{
+"model": "A46_flowers_white",
+"x": -155.78,
+"z": -2311.05,
+"rot": 323.3,
+"group": "RoyalGarden"
+},
+{
+"model": "A44_flowers_yellow",
+"x": 102.53,
+"z": -2219.45,
+"rot": 149.0,
+"group": "RoyalGarden"
+},
+{
+"model": "K32_ornate_planter",
+"x": 34.89,
+"z": -2091.61,
+"rot": 346.9,
+"group": "RoyalGarden"
+},
+{
+"model": "K26_topiary_cone",
+"x": 30.23,
+"z": -2036.29,
+"rot": 14.0,
+"group": "RoyalGarden"
+},
+{
+"model": "A47_flowers_blue",
+"x": 87.2,
+"z": -2063.91,
+"rot": 182.1,
+"group": "RoyalGarden"
+},
+{
+"model": "A47_flowers_blue",
+"x": -91.23,
+"z": -2109.1,
+"rot": 308.0,
+"group": "RoyalGarden"
+},
+{
+"model": "A46_flowers_white",
+"x": 146.04,
+"z": -2132.26,
+"rot": 23.0,
+"group": "RoyalGarden"
+},
+{
+"model": "A46_flowers_white",
+"x": 103.99,
+"z": -2037.35,
+"rot": 23.5,
+"group": "RoyalGarden"
+},
+{
+"model": "A43_flowers_red",
+"x": -116.07,
+"z": -2055.9,
+"rot": 186.8,
+"group": "RoyalGarden"
+},
+{
+"model": "K26_topiary_cone",
+"x": -69.39,
+"z": -2098.78,
+"rot": 310.7,
+"group": "RoyalGarden"
+},
+{
+"model": "K32_ornate_planter",
+"x": -138.63,
+"z": -2256.41,
+"rot": 290.8,
+"group": "RoyalGarden"
+},
+{
+"model": "A46_flowers_white",
+"x": -171.42,
+"z": -2329.25,
+"rot": 218.0,
+"group": "RoyalGarden"
+},
+{
+"model": "K26_topiary_cone",
+"x": -62.53,
+"z": -2078.51,
+"rot": 223.1,
+"group": "RoyalGarden"
+},
+{
+"model": "A46_flowers_white",
+"x": 165.87,
+"z": -2316.27,
+"rot": 141.8,
+"group": "RoyalGarden"
+},
+{
+"model": "A45_flowers_purple",
+"x": -66.62,
+"z": -2217.97,
+"rot": 323.9,
+"group": "RoyalGarden"
+},
+{
+"model": "A45_flowers_purple",
+"x": -179.03,
+"z": -2118.06,
+"rot": 166.8,
+"group": "RoyalGarden"
+},
+{
+"model": "K25_topiary_ball",
+"x": 78.8,
+"z": -2302.27,
+"rot": 121.8,
+"group": "RoyalGarden"
+},
+{
+"model": "A43_flowers_red",
+"x": 150.99,
+"z": -2122.45,
+"rot": 307.7,
+"group": "RoyalGarden"
+},
+{
+"model": "A47_flowers_blue",
+"x": 74.73,
+"z": -2248.3,
+"rot": 33.6,
+"group": "RoyalGarden"
+},
+{
+"model": "A46_flowers_white",
+"x": -83.39,
+"z": -2279.46,
+"rot": 190.9,
+"group": "RoyalGarden"
+},
+{
+"model": "K32_ornate_planter",
+"x": -151.2,
+"z": -2210.25,
+"rot": 201.3,
+"group": "RoyalGarden"
+},
+{
+"model": "A45_flowers_purple",
+"x": 149.45,
+"z": -2331.51,
+"rot": 44.3,
+"group": "RoyalGarden"
+},
+{
+"model": "A44_flowers_yellow",
+"x": 58.53,
+"z": -2123.75,
+"rot": 88.4,
+"group": "RoyalGarden"
+}
+]
+}

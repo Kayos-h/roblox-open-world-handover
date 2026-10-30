@@ -1,0 +1,15 @@
+{"area":"town1_v5","note":"Town 1: hero statue, street life, avenue braziers and banner poles. Additive only; the old plaza prop at the centre is archived first (Town1_Removed). Groups: town1_.","placements":[
+{"model":"TW01_01_town1_hero_statue","x":0.0,"z":0.0,"rot":0.0,"group":"town1_statue","note":"check the old plaza prop first","cr":11},
+{"model":"TW02_01_street_life_01","x":-62.0,"z":-42.0,"rot":55.9,"group":"town1_life","cr":10},
+{"model":"TW02_02_street_life_02","x":62.0,"z":-42.0,"rot":304.1,"group":"town1_life","cr":10},
+{"model":"TW02_03_street_life_03","x":-92.0,"z":8.0,"rot":95.0,"group":"town1_life","cr":10},
+{"model":"TW02_04_street_life_04","x":92.0,"z":8.0,"rot":265.0,"group":"town1_life","cr":10},
+{"model":"TW02_05_street_life_05","x":-48.0,"z":66.0,"rot":144.0,"group":"town1_life","cr":10},
+{"model":"TW02_06_street_life_06","x":48.0,"z":66.0,"rot":216.0,"group":"town1_life","cr":10},
+{"model":"TW02_07_street_life_07","x":0.0,"z":-84.0,"rot":0.0,"group":"town1_life","cr":10},
+{"model":"TW02_08_street_life_08","x":0.0,"z":94.0,"rot":180.0,"group":"town1_life","cr":10},
+{"model":"TW03_01_skull_avenue_set_01","x":-14.0,"z":-330.0,"rot":0.0,"group":"town1_avenue","cr":11},
+{"model":"TW03_02_skull_avenue_set_02","x":14.0,"z":-330.0,"rot":0.0,"group":"town1_avenue","cr":11},
+{"model":"TW03_03_skull_avenue_set_03","x":-14.0,"z":-200.0,"rot":0.0,"group":"town1_avenue","cr":11},
+{"model":"TW03_04_skull_avenue_set_04","x":14.0,"z":-200.0,"rot":0.0,"group":"town1_avenue","cr":11}
+]}

@@ -1,0 +1,12 @@
+{"area":"v5_entrances","note":"Natural entrances: one village sign and (for four of them) a boulder pair per settlement. The plain arch is removed, not replaced. Groups: Entrances.","placements":[
+{"model":"NE01_01_village_sign_01","x":18.0,"z":-530.0,"rot":180.0,"group":"Entrances"},
+{"model":"NE01_02_village_sign_02","x":-1290.0,"z":-392.0,"rot":90.0,"group":"Entrances"},
+{"model":"NE01_03_village_sign_03","x":1470.0,"z":-902.0,"rot":270.0,"group":"Entrances"},
+{"model":"NE01_04_village_sign_04","x":1160.0,"z":1010.0,"rot":225.0,"group":"Entrances"},
+{"model":"NE01_05_village_sign_05","x":-385.0,"z":1400.0,"rot":180.0,"group":"Entrances"},
+{"model":"NE01_06_village_sign_06","x":1640.0,"z":1100.0,"rot":270.0,"group":"Entrances"},
+{"model":"NE02_01_entry_rock_pair_01","x":-1318.0,"z":-400.0,"rot":90.0,"group":"Entrances","cr":19},
+{"model":"NE02_02_entry_rock_pair_02","x":1448.0,"z":-914.0,"rot":270.0,"group":"Entrances","cr":19},
+{"model":"NE02_03_entry_rock_pair_03","x":1138.0,"z":1000.0,"rot":225.0,"group":"Entrances","cr":19},
+{"model":"NE02_04_entry_rock_pair_04","x":2222.0,"z":-472.0,"rot":200.0,"group":"Entrances","cr":19}
+]}

@@ -1,0 +1,6075 @@
+{
+ "models": [
+  {
+   "id": "CP01_01_ring_wall_straight_01",
+   "row": "CP01",
+   "base": "ring_wall_straight",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    40,
+    20,
+    10
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "40-stud wall segments (plain, arrow slits, buttressed); 8-stud wide red-brown wall-walk, white-capped inner parapet, crenellated outer edge; replaces B02_05"
+  },
+  {
+   "id": "CP01_02_ring_wall_straight_02",
+   "row": "CP01",
+   "base": "ring_wall_straight",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    40,
+    20,
+    10
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "40-stud wall segments (plain, arrow slits, buttressed); 8-stud wide red-brown wall-walk, white-capped inner parapet, crenellated outer edge; replaces B02_05"
+  },
+  {
+   "id": "CP01_03_ring_wall_straight_03",
+   "row": "CP01",
+   "base": "ring_wall_straight",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    40,
+    20,
+    10
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "40-stud wall segments (plain, arrow slits, buttressed); 8-stud wide red-brown wall-walk, white-capped inner parapet, crenellated outer edge; replaces B02_05"
+  },
+  {
+   "id": "CP02_01_ring_wall_corner_01",
+   "row": "CP02",
+   "base": "ring_wall_corner",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    24,
+    22,
+    24
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Polygon joints of 135, 90 and 150 degrees with a tower seat; replaces B02_06"
+  },
+  {
+   "id": "CP02_02_ring_wall_corner_02",
+   "row": "CP02",
+   "base": "ring_wall_corner",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    24,
+    22,
+    24
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Polygon joints of 135, 90 and 150 degrees with a tower seat; replaces B02_06"
+  },
+  {
+   "id": "CP02_03_ring_wall_corner_03",
+   "row": "CP02",
+   "base": "ring_wall_corner",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    24,
+    22,
+    24
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Polygon joints of 135, 90 and 150 degrees with a tower seat; replaces B02_06"
+  },
+  {
+   "id": "CP03_01_ring_wall_stair_end_01",
+   "row": "CP03",
+   "base": "ring_wall_stair_end",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    20,
+    20,
+    14
+   ],
+   "tris": 7000,
+   "rework": false,
+   "note": "Stair up to the wall-walk and a wall end cap"
+  },
+  {
+   "id": "CP03_02_ring_wall_stair_end_02",
+   "row": "CP03",
+   "base": "ring_wall_stair_end",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    20,
+    20,
+    14
+   ],
+   "tris": 7000,
+   "rework": false,
+   "note": "Stair up to the wall-walk and a wall end cap"
+  },
+  {
+   "id": "CP04_01_tower_round_cone_01",
+   "row": "CP04",
+   "base": "tower_round_cone",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    22,
+    48,
+    22
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Round towers in 4 sizes (16, 22, 28, 34 studs wide) with maroon cone roofs and slit windows"
+  },
+  {
+   "id": "CP04_02_tower_round_cone_02",
+   "row": "CP04",
+   "base": "tower_round_cone",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    22,
+    48,
+    22
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Round towers in 4 sizes (16, 22, 28, 34 studs wide) with maroon cone roofs and slit windows"
+  },
+  {
+   "id": "CP04_03_tower_round_cone_03",
+   "row": "CP04",
+   "base": "tower_round_cone",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    22,
+    48,
+    22
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Round towers in 4 sizes (16, 22, 28, 34 studs wide) with maroon cone roofs and slit windows"
+  },
+  {
+   "id": "CP04_04_tower_round_cone_04",
+   "row": "CP04",
+   "base": "tower_round_cone",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    22,
+    48,
+    22
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Round towers in 4 sizes (16, 22, 28, 34 studs wide) with maroon cone roofs and slit windows"
+  },
+  {
+   "id": "CP05_01_turret_crenellated_01",
+   "row": "CP05",
+   "base": "turret_crenellated",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    14,
+    26,
+    14
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Round crenellated turrets for the outer ring (the foreground silhouette in the reference)"
+  },
+  {
+   "id": "CP05_02_turret_crenellated_02",
+   "row": "CP05",
+   "base": "turret_crenellated",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    14,
+    26,
+    14
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Round crenellated turrets for the outer ring (the foreground silhouette in the reference)"
+  },
+  {
+   "id": "CP06_01_gate_flank_tower_01",
+   "row": "CP06",
+   "base": "gate_flank_tower",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    30,
+    52,
+    30
+   ],
+   "tris": 16000,
+   "rework": false,
+   "note": "Twin towers that flank the main gatehouse"
+  },
+  {
+   "id": "CP06_02_gate_flank_tower_02",
+   "row": "CP06",
+   "base": "gate_flank_tower",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    30,
+    52,
+    30
+   ],
+   "tris": 16000,
+   "rework": false,
+   "note": "Twin towers that flank the main gatehouse"
+  },
+  {
+   "id": "CP07_01_gatehouse_main",
+   "row": "CP07",
+   "base": "gatehouse_main",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    60,
+    56,
+    40
+   ],
+   "tris": 30000,
+   "rework": false,
+   "note": "Portcullis arch, banner mounts, walkable passage; replaces B02_07"
+  },
+  {
+   "id": "CP08_01_water_gate",
+   "row": "CP08",
+   "base": "water_gate",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    40,
+    30,
+    30
+   ],
+   "tris": 18000,
+   "rework": false,
+   "note": "Arched river gate where the capital river passes under the wall"
+  },
+  {
+   "id": "CP09_01_keep_terrace_hero",
+   "row": "CP09",
+   "base": "keep_terrace_hero",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    130,
+    120,
+    110
+   ],
+   "tris": 50000,
+   "rework": false,
+   "note": "Grey stone keep with 8+ turrets and cone roofs on a raised terrace at the back of the enclosure; replaces the B02_01 silhouette"
+  },
+  {
+   "id": "CP10_01_keep_wing_01",
+   "row": "CP10",
+   "base": "keep_wing",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    60,
+    70,
+    50
+   ],
+   "tris": 28000,
+   "rework": false,
+   "note": "Wings that widen the keep silhouette"
+  },
+  {
+   "id": "CP10_02_keep_wing_02",
+   "row": "CP10",
+   "base": "keep_wing",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    60,
+    70,
+    50
+   ],
+   "tris": 28000,
+   "rework": false,
+   "note": "Wings that widen the keep silhouette"
+  },
+  {
+   "id": "CP11_01_great_hall_chapel_01",
+   "row": "CP11",
+   "base": "great_hall_chapel",
+   "prio": "P2",
+   "region": "capital",
+   "size": [
+    70,
+    60,
+    50
+   ],
+   "tris": 30000,
+   "rework": false,
+   "note": "Great hall and royal chapel inside the castle court"
+  },
+  {
+   "id": "CP11_02_great_hall_chapel_02",
+   "row": "CP11",
+   "base": "great_hall_chapel",
+   "prio": "P2",
+   "region": "capital",
+   "size": [
+    70,
+    60,
+    50
+   ],
+   "tris": 30000,
+   "rework": false,
+   "note": "Great hall and royal chapel inside the castle court"
+  },
+  {
+   "id": "CP12_01_terrace_retaining_wall_01",
+   "row": "CP12",
+   "base": "terrace_retaining_wall",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    40,
+    22,
+    10
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Straight and curved retaining wall under the keep terrace, grassy top"
+  },
+  {
+   "id": "CP12_02_terrace_retaining_wall_02",
+   "row": "CP12",
+   "base": "terrace_retaining_wall",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    40,
+    22,
+    10
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Straight and curved retaining wall under the keep terrace, grassy top"
+  },
+  {
+   "id": "CP13_01_grand_stair_01",
+   "row": "CP13",
+   "base": "grand_stair",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    30,
+    22,
+    40
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Wide stair from the gate court up the terrace, plus a narrow side stair"
+  },
+  {
+   "id": "CP13_02_grand_stair_02",
+   "row": "CP13",
+   "base": "grand_stair",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    30,
+    22,
+    40
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Wide stair from the gate court up the terrace, plus a narrow side stair"
+  },
+  {
+   "id": "CP14_01_skyline_tower_01",
+   "row": "CP14",
+   "base": "skyline_tower",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    30,
+    110,
+    30
+   ],
+   "tris": 30000,
+   "rework": false,
+   "note": "Five different tall towers: clock, bell, observatory, beacon (unlit), water tower"
+  },
+  {
+   "id": "CP14_02_skyline_tower_02",
+   "row": "CP14",
+   "base": "skyline_tower",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    30,
+    110,
+    30
+   ],
+   "tris": 30000,
+   "rework": false,
+   "note": "Five different tall towers: clock, bell, observatory, beacon (unlit), water tower"
+  },
+  {
+   "id": "CP14_03_skyline_tower_03",
+   "row": "CP14",
+   "base": "skyline_tower",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    30,
+    110,
+    30
+   ],
+   "tris": 30000,
+   "rework": false,
+   "note": "Five different tall towers: clock, bell, observatory, beacon (unlit), water tower"
+  },
+  {
+   "id": "CP14_04_skyline_tower_04",
+   "row": "CP14",
+   "base": "skyline_tower",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    30,
+    110,
+    30
+   ],
+   "tris": 30000,
+   "rework": false,
+   "note": "Five different tall towers: clock, bell, observatory, beacon (unlit), water tower"
+  },
+  {
+   "id": "CP14_05_skyline_tower_05",
+   "row": "CP14",
+   "base": "skyline_tower",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    30,
+    110,
+    30
+   ],
+   "tris": 30000,
+   "rework": false,
+   "note": "Five different tall towers: clock, bell, observatory, beacon (unlit), water tower"
+  },
+  {
+   "id": "CP15_01_order_hq_01",
+   "row": "CP15",
+   "base": "order_hq",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    90,
+    60,
+    70
+   ],
+   "tris": 40000,
+   "rework": false,
+   "note": "Knights-order headquarters (own name and shape, not copied) plus 2 annex buildings"
+  },
+  {
+   "id": "CP15_02_order_hq_02",
+   "row": "CP15",
+   "base": "order_hq",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    90,
+    60,
+    70
+   ],
+   "tris": 40000,
+   "rework": false,
+   "note": "Knights-order headquarters (own name and shape, not copied) plus 2 annex buildings"
+  },
+  {
+   "id": "CP15_03_order_hq_03",
+   "row": "CP15",
+   "base": "order_hq",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    90,
+    60,
+    70
+   ],
+   "tris": 40000,
+   "rework": false,
+   "note": "Knights-order headquarters (own name and shape, not copied) plus 2 annex buildings"
+  },
+  {
+   "id": "CP16_01_townhouse_new_01",
+   "row": "CP16",
+   "base": "townhouse_new",
+   "prio": "P2",
+   "region": "capital",
+   "size": [
+    22,
+    28,
+    22
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+  },
+  {
+   "id": "CP16_02_townhouse_new_02",
+   "row": "CP16",
+   "base": "townhouse_new",
+   "prio": "P2",
+   "region": "capital",
+   "size": [
+    22,
+    28,
+    22
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+  },
+  {
+   "id": "CP16_03_townhouse_new_03",
+   "row": "CP16",
+   "base": "townhouse_new",
+   "prio": "P2",
+   "region": "capital",
+   "size": [
+    22,
+    28,
+    22
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+  },
+  {
+   "id": "CP16_04_townhouse_new_04",
+   "row": "CP16",
+   "base": "townhouse_new",
+   "prio": "P2",
+   "region": "capital",
+   "size": [
+    22,
+    28,
+    22
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+  },
+  {
+   "id": "CP16_05_townhouse_new_05",
+   "row": "CP16",
+   "base": "townhouse_new",
+   "prio": "P2",
+   "region": "capital",
+   "size": [
+    22,
+    28,
+    22
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+  },
+  {
+   "id": "CP16_06_townhouse_new_06",
+   "row": "CP16",
+   "base": "townhouse_new",
+   "prio": "P2",
+   "region": "capital",
+   "size": [
+    22,
+    28,
+    22
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+  },
+  {
+   "id": "CP16_07_townhouse_new_07",
+   "row": "CP16",
+   "base": "townhouse_new",
+   "prio": "P2",
+   "region": "capital",
+   "size": [
+    22,
+    28,
+    22
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+  },
+  {
+   "id": "CP16_08_townhouse_new_08",
+   "row": "CP16",
+   "base": "townhouse_new",
+   "prio": "P2",
+   "region": "capital",
+   "size": [
+    22,
+    28,
+    22
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+  },
+  {
+   "id": "CP16_09_townhouse_new_09",
+   "row": "CP16",
+   "base": "townhouse_new",
+   "prio": "P2",
+   "region": "capital",
+   "size": [
+    22,
+    28,
+    22
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+  },
+  {
+   "id": "CP16_10_townhouse_new_10",
+   "row": "CP16",
+   "base": "townhouse_new",
+   "prio": "P2",
+   "region": "capital",
+   "size": [
+    22,
+    28,
+    22
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+  },
+  {
+   "id": "CP16_11_townhouse_new_11",
+   "row": "CP16",
+   "base": "townhouse_new",
+   "prio": "P2",
+   "region": "capital",
+   "size": [
+    22,
+    28,
+    22
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+  },
+  {
+   "id": "CP16_12_townhouse_new_12",
+   "row": "CP16",
+   "base": "townhouse_new",
+   "prio": "P2",
+   "region": "capital",
+   "size": [
+    22,
+    28,
+    22
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+  },
+  {
+   "id": "CP17_01_plaza_features_01",
+   "row": "CP17",
+   "base": "plaza_features",
+   "prio": "P2",
+   "region": "capital",
+   "size": [
+    30,
+    34,
+    30
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Central plaza monument and a public well"
+  },
+  {
+   "id": "CP17_02_plaza_features_02",
+   "row": "CP17",
+   "base": "plaza_features",
+   "prio": "P2",
+   "region": "capital",
+   "size": [
+    30,
+    34,
+    30
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Central plaza monument and a public well"
+  },
+  {
+   "id": "CP18_01_quay_wall_01",
+   "row": "CP18",
+   "base": "quay_wall",
+   "prio": "P2",
+   "region": "capital",
+   "size": [
+    30,
+    8,
+    10
+   ],
+   "tris": 5000,
+   "rework": false,
+   "note": "River embankment: straight, curve, steps, mooring posts"
+  },
+  {
+   "id": "CP18_02_quay_wall_02",
+   "row": "CP18",
+   "base": "quay_wall",
+   "prio": "P2",
+   "region": "capital",
+   "size": [
+    30,
+    8,
+    10
+   ],
+   "tris": 5000,
+   "rework": false,
+   "note": "River embankment: straight, curve, steps, mooring posts"
+  },
+  {
+   "id": "CP18_03_quay_wall_03",
+   "row": "CP18",
+   "base": "quay_wall",
+   "prio": "P2",
+   "region": "capital",
+   "size": [
+    30,
+    8,
+    10
+   ],
+   "tris": 5000,
+   "rework": false,
+   "note": "River embankment: straight, curve, steps, mooring posts"
+  },
+  {
+   "id": "CP18_04_quay_wall_04",
+   "row": "CP18",
+   "base": "quay_wall",
+   "prio": "P2",
+   "region": "capital",
+   "size": [
+    30,
+    8,
+    10
+   ],
+   "tris": 5000,
+   "rework": false,
+   "note": "River embankment: straight, curve, steps, mooring posts"
+  },
+  {
+   "id": "CP19_01_grand_bridge_01",
+   "row": "CP19",
+   "base": "grand_bridge",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    60,
+    28,
+    26
+   ],
+   "tris": 26000,
+   "rework": false,
+   "note": "Towered stone bridge over the capital river, and a drawbridge"
+  },
+  {
+   "id": "CP19_02_grand_bridge_02",
+   "row": "CP19",
+   "base": "grand_bridge",
+   "prio": "P1",
+   "region": "capital",
+   "size": [
+    60,
+    28,
+    26
+   ],
+   "tris": 26000,
+   "rework": false,
+   "note": "Towered stone bridge over the capital river, and a drawbridge"
+  },
+  {
+   "id": "LM01_01_world_tree_trunk_door",
+   "row": "LM01",
+   "base": "world_tree_trunk_door",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    36,
+    50,
+    36
+   ],
+   "tris": 30000,
+   "rework": false,
+   "note": "Hollow trunk piece with a door, stair and lantern niche (warm lantern only, no glow)"
+  },
+  {
+   "id": "LM02_01_world_tree_falls",
+   "row": "LM02",
+   "base": "world_tree_falls",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    80,
+    110,
+    40
+   ],
+   "tris": 35000,
+   "rework": false,
+   "note": "3-tier waterfall set for the world tree cliff"
+  },
+  {
+   "id": "LM03_01_frost_fortress_hero",
+   "row": "LM03",
+   "base": "frost_fortress_hero",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    300,
+    220,
+    260
+   ],
+   "tris": 60000,
+   "rework": false,
+   "note": "Fortress built into a snowy mountain flank (own name and design)"
+  },
+  {
+   "id": "LM04_01_fortress_rampart_step_01",
+   "row": "LM04",
+   "base": "fortress_rampart_step",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    60,
+    34,
+    20
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Stepped ramparts that climb the rock"
+  },
+  {
+   "id": "LM04_02_fortress_rampart_step_02",
+   "row": "LM04",
+   "base": "fortress_rampart_step",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    60,
+    34,
+    20
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Stepped ramparts that climb the rock"
+  },
+  {
+   "id": "LM04_03_fortress_rampart_step_03",
+   "row": "LM04",
+   "base": "fortress_rampart_step",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    60,
+    34,
+    20
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Stepped ramparts that climb the rock"
+  },
+  {
+   "id": "LM05_01_fortress_cliff_tower_01",
+   "row": "LM05",
+   "base": "fortress_cliff_tower",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    34,
+    80,
+    34
+   ],
+   "tris": 18000,
+   "rework": false,
+   "note": "Towers clinging to the cliff"
+  },
+  {
+   "id": "LM05_02_fortress_cliff_tower_02",
+   "row": "LM05",
+   "base": "fortress_cliff_tower",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    34,
+    80,
+    34
+   ],
+   "tris": 18000,
+   "rework": false,
+   "note": "Towers clinging to the cliff"
+  },
+  {
+   "id": "LM06_01_fortress_tunnel_gate",
+   "row": "LM06",
+   "base": "fortress_tunnel_gate",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    60,
+    50,
+    60
+   ],
+   "tris": 24000,
+   "rework": false,
+   "note": "Gate tunnel cut into the mountain"
+  },
+  {
+   "id": "LM07_01_carved_stair_switchback_01",
+   "row": "LM07",
+   "base": "carved_stair_switchback",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    50,
+    60,
+    60
+   ],
+   "tris": 16000,
+   "rework": false,
+   "note": "Switchback stairs carved into the slope"
+  },
+  {
+   "id": "LM07_02_carved_stair_switchback_02",
+   "row": "LM07",
+   "base": "carved_stair_switchback",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    50,
+    60,
+    60
+   ],
+   "tris": 16000,
+   "rework": false,
+   "note": "Switchback stairs carved into the slope"
+  },
+  {
+   "id": "LM08_01_mountain_span_bridge",
+   "row": "LM08",
+   "base": "mountain_span_bridge",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    90,
+    24,
+    16
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Stone span between two rock faces on a pass"
+  },
+  {
+   "id": "LM09_01_temple_buried_hero",
+   "row": "LM09",
+   "base": "temple_buried_hero",
+   "prio": "P1",
+   "region": "desert",
+   "size": [
+    180,
+    90,
+    160
+   ],
+   "tris": 55000,
+   "rework": false,
+   "note": "Desert temple half buried in sand: the top third and one gate show"
+  },
+  {
+   "id": "LM10_01_temple_colonnade_buried_01",
+   "row": "LM10",
+   "base": "temple_colonnade_buried",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    60,
+    40,
+    20
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Colonnade sections sunk into the dunes"
+  },
+  {
+   "id": "LM10_02_temple_colonnade_buried_02",
+   "row": "LM10",
+   "base": "temple_colonnade_buried",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    60,
+    40,
+    20
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Colonnade sections sunk into the dunes"
+  },
+  {
+   "id": "LM10_03_temple_colonnade_buried_03",
+   "row": "LM10",
+   "base": "temple_colonnade_buried",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    60,
+    40,
+    20
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Colonnade sections sunk into the dunes"
+  },
+  {
+   "id": "LM11_01_temple_gate_buried",
+   "row": "LM11",
+   "base": "temple_gate_buried",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    40,
+    50,
+    20
+   ],
+   "tris": 16000,
+   "rework": false,
+   "note": "Half-buried gate"
+  },
+  {
+   "id": "LM12_01_temple_stair_down_01",
+   "row": "LM12",
+   "base": "temple_stair_down",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    30,
+    24,
+    40
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Stair that leads down into the sand"
+  },
+  {
+   "id": "LM12_02_temple_stair_down_02",
+   "row": "LM12",
+   "base": "temple_stair_down",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    30,
+    24,
+    40
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Stair that leads down into the sand"
+  },
+  {
+   "id": "LM13_01_guardian_statue_01",
+   "row": "LM13",
+   "base": "guardian_statue",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    20,
+    70,
+    20
+   ],
+   "tris": 18000,
+   "rework": false,
+   "note": "Original weathered guardian figures"
+  },
+  {
+   "id": "LM13_02_guardian_statue_02",
+   "row": "LM13",
+   "base": "guardian_statue",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    20,
+    70,
+    20
+   ],
+   "tris": 18000,
+   "rework": false,
+   "note": "Original weathered guardian figures"
+  },
+  {
+   "id": "LM14_01_sand_obelisk_01",
+   "row": "LM14",
+   "base": "sand_obelisk",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    10,
+    60,
+    10
+   ],
+   "tris": 5000,
+   "rework": false,
+   "note": "Carved obelisks, leaning"
+  },
+  {
+   "id": "LM14_02_sand_obelisk_02",
+   "row": "LM14",
+   "base": "sand_obelisk",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    10,
+    60,
+    10
+   ],
+   "tris": 5000,
+   "rework": false,
+   "note": "Carved obelisks, leaning"
+  },
+  {
+   "id": "LM14_03_sand_obelisk_03",
+   "row": "LM14",
+   "base": "sand_obelisk",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    10,
+    60,
+    10
+   ],
+   "tris": 5000,
+   "rework": false,
+   "note": "Carved obelisks, leaning"
+  },
+  {
+   "id": "LM15_01_ring_temple_hero",
+   "row": "LM15",
+   "base": "ring_temple_hero",
+   "prio": "P1",
+   "region": "desert",
+   "size": [
+    220,
+    60,
+    220
+   ],
+   "tris": 55000,
+   "rework": false,
+   "note": "Circular ring temple with an inner sanctum (from the concept map)"
+  },
+  {
+   "id": "LM16_01_ring_temple_segment_01",
+   "row": "LM16",
+   "base": "ring_temple_segment",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    50,
+    40,
+    25
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Ring wall segments for building out the circle"
+  },
+  {
+   "id": "LM16_02_ring_temple_segment_02",
+   "row": "LM16",
+   "base": "ring_temple_segment",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    50,
+    40,
+    25
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Ring wall segments for building out the circle"
+  },
+  {
+   "id": "LM17_01_ring_inner_sanctum",
+   "row": "LM17",
+   "base": "ring_inner_sanctum",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    60,
+    60,
+    60
+   ],
+   "tris": 24000,
+   "rework": false,
+   "note": "Inner sanctum"
+  },
+  {
+   "id": "LM18_01_crater_monolith_ring",
+   "row": "LM18",
+   "base": "crater_monolith_ring",
+   "prio": "P1",
+   "region": "centre",
+   "size": [
+    140,
+    50,
+    140
+   ],
+   "tris": 40000,
+   "rework": false,
+   "note": "Ring of carved standing stones around the crater rim (non-emissive)"
+  },
+  {
+   "id": "LM19_01_crater_rim_rock_01",
+   "row": "LM19",
+   "base": "crater_rim_rock",
+   "prio": "P2",
+   "region": "centre",
+   "size": [
+    60,
+    40,
+    50
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Broken rim rocks"
+  },
+  {
+   "id": "LM19_02_crater_rim_rock_02",
+   "row": "LM19",
+   "base": "crater_rim_rock",
+   "prio": "P2",
+   "region": "centre",
+   "size": [
+    60,
+    40,
+    50
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Broken rim rocks"
+  },
+  {
+   "id": "LM19_03_crater_rim_rock_03",
+   "row": "LM19",
+   "base": "crater_rim_rock",
+   "prio": "P2",
+   "region": "centre",
+   "size": [
+    60,
+    40,
+    50
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Broken rim rocks"
+  },
+  {
+   "id": "LM19_04_crater_rim_rock_04",
+   "row": "LM19",
+   "base": "crater_rim_rock",
+   "prio": "P2",
+   "region": "centre",
+   "size": [
+    60,
+    40,
+    50
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Broken rim rocks"
+  },
+  {
+   "id": "LM19_05_crater_rim_rock_05",
+   "row": "LM19",
+   "base": "crater_rim_rock",
+   "prio": "P2",
+   "region": "centre",
+   "size": [
+    60,
+    40,
+    50
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Broken rim rocks"
+  },
+  {
+   "id": "LM20_01_crater_arcane_ruin_01",
+   "row": "LM20",
+   "base": "crater_arcane_ruin",
+   "prio": "P2",
+   "region": "centre",
+   "size": [
+    40,
+    40,
+    40
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Small broken magical structures on the crater floor"
+  },
+  {
+   "id": "LM20_02_crater_arcane_ruin_02",
+   "row": "LM20",
+   "base": "crater_arcane_ruin",
+   "prio": "P2",
+   "region": "centre",
+   "size": [
+    40,
+    40,
+    40
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Small broken magical structures on the crater floor"
+  },
+  {
+   "id": "LM20_03_crater_arcane_ruin_03",
+   "row": "LM20",
+   "base": "crater_arcane_ruin",
+   "prio": "P2",
+   "region": "centre",
+   "size": [
+    40,
+    40,
+    40
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Small broken magical structures on the crater floor"
+  },
+  {
+   "id": "LM21_01_floating_rock_01",
+   "row": "LM21",
+   "base": "floating_rock",
+   "prio": "P3",
+   "region": "centre",
+   "size": [
+    40,
+    30,
+    40
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Drifting rock slabs over the crater (no glow)"
+  },
+  {
+   "id": "LM21_02_floating_rock_02",
+   "row": "LM21",
+   "base": "floating_rock",
+   "prio": "P3",
+   "region": "centre",
+   "size": [
+    40,
+    30,
+    40
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Drifting rock slabs over the crater (no glow)"
+  },
+  {
+   "id": "LM21_03_floating_rock_03",
+   "row": "LM21",
+   "base": "floating_rock",
+   "prio": "P3",
+   "region": "centre",
+   "size": [
+    40,
+    30,
+    40
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Drifting rock slabs over the crater (no glow)"
+  },
+  {
+   "id": "LM21_04_floating_rock_04",
+   "row": "LM21",
+   "base": "floating_rock",
+   "prio": "P3",
+   "region": "centre",
+   "size": [
+    40,
+    30,
+    40
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Drifting rock slabs over the crater (no glow)"
+  },
+  {
+   "id": "LM22_01_colossal_fall_cliff_hero",
+   "row": "LM22",
+   "base": "colossal_fall_cliff_hero",
+   "prio": "P1",
+   "region": "forest",
+   "size": [
+    240,
+    260,
+    120
+   ],
+   "tris": 60000,
+   "rework": false,
+   "note": "Colossal multi-fall cliff for the river valley"
+  },
+  {
+   "id": "LM23_01_gorge_wall_01",
+   "row": "LM23",
+   "base": "gorge_wall",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    90,
+    80,
+    30
+   ],
+   "tris": 20000,
+   "rework": false,
+   "note": "Gorge walls below the falls"
+  },
+  {
+   "id": "LM23_02_gorge_wall_02",
+   "row": "LM23",
+   "base": "gorge_wall",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    90,
+    80,
+    30
+   ],
+   "tris": 20000,
+   "rework": false,
+   "note": "Gorge walls below the falls"
+  },
+  {
+   "id": "LM23_03_gorge_wall_03",
+   "row": "LM23",
+   "base": "gorge_wall",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    90,
+    80,
+    30
+   ],
+   "tris": 20000,
+   "rework": false,
+   "note": "Gorge walls below the falls"
+  },
+  {
+   "id": "LM24_01_fall_pool_rock_01",
+   "row": "LM24",
+   "base": "fall_pool_rock",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    30,
+    16,
+    30
+   ],
+   "tris": 6000,
+   "rework": false,
+   "note": "Pool rocks at the base"
+  },
+  {
+   "id": "LM24_02_fall_pool_rock_02",
+   "row": "LM24",
+   "base": "fall_pool_rock",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    30,
+    16,
+    30
+   ],
+   "tris": 6000,
+   "rework": false,
+   "note": "Pool rocks at the base"
+  },
+  {
+   "id": "LM24_03_fall_pool_rock_03",
+   "row": "LM24",
+   "base": "fall_pool_rock",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    30,
+    16,
+    30
+   ],
+   "tris": 6000,
+   "rework": false,
+   "note": "Pool rocks at the base"
+  },
+  {
+   "id": "LM25_01_ruin_gate_hero",
+   "row": "LM25",
+   "base": "ruin_gate_hero",
+   "prio": "P1",
+   "region": "plains",
+   "size": [
+    90,
+    80,
+    30
+   ],
+   "tris": 40000,
+   "rework": false,
+   "note": "Gate of the ancient civilization, half collapsed"
+  },
+  {
+   "id": "LM26_01_ruin_arena_segment_01",
+   "row": "LM26",
+   "base": "ruin_arena_segment",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    60,
+    34,
+    30
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Arena wall segments"
+  },
+  {
+   "id": "LM26_02_ruin_arena_segment_02",
+   "row": "LM26",
+   "base": "ruin_arena_segment",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    60,
+    34,
+    30
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Arena wall segments"
+  },
+  {
+   "id": "LM26_03_ruin_arena_segment_03",
+   "row": "LM26",
+   "base": "ruin_arena_segment",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    60,
+    34,
+    30
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Arena wall segments"
+  },
+  {
+   "id": "LM27_01_ruin_aqueduct_arch_01",
+   "row": "LM27",
+   "base": "ruin_aqueduct_arch",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    40,
+    50,
+    12
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Aqueduct arches"
+  },
+  {
+   "id": "LM27_02_ruin_aqueduct_arch_02",
+   "row": "LM27",
+   "base": "ruin_aqueduct_arch",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    40,
+    50,
+    12
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Aqueduct arches"
+  },
+  {
+   "id": "LM28_01_ruin_column_set_01",
+   "row": "LM28",
+   "base": "ruin_column_set",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    24,
+    40,
+    24
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Broken column groups"
+  },
+  {
+   "id": "LM28_02_ruin_column_set_02",
+   "row": "LM28",
+   "base": "ruin_column_set",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    24,
+    40,
+    24
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Broken column groups"
+  },
+  {
+   "id": "LM28_03_ruin_column_set_03",
+   "row": "LM28",
+   "base": "ruin_column_set",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    24,
+    40,
+    24
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Broken column groups"
+  },
+  {
+   "id": "LM29_01_ruin_tower_stump_01",
+   "row": "LM29",
+   "base": "ruin_tower_stump",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    26,
+    36,
+    26
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Tower stumps"
+  },
+  {
+   "id": "LM29_02_ruin_tower_stump_02",
+   "row": "LM29",
+   "base": "ruin_tower_stump",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    26,
+    36,
+    26
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Tower stumps"
+  },
+  {
+   "id": "LM30_01_ruined_castle_hero",
+   "row": "LM30",
+   "base": "ruined_castle_hero",
+   "prio": "P1",
+   "region": "plains",
+   "size": [
+    140,
+    70,
+    120
+   ],
+   "tris": 50000,
+   "rework": false,
+   "note": "Ruined castle with a broken keep"
+  },
+  {
+   "id": "LM31_01_ruined_castle_module_01",
+   "row": "LM31",
+   "base": "ruined_castle_module",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    40,
+    40,
+    30
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Wall and tower modules for the ruined castle"
+  },
+  {
+   "id": "LM31_02_ruined_castle_module_02",
+   "row": "LM31",
+   "base": "ruined_castle_module",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    40,
+    40,
+    30
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Wall and tower modules for the ruined castle"
+  },
+  {
+   "id": "LM31_03_ruined_castle_module_03",
+   "row": "LM31",
+   "base": "ruined_castle_module",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    40,
+    40,
+    30
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Wall and tower modules for the ruined castle"
+  },
+  {
+   "id": "WT01_01_wizard_tower_shell",
+   "row": "WT01",
+   "base": "wizard_tower_shell",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    110,
+    300,
+    110
+   ],
+   "tris": 150000,
+   "rework": false,
+   "note": "Exterior of the giant wizard tower for the pad at (1380,-1320), floor y 324: Himalayan monastery base (whitewashed bands, tapered timber windows, stone buttresses) rising into a slim spiral-staggered stone spire with copper-green roofs; 10 MeshParts of at most 20k triangles (plinth, 8 stacked levels, crown); walls 6 studs thick so the inside is enterable"
+  },
+  {
+   "id": "WT02_01_wizard_tower_interior",
+   "row": "WT02",
+   "base": "wizard_tower_interior",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    100,
+    280,
+    100
+   ],
+   "tris": 90000,
+   "rework": false,
+   "note": "Interior shell: 8 floor plates, open central atrium, wide helical stair (rise at most 1.2, run at least 2), railings, wall linings, window reveals; plus tower_collision.json (boxes for floors, walls, stair treads) so Studio can build invisible collision"
+  },
+  {
+   "id": "WT03_01_wizard_bookshelf_curved_01",
+   "row": "WT03",
+   "base": "wizard_bookshelf_curved",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    24,
+    28,
+    6
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Full-height curved bookshelf bays that follow the round tower wall (radius 38, 30 and 22): packed books, scroll racks, glass-fronted cabinet, rolling-ladder rail"
+  },
+  {
+   "id": "WT03_02_wizard_bookshelf_curved_02",
+   "row": "WT03",
+   "base": "wizard_bookshelf_curved",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    24,
+    28,
+    6
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Full-height curved bookshelf bays that follow the round tower wall (radius 38, 30 and 22): packed books, scroll racks, glass-fronted cabinet, rolling-ladder rail"
+  },
+  {
+   "id": "WT03_03_wizard_bookshelf_curved_03",
+   "row": "WT03",
+   "base": "wizard_bookshelf_curved",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    24,
+    28,
+    6
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Full-height curved bookshelf bays that follow the round tower wall (radius 38, 30 and 22): packed books, scroll racks, glass-fronted cabinet, rolling-ladder rail"
+  },
+  {
+   "id": "WT04_01_wizard_bookshelf_straight_01",
+   "row": "WT04",
+   "base": "wizard_bookshelf_straight",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    14,
+    26,
+    5
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Straight bookshelf and a free-standing island shelf with ladder"
+  },
+  {
+   "id": "WT04_02_wizard_bookshelf_straight_02",
+   "row": "WT04",
+   "base": "wizard_bookshelf_straight",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    14,
+    26,
+    5
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Straight bookshelf and a free-standing island shelf with ladder"
+  },
+  {
+   "id": "WT05_01_wizard_round_map_table",
+   "row": "WT05",
+   "base": "wizard_round_map_table",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    44,
+    12,
+    44
+   ],
+   "tris": 60000,
+   "rework": false,
+   "note": "THE CIRCULAR MAP: a 44-stud round relief map of the whole island on a stone-and-brass table, built from the real terrain data (terrain_map.json) with tiny landmark models, a brass compass ring and a walkway rail; 3 MeshParts"
+  },
+  {
+   "id": "WT06_01_wizard_floor_medallion",
+   "row": "WT06",
+   "base": "wizard_floor_medallion",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    80,
+    1,
+    80
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Round floor inlay for the Map Hall: compass rose, star ring, inlaid stone and brass"
+  },
+  {
+   "id": "WT07_01_wizard_lab_set_01",
+   "row": "WT07",
+   "base": "wizard_lab_set",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    18,
+    14,
+    12
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Alchemy bench with glassware, herb rack with jars, specimen shelf, orrery and astrolabe stand"
+  },
+  {
+   "id": "WT07_02_wizard_lab_set_02",
+   "row": "WT07",
+   "base": "wizard_lab_set",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    18,
+    14,
+    12
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Alchemy bench with glassware, herb rack with jars, specimen shelf, orrery and astrolabe stand"
+  },
+  {
+   "id": "WT07_03_wizard_lab_set_03",
+   "row": "WT07",
+   "base": "wizard_lab_set",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    18,
+    14,
+    12
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Alchemy bench with glassware, herb rack with jars, specimen shelf, orrery and astrolabe stand"
+  },
+  {
+   "id": "WT07_04_wizard_lab_set_04",
+   "row": "WT07",
+   "base": "wizard_lab_set",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    18,
+    14,
+    12
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Alchemy bench with glassware, herb rack with jars, specimen shelf, orrery and astrolabe stand"
+  },
+  {
+   "id": "WT08_01_wizard_study_set_01",
+   "row": "WT08",
+   "base": "wizard_study_set",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    18,
+    12,
+    14
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Archmage desk with open books and quill, bed alcove with drapes, globe and sea-chart stand"
+  },
+  {
+   "id": "WT08_02_wizard_study_set_02",
+   "row": "WT08",
+   "base": "wizard_study_set",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    18,
+    12,
+    14
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Archmage desk with open books and quill, bed alcove with drapes, globe and sea-chart stand"
+  },
+  {
+   "id": "WT08_03_wizard_study_set_03",
+   "row": "WT08",
+   "base": "wizard_study_set",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    18,
+    12,
+    14
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Archmage desk with open books and quill, bed alcove with drapes, globe and sea-chart stand"
+  },
+  {
+   "id": "WT09_01_wizard_chandelier_ring_01",
+   "row": "WT09",
+   "base": "wizard_chandelier_ring",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    20,
+    8,
+    20
+   ],
+   "tris": 6000,
+   "rework": false,
+   "note": "Ring chandeliers with candles (warm light only, no glow)"
+  },
+  {
+   "id": "WT09_02_wizard_chandelier_ring_02",
+   "row": "WT09",
+   "base": "wizard_chandelier_ring",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    20,
+    8,
+    20
+   ],
+   "tris": 6000,
+   "rework": false,
+   "note": "Ring chandeliers with candles (warm light only, no glow)"
+  },
+  {
+   "id": "WT10_01_wizard_observatory_telescope",
+   "row": "WT10",
+   "base": "wizard_observatory_telescope",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    14,
+    24,
+    14
+   ],
+   "tris": 20000,
+   "rework": false,
+   "note": "Giant brass telescope on a mount for the top dome"
+  },
+  {
+   "id": "WT11_01_wizard_armillary_crown",
+   "row": "WT11",
+   "base": "wizard_armillary_crown",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    70,
+    50,
+    70
+   ],
+   "tris": 22000,
+   "rework": false,
+   "note": "Armillary rings around the crown of the tower (static; Studio can rotate them later)"
+  },
+  {
+   "id": "WT12_01_wizard_door_porch",
+   "row": "WT12",
+   "base": "wizard_door_porch",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    40,
+    36,
+    24
+   ],
+   "tris": 24000,
+   "rework": false,
+   "note": "Entrance porch with big carved timber doors in a rectangular frame (not an arch), steps and lantern posts"
+  },
+  {
+   "id": "WT13_01_plateau_terrace_set_01",
+   "row": "WT13",
+   "base": "plateau_terrace_set",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    30,
+    10,
+    30
+   ],
+   "tris": 7000,
+   "rework": false,
+   "note": "Terrace retaining wall x2, 40-step stair, prayer-flag pole, cairn and lantern post around the tower"
+  },
+  {
+   "id": "WT13_02_plateau_terrace_set_02",
+   "row": "WT13",
+   "base": "plateau_terrace_set",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    30,
+    10,
+    30
+   ],
+   "tris": 7000,
+   "rework": false,
+   "note": "Terrace retaining wall x2, 40-step stair, prayer-flag pole, cairn and lantern post around the tower"
+  },
+  {
+   "id": "WT13_03_plateau_terrace_set_03",
+   "row": "WT13",
+   "base": "plateau_terrace_set",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    30,
+    10,
+    30
+   ],
+   "tris": 7000,
+   "rework": false,
+   "note": "Terrace retaining wall x2, 40-step stair, prayer-flag pole, cairn and lantern post around the tower"
+  },
+  {
+   "id": "WT13_04_plateau_terrace_set_04",
+   "row": "WT13",
+   "base": "plateau_terrace_set",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    30,
+    10,
+    30
+   ],
+   "tris": 7000,
+   "rework": false,
+   "note": "Terrace retaining wall x2, 40-step stair, prayer-flag pole, cairn and lantern post around the tower"
+  },
+  {
+   "id": "WT13_05_plateau_terrace_set_05",
+   "row": "WT13",
+   "base": "plateau_terrace_set",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    30,
+    10,
+    30
+   ],
+   "tris": 7000,
+   "rework": false,
+   "note": "Terrace retaining wall x2, 40-step stair, prayer-flag pole, cairn and lantern post around the tower"
+  },
+  {
+   "id": "WT13_06_plateau_terrace_set_06",
+   "row": "WT13",
+   "base": "plateau_terrace_set",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    30,
+    10,
+    30
+   ],
+   "tris": 7000,
+   "rework": false,
+   "note": "Terrace retaining wall x2, 40-step stair, prayer-flag pole, cairn and lantern post around the tower"
+  },
+  {
+   "id": "HL01_01_ice_spire_01",
+   "row": "HL01",
+   "base": "ice_spire",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    24,
+    70,
+    24
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Ice spires"
+  },
+  {
+   "id": "HL01_02_ice_spire_02",
+   "row": "HL01",
+   "base": "ice_spire",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    24,
+    70,
+    24
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Ice spires"
+  },
+  {
+   "id": "HL01_03_ice_spire_03",
+   "row": "HL01",
+   "base": "ice_spire",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    24,
+    70,
+    24
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Ice spires"
+  },
+  {
+   "id": "HL01_04_ice_spire_04",
+   "row": "HL01",
+   "base": "ice_spire",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    24,
+    70,
+    24
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Ice spires"
+  },
+  {
+   "id": "HL02_01_ice_arch_01",
+   "row": "HL02",
+   "base": "ice_arch",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    50,
+    40,
+    14
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Natural ice arches"
+  },
+  {
+   "id": "HL02_02_ice_arch_02",
+   "row": "HL02",
+   "base": "ice_arch",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    50,
+    40,
+    14
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Natural ice arches"
+  },
+  {
+   "id": "HL03_01_glacier_tongue_01",
+   "row": "HL03",
+   "base": "glacier_tongue",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    90,
+    24,
+    50
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Glacier tongues and crevasse edges"
+  },
+  {
+   "id": "HL03_02_glacier_tongue_02",
+   "row": "HL03",
+   "base": "glacier_tongue",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    90,
+    24,
+    50
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Glacier tongues and crevasse edges"
+  },
+  {
+   "id": "HL03_03_glacier_tongue_03",
+   "row": "HL03",
+   "base": "glacier_tongue",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    90,
+    24,
+    50
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Glacier tongues and crevasse edges"
+  },
+  {
+   "id": "HL04_01_ice_cave_mouth_01",
+   "row": "HL04",
+   "base": "ice_cave_mouth",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    40,
+    30,
+    30
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Ice cave entrances"
+  },
+  {
+   "id": "HL04_02_ice_cave_mouth_02",
+   "row": "HL04",
+   "base": "ice_cave_mouth",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    40,
+    30,
+    30
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Ice cave entrances"
+  },
+  {
+   "id": "HL05_01_mountain_shrine",
+   "row": "HL05",
+   "base": "mountain_shrine",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    24,
+    24,
+    24
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Hidden shrine on a pass"
+  },
+  {
+   "id": "HL06_01_snow_watchtower",
+   "row": "HL06",
+   "base": "snow_watchtower",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    20,
+    50,
+    20
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Watchtower for the mountain road"
+  },
+  {
+   "id": "HL07_01_mine_entrance_01",
+   "row": "HL07",
+   "base": "mine_entrance",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    30,
+    24,
+    24
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Timbered mine mouths"
+  },
+  {
+   "id": "HL07_02_mine_entrance_02",
+   "row": "HL07",
+   "base": "mine_entrance",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    30,
+    24,
+    24
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Timbered mine mouths"
+  },
+  {
+   "id": "HM01_01_rope_suspension_bridge_01",
+   "row": "HM01",
+   "base": "rope_suspension_bridge",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    120,
+    14,
+    10
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Himalayan rope-and-plank suspension bridges with stone anchor towers and prayer flags, three spans (60, 90, 116 studs); the 116 crosses Frost Gorge; walkable deck, hand ropes"
+  },
+  {
+   "id": "HM01_02_rope_suspension_bridge_02",
+   "row": "HM01",
+   "base": "rope_suspension_bridge",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    120,
+    14,
+    10
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Himalayan rope-and-plank suspension bridges with stone anchor towers and prayer flags, three spans (60, 90, 116 studs); the 116 crosses Frost Gorge; walkable deck, hand ropes"
+  },
+  {
+   "id": "HM01_03_rope_suspension_bridge_03",
+   "row": "HM01",
+   "base": "rope_suspension_bridge",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    120,
+    14,
+    10
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Himalayan rope-and-plank suspension bridges with stone anchor towers and prayer flags, three spans (60, 90, 116 studs); the 116 crosses Frost Gorge; walkable deck, hand ropes"
+  },
+  {
+   "id": "HM02_01_timber_cantilever_bridge_01",
+   "row": "HM02",
+   "base": "timber_cantilever_bridge",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    36,
+    12,
+    10
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Timber cantilever bridges with a small roof, spans 28 and 40 (tarn outlet, mountain streams)"
+  },
+  {
+   "id": "HM02_02_timber_cantilever_bridge_02",
+   "row": "HM02",
+   "base": "timber_cantilever_bridge",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    36,
+    12,
+    10
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Timber cantilever bridges with a small roof, spans 28 and 40 (tarn outlet, mountain streams)"
+  },
+  {
+   "id": "HM03_01_tunnel_portal_01",
+   "row": "HM03",
+   "base": "tunnel_portal",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    30,
+    24,
+    20
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Rock-cut road tunnel mouths (plain, snow-capped, timber-framed): a rectangular timber frame set in a rock face, not a freestanding arch"
+  },
+  {
+   "id": "HM03_02_tunnel_portal_02",
+   "row": "HM03",
+   "base": "tunnel_portal",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    30,
+    24,
+    20
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Rock-cut road tunnel mouths (plain, snow-capped, timber-framed): a rectangular timber frame set in a rock face, not a freestanding arch"
+  },
+  {
+   "id": "HM03_03_tunnel_portal_03",
+   "row": "HM03",
+   "base": "tunnel_portal",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    30,
+    24,
+    20
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Rock-cut road tunnel mouths (plain, snow-capped, timber-framed): a rectangular timber frame set in a rock face, not a freestanding arch"
+  },
+  {
+   "id": "HM04_01_tunnel_lining_01",
+   "row": "HM04",
+   "base": "tunnel_lining",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    24,
+    20,
+    24
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Tunnel lining segments (24-stud straight, 30-degree bend) with rock walls, timber ribs and lantern brackets (warm, no glow)"
+  },
+  {
+   "id": "HM04_02_tunnel_lining_02",
+   "row": "HM04",
+   "base": "tunnel_lining",
+   "prio": "P1",
+   "region": "highlands",
+   "size": [
+    24,
+    20,
+    24
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Tunnel lining segments (24-stud straight, 30-degree bend) with rock walls, timber ribs and lantern brackets (warm, no glow)"
+  },
+  {
+   "id": "HM05_01_cliff_gallery_01",
+   "row": "HM05",
+   "base": "cliff_gallery",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    40,
+    22,
+    14
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Road galleries cut into a cliff with timber props and a rock roof"
+  },
+  {
+   "id": "HM05_02_cliff_gallery_02",
+   "row": "HM05",
+   "base": "cliff_gallery",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    40,
+    22,
+    14
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Road galleries cut into a cliff with timber props and a rock roof"
+  },
+  {
+   "id": "HM06_01_switchback_wall_01",
+   "row": "HM06",
+   "base": "switchback_wall",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    30,
+    14,
+    14
+   ],
+   "tris": 7000,
+   "rework": false,
+   "note": "Stone retaining walls and hairpin corners for mountain roads"
+  },
+  {
+   "id": "HM06_02_switchback_wall_02",
+   "row": "HM06",
+   "base": "switchback_wall",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    30,
+    14,
+    14
+   ],
+   "tris": 7000,
+   "rework": false,
+   "note": "Stone retaining walls and hairpin corners for mountain roads"
+  },
+  {
+   "id": "HM06_03_switchback_wall_03",
+   "row": "HM06",
+   "base": "switchback_wall",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    30,
+    14,
+    14
+   ],
+   "tris": 7000,
+   "rework": false,
+   "note": "Stone retaining walls and hairpin corners for mountain roads"
+  },
+  {
+   "id": "HM07_01_prayer_flag_string_01",
+   "row": "HM07",
+   "base": "prayer_flag_string",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    40,
+    12,
+    2
+   ],
+   "tris": 3000,
+   "rework": false,
+   "note": "Strings of cloth flags for bridges, cairns and passes"
+  },
+  {
+   "id": "HM07_02_prayer_flag_string_02",
+   "row": "HM07",
+   "base": "prayer_flag_string",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    40,
+    12,
+    2
+   ],
+   "tris": 3000,
+   "rework": false,
+   "note": "Strings of cloth flags for bridges, cairns and passes"
+  },
+  {
+   "id": "HM07_03_prayer_flag_string_03",
+   "row": "HM07",
+   "base": "prayer_flag_string",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    40,
+    12,
+    2
+   ],
+   "tris": 3000,
+   "rework": false,
+   "note": "Strings of cloth flags for bridges, cairns and passes"
+  },
+  {
+   "id": "HM07_04_prayer_flag_string_04",
+   "row": "HM07",
+   "base": "prayer_flag_string",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    40,
+    12,
+    2
+   ],
+   "tris": 3000,
+   "rework": false,
+   "note": "Strings of cloth flags for bridges, cairns and passes"
+  },
+  {
+   "id": "HM08_01_cairn_shrine_01",
+   "row": "HM08",
+   "base": "cairn_shrine",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    14,
+    12,
+    14
+   ],
+   "tris": 4000,
+   "rework": false,
+   "note": "Stone cairns and small roadside shrines"
+  },
+  {
+   "id": "HM08_02_cairn_shrine_02",
+   "row": "HM08",
+   "base": "cairn_shrine",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    14,
+    12,
+    14
+   ],
+   "tris": 4000,
+   "rework": false,
+   "note": "Stone cairns and small roadside shrines"
+  },
+  {
+   "id": "HM08_03_cairn_shrine_03",
+   "row": "HM08",
+   "base": "cairn_shrine",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    14,
+    12,
+    14
+   ],
+   "tris": 4000,
+   "rework": false,
+   "note": "Stone cairns and small roadside shrines"
+  },
+  {
+   "id": "HM08_04_cairn_shrine_04",
+   "row": "HM08",
+   "base": "cairn_shrine",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    14,
+    12,
+    14
+   ],
+   "tris": 4000,
+   "rework": false,
+   "note": "Stone cairns and small roadside shrines"
+  },
+  {
+   "id": "HM09_01_monastery_outpost_01",
+   "row": "HM09",
+   "base": "monastery_outpost",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    40,
+    30,
+    30
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Hall, prayer-wheel house, guest house and bell shelter for the hidden monastery pocket beyond Frost Gorge (2450,-1480)"
+  },
+  {
+   "id": "HM09_02_monastery_outpost_02",
+   "row": "HM09",
+   "base": "monastery_outpost",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    40,
+    30,
+    30
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Hall, prayer-wheel house, guest house and bell shelter for the hidden monastery pocket beyond Frost Gorge (2450,-1480)"
+  },
+  {
+   "id": "HM09_03_monastery_outpost_03",
+   "row": "HM09",
+   "base": "monastery_outpost",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    40,
+    30,
+    30
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Hall, prayer-wheel house, guest house and bell shelter for the hidden monastery pocket beyond Frost Gorge (2450,-1480)"
+  },
+  {
+   "id": "HM09_04_monastery_outpost_04",
+   "row": "HM09",
+   "base": "monastery_outpost",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    40,
+    30,
+    30
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Hall, prayer-wheel house, guest house and bell shelter for the hidden monastery pocket beyond Frost Gorge (2450,-1480)"
+  },
+  {
+   "id": "FR01_01_giant_tree_01",
+   "row": "FR01",
+   "base": "giant_tree",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    90,
+    160,
+    90
+   ],
+   "tris": 40000,
+   "rework": false,
+   "note": "Four giant-tree silhouettes: leaning, twin trunk, arched, broken top (natural, no glow)"
+  },
+  {
+   "id": "FR01_02_giant_tree_02",
+   "row": "FR01",
+   "base": "giant_tree",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    90,
+    160,
+    90
+   ],
+   "tris": 40000,
+   "rework": false,
+   "note": "Four giant-tree silhouettes: leaning, twin trunk, arched, broken top (natural, no glow)"
+  },
+  {
+   "id": "FR01_03_giant_tree_03",
+   "row": "FR01",
+   "base": "giant_tree",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    90,
+    160,
+    90
+   ],
+   "tris": 40000,
+   "rework": false,
+   "note": "Four giant-tree silhouettes: leaning, twin trunk, arched, broken top (natural, no glow)"
+  },
+  {
+   "id": "FR01_04_giant_tree_04",
+   "row": "FR01",
+   "base": "giant_tree",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    90,
+    160,
+    90
+   ],
+   "tris": 40000,
+   "rework": false,
+   "note": "Four giant-tree silhouettes: leaning, twin trunk, arched, broken top (natural, no glow)"
+  },
+  {
+   "id": "FR02_01_forest_ruin_01",
+   "row": "FR02",
+   "base": "forest_ruin",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    40,
+    34,
+    30
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Overgrown arch, stair, wall, altar and two broken pillars"
+  },
+  {
+   "id": "FR02_02_forest_ruin_02",
+   "row": "FR02",
+   "base": "forest_ruin",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    40,
+    34,
+    30
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Overgrown arch, stair, wall, altar and two broken pillars"
+  },
+  {
+   "id": "FR02_03_forest_ruin_03",
+   "row": "FR02",
+   "base": "forest_ruin",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    40,
+    34,
+    30
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Overgrown arch, stair, wall, altar and two broken pillars"
+  },
+  {
+   "id": "FR02_04_forest_ruin_04",
+   "row": "FR02",
+   "base": "forest_ruin",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    40,
+    34,
+    30
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Overgrown arch, stair, wall, altar and two broken pillars"
+  },
+  {
+   "id": "FR02_05_forest_ruin_05",
+   "row": "FR02",
+   "base": "forest_ruin",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    40,
+    34,
+    30
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Overgrown arch, stair, wall, altar and two broken pillars"
+  },
+  {
+   "id": "FR02_06_forest_ruin_06",
+   "row": "FR02",
+   "base": "forest_ruin",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    40,
+    34,
+    30
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Overgrown arch, stair, wall, altar and two broken pillars"
+  },
+  {
+   "id": "FR03_01_cave_mouth_01",
+   "row": "FR03",
+   "base": "cave_mouth",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    40,
+    30,
+    30
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Cave mouths and rock arches for secret caves"
+  },
+  {
+   "id": "FR03_02_cave_mouth_02",
+   "row": "FR03",
+   "base": "cave_mouth",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    40,
+    30,
+    30
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Cave mouths and rock arches for secret caves"
+  },
+  {
+   "id": "FR03_03_cave_mouth_03",
+   "row": "FR03",
+   "base": "cave_mouth",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    40,
+    30,
+    30
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Cave mouths and rock arches for secret caves"
+  },
+  {
+   "id": "FR03_04_cave_mouth_04",
+   "row": "FR03",
+   "base": "cave_mouth",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    40,
+    30,
+    30
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Cave mouths and rock arches for secret caves"
+  },
+  {
+   "id": "FR03_05_cave_mouth_05",
+   "row": "FR03",
+   "base": "cave_mouth",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    40,
+    30,
+    30
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Cave mouths and rock arches for secret caves"
+  },
+  {
+   "id": "FR03_06_cave_mouth_06",
+   "row": "FR03",
+   "base": "cave_mouth",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    40,
+    30,
+    30
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Cave mouths and rock arches for secret caves"
+  },
+  {
+   "id": "PL01_01_farmhouse_01",
+   "row": "PL01",
+   "base": "farmhouse",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    28,
+    22,
+    24
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Farmhouses"
+  },
+  {
+   "id": "PL01_02_farmhouse_02",
+   "row": "PL01",
+   "base": "farmhouse",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    28,
+    22,
+    24
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Farmhouses"
+  },
+  {
+   "id": "PL01_03_farmhouse_03",
+   "row": "PL01",
+   "base": "farmhouse",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    28,
+    22,
+    24
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Farmhouses"
+  },
+  {
+   "id": "PL01_04_farmhouse_04",
+   "row": "PL01",
+   "base": "farmhouse",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    28,
+    22,
+    24
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Farmhouses"
+  },
+  {
+   "id": "PL02_01_hay_silo_01",
+   "row": "PL02",
+   "base": "hay_silo",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    14,
+    24,
+    14
+   ],
+   "tris": 5000,
+   "rework": false,
+   "note": "Hay stacks and a silo"
+  },
+  {
+   "id": "PL02_02_hay_silo_02",
+   "row": "PL02",
+   "base": "hay_silo",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    14,
+    24,
+    14
+   ],
+   "tris": 5000,
+   "rework": false,
+   "note": "Hay stacks and a silo"
+  },
+  {
+   "id": "PL02_03_hay_silo_03",
+   "row": "PL02",
+   "base": "hay_silo",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    14,
+    24,
+    14
+   ],
+   "tris": 5000,
+   "rework": false,
+   "note": "Hay stacks and a silo"
+  },
+  {
+   "id": "PL03_01_farm_cart_01",
+   "row": "PL03",
+   "base": "farm_cart",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    14,
+    8,
+    8
+   ],
+   "tris": 3000,
+   "rework": false,
+   "note": "Carts"
+  },
+  {
+   "id": "PL03_02_farm_cart_02",
+   "row": "PL03",
+   "base": "farm_cart",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    14,
+    8,
+    8
+   ],
+   "tris": 3000,
+   "rework": false,
+   "note": "Carts"
+  },
+  {
+   "id": "PL04_01_mill_waterwheel",
+   "row": "PL04",
+   "base": "mill_waterwheel",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    34,
+    30,
+    30
+   ],
+   "tris": 16000,
+   "rework": false,
+   "note": "Watermill"
+  },
+  {
+   "id": "PL05_01_ruined_watchtower_plains_01",
+   "row": "PL05",
+   "base": "ruined_watchtower_plains",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    20,
+    40,
+    20
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Ruined watchtowers"
+  },
+  {
+   "id": "PL05_02_ruined_watchtower_plains_02",
+   "row": "PL05",
+   "base": "ruined_watchtower_plains",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    20,
+    40,
+    20
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Ruined watchtowers"
+  },
+  {
+   "id": "PL05_03_ruined_watchtower_plains_03",
+   "row": "PL05",
+   "base": "ruined_watchtower_plains",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    20,
+    40,
+    20
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Ruined watchtowers"
+  },
+  {
+   "id": "PL06_01_rock_arch_natural_01",
+   "row": "PL06",
+   "base": "rock_arch_natural",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    60,
+    40,
+    24
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Natural rock arches that carry paths over streams"
+  },
+  {
+   "id": "PL06_02_rock_arch_natural_02",
+   "row": "PL06",
+   "base": "rock_arch_natural",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    60,
+    40,
+    24
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Natural rock arches that carry paths over streams"
+  },
+  {
+   "id": "DS01_01_adobe_house_01",
+   "row": "DS01",
+   "base": "adobe_house",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    20,
+    18,
+    20
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Desert houses"
+  },
+  {
+   "id": "DS01_02_adobe_house_02",
+   "row": "DS01",
+   "base": "adobe_house",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    20,
+    18,
+    20
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Desert houses"
+  },
+  {
+   "id": "DS01_03_adobe_house_03",
+   "row": "DS01",
+   "base": "adobe_house",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    20,
+    18,
+    20
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Desert houses"
+  },
+  {
+   "id": "DS01_04_adobe_house_04",
+   "row": "DS01",
+   "base": "adobe_house",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    20,
+    18,
+    20
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Desert houses"
+  },
+  {
+   "id": "DS01_05_adobe_house_05",
+   "row": "DS01",
+   "base": "adobe_house",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    20,
+    18,
+    20
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Desert houses"
+  },
+  {
+   "id": "DS01_06_adobe_house_06",
+   "row": "DS01",
+   "base": "adobe_house",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    20,
+    18,
+    20
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Desert houses"
+  },
+  {
+   "id": "DS02_01_desert_market_01",
+   "row": "DS02",
+   "base": "desert_market",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    24,
+    16,
+    18
+   ],
+   "tris": 6000,
+   "rework": false,
+   "note": "Well, awning and stall sets"
+  },
+  {
+   "id": "DS02_02_desert_market_02",
+   "row": "DS02",
+   "base": "desert_market",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    24,
+    16,
+    18
+   ],
+   "tris": 6000,
+   "rework": false,
+   "note": "Well, awning and stall sets"
+  },
+  {
+   "id": "DS02_03_desert_market_03",
+   "row": "DS02",
+   "base": "desert_market",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    24,
+    16,
+    18
+   ],
+   "tris": 6000,
+   "rework": false,
+   "note": "Well, awning and stall sets"
+  },
+  {
+   "id": "DS03_01_caravan_wagon_01",
+   "row": "DS03",
+   "base": "caravan_wagon",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    18,
+    12,
+    10
+   ],
+   "tris": 5000,
+   "rework": false,
+   "note": "Caravan wagons"
+  },
+  {
+   "id": "DS03_02_caravan_wagon_02",
+   "row": "DS03",
+   "base": "caravan_wagon",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    18,
+    12,
+    10
+   ],
+   "tris": 5000,
+   "rework": false,
+   "note": "Caravan wagons"
+  },
+  {
+   "id": "DS04_01_palm_01",
+   "row": "DS04",
+   "base": "palm",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    14,
+    42,
+    14
+   ],
+   "tris": 6000,
+   "rework": false,
+   "note": "Oasis palms"
+  },
+  {
+   "id": "DS04_02_palm_02",
+   "row": "DS04",
+   "base": "palm",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    14,
+    42,
+    14
+   ],
+   "tris": 6000,
+   "rework": false,
+   "note": "Oasis palms"
+  },
+  {
+   "id": "DS04_03_palm_03",
+   "row": "DS04",
+   "base": "palm",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    14,
+    42,
+    14
+   ],
+   "tris": 6000,
+   "rework": false,
+   "note": "Oasis palms"
+  },
+  {
+   "id": "DS05_01_oasis_rock_ring_01",
+   "row": "DS05",
+   "base": "oasis_rock_ring",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    50,
+    10,
+    50
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Rocks around an oasis pool"
+  },
+  {
+   "id": "DS05_02_oasis_rock_ring_02",
+   "row": "DS05",
+   "base": "oasis_rock_ring",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    50,
+    10,
+    50
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Rocks around an oasis pool"
+  },
+  {
+   "id": "DS06_01_canyon_wall_01",
+   "row": "DS06",
+   "base": "canyon_wall",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    120,
+    90,
+    40
+   ],
+   "tris": 20000,
+   "rework": false,
+   "note": "Sandstone canyon walls (on top of the 3 existing R06)"
+  },
+  {
+   "id": "DS06_02_canyon_wall_02",
+   "row": "DS06",
+   "base": "canyon_wall",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    120,
+    90,
+    40
+   ],
+   "tris": 20000,
+   "rework": false,
+   "note": "Sandstone canyon walls (on top of the 3 existing R06)"
+  },
+  {
+   "id": "DS06_03_canyon_wall_03",
+   "row": "DS06",
+   "base": "canyon_wall",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    120,
+    90,
+    40
+   ],
+   "tris": 20000,
+   "rework": false,
+   "note": "Sandstone canyon walls (on top of the 3 existing R06)"
+  },
+  {
+   "id": "DS06_04_canyon_wall_04",
+   "row": "DS06",
+   "base": "canyon_wall",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    120,
+    90,
+    40
+   ],
+   "tris": 20000,
+   "rework": false,
+   "note": "Sandstone canyon walls (on top of the 3 existing R06)"
+  },
+  {
+   "id": "DS07_01_hoodoo_arch_01",
+   "row": "DS07",
+   "base": "hoodoo_arch",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    40,
+    70,
+    30
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Hoodoos and rock arches"
+  },
+  {
+   "id": "DS07_02_hoodoo_arch_02",
+   "row": "DS07",
+   "base": "hoodoo_arch",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    40,
+    70,
+    30
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Hoodoos and rock arches"
+  },
+  {
+   "id": "DS07_03_hoodoo_arch_03",
+   "row": "DS07",
+   "base": "hoodoo_arch",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    40,
+    70,
+    30
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Hoodoos and rock arches"
+  },
+  {
+   "id": "DS07_04_hoodoo_arch_04",
+   "row": "DS07",
+   "base": "hoodoo_arch",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    40,
+    70,
+    30
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Hoodoos and rock arches"
+  },
+  {
+   "id": "DS08_01_underground_entrance_01",
+   "row": "DS08",
+   "base": "underground_entrance",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    30,
+    24,
+    30
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Stair-down entrances to the underground"
+  },
+  {
+   "id": "DS08_02_underground_entrance_02",
+   "row": "DS08",
+   "base": "underground_entrance",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    30,
+    24,
+    30
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Stair-down entrances to the underground"
+  },
+  {
+   "id": "DS08_03_underground_entrance_03",
+   "row": "DS08",
+   "base": "underground_entrance",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    30,
+    24,
+    30
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Stair-down entrances to the underground"
+  },
+  {
+   "id": "CO01_01_coastal_cliff_01",
+   "row": "CO01",
+   "base": "coastal_cliff",
+   "prio": "P1",
+   "region": "coast",
+   "size": [
+    110,
+    70,
+    50
+   ],
+   "tris": 18000,
+   "rework": false,
+   "note": "Cliff pieces that replace the archived R04 grey boxes"
+  },
+  {
+   "id": "CO01_02_coastal_cliff_02",
+   "row": "CO01",
+   "base": "coastal_cliff",
+   "prio": "P1",
+   "region": "coast",
+   "size": [
+    110,
+    70,
+    50
+   ],
+   "tris": 18000,
+   "rework": false,
+   "note": "Cliff pieces that replace the archived R04 grey boxes"
+  },
+  {
+   "id": "CO01_03_coastal_cliff_03",
+   "row": "CO01",
+   "base": "coastal_cliff",
+   "prio": "P1",
+   "region": "coast",
+   "size": [
+    110,
+    70,
+    50
+   ],
+   "tris": 18000,
+   "rework": false,
+   "note": "Cliff pieces that replace the archived R04 grey boxes"
+  },
+  {
+   "id": "CO01_04_coastal_cliff_04",
+   "row": "CO01",
+   "base": "coastal_cliff",
+   "prio": "P1",
+   "region": "coast",
+   "size": [
+    110,
+    70,
+    50
+   ],
+   "tris": 18000,
+   "rework": false,
+   "note": "Cliff pieces that replace the archived R04 grey boxes"
+  },
+  {
+   "id": "CO01_05_coastal_cliff_05",
+   "row": "CO01",
+   "base": "coastal_cliff",
+   "prio": "P1",
+   "region": "coast",
+   "size": [
+    110,
+    70,
+    50
+   ],
+   "tris": 18000,
+   "rework": false,
+   "note": "Cliff pieces that replace the archived R04 grey boxes"
+  },
+  {
+   "id": "CO01_06_coastal_cliff_06",
+   "row": "CO01",
+   "base": "coastal_cliff",
+   "prio": "P1",
+   "region": "coast",
+   "size": [
+    110,
+    70,
+    50
+   ],
+   "tris": 18000,
+   "rework": false,
+   "note": "Cliff pieces that replace the archived R04 grey boxes"
+  },
+  {
+   "id": "CO02_01_sea_stack_01",
+   "row": "CO02",
+   "base": "sea_stack",
+   "prio": "P1",
+   "region": "coast",
+   "size": [
+    40,
+    90,
+    40
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Sea stacks"
+  },
+  {
+   "id": "CO02_02_sea_stack_02",
+   "row": "CO02",
+   "base": "sea_stack",
+   "prio": "P1",
+   "region": "coast",
+   "size": [
+    40,
+    90,
+    40
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Sea stacks"
+  },
+  {
+   "id": "CO02_03_sea_stack_03",
+   "row": "CO02",
+   "base": "sea_stack",
+   "prio": "P1",
+   "region": "coast",
+   "size": [
+    40,
+    90,
+    40
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Sea stacks"
+  },
+  {
+   "id": "CO03_01_reef_01",
+   "row": "CO03",
+   "base": "reef",
+   "prio": "P2",
+   "region": "coast",
+   "size": [
+    30,
+    6,
+    30
+   ],
+   "tris": 6000,
+   "rework": false,
+   "note": "Low reefs and sea rocks"
+  },
+  {
+   "id": "CO03_02_reef_02",
+   "row": "CO03",
+   "base": "reef",
+   "prio": "P2",
+   "region": "coast",
+   "size": [
+    30,
+    6,
+    30
+   ],
+   "tris": 6000,
+   "rework": false,
+   "note": "Low reefs and sea rocks"
+  },
+  {
+   "id": "CO03_03_reef_03",
+   "row": "CO03",
+   "base": "reef",
+   "prio": "P2",
+   "region": "coast",
+   "size": [
+    30,
+    6,
+    30
+   ],
+   "tris": 6000,
+   "rework": false,
+   "note": "Low reefs and sea rocks"
+  },
+  {
+   "id": "CO03_04_reef_04",
+   "row": "CO03",
+   "base": "reef",
+   "prio": "P2",
+   "region": "coast",
+   "size": [
+    30,
+    6,
+    30
+   ],
+   "tris": 6000,
+   "rework": false,
+   "note": "Low reefs and sea rocks"
+  },
+  {
+   "id": "CO03_05_reef_05",
+   "row": "CO03",
+   "base": "reef",
+   "prio": "P2",
+   "region": "coast",
+   "size": [
+    30,
+    6,
+    30
+   ],
+   "tris": 6000,
+   "rework": false,
+   "note": "Low reefs and sea rocks"
+  },
+  {
+   "id": "CO03_06_reef_06",
+   "row": "CO03",
+   "base": "reef",
+   "prio": "P2",
+   "region": "coast",
+   "size": [
+    30,
+    6,
+    30
+   ],
+   "tris": 6000,
+   "rework": false,
+   "note": "Low reefs and sea rocks"
+  },
+  {
+   "id": "CO04_01_sea_arch_01",
+   "row": "CO04",
+   "base": "sea_arch",
+   "prio": "P2",
+   "region": "coast",
+   "size": [
+    70,
+    60,
+    30
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Sea arches"
+  },
+  {
+   "id": "CO04_02_sea_arch_02",
+   "row": "CO04",
+   "base": "sea_arch",
+   "prio": "P2",
+   "region": "coast",
+   "size": [
+    70,
+    60,
+    30
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Sea arches"
+  },
+  {
+   "id": "CO05_01_ruin_islet_01",
+   "row": "CO05",
+   "base": "ruin_islet",
+   "prio": "P2",
+   "region": "coast",
+   "size": [
+    60,
+    40,
+    60
+   ],
+   "tris": 16000,
+   "rework": false,
+   "note": "Small ruin islets"
+  },
+  {
+   "id": "CO05_02_ruin_islet_02",
+   "row": "CO05",
+   "base": "ruin_islet",
+   "prio": "P2",
+   "region": "coast",
+   "size": [
+    60,
+    40,
+    60
+   ],
+   "tris": 16000,
+   "rework": false,
+   "note": "Small ruin islets"
+  },
+  {
+   "id": "CO05_03_ruin_islet_03",
+   "row": "CO05",
+   "base": "ruin_islet",
+   "prio": "P2",
+   "region": "coast",
+   "size": [
+    60,
+    40,
+    60
+   ],
+   "tris": 16000,
+   "rework": false,
+   "note": "Small ruin islets"
+  },
+  {
+   "id": "RD01_01_watchtower_01",
+   "row": "RD01",
+   "base": "watchtower",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    20,
+    50,
+    20
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Two intact and two ruined watchtowers"
+  },
+  {
+   "id": "RD01_02_watchtower_02",
+   "row": "RD01",
+   "base": "watchtower",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    20,
+    50,
+    20
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Two intact and two ruined watchtowers"
+  },
+  {
+   "id": "RD01_03_watchtower_03",
+   "row": "RD01",
+   "base": "watchtower",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    20,
+    50,
+    20
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Two intact and two ruined watchtowers"
+  },
+  {
+   "id": "RD01_04_watchtower_04",
+   "row": "RD01",
+   "base": "watchtower",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    20,
+    50,
+    20
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Two intact and two ruined watchtowers"
+  },
+  {
+   "id": "RD02_01_camp_set_01",
+   "row": "RD02",
+   "base": "camp_set",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    16,
+    10,
+    14
+   ],
+   "tris": 4000,
+   "rework": false,
+   "note": "Tents x3, cooking rack, supply stack, bedroll"
+  },
+  {
+   "id": "RD02_02_camp_set_02",
+   "row": "RD02",
+   "base": "camp_set",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    16,
+    10,
+    14
+   ],
+   "tris": 4000,
+   "rework": false,
+   "note": "Tents x3, cooking rack, supply stack, bedroll"
+  },
+  {
+   "id": "RD02_03_camp_set_03",
+   "row": "RD02",
+   "base": "camp_set",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    16,
+    10,
+    14
+   ],
+   "tris": 4000,
+   "rework": false,
+   "note": "Tents x3, cooking rack, supply stack, bedroll"
+  },
+  {
+   "id": "RD02_04_camp_set_04",
+   "row": "RD02",
+   "base": "camp_set",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    16,
+    10,
+    14
+   ],
+   "tris": 4000,
+   "rework": false,
+   "note": "Tents x3, cooking rack, supply stack, bedroll"
+  },
+  {
+   "id": "RD02_05_camp_set_05",
+   "row": "RD02",
+   "base": "camp_set",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    16,
+    10,
+    14
+   ],
+   "tris": 4000,
+   "rework": false,
+   "note": "Tents x3, cooking rack, supply stack, bedroll"
+  },
+  {
+   "id": "RD02_06_camp_set_06",
+   "row": "RD02",
+   "base": "camp_set",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    16,
+    10,
+    14
+   ],
+   "tris": 4000,
+   "rework": false,
+   "note": "Tents x3, cooking rack, supply stack, bedroll"
+  },
+  {
+   "id": "RD03_01_waystation_01",
+   "row": "RD03",
+   "base": "waystation",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    30,
+    20,
+    24
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Roadside waystations"
+  },
+  {
+   "id": "RD03_02_waystation_02",
+   "row": "RD03",
+   "base": "waystation",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    30,
+    20,
+    24
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Roadside waystations"
+  },
+  {
+   "id": "RD04_01_trading_post_01",
+   "row": "RD04",
+   "base": "trading_post",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    30,
+    20,
+    24
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Trading posts"
+  },
+  {
+   "id": "RD04_02_trading_post_02",
+   "row": "RD04",
+   "base": "trading_post",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    30,
+    20,
+    24
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Trading posts"
+  },
+  {
+   "id": "RD05_01_battlefield_prop_01",
+   "row": "RD05",
+   "base": "battlefield_prop",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    14,
+    10,
+    10
+   ],
+   "tris": 3000,
+   "rework": false,
+   "note": "Broken ballista, cart, banner, spear rack, shield pile"
+  },
+  {
+   "id": "RD05_02_battlefield_prop_02",
+   "row": "RD05",
+   "base": "battlefield_prop",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    14,
+    10,
+    10
+   ],
+   "tris": 3000,
+   "rework": false,
+   "note": "Broken ballista, cart, banner, spear rack, shield pile"
+  },
+  {
+   "id": "RD05_03_battlefield_prop_03",
+   "row": "RD05",
+   "base": "battlefield_prop",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    14,
+    10,
+    10
+   ],
+   "tris": 3000,
+   "rework": false,
+   "note": "Broken ballista, cart, banner, spear rack, shield pile"
+  },
+  {
+   "id": "RD05_04_battlefield_prop_04",
+   "row": "RD05",
+   "base": "battlefield_prop",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    14,
+    10,
+    10
+   ],
+   "tris": 3000,
+   "rework": false,
+   "note": "Broken ballista, cart, banner, spear rack, shield pile"
+  },
+  {
+   "id": "RD05_05_battlefield_prop_05",
+   "row": "RD05",
+   "base": "battlefield_prop",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    14,
+    10,
+    10
+   ],
+   "tris": 3000,
+   "rework": false,
+   "note": "Broken ballista, cart, banner, spear rack, shield pile"
+  },
+  {
+   "id": "RD06_01_abandoned_house_01",
+   "row": "RD06",
+   "base": "abandoned_house",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    22,
+    20,
+    20
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Collapsed or burnt houses"
+  },
+  {
+   "id": "RD06_02_abandoned_house_02",
+   "row": "RD06",
+   "base": "abandoned_house",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    22,
+    20,
+    20
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Collapsed or burnt houses"
+  },
+  {
+   "id": "RD06_03_abandoned_house_03",
+   "row": "RD06",
+   "base": "abandoned_house",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    22,
+    20,
+    20
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Collapsed or burnt houses"
+  },
+  {
+   "id": "RD06_04_abandoned_house_04",
+   "row": "RD06",
+   "base": "abandoned_house",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    22,
+    20,
+    20
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Collapsed or burnt houses"
+  },
+  {
+   "id": "RD06_05_abandoned_house_05",
+   "row": "RD06",
+   "base": "abandoned_house",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    22,
+    20,
+    20
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Collapsed or burnt houses"
+  },
+  {
+   "id": "VG01_01_tree_tall_narrow_01",
+   "row": "VG01",
+   "base": "tree_tall_narrow",
+   "prio": "P1",
+   "region": "everywhere",
+   "size": [
+    14,
+    46,
+    14
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Poplar and beech, narrow crown"
+  },
+  {
+   "id": "VG01_02_tree_tall_narrow_02",
+   "row": "VG01",
+   "base": "tree_tall_narrow",
+   "prio": "P1",
+   "region": "everywhere",
+   "size": [
+    14,
+    46,
+    14
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Poplar and beech, narrow crown"
+  },
+  {
+   "id": "VG01_03_tree_tall_narrow_03",
+   "row": "VG01",
+   "base": "tree_tall_narrow",
+   "prio": "P1",
+   "region": "everywhere",
+   "size": [
+    14,
+    46,
+    14
+   ],
+   "tris": 9000,
+   "rework": false,
+   "note": "Poplar and beech, narrow crown"
+  },
+  {
+   "id": "VG02_01_tree_old_oak_01",
+   "row": "VG02",
+   "base": "tree_old_oak",
+   "prio": "P1",
+   "region": "everywhere",
+   "size": [
+    30,
+    42,
+    30
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Dark old oaks with a broken crown"
+  },
+  {
+   "id": "VG02_02_tree_old_oak_02",
+   "row": "VG02",
+   "base": "tree_old_oak",
+   "prio": "P1",
+   "region": "everywhere",
+   "size": [
+    30,
+    42,
+    30
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Dark old oaks with a broken crown"
+  },
+  {
+   "id": "VG03_01_tree_flowering_01",
+   "row": "VG03",
+   "base": "tree_flowering",
+   "prio": "P1",
+   "region": "everywhere",
+   "size": [
+    22,
+    30,
+    22
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Flowering trees"
+  },
+  {
+   "id": "VG03_02_tree_flowering_02",
+   "row": "VG03",
+   "base": "tree_flowering",
+   "prio": "P1",
+   "region": "everywhere",
+   "size": [
+    22,
+    30,
+    22
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Flowering trees"
+  },
+  {
+   "id": "VG04_01_tree_birch_01",
+   "row": "VG04",
+   "base": "tree_birch",
+   "prio": "P2",
+   "region": "everywhere",
+   "size": [
+    14,
+    34,
+    14
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Birch"
+  },
+  {
+   "id": "VG04_02_tree_birch_02",
+   "row": "VG04",
+   "base": "tree_birch",
+   "prio": "P2",
+   "region": "everywhere",
+   "size": [
+    14,
+    34,
+    14
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Birch"
+  },
+  {
+   "id": "VG04_03_tree_birch_03",
+   "row": "VG04",
+   "base": "tree_birch",
+   "prio": "P2",
+   "region": "everywhere",
+   "size": [
+    14,
+    34,
+    14
+   ],
+   "tris": 8000,
+   "rework": false,
+   "note": "Birch"
+  },
+  {
+   "id": "VG05_01_tree_cypress_swamp_01",
+   "row": "VG05",
+   "base": "tree_cypress_swamp",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    22,
+    38,
+    22
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Swamp cypress for marshland"
+  },
+  {
+   "id": "VG05_02_tree_cypress_swamp_02",
+   "row": "VG05",
+   "base": "tree_cypress_swamp",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    22,
+    38,
+    22
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Swamp cypress for marshland"
+  },
+  {
+   "id": "VG05_03_tree_cypress_swamp_03",
+   "row": "VG05",
+   "base": "tree_cypress_swamp",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    22,
+    38,
+    22
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Swamp cypress for marshland"
+  },
+  {
+   "id": "VG06_01_marsh_hummock_01",
+   "row": "VG06",
+   "base": "marsh_hummock",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    16,
+    6,
+    16
+   ],
+   "tris": 3000,
+   "rework": false,
+   "note": "Grass hummocks"
+  },
+  {
+   "id": "VG06_02_marsh_hummock_02",
+   "row": "VG06",
+   "base": "marsh_hummock",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    16,
+    6,
+    16
+   ],
+   "tris": 3000,
+   "rework": false,
+   "note": "Grass hummocks"
+  },
+  {
+   "id": "VG07_01_boardwalk_01",
+   "row": "VG07",
+   "base": "boardwalk",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    30,
+    4,
+    6
+   ],
+   "tris": 3000,
+   "rework": false,
+   "note": "Marsh boardwalk"
+  },
+  {
+   "id": "VG07_02_boardwalk_02",
+   "row": "VG07",
+   "base": "boardwalk",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    30,
+    4,
+    6
+   ],
+   "tris": 3000,
+   "rework": false,
+   "note": "Marsh boardwalk"
+  },
+  {
+   "id": "TW01_01_town1_hero_statue",
+   "row": "TW01",
+   "base": "town1_hero_statue",
+   "prio": "P2",
+   "region": "town1",
+   "size": [
+    14,
+    40,
+    14
+   ],
+   "tris": 16000,
+   "rework": false,
+   "note": "Statue with a real face for the plaza"
+  },
+  {
+   "id": "TW02_01_street_life_01",
+   "row": "TW02",
+   "base": "street_life",
+   "prio": "P2",
+   "region": "town1",
+   "size": [
+    12,
+    10,
+    10
+   ],
+   "tris": 3000,
+   "rework": false,
+   "note": "Carts x2, crate stacks x2, barrel stack, hanging signs x2, bench"
+  },
+  {
+   "id": "TW02_02_street_life_02",
+   "row": "TW02",
+   "base": "street_life",
+   "prio": "P2",
+   "region": "town1",
+   "size": [
+    12,
+    10,
+    10
+   ],
+   "tris": 3000,
+   "rework": false,
+   "note": "Carts x2, crate stacks x2, barrel stack, hanging signs x2, bench"
+  },
+  {
+   "id": "TW02_03_street_life_03",
+   "row": "TW02",
+   "base": "street_life",
+   "prio": "P2",
+   "region": "town1",
+   "size": [
+    12,
+    10,
+    10
+   ],
+   "tris": 3000,
+   "rework": false,
+   "note": "Carts x2, crate stacks x2, barrel stack, hanging signs x2, bench"
+  },
+  {
+   "id": "TW02_04_street_life_04",
+   "row": "TW02",
+   "base": "street_life",
+   "prio": "P2",
+   "region": "town1",
+   "size": [
+    12,
+    10,
+    10
+   ],
+   "tris": 3000,
+   "rework": false,
+   "note": "Carts x2, crate stacks x2, barrel stack, hanging signs x2, bench"
+  },
+  {
+   "id": "TW02_05_street_life_05",
+   "row": "TW02",
+   "base": "street_life",
+   "prio": "P2",
+   "region": "town1",
+   "size": [
+    12,
+    10,
+    10
+   ],
+   "tris": 3000,
+   "rework": false,
+   "note": "Carts x2, crate stacks x2, barrel stack, hanging signs x2, bench"
+  },
+  {
+   "id": "TW02_06_street_life_06",
+   "row": "TW02",
+   "base": "street_life",
+   "prio": "P2",
+   "region": "town1",
+   "size": [
+    12,
+    10,
+    10
+   ],
+   "tris": 3000,
+   "rework": false,
+   "note": "Carts x2, crate stacks x2, barrel stack, hanging signs x2, bench"
+  },
+  {
+   "id": "TW02_07_street_life_07",
+   "row": "TW02",
+   "base": "street_life",
+   "prio": "P2",
+   "region": "town1",
+   "size": [
+    12,
+    10,
+    10
+   ],
+   "tris": 3000,
+   "rework": false,
+   "note": "Carts x2, crate stacks x2, barrel stack, hanging signs x2, bench"
+  },
+  {
+   "id": "TW02_08_street_life_08",
+   "row": "TW02",
+   "base": "street_life",
+   "prio": "P2",
+   "region": "town1",
+   "size": [
+    12,
+    10,
+    10
+   ],
+   "tris": 3000,
+   "rework": false,
+   "note": "Carts x2, crate stacks x2, barrel stack, hanging signs x2, bench"
+  },
+  {
+   "id": "RV01_01_bank_rock_01",
+   "row": "RV01",
+   "base": "bank_rock",
+   "prio": "P2",
+   "region": "rivers",
+   "size": [
+    30,
+    10,
+    20
+   ],
+   "tris": 5000,
+   "rework": false,
+   "note": "Bank rocks for lakes and rivers"
+  },
+  {
+   "id": "RV01_02_bank_rock_02",
+   "row": "RV01",
+   "base": "bank_rock",
+   "prio": "P2",
+   "region": "rivers",
+   "size": [
+    30,
+    10,
+    20
+   ],
+   "tris": 5000,
+   "rework": false,
+   "note": "Bank rocks for lakes and rivers"
+  },
+  {
+   "id": "RV01_03_bank_rock_03",
+   "row": "RV01",
+   "base": "bank_rock",
+   "prio": "P2",
+   "region": "rivers",
+   "size": [
+    30,
+    10,
+    20
+   ],
+   "tris": 5000,
+   "rework": false,
+   "note": "Bank rocks for lakes and rivers"
+  },
+  {
+   "id": "RV01_04_bank_rock_04",
+   "row": "RV01",
+   "base": "bank_rock",
+   "prio": "P2",
+   "region": "rivers",
+   "size": [
+    30,
+    10,
+    20
+   ],
+   "tris": 5000,
+   "rework": false,
+   "note": "Bank rocks for lakes and rivers"
+  },
+  {
+   "id": "VC01_01_volcanic_rock_01",
+   "row": "VC01",
+   "base": "volcanic_rock",
+   "prio": "P2",
+   "region": "east_coast",
+   "size": [
+    60,
+    60,
+    50
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Dark volcanic rock formations (basalt colours; lava veins are terrain paint)"
+  },
+  {
+   "id": "VC01_02_volcanic_rock_02",
+   "row": "VC01",
+   "base": "volcanic_rock",
+   "prio": "P2",
+   "region": "east_coast",
+   "size": [
+    60,
+    60,
+    50
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Dark volcanic rock formations (basalt colours; lava veins are terrain paint)"
+  },
+  {
+   "id": "VC01_03_volcanic_rock_03",
+   "row": "VC01",
+   "base": "volcanic_rock",
+   "prio": "P2",
+   "region": "east_coast",
+   "size": [
+    60,
+    60,
+    50
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Dark volcanic rock formations (basalt colours; lava veins are terrain paint)"
+  },
+  {
+   "id": "VC01_04_volcanic_rock_04",
+   "row": "VC01",
+   "base": "volcanic_rock",
+   "prio": "P2",
+   "region": "east_coast",
+   "size": [
+    60,
+    60,
+    50
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Dark volcanic rock formations (basalt colours; lava veins are terrain paint)"
+  },
+  {
+   "id": "VC01_05_volcanic_rock_05",
+   "row": "VC01",
+   "base": "volcanic_rock",
+   "prio": "P2",
+   "region": "east_coast",
+   "size": [
+    60,
+    60,
+    50
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Dark volcanic rock formations (basalt colours; lava veins are terrain paint)"
+  },
+  {
+   "id": "VC01_06_volcanic_rock_06",
+   "row": "VC01",
+   "base": "volcanic_rock",
+   "prio": "P2",
+   "region": "east_coast",
+   "size": [
+    60,
+    60,
+    50
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Dark volcanic rock formations (basalt colours; lava veins are terrain paint)"
+  },
+  {
+   "id": "VC01_07_volcanic_rock_07",
+   "row": "VC01",
+   "base": "volcanic_rock",
+   "prio": "P2",
+   "region": "east_coast",
+   "size": [
+    60,
+    60,
+    50
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Dark volcanic rock formations (basalt colours; lava veins are terrain paint)"
+  },
+  {
+   "id": "VC01_08_volcanic_rock_08",
+   "row": "VC01",
+   "base": "volcanic_rock",
+   "prio": "P2",
+   "region": "east_coast",
+   "size": [
+    60,
+    60,
+    50
+   ],
+   "tris": 12000,
+   "rework": false,
+   "note": "Dark volcanic rock formations (basalt colours; lava veins are terrain paint)"
+  },
+  {
+   "id": "VC02_01_skull_cliff_hero_01",
+   "row": "VC02",
+   "base": "skull_cliff_hero",
+   "prio": "P1",
+   "region": "east_coast",
+   "size": [
+    200,
+    120,
+    120
+   ],
+   "tris": 55000,
+   "rework": false,
+   "note": "Giant skull carved into a dark cliff, the Skull City landmark (own design)"
+  },
+  {
+   "id": "VC02_02_skull_cliff_hero_02",
+   "row": "VC02",
+   "base": "skull_cliff_hero",
+   "prio": "P1",
+   "region": "east_coast",
+   "size": [
+    200,
+    120,
+    120
+   ],
+   "tris": 55000,
+   "rework": false,
+   "note": "Giant skull carved into a dark cliff, the Skull City landmark (own design)"
+  },
+  {
+   "id": "VC03_01_dark_fort_ruin_01",
+   "row": "VC03",
+   "base": "dark_fort_ruin",
+   "prio": "P2",
+   "region": "east_coast",
+   "size": [
+    60,
+    50,
+    50
+   ],
+   "tris": 16000,
+   "rework": false,
+   "note": "Dark fort ruins"
+  },
+  {
+   "id": "VC03_02_dark_fort_ruin_02",
+   "row": "VC03",
+   "base": "dark_fort_ruin",
+   "prio": "P2",
+   "region": "east_coast",
+   "size": [
+    60,
+    50,
+    50
+   ],
+   "tris": 16000,
+   "rework": false,
+   "note": "Dark fort ruins"
+  },
+  {
+   "id": "VC03_03_dark_fort_ruin_03",
+   "row": "VC03",
+   "base": "dark_fort_ruin",
+   "prio": "P2",
+   "region": "east_coast",
+   "size": [
+    60,
+    50,
+    50
+   ],
+   "tris": 16000,
+   "rework": false,
+   "note": "Dark fort ruins"
+  },
+  {
+   "id": "VC04_01_skull_city_building_01",
+   "row": "VC04",
+   "base": "skull_city_building",
+   "prio": "P2",
+   "region": "east_coast",
+   "size": [
+    30,
+    30,
+    30
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Ruined dark-stone houses and halls for the forbidden city"
+  },
+  {
+   "id": "VC04_02_skull_city_building_02",
+   "row": "VC04",
+   "base": "skull_city_building",
+   "prio": "P2",
+   "region": "east_coast",
+   "size": [
+    30,
+    30,
+    30
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Ruined dark-stone houses and halls for the forbidden city"
+  },
+  {
+   "id": "VC04_03_skull_city_building_03",
+   "row": "VC04",
+   "base": "skull_city_building",
+   "prio": "P2",
+   "region": "east_coast",
+   "size": [
+    30,
+    30,
+    30
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Ruined dark-stone houses and halls for the forbidden city"
+  },
+  {
+   "id": "VC04_04_skull_city_building_04",
+   "row": "VC04",
+   "base": "skull_city_building",
+   "prio": "P2",
+   "region": "east_coast",
+   "size": [
+    30,
+    30,
+    30
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Ruined dark-stone houses and halls for the forbidden city"
+  },
+  {
+   "id": "VC04_05_skull_city_building_05",
+   "row": "VC04",
+   "base": "skull_city_building",
+   "prio": "P2",
+   "region": "east_coast",
+   "size": [
+    30,
+    30,
+    30
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Ruined dark-stone houses and halls for the forbidden city"
+  },
+  {
+   "id": "VC04_06_skull_city_building_06",
+   "row": "VC04",
+   "base": "skull_city_building",
+   "prio": "P2",
+   "region": "east_coast",
+   "size": [
+    30,
+    30,
+    30
+   ],
+   "tris": 11000,
+   "rework": false,
+   "note": "Ruined dark-stone houses and halls for the forbidden city"
+  },
+  {
+   "id": "FL01_01_floating_island_hero_01",
+   "row": "FL01",
+   "base": "floating_island_hero",
+   "prio": "P2",
+   "region": "sea_edge",
+   "size": [
+    90,
+    60,
+    90
+   ],
+   "tris": 30000,
+   "rework": false,
+   "note": "Floating islands with a ruin"
+  },
+  {
+   "id": "FL01_02_floating_island_hero_02",
+   "row": "FL01",
+   "base": "floating_island_hero",
+   "prio": "P2",
+   "region": "sea_edge",
+   "size": [
+    90,
+    60,
+    90
+   ],
+   "tris": 30000,
+   "rework": false,
+   "note": "Floating islands with a ruin"
+  },
+  {
+   "id": "FL01_03_floating_island_hero_03",
+   "row": "FL01",
+   "base": "floating_island_hero",
+   "prio": "P2",
+   "region": "sea_edge",
+   "size": [
+    90,
+    60,
+    90
+   ],
+   "tris": 30000,
+   "rework": false,
+   "note": "Floating islands with a ruin"
+  },
+  {
+   "id": "FL02_01_floating_island_small_01",
+   "row": "FL02",
+   "base": "floating_island_small",
+   "prio": "P2",
+   "region": "sea_edge",
+   "size": [
+    40,
+    24,
+    40
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Small floating rocks"
+  },
+  {
+   "id": "FL02_02_floating_island_small_02",
+   "row": "FL02",
+   "base": "floating_island_small",
+   "prio": "P2",
+   "region": "sea_edge",
+   "size": [
+    40,
+    24,
+    40
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Small floating rocks"
+  },
+  {
+   "id": "FL02_03_floating_island_small_03",
+   "row": "FL02",
+   "base": "floating_island_small",
+   "prio": "P2",
+   "region": "sea_edge",
+   "size": [
+    40,
+    24,
+    40
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Small floating rocks"
+  },
+  {
+   "id": "SP01_01_snow_spire_cluster_01",
+   "row": "SP01",
+   "base": "snow_spire_cluster",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    60,
+    160,
+    60
+   ],
+   "tris": 15000,
+   "rework": false,
+   "note": "Jagged snow-capped spires and ridgelines for the Frosthold massif (the concept map mountain)"
+  },
+  {
+   "id": "SP01_02_snow_spire_cluster_02",
+   "row": "SP01",
+   "base": "snow_spire_cluster",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    60,
+    160,
+    60
+   ],
+   "tris": 15000,
+   "rework": false,
+   "note": "Jagged snow-capped spires and ridgelines for the Frosthold massif (the concept map mountain)"
+  },
+  {
+   "id": "SP01_03_snow_spire_cluster_03",
+   "row": "SP01",
+   "base": "snow_spire_cluster",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    60,
+    160,
+    60
+   ],
+   "tris": 15000,
+   "rework": false,
+   "note": "Jagged snow-capped spires and ridgelines for the Frosthold massif (the concept map mountain)"
+  },
+  {
+   "id": "SP01_04_snow_spire_cluster_04",
+   "row": "SP01",
+   "base": "snow_spire_cluster",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    60,
+    160,
+    60
+   ],
+   "tris": 15000,
+   "rework": false,
+   "note": "Jagged snow-capped spires and ridgelines for the Frosthold massif (the concept map mountain)"
+  },
+  {
+   "id": "SP01_05_snow_spire_cluster_05",
+   "row": "SP01",
+   "base": "snow_spire_cluster",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    60,
+    160,
+    60
+   ],
+   "tris": 15000,
+   "rework": false,
+   "note": "Jagged snow-capped spires and ridgelines for the Frosthold massif (the concept map mountain)"
+  },
+  {
+   "id": "SP01_06_snow_spire_cluster_06",
+   "row": "SP01",
+   "base": "snow_spire_cluster",
+   "prio": "P2",
+   "region": "highlands",
+   "size": [
+    60,
+    160,
+    60
+   ],
+   "tris": 15000,
+   "rework": false,
+   "note": "Jagged snow-capped spires and ridgelines for the Frosthold massif (the concept map mountain)"
+  },
+  {
+   "id": "SD01_01_red_mesa_cluster_01",
+   "row": "SD01",
+   "base": "red_mesa_cluster",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    120,
+    90,
+    100
+   ],
+   "tris": 16000,
+   "rework": false,
+   "note": "Orange-red mesa and butte clusters (the concept map desert)"
+  },
+  {
+   "id": "SD01_02_red_mesa_cluster_02",
+   "row": "SD01",
+   "base": "red_mesa_cluster",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    120,
+    90,
+    100
+   ],
+   "tris": 16000,
+   "rework": false,
+   "note": "Orange-red mesa and butte clusters (the concept map desert)"
+  },
+  {
+   "id": "SD01_03_red_mesa_cluster_03",
+   "row": "SD01",
+   "base": "red_mesa_cluster",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    120,
+    90,
+    100
+   ],
+   "tris": 16000,
+   "rework": false,
+   "note": "Orange-red mesa and butte clusters (the concept map desert)"
+  },
+  {
+   "id": "SD01_04_red_mesa_cluster_04",
+   "row": "SD01",
+   "base": "red_mesa_cluster",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    120,
+    90,
+    100
+   ],
+   "tris": 16000,
+   "rework": false,
+   "note": "Orange-red mesa and butte clusters (the concept map desert)"
+  },
+  {
+   "id": "SD01_05_red_mesa_cluster_05",
+   "row": "SD01",
+   "base": "red_mesa_cluster",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    120,
+    90,
+    100
+   ],
+   "tris": 16000,
+   "rework": false,
+   "note": "Orange-red mesa and butte clusters (the concept map desert)"
+  },
+  {
+   "id": "SD01_06_red_mesa_cluster_06",
+   "row": "SD01",
+   "base": "red_mesa_cluster",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    120,
+    90,
+    100
+   ],
+   "tris": 16000,
+   "rework": false,
+   "note": "Orange-red mesa and butte clusters (the concept map desert)"
+  },
+  {
+   "id": "SD02_01_desert_ruin_block_01",
+   "row": "SD02",
+   "base": "desert_ruin_block",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    40,
+    30,
+    40
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Sand-worn ruined city blocks around the ring temple"
+  },
+  {
+   "id": "SD02_02_desert_ruin_block_02",
+   "row": "SD02",
+   "base": "desert_ruin_block",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    40,
+    30,
+    40
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Sand-worn ruined city blocks around the ring temple"
+  },
+  {
+   "id": "SD02_03_desert_ruin_block_03",
+   "row": "SD02",
+   "base": "desert_ruin_block",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    40,
+    30,
+    40
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Sand-worn ruined city blocks around the ring temple"
+  },
+  {
+   "id": "SD02_04_desert_ruin_block_04",
+   "row": "SD02",
+   "base": "desert_ruin_block",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    40,
+    30,
+    40
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Sand-worn ruined city blocks around the ring temple"
+  },
+  {
+   "id": "SD02_05_desert_ruin_block_05",
+   "row": "SD02",
+   "base": "desert_ruin_block",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    40,
+    30,
+    40
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Sand-worn ruined city blocks around the ring temple"
+  },
+  {
+   "id": "SD02_06_desert_ruin_block_06",
+   "row": "SD02",
+   "base": "desert_ruin_block",
+   "prio": "P2",
+   "region": "desert",
+   "size": [
+    40,
+    30,
+    40
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Sand-worn ruined city blocks around the ring temple"
+  },
+  {
+   "id": "BR01_01_viaduct_bridge_01",
+   "row": "BR01",
+   "base": "viaduct_bridge",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    160,
+    40,
+    20
+   ],
+   "tris": 24000,
+   "rework": false,
+   "note": "Multi-arch stone viaduct across a valley (the long central bridge on the concept map)"
+  },
+  {
+   "id": "BR01_02_viaduct_bridge_02",
+   "row": "BR01",
+   "base": "viaduct_bridge",
+   "prio": "P2",
+   "region": "roads",
+   "size": [
+    160,
+    40,
+    20
+   ],
+   "tris": 24000,
+   "rework": false,
+   "note": "Multi-arch stone viaduct across a valley (the long central bridge on the concept map)"
+  },
+  {
+   "id": "HB01_01_harbour_wall_tower_01",
+   "row": "HB01",
+   "base": "harbour_wall_tower",
+   "prio": "P2",
+   "region": "coast",
+   "size": [
+    24,
+    40,
+    24
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Towers for the walled port"
+  },
+  {
+   "id": "HB01_02_harbour_wall_tower_02",
+   "row": "HB01",
+   "base": "harbour_wall_tower",
+   "prio": "P2",
+   "region": "coast",
+   "size": [
+    24,
+    40,
+    24
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Towers for the walled port"
+  },
+  {
+   "id": "HB01_03_harbour_wall_tower_03",
+   "row": "HB01",
+   "base": "harbour_wall_tower",
+   "prio": "P2",
+   "region": "coast",
+   "size": [
+    24,
+    40,
+    24
+   ],
+   "tris": 10000,
+   "rework": false,
+   "note": "Towers for the walled port"
+  },
+  {
+   "id": "VL01_01_village_church_spire",
+   "row": "VL01",
+   "base": "village_church_spire",
+   "prio": "P2",
+   "region": "plains",
+   "size": [
+    30,
+    70,
+    40
+   ],
+   "tris": 20000,
+   "rework": false,
+   "note": "Spired church for the west farm village (the concept map Rusty Village)"
+  },
+  {
+   "id": "RW01_01_rework_existing_01",
+   "row": "RW01",
+   "base": "rework_existing",
+   "prio": "P2",
+   "region": "rework",
+   "size": [
+    0,
+    0,
+    0
+   ],
+   "tris": 0,
+   "rework": true,
+   "note": "R03_03 mesa (open lip top), F08_13 gate (thin dark seam), D01_02 and D01_04 treehouses (cut from 58k to 50k triangles)"
+  },
+  {
+   "id": "RW01_02_rework_existing_02",
+   "row": "RW01",
+   "base": "rework_existing",
+   "prio": "P2",
+   "region": "rework",
+   "size": [
+    0,
+    0,
+    0
+   ],
+   "tris": 0,
+   "rework": true,
+   "note": "R03_03 mesa (open lip top), F08_13 gate (thin dark seam), D01_02 and D01_04 treehouses (cut from 58k to 50k triangles)"
+  },
+  {
+   "id": "RW01_03_rework_existing_03",
+   "row": "RW01",
+   "base": "rework_existing",
+   "prio": "P2",
+   "region": "rework",
+   "size": [
+    0,
+    0,
+    0
+   ],
+   "tris": 0,
+   "rework": true,
+   "note": "R03_03 mesa (open lip top), F08_13 gate (thin dark seam), D01_02 and D01_04 treehouses (cut from 58k to 50k triangles)"
+  },
+  {
+   "id": "RW01_04_rework_existing_04",
+   "row": "RW01",
+   "base": "rework_existing",
+   "prio": "P2",
+   "region": "rework",
+   "size": [
+    0,
+    0,
+    0
+   ],
+   "tris": 0,
+   "rework": true,
+   "note": "R03_03 mesa (open lip top), F08_13 gate (thin dark seam), D01_02 and D01_04 treehouses (cut from 58k to 50k triangles)"
+  },
+  {
+   "id": "RW02_01_rework_world_tree_roots",
+   "row": "RW02",
+   "base": "rework_world_tree_roots",
+   "prio": "P1",
+   "region": "rework",
+   "size": [
+    0,
+    0,
+    0
+   ],
+   "tris": 0,
+   "rework": true,
+   "note": "D05_02 world tree roots: rounded buttress roots tinted to the bright bark (reviewers: flat reddish fan, cardboard from above)"
+  },
+  {
+   "id": "NE01_01_village_sign_01",
+   "row": "NE01",
+   "base": "village_sign",
+   "prio": "P1",
+   "region": "entrances",
+   "size": [
+    10,
+    18,
+    4
+   ],
+   "tris": 6000,
+   "rework": false,
+   "note": "One carved sign per settlement on a post or stone (Town 1, elf valley, alpine, rusty, harbour, desert village; the west village reuses the rusty sign set): the only marker at a natural entrance, no arch, no gate"
+  },
+  {
+   "id": "NE01_02_village_sign_02",
+   "row": "NE01",
+   "base": "village_sign",
+   "prio": "P1",
+   "region": "entrances",
+   "size": [
+    10,
+    18,
+    4
+   ],
+   "tris": 6000,
+   "rework": false,
+   "note": "One carved sign per settlement on a post or stone (Town 1, elf valley, alpine, rusty, harbour, desert village; the west village reuses the rusty sign set): the only marker at a natural entrance, no arch, no gate"
+  },
+  {
+   "id": "NE01_03_village_sign_03",
+   "row": "NE01",
+   "base": "village_sign",
+   "prio": "P1",
+   "region": "entrances",
+   "size": [
+    10,
+    18,
+    4
+   ],
+   "tris": 6000,
+   "rework": false,
+   "note": "One carved sign per settlement on a post or stone (Town 1, elf valley, alpine, rusty, harbour, desert village; the west village reuses the rusty sign set): the only marker at a natural entrance, no arch, no gate"
+  },
+  {
+   "id": "NE01_04_village_sign_04",
+   "row": "NE01",
+   "base": "village_sign",
+   "prio": "P1",
+   "region": "entrances",
+   "size": [
+    10,
+    18,
+    4
+   ],
+   "tris": 6000,
+   "rework": false,
+   "note": "One carved sign per settlement on a post or stone (Town 1, elf valley, alpine, rusty, harbour, desert village; the west village reuses the rusty sign set): the only marker at a natural entrance, no arch, no gate"
+  },
+  {
+   "id": "NE01_05_village_sign_05",
+   "row": "NE01",
+   "base": "village_sign",
+   "prio": "P1",
+   "region": "entrances",
+   "size": [
+    10,
+    18,
+    4
+   ],
+   "tris": 6000,
+   "rework": false,
+   "note": "One carved sign per settlement on a post or stone (Town 1, elf valley, alpine, rusty, harbour, desert village; the west village reuses the rusty sign set): the only marker at a natural entrance, no arch, no gate"
+  },
+  {
+   "id": "NE01_06_village_sign_06",
+   "row": "NE01",
+   "base": "village_sign",
+   "prio": "P1",
+   "region": "entrances",
+   "size": [
+    10,
+    18,
+    4
+   ],
+   "tris": 6000,
+   "rework": false,
+   "note": "One carved sign per settlement on a post or stone (Town 1, elf valley, alpine, rusty, harbour, desert village; the west village reuses the rusty sign set): the only marker at a natural entrance, no arch, no gate"
+  },
+  {
+   "id": "NE02_01_entry_rock_pair_01",
+   "row": "NE02",
+   "base": "entry_rock_pair",
+   "prio": "P2",
+   "region": "entrances",
+   "size": [
+    30,
+    14,
+    22
+   ],
+   "tris": 5000,
+   "rework": false,
+   "note": "Large boulder pairs (mossy, frosted, sandstone, basalt) that frame a road where it meets a settlement"
+  },
+  {
+   "id": "NE02_02_entry_rock_pair_02",
+   "row": "NE02",
+   "base": "entry_rock_pair",
+   "prio": "P2",
+   "region": "entrances",
+   "size": [
+    30,
+    14,
+    22
+   ],
+   "tris": 5000,
+   "rework": false,
+   "note": "Large boulder pairs (mossy, frosted, sandstone, basalt) that frame a road where it meets a settlement"
+  },
+  {
+   "id": "NE02_03_entry_rock_pair_03",
+   "row": "NE02",
+   "base": "entry_rock_pair",
+   "prio": "P2",
+   "region": "entrances",
+   "size": [
+    30,
+    14,
+    22
+   ],
+   "tris": 5000,
+   "rework": false,
+   "note": "Large boulder pairs (mossy, frosted, sandstone, basalt) that frame a road where it meets a settlement"
+  },
+  {
+   "id": "NE02_04_entry_rock_pair_04",
+   "row": "NE02",
+   "base": "entry_rock_pair",
+   "prio": "P2",
+   "region": "entrances",
+   "size": [
+    30,
+    14,
+    22
+   ],
+   "tris": 5000,
+   "rework": false,
+   "note": "Large boulder pairs (mossy, frosted, sandstone, basalt) that frame a road where it meets a settlement"
+  },
+  {
+   "id": "EV01_01_elf_house_new_01",
+   "row": "EV01",
+   "base": "elf_house_new",
+   "prio": "P1",
+   "region": "forest",
+   "size": [
+    26,
+    30,
+    26
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Eight new elf house types so the valley stops repeating three round houses: tall tower house, bridge house, library, healer hut, archery lodge, bathhouse, council hall, weavers hall (wood and stone, warm lantern hooks, no glow)"
+  },
+  {
+   "id": "EV01_02_elf_house_new_02",
+   "row": "EV01",
+   "base": "elf_house_new",
+   "prio": "P1",
+   "region": "forest",
+   "size": [
+    26,
+    30,
+    26
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Eight new elf house types so the valley stops repeating three round houses: tall tower house, bridge house, library, healer hut, archery lodge, bathhouse, council hall, weavers hall (wood and stone, warm lantern hooks, no glow)"
+  },
+  {
+   "id": "EV01_03_elf_house_new_03",
+   "row": "EV01",
+   "base": "elf_house_new",
+   "prio": "P1",
+   "region": "forest",
+   "size": [
+    26,
+    30,
+    26
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Eight new elf house types so the valley stops repeating three round houses: tall tower house, bridge house, library, healer hut, archery lodge, bathhouse, council hall, weavers hall (wood and stone, warm lantern hooks, no glow)"
+  },
+  {
+   "id": "EV01_04_elf_house_new_04",
+   "row": "EV01",
+   "base": "elf_house_new",
+   "prio": "P1",
+   "region": "forest",
+   "size": [
+    26,
+    30,
+    26
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Eight new elf house types so the valley stops repeating three round houses: tall tower house, bridge house, library, healer hut, archery lodge, bathhouse, council hall, weavers hall (wood and stone, warm lantern hooks, no glow)"
+  },
+  {
+   "id": "EV01_05_elf_house_new_05",
+   "row": "EV01",
+   "base": "elf_house_new",
+   "prio": "P1",
+   "region": "forest",
+   "size": [
+    26,
+    30,
+    26
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Eight new elf house types so the valley stops repeating three round houses: tall tower house, bridge house, library, healer hut, archery lodge, bathhouse, council hall, weavers hall (wood and stone, warm lantern hooks, no glow)"
+  },
+  {
+   "id": "EV01_06_elf_house_new_06",
+   "row": "EV01",
+   "base": "elf_house_new",
+   "prio": "P1",
+   "region": "forest",
+   "size": [
+    26,
+    30,
+    26
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Eight new elf house types so the valley stops repeating three round houses: tall tower house, bridge house, library, healer hut, archery lodge, bathhouse, council hall, weavers hall (wood and stone, warm lantern hooks, no glow)"
+  },
+  {
+   "id": "EV01_07_elf_house_new_07",
+   "row": "EV01",
+   "base": "elf_house_new",
+   "prio": "P1",
+   "region": "forest",
+   "size": [
+    26,
+    30,
+    26
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Eight new elf house types so the valley stops repeating three round houses: tall tower house, bridge house, library, healer hut, archery lodge, bathhouse, council hall, weavers hall (wood and stone, warm lantern hooks, no glow)"
+  },
+  {
+   "id": "EV01_08_elf_house_new_08",
+   "row": "EV01",
+   "base": "elf_house_new",
+   "prio": "P1",
+   "region": "forest",
+   "size": [
+    26,
+    30,
+    26
+   ],
+   "tris": 14000,
+   "rework": false,
+   "note": "Eight new elf house types so the valley stops repeating three round houses: tall tower house, bridge house, library, healer hut, archery lodge, bathhouse, council hall, weavers hall (wood and stone, warm lantern hooks, no glow)"
+  },
+  {
+   "id": "EV02_01_canopy_cluster_01",
+   "row": "EV02",
+   "base": "canopy_cluster",
+   "prio": "P1",
+   "region": "forest",
+   "size": [
+    70,
+    40,
+    70
+   ],
+   "tris": 30000,
+   "rework": false,
+   "note": "Canopy village clusters: 3-4 platforms, rope bridges, small huts, ladders to the ground; for 90-140 studs up around the world tree"
+  },
+  {
+   "id": "EV02_02_canopy_cluster_02",
+   "row": "EV02",
+   "base": "canopy_cluster",
+   "prio": "P1",
+   "region": "forest",
+   "size": [
+    70,
+    40,
+    70
+   ],
+   "tris": 30000,
+   "rework": false,
+   "note": "Canopy village clusters: 3-4 platforms, rope bridges, small huts, ladders to the ground; for 90-140 studs up around the world tree"
+  },
+  {
+   "id": "EV02_03_canopy_cluster_03",
+   "row": "EV02",
+   "base": "canopy_cluster",
+   "prio": "P1",
+   "region": "forest",
+   "size": [
+    70,
+    40,
+    70
+   ],
+   "tris": 30000,
+   "rework": false,
+   "note": "Canopy village clusters: 3-4 platforms, rope bridges, small huts, ladders to the ground; for 90-140 studs up around the world tree"
+  },
+  {
+   "id": "EV03_01_elf_path_piece_01",
+   "row": "EV03",
+   "base": "elf_path_piece",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    20,
+    6,
+    20
+   ],
+   "tris": 4000,
+   "rework": false,
+   "note": "Root stairs, carved steps, stone-and-root bridge, garden arch, path posts, plaza paving ring"
+  },
+  {
+   "id": "EV03_02_elf_path_piece_02",
+   "row": "EV03",
+   "base": "elf_path_piece",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    20,
+    6,
+    20
+   ],
+   "tris": 4000,
+   "rework": false,
+   "note": "Root stairs, carved steps, stone-and-root bridge, garden arch, path posts, plaza paving ring"
+  },
+  {
+   "id": "EV03_03_elf_path_piece_03",
+   "row": "EV03",
+   "base": "elf_path_piece",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    20,
+    6,
+    20
+   ],
+   "tris": 4000,
+   "rework": false,
+   "note": "Root stairs, carved steps, stone-and-root bridge, garden arch, path posts, plaza paving ring"
+  },
+  {
+   "id": "EV03_04_elf_path_piece_04",
+   "row": "EV03",
+   "base": "elf_path_piece",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    20,
+    6,
+    20
+   ],
+   "tris": 4000,
+   "rework": false,
+   "note": "Root stairs, carved steps, stone-and-root bridge, garden arch, path posts, plaza paving ring"
+  },
+  {
+   "id": "EV03_05_elf_path_piece_05",
+   "row": "EV03",
+   "base": "elf_path_piece",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    20,
+    6,
+    20
+   ],
+   "tris": 4000,
+   "rework": false,
+   "note": "Root stairs, carved steps, stone-and-root bridge, garden arch, path posts, plaza paving ring"
+  },
+  {
+   "id": "EV03_06_elf_path_piece_06",
+   "row": "EV03",
+   "base": "elf_path_piece",
+   "prio": "P2",
+   "region": "forest",
+   "size": [
+    20,
+    6,
+    20
+   ],
+   "tris": 4000,
+   "rework": false,
+   "note": "Root stairs, carved steps, stone-and-root bridge, garden arch, path posts, plaza paving ring"
+  },
+  {
+   "id": "TW03_01_skull_avenue_set_01",
+   "row": "TW03",
+   "base": "skull_avenue_set",
+   "prio": "P2",
+   "region": "town1",
+   "size": [
+    14,
+    14,
+    14
+   ],
+   "tris": 5000,
+   "rework": false,
+   "note": "Braziers x2 and banner poles x2 for the avenue from the skull HQ apron to the plaza"
+  },
+  {
+   "id": "TW03_02_skull_avenue_set_02",
+   "row": "TW03",
+   "base": "skull_avenue_set",
+   "prio": "P2",
+   "region": "town1",
+   "size": [
+    14,
+    14,
+    14
+   ],
+   "tris": 5000,
+   "rework": false,
+   "note": "Braziers x2 and banner poles x2 for the avenue from the skull HQ apron to the plaza"
+  },
+  {
+   "id": "TW03_03_skull_avenue_set_03",
+   "row": "TW03",
+   "base": "skull_avenue_set",
+   "prio": "P2",
+   "region": "town1",
+   "size": [
+    14,
+    14,
+    14
+   ],
+   "tris": 5000,
+   "rework": false,
+   "note": "Braziers x2 and banner poles x2 for the avenue from the skull HQ apron to the plaza"
+  },
+  {
+   "id": "TW03_04_skull_avenue_set_04",
+   "row": "TW03",
+   "base": "skull_avenue_set",
+   "prio": "P2",
+   "region": "town1",
+   "size": [
+    14,
+    14,
+    14
+   ],
+   "tris": 5000,
+   "rework": false,
+   "note": "Braziers x2 and banner poles x2 for the avenue from the skull HQ apron to the plaza"
+  }
+ ],
+ "reuse": [
+  "bridges x11 (F08 x7, D04 x2, D09 plank x2)",
+  "windmills x2, barns x3, crop plots x6, scarecrows x3 (E08-E11)",
+  "shrines and ruins x7 (E12 x4, F08 shrines x3), ruin arches x2, standing stones x2, statues x3 (D08)",
+  "canyon walls x3 (R06), rock formations x11 (F07), rock faces x10 (E13), boulders x6 (E15), mesas x4 (R03)",
+  "ancient trees x5, world tree x3, hollow tree, canopies x3 (D05)",
+  "waterfall cliffs x4 (D09 x2, R05 x2), frozen waterfall (C09)",
+  "signposts x3, milestones x2, gate arches x2, story props x13, trail landmarks x9 (F08, F09, F11)",
+  "houses: capital houses x6 (B07), chalets x6 (C01), round houses x3 (D04), rusty huts x6 (A04) - recolour and re-roof, not rebuilt",
+  "trees: heartland x6, alpine x5, dry x3, coastal x4 (F01-F04); plants, logs, rocks, flowers (F05, F06, D06)"
+ ]
+}

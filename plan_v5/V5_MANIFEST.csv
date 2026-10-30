@@ -1,0 +1,405 @@
+﻿id,row,priority,region,size_x,size_y,size_z,tri_budget,rework,note
+CP01_01_ring_wall_straight_01,CP01,P1,capital,40,20,10,9000,,"40-stud wall segments (plain, arrow slits, buttressed); 8-stud wide red-brown wall-walk, white-capped inner parapet, crenellated outer edge; replaces B02_05"
+CP01_02_ring_wall_straight_02,CP01,P1,capital,40,20,10,9000,,"40-stud wall segments (plain, arrow slits, buttressed); 8-stud wide red-brown wall-walk, white-capped inner parapet, crenellated outer edge; replaces B02_05"
+CP01_03_ring_wall_straight_03,CP01,P1,capital,40,20,10,9000,,"40-stud wall segments (plain, arrow slits, buttressed); 8-stud wide red-brown wall-walk, white-capped inner parapet, crenellated outer edge; replaces B02_05"
+CP02_01_ring_wall_corner_01,CP02,P1,capital,24,22,24,12000,,"Polygon joints of 135, 90 and 150 degrees with a tower seat; replaces B02_06"
+CP02_02_ring_wall_corner_02,CP02,P1,capital,24,22,24,12000,,"Polygon joints of 135, 90 and 150 degrees with a tower seat; replaces B02_06"
+CP02_03_ring_wall_corner_03,CP02,P1,capital,24,22,24,12000,,"Polygon joints of 135, 90 and 150 degrees with a tower seat; replaces B02_06"
+CP03_01_ring_wall_stair_end_01,CP03,P1,capital,20,20,14,7000,,Stair up to the wall-walk and a wall end cap
+CP03_02_ring_wall_stair_end_02,CP03,P1,capital,20,20,14,7000,,Stair up to the wall-walk and a wall end cap
+CP04_01_tower_round_cone_01,CP04,P1,capital,22,48,22,14000,,"Round towers in 4 sizes (16, 22, 28, 34 studs wide) with maroon cone roofs and slit windows"
+CP04_02_tower_round_cone_02,CP04,P1,capital,22,48,22,14000,,"Round towers in 4 sizes (16, 22, 28, 34 studs wide) with maroon cone roofs and slit windows"
+CP04_03_tower_round_cone_03,CP04,P1,capital,22,48,22,14000,,"Round towers in 4 sizes (16, 22, 28, 34 studs wide) with maroon cone roofs and slit windows"
+CP04_04_tower_round_cone_04,CP04,P1,capital,22,48,22,14000,,"Round towers in 4 sizes (16, 22, 28, 34 studs wide) with maroon cone roofs and slit windows"
+CP05_01_turret_crenellated_01,CP05,P1,capital,14,26,14,8000,,Round crenellated turrets for the outer ring (the foreground silhouette in the reference)
+CP05_02_turret_crenellated_02,CP05,P1,capital,14,26,14,8000,,Round crenellated turrets for the outer ring (the foreground silhouette in the reference)
+CP06_01_gate_flank_tower_01,CP06,P1,capital,30,52,30,16000,,Twin towers that flank the main gatehouse
+CP06_02_gate_flank_tower_02,CP06,P1,capital,30,52,30,16000,,Twin towers that flank the main gatehouse
+CP07_01_gatehouse_main,CP07,P1,capital,60,56,40,30000,,"Portcullis arch, banner mounts, walkable passage; replaces B02_07"
+CP08_01_water_gate,CP08,P1,capital,40,30,30,18000,,Arched river gate where the capital river passes under the wall
+CP09_01_keep_terrace_hero,CP09,P1,capital,130,120,110,50000,,Grey stone keep with 8+ turrets and cone roofs on a raised terrace at the back of the enclosure; replaces the B02_01 silhouette
+CP10_01_keep_wing_01,CP10,P1,capital,60,70,50,28000,,Wings that widen the keep silhouette
+CP10_02_keep_wing_02,CP10,P1,capital,60,70,50,28000,,Wings that widen the keep silhouette
+CP11_01_great_hall_chapel_01,CP11,P2,capital,70,60,50,30000,,Great hall and royal chapel inside the castle court
+CP11_02_great_hall_chapel_02,CP11,P2,capital,70,60,50,30000,,Great hall and royal chapel inside the castle court
+CP12_01_terrace_retaining_wall_01,CP12,P1,capital,40,22,10,8000,,"Straight and curved retaining wall under the keep terrace, grassy top"
+CP12_02_terrace_retaining_wall_02,CP12,P1,capital,40,22,10,8000,,"Straight and curved retaining wall under the keep terrace, grassy top"
+CP13_01_grand_stair_01,CP13,P1,capital,30,22,40,9000,,"Wide stair from the gate court up the terrace, plus a narrow side stair"
+CP13_02_grand_stair_02,CP13,P1,capital,30,22,40,9000,,"Wide stair from the gate court up the terrace, plus a narrow side stair"
+CP14_01_skyline_tower_01,CP14,P1,capital,30,110,30,30000,,"Five different tall towers: clock, bell, observatory, beacon (unlit), water tower"
+CP14_02_skyline_tower_02,CP14,P1,capital,30,110,30,30000,,"Five different tall towers: clock, bell, observatory, beacon (unlit), water tower"
+CP14_03_skyline_tower_03,CP14,P1,capital,30,110,30,30000,,"Five different tall towers: clock, bell, observatory, beacon (unlit), water tower"
+CP14_04_skyline_tower_04,CP14,P1,capital,30,110,30,30000,,"Five different tall towers: clock, bell, observatory, beacon (unlit), water tower"
+CP14_05_skyline_tower_05,CP14,P1,capital,30,110,30,30000,,"Five different tall towers: clock, bell, observatory, beacon (unlit), water tower"
+CP15_01_order_hq_01,CP15,P1,capital,90,60,70,40000,,"Knights-order headquarters (own name and shape, not copied) plus 2 annex buildings"
+CP15_02_order_hq_02,CP15,P1,capital,90,60,70,40000,,"Knights-order headquarters (own name and shape, not copied) plus 2 annex buildings"
+CP15_03_order_hq_03,CP15,P1,capital,90,60,70,40000,,"Knights-order headquarters (own name and shape, not copied) plus 2 annex buildings"
+CP16_01_townhouse_new_01,CP16,P2,capital,22,28,22,11000,,"Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+CP16_02_townhouse_new_02,CP16,P2,capital,22,28,22,11000,,"Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+CP16_03_townhouse_new_03,CP16,P2,capital,22,28,22,11000,,"Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+CP16_04_townhouse_new_04,CP16,P2,capital,22,28,22,11000,,"Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+CP16_05_townhouse_new_05,CP16,P2,capital,22,28,22,11000,,"Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+CP16_06_townhouse_new_06,CP16,P2,capital,22,28,22,11000,,"Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+CP16_07_townhouse_new_07,CP16,P2,capital,22,28,22,11000,,"Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+CP16_08_townhouse_new_08,CP16,P2,capital,22,28,22,11000,,"Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+CP16_09_townhouse_new_09,CP16,P2,capital,22,28,22,11000,,"Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+CP16_10_townhouse_new_10,CP16,P2,capital,22,28,22,11000,,"Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+CP16_11_townhouse_new_11,CP16,P2,capital,22,28,22,11000,,"Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+CP16_12_townhouse_new_12,CP16,P2,capital,22,28,22,11000,,"Half-timbered orange-roof family: corner house, tall x2, courtyard x2, arcade shop x2, inn, guild hall x2, market hall"
+CP17_01_plaza_features_01,CP17,P2,capital,30,34,30,14000,,Central plaza monument and a public well
+CP17_02_plaza_features_02,CP17,P2,capital,30,34,30,14000,,Central plaza monument and a public well
+CP18_01_quay_wall_01,CP18,P2,capital,30,8,10,5000,,"River embankment: straight, curve, steps, mooring posts"
+CP18_02_quay_wall_02,CP18,P2,capital,30,8,10,5000,,"River embankment: straight, curve, steps, mooring posts"
+CP18_03_quay_wall_03,CP18,P2,capital,30,8,10,5000,,"River embankment: straight, curve, steps, mooring posts"
+CP18_04_quay_wall_04,CP18,P2,capital,30,8,10,5000,,"River embankment: straight, curve, steps, mooring posts"
+CP19_01_grand_bridge_01,CP19,P1,capital,60,28,26,26000,,"Towered stone bridge over the capital river, and a drawbridge"
+CP19_02_grand_bridge_02,CP19,P1,capital,60,28,26,26000,,"Towered stone bridge over the capital river, and a drawbridge"
+LM01_01_world_tree_trunk_door,LM01,P2,forest,36,50,36,30000,,"Hollow trunk piece with a door, stair and lantern niche (warm lantern only, no glow)"
+LM02_01_world_tree_falls,LM02,P2,forest,80,110,40,35000,,3-tier waterfall set for the world tree cliff
+LM03_01_frost_fortress_hero,LM03,P1,highlands,300,220,260,60000,,Fortress built into a snowy mountain flank (own name and design)
+LM04_01_fortress_rampart_step_01,LM04,P2,highlands,60,34,20,14000,,Stepped ramparts that climb the rock
+LM04_02_fortress_rampart_step_02,LM04,P2,highlands,60,34,20,14000,,Stepped ramparts that climb the rock
+LM04_03_fortress_rampart_step_03,LM04,P2,highlands,60,34,20,14000,,Stepped ramparts that climb the rock
+LM05_01_fortress_cliff_tower_01,LM05,P2,highlands,34,80,34,18000,,Towers clinging to the cliff
+LM05_02_fortress_cliff_tower_02,LM05,P2,highlands,34,80,34,18000,,Towers clinging to the cliff
+LM06_01_fortress_tunnel_gate,LM06,P2,highlands,60,50,60,24000,,Gate tunnel cut into the mountain
+LM07_01_carved_stair_switchback_01,LM07,P2,highlands,50,60,60,16000,,Switchback stairs carved into the slope
+LM07_02_carved_stair_switchback_02,LM07,P2,highlands,50,60,60,16000,,Switchback stairs carved into the slope
+LM08_01_mountain_span_bridge,LM08,P2,highlands,90,24,16,14000,,Stone span between two rock faces on a pass
+LM09_01_temple_buried_hero,LM09,P1,desert,180,90,160,55000,,Desert temple half buried in sand: the top third and one gate show
+LM10_01_temple_colonnade_buried_01,LM10,P2,desert,60,40,20,14000,,Colonnade sections sunk into the dunes
+LM10_02_temple_colonnade_buried_02,LM10,P2,desert,60,40,20,14000,,Colonnade sections sunk into the dunes
+LM10_03_temple_colonnade_buried_03,LM10,P2,desert,60,40,20,14000,,Colonnade sections sunk into the dunes
+LM11_01_temple_gate_buried,LM11,P2,desert,40,50,20,16000,,Half-buried gate
+LM12_01_temple_stair_down_01,LM12,P2,desert,30,24,40,9000,,Stair that leads down into the sand
+LM12_02_temple_stair_down_02,LM12,P2,desert,30,24,40,9000,,Stair that leads down into the sand
+LM13_01_guardian_statue_01,LM13,P2,desert,20,70,20,18000,,Original weathered guardian figures
+LM13_02_guardian_statue_02,LM13,P2,desert,20,70,20,18000,,Original weathered guardian figures
+LM14_01_sand_obelisk_01,LM14,P2,desert,10,60,10,5000,,"Carved obelisks, leaning"
+LM14_02_sand_obelisk_02,LM14,P2,desert,10,60,10,5000,,"Carved obelisks, leaning"
+LM14_03_sand_obelisk_03,LM14,P2,desert,10,60,10,5000,,"Carved obelisks, leaning"
+LM15_01_ring_temple_hero,LM15,P1,desert,220,60,220,55000,,Circular ring temple with an inner sanctum (from the concept map)
+LM16_01_ring_temple_segment_01,LM16,P2,desert,50,40,25,14000,,Ring wall segments for building out the circle
+LM16_02_ring_temple_segment_02,LM16,P2,desert,50,40,25,14000,,Ring wall segments for building out the circle
+LM17_01_ring_inner_sanctum,LM17,P2,desert,60,60,60,24000,,Inner sanctum
+LM18_01_crater_monolith_ring,LM18,P1,centre,140,50,140,40000,,Ring of carved standing stones around the crater rim (non-emissive)
+LM19_01_crater_rim_rock_01,LM19,P2,centre,60,40,50,12000,,Broken rim rocks
+LM19_02_crater_rim_rock_02,LM19,P2,centre,60,40,50,12000,,Broken rim rocks
+LM19_03_crater_rim_rock_03,LM19,P2,centre,60,40,50,12000,,Broken rim rocks
+LM19_04_crater_rim_rock_04,LM19,P2,centre,60,40,50,12000,,Broken rim rocks
+LM19_05_crater_rim_rock_05,LM19,P2,centre,60,40,50,12000,,Broken rim rocks
+LM20_01_crater_arcane_ruin_01,LM20,P2,centre,40,40,40,14000,,Small broken magical structures on the crater floor
+LM20_02_crater_arcane_ruin_02,LM20,P2,centre,40,40,40,14000,,Small broken magical structures on the crater floor
+LM20_03_crater_arcane_ruin_03,LM20,P2,centre,40,40,40,14000,,Small broken magical structures on the crater floor
+LM21_01_floating_rock_01,LM21,P3,centre,40,30,40,8000,,Drifting rock slabs over the crater (no glow)
+LM21_02_floating_rock_02,LM21,P3,centre,40,30,40,8000,,Drifting rock slabs over the crater (no glow)
+LM21_03_floating_rock_03,LM21,P3,centre,40,30,40,8000,,Drifting rock slabs over the crater (no glow)
+LM21_04_floating_rock_04,LM21,P3,centre,40,30,40,8000,,Drifting rock slabs over the crater (no glow)
+LM22_01_colossal_fall_cliff_hero,LM22,P1,forest,240,260,120,60000,,Colossal multi-fall cliff for the river valley
+LM23_01_gorge_wall_01,LM23,P2,forest,90,80,30,20000,,Gorge walls below the falls
+LM23_02_gorge_wall_02,LM23,P2,forest,90,80,30,20000,,Gorge walls below the falls
+LM23_03_gorge_wall_03,LM23,P2,forest,90,80,30,20000,,Gorge walls below the falls
+LM24_01_fall_pool_rock_01,LM24,P2,forest,30,16,30,6000,,Pool rocks at the base
+LM24_02_fall_pool_rock_02,LM24,P2,forest,30,16,30,6000,,Pool rocks at the base
+LM24_03_fall_pool_rock_03,LM24,P2,forest,30,16,30,6000,,Pool rocks at the base
+LM25_01_ruin_gate_hero,LM25,P1,plains,90,80,30,40000,,"Gate of the ancient civilization, half collapsed"
+LM26_01_ruin_arena_segment_01,LM26,P2,plains,60,34,30,14000,,Arena wall segments
+LM26_02_ruin_arena_segment_02,LM26,P2,plains,60,34,30,14000,,Arena wall segments
+LM26_03_ruin_arena_segment_03,LM26,P2,plains,60,34,30,14000,,Arena wall segments
+LM27_01_ruin_aqueduct_arch_01,LM27,P2,plains,40,50,12,12000,,Aqueduct arches
+LM27_02_ruin_aqueduct_arch_02,LM27,P2,plains,40,50,12,12000,,Aqueduct arches
+LM28_01_ruin_column_set_01,LM28,P2,plains,24,40,24,8000,,Broken column groups
+LM28_02_ruin_column_set_02,LM28,P2,plains,24,40,24,8000,,Broken column groups
+LM28_03_ruin_column_set_03,LM28,P2,plains,24,40,24,8000,,Broken column groups
+LM29_01_ruin_tower_stump_01,LM29,P2,plains,26,36,26,10000,,Tower stumps
+LM29_02_ruin_tower_stump_02,LM29,P2,plains,26,36,26,10000,,Tower stumps
+LM30_01_ruined_castle_hero,LM30,P1,plains,140,70,120,50000,,Ruined castle with a broken keep
+LM31_01_ruined_castle_module_01,LM31,P2,plains,40,40,30,14000,,Wall and tower modules for the ruined castle
+LM31_02_ruined_castle_module_02,LM31,P2,plains,40,40,30,14000,,Wall and tower modules for the ruined castle
+LM31_03_ruined_castle_module_03,LM31,P2,plains,40,40,30,14000,,Wall and tower modules for the ruined castle
+WT01_01_wizard_tower_shell,WT01,P1,highlands,110,300,110,150000,,"Exterior of the giant wizard tower for the pad at (1380,-1320), floor y 324: Himalayan monastery base (whitewashed bands, tapered timber windows, stone buttresses) rising into a slim spiral-staggered stone spire with copper-green roofs; 10 MeshParts of at most 20k triangles (plinth, 8 stacked levels, crown); walls 6 studs thick so the inside is enterable"
+WT02_01_wizard_tower_interior,WT02,P1,highlands,100,280,100,90000,,"Interior shell: 8 floor plates, open central atrium, wide helical stair (rise at most 1.2, run at least 2), railings, wall linings, window reveals; plus tower_collision.json (boxes for floors, walls, stair treads) so Studio can build invisible collision"
+WT03_01_wizard_bookshelf_curved_01,WT03,P1,highlands,24,28,6,12000,,"Full-height curved bookshelf bays that follow the round tower wall (radius 38, 30 and 22): packed books, scroll racks, glass-fronted cabinet, rolling-ladder rail"
+WT03_02_wizard_bookshelf_curved_02,WT03,P1,highlands,24,28,6,12000,,"Full-height curved bookshelf bays that follow the round tower wall (radius 38, 30 and 22): packed books, scroll racks, glass-fronted cabinet, rolling-ladder rail"
+WT03_03_wizard_bookshelf_curved_03,WT03,P1,highlands,24,28,6,12000,,"Full-height curved bookshelf bays that follow the round tower wall (radius 38, 30 and 22): packed books, scroll racks, glass-fronted cabinet, rolling-ladder rail"
+WT04_01_wizard_bookshelf_straight_01,WT04,P1,highlands,14,26,5,10000,,Straight bookshelf and a free-standing island shelf with ladder
+WT04_02_wizard_bookshelf_straight_02,WT04,P1,highlands,14,26,5,10000,,Straight bookshelf and a free-standing island shelf with ladder
+WT05_01_wizard_round_map_table,WT05,P1,highlands,44,12,44,60000,,"THE CIRCULAR MAP: a 44-stud round relief map of the whole island on a stone-and-brass table, built from the real terrain data (terrain_map.json) with tiny landmark models, a brass compass ring and a walkway rail; 3 MeshParts"
+WT06_01_wizard_floor_medallion,WT06,P1,highlands,80,1,80,8000,,"Round floor inlay for the Map Hall: compass rose, star ring, inlaid stone and brass"
+WT07_01_wizard_lab_set_01,WT07,P1,highlands,18,14,12,10000,,"Alchemy bench with glassware, herb rack with jars, specimen shelf, orrery and astrolabe stand"
+WT07_02_wizard_lab_set_02,WT07,P1,highlands,18,14,12,10000,,"Alchemy bench with glassware, herb rack with jars, specimen shelf, orrery and astrolabe stand"
+WT07_03_wizard_lab_set_03,WT07,P1,highlands,18,14,12,10000,,"Alchemy bench with glassware, herb rack with jars, specimen shelf, orrery and astrolabe stand"
+WT07_04_wizard_lab_set_04,WT07,P1,highlands,18,14,12,10000,,"Alchemy bench with glassware, herb rack with jars, specimen shelf, orrery and astrolabe stand"
+WT08_01_wizard_study_set_01,WT08,P1,highlands,18,12,14,9000,,"Archmage desk with open books and quill, bed alcove with drapes, globe and sea-chart stand"
+WT08_02_wizard_study_set_02,WT08,P1,highlands,18,12,14,9000,,"Archmage desk with open books and quill, bed alcove with drapes, globe and sea-chart stand"
+WT08_03_wizard_study_set_03,WT08,P1,highlands,18,12,14,9000,,"Archmage desk with open books and quill, bed alcove with drapes, globe and sea-chart stand"
+WT09_01_wizard_chandelier_ring_01,WT09,P1,highlands,20,8,20,6000,,"Ring chandeliers with candles (warm light only, no glow)"
+WT09_02_wizard_chandelier_ring_02,WT09,P1,highlands,20,8,20,6000,,"Ring chandeliers with candles (warm light only, no glow)"
+WT10_01_wizard_observatory_telescope,WT10,P1,highlands,14,24,14,20000,,Giant brass telescope on a mount for the top dome
+WT11_01_wizard_armillary_crown,WT11,P1,highlands,70,50,70,22000,,Armillary rings around the crown of the tower (static; Studio can rotate them later)
+WT12_01_wizard_door_porch,WT12,P1,highlands,40,36,24,24000,,"Entrance porch with big carved timber doors in a rectangular frame (not an arch), steps and lantern posts"
+WT13_01_plateau_terrace_set_01,WT13,P2,highlands,30,10,30,7000,,"Terrace retaining wall x2, 40-step stair, prayer-flag pole, cairn and lantern post around the tower"
+WT13_02_plateau_terrace_set_02,WT13,P2,highlands,30,10,30,7000,,"Terrace retaining wall x2, 40-step stair, prayer-flag pole, cairn and lantern post around the tower"
+WT13_03_plateau_terrace_set_03,WT13,P2,highlands,30,10,30,7000,,"Terrace retaining wall x2, 40-step stair, prayer-flag pole, cairn and lantern post around the tower"
+WT13_04_plateau_terrace_set_04,WT13,P2,highlands,30,10,30,7000,,"Terrace retaining wall x2, 40-step stair, prayer-flag pole, cairn and lantern post around the tower"
+WT13_05_plateau_terrace_set_05,WT13,P2,highlands,30,10,30,7000,,"Terrace retaining wall x2, 40-step stair, prayer-flag pole, cairn and lantern post around the tower"
+WT13_06_plateau_terrace_set_06,WT13,P2,highlands,30,10,30,7000,,"Terrace retaining wall x2, 40-step stair, prayer-flag pole, cairn and lantern post around the tower"
+HL01_01_ice_spire_01,HL01,P2,highlands,24,70,24,8000,,Ice spires
+HL01_02_ice_spire_02,HL01,P2,highlands,24,70,24,8000,,Ice spires
+HL01_03_ice_spire_03,HL01,P2,highlands,24,70,24,8000,,Ice spires
+HL01_04_ice_spire_04,HL01,P2,highlands,24,70,24,8000,,Ice spires
+HL02_01_ice_arch_01,HL02,P2,highlands,50,40,14,9000,,Natural ice arches
+HL02_02_ice_arch_02,HL02,P2,highlands,50,40,14,9000,,Natural ice arches
+HL03_01_glacier_tongue_01,HL03,P2,highlands,90,24,50,12000,,Glacier tongues and crevasse edges
+HL03_02_glacier_tongue_02,HL03,P2,highlands,90,24,50,12000,,Glacier tongues and crevasse edges
+HL03_03_glacier_tongue_03,HL03,P2,highlands,90,24,50,12000,,Glacier tongues and crevasse edges
+HL04_01_ice_cave_mouth_01,HL04,P2,highlands,40,30,30,10000,,Ice cave entrances
+HL04_02_ice_cave_mouth_02,HL04,P2,highlands,40,30,30,10000,,Ice cave entrances
+HL05_01_mountain_shrine,HL05,P2,highlands,24,24,24,9000,,Hidden shrine on a pass
+HL06_01_snow_watchtower,HL06,P2,highlands,20,50,20,11000,,Watchtower for the mountain road
+HL07_01_mine_entrance_01,HL07,P2,highlands,30,24,24,9000,,Timbered mine mouths
+HL07_02_mine_entrance_02,HL07,P2,highlands,30,24,24,9000,,Timbered mine mouths
+HM01_01_rope_suspension_bridge_01,HM01,P1,highlands,120,14,10,12000,,"Himalayan rope-and-plank suspension bridges with stone anchor towers and prayer flags, three spans (60, 90, 116 studs); the 116 crosses Frost Gorge; walkable deck, hand ropes"
+HM01_02_rope_suspension_bridge_02,HM01,P1,highlands,120,14,10,12000,,"Himalayan rope-and-plank suspension bridges with stone anchor towers and prayer flags, three spans (60, 90, 116 studs); the 116 crosses Frost Gorge; walkable deck, hand ropes"
+HM01_03_rope_suspension_bridge_03,HM01,P1,highlands,120,14,10,12000,,"Himalayan rope-and-plank suspension bridges with stone anchor towers and prayer flags, three spans (60, 90, 116 studs); the 116 crosses Frost Gorge; walkable deck, hand ropes"
+HM02_01_timber_cantilever_bridge_01,HM02,P2,highlands,36,12,10,10000,,"Timber cantilever bridges with a small roof, spans 28 and 40 (tarn outlet, mountain streams)"
+HM02_02_timber_cantilever_bridge_02,HM02,P2,highlands,36,12,10,10000,,"Timber cantilever bridges with a small roof, spans 28 and 40 (tarn outlet, mountain streams)"
+HM03_01_tunnel_portal_01,HM03,P1,highlands,30,24,20,12000,,"Rock-cut road tunnel mouths (plain, snow-capped, timber-framed): a rectangular timber frame set in a rock face, not a freestanding arch"
+HM03_02_tunnel_portal_02,HM03,P1,highlands,30,24,20,12000,,"Rock-cut road tunnel mouths (plain, snow-capped, timber-framed): a rectangular timber frame set in a rock face, not a freestanding arch"
+HM03_03_tunnel_portal_03,HM03,P1,highlands,30,24,20,12000,,"Rock-cut road tunnel mouths (plain, snow-capped, timber-framed): a rectangular timber frame set in a rock face, not a freestanding arch"
+HM04_01_tunnel_lining_01,HM04,P1,highlands,24,20,24,8000,,"Tunnel lining segments (24-stud straight, 30-degree bend) with rock walls, timber ribs and lantern brackets (warm, no glow)"
+HM04_02_tunnel_lining_02,HM04,P1,highlands,24,20,24,8000,,"Tunnel lining segments (24-stud straight, 30-degree bend) with rock walls, timber ribs and lantern brackets (warm, no glow)"
+HM05_01_cliff_gallery_01,HM05,P2,highlands,40,22,14,9000,,Road galleries cut into a cliff with timber props and a rock roof
+HM05_02_cliff_gallery_02,HM05,P2,highlands,40,22,14,9000,,Road galleries cut into a cliff with timber props and a rock roof
+HM06_01_switchback_wall_01,HM06,P2,highlands,30,14,14,7000,,Stone retaining walls and hairpin corners for mountain roads
+HM06_02_switchback_wall_02,HM06,P2,highlands,30,14,14,7000,,Stone retaining walls and hairpin corners for mountain roads
+HM06_03_switchback_wall_03,HM06,P2,highlands,30,14,14,7000,,Stone retaining walls and hairpin corners for mountain roads
+HM07_01_prayer_flag_string_01,HM07,P2,highlands,40,12,2,3000,,"Strings of cloth flags for bridges, cairns and passes"
+HM07_02_prayer_flag_string_02,HM07,P2,highlands,40,12,2,3000,,"Strings of cloth flags for bridges, cairns and passes"
+HM07_03_prayer_flag_string_03,HM07,P2,highlands,40,12,2,3000,,"Strings of cloth flags for bridges, cairns and passes"
+HM07_04_prayer_flag_string_04,HM07,P2,highlands,40,12,2,3000,,"Strings of cloth flags for bridges, cairns and passes"
+HM08_01_cairn_shrine_01,HM08,P2,highlands,14,12,14,4000,,Stone cairns and small roadside shrines
+HM08_02_cairn_shrine_02,HM08,P2,highlands,14,12,14,4000,,Stone cairns and small roadside shrines
+HM08_03_cairn_shrine_03,HM08,P2,highlands,14,12,14,4000,,Stone cairns and small roadside shrines
+HM08_04_cairn_shrine_04,HM08,P2,highlands,14,12,14,4000,,Stone cairns and small roadside shrines
+HM09_01_monastery_outpost_01,HM09,P2,highlands,40,30,30,14000,,"Hall, prayer-wheel house, guest house and bell shelter for the hidden monastery pocket beyond Frost Gorge (2450,-1480)"
+HM09_02_monastery_outpost_02,HM09,P2,highlands,40,30,30,14000,,"Hall, prayer-wheel house, guest house and bell shelter for the hidden monastery pocket beyond Frost Gorge (2450,-1480)"
+HM09_03_monastery_outpost_03,HM09,P2,highlands,40,30,30,14000,,"Hall, prayer-wheel house, guest house and bell shelter for the hidden monastery pocket beyond Frost Gorge (2450,-1480)"
+HM09_04_monastery_outpost_04,HM09,P2,highlands,40,30,30,14000,,"Hall, prayer-wheel house, guest house and bell shelter for the hidden monastery pocket beyond Frost Gorge (2450,-1480)"
+FR01_01_giant_tree_01,FR01,P2,forest,90,160,90,40000,,"Four giant-tree silhouettes: leaning, twin trunk, arched, broken top (natural, no glow)"
+FR01_02_giant_tree_02,FR01,P2,forest,90,160,90,40000,,"Four giant-tree silhouettes: leaning, twin trunk, arched, broken top (natural, no glow)"
+FR01_03_giant_tree_03,FR01,P2,forest,90,160,90,40000,,"Four giant-tree silhouettes: leaning, twin trunk, arched, broken top (natural, no glow)"
+FR01_04_giant_tree_04,FR01,P2,forest,90,160,90,40000,,"Four giant-tree silhouettes: leaning, twin trunk, arched, broken top (natural, no glow)"
+FR02_01_forest_ruin_01,FR02,P2,forest,40,34,30,10000,,"Overgrown arch, stair, wall, altar and two broken pillars"
+FR02_02_forest_ruin_02,FR02,P2,forest,40,34,30,10000,,"Overgrown arch, stair, wall, altar and two broken pillars"
+FR02_03_forest_ruin_03,FR02,P2,forest,40,34,30,10000,,"Overgrown arch, stair, wall, altar and two broken pillars"
+FR02_04_forest_ruin_04,FR02,P2,forest,40,34,30,10000,,"Overgrown arch, stair, wall, altar and two broken pillars"
+FR02_05_forest_ruin_05,FR02,P2,forest,40,34,30,10000,,"Overgrown arch, stair, wall, altar and two broken pillars"
+FR02_06_forest_ruin_06,FR02,P2,forest,40,34,30,10000,,"Overgrown arch, stair, wall, altar and two broken pillars"
+FR03_01_cave_mouth_01,FR03,P2,forest,40,30,30,10000,,Cave mouths and rock arches for secret caves
+FR03_02_cave_mouth_02,FR03,P2,forest,40,30,30,10000,,Cave mouths and rock arches for secret caves
+FR03_03_cave_mouth_03,FR03,P2,forest,40,30,30,10000,,Cave mouths and rock arches for secret caves
+FR03_04_cave_mouth_04,FR03,P2,forest,40,30,30,10000,,Cave mouths and rock arches for secret caves
+FR03_05_cave_mouth_05,FR03,P2,forest,40,30,30,10000,,Cave mouths and rock arches for secret caves
+FR03_06_cave_mouth_06,FR03,P2,forest,40,30,30,10000,,Cave mouths and rock arches for secret caves
+PL01_01_farmhouse_01,PL01,P2,plains,28,22,24,10000,,Farmhouses
+PL01_02_farmhouse_02,PL01,P2,plains,28,22,24,10000,,Farmhouses
+PL01_03_farmhouse_03,PL01,P2,plains,28,22,24,10000,,Farmhouses
+PL01_04_farmhouse_04,PL01,P2,plains,28,22,24,10000,,Farmhouses
+PL02_01_hay_silo_01,PL02,P2,plains,14,24,14,5000,,Hay stacks and a silo
+PL02_02_hay_silo_02,PL02,P2,plains,14,24,14,5000,,Hay stacks and a silo
+PL02_03_hay_silo_03,PL02,P2,plains,14,24,14,5000,,Hay stacks and a silo
+PL03_01_farm_cart_01,PL03,P2,plains,14,8,8,3000,,Carts
+PL03_02_farm_cart_02,PL03,P2,plains,14,8,8,3000,,Carts
+PL04_01_mill_waterwheel,PL04,P2,plains,34,30,30,16000,,Watermill
+PL05_01_ruined_watchtower_plains_01,PL05,P2,plains,20,40,20,9000,,Ruined watchtowers
+PL05_02_ruined_watchtower_plains_02,PL05,P2,plains,20,40,20,9000,,Ruined watchtowers
+PL05_03_ruined_watchtower_plains_03,PL05,P2,plains,20,40,20,9000,,Ruined watchtowers
+PL06_01_rock_arch_natural_01,PL06,P2,plains,60,40,24,12000,,Natural rock arches that carry paths over streams
+PL06_02_rock_arch_natural_02,PL06,P2,plains,60,40,24,12000,,Natural rock arches that carry paths over streams
+DS01_01_adobe_house_01,DS01,P2,desert,20,18,20,8000,,Desert houses
+DS01_02_adobe_house_02,DS01,P2,desert,20,18,20,8000,,Desert houses
+DS01_03_adobe_house_03,DS01,P2,desert,20,18,20,8000,,Desert houses
+DS01_04_adobe_house_04,DS01,P2,desert,20,18,20,8000,,Desert houses
+DS01_05_adobe_house_05,DS01,P2,desert,20,18,20,8000,,Desert houses
+DS01_06_adobe_house_06,DS01,P2,desert,20,18,20,8000,,Desert houses
+DS02_01_desert_market_01,DS02,P2,desert,24,16,18,6000,,"Well, awning and stall sets"
+DS02_02_desert_market_02,DS02,P2,desert,24,16,18,6000,,"Well, awning and stall sets"
+DS02_03_desert_market_03,DS02,P2,desert,24,16,18,6000,,"Well, awning and stall sets"
+DS03_01_caravan_wagon_01,DS03,P2,desert,18,12,10,5000,,Caravan wagons
+DS03_02_caravan_wagon_02,DS03,P2,desert,18,12,10,5000,,Caravan wagons
+DS04_01_palm_01,DS04,P2,desert,14,42,14,6000,,Oasis palms
+DS04_02_palm_02,DS04,P2,desert,14,42,14,6000,,Oasis palms
+DS04_03_palm_03,DS04,P2,desert,14,42,14,6000,,Oasis palms
+DS05_01_oasis_rock_ring_01,DS05,P2,desert,50,10,50,8000,,Rocks around an oasis pool
+DS05_02_oasis_rock_ring_02,DS05,P2,desert,50,10,50,8000,,Rocks around an oasis pool
+DS06_01_canyon_wall_01,DS06,P2,desert,120,90,40,20000,,Sandstone canyon walls (on top of the 3 existing R06)
+DS06_02_canyon_wall_02,DS06,P2,desert,120,90,40,20000,,Sandstone canyon walls (on top of the 3 existing R06)
+DS06_03_canyon_wall_03,DS06,P2,desert,120,90,40,20000,,Sandstone canyon walls (on top of the 3 existing R06)
+DS06_04_canyon_wall_04,DS06,P2,desert,120,90,40,20000,,Sandstone canyon walls (on top of the 3 existing R06)
+DS07_01_hoodoo_arch_01,DS07,P2,desert,40,70,30,12000,,Hoodoos and rock arches
+DS07_02_hoodoo_arch_02,DS07,P2,desert,40,70,30,12000,,Hoodoos and rock arches
+DS07_03_hoodoo_arch_03,DS07,P2,desert,40,70,30,12000,,Hoodoos and rock arches
+DS07_04_hoodoo_arch_04,DS07,P2,desert,40,70,30,12000,,Hoodoos and rock arches
+DS08_01_underground_entrance_01,DS08,P2,desert,30,24,30,9000,,Stair-down entrances to the underground
+DS08_02_underground_entrance_02,DS08,P2,desert,30,24,30,9000,,Stair-down entrances to the underground
+DS08_03_underground_entrance_03,DS08,P2,desert,30,24,30,9000,,Stair-down entrances to the underground
+CO01_01_coastal_cliff_01,CO01,P1,coast,110,70,50,18000,,Cliff pieces that replace the archived R04 grey boxes
+CO01_02_coastal_cliff_02,CO01,P1,coast,110,70,50,18000,,Cliff pieces that replace the archived R04 grey boxes
+CO01_03_coastal_cliff_03,CO01,P1,coast,110,70,50,18000,,Cliff pieces that replace the archived R04 grey boxes
+CO01_04_coastal_cliff_04,CO01,P1,coast,110,70,50,18000,,Cliff pieces that replace the archived R04 grey boxes
+CO01_05_coastal_cliff_05,CO01,P1,coast,110,70,50,18000,,Cliff pieces that replace the archived R04 grey boxes
+CO01_06_coastal_cliff_06,CO01,P1,coast,110,70,50,18000,,Cliff pieces that replace the archived R04 grey boxes
+CO02_01_sea_stack_01,CO02,P1,coast,40,90,40,14000,,Sea stacks
+CO02_02_sea_stack_02,CO02,P1,coast,40,90,40,14000,,Sea stacks
+CO02_03_sea_stack_03,CO02,P1,coast,40,90,40,14000,,Sea stacks
+CO03_01_reef_01,CO03,P2,coast,30,6,30,6000,,Low reefs and sea rocks
+CO03_02_reef_02,CO03,P2,coast,30,6,30,6000,,Low reefs and sea rocks
+CO03_03_reef_03,CO03,P2,coast,30,6,30,6000,,Low reefs and sea rocks
+CO03_04_reef_04,CO03,P2,coast,30,6,30,6000,,Low reefs and sea rocks
+CO03_05_reef_05,CO03,P2,coast,30,6,30,6000,,Low reefs and sea rocks
+CO03_06_reef_06,CO03,P2,coast,30,6,30,6000,,Low reefs and sea rocks
+CO04_01_sea_arch_01,CO04,P2,coast,70,60,30,14000,,Sea arches
+CO04_02_sea_arch_02,CO04,P2,coast,70,60,30,14000,,Sea arches
+CO05_01_ruin_islet_01,CO05,P2,coast,60,40,60,16000,,Small ruin islets
+CO05_02_ruin_islet_02,CO05,P2,coast,60,40,60,16000,,Small ruin islets
+CO05_03_ruin_islet_03,CO05,P2,coast,60,40,60,16000,,Small ruin islets
+RD01_01_watchtower_01,RD01,P2,roads,20,50,20,11000,,Two intact and two ruined watchtowers
+RD01_02_watchtower_02,RD01,P2,roads,20,50,20,11000,,Two intact and two ruined watchtowers
+RD01_03_watchtower_03,RD01,P2,roads,20,50,20,11000,,Two intact and two ruined watchtowers
+RD01_04_watchtower_04,RD01,P2,roads,20,50,20,11000,,Two intact and two ruined watchtowers
+RD02_01_camp_set_01,RD02,P2,roads,16,10,14,4000,,"Tents x3, cooking rack, supply stack, bedroll"
+RD02_02_camp_set_02,RD02,P2,roads,16,10,14,4000,,"Tents x3, cooking rack, supply stack, bedroll"
+RD02_03_camp_set_03,RD02,P2,roads,16,10,14,4000,,"Tents x3, cooking rack, supply stack, bedroll"
+RD02_04_camp_set_04,RD02,P2,roads,16,10,14,4000,,"Tents x3, cooking rack, supply stack, bedroll"
+RD02_05_camp_set_05,RD02,P2,roads,16,10,14,4000,,"Tents x3, cooking rack, supply stack, bedroll"
+RD02_06_camp_set_06,RD02,P2,roads,16,10,14,4000,,"Tents x3, cooking rack, supply stack, bedroll"
+RD03_01_waystation_01,RD03,P2,roads,30,20,24,10000,,Roadside waystations
+RD03_02_waystation_02,RD03,P2,roads,30,20,24,10000,,Roadside waystations
+RD04_01_trading_post_01,RD04,P2,roads,30,20,24,11000,,Trading posts
+RD04_02_trading_post_02,RD04,P2,roads,30,20,24,11000,,Trading posts
+RD05_01_battlefield_prop_01,RD05,P2,roads,14,10,10,3000,,"Broken ballista, cart, banner, spear rack, shield pile"
+RD05_02_battlefield_prop_02,RD05,P2,roads,14,10,10,3000,,"Broken ballista, cart, banner, spear rack, shield pile"
+RD05_03_battlefield_prop_03,RD05,P2,roads,14,10,10,3000,,"Broken ballista, cart, banner, spear rack, shield pile"
+RD05_04_battlefield_prop_04,RD05,P2,roads,14,10,10,3000,,"Broken ballista, cart, banner, spear rack, shield pile"
+RD05_05_battlefield_prop_05,RD05,P2,roads,14,10,10,3000,,"Broken ballista, cart, banner, spear rack, shield pile"
+RD06_01_abandoned_house_01,RD06,P2,roads,22,20,20,9000,,Collapsed or burnt houses
+RD06_02_abandoned_house_02,RD06,P2,roads,22,20,20,9000,,Collapsed or burnt houses
+RD06_03_abandoned_house_03,RD06,P2,roads,22,20,20,9000,,Collapsed or burnt houses
+RD06_04_abandoned_house_04,RD06,P2,roads,22,20,20,9000,,Collapsed or burnt houses
+RD06_05_abandoned_house_05,RD06,P2,roads,22,20,20,9000,,Collapsed or burnt houses
+VG01_01_tree_tall_narrow_01,VG01,P1,everywhere,14,46,14,9000,,"Poplar and beech, narrow crown"
+VG01_02_tree_tall_narrow_02,VG01,P1,everywhere,14,46,14,9000,,"Poplar and beech, narrow crown"
+VG01_03_tree_tall_narrow_03,VG01,P1,everywhere,14,46,14,9000,,"Poplar and beech, narrow crown"
+VG02_01_tree_old_oak_01,VG02,P1,everywhere,30,42,30,14000,,Dark old oaks with a broken crown
+VG02_02_tree_old_oak_02,VG02,P1,everywhere,30,42,30,14000,,Dark old oaks with a broken crown
+VG03_01_tree_flowering_01,VG03,P1,everywhere,22,30,22,12000,,Flowering trees
+VG03_02_tree_flowering_02,VG03,P1,everywhere,22,30,22,12000,,Flowering trees
+VG04_01_tree_birch_01,VG04,P2,everywhere,14,34,14,8000,,Birch
+VG04_02_tree_birch_02,VG04,P2,everywhere,14,34,14,8000,,Birch
+VG04_03_tree_birch_03,VG04,P2,everywhere,14,34,14,8000,,Birch
+VG05_01_tree_cypress_swamp_01,VG05,P2,plains,22,38,22,11000,,Swamp cypress for marshland
+VG05_02_tree_cypress_swamp_02,VG05,P2,plains,22,38,22,11000,,Swamp cypress for marshland
+VG05_03_tree_cypress_swamp_03,VG05,P2,plains,22,38,22,11000,,Swamp cypress for marshland
+VG06_01_marsh_hummock_01,VG06,P2,plains,16,6,16,3000,,Grass hummocks
+VG06_02_marsh_hummock_02,VG06,P2,plains,16,6,16,3000,,Grass hummocks
+VG07_01_boardwalk_01,VG07,P2,plains,30,4,6,3000,,Marsh boardwalk
+VG07_02_boardwalk_02,VG07,P2,plains,30,4,6,3000,,Marsh boardwalk
+TW01_01_town1_hero_statue,TW01,P2,town1,14,40,14,16000,,Statue with a real face for the plaza
+TW02_01_street_life_01,TW02,P2,town1,12,10,10,3000,,"Carts x2, crate stacks x2, barrel stack, hanging signs x2, bench"
+TW02_02_street_life_02,TW02,P2,town1,12,10,10,3000,,"Carts x2, crate stacks x2, barrel stack, hanging signs x2, bench"
+TW02_03_street_life_03,TW02,P2,town1,12,10,10,3000,,"Carts x2, crate stacks x2, barrel stack, hanging signs x2, bench"
+TW02_04_street_life_04,TW02,P2,town1,12,10,10,3000,,"Carts x2, crate stacks x2, barrel stack, hanging signs x2, bench"
+TW02_05_street_life_05,TW02,P2,town1,12,10,10,3000,,"Carts x2, crate stacks x2, barrel stack, hanging signs x2, bench"
+TW02_06_street_life_06,TW02,P2,town1,12,10,10,3000,,"Carts x2, crate stacks x2, barrel stack, hanging signs x2, bench"
+TW02_07_street_life_07,TW02,P2,town1,12,10,10,3000,,"Carts x2, crate stacks x2, barrel stack, hanging signs x2, bench"
+TW02_08_street_life_08,TW02,P2,town1,12,10,10,3000,,"Carts x2, crate stacks x2, barrel stack, hanging signs x2, bench"
+RV01_01_bank_rock_01,RV01,P2,rivers,30,10,20,5000,,Bank rocks for lakes and rivers
+RV01_02_bank_rock_02,RV01,P2,rivers,30,10,20,5000,,Bank rocks for lakes and rivers
+RV01_03_bank_rock_03,RV01,P2,rivers,30,10,20,5000,,Bank rocks for lakes and rivers
+RV01_04_bank_rock_04,RV01,P2,rivers,30,10,20,5000,,Bank rocks for lakes and rivers
+VC01_01_volcanic_rock_01,VC01,P2,east_coast,60,60,50,12000,,Dark volcanic rock formations (basalt colours; lava veins are terrain paint)
+VC01_02_volcanic_rock_02,VC01,P2,east_coast,60,60,50,12000,,Dark volcanic rock formations (basalt colours; lava veins are terrain paint)
+VC01_03_volcanic_rock_03,VC01,P2,east_coast,60,60,50,12000,,Dark volcanic rock formations (basalt colours; lava veins are terrain paint)
+VC01_04_volcanic_rock_04,VC01,P2,east_coast,60,60,50,12000,,Dark volcanic rock formations (basalt colours; lava veins are terrain paint)
+VC01_05_volcanic_rock_05,VC01,P2,east_coast,60,60,50,12000,,Dark volcanic rock formations (basalt colours; lava veins are terrain paint)
+VC01_06_volcanic_rock_06,VC01,P2,east_coast,60,60,50,12000,,Dark volcanic rock formations (basalt colours; lava veins are terrain paint)
+VC01_07_volcanic_rock_07,VC01,P2,east_coast,60,60,50,12000,,Dark volcanic rock formations (basalt colours; lava veins are terrain paint)
+VC01_08_volcanic_rock_08,VC01,P2,east_coast,60,60,50,12000,,Dark volcanic rock formations (basalt colours; lava veins are terrain paint)
+VC02_01_skull_cliff_hero_01,VC02,P1,east_coast,200,120,120,55000,,"Giant skull carved into a dark cliff, the Skull City landmark (own design)"
+VC02_02_skull_cliff_hero_02,VC02,P1,east_coast,200,120,120,55000,,"Giant skull carved into a dark cliff, the Skull City landmark (own design)"
+VC03_01_dark_fort_ruin_01,VC03,P2,east_coast,60,50,50,16000,,Dark fort ruins
+VC03_02_dark_fort_ruin_02,VC03,P2,east_coast,60,50,50,16000,,Dark fort ruins
+VC03_03_dark_fort_ruin_03,VC03,P2,east_coast,60,50,50,16000,,Dark fort ruins
+VC04_01_skull_city_building_01,VC04,P2,east_coast,30,30,30,11000,,Ruined dark-stone houses and halls for the forbidden city
+VC04_02_skull_city_building_02,VC04,P2,east_coast,30,30,30,11000,,Ruined dark-stone houses and halls for the forbidden city
+VC04_03_skull_city_building_03,VC04,P2,east_coast,30,30,30,11000,,Ruined dark-stone houses and halls for the forbidden city
+VC04_04_skull_city_building_04,VC04,P2,east_coast,30,30,30,11000,,Ruined dark-stone houses and halls for the forbidden city
+VC04_05_skull_city_building_05,VC04,P2,east_coast,30,30,30,11000,,Ruined dark-stone houses and halls for the forbidden city
+VC04_06_skull_city_building_06,VC04,P2,east_coast,30,30,30,11000,,Ruined dark-stone houses and halls for the forbidden city
+FL01_01_floating_island_hero_01,FL01,P2,sea_edge,90,60,90,30000,,Floating islands with a ruin
+FL01_02_floating_island_hero_02,FL01,P2,sea_edge,90,60,90,30000,,Floating islands with a ruin
+FL01_03_floating_island_hero_03,FL01,P2,sea_edge,90,60,90,30000,,Floating islands with a ruin
+FL02_01_floating_island_small_01,FL02,P2,sea_edge,40,24,40,10000,,Small floating rocks
+FL02_02_floating_island_small_02,FL02,P2,sea_edge,40,24,40,10000,,Small floating rocks
+FL02_03_floating_island_small_03,FL02,P2,sea_edge,40,24,40,10000,,Small floating rocks
+SP01_01_snow_spire_cluster_01,SP01,P2,highlands,60,160,60,15000,,Jagged snow-capped spires and ridgelines for the Frosthold massif (the concept map mountain)
+SP01_02_snow_spire_cluster_02,SP01,P2,highlands,60,160,60,15000,,Jagged snow-capped spires and ridgelines for the Frosthold massif (the concept map mountain)
+SP01_03_snow_spire_cluster_03,SP01,P2,highlands,60,160,60,15000,,Jagged snow-capped spires and ridgelines for the Frosthold massif (the concept map mountain)
+SP01_04_snow_spire_cluster_04,SP01,P2,highlands,60,160,60,15000,,Jagged snow-capped spires and ridgelines for the Frosthold massif (the concept map mountain)
+SP01_05_snow_spire_cluster_05,SP01,P2,highlands,60,160,60,15000,,Jagged snow-capped spires and ridgelines for the Frosthold massif (the concept map mountain)
+SP01_06_snow_spire_cluster_06,SP01,P2,highlands,60,160,60,15000,,Jagged snow-capped spires and ridgelines for the Frosthold massif (the concept map mountain)
+SD01_01_red_mesa_cluster_01,SD01,P2,desert,120,90,100,16000,,Orange-red mesa and butte clusters (the concept map desert)
+SD01_02_red_mesa_cluster_02,SD01,P2,desert,120,90,100,16000,,Orange-red mesa and butte clusters (the concept map desert)
+SD01_03_red_mesa_cluster_03,SD01,P2,desert,120,90,100,16000,,Orange-red mesa and butte clusters (the concept map desert)
+SD01_04_red_mesa_cluster_04,SD01,P2,desert,120,90,100,16000,,Orange-red mesa and butte clusters (the concept map desert)
+SD01_05_red_mesa_cluster_05,SD01,P2,desert,120,90,100,16000,,Orange-red mesa and butte clusters (the concept map desert)
+SD01_06_red_mesa_cluster_06,SD01,P2,desert,120,90,100,16000,,Orange-red mesa and butte clusters (the concept map desert)
+SD02_01_desert_ruin_block_01,SD02,P2,desert,40,30,40,10000,,Sand-worn ruined city blocks around the ring temple
+SD02_02_desert_ruin_block_02,SD02,P2,desert,40,30,40,10000,,Sand-worn ruined city blocks around the ring temple
+SD02_03_desert_ruin_block_03,SD02,P2,desert,40,30,40,10000,,Sand-worn ruined city blocks around the ring temple
+SD02_04_desert_ruin_block_04,SD02,P2,desert,40,30,40,10000,,Sand-worn ruined city blocks around the ring temple
+SD02_05_desert_ruin_block_05,SD02,P2,desert,40,30,40,10000,,Sand-worn ruined city blocks around the ring temple
+SD02_06_desert_ruin_block_06,SD02,P2,desert,40,30,40,10000,,Sand-worn ruined city blocks around the ring temple
+BR01_01_viaduct_bridge_01,BR01,P2,roads,160,40,20,24000,,Multi-arch stone viaduct across a valley (the long central bridge on the concept map)
+BR01_02_viaduct_bridge_02,BR01,P2,roads,160,40,20,24000,,Multi-arch stone viaduct across a valley (the long central bridge on the concept map)
+HB01_01_harbour_wall_tower_01,HB01,P2,coast,24,40,24,10000,,Towers for the walled port
+HB01_02_harbour_wall_tower_02,HB01,P2,coast,24,40,24,10000,,Towers for the walled port
+HB01_03_harbour_wall_tower_03,HB01,P2,coast,24,40,24,10000,,Towers for the walled port
+VL01_01_village_church_spire,VL01,P2,plains,30,70,40,20000,,Spired church for the west farm village (the concept map Rusty Village)
+RW01_01_rework_existing_01,RW01,P2,rework,0,0,0,0,yes,"R03_03 mesa (open lip top), F08_13 gate (thin dark seam), D01_02 and D01_04 treehouses (cut from 58k to 50k triangles)"
+RW01_02_rework_existing_02,RW01,P2,rework,0,0,0,0,yes,"R03_03 mesa (open lip top), F08_13 gate (thin dark seam), D01_02 and D01_04 treehouses (cut from 58k to 50k triangles)"
+RW01_03_rework_existing_03,RW01,P2,rework,0,0,0,0,yes,"R03_03 mesa (open lip top), F08_13 gate (thin dark seam), D01_02 and D01_04 treehouses (cut from 58k to 50k triangles)"
+RW01_04_rework_existing_04,RW01,P2,rework,0,0,0,0,yes,"R03_03 mesa (open lip top), F08_13 gate (thin dark seam), D01_02 and D01_04 treehouses (cut from 58k to 50k triangles)"
+RW02_01_rework_world_tree_roots,RW02,P1,rework,0,0,0,0,yes,"D05_02 world tree roots: rounded buttress roots tinted to the bright bark (reviewers: flat reddish fan, cardboard from above)"
+NE01_01_village_sign_01,NE01,P1,entrances,10,18,4,6000,,"One carved sign per settlement on a post or stone (Town 1, elf valley, alpine, rusty, harbour, desert village; the west village reuses the rusty sign set): the only marker at a natural entrance, no arch, no gate"
+NE01_02_village_sign_02,NE01,P1,entrances,10,18,4,6000,,"One carved sign per settlement on a post or stone (Town 1, elf valley, alpine, rusty, harbour, desert village; the west village reuses the rusty sign set): the only marker at a natural entrance, no arch, no gate"
+NE01_03_village_sign_03,NE01,P1,entrances,10,18,4,6000,,"One carved sign per settlement on a post or stone (Town 1, elf valley, alpine, rusty, harbour, desert village; the west village reuses the rusty sign set): the only marker at a natural entrance, no arch, no gate"
+NE01_04_village_sign_04,NE01,P1,entrances,10,18,4,6000,,"One carved sign per settlement on a post or stone (Town 1, elf valley, alpine, rusty, harbour, desert village; the west village reuses the rusty sign set): the only marker at a natural entrance, no arch, no gate"
+NE01_05_village_sign_05,NE01,P1,entrances,10,18,4,6000,,"One carved sign per settlement on a post or stone (Town 1, elf valley, alpine, rusty, harbour, desert village; the west village reuses the rusty sign set): the only marker at a natural entrance, no arch, no gate"
+NE01_06_village_sign_06,NE01,P1,entrances,10,18,4,6000,,"One carved sign per settlement on a post or stone (Town 1, elf valley, alpine, rusty, harbour, desert village; the west village reuses the rusty sign set): the only marker at a natural entrance, no arch, no gate"
+NE02_01_entry_rock_pair_01,NE02,P2,entrances,30,14,22,5000,,"Large boulder pairs (mossy, frosted, sandstone, basalt) that frame a road where it meets a settlement"
+NE02_02_entry_rock_pair_02,NE02,P2,entrances,30,14,22,5000,,"Large boulder pairs (mossy, frosted, sandstone, basalt) that frame a road where it meets a settlement"
+NE02_03_entry_rock_pair_03,NE02,P2,entrances,30,14,22,5000,,"Large boulder pairs (mossy, frosted, sandstone, basalt) that frame a road where it meets a settlement"
+NE02_04_entry_rock_pair_04,NE02,P2,entrances,30,14,22,5000,,"Large boulder pairs (mossy, frosted, sandstone, basalt) that frame a road where it meets a settlement"
+EV01_01_elf_house_new_01,EV01,P1,forest,26,30,26,14000,,"Eight new elf house types so the valley stops repeating three round houses: tall tower house, bridge house, library, healer hut, archery lodge, bathhouse, council hall, weavers hall (wood and stone, warm lantern hooks, no glow)"
+EV01_02_elf_house_new_02,EV01,P1,forest,26,30,26,14000,,"Eight new elf house types so the valley stops repeating three round houses: tall tower house, bridge house, library, healer hut, archery lodge, bathhouse, council hall, weavers hall (wood and stone, warm lantern hooks, no glow)"
+EV01_03_elf_house_new_03,EV01,P1,forest,26,30,26,14000,,"Eight new elf house types so the valley stops repeating three round houses: tall tower house, bridge house, library, healer hut, archery lodge, bathhouse, council hall, weavers hall (wood and stone, warm lantern hooks, no glow)"
+EV01_04_elf_house_new_04,EV01,P1,forest,26,30,26,14000,,"Eight new elf house types so the valley stops repeating three round houses: tall tower house, bridge house, library, healer hut, archery lodge, bathhouse, council hall, weavers hall (wood and stone, warm lantern hooks, no glow)"
+EV01_05_elf_house_new_05,EV01,P1,forest,26,30,26,14000,,"Eight new elf house types so the valley stops repeating three round houses: tall tower house, bridge house, library, healer hut, archery lodge, bathhouse, council hall, weavers hall (wood and stone, warm lantern hooks, no glow)"
+EV01_06_elf_house_new_06,EV01,P1,forest,26,30,26,14000,,"Eight new elf house types so the valley stops repeating three round houses: tall tower house, bridge house, library, healer hut, archery lodge, bathhouse, council hall, weavers hall (wood and stone, warm lantern hooks, no glow)"
+EV01_07_elf_house_new_07,EV01,P1,forest,26,30,26,14000,,"Eight new elf house types so the valley stops repeating three round houses: tall tower house, bridge house, library, healer hut, archery lodge, bathhouse, council hall, weavers hall (wood and stone, warm lantern hooks, no glow)"
+EV01_08_elf_house_new_08,EV01,P1,forest,26,30,26,14000,,"Eight new elf house types so the valley stops repeating three round houses: tall tower house, bridge house, library, healer hut, archery lodge, bathhouse, council hall, weavers hall (wood and stone, warm lantern hooks, no glow)"
+EV02_01_canopy_cluster_01,EV02,P1,forest,70,40,70,30000,,"Canopy village clusters: 3-4 platforms, rope bridges, small huts, ladders to the ground; for 90-140 studs up around the world tree"
+EV02_02_canopy_cluster_02,EV02,P1,forest,70,40,70,30000,,"Canopy village clusters: 3-4 platforms, rope bridges, small huts, ladders to the ground; for 90-140 studs up around the world tree"
+EV02_03_canopy_cluster_03,EV02,P1,forest,70,40,70,30000,,"Canopy village clusters: 3-4 platforms, rope bridges, small huts, ladders to the ground; for 90-140 studs up around the world tree"
+EV03_01_elf_path_piece_01,EV03,P2,forest,20,6,20,4000,,"Root stairs, carved steps, stone-and-root bridge, garden arch, path posts, plaza paving ring"
+EV03_02_elf_path_piece_02,EV03,P2,forest,20,6,20,4000,,"Root stairs, carved steps, stone-and-root bridge, garden arch, path posts, plaza paving ring"
+EV03_03_elf_path_piece_03,EV03,P2,forest,20,6,20,4000,,"Root stairs, carved steps, stone-and-root bridge, garden arch, path posts, plaza paving ring"
+EV03_04_elf_path_piece_04,EV03,P2,forest,20,6,20,4000,,"Root stairs, carved steps, stone-and-root bridge, garden arch, path posts, plaza paving ring"
+EV03_05_elf_path_piece_05,EV03,P2,forest,20,6,20,4000,,"Root stairs, carved steps, stone-and-root bridge, garden arch, path posts, plaza paving ring"
+EV03_06_elf_path_piece_06,EV03,P2,forest,20,6,20,4000,,"Root stairs, carved steps, stone-and-root bridge, garden arch, path posts, plaza paving ring"
+TW03_01_skull_avenue_set_01,TW03,P2,town1,14,14,14,5000,,Braziers x2 and banner poles x2 for the avenue from the skull HQ apron to the plaza
+TW03_02_skull_avenue_set_02,TW03,P2,town1,14,14,14,5000,,Braziers x2 and banner poles x2 for the avenue from the skull HQ apron to the plaza
+TW03_03_skull_avenue_set_03,TW03,P2,town1,14,14,14,5000,,Braziers x2 and banner poles x2 for the avenue from the skull HQ apron to the plaza
+TW03_04_skull_avenue_set_04,TW03,P2,town1,14,14,14,5000,,Braziers x2 and banner poles x2 for the avenue from the skull HQ apron to the plaza

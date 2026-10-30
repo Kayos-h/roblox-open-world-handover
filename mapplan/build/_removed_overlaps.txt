@@ -1,0 +1,2 @@
+﻿town1#51,town1#106,town1#82,town1#90,town1#122,town1#123,town1#124,town1#125,town1_yard#12,town1_yard#13,town1_yard#14,town1_yard#16
+capital#53,capital#54,capital#55,capital#56,capital#57,capital#58,capital#59,capital#60,capital#61,capital#136,capital#165,capital#399,capital#441,capital#439,capital#459,capital#454,harbour#29,harbour#170,harbour#272,harbour#273,harbour#137

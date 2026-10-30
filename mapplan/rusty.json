@@ -1,0 +1,1439 @@
+﻿{
+    "area":  "rusty",
+    "terrain":  [
+                    {
+                        "op":  "plateau",
+                        "cx":  1900,
+                        "cz":  1700,
+                        "rx":  300,
+                        "rz":  300,
+                        "top_y":  14,
+                        "slope":  60,
+                        "material":  "Ground"
+                    },
+                    {
+                        "op":  "paint",
+                        "cx":  1850,
+                        "cz":  1620,
+                        "r":  160,
+                        "material":  "Mud"
+                    },
+                    {
+                        "op":  "paint",
+                        "cx":  2020,
+                        "cz":  1760,
+                        "r":  150,
+                        "material":  "Sandstone"
+                    },
+                    {
+                        "op":  "paint",
+                        "cx":  1720,
+                        "cz":  1780,
+                        "r":  120,
+                        "material":  "Ground"
+                    },
+                    {
+                        "op":  "paint",
+                        "cx":  1680,
+                        "cz":  1560,
+                        "r":  70,
+                        "material":  "LeafyGrass"
+                    },
+                    {
+                        "op":  "paint",
+                        "cx":  2100,
+                        "cz":  1900,
+                        "r":  90,
+                        "material":  "LeafyGrass"
+                    },
+                    {
+                        "op":  "ramp",
+                        "x0":  1980,
+                        "z0":  1440,
+                        "y0":  14,
+                        "x1":  1960,
+                        "z1":  1660,
+                        "y1":  10,
+                        "width":  34,
+                        "material":  "Sandstone"
+                    },
+                    {
+                        "op":  "ramp",
+                        "x0":  1960,
+                        "z0":  1660,
+                        "y0":  10,
+                        "x1":  1990,
+                        "z1":  1900,
+                        "y1":  10,
+                        "width":  34,
+                        "material":  "Sandstone"
+                    },
+                    {
+                        "op":  "hill",
+                        "cx":  2110,
+                        "cz":  1500,
+                        "r":  95,
+                        "h":  22,
+                        "material":  "Ground"
+                    },
+                    {
+                        "op":  "paint",
+                        "cx":  2110,
+                        "cz":  1500,
+                        "r":  95,
+                        "material":  "Ground"
+                    },
+                    {
+                        "op":  "flatten",
+                        "x0":  1995,
+                        "z0":  1735,
+                        "x1":  2105,
+                        "z1":  1870,
+                        "y":  14,
+                        "material":  "Sandstone"
+                    },
+                    {
+                        "op":  "paint",
+                        "cx":  2050,
+                        "cz":  1800,
+                        "r":  70,
+                        "material":  "LeafyGrass"
+                    },
+                    {
+                        "op":  "flatten",
+                        "x0":  1616,
+                        "z0":  1486,
+                        "x1":  1664,
+                        "z1":  1514,
+                        "y":  14,
+                        "material":  "Cobblestone"
+                    }
+                ],
+    "placements":  [
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  1632,
+                           "z":  1500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  1656,
+                           "z":  1500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  1680,
+                           "z":  1500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  1704,
+                           "z":  1500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  1728,
+                           "z":  1500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  1752,
+                           "z":  1500,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A02_road_curve",
+                           "x":  1768,
+                           "z":  1510,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  1788,
+                           "z":  1532,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  1808,
+                           "z":  1556,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  1828,
+                           "z":  1582,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  1850,
+                           "z":  1608,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  1872,
+                           "z":  1634,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  1894,
+                           "z":  1660,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A02_road_curve",
+                           "x":  1916,
+                           "z":  1686,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  1938,
+                           "z":  1710,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  1960,
+                           "z":  1734,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  1982,
+                           "z":  1756,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  2004,
+                           "z":  1772,
+                           "rot":  0,
+                           "group":  "MainStreet"
+                       },
+                       {
+                           "model":  "A04_road_crossroads",
+                           "x":  2030,
+                           "z":  1790,
+                           "rot":  0,
+                           "group":  "ChurchSquare"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  2054,
+                           "z":  1790,
+                           "rot":  0,
+                           "group":  "ChurchSquare"
+                       },
+                       {
+                           "model":  "A01_road_straight",
+                           "x":  2030,
+                           "z":  1814,
+                           "rot":  0,
+                           "group":  "ChurchSquare"
+                       },
+                       {
+                           "model":  "D01_church",
+                           "x":  2055,
+                           "z":  1870,
+                           "rot":  180,
+                           "group":  "Church"
+                       },
+                       {
+                           "model":  "D02_church_bell",
+                           "x":  2055,
+                           "z":  1892,
+                           "rot":  180,
+                           "group":  "Church",
+                           "y_offset":  44
+                       },
+                       {
+                           "model":  "D03_church_rose_window",
+                           "x":  2055,
+                           "z":  1841.5,
+                           "rot":  180,
+                           "group":  "Church",
+                           "y_offset":  30
+                       },
+                       {
+                           "model":  "D11_church_door",
+                           "x":  2055,
+                           "z":  1841.6,
+                           "rot":  180,
+                           "group":  "Church"
+                       },
+                       {
+                           "model":  "D04_church_tall_window",
+                           "x":  2041.8,
+                           "z":  1856,
+                           "rot":  270,
+                           "group":  "Church",
+                           "y_offset":  12
+                       },
+                       {
+                           "model":  "D04_church_tall_window",
+                           "x":  2068.2,
+                           "z":  1856,
+                           "rot":  90,
+                           "group":  "Church",
+                           "y_offset":  12
+                       },
+                       {
+                           "model":  "D04_church_tall_window",
+                           "x":  2041.8,
+                           "z":  1872,
+                           "rot":  270,
+                           "group":  "Church",
+                           "y_offset":  12
+                       },
+                       {
+                           "model":  "D04_church_tall_window",
+                           "x":  2068.2,
+                           "z":  1872,
+                           "rot":  90,
+                           "group":  "Church",
+                           "y_offset":  12
+                       },
+                       {
+                           "model":  "D04_church_tall_window",
+                           "x":  2041.8,
+                           "z":  1888,
+                           "rot":  270,
+                           "group":  "Church",
+                           "y_offset":  12
+                       },
+                       {
+                           "model":  "D04_church_tall_window",
+                           "x":  2068.2,
+                           "z":  1888,
+                           "rot":  90,
+                           "group":  "Church",
+                           "y_offset":  12
+                       },
+                       {
+                           "model":  "D06_altar",
+                           "x":  2055,
+                           "z":  1894,
+                           "rot":  0,
+                           "group":  "ChurchInterior"
+                       },
+                       {
+                           "model":  "D07_pulpit",
+                           "x":  2062,
+                           "z":  1889,
+                           "rot":  0,
+                           "group":  "ChurchInterior"
+                       },
+                       {
+                           "model":  "D08_pipe_organ",
+                           "x":  2049.5,
+                           "z":  1892.5,
+                           "rot":  90,
+                           "group":  "ChurchInterior"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  2050.0,
+                           "z":  1850,
+                           "rot":  0,
+                           "group":  "ChurchInterior"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  2060.0,
+                           "z":  1850,
+                           "rot":  0,
+                           "group":  "ChurchInterior"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  2050.0,
+                           "z":  1856.5,
+                           "rot":  0,
+                           "group":  "ChurchInterior"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  2060.0,
+                           "z":  1856.5,
+                           "rot":  0,
+                           "group":  "ChurchInterior"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  2050.0,
+                           "z":  1863,
+                           "rot":  0,
+                           "group":  "ChurchInterior"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  2060.0,
+                           "z":  1863,
+                           "rot":  0,
+                           "group":  "ChurchInterior"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  2050.0,
+                           "z":  1869.5,
+                           "rot":  0,
+                           "group":  "ChurchInterior"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  2060.0,
+                           "z":  1869.5,
+                           "rot":  0,
+                           "group":  "ChurchInterior"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  2050.0,
+                           "z":  1876,
+                           "rot":  0,
+                           "group":  "ChurchInterior"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  2060.0,
+                           "z":  1876,
+                           "rot":  0,
+                           "group":  "ChurchInterior"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  2050.0,
+                           "z":  1882.5,
+                           "rot":  0,
+                           "group":  "ChurchInterior"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  2060.0,
+                           "z":  1882.5,
+                           "rot":  0,
+                           "group":  "ChurchInterior"
+                       },
+                       {
+                           "model":  "D10_church_pillar",
+                           "x":  2044.5,
+                           "z":  1854,
+                           "rot":  0,
+                           "group":  "ChurchInterior"
+                       },
+                       {
+                           "model":  "D10_church_pillar",
+                           "x":  2065.5,
+                           "z":  1854,
+                           "rot":  0,
+                           "group":  "ChurchInterior"
+                       },
+                       {
+                           "model":  "D10_church_pillar",
+                           "x":  2044.5,
+                           "z":  1870,
+                           "rot":  0,
+                           "group":  "ChurchInterior"
+                       },
+                       {
+                           "model":  "D10_church_pillar",
+                           "x":  2065.5,
+                           "z":  1870,
+                           "rot":  0,
+                           "group":  "ChurchInterior"
+                       },
+                       {
+                           "model":  "D10_church_pillar",
+                           "x":  2044.5,
+                           "z":  1886,
+                           "rot":  0,
+                           "group":  "ChurchInterior"
+                       },
+                       {
+                           "model":  "D10_church_pillar",
+                           "x":  2065.5,
+                           "z":  1886,
+                           "rot":  0,
+                           "group":  "ChurchInterior"
+                       },
+                       {
+                           "model":  "D09_candle_stand",
+                           "x":  2051,
+                           "z":  1893,
+                           "rot":  0,
+                           "group":  "ChurchInterior"
+                       },
+                       {
+                           "model":  "D09_candle_stand",
+                           "x":  2059,
+                           "z":  1893,
+                           "rot":  0,
+                           "group":  "ChurchInterior"
+                       },
+                       {
+                           "model":  "A23_candle_cluster",
+                           "x":  2055,
+                           "z":  1894,
+                           "rot":  0,
+                           "group":  "ChurchInterior",
+                           "y_offset":  9.1
+                       },
+                       {
+                           "model":  "D18_graveyard_gate",
+                           "x":  2110,
+                           "z":  1800,
+                           "rot":  180,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D17_mausoleum",
+                           "x":  2150,
+                           "z":  1920,
+                           "rot":  180,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D16_stone_cross",
+                           "x":  2125,
+                           "z":  1860,
+                           "rot":  0,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D19_weeping_statue",
+                           "x":  2150,
+                           "z":  1835,
+                           "rot":  180,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D12_gravestone_1",
+                           "x":  2108,
+                           "z":  1840,
+                           "rot":  0,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D13_gravestone_2",
+                           "x":  2118,
+                           "z":  1842,
+                           "rot":  0,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D14_gravestone_3",
+                           "x":  2130,
+                           "z":  1840,
+                           "rot":  0,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D15_gravestone_4",
+                           "x":  2142,
+                           "z":  1844,
+                           "rot":  0,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D12_gravestone_1",
+                           "x":  2110,
+                           "z":  1860,
+                           "rot":  0,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D14_gravestone_3",
+                           "x":  2122,
+                           "z":  1878,
+                           "rot":  0,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D13_gravestone_2",
+                           "x":  2135,
+                           "z":  1876,
+                           "rot":  0,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D15_gravestone_4",
+                           "x":  2146,
+                           "z":  1872,
+                           "rot":  0,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D12_gravestone_1",
+                           "x":  2112,
+                           "z":  1896,
+                           "rot":  0,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D14_gravestone_3",
+                           "x":  2128,
+                           "z":  1900,
+                           "rot":  0,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D13_gravestone_2",
+                           "x":  2142,
+                           "z":  1898,
+                           "rot":  0,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D15_gravestone_4",
+                           "x":  2120,
+                           "z":  1916,
+                           "rot":  0,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D33_broken_fence",
+                           "x":  2095,
+                           "z":  1820,
+                           "rot":  90,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D33_broken_fence",
+                           "x":  2095,
+                           "z":  1836,
+                           "rot":  90,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D33_broken_fence",
+                           "x":  2095,
+                           "z":  1852,
+                           "rot":  90,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D33_broken_fence",
+                           "x":  2095,
+                           "z":  1868,
+                           "rot":  90,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D33_broken_fence",
+                           "x":  2095,
+                           "z":  1884,
+                           "rot":  90,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D33_broken_fence",
+                           "x":  2095,
+                           "z":  1900,
+                           "rot":  90,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D33_broken_fence",
+                           "x":  2110,
+                           "z":  1935,
+                           "rot":  0,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D33_broken_fence",
+                           "x":  2126,
+                           "z":  1935,
+                           "rot":  0,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D33_broken_fence",
+                           "x":  2142,
+                           "z":  1935,
+                           "rot":  0,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D33_broken_fence",
+                           "x":  2158,
+                           "z":  1935,
+                           "rot":  0,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "A35_dead_tree_1",
+                           "x":  2100,
+                           "z":  1905,
+                           "rot":  40,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "A36_dead_tree_2",
+                           "x":  2155,
+                           "z":  1810,
+                           "rot":  120,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "A69_stump_2",
+                           "x":  2138,
+                           "z":  1858,
+                           "rot":  0,
+                           "group":  "Graveyard"
+                       },
+                       {
+                           "model":  "D20_rundown_house_1",
+                           "x":  1660,
+                           "z":  1474,
+                           "rot":  0,
+                           "group":  "NorthRow"
+                       },
+                       {
+                           "model":  "D21_rundown_house_2",
+                           "x":  1692,
+                           "z":  1472,
+                           "rot":  0,
+                           "group":  "NorthRow"
+                       },
+                       {
+                           "model":  "D34_boarded_shack",
+                           "x":  1720,
+                           "z":  1480,
+                           "rot":  0,
+                           "group":  "NorthRow"
+                       },
+                       {
+                           "model":  "D22_rundown_house_3",
+                           "x":  1752,
+                           "z":  1472,
+                           "rot":  0,
+                           "group":  "NorthRow"
+                       },
+                       {
+                           "model":  "D23_rundown_house_4",
+                           "x":  1664,
+                           "z":  1528,
+                           "rot":  180,
+                           "group":  "SouthRow"
+                       },
+                       {
+                           "model":  "D24_collapsed_ruin",
+                           "x":  1696,
+                           "z":  1530,
+                           "rot":  180,
+                           "group":  "SouthRow"
+                       },
+                       {
+                           "model":  "D20_rundown_house_1",
+                           "x":  1734,
+                           "z":  1530,
+                           "rot":  180,
+                           "group":  "SouthRow"
+                       },
+                       {
+                           "model":  "D35_collapsed_wall",
+                           "x":  1762,
+                           "z":  1526,
+                           "rot":  90,
+                           "group":  "SouthRow"
+                       },
+                       {
+                           "model":  "D21_rundown_house_2",
+                           "x":  1836,
+                           "z":  1552,
+                           "rot":  250,
+                           "group":  "StreetEast"
+                       },
+                       {
+                           "model":  "D22_rundown_house_3",
+                           "x":  1868,
+                           "z":  1600,
+                           "rot":  250,
+                           "group":  "StreetEast"
+                       },
+                       {
+                           "model":  "D23_rundown_house_4",
+                           "x":  1900,
+                           "z":  1646,
+                           "rot":  250,
+                           "group":  "StreetEast"
+                       },
+                       {
+                           "model":  "D20_rundown_house_1",
+                           "x":  1786,
+                           "z":  1572,
+                           "rot":  70,
+                           "group":  "StreetWest"
+                       },
+                       {
+                           "model":  "D34_boarded_shack",
+                           "x":  1818,
+                           "z":  1612,
+                           "rot":  70,
+                           "group":  "StreetWest"
+                       },
+                       {
+                           "model":  "D22_rundown_house_3",
+                           "x":  1848,
+                           "z":  1656,
+                           "rot":  70,
+                           "group":  "StreetWest"
+                       },
+                       {
+                           "model":  "D25_rundown_tavern",
+                           "x":  1912,
+                           "z":  1600,
+                           "rot":  270,
+                           "group":  "Tavern"
+                       },
+                       {
+                           "model":  "A84_table",
+                           "x":  1910,
+                           "z":  1595,
+                           "rot":  0,
+                           "group":  "TavernInterior"
+                       },
+                       {
+                           "model":  "A85_chair",
+                           "x":  1907,
+                           "z":  1595,
+                           "rot":  90,
+                           "group":  "TavernInterior"
+                       },
+                       {
+                           "model":  "A85_chair",
+                           "x":  1913,
+                           "z":  1595,
+                           "rot":  270,
+                           "group":  "TavernInterior"
+                       },
+                       {
+                           "model":  "A84_table",
+                           "x":  1910,
+                           "z":  1605,
+                           "rot":  0,
+                           "group":  "TavernInterior"
+                       },
+                       {
+                           "model":  "A86_stool",
+                           "x":  1907,
+                           "z":  1605,
+                           "rot":  0,
+                           "group":  "TavernInterior"
+                       },
+                       {
+                           "model":  "A86_stool",
+                           "x":  1913,
+                           "z":  1605,
+                           "rot":  0,
+                           "group":  "TavernInterior"
+                       },
+                       {
+                           "model":  "A71_barrel",
+                           "x":  1918,
+                           "z":  1607,
+                           "rot":  0,
+                           "group":  "TavernInterior"
+                       },
+                       {
+                           "model":  "A72_barrel_open",
+                           "x":  1918,
+                           "z":  1604,
+                           "rot":  0,
+                           "group":  "TavernInterior"
+                       },
+                       {
+                           "model":  "A23_candle_cluster",
+                           "x":  1910,
+                           "z":  1595,
+                           "rot":  0,
+                           "group":  "TavernInterior",
+                           "y_offset":  3
+                       },
+                       {
+                           "model":  "A19_hanging_lantern",
+                           "x":  1910,
+                           "z":  1600,
+                           "rot":  0,
+                           "group":  "TavernInterior",
+                           "y_offset":  12
+                       },
+                       {
+                           "model":  "A71_barrel",
+                           "x":  1898,
+                           "z":  1594,
+                           "rot":  0,
+                           "group":  "Tavern"
+                       },
+                       {
+                           "model":  "A71_barrel",
+                           "x":  1898,
+                           "z":  1597,
+                           "rot":  0,
+                           "group":  "Tavern"
+                       },
+                       {
+                           "model":  "D32_broken_barrel",
+                           "x":  1897,
+                           "z":  1604,
+                           "rot":  30,
+                           "group":  "Tavern"
+                       },
+                       {
+                           "model":  "A18_wall_lantern",
+                           "x":  1901,
+                           "z":  1596,
+                           "rot":  270,
+                           "group":  "Tavern",
+                           "y_offset":  9
+                       },
+                       {
+                           "model":  "A94_shop_sign",
+                           "x":  1900,
+                           "z":  1600,
+                           "rot":  270,
+                           "group":  "Tavern",
+                           "y_offset":  8
+                       },
+                       {
+                           "model":  "D26_blacksmith_shed",
+                           "x":  1876,
+                           "z":  1664,
+                           "rot":  200,
+                           "group":  "Blacksmith"
+                       },
+                       {
+                           "model":  "A99_anvil",
+                           "x":  1866,
+                           "z":  1676,
+                           "rot":  0,
+                           "group":  "Blacksmith"
+                       },
+                       {
+                           "model":  "D30_scrap_pile",
+                           "x":  1858,
+                           "z":  1686,
+                           "rot":  0,
+                           "group":  "Blacksmith"
+                       },
+                       {
+                           "model":  "A90_firewood_stack",
+                           "x":  1888,
+                           "z":  1680,
+                           "rot":  0,
+                           "group":  "Blacksmith"
+                       },
+                       {
+                           "model":  "A21_brazier",
+                           "x":  1862,
+                           "z":  1678,
+                           "rot":  0,
+                           "group":  "Blacksmith"
+                       },
+                       {
+                           "model":  "D27_broken_windmill",
+                           "x":  2110,
+                           "z":  1500,
+                           "rot":  210,
+                           "group":  "Windmill"
+                       },
+                       {
+                           "model":  "A35_dead_tree_1",
+                           "x":  2075,
+                           "z":  1470,
+                           "rot":  60,
+                           "group":  "Windmill"
+                       },
+                       {
+                           "model":  "A58_rock_medium_1",
+                           "x":  2135,
+                           "z":  1530,
+                           "rot":  0,
+                           "group":  "Windmill"
+                       },
+                       {
+                           "model":  "A70_branch_pile",
+                           "x":  2090,
+                           "z":  1530,
+                           "rot":  0,
+                           "group":  "Windmill"
+                       },
+                       {
+                           "model":  "D28_rusty_water_tower",
+                           "x":  1980,
+                           "z":  1600,
+                           "rot":  0,
+                           "group":  "WaterTower"
+                       },
+                       {
+                           "model":  "D36_old_well_pump",
+                           "x":  1800,
+                           "z":  1500,
+                           "rot":  0,
+                           "group":  "TownCentre"
+                       },
+                       {
+                           "model":  "A98_well",
+                           "x":  1820,
+                           "z":  1545,
+                           "rot":  0,
+                           "group":  "TownCentre"
+                       },
+                       {
+                           "model":  "D29_patched_tent",
+                           "x":  1700,
+                           "z":  1560,
+                           "rot":  20,
+                           "group":  "Shanty"
+                       },
+                       {
+                           "model":  "D29_patched_tent",
+                           "x":  1724,
+                           "z":  1572,
+                           "rot":  340,
+                           "group":  "Shanty"
+                       },
+                       {
+                           "model":  "D31_rusted_cart",
+                           "x":  1684,
+                           "z":  1584,
+                           "rot":  60,
+                           "group":  "Shanty"
+                       },
+                       {
+                           "model":  "D30_scrap_pile",
+                           "x":  1660,
+                           "z":  1566,
+                           "rot":  0,
+                           "group":  "Shanty"
+                       },
+                       {
+                           "model":  "D32_broken_barrel",
+                           "x":  1744,
+                           "z":  1556,
+                           "rot":  15,
+                           "group":  "Shanty"
+                       },
+                       {
+                           "model":  "D34_boarded_shack",
+                           "x":  1672,
+                           "z":  1600,
+                           "rot":  160,
+                           "group":  "Shanty"
+                       },
+                       {
+                           "model":  "A77_sack_pile",
+                           "x":  1708,
+                           "z":  1548,
+                           "rot":  0,
+                           "group":  "Shanty"
+                       },
+                       {
+                           "model":  "A92_laundry_line",
+                           "x":  1690,
+                           "z":  1618,
+                           "rot":  0,
+                           "group":  "Shanty"
+                       },
+                       {
+                           "model":  "D31_rusted_cart",
+                           "x":  1944,
+                           "z":  1700,
+                           "rot":  120,
+                           "group":  "StreetClutter"
+                       },
+                       {
+                           "model":  "D32_broken_barrel",
+                           "x":  1824,
+                           "z":  1500,
+                           "rot":  0,
+                           "group":  "StreetClutter"
+                       },
+                       {
+                           "model":  "D30_scrap_pile",
+                           "x":  2000,
+                           "z":  1660,
+                           "rot":  0,
+                           "group":  "StreetClutter"
+                       },
+                       {
+                           "model":  "A80_wagon",
+                           "x":  1980,
+                           "z":  1500,
+                           "rot":  90,
+                           "group":  "StreetClutter"
+                       },
+                       {
+                           "model":  "A79_hand_cart",
+                           "x":  1960,
+                           "z":  1760,
+                           "rot":  40,
+                           "group":  "StreetClutter"
+                       },
+                       {
+                           "model":  "D37_crooked_lamp",
+                           "x":  1636,
+                           "z":  1512,
+                           "rot":  0,
+                           "group":  "Lighting"
+                       },
+                       {
+                           "model":  "D37_crooked_lamp",
+                           "x":  1684,
+                           "z":  1488,
+                           "rot":  0,
+                           "group":  "Lighting"
+                       },
+                       {
+                           "model":  "D37_crooked_lamp",
+                           "x":  1732,
+                           "z":  1512,
+                           "rot":  0,
+                           "group":  "Lighting"
+                       },
+                       {
+                           "model":  "D37_crooked_lamp",
+                           "x":  1778,
+                           "z":  1540,
+                           "rot":  0,
+                           "group":  "Lighting"
+                       },
+                       {
+                           "model":  "D37_crooked_lamp",
+                           "x":  1820,
+                           "z":  1584,
+                           "rot":  0,
+                           "group":  "Lighting"
+                       },
+                       {
+                           "model":  "D37_crooked_lamp",
+                           "x":  1862,
+                           "z":  1628,
+                           "rot":  0,
+                           "group":  "Lighting"
+                       },
+                       {
+                           "model":  "D37_crooked_lamp",
+                           "x":  1904,
+                           "z":  1672,
+                           "rot":  0,
+                           "group":  "Lighting"
+                       },
+                       {
+                           "model":  "D37_crooked_lamp",
+                           "x":  1796,
+                           "z":  1552,
+                           "rot":  0,
+                           "group":  "Lighting"
+                       },
+                       {
+                           "model":  "D37_crooked_lamp",
+                           "x":  1838,
+                           "z":  1596,
+                           "rot":  0,
+                           "group":  "Lighting"
+                       },
+                       {
+                           "model":  "D37_crooked_lamp",
+                           "x":  1880,
+                           "z":  1640,
+                           "rot":  0,
+                           "group":  "Lighting"
+                       },
+                       {
+                           "model":  "D37_crooked_lamp",
+                           "x":  2010,
+                           "z":  1778,
+                           "rot":  0,
+                           "group":  "Lighting"
+                       },
+                       {
+                           "model":  "D37_crooked_lamp",
+                           "x":  2048,
+                           "z":  1812,
+                           "rot":  0,
+                           "group":  "Lighting"
+                       },
+                       {
+                           "model":  "A21_brazier",
+                           "x":  1626,
+                           "z":  1500,
+                           "rot":  0,
+                           "group":  "Lighting"
+                       },
+                       {
+                           "model":  "A21_brazier",
+                           "x":  2030,
+                           "z":  1770,
+                           "rot":  0,
+                           "group":  "ChurchSquare"
+                       },
+                       {
+                           "model":  "A20_wall_torch",
+                           "x":  2041.8,
+                           "z":  1846,
+                           "rot":  270,
+                           "group":  "Church",
+                           "y_offset":  8
+                       },
+                       {
+                           "model":  "A20_wall_torch",
+                           "x":  2068.2,
+                           "z":  1846,
+                           "rot":  90,
+                           "group":  "Church",
+                           "y_offset":  8
+                       },
+                       {
+                           "model":  "A35_dead_tree_1",
+                           "x":  1640,
+                           "z":  1640,
+                           "rot":  10,
+                           "group":  "DeadNature"
+                       },
+                       {
+                           "model":  "A36_dead_tree_2",
+                           "x":  1760,
+                           "z":  1660,
+                           "rot":  200,
+                           "group":  "DeadNature"
+                       },
+                       {
+                           "model":  "A35_dead_tree_1",
+                           "x":  1700,
+                           "z":  1700,
+                           "rot":  300,
+                           "group":  "DeadNature"
+                       },
+                       {
+                           "model":  "A36_dead_tree_2",
+                           "x":  1960,
+                           "z":  1540,
+                           "rot":  120,
+                           "group":  "DeadNature"
+                       },
+                       {
+                           "model":  "A35_dead_tree_1",
+                           "x":  2160,
+                           "z":  1560,
+                           "rot":  40,
+                           "group":  "DeadNature"
+                       },
+                       {
+                           "model":  "A68_stump_1",
+                           "x":  1676,
+                           "z":  1664,
+                           "rot":  0,
+                           "group":  "DeadNature"
+                       },
+                       {
+                           "model":  "A69_stump_2",
+                           "x":  1792,
+                           "z":  1640,
+                           "rot":  0,
+                           "group":  "DeadNature"
+                       },
+                       {
+                           "model":  "A68_stump_1",
+                           "x":  1996,
+                           "z":  1620,
+                           "rot":  0,
+                           "group":  "DeadNature"
+                       },
+                       {
+                           "model":  "A70_branch_pile",
+                           "x":  1648,
+                           "z":  1692,
+                           "rot":  0,
+                           "group":  "DeadNature"
+                       },
+                       {
+                           "model":  "A70_branch_pile",
+                           "x":  1940,
+                           "z":  1560,
+                           "rot":  0,
+                           "group":  "DeadNature"
+                       },
+                       {
+                           "model":  "A50_tall_grass_2",
+                           "x":  1668,
+                           "z":  1540,
+                           "rot":  0,
+                           "group":  "DeadNature"
+                       },
+                       {
+                           "model":  "A50_tall_grass_2",
+                           "x":  1744,
+                           "z":  1588,
+                           "rot":  0,
+                           "group":  "DeadNature"
+                       },
+                       {
+                           "model":  "A50_tall_grass_2",
+                           "x":  1880,
+                           "z":  1700,
+                           "rot":  0,
+                           "group":  "DeadNature"
+                       },
+                       {
+                           "model":  "A52_reeds",
+                           "x":  1962,
+                           "z":  1640,
+                           "rot":  0,
+                           "group":  "DeadNature"
+                       },
+                       {
+                           "model":  "A55_pebbles",
+                           "x":  1980,
+                           "z":  1560,
+                           "rot":  0,
+                           "group":  "DeadNature"
+                       },
+                       {
+                           "model":  "A56_rock_small_1",
+                           "x":  1716,
+                           "z":  1700,
+                           "rot":  0,
+                           "group":  "DeadNature"
+                       },
+                       {
+                           "model":  "A57_rock_small_2",
+                           "x":  2000,
+                           "z":  1640,
+                           "rot":  0,
+                           "group":  "DeadNature"
+                       },
+                       {
+                           "model":  "A58_rock_medium_1",
+                           "x":  1636,
+                           "z":  1720,
+                           "rot":  0,
+                           "group":  "DeadNature"
+                       },
+                       {
+                           "model":  "A59_rock_medium_2",
+                           "x":  2168,
+                           "z":  1620,
+                           "rot":  0,
+                           "group":  "DeadNature"
+                       },
+                       {
+                           "model":  "A38_bush_1",
+                           "x":  1664,
+                           "z":  1620,
+                           "rot":  0,
+                           "group":  "DeadNature"
+                       },
+                       {
+                           "model":  "A40_bush_3",
+                           "x":  1788,
+                           "z":  1676,
+                           "rot":  0,
+                           "group":  "DeadNature"
+                       },
+                       {
+                           "model":  "A34_fruit_tree",
+                           "x":  2000,
+                           "z":  1760,
+                           "rot":  20,
+                           "group":  "ChurchGarden"
+                       },
+                       {
+                           "model":  "A24_oak_1",
+                           "x":  2095,
+                           "z":  1755,
+                           "rot":  200,
+                           "group":  "ChurchGarden",
+                           "scale":  1.1
+                       },
+                       {
+                           "model":  "A39_bush_2",
+                           "x":  2012,
+                           "z":  1740,
+                           "rot":  0,
+                           "group":  "ChurchGarden"
+                       },
+                       {
+                           "model":  "A43_flowers_red",
+                           "x":  2024,
+                           "z":  1810,
+                           "rot":  0,
+                           "group":  "ChurchGarden"
+                       },
+                       {
+                           "model":  "A46_flowers_white",
+                           "x":  2040,
+                           "z":  1836,
+                           "rot":  0,
+                           "group":  "ChurchGarden"
+                       },
+                       {
+                           "model":  "A44_flowers_yellow",
+                           "x":  2066,
+                           "z":  1836,
+                           "rot":  0,
+                           "group":  "ChurchGarden"
+                       },
+                       {
+                           "model":  "A47_flowers_blue",
+                           "x":  2070,
+                           "z":  1810,
+                           "rot":  0,
+                           "group":  "ChurchGarden"
+                       },
+                       {
+                           "model":  "A48_planter_box",
+                           "x":  2048,
+                           "z":  1842,
+                           "rot":  0,
+                           "group":  "ChurchGarden"
+                       },
+                       {
+                           "model":  "A48_planter_box",
+                           "x":  2062,
+                           "z":  1842,
+                           "rot":  0,
+                           "group":  "ChurchGarden"
+                       },
+                       {
+                           "model":  "A82_bench_wood",
+                           "x":  2020,
+                           "z":  1820,
+                           "rot":  90,
+                           "group":  "ChurchGarden"
+                       },
+                       {
+                           "model":  "A82_bench_wood",
+                           "x":  2080,
+                           "z":  1820,
+                           "rot":  270,
+                           "group":  "ChurchGarden"
+                       }
+                   ]
+}

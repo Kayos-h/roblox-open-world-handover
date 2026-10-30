@@ -1,0 +1,723 @@
+{
+"area": "v3f_alpine",
+"terrain": [],
+"placements": [
+{
+"model": "A22_campfire",
+"x": 1559.2,
+"z": -1107.58,
+"rot": 201.0,
+"group": "IceCamp2"
+},
+{
+"model": "A82_bench_wood",
+"x": 1566.67,
+"z": -1107.72,
+"rot": 272.4,
+"group": "IceCamp2"
+},
+{
+"model": "A82_bench_wood",
+"x": 1553.4,
+"z": -1099.23,
+"rot": 40.0,
+"group": "IceCamp2"
+},
+{
+"model": "A82_bench_wood",
+"x": 1563.76,
+"z": -1101.64,
+"rot": 174.2,
+"group": "IceCamp2"
+},
+{
+"model": "E22_sled",
+"x": 1561.54,
+"z": -1093.77,
+"rot": 9.2,
+"group": "IceCamp2"
+},
+{
+"model": "E22_sled",
+"x": 1552.11,
+"z": -1105.38,
+"rot": 357.8,
+"group": "IceCamp2"
+},
+{
+"model": "A74_crate_large",
+"x": 1559.46,
+"z": -1114.65,
+"rot": 173.3,
+"group": "IceCamp2"
+},
+{
+"model": "A73_crate_small",
+"x": 1566.26,
+"z": -1097.82,
+"rot": 262.6,
+"group": "IceCamp2"
+},
+{
+"model": "A73_crate_small",
+"x": 1553.8,
+"z": -1112.35,
+"rot": 304.0,
+"group": "IceCamp2"
+},
+{
+"model": "A87_bucket",
+"x": 1571.35,
+"z": -1107.3,
+"rot": 175.9,
+"group": "IceCamp2"
+},
+{
+"model": "A87_bucket",
+"x": 1558.19,
+"z": -1102.09,
+"rot": 92.8,
+"group": "IceCamp2"
+},
+{
+"model": "A87_bucket",
+"x": 1550.29,
+"z": -1100.9,
+"rot": 54.3,
+"group": "IceCamp2"
+},
+{
+"model": "A87_bucket",
+"x": 1563.87,
+"z": -1106.05,
+"rot": 297.6,
+"group": "IceCamp2"
+},
+{
+"model": "A87_bucket",
+"x": 1563.74,
+"z": -1113.39,
+"rot": 161.2,
+"group": "IceCamp2"
+},
+{
+"model": "A17_lamp_wood_rustic",
+"x": 1573.42,
+"z": -1102.87,
+"rot": 72.0,
+"group": "IceCamp2"
+},
+{
+"model": "A22_campfire",
+"x": 1419.02,
+"z": -1115.79,
+"rot": 272.2,
+"group": "IceCamp2"
+},
+{
+"model": "A82_bench_wood",
+"x": 1416.54,
+"z": -1123.04,
+"rot": 297.7,
+"group": "IceCamp2"
+},
+{
+"model": "A82_bench_wood",
+"x": 1426.28,
+"z": -1120.87,
+"rot": 295.6,
+"group": "IceCamp2"
+},
+{
+"model": "A82_bench_wood",
+"x": 1428.72,
+"z": -1113.08,
+"rot": 336.1,
+"group": "IceCamp2"
+},
+{
+"model": "A82_bench_wood",
+"x": 1414.08,
+"z": -1109.12,
+"rot": 21.2,
+"group": "IceCamp2"
+},
+{
+"model": "E22_sled",
+"x": 1410.1,
+"z": -1114.9,
+"rot": 54.0,
+"group": "IceCamp2"
+},
+{
+"model": "A74_crate_large",
+"x": 1426.28,
+"z": -1107.4,
+"rot": 42.5,
+"group": "IceCamp2"
+},
+{
+"model": "A73_crate_small",
+"x": 1422.15,
+"z": -1110.73,
+"rot": 213.7,
+"group": "IceCamp2"
+},
+{
+"model": "A73_crate_small",
+"x": 1419.63,
+"z": -1107.56,
+"rot": 144.4,
+"group": "IceCamp2"
+},
+{
+"model": "A87_bucket",
+"x": 1422.87,
+"z": -1119.44,
+"rot": 42.6,
+"group": "IceCamp2"
+},
+{
+"model": "A87_bucket",
+"x": 1416.96,
+"z": -1103.82,
+"rot": 4.4,
+"group": "IceCamp2"
+},
+{
+"model": "A87_bucket",
+"x": 1413.63,
+"z": -1112.54,
+"rot": 89.2,
+"group": "IceCamp2"
+},
+{
+"model": "A87_bucket",
+"x": 1431.27,
+"z": -1115.69,
+"rot": 204.4,
+"group": "IceCamp2"
+},
+{
+"model": "A87_bucket",
+"x": 1429.9,
+"z": -1120.46,
+"rot": 164.9,
+"group": "IceCamp2"
+},
+{
+"model": "A87_bucket",
+"x": 1416.32,
+"z": -1106.63,
+"rot": 208.8,
+"group": "IceCamp2"
+},
+{
+"model": "A22_campfire",
+"x": 1500.04,
+"z": -1149.89,
+"rot": 43.7,
+"group": "IceCamp2"
+},
+{
+"model": "A82_bench_wood",
+"x": 1502.74,
+"z": -1143.55,
+"rot": 209.9,
+"group": "IceCamp2"
+},
+{
+"model": "A82_bench_wood",
+"x": 1493.71,
+"z": -1152.6,
+"rot": 276.0,
+"group": "IceCamp2"
+},
+{
+"model": "A82_bench_wood",
+"x": 1504.41,
+"z": -1157.48,
+"rot": 277.6,
+"group": "IceCamp2"
+},
+{
+"model": "E22_sled",
+"x": 1493.26,
+"z": -1144.81,
+"rot": 217.0,
+"group": "IceCamp2"
+},
+{
+"model": "E22_sled",
+"x": 1510.04,
+"z": -1149.13,
+"rot": 81.9,
+"group": "IceCamp2"
+},
+{
+"model": "E22_sled",
+"x": 1494.23,
+"z": -1160.01,
+"rot": 16.1,
+"group": "IceCamp2"
+},
+{
+"model": "A71_barrel",
+"x": 1498.6,
+"z": -1156.24,
+"rot": 9.4,
+"group": "IceCamp2"
+},
+{
+"model": "A87_bucket",
+"x": 1507.65,
+"z": -1152.24,
+"rot": 5.2,
+"group": "IceCamp2"
+},
+{
+"model": "A87_bucket",
+"x": 1503.66,
+"z": -1148.16,
+"rot": 142.2,
+"group": "IceCamp2"
+},
+{
+"model": "A87_bucket",
+"x": 1499.36,
+"z": -1138.91,
+"rot": 160.6,
+"group": "IceCamp2"
+},
+{
+"model": "A87_bucket",
+"x": 1505.87,
+"z": -1141.1,
+"rot": 231.3,
+"group": "IceCamp2"
+},
+{
+"model": "A87_bucket",
+"x": 1510.27,
+"z": -1154.98,
+"rot": 9.1,
+"group": "IceCamp2"
+},
+{
+"model": "G10_rowboat",
+"x": 1538.41,
+"z": -1166.06,
+"rot": 11.8,
+"group": "FrozenBoats",
+"scale": 0.852
+},
+{
+"model": "G08_fishing_boat_1",
+"x": 1513.63,
+"z": -1115.92,
+"rot": 283.8,
+"group": "FrozenBoats",
+"scale": 0.82
+},
+{
+"model": "G10_rowboat",
+"x": 1378.0,
+"z": -1036.84,
+"rot": 344.7,
+"group": "FrozenBoats",
+"scale": 0.889
+},
+{
+"model": "G09_fishing_boat_2",
+"x": 1611.8,
+"z": -1120.73,
+"rot": 142.0,
+"group": "FrozenBoats",
+"scale": 0.826
+},
+{
+"model": "G09_fishing_boat_2",
+"x": 1354.45,
+"z": -1099.69,
+"rot": 3.6,
+"group": "FrozenBoats",
+"scale": 0.895
+},
+{
+"model": "E16_snowy_rock_2",
+"x": 1601.44,
+"z": -1104.83,
+"rot": 139.9,
+"group": "IceRocks",
+"scale": 1.6
+},
+{
+"model": "E15_snowy_rock_1",
+"x": 1443.87,
+"z": -1084.61,
+"rot": 189.7,
+"group": "IceRocks",
+"scale": 1.739
+},
+{
+"model": "E16_snowy_rock_2",
+"x": 1480.88,
+"z": -1034.77,
+"rot": 165.5,
+"group": "IceRocks",
+"scale": 1.812
+},
+{
+"model": "E16_snowy_rock_2",
+"x": 1397.12,
+"z": -1073.59,
+"rot": 129.5,
+"group": "IceRocks",
+"scale": 1.936
+},
+{
+"model": "E16_snowy_rock_2",
+"x": 1468.62,
+"z": -1144.73,
+"rot": 136.2,
+"group": "IceRocks",
+"scale": 1.33
+},
+{
+"model": "E15_snowy_rock_1",
+"x": 1389.6,
+"z": -1107.23,
+"rot": 84.6,
+"group": "IceRocks",
+"scale": 1.302
+},
+{
+"model": "A60_boulder_1",
+"x": 1407.37,
+"z": -1157.81,
+"rot": 220.6,
+"group": "IceRocks",
+"scale": 1.395
+},
+{
+"model": "E16_snowy_rock_2",
+"x": 1456.66,
+"z": -1046.3,
+"rot": 203.5,
+"group": "IceRocks",
+"scale": 1.549
+},
+{
+"model": "E15_snowy_rock_1",
+"x": 1430.18,
+"z": -1040.8,
+"rot": 177.4,
+"group": "IceRocks",
+"scale": 1.645
+},
+{
+"model": "E16_snowy_rock_2",
+"x": 1625.84,
+"z": -1055.26,
+"rot": 304.6,
+"group": "IceRocks",
+"scale": 1.489
+},
+{
+"model": "E15_snowy_rock_1",
+"x": 1630.65,
+"z": -1102.86,
+"rot": 247.6,
+"group": "IceRocks",
+"scale": 1.306
+},
+{
+"model": "E15_snowy_rock_1",
+"x": 1589.9,
+"z": -1037.2,
+"rot": 139.3,
+"group": "IceRocks",
+"scale": 1.891
+},
+{
+"model": "E15_snowy_rock_1",
+"x": 1443.05,
+"z": -1132.56,
+"rot": 286.8,
+"group": "IceRocks",
+"scale": 1.358
+},
+{
+"model": "E16_snowy_rock_2",
+"x": 1554.1,
+"z": -1075.19,
+"rot": 198.4,
+"group": "IceRocks",
+"scale": 1.728
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1533.16,
+"z": -1067.58,
+"rot": 13.3,
+"group": "IceRocks",
+"scale": 2.036
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1543.76,
+"z": -1041.05,
+"rot": 13.2,
+"group": "IceRocks",
+"scale": 1.55
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1554.22,
+"z": -1158.34,
+"rot": 267.4,
+"group": "IceRocks",
+"scale": 1.408
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1512.75,
+"z": -1045.56,
+"rot": 140.1,
+"group": "IceRocks",
+"scale": 2.018
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1638.87,
+"z": -1080.81,
+"rot": 56.8,
+"group": "IceRocks",
+"scale": 2.088
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1567.06,
+"z": -1055.63,
+"rot": 150.6,
+"group": "IceRocks",
+"scale": 1.528
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1573.6,
+"z": -1125.78,
+"rot": 23.9,
+"group": "IceRocks",
+"scale": 1.732
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1367.47,
+"z": -1073.5,
+"rot": 233.9,
+"group": "IceRocks",
+"scale": 1.504
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1521.91,
+"z": -1101.29,
+"rot": 54.5,
+"group": "IceRocks",
+"scale": 2.073
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1594.83,
+"z": -1088.79,
+"rot": 110.9,
+"group": "IceRocks",
+"scale": 1.903
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1528.52,
+"z": -1053.26,
+"rot": 178.5,
+"group": "IceRocks",
+"scale": 1.621
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1531.88,
+"z": -1136.23,
+"rot": 220.6,
+"group": "IceRocks",
+"scale": 1.917
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1473.0,
+"z": -1121.84,
+"rot": 135.7,
+"group": "IceRocks",
+"scale": 1.942
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1486.37,
+"z": -1064.84,
+"rot": 42.2,
+"group": "IceRocks",
+"scale": 1.722
+},
+{
+"model": "E13_snowy_pine_2",
+"x": 1339.17,
+"z": -1034.31,
+"rot": 155.9,
+"group": "RimPines",
+"scale": 1.165
+},
+{
+"model": "A64_cliff_3",
+"x": 1417,
+"z": -985.35,
+"rot": 90,
+"group": "RimWall",
+"scale": 1.414
+},
+{
+"model": "E16_snowy_rock_2",
+"x": 1434,
+"z": -986.97,
+"rot": 270,
+"group": "RimWall",
+"scale": 1.385
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1402.01,
+"z": -990,
+"rot": 0,
+"group": "RimWall",
+"scale": 1.425
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1416.96,
+"z": -990,
+"rot": 0,
+"group": "RimWall",
+"scale": 1.591
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1432.38,
+"z": -990,
+"rot": 0,
+"group": "RimWall",
+"scale": 1.491
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1449.52,
+"z": -990,
+"rot": 0,
+"group": "RimWall",
+"scale": 1.549
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1460.86,
+"z": -990,
+"rot": 0,
+"group": "RimWall",
+"scale": 1.676
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1473.31,
+"z": -990,
+"rot": 0,
+"group": "RimWall",
+"scale": 1.991
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1489.75,
+"z": -990,
+"rot": 0,
+"group": "RimWall",
+"scale": 1.907
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1501.85,
+"z": -990,
+"rot": 0,
+"group": "RimWall",
+"scale": 1.804
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1517.56,
+"z": -990,
+"rot": 0,
+"group": "RimWall",
+"scale": 2.128
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1533.49,
+"z": -990,
+"rot": 0,
+"group": "RimWall",
+"scale": 1.668
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1547.15,
+"z": -990,
+"rot": 0,
+"group": "RimWall",
+"scale": 1.635
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1557.5,
+"z": -990,
+"rot": 0,
+"group": "RimWall",
+"scale": 1.523
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1571.87,
+"z": -990,
+"rot": 0,
+"group": "RimWall",
+"scale": 2.174
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1589.98,
+"z": -990,
+"rot": 0,
+"group": "RimWall",
+"scale": 2.225
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1603.79,
+"z": -990,
+"rot": 0,
+"group": "RimWall",
+"scale": 1.448
+},
+{
+"model": "E26_icicle_cluster",
+"x": 1614.32,
+"z": -990,
+"rot": 0,
+"group": "RimWall",
+"scale": 2.31
+}
+]
+}

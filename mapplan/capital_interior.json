@@ -1,0 +1,155 @@
+﻿{
+    "terrain":  [
+
+                ],
+    "placements":  [
+                       {
+                           "model":  "D06_altar",
+                           "x":  -176,
+                           "z":  -2680,
+                           "rot":  90,
+                           "group":  "CathedralInterior2"
+                       },
+                       {
+                           "model":  "D08_pipe_organ",
+                           "x":  -184,
+                           "z":  -2667,
+                           "rot":  90,
+                           "group":  "CathedralInterior2"
+                       },
+                       {
+                           "model":  "D07_pulpit",
+                           "x":  -168,
+                           "z":  -2694,
+                           "rot":  90,
+                           "group":  "CathedralInterior2"
+                       },
+                       {
+                           "model":  "D09_candle_stand",
+                           "x":  -174,
+                           "z":  -2689,
+                           "rot":  90,
+                           "group":  "CathedralInterior2"
+                       },
+                       {
+                           "model":  "D09_candle_stand",
+                           "x":  -174,
+                           "z":  -2671,
+                           "rot":  90,
+                           "group":  "CathedralInterior2"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  -164,
+                           "z":  -2688,
+                           "rot":  270,
+                           "group":  "CathedralPews"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  -164,
+                           "z":  -2672,
+                           "rot":  270,
+                           "group":  "CathedralPews"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  -158.5,
+                           "z":  -2688,
+                           "rot":  270,
+                           "group":  "CathedralPews"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  -158.5,
+                           "z":  -2672,
+                           "rot":  270,
+                           "group":  "CathedralPews"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  -153,
+                           "z":  -2688,
+                           "rot":  270,
+                           "group":  "CathedralPews"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  -153,
+                           "z":  -2672,
+                           "rot":  270,
+                           "group":  "CathedralPews"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  -147.5,
+                           "z":  -2688,
+                           "rot":  270,
+                           "group":  "CathedralPews"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  -147.5,
+                           "z":  -2672,
+                           "rot":  270,
+                           "group":  "CathedralPews"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  -142,
+                           "z":  -2688,
+                           "rot":  270,
+                           "group":  "CathedralPews"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  -142,
+                           "z":  -2672,
+                           "rot":  270,
+                           "group":  "CathedralPews"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  -136.5,
+                           "z":  -2688,
+                           "rot":  270,
+                           "group":  "CathedralPews"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  -136.5,
+                           "z":  -2672,
+                           "rot":  270,
+                           "group":  "CathedralPews"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  -131,
+                           "z":  -2688,
+                           "rot":  270,
+                           "group":  "CathedralPews"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  -131,
+                           "z":  -2672,
+                           "rot":  270,
+                           "group":  "CathedralPews"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  -125.5,
+                           "z":  -2688,
+                           "rot":  270,
+                           "group":  "CathedralPews"
+                       },
+                       {
+                           "model":  "D05_pew",
+                           "x":  -125.5,
+                           "z":  -2672,
+                           "rot":  270,
+                           "group":  "CathedralPews"
+                       }
+                   ],
+    "area":  "capital_interior"
+}
